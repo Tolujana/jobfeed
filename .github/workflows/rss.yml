@@ -2,31 +2,34 @@ name: Generate RSS Feed
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 20
 
       - name: Install dependencies
         run: npm install
 
-      - name: Run feed generator
+      - name: Run RSS generator
         run: node generateRSS.js
 
-      - name: Push changes
+      - name: Commit and push updated feeds
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add feeds/mergedFeed.json seenKeywords.json
-          git commit -m "Update merged feed"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add cache/*.json seenKeywords.json mergedFeed.json
+          git commit -m "Update RSS feeds and cache files" || echo "No changes to commit"
           git push

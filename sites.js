@@ -6,7 +6,7 @@ module.exports = [
     imageSelector: ".article-image img",
     keywordRegex: /(?<=\bat\s)(.*)/,
     linkSelector: "div.panel-body h2 a",
-    contentSelector: "main-content-section", // OR: "REGEX:<div class=\"job-desc\">([\\s\\S]*?)</div>"
+    contentSelector: ".main-content-section .clear-fix", // OR: "REGEX:<div class=\"job-desc\">([\\s\\S]*?)</div>"
 
     fakeFeed: [
       { title: "BigTech Inc launches new product", link: "https://example.com/1" },

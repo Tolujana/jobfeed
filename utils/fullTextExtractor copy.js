@@ -1,5 +1,5 @@
+// fullTextExtractor.js
 const fetch = require("./fetchWrapper.mjs").default;
-const cheerio = require("cheerio");
 
 async function fetchFullArticle(url, site) {
   try {
@@ -7,41 +7,39 @@ async function fetchFullArticle(url, site) {
     const html = await res.text();
 
     let articleContent = "";
+    let match = null;
 
     if (site.contentSelector) {
       if (site.contentSelector.startsWith("REGEX:")) {
-        // Use RegEx manually
         const regexString = site.contentSelector.replace("REGEX:", "");
         const customRegex = new RegExp(regexString, "i");
-        const match = html.match(customRegex);
+        match = html.match(customRegex);
         if (match && match[1]) {
           articleContent = match[1].replace(/<[^>]+>/g, " ").trim();
-          return articleContent;
         }
       } else {
-        // Use cheerio for class or tag selector
-        const $ = cheerio.load(html);
-        const selected = $(site.contentSelector);
-
-        if (selected.length > 0) {
-          articleContent = selected
-            .map((_, el) => $(el).text())
-            .get()
-            .join(" ")
-            .trim();
-          return articleContent;
+        // Basic HTML tag selector fallback
+        const tag = site.contentSelector;
+        const tagRegex = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag.split(" ")[0]}>`, "i");
+        match = html.match(tagRegex);
+        if (match && match[1]) {
+          articleContent = match[1].replace(/<[^>]+>/g, " ").trim();
         }
       }
     }
 
-    // Fallback to <body> content stripped of HTML tags
-    const $ = cheerio.load(html);
-    const bodyText = $("body").text().trim();
-    return bodyText;
+    if (articleContent) return articleContent;
+
+    // Fallback: remove tags from <body>
+    const bodyMatch = html.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
+    if (bodyMatch) {
+      return bodyMatch[1].replace(/<[^>]+>/g, " ").trim();
+    }
   } catch (e) {
     console.warn("Failed to fetch full article:", e.message);
-    return "";
   }
+
+  return "";
 }
 
 module.exports = fetchFullArticle;
