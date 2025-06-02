@@ -12,6 +12,11 @@
       "site": "Example Site",
       "id": "7404dab744617c4e005220b8b2608298",
       "timestamp": 1748869291184
+    },
+    {
+      "site": "JobGurus",
+      "id": "7404dab744617c4e005220b8b2608298",
+      "timestamp": 1748900381675
     }
   ],
   "excel and grace consulting": [
@@ -19,6 +24,11 @@
       "site": "Example Site",
       "id": "f1167244121b741022b43c1a62c1b5b7",
       "timestamp": 1748869291184
+    },
+    {
+      "site": "JobGurus",
+      "id": "f1167244121b741022b43c1a62c1b5b7",
+      "timestamp": 1748900381675
     }
   ],
   "amecron nigeria limited": [
@@ -31,6 +41,11 @@
       "site": "Example Site",
       "id": "215afdcaaf6cbc45fbfeb4bc9b30a6f5",
       "timestamp": 1748870501361
+    },
+    {
+      "site": "JobGurus",
+      "id": "54f9211cf528b0b0c75d8628cb192dd2",
+      "timestamp": 1748900381675
     }
   ],
   "dag industries nigeria limited": [
@@ -43,6 +58,11 @@
       "site": "Example Site",
       "id": "c65f9e18aef5d89c2e2e023fca7d8852",
       "timestamp": 1748869291184
+    },
+    {
+      "site": "JobGurus",
+      "id": "b9a47fc979a105fa178c0a6ff600196f",
+      "timestamp": 1748900381675
     }
   ],
   "compovine technologies limited": [
@@ -261,6 +281,13 @@
       "site": "JobGurus",
       "id": "5b2900fadeb1b48ff02bfbfad518ee33",
       "timestamp": 1748898922757
+    }
+  ],
+  "trinity financial": [
+    {
+      "site": "JobGurus",
+      "id": "5e73ed1ec7dbbb5ca3151fdfab92fc38",
+      "timestamp": 1748900381675
     }
   ]
 }
