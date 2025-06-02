@@ -1,17 +1,12 @@
 module.exports = [
   {
-    name: "Example Site",
+    name: "JobGurus",
     url: "https://www.jobgurus.com.ng/jobs",
     defaultImage: "https://www.jobgurus.com.ng/assets/img/logo.png",
     imageSelector: ".article-image img",
     keywordRegex: /(?<=\bat\s)(.*)/,
     linkSelector: "div.panel-body h2 a",
-    contentSelector: ".main-content-section .clear-fix", // OR: "REGEX:<div class=\"job-desc\">([\\s\\S]*?)</div>"
-
-    fakeFeed: [
-      { title: "BigTech Inc launches new product", link: "https://example.com/1" },
-      { title: "OldNews Inc does something", link: "https://example.com/2" },
-    ],
+    contentSelector: "#content_area .main-content-section > div:nth-child(2)", // OR: "REGEX:<div class=\"job-desc\">([\\s\\S]*?)</div>"
   },
   {
     name: "Example Site333",
