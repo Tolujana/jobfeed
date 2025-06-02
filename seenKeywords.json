@@ -183,6 +183,11 @@
       "site": "JobGurus",
       "id": "a3471bd8a4afa1eff4b0e0db8addc9bf",
       "timestamp": 1748893788721
+    },
+    {
+      "site": "JobGurus",
+      "id": "65fb4b0588b366367499f72e0d6f5878",
+      "timestamp": 1748897149712
     }
   ],
   "o j wale pillars metal and tech limited": [
@@ -195,6 +200,32 @@
       "site": "JobGurus",
       "id": "dba95c7fce4dc2439d67fbb0a7e3eaa3",
       "timestamp": 1748893788721
+    }
+  ],
+  "pg consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "312ee8c77f43addb3dde253229d1f082",
+      "timestamp": 1748897149712
+    },
+    {
+      "site": "JobGurus",
+      "id": "9ab3a3fe4117381d94e487fd49780f1e",
+      "timestamp": 1748897149712
+    }
+  ],
+  "xora technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "2e7a37330b3ee4e6b30133f2f043a561",
+      "timestamp": 1748897149712
+    }
+  ],
+  "outcess solutions nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "3e70d0a22d62764af41faa0b4b89d3c8",
+      "timestamp": 1748897149712
     }
   ]
 }
