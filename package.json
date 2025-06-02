@@ -1,0 +1,28 @@
+{
+  "name": "jobfeed",
+  "version": "1.0.0",
+  "main": "classifySpecialization.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolujana/jobfeed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tolujana/jobfeed/issues"
+  },
+  "homepage": "https://github.com/Tolujana/jobfeed#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0",
+    "jsdom": "^26.1.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.0.1",
+    "rss-parser": "^3.13.0"
+  }
+}
