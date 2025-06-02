@@ -84,11 +84,16 @@ const generateId = (title, link) =>
         // Store seen keyword entry
         if (!seenKeywords[keyword]) seenKeywords[keyword] = [];
 
-        seenKeywords[keyword].push({
-          site: site.name,
-          id: articleId,
-          timestamp: now,
-        });
+        if (
+          keyword &&
+          !seenKeywords[keyword].some((entry) => entry.id === articleId && entry.site === site.name)
+        ) {
+          seenKeywords[keyword].push({
+            site: site.name,
+            id: articleId,
+            timestamp: now,
+          });
+        }
       }
     } catch (e) {
       console.error(`Failed to process site ${site.name}:`, e.message);
