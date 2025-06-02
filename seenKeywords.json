@@ -227,5 +227,40 @@
       "id": "3e70d0a22d62764af41faa0b4b89d3c8",
       "timestamp": 1748897149712
     }
+  ],
+  "sap nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "0ba73325a3a3317236ad048df367b188",
+      "timestamp": 1748898922757
+    }
+  ],
+  "choice talents ng": [
+    {
+      "site": "JobGurus",
+      "id": "9da9ea3b2985b8c4977e18f95c68f7af",
+      "timestamp": 1748898922757
+    }
+  ],
+  "greengrass investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "6be9f53dd12786784ab3e31c230dc621",
+      "timestamp": 1748898922757
+    }
+  ],
+  "promasidor": [
+    {
+      "site": "JobGurus",
+      "id": "75dbe25cfdf68914b3f3d7345f68fc51",
+      "timestamp": 1748898922757
+    }
+  ],
+  "jc international": [
+    {
+      "site": "JobGurus",
+      "id": "5b2900fadeb1b48ff02bfbfad518ee33",
+      "timestamp": 1748898922757
+    }
   ]
 }
