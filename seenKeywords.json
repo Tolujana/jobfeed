@@ -330,6 +330,11 @@
       "site": "JobGurus",
       "id": "adc3d390e9eb06bda12cfd40da53c83e",
       "timestamp": 1748943708802
+    },
+    {
+      "site": "JobGurus",
+      "id": "3b7d354b4d7a422de34c89e981f2e3d3",
+      "timestamp": 1748945837932
     }
   ],
   "lacare staffing solutions": [
@@ -351,6 +356,34 @@
       "site": "JobGurus",
       "id": "a789f9f81aa317cb3b8ce083d604d471",
       "timestamp": 1748943708802
+    }
+  ],
+  "hea group": [
+    {
+      "site": "JobGurus",
+      "id": "ad8359c54f2814e05153c721494cbe48",
+      "timestamp": 1748945837932
+    }
+  ],
+  "femaus consults": [
+    {
+      "site": "JobGurus",
+      "id": "db16f6abf3f28a20d97b831699c91444",
+      "timestamp": 1748945837932
+    }
+  ],
+  "mshel homes limited": [
+    {
+      "site": "JobGurus",
+      "id": "585a27aa47bc61e4e9d80efe025485ea",
+      "timestamp": 1748945837932
+    }
+  ],
+  "dana group": [
+    {
+      "site": "JobGurus",
+      "id": "97d1c1589c00466d6d63d374482fd5ba",
+      "timestamp": 1748945837932
     }
   ]
 }
