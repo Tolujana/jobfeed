@@ -29,6 +29,11 @@
       "site": "JobGurus",
       "id": "f1167244121b741022b43c1a62c1b5b7",
       "timestamp": 1748900381675
+    },
+    {
+      "site": "JobGurus",
+      "id": "887d4531103baa2671ea09fc3ee66bd3",
+      "timestamp": 1748953945393
     }
   ],
   "amecron nigeria limited": [
@@ -471,6 +476,34 @@
       "site": "JobGurus",
       "id": "cff0c3cd10eca078881f7120499cd828",
       "timestamp": 1748950619805
+    }
+  ],
+  "pruvia integrated limited": [
+    {
+      "site": "JobGurus",
+      "id": "ea0a89865aff3c750da86cdd5af94b9b",
+      "timestamp": 1748953945393
+    }
+  ],
+  "cig motors co. limited": [
+    {
+      "site": "JobGurus",
+      "id": "cfa0ff6ed8980584493041d4aa3b0183",
+      "timestamp": 1748953945393
+    }
+  ],
+  "first excelsia professional services limited": [
+    {
+      "site": "JobGurus",
+      "id": "e7d949be26c87167e798ae6956a61540",
+      "timestamp": 1748953945393
+    }
+  ],
+  "universal human resource consult": [
+    {
+      "site": "JobGurus",
+      "id": "6e0d8eeabb5e72cb1349e21e4df4b26d",
+      "timestamp": 1748953945393
     }
   ]
 }
