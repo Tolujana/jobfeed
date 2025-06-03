@@ -385,5 +385,24 @@
       "id": "97d1c1589c00466d6d63d374482fd5ba",
       "timestamp": 1748945837932
     }
+  ],
+  "raphael group": [
+    {
+      "site": "JobGurus",
+      "id": "077f95cfe54ed621525128e7b9ff5698",
+      "timestamp": 1748947530707
+    },
+    {
+      "site": "JobGurus",
+      "id": "12ebd66f5c0b0127c192dac3b5471e88",
+      "timestamp": 1748947530707
+    }
+  ],
+  "debmyk consult": [
+    {
+      "site": "JobGurus",
+      "id": "a3129d3f7795ec4a6919e7c379186b1e",
+      "timestamp": 1748947530707
+    }
   ]
 }
