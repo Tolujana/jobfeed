@@ -317,5 +317,40 @@
       "id": "2bbc4d9091e345a4bec1f5f4f5449d4e",
       "timestamp": 1748942241466
     }
+  ],
+  "ziba consulting": [
+    {
+      "site": "JobGurus",
+      "id": "e0ecf183c7fc8235e6cb70f1a99aa087",
+      "timestamp": 1748943708802
+    }
+  ],
+  "castville solutions": [
+    {
+      "site": "JobGurus",
+      "id": "adc3d390e9eb06bda12cfd40da53c83e",
+      "timestamp": 1748943708802
+    }
+  ],
+  "lacare staffing solutions": [
+    {
+      "site": "JobGurus",
+      "id": "97465f8fa4327431e4b1f6bde8bfb075",
+      "timestamp": 1748943708802
+    }
+  ],
+  "wandel international": [
+    {
+      "site": "JobGurus",
+      "id": "59db9c931fd17570101ee70af8de9dc4",
+      "timestamp": 1748943708802
+    }
+  ],
+  "airtel nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "a789f9f81aa317cb3b8ce083d604d471",
+      "timestamp": 1748943708802
+    }
   ]
 }
