@@ -543,5 +543,31 @@
       "id": "bfbae501f6947b48480f5c7fcb5e66cf",
       "timestamp": 1748958720164
     }
+  ],
+  "abbfem group": [
+    {
+      "site": "JobGurus",
+      "id": "b0ac0096c8c3f2bf4c09f9350273e607",
+      "timestamp": 1748960171254
+    }
+  ],
+  "eshopafrica logistics": [
+    {
+      "site": "JobGurus",
+      "id": "90cd17f6cff470587b4fd3ee0f62a270",
+      "timestamp": 1748960171254
+    }
+  ],
+  "renmoney": [
+    {
+      "site": "JobGurus",
+      "id": "ae4334f09e15827ad57a7173a87b55a3",
+      "timestamp": 1748960171254
+    },
+    {
+      "site": "JobGurus",
+      "id": "358a28523dd8e4b729dcff542ca57cf4",
+      "timestamp": 1748960171254
+    }
   ]
 }
