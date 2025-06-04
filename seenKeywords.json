@@ -759,6 +759,16 @@
       "site": "JobGurus",
       "id": "7878692808dff997082196bec88db70e",
       "timestamp": 1749046391159
+    },
+    {
+      "site": "JobGurus",
+      "id": "2781236d9f5294c4531200dfa0785204",
+      "timestamp": 1749053849200
+    },
+    {
+      "site": "JobGurus",
+      "id": "15a55a4f698a25cf5f1b68088c31b5a1",
+      "timestamp": 1749053849200
     }
   ],
   "pennek nigeria limited": [
@@ -822,6 +832,27 @@
       "site": "JobGurus",
       "id": "2ec78b2cf5ed8105978589da6a9924ec",
       "timestamp": 1749052478703
+    }
+  ],
+  "zigma limited": [
+    {
+      "site": "JobGurus",
+      "id": "459aa10e4725a92abff9618cb1b00135",
+      "timestamp": 1749053849200
+    }
+  ],
+  "bat computer technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "900eb3d66bbfbae25116069d399848d5",
+      "timestamp": 1749053849200
+    }
+  ],
+  "bolton white group": [
+    {
+      "site": "JobGurus",
+      "id": "a697b9809327e8713a0798f65da13d19",
+      "timestamp": 1749053849200
     }
   ]
 }
