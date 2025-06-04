@@ -542,6 +542,11 @@
       "site": "JobGurus",
       "id": "bfbae501f6947b48480f5c7fcb5e66cf",
       "timestamp": 1748958720164
+    },
+    {
+      "site": "JobGurus",
+      "id": "32c64210b60e173f4cffaa53866fa89d",
+      "timestamp": 1749037075571
     }
   ],
   "abbfem group": [
@@ -653,6 +658,34 @@
       "site": "JobGurus",
       "id": "dcb74c25074c31e01d57bbfc999e6cb8",
       "timestamp": 1749035609906
+    }
+  ],
+  "julius berger nigeria plc": [
+    {
+      "site": "JobGurus",
+      "id": "3336428682307fe8e5b41ebc3f7be975",
+      "timestamp": 1749037075571
+    }
+  ],
+  "estrada international staffing solutions": [
+    {
+      "site": "JobGurus",
+      "id": "e2761ea65d05c389ec96956ceabfa815",
+      "timestamp": 1749037075571
+    }
+  ],
+  "startup soar": [
+    {
+      "site": "JobGurus",
+      "id": "cd9b23cbb02cb5a3ee69e201bb36ff36",
+      "timestamp": 1749037075571
+    }
+  ],
+  "ouranos technologies (ouranos)": [
+    {
+      "site": "JobGurus",
+      "id": "02ea40322b7d547ac4388d2064c956f6",
+      "timestamp": 1749037075571
     }
   ]
 }
