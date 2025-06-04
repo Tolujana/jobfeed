@@ -687,5 +687,36 @@
       "id": "02ea40322b7d547ac4388d2064c956f6",
       "timestamp": 1749037075571
     }
+  ],
+  "salpha energy limited": [
+    {
+      "site": "JobGurus",
+      "id": "d61a83c7932b3472106e284df20698e7",
+      "timestamp": 1749040343659
+    },
+    {
+      "site": "JobGurus",
+      "id": "5d81724223f0df1a2267d9f3b207f491",
+      "timestamp": 1749040343659
+    },
+    {
+      "site": "JobGurus",
+      "id": "e6f38814724a74e92ad2b44c3570111b",
+      "timestamp": 1749040343659
+    }
+  ],
+  "greensprings school": [
+    {
+      "site": "JobGurus",
+      "id": "a3c143a6324c385bee1976b6198a1fee",
+      "timestamp": 1749040343659
+    }
+  ],
+  "equinix": [
+    {
+      "site": "JobGurus",
+      "id": "e9a6c303e1698f5ffe35be3217bc285b",
+      "timestamp": 1749040343659
+    }
   ]
 }
