@@ -1096,6 +1096,11 @@
       "site": "JobGurus",
       "id": "190a3a32e183eb0097db86efb4637493",
       "timestamp": 1749140384377
+    },
+    {
+      "site": "JobGurus",
+      "id": "4959bc162090f8e386cf2446fcf949f3",
+      "timestamp": 1749143492661
     }
   ],
   "u connect human resources limited": [
@@ -1131,6 +1136,27 @@
       "site": "JobGurus",
       "id": "d0abce9d8999ff08de0e4295e8b88589",
       "timestamp": 1749142001349
+    }
+  ],
+  "ei global": [
+    {
+      "site": "JobGurus",
+      "id": "21c82245fe5daaa48538ee929b336b53",
+      "timestamp": 1749143492661
+    }
+  ],
+  "lmv nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "d486cbdbb595d91ccf52979942627687",
+      "timestamp": 1749143492661
+    }
+  ],
+  "yinson holdings berhad": [
+    {
+      "site": "JobGurus",
+      "id": "4c8e248402f57470d76de3b0552dc1ef",
+      "timestamp": 1749143492661
     }
   ]
 }
