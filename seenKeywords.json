@@ -888,6 +888,11 @@
       "site": "JobGurus",
       "id": "830c72243e4daa9cc4ca94271572e311",
       "timestamp": 1749120343530
+    },
+    {
+      "site": "JobGurus",
+      "id": "dc3f29cfec69c0c4ca55620d20dc06d1",
+      "timestamp": 1749123428585
     }
   ],
   "jameda concepts": [
@@ -916,6 +921,34 @@
       "site": "JobGurus",
       "id": "eb1911c1eb2ef6c932b7079e7fec6e3d",
       "timestamp": 1749122038903
+    }
+  ],
+  "powered by health initiative": [
+    {
+      "site": "JobGurus",
+      "id": "014a43ef6a16aa8bb169bec7cc73a50f",
+      "timestamp": 1749123428585
+    }
+  ],
+  "west africa vocational education (wave)": [
+    {
+      "site": "JobGurus",
+      "id": "f8ff256f2c61a64871bdf1057e6bd4fd",
+      "timestamp": 1749123428585
+    }
+  ],
+  "skylight professional services and partners": [
+    {
+      "site": "JobGurus",
+      "id": "2c67878011475a126f45aaf142df1d2f",
+      "timestamp": 1749123428585
+    }
+  ],
+  "workforce group": [
+    {
+      "site": "JobGurus",
+      "id": "01c24157a18614dcb174f4291da423fe",
+      "timestamp": 1749123428585
     }
   ]
 }
