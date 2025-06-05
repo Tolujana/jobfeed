@@ -1003,6 +1003,11 @@
       "site": "JobGurus",
       "id": "7f2a8d0de1243b5e42042dac8a4406ff",
       "timestamp": 1749130137286
+    },
+    {
+      "site": "JobGurus",
+      "id": "fee56965b957199ba3c53e896f324bbc",
+      "timestamp": 1749131423315
     }
   ],
   "revent technologies limited": [
@@ -1015,6 +1020,34 @@
       "site": "JobGurus",
       "id": "dc254a194c72222528e5643253996e76",
       "timestamp": 1749130137286
+    }
+  ],
+  "ecobank nigeria plc": [
+    {
+      "site": "JobGurus",
+      "id": "45a3d58a9a2e2205c82616263d210739",
+      "timestamp": 1749131423315
+    }
+  ],
+  "one trust asset management company": [
+    {
+      "site": "JobGurus",
+      "id": "a670c0badf48e5b25a1619d7a0fa109e",
+      "timestamp": 1749131423315
+    }
+  ],
+  "trident microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "31a28ed4ede1272a4dc30a4c5fb80f73",
+      "timestamp": 1749131423315
+    }
+  ],
+  "palmpay": [
+    {
+      "site": "JobGurus",
+      "id": "934fa216a6b89044c33a12fdf4ffc82f",
+      "timestamp": 1749131423315
     }
   ]
 }
