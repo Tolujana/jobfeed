@@ -982,6 +982,11 @@
       "site": "JobGurus",
       "id": "c8d25167a0d66afd8dfc06182036ee4f",
       "timestamp": 1749126736406
+    },
+    {
+      "site": "JobGurus",
+      "id": "a00e17003ab221e08c268b8cffd74f11",
+      "timestamp": 1749132949537
     }
   ],
   "brenhazy limited": [
@@ -1048,6 +1053,32 @@
       "site": "JobGurus",
       "id": "934fa216a6b89044c33a12fdf4ffc82f",
       "timestamp": 1749131423315
+    }
+  ],
+  "elizabeth maddeux limited": [
+    {
+      "site": "JobGurus",
+      "id": "987686d1b95b103edf1a026430b3e200",
+      "timestamp": 1749132949537
+    }
+  ],
+  "cashxpress nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "48111371569e3a8936b61db93f4b3c6e",
+      "timestamp": 1749132949537
+    },
+    {
+      "site": "JobGurus",
+      "id": "a3a749218994f6104f5fa2f48f8c999e",
+      "timestamp": 1749132949537
+    }
+  ],
+  "cobranet limited": [
+    {
+      "site": "JobGurus",
+      "id": "8e37e9c44626d8f92f226d88b47fc029",
+      "timestamp": 1749132949537
     }
   ]
 }
