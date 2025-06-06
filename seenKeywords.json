@@ -172,6 +172,11 @@
       "site": "JobGurus",
       "id": "b33c1cb0bb83f4fd24e6363e8ee67d2a",
       "timestamp": 1749217687942
+    },
+    {
+      "site": "JobGurus",
+      "id": "ab1a025c31b324a7901bec1ceb5aa9ad",
+      "timestamp": 1749219313400
     }
   ],
   "cway group": [
@@ -1109,6 +1114,11 @@
       "site": "JobGurus",
       "id": "8e37e9c44626d8f92f226d88b47fc029",
       "timestamp": 1749132949537
+    },
+    {
+      "site": "JobGurus",
+      "id": "d9898233b07b838e419e8fd342f8774c",
+      "timestamp": 1749219313400
     }
   ],
   "habaripay limited": [
@@ -1346,6 +1356,27 @@
       "site": "JobGurus",
       "id": "585602aa2a314367d5ceb504b94268c9",
       "timestamp": 1749217687942
+    }
+  ],
+  "jtech global resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "15b428f937f51f04c47e5ea77368994a",
+      "timestamp": 1749219313400
+    }
+  ],
+  "première urgence internationale": [
+    {
+      "site": "JobGurus",
+      "id": "63e1e0d851fe02374bea6b219e39b50f",
+      "timestamp": 1749219313400
+    }
+  ],
+  "techdoctorinnovations": [
+    {
+      "site": "JobGurus",
+      "id": "6685bc0a1c0d3a5cc3d2bed82cdd33d3",
+      "timestamp": 1749219313400
     }
   ]
 }
