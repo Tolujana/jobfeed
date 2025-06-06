@@ -162,6 +162,11 @@
       "site": "JobGurus",
       "id": "ed021726df1a03209ab5850fd1887342",
       "timestamp": 1748949214016
+    },
+    {
+      "site": "JobGurus",
+      "id": "588752c5dca4899706ac3b4253acdfab",
+      "timestamp": 1749216438631
     }
   ],
   "cway group": [
@@ -1289,6 +1294,34 @@
       "site": "JobGurus",
       "id": "899f75193fe676449ce08bce964eee36",
       "timestamp": 1749213068863
+    }
+  ],
+  "uber": [
+    {
+      "site": "JobGurus",
+      "id": "2ebcd4f66238fdb1df99f038e809e9af",
+      "timestamp": 1749216438631
+    }
+  ],
+  "telnyx": [
+    {
+      "site": "JobGurus",
+      "id": "c574c087b4fd6fef6c887eb1f640df99",
+      "timestamp": 1749216438631
+    }
+  ],
+  "st. dominic catholic hospital": [
+    {
+      "site": "JobGurus",
+      "id": "862250eedccd9b041507f08c4fd28bd1",
+      "timestamp": 1749216438631
+    }
+  ],
+  "lifebank": [
+    {
+      "site": "JobGurus",
+      "id": "a93716aeeb4880bb747182aef70882c3",
+      "timestamp": 1749216438631
     }
   ]
 }
