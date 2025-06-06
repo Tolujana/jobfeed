@@ -1180,6 +1180,11 @@
       "site": "JobGurus",
       "id": "d486cbdbb595d91ccf52979942627687",
       "timestamp": 1749143492661
+    },
+    {
+      "site": "JobGurus",
+      "id": "5ac3f548be3b37fe000e6e5cba232418",
+      "timestamp": 1749226799016
     }
   ],
   "yinson holdings berhad": [
@@ -1424,6 +1429,18 @@
       "site": "JobGurus",
       "id": "df9f080aa93c6c524589c38089f12073",
       "timestamp": 1749224357956
+    }
+  ],
+  "fairmoney": [
+    {
+      "site": "JobGurus",
+      "id": "5e5fb5384c4e189a6ce87f8533f1d661",
+      "timestamp": 1749226799016
+    },
+    {
+      "site": "JobGurus",
+      "id": "1aaa01bda8c08f4dd5cd40dc917b473e",
+      "timestamp": 1749226799016
     }
   ]
 }
