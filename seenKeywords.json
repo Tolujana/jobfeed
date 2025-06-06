@@ -1255,5 +1255,40 @@
       "id": "eee97216b2f165744c054db3361b2a98",
       "timestamp": 1749209826517
     }
+  ],
+  "bic nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "cb25efe7c2394bd0ca3830e660708a38",
+      "timestamp": 1749213068863
+    }
+  ],
+  "handyman daige properties": [
+    {
+      "site": "JobGurus",
+      "id": "b78d1f07e7af6c112dee1ea9d62ea718",
+      "timestamp": 1749213068863
+    }
+  ],
+  "catalyst path consulting": [
+    {
+      "site": "JobGurus",
+      "id": "d363d55cb8253c3be84363fb7eb65a1f",
+      "timestamp": 1749213068863
+    }
+  ],
+  "jtechtrade": [
+    {
+      "site": "JobGurus",
+      "id": "ca2b254b67e5e035c9c4091f0ae31411",
+      "timestamp": 1749213068863
+    }
+  ],
+  "vi-m professional solutions": [
+    {
+      "site": "JobGurus",
+      "id": "899f75193fe676449ce08bce964eee36",
+      "timestamp": 1749213068863
+    }
   ]
 }
