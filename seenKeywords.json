@@ -338,6 +338,11 @@
       "site": "JobGurus",
       "id": "21455f9c896abc460f0341b1a89ef152",
       "timestamp": 1748958720164
+    },
+    {
+      "site": "JobGurus",
+      "id": "a747000052bc5b90a50b78aefe4ab00c",
+      "timestamp": 1749205038137
     }
   ],
   "castville solutions": [
@@ -1157,6 +1162,32 @@
       "site": "JobGurus",
       "id": "4c8e248402f57470d76de3b0552dc1ef",
       "timestamp": 1749143492661
+    }
+  ],
+  "barnksforte group limited": [
+    {
+      "site": "JobGurus",
+      "id": "1a3dfd47ee1b10273be7d8ed318c3386",
+      "timestamp": 1749205038137
+    }
+  ],
+  "g-shoppers": [
+    {
+      "site": "JobGurus",
+      "id": "7a65ed99ffa607f757375fd5c934a7ac",
+      "timestamp": 1749205038137
+    },
+    {
+      "site": "JobGurus",
+      "id": "a91f60fb741d0933bdd8d735d12f7143",
+      "timestamp": 1749205038137
+    }
+  ],
+  "c recruite": [
+    {
+      "site": "JobGurus",
+      "id": "ba9fddc3508153627e855b918fd74b5f",
+      "timestamp": 1749205038137
     }
   ]
 }
