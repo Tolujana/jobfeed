@@ -1105,6 +1105,11 @@
       "site": "JobGurus",
       "id": "3f2769f59ec8e2b55ed1e131177f62c0",
       "timestamp": 1749301377036
+    },
+    {
+      "site": "JobGurus",
+      "id": "5c13d7b22c9ec14d38bcdb8f00c9ba47",
+      "timestamp": 1749313036490
     }
   ],
   "cashxpress nigeria limited": [
@@ -1547,6 +1552,11 @@
       "site": "JobGurus",
       "id": "29e97b1eb3d183b46751887a72994f63",
       "timestamp": 1749309254654
+    },
+    {
+      "site": "JobGurus",
+      "id": "b2614335e6738eaed0c250c1a23161a8",
+      "timestamp": 1749313036490
     }
   ],
   "straitpay": [
@@ -1580,6 +1590,25 @@
       "site": "JobGurus",
       "id": "db8598bb609cc6ad710905113f1560f0",
       "timestamp": 1749310682633
+    }
+  ],
+  "portrec resourcing": [
+    {
+      "site": "JobGurus",
+      "id": "c2839d1602f90f46e50ebd3588bc6191",
+      "timestamp": 1749313036490
+    }
+  ],
+  "nine stars limited": [
+    {
+      "site": "JobGurus",
+      "id": "4f665c3459eef993acd336c1e6455084",
+      "timestamp": 1749313036490
+    },
+    {
+      "site": "JobGurus",
+      "id": "3edf5fc057c7de4f54e74df3e121c0e3",
+      "timestamp": 1749313036490
     }
   ]
 }
