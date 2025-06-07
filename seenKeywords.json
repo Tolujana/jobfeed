@@ -1100,6 +1100,11 @@
       "site": "JobGurus",
       "id": "987686d1b95b103edf1a026430b3e200",
       "timestamp": 1749132949537
+    },
+    {
+      "site": "JobGurus",
+      "id": "3f2769f59ec8e2b55ed1e131177f62c0",
+      "timestamp": 1749301377036
     }
   ],
   "cashxpress nigeria limited": [
@@ -1461,6 +1466,13 @@
       "site": "JobGurus",
       "id": "1aaa01bda8c08f4dd5cd40dc917b473e",
       "timestamp": 1749226799016
+    }
+  ],
+  "starich recycling technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "5004fe75c30ce1333fc405e348f49d39",
+      "timestamp": 1749301377036
     }
   ]
 }
