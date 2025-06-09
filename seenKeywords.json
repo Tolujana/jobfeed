@@ -1839,5 +1839,40 @@
       "id": "68762fcebe8ff7d5c01145051c74c193",
       "timestamp": 1749477006596
     }
+  ],
+  "supersaver supermarket": [
+    {
+      "site": "JobGurus",
+      "id": "fa3b4671014def30011da8efa47152b1",
+      "timestamp": 1749482220267
+    }
+  ],
+  "rubels and angels food court": [
+    {
+      "site": "JobGurus",
+      "id": "28bd8b106e42940ab3465af80e10df37",
+      "timestamp": 1749482220267
+    }
+  ],
+  "jmg limited": [
+    {
+      "site": "JobGurus",
+      "id": "fda377ab67053ec41b7ea19da2f983f9",
+      "timestamp": 1749482220267
+    }
+  ],
+  "vet etcetera limited": [
+    {
+      "site": "JobGurus",
+      "id": "4ec9371b61cb20edcb41fff943844307",
+      "timestamp": 1749482220267
+    }
+  ],
+  "the classroom by ultimus": [
+    {
+      "site": "JobGurus",
+      "id": "04d889e6e5f1b82afb6960f9863d746a",
+      "timestamp": 1749482220267
+    }
   ]
 }
