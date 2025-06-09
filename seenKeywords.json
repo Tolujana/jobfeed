@@ -1806,5 +1806,31 @@
       "id": "4377996ecdb022e6c05dd16b24eca355",
       "timestamp": 1749472341027
     }
+  ],
+  "supply chain global services": [
+    {
+      "site": "JobGurus",
+      "id": "0eac2ada3b135728a3097a41f8aca0a4",
+      "timestamp": 1749475739851
+    }
+  ],
+  "loopify": [
+    {
+      "site": "JobGurus",
+      "id": "a22e8955576c458c7d3746aed8fcb692",
+      "timestamp": 1749475739851
+    }
+  ],
+  "icl support services limited": [
+    {
+      "site": "JobGurus",
+      "id": "24a2644857cb601b90ef174f91c660f2",
+      "timestamp": 1749475739851
+    },
+    {
+      "site": "JobGurus",
+      "id": "a7e63a49feb917429177a07681c1bb9f",
+      "timestamp": 1749475739851
+    }
   ]
 }
