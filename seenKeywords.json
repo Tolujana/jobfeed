@@ -1899,6 +1899,11 @@
       "site": "JobGurus",
       "id": "ef8ce70e67b8cee12d3d533e8216a989",
       "timestamp": 1749483692113
+    },
+    {
+      "site": "JobGurus",
+      "id": "11ab65a9ea2cd9c43dbb000e12c03d09",
+      "timestamp": 1749487730658
     }
   ],
   "uptitek limited": [
@@ -1941,6 +1946,20 @@
       "site": "JobGurus",
       "id": "e391659a562cbe790a5af186b297d23a",
       "timestamp": 1749485992778
+    }
+  ],
+  "momsar financial consulting services": [
+    {
+      "site": "JobGurus",
+      "id": "40bc4b1e316b454b2f7554ea3503dacf",
+      "timestamp": 1749487730658
+    }
+  ],
+  "the vault recruitment (tvr)": [
+    {
+      "site": "JobGurus",
+      "id": "b2b3136ae742f08cf95285a71ec4f33d",
+      "timestamp": 1749487730658
     }
   ]
 }
