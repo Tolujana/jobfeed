@@ -34,6 +34,11 @@
       "site": "JobGurus",
       "id": "887d4531103baa2671ea09fc3ee66bd3",
       "timestamp": 1748953945393
+    },
+    {
+      "site": "JobGurus",
+      "id": "720d2fb84c3b8151e420063a6e24fa6c",
+      "timestamp": 1749464257931
     }
   ],
   "amecron nigeria limited": [
@@ -1642,6 +1647,34 @@
       "site": "JobGurus",
       "id": "0eced29e7ac525ef0f8bc054527c4fac",
       "timestamp": 1749462113276
+    }
+  ],
+  "unilever nigeria plc": [
+    {
+      "site": "JobGurus",
+      "id": "36256a7bc5a04bb40ac8e62ab8d366f9",
+      "timestamp": 1749464257931
+    }
+  ],
+  "dp education limited": [
+    {
+      "site": "JobGurus",
+      "id": "24c8ed571c07b22262f654893ddbe461",
+      "timestamp": 1749464257931
+    }
+  ],
+  "folixx hospitality": [
+    {
+      "site": "JobGurus",
+      "id": "0fa384a433d5492eb599abadc2a654c8",
+      "timestamp": 1749464257931
+    }
+  ],
+  "htt football academy": [
+    {
+      "site": "JobGurus",
+      "id": "ee6d9eb3ccde212261c0b74ddebe0aae",
+      "timestamp": 1749464257931
     }
   ]
 }
