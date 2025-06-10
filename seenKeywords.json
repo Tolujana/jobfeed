@@ -2050,5 +2050,40 @@
       "id": "e9b49ec4907086d909d43271d94a5505",
       "timestamp": 1749558768398
     }
+  ],
+  "accor hotels": [
+    {
+      "site": "JobGurus",
+      "id": "0a66469ab59ad29d799ae69e982e9b92",
+      "timestamp": 1749562207903
+    }
+  ],
+  "ariosh limited": [
+    {
+      "site": "JobGurus",
+      "id": "67bbf3e4e040fca9cbcc0461127a89d1",
+      "timestamp": 1749562207903
+    }
+  ],
+  "benmaris limited": [
+    {
+      "site": "JobGurus",
+      "id": "ae4ac066a8adf939a8d0fb59e9d94094",
+      "timestamp": 1749562207903
+    }
+  ],
+  "mediflex industries pvt limited": [
+    {
+      "site": "JobGurus",
+      "id": "110ae5a53798e664b8f6ba1e118116c8",
+      "timestamp": 1749562207903
+    }
+  ],
+  "international rescue committee": [
+    {
+      "site": "JobGurus",
+      "id": "5cdfb9e6b3c238442f9b224f72d3006e",
+      "timestamp": 1749562207903
+    }
   ]
 }
