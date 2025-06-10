@@ -1068,6 +1068,11 @@
       "site": "JobGurus",
       "id": "fee56965b957199ba3c53e896f324bbc",
       "timestamp": 1749131423315
+    },
+    {
+      "site": "JobGurus",
+      "id": "95c87a681d28147d0f3e4bd5f273684a",
+      "timestamp": 1749568634274
     }
   ],
   "revent technologies limited": [
@@ -2185,6 +2190,30 @@
       "site": "JobGurus",
       "id": "acf698fea60648e820055bd311e6e767",
       "timestamp": 1749566629437
+    },
+    {
+      "site": "JobGurus",
+      "id": "284225a6a83c8471cd85568674a99490",
+      "timestamp": 1749568634274
+    },
+    {
+      "site": "JobGurus",
+      "id": "6d7024454d31045d6d04381a9f7b53bb",
+      "timestamp": 1749568634274
+    }
+  ],
+  "la roche equipment nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "b7dde21599ea344fe04d4ebf0329cf5c",
+      "timestamp": 1749568634274
+    }
+  ],
+  "duob recruitment": [
+    {
+      "site": "JobGurus",
+      "id": "70c2afa66acefd6d9b70cea5a31a77e8",
+      "timestamp": 1749568634274
     }
   ]
 }
