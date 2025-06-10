@@ -1871,6 +1871,11 @@
       "site": "JobGurus",
       "id": "4ec9371b61cb20edcb41fff943844307",
       "timestamp": 1749482220267
+    },
+    {
+      "site": "JobGurus",
+      "id": "8577e3c1781fdbe58ef03eb868dc7e08",
+      "timestamp": 1749555430005
     }
   ],
   "the classroom by ultimus": [
@@ -1981,6 +1986,34 @@
       "site": "JobGurus",
       "id": "56f2f72dcf84a2fb4973348a049fe4a8",
       "timestamp": 1749554005092
+    }
+  ],
+  "tnl pharmaceutical company": [
+    {
+      "site": "JobGurus",
+      "id": "b441bbcddba8c3502f6d50c858d1c5ea",
+      "timestamp": 1749555430005
+    }
+  ],
+  "bogo beverage limited": [
+    {
+      "site": "JobGurus",
+      "id": "f6529bee4e551092a2bfe5ef9c01f016",
+      "timestamp": 1749555430005
+    }
+  ],
+  "sterling health hmo": [
+    {
+      "site": "JobGurus",
+      "id": "51bafc3eefe289ae17ca4e3cfb0aea6b",
+      "timestamp": 1749555430005
+    }
+  ],
+  "candel fze": [
+    {
+      "site": "JobGurus",
+      "id": "6bf4b092d860f8545bfad18622a242f9",
+      "timestamp": 1749555430005
     }
   ]
 }
