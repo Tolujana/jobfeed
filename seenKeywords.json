@@ -620,6 +620,11 @@
       "site": "JobGurus",
       "id": "d6456355cced0867e80383671b01bf7b",
       "timestamp": 1749142001349
+    },
+    {
+      "site": "JobGurus",
+      "id": "84f4c55fb06920e99bc396da317e6e5d",
+      "timestamp": 1749566629437
     }
   ],
   "food concepts plc": [
@@ -2152,6 +2157,34 @@
       "site": "JobGurus",
       "id": "1fd693302ba293a05e6d3708cdff567f",
       "timestamp": 1749564959081
+    }
+  ],
+  "davidorlah farms": [
+    {
+      "site": "JobGurus",
+      "id": "b4be9e35cb42157bfb6af0a2db8f78fd",
+      "timestamp": 1749566629437
+    }
+  ],
+  "idyllic technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "cb46f3e53bd8d474bb05f282e629e357",
+      "timestamp": 1749566629437
+    }
+  ],
+  "pennylender": [
+    {
+      "site": "JobGurus",
+      "id": "0378e236f55c7ea047ee034f1891772e",
+      "timestamp": 1749566629437
+    }
+  ],
+  "vista lux hospitality & resorts": [
+    {
+      "site": "JobGurus",
+      "id": "acf698fea60648e820055bd311e6e767",
+      "timestamp": 1749566629437
     }
   ]
 }
