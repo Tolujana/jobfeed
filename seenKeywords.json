@@ -868,6 +868,11 @@
       "site": "JobGurus",
       "id": "53afd8db8ccd15624dbb767245daf949",
       "timestamp": 1749052478703
+    },
+    {
+      "site": "JobGurus",
+      "id": "0c1416707fef5665fc6d4f2fb194de00",
+      "timestamp": 1749637037849
     }
   ],
   "razley print limited": [
@@ -2214,6 +2219,11 @@
       "site": "JobGurus",
       "id": "70c2afa66acefd6d9b70cea5a31a77e8",
       "timestamp": 1749568634274
+    },
+    {
+      "site": "JobGurus",
+      "id": "66c381f5c61a267eebdef0c62f94712c",
+      "timestamp": 1749637037849
     }
   ],
   "speedaf express": [
@@ -2242,6 +2252,27 @@
       "site": "JobGurus",
       "id": "6ac9e971dbcf67c527fde76918305f68",
       "timestamp": 1749634914062
+    }
+  ],
+  "kkon technologies": [
+    {
+      "site": "JobGurus",
+      "id": "6d06f25ef2196d72c40afdf86789f039",
+      "timestamp": 1749637037849
+    }
+  ],
+  "kcl jobs": [
+    {
+      "site": "JobGurus",
+      "id": "1ff218824ff9f42fc2506fd42dd00434",
+      "timestamp": 1749637037849
+    }
+  ],
+  "valency agro nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "87228ba47fdc1c263c5da2d99a66ce0d",
+      "timestamp": 1749637037849
     }
   ]
 }
