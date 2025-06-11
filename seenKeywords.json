@@ -1563,6 +1563,11 @@
       "site": "JobGurus",
       "id": "8882a4497b7326b91a6b3e73bd328b6e",
       "timestamp": 1749307147174
+    },
+    {
+      "site": "JobGurus",
+      "id": "cb46528dbc66ee88d375189481e41b4c",
+      "timestamp": 1749663658845
     }
   ],
   "reliance health": [
@@ -2436,6 +2441,34 @@
       "site": "JobGurus",
       "id": "2aa3d42c61e99785196d149b88ad23be",
       "timestamp": 1749658813331
+    }
+  ],
+  "brainshare technologies & services nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "73e015da4c6c111e418f498ad9d52693",
+      "timestamp": 1749663658845
+    }
+  ],
+  "monument distillers nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "a8ccf5a7830fffb901789da0a1e6bf7d",
+      "timestamp": 1749663658845
+    }
+  ],
+  "dreamcity property & investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "8bfe13047eba0efe9d76dd1561c5e4f6",
+      "timestamp": 1749663658845
+    }
+  ],
+  "sifax group": [
+    {
+      "site": "JobGurus",
+      "id": "23dd4778cc297e04b234d45733e6e4c9",
+      "timestamp": 1749663658845
     }
   ]
 }
