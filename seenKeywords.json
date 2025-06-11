@@ -540,8 +540,8 @@
   "first excelsia professional services limited": [
     {
       "site": "JobGurus",
-      "id": "e7d949be26c87167e798ae6956a61540",
-      "timestamp": 1748953945393
+      "id": "a04324279848ac9b7cfcb9fc2d3a8455",
+      "timestamp": 1749638679723
     }
   ],
   "universal human resource consult": [
@@ -2273,6 +2273,27 @@
       "site": "JobGurus",
       "id": "87228ba47fdc1c263c5da2d99a66ce0d",
       "timestamp": 1749637037849
+    }
+  ],
+  "wetinuneed services limited": [
+    {
+      "site": "JobGurus",
+      "id": "fca2956c2dcab2f9ac3b0c03990722ff",
+      "timestamp": 1749638679723
+    }
+  ],
+  "prince oj global services limited": [
+    {
+      "site": "JobGurus",
+      "id": "d381ebbc2a35f0783b3fe371a4a4af20",
+      "timestamp": 1749638679723
+    }
+  ],
+  "moniepoint": [
+    {
+      "site": "JobGurus",
+      "id": "679d4fac2981742151feb35693d3f0ee",
+      "timestamp": 1749638679723
     }
   ]
 }
