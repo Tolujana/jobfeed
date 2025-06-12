@@ -1329,6 +1329,11 @@
       "site": "JobGurus",
       "id": "eee97216b2f165744c054db3361b2a98",
       "timestamp": 1749209826517
+    },
+    {
+      "site": "JobGurus",
+      "id": "fef520004048ccfa013ca748b2bf8a2d",
+      "timestamp": 1749736248840
     }
   ],
   "bic nigeria": [
@@ -2649,6 +2654,11 @@
       "site": "JobGurus",
       "id": "d3ee840da76e6962e1aaec243ae6d038",
       "timestamp": 1749734976802
+    },
+    {
+      "site": "JobGurus",
+      "id": "675a427f925476ae8ed802f32d1cbe7f",
+      "timestamp": 1749736248840
     }
   ],
   "bafashion": [
@@ -2656,6 +2666,27 @@
       "site": "JobGurus",
       "id": "139e88d5c247d83940473b65998f9179",
       "timestamp": 1749734976802
+    }
+  ],
+  "esv global consults": [
+    {
+      "site": "JobGurus",
+      "id": "250d4c90f6dbee9451d944ee878a7c4a",
+      "timestamp": 1749736248840
+    }
+  ],
+  "stanbic ibtc bank": [
+    {
+      "site": "JobGurus",
+      "id": "16126fbf7b9724999fda800738356f95",
+      "timestamp": 1749736248840
+    }
+  ],
+  "international fertilizer development center": [
+    {
+      "site": "JobGurus",
+      "id": "a6dd4530562474cb3722db406a0e2a67",
+      "timestamp": 1749736248840
     }
   ]
 }
