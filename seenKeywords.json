@@ -411,8 +411,8 @@
   "hea group": [
     {
       "site": "JobGurus",
-      "id": "ad8359c54f2814e05153c721494cbe48",
-      "timestamp": 1748945837932
+      "id": "9769ee33b8e453ded916af10bdd1ff74",
+      "timestamp": 1749726799430
     }
   ],
   "femaus consults": [
@@ -2552,6 +2552,11 @@
       "site": "JobGurus",
       "id": "51adcee9899d568827528f82546d7240",
       "timestamp": 1749725099890
+    },
+    {
+      "site": "JobGurus",
+      "id": "b0f94289ec6e6a79a24ec67156126622",
+      "timestamp": 1749726799430
     }
   ],
   "enviable group": [
@@ -2573,6 +2578,27 @@
       "site": "JobGurus",
       "id": "80406a2214a912e41f7156bcaadc7529",
       "timestamp": 1749725099890
+    }
+  ],
+  "tempo paper pulp & packaging plc": [
+    {
+      "site": "JobGurus",
+      "id": "7977b2e99134a02041f2bf24d499b2e2",
+      "timestamp": 1749726799430
+    }
+  ],
+  "african foundries limited": [
+    {
+      "site": "JobGurus",
+      "id": "4ad187c3b44fed5818fe837a676d33a7",
+      "timestamp": 1749726799430
+    }
+  ],
+  "ruhe global resources": [
+    {
+      "site": "JobGurus",
+      "id": "ce40c6bb74c5d92bd4100b7c827d305f",
+      "timestamp": 1749726799430
     }
   ]
 }
