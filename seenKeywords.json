@@ -182,6 +182,11 @@
       "site": "JobGurus",
       "id": "1072e836ac95e283f2f33064608005a6",
       "timestamp": 1749658813331
+    },
+    {
+      "site": "JobGurus",
+      "id": "72be7b75818e9858fa25db111a16f849",
+      "timestamp": 1749728232526
     }
   ],
   "cway group": [
@@ -2557,6 +2562,11 @@
       "site": "JobGurus",
       "id": "b0f94289ec6e6a79a24ec67156126622",
       "timestamp": 1749726799430
+    },
+    {
+      "site": "JobGurus",
+      "id": "fede88d710a2747d095d6c7d56854c65",
+      "timestamp": 1749728232526
     }
   ],
   "enviable group": [
@@ -2599,6 +2609,25 @@
       "site": "JobGurus",
       "id": "ce40c6bb74c5d92bd4100b7c827d305f",
       "timestamp": 1749726799430
+    }
+  ],
+  "1001luxerentals": [
+    {
+      "site": "JobGurus",
+      "id": "ebdf5682f3e720769f8a2c6d69665098",
+      "timestamp": 1749728232526
+    },
+    {
+      "site": "JobGurus",
+      "id": "565d45b9ded06937a851c74df5a122ff",
+      "timestamp": 1749728232526
+    }
+  ],
+  "mai shayi coffee roasters limited": [
+    {
+      "site": "JobGurus",
+      "id": "462feff06434172a435c6ac339caa1e4",
+      "timestamp": 1749728232526
     }
   ]
 }
