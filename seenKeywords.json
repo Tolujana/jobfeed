@@ -155,16 +155,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "588752c5dca4899706ac3b4253acdfab",
-      "timestamp": 1749216438631
-    },
-    {
-      "site": "JobGurus",
-      "id": "b33c1cb0bb83f4fd24e6363e8ee67d2a",
-      "timestamp": 1749217687942
-    },
-    {
-      "site": "JobGurus",
       "id": "ab1a025c31b324a7901bec1ceb5aa9ad",
       "timestamp": 1749219313400
     },
@@ -182,6 +172,11 @@
       "site": "JobGurus",
       "id": "72be7b75818e9858fa25db111a16f849",
       "timestamp": 1749728232526
+    },
+    {
+      "site": "JobGurus",
+      "id": "4209f5bfdb449a5fa4631481103bc264",
+      "timestamp": 1749822505671
     }
   ],
   "cway group": [
@@ -2889,6 +2884,11 @@
       "site": "JobGurus",
       "id": "b0296292da41f908460246d86ae65fa2",
       "timestamp": 1749821284716
+    },
+    {
+      "site": "JobGurus",
+      "id": "f1b5c1dff8b7ae38264b22e2fb49089d",
+      "timestamp": 1749822505671
     }
   ],
   "hotel capitol": [
@@ -2903,6 +2903,27 @@
       "site": "JobGurus",
       "id": "ab974e7fc06125850aba2c2635fe0fd4",
       "timestamp": 1749821284716
+    }
+  ],
+  "resource intermediaries limited": [
+    {
+      "site": "JobGurus",
+      "id": "f77d53c0aa74dbde1dd199105b13811e",
+      "timestamp": 1749822505671
+    }
+  ],
+  "oisedotcom limited": [
+    {
+      "site": "JobGurus",
+      "id": "ce126b6a7ddb1535d8b9b74d8fc7b104",
+      "timestamp": 1749822505671
+    }
+  ],
+  "sunfi technology solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "6aee1ebfe180e7485bb0e568a284bf05",
+      "timestamp": 1749822505671
     }
   ]
 }
