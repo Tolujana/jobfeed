@@ -155,11 +155,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "ab1a025c31b324a7901bec1ceb5aa9ad",
-      "timestamp": 1749219313400
-    },
-    {
-      "site": "JobGurus",
       "id": "b0f78bb9b5aa2f6b0c28d24f529221ca",
       "timestamp": 1749658813331
     },
@@ -177,6 +172,11 @@
       "site": "JobGurus",
       "id": "4209f5bfdb449a5fa4631481103bc264",
       "timestamp": 1749822505671
+    },
+    {
+      "site": "JobGurus",
+      "id": "c06ff6eb0ecc296143ee445dcdcbbb25",
+      "timestamp": 1749825789989
     }
   ],
   "cway group": [
@@ -577,6 +577,11 @@
       "site": "JobGurus",
       "id": "90378b3048c789f95bb247e239686030",
       "timestamp": 1749734976802
+    },
+    {
+      "site": "JobGurus",
+      "id": "07f6e8eb0a9df85bfa78a104d01bc0d8",
+      "timestamp": 1749825789989
     }
   ],
   "abbfem group": [
@@ -2959,6 +2964,20 @@
       "site": "JobGurus",
       "id": "9d66bd55ed2ceaf5be9b7c090d7a496e",
       "timestamp": 1749824128890
+    }
+  ],
+  "hellofresh fast food": [
+    {
+      "site": "JobGurus",
+      "id": "e411fd0f49e8f2028f328a2402a5e5e6",
+      "timestamp": 1749825789989
+    }
+  ],
+  "style fusion salon and spa": [
+    {
+      "site": "JobGurus",
+      "id": "cc851cbd4eb1aa60f3adb62ce35215d5",
+      "timestamp": 1749825789989
     }
   ]
 }
