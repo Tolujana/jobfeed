@@ -392,8 +392,8 @@
   "wandel international": [
     {
       "site": "JobGurus",
-      "id": "59db9c931fd17570101ee70af8de9dc4",
-      "timestamp": 1748943708802
+      "id": "fe148a702ba842c319773106634dcfca",
+      "timestamp": 1749919414758
     }
   ],
   "airtel nigeria": [
@@ -760,8 +760,13 @@
   "equinix": [
     {
       "site": "JobGurus",
-      "id": "e9a6c303e1698f5ffe35be3217bc285b",
-      "timestamp": 1749040343659
+      "id": "13cc009df5cadf01c3cf4d13bc167e49",
+      "timestamp": 1749919414758
+    },
+    {
+      "site": "JobGurus",
+      "id": "efc06e75e501e6c7137de17e7444eddd",
+      "timestamp": 1749919414758
     }
   ],
   "premier hub innovation center": [
@@ -3049,6 +3054,20 @@
       "site": "JobGurus",
       "id": "009a08c7753463b9efb2587cd293a02d",
       "timestamp": 1749917848689
+    }
+  ],
+  "lauvee beauty salon": [
+    {
+      "site": "JobGurus",
+      "id": "0f0644891615017a4314f70f44546df9",
+      "timestamp": 1749919414758
+    }
+  ],
+  "simba group": [
+    {
+      "site": "JobGurus",
+      "id": "30958cfb392f7fd47276586b8f288cb6",
+      "timestamp": 1749919414758
     }
   ]
 }
