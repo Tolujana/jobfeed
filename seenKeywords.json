@@ -432,8 +432,8 @@
   "dana group": [
     {
       "site": "JobGurus",
-      "id": "97d1c1589c00466d6d63d374482fd5ba",
-      "timestamp": 1748945837932
+      "id": "47b169760de190510cb24f1988f04ee1",
+      "timestamp": 1749917848689
     }
   ],
   "raphael group": [
@@ -3021,6 +3021,34 @@
       "site": "JobGurus",
       "id": "d9d492bfeb868c26da48aedad8a05c54",
       "timestamp": 1749915484582
+    }
+  ],
+  "domino stores limited": [
+    {
+      "site": "JobGurus",
+      "id": "c921ad571aa1ab373e42d72421e91a53",
+      "timestamp": 1749917848689
+    }
+  ],
+  "crescent rice mill limited": [
+    {
+      "site": "JobGurus",
+      "id": "fc268e7be7e17d7743b5b1777da55aeb",
+      "timestamp": 1749917848689
+    }
+  ],
+  "taeillo": [
+    {
+      "site": "JobGurus",
+      "id": "cf6ab17b896c5afad6918f7451ed1e3f",
+      "timestamp": 1749917848689
+    }
+  ],
+  "erisco foods limited": [
+    {
+      "site": "JobGurus",
+      "id": "009a08c7753463b9efb2587cd293a02d",
+      "timestamp": 1749917848689
     }
   ]
 }
