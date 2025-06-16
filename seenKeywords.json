@@ -687,8 +687,8 @@
   "lisse africa": [
     {
       "site": "JobGurus",
-      "id": "906ba95e17ceffe64692c42617c67e4d",
-      "timestamp": 1749033883448
+      "id": "0f27d78a61098addff665b0019cae034",
+      "timestamp": 1750073862155
     }
   ],
   "guo transport company": [
@@ -1439,8 +1439,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "585602aa2a314367d5ceb504b94268c9",
-      "timestamp": 1749217687942
+      "id": "d88e806c948e3dff72b3a2a7f64ac8c3",
+      "timestamp": 1750073862155
     }
   ],
   "jtech global resources limited": [
@@ -3233,6 +3233,27 @@
       "site": "JobGurus",
       "id": "038eabc2d0064175ff9f81fee116a715",
       "timestamp": 1750072443517
+    }
+  ],
+  "arkounting business concepts limited": [
+    {
+      "site": "JobGurus",
+      "id": "7b4f0d7716a8e2e127869486ac7ac2e9",
+      "timestamp": 1750073862155
+    }
+  ],
+  "vixa pharmaceutical company limited": [
+    {
+      "site": "JobGurus",
+      "id": "e232c603ed9a379400a27e373353e3a2",
+      "timestamp": 1750073862155
+    }
+  ],
+  "hamik energy limited": [
+    {
+      "site": "JobGurus",
+      "id": "240084e19de9e81a92798d4cb7e9f7b7",
+      "timestamp": 1750073862155
     }
   ]
 }
