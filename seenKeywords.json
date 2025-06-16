@@ -290,6 +290,11 @@
       "site": "JobGurus",
       "id": "734aba2e4f2f04e515b32c25cc6c91f7",
       "timestamp": 1750065518653
+    },
+    {
+      "site": "JobGurus",
+      "id": "d7d2566479bf3559a9e111daa5538759",
+      "timestamp": 1750072443517
     }
   ],
   "greengrass investment limited": [
@@ -2203,6 +2208,11 @@
       "site": "JobGurus",
       "id": "c9774d1bcf3305de093d32b3a9131ffa",
       "timestamp": 1749564959081
+    },
+    {
+      "site": "JobGurus",
+      "id": "1a3d5d28c0c8c4fd8a4d5e3a7bd78ace",
+      "timestamp": 1750072443517
     }
   ],
   "the startup place limited": [
@@ -3202,6 +3212,27 @@
       "site": "JobGurus",
       "id": "9694ab1f7fbe7c46a20aa0028cf4dc5d",
       "timestamp": 1750070732493
+    }
+  ],
+  "wiocc nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "6d343fe36adc9aa487abfb2dfcddb10e",
+      "timestamp": 1750072443517
+    }
+  ],
+  "husk power energy systems nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "478234e208433152327d98e7e20bf71c",
+      "timestamp": 1750072443517
+    }
+  ],
+  "buckler systems": [
+    {
+      "site": "JobGurus",
+      "id": "038eabc2d0064175ff9f81fee116a715",
+      "timestamp": 1750072443517
     }
   ]
 }
