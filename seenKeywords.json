@@ -2194,6 +2194,11 @@
       "site": "JobGurus",
       "id": "20322933f18d68baa6ff06ae7942a840",
       "timestamp": 1749563476808
+    },
+    {
+      "site": "JobGurus",
+      "id": "246295edc57f86483013f387b1940da3",
+      "timestamp": 1750080644233
     }
   ],
   "ace recruiters limited": [
@@ -3287,6 +3292,34 @@
       "site": "JobGurus",
       "id": "9a82e6684eea4490d273420ced499355",
       "timestamp": 1750077189190
+    }
+  ],
+  "ezion-geber energy limited": [
+    {
+      "site": "JobGurus",
+      "id": "f867c23eee20f0841283dc2df8b55eb9",
+      "timestamp": 1750080644233
+    }
+  ],
+  "high caliber nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "33f6f0d3d24016cef062d3daee0c0fc4",
+      "timestamp": 1750080644233
+    }
+  ],
+  "total quest limited": [
+    {
+      "site": "JobGurus",
+      "id": "919239e01051edc8b1ecca1d6e8a754f",
+      "timestamp": 1750080644233
+    }
+  ],
+  "the greytar company": [
+    {
+      "site": "JobGurus",
+      "id": "30044558c8ad268758dde5201fe653a2",
+      "timestamp": 1750080644233
     }
   ]
 }
