@@ -1785,21 +1785,6 @@
   "outsource nigeria": [
     {
       "site": "JobGurus",
-      "id": "f3fffd3424af6699fe41909e2d69dca4",
-      "timestamp": 1749467637455
-    },
-    {
-      "site": "JobGurus",
-      "id": "582d632355102dbcdc21958d735436d3",
-      "timestamp": 1749469052035
-    },
-    {
-      "site": "JobGurus",
-      "id": "e0c36c8347684106c9b7fb33e4e110a7",
-      "timestamp": 1749469052035
-    },
-    {
-      "site": "JobGurus",
       "id": "2ff19475aa3aad3e310b58cec9bf78b6",
       "timestamp": 1749658813331
     },
@@ -1812,6 +1797,11 @@
       "site": "JobGurus",
       "id": "5f8f043437304cc69f0f594631a68df5",
       "timestamp": 1749666114572
+    },
+    {
+      "site": "JobGurus",
+      "id": "664f91471dee42738b3018a12b5e73f6",
+      "timestamp": 1750171476204
     }
   ],
   "seven-up bottling company limited": [
@@ -2384,6 +2374,11 @@
       "site": "JobGurus",
       "id": "bb82b2cac3922ae285b36870030f05ec",
       "timestamp": 1749737753140
+    },
+    {
+      "site": "JobGurus",
+      "id": "dbe221e39d6a7bd9fa030c1081a566d1",
+      "timestamp": 1750171476204
     }
   ],
   "flees global services": [
@@ -3572,6 +3567,27 @@
       "site": "JobGurus",
       "id": "09a15f847ff286ece35afd7d23ff209b",
       "timestamp": 1750169766989
+    }
+  ],
+  "davethan technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "ba199119728f5fc80ed202f1da8ee2b3",
+      "timestamp": 1750171476204
+    }
+  ],
+  "kadick integrated limited": [
+    {
+      "site": "JobGurus",
+      "id": "c596c6b651847427921b8ca43d6e2bba",
+      "timestamp": 1750171476204
+    }
+  ],
+  "tradedepot": [
+    {
+      "site": "JobGurus",
+      "id": "fe3a6a88ca65e4b69d6cfa0a962a4947",
+      "timestamp": 1750171476204
     }
   ]
 }
