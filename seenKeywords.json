@@ -592,6 +592,11 @@
       "site": "JobGurus",
       "id": "1c4f593918531a7d9cc90ebbb5a1c03c",
       "timestamp": 1750158812939
+    },
+    {
+      "site": "JobGurus",
+      "id": "680b5fce8fe89ce56f36866a997a7be7",
+      "timestamp": 1750166953881
     }
   ],
   "abbfem group": [
@@ -3518,6 +3523,34 @@
       "site": "JobGurus",
       "id": "bdb2478f52b9b0d0d76c3bd6198f1110",
       "timestamp": 1750163594193
+    }
+  ],
+  "fruitylife": [
+    {
+      "site": "JobGurus",
+      "id": "03ae96e7d4d6516e5e4ad07910e4d7ef",
+      "timestamp": 1750166953881
+    }
+  ],
+  "neutratech": [
+    {
+      "site": "JobGurus",
+      "id": "c779d1ba870bbc51e8beaff0d9d24698",
+      "timestamp": 1750166953881
+    }
+  ],
+  "sobic and company": [
+    {
+      "site": "JobGurus",
+      "id": "c1fb7dca96e8c4cc3f93cfdc7985d739",
+      "timestamp": 1750166953881
+    }
+  ],
+  "evas security corps & equipment limited": [
+    {
+      "site": "JobGurus",
+      "id": "61e27f3e68277712d76e4deb2ba36280",
+      "timestamp": 1750166953881
     }
   ]
 }
