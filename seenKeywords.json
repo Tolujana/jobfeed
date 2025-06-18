@@ -1864,8 +1864,8 @@
   "wendernek consulting limited": [
     {
       "site": "JobGurus",
-      "id": "2dc3c544e971093d9eb78343fdcf8298",
-      "timestamp": 1749472341027
+      "id": "07cf6065d448691cf6dce1dc75183143",
+      "timestamp": 1750245234855
     }
   ],
   "dews and petals limited": [
@@ -3752,6 +3752,34 @@
       "site": "JobGurus",
       "id": "3b8727b17fa7df220113b1b48c3ceca0",
       "timestamp": 1750243470266
+    }
+  ],
+  "d&m data solutions": [
+    {
+      "site": "JobGurus",
+      "id": "8c0ddb4f2b0c21d280648bc3d247d1ee",
+      "timestamp": 1750245234855
+    }
+  ],
+  "kinz global consult": [
+    {
+      "site": "JobGurus",
+      "id": "2953267383cd71545f08afa1f9b81440",
+      "timestamp": 1750245234855
+    }
+  ],
+  "cen global services limited": [
+    {
+      "site": "JobGurus",
+      "id": "c575ecc6e5d8af09282c97237bf488ee",
+      "timestamp": 1750245234855
+    }
+  ],
+  "technoserve": [
+    {
+      "site": "JobGurus",
+      "id": "b953885f32b6fb92cd392fe12168404e",
+      "timestamp": 1750245234855
     }
   ]
 }
