@@ -671,8 +671,8 @@
   "vantegral consulting": [
     {
       "site": "JobGurus",
-      "id": "5b7ac8df1a03e7c2d8e406da477c6867",
-      "timestamp": 1749033883448
+      "id": "f2de217ac9eddcb5a3756b6c555aa468",
+      "timestamp": 1750347672974
     }
   ],
   "private sector health alliance of nigeria": [
@@ -4045,6 +4045,20 @@
       "site": "JobGurus",
       "id": "bf5c2602282cadd9839289ff0692bdb9",
       "timestamp": 1750339712795
+    }
+  ],
+  "ld&d consulting": [
+    {
+      "site": "JobGurus",
+      "id": "e93597b821fae75136798cfc0afeb5b2",
+      "timestamp": 1750347672974
+    }
+  ],
+  "roqqu nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "e5e9aff4bef090be9def1c64d2496a38",
+      "timestamp": 1750347672974
     }
   ]
 }
