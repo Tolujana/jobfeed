@@ -3915,5 +3915,33 @@
       "id": "4562bf2b809838079e6ca962eaa1051d",
       "timestamp": 1750324632606
     }
+  ],
+  "hr-aid consults": [
+    {
+      "site": "JobGurus",
+      "id": "5039fe8b6668b8ae364067a1ce55225a",
+      "timestamp": 1750326109817
+    }
+  ],
+  "nigeria society of engineers (nse)": [
+    {
+      "site": "JobGurus",
+      "id": "c27a0f0c9aeb9a8819754989a6b7d47a",
+      "timestamp": 1750326109817
+    }
+  ],
+  "kinetic electromechanic nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "c31a40d0cdd04e6dd0967b9f7db067a8",
+      "timestamp": 1750326109817
+    }
+  ],
+  "aiderr project services": [
+    {
+      "site": "JobGurus",
+      "id": "b2a51637b64e42b786e9237c1cff8f61",
+      "timestamp": 1750326109817
+    }
   ]
 }
