@@ -4249,6 +4249,16 @@
       "site": "JobGurus",
       "id": "3fe3c5245187594291a32d090e388102",
       "timestamp": 1750414603028
+    },
+    {
+      "site": "JobGurus",
+      "id": "e604c48d3e6c588f74cf4318ddfc39d4",
+      "timestamp": 1750427264619
+    },
+    {
+      "site": "JobGurus",
+      "id": "0ce131142b9378f0f7c7e607a0b0a93c",
+      "timestamp": 1750427264619
     }
   ],
   "kinz global consult limited": [
@@ -4373,6 +4383,11 @@
       "site": "JobGurus",
       "id": "200d21bde685062061d99168efea8dbd",
       "timestamp": 1750426062133
+    },
+    {
+      "site": "JobGurus",
+      "id": "a44276c35e7fb4df46000374dfc831c2",
+      "timestamp": 1750427264619
     }
   ],
   "revenstrat consulting": [
@@ -4380,6 +4395,20 @@
       "site": "JobGurus",
       "id": "077b71600667d8d96c6d04d832fe28ea",
       "timestamp": 1750426062133
+    }
+  ],
+  "gn128 limited": [
+    {
+      "site": "JobGurus",
+      "id": "5f027c2792a68f1f007313cd962c3be4",
+      "timestamp": 1750427264619
+    }
+  ],
+  "future moves recruitment (fmr) agency": [
+    {
+      "site": "JobGurus",
+      "id": "862f3d80866b22b34528edaa048fed4c",
+      "timestamp": 1750427264619
     }
   ]
 }
