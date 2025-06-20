@@ -1196,8 +1196,8 @@
   "u connect human resources limited": [
     {
       "site": "JobGurus",
-      "id": "65037fd0161fe268af72b841ab68419c",
-      "timestamp": 1749140384377
+      "id": "a8e7a39d34b502ca702534f73315fc01",
+      "timestamp": 1750422739440
     }
   ],
   "carogas energy": [
@@ -4324,6 +4324,34 @@
       "site": "JobGurus",
       "id": "0ffe8edc98fecba964380488960a4680",
       "timestamp": 1750419483883
+    }
+  ],
+  "comatrix collection service": [
+    {
+      "site": "JobGurus",
+      "id": "8ce6125a8b7354076a2dd5864bc5b942",
+      "timestamp": 1750422739440
+    }
+  ],
+  "jaykay group": [
+    {
+      "site": "JobGurus",
+      "id": "6242a8f1798cafb274d183d58a27f356",
+      "timestamp": 1750422739440
+    }
+  ],
+  "solidarites international (si)": [
+    {
+      "site": "JobGurus",
+      "id": "2627207f73abc70cb95b72e877a18b77",
+      "timestamp": 1750422739440
+    }
+  ],
+  "farms katsina limited": [
+    {
+      "site": "JobGurus",
+      "id": "2a3723140dce606e85e796a3022d57a2",
+      "timestamp": 1750422739440
     }
   ]
 }
