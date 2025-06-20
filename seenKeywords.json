@@ -4482,5 +4482,36 @@
       "id": "5fe48f3acceb58f041e354ad15271210",
       "timestamp": 1750443658709
     }
+  ],
+  "human capital group": [
+    {
+      "site": "JobGurus",
+      "id": "22276f560e6440be3ce417b6b0e011d9",
+      "timestamp": 1750445281161
+    },
+    {
+      "site": "JobGurus",
+      "id": "6382012ecf0f626db637fcd4a09d3327",
+      "timestamp": 1750445281161
+    },
+    {
+      "site": "JobGurus",
+      "id": "2927e8f7ced321b2027b89d0271d2557",
+      "timestamp": 1750445281161
+    }
+  ],
+  "bluebrain services limited": [
+    {
+      "site": "JobGurus",
+      "id": "51e2f747e6044701e0544b28d32f1e3c",
+      "timestamp": 1750445281161
+    }
+  ],
+  "dufil group": [
+    {
+      "site": "JobGurus",
+      "id": "06a7b577d00ce0621ba41a37f735748b",
+      "timestamp": 1750445281161
+    }
   ]
 }
