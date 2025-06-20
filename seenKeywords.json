@@ -573,8 +573,8 @@
   "filmhouse cinemas limited": [
     {
       "site": "JobGurus",
-      "id": "7444e9e2e8f067140fa2d4c88dcf094b",
-      "timestamp": 1748957407033
+      "id": "8b873aff7c6b7cedf7d705f0ef193d5a",
+      "timestamp": 1750426062133
     }
   ],
   "ascentech services limited": [
@@ -4352,6 +4352,34 @@
       "site": "JobGurus",
       "id": "2a3723140dce606e85e796a3022d57a2",
       "timestamp": 1750422739440
+    }
+  ],
+  "guaranty business solutions": [
+    {
+      "site": "JobGurus",
+      "id": "b2f0a79c3bb236fbe204ab3a4bc10108",
+      "timestamp": 1750426062133
+    }
+  ],
+  "guo transport company limited": [
+    {
+      "site": "JobGurus",
+      "id": "b0f1d32f76e24eda40c9654819a853d8",
+      "timestamp": 1750426062133
+    }
+  ],
+  "home bargains nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "200d21bde685062061d99168efea8dbd",
+      "timestamp": 1750426062133
+    }
+  ],
+  "revenstrat consulting": [
+    {
+      "site": "JobGurus",
+      "id": "077b71600667d8d96c6d04d832fe28ea",
+      "timestamp": 1750426062133
     }
   ]
 }
