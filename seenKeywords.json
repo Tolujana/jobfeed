@@ -3728,6 +3728,11 @@
       "site": "JobGurus",
       "id": "249cc40c3b4511d7564218f897ab384e",
       "timestamp": 1750243470266
+    },
+    {
+      "site": "JobGurus",
+      "id": "6cb9ccd18f01b93177e08580f4067cbf",
+      "timestamp": 1750416265433
     }
   ],
   "covenant microfinance bank limited": [
@@ -4234,6 +4239,27 @@
       "site": "JobGurus",
       "id": "3fe3c5245187594291a32d090e388102",
       "timestamp": 1750414603028
+    }
+  ],
+  "kinz global consult limited": [
+    {
+      "site": "JobGurus",
+      "id": "9a6c08ea5f7f56a745580715bfe61135",
+      "timestamp": 1750416265433
+    }
+  ],
+  "newglobe": [
+    {
+      "site": "JobGurus",
+      "id": "a86133d704240ec39c20e5d06a91df5a",
+      "timestamp": 1750416265433
+    }
+  ],
+  "tiva creative": [
+    {
+      "site": "JobGurus",
+      "id": "072a8f12156506eeb2eb4c06ff8a5e4c",
+      "timestamp": 1750416265433
     }
   ]
 }
