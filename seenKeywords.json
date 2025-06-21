@@ -1524,6 +1524,11 @@
       "site": "JobGurus",
       "id": "e00dbbde592bedda0bc7061e84751ea8",
       "timestamp": 1750513322461
+    },
+    {
+      "site": "JobGurus",
+      "id": "ffb0722dcfb544d577e8cc4b5e3f42a4",
+      "timestamp": 1750515241879
     }
   ],
   "fairmoney": [
@@ -4621,6 +4626,13 @@
       "site": "JobGurus",
       "id": "0197ca88c96f3c168046453843e6ad1f",
       "timestamp": 1750513322461
+    }
+  ],
+  "al-treuhand better design limited": [
+    {
+      "site": "JobGurus",
+      "id": "2e8e549c013cd743f5ef4056dfe8b582",
+      "timestamp": 1750515241879
     }
   ]
 }
