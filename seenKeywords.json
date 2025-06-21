@@ -2713,8 +2713,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "16126fbf7b9724999fda800738356f95",
-      "timestamp": 1749736248840
+      "id": "0470e209912a7bff7a86f6340e51fa27",
+      "timestamp": 1750508914087
     }
   ],
   "international fertilizer development center": [
@@ -3231,6 +3231,11 @@
       "site": "JobGurus",
       "id": "478234e208433152327d98e7e20bf71c",
       "timestamp": 1750072443517
+    },
+    {
+      "site": "JobGurus",
+      "id": "c5c9a8054ff5fe4906ccb670eaa4bdb9",
+      "timestamp": 1750508914087
     }
   ],
   "buckler systems": [
@@ -4552,6 +4557,13 @@
       "site": "JobGurus",
       "id": "6811e0b513ed2a170becb49b1117ed0c",
       "timestamp": 1750505823165
+    }
+  ],
+  "oriki group": [
+    {
+      "site": "JobGurus",
+      "id": "97fce438f5cff9dc6de98c6ca8493493",
+      "timestamp": 1750508914087
     }
   ]
 }
