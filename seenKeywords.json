@@ -19,6 +19,11 @@
       "site": "JobGurus",
       "id": "d75e4173956f9d3c5d9f88cfdda68112",
       "timestamp": 1750272555405
+    },
+    {
+      "site": "JobGurus",
+      "id": "bcbc93322c1b6dda9d777b37fd4df583",
+      "timestamp": 1750513322461
     }
   ],
   "amecron nigeria limited": [
@@ -1512,8 +1517,13 @@
   "sow real estate limited": [
     {
       "site": "JobGurus",
-      "id": "df9f080aa93c6c524589c38089f12073",
-      "timestamp": 1749224357956
+      "id": "20014d7b1aa10095980561e415dcca47",
+      "timestamp": 1750513322461
+    },
+    {
+      "site": "JobGurus",
+      "id": "e00dbbde592bedda0bc7061e84751ea8",
+      "timestamp": 1750513322461
     }
   ],
   "fairmoney": [
@@ -4564,6 +4574,11 @@
       "site": "JobGurus",
       "id": "97fce438f5cff9dc6de98c6ca8493493",
       "timestamp": 1750508914087
+    },
+    {
+      "site": "JobGurus",
+      "id": "0561e6346e2a29717c252b74621da2af",
+      "timestamp": 1750513322461
     }
   ],
   "merit healthcare limited": [
@@ -4599,6 +4614,13 @@
       "site": "JobGurus",
       "id": "40cdbca29dd43d95b978ba4c3fa21a0f",
       "timestamp": 1750511003137
+    }
+  ],
+  "blowfish group": [
+    {
+      "site": "JobGurus",
+      "id": "0197ca88c96f3c168046453843e6ad1f",
+      "timestamp": 1750513322461
     }
   ]
 }
