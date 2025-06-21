@@ -2578,8 +2578,8 @@
   "mantrac": [
     {
       "site": "JobGurus",
-      "id": "576616e877faa047431cd51979ab05f4",
-      "timestamp": 1749725099890
+      "id": "77667efbb654d53bb87fff1873972c43",
+      "timestamp": 1750504399018
     }
   ],
   "amani advisory limited": [
@@ -4512,6 +4512,32 @@
       "site": "JobGurus",
       "id": "06a7b577d00ce0621ba41a37f735748b",
       "timestamp": 1750445281161
+    }
+  ],
+  "avatar new energy materials company limited": [
+    {
+      "site": "JobGurus",
+      "id": "d01e6fba2142f0bd8a96d8257d41efec",
+      "timestamp": 1750504399018
+    }
+  ],
+  "sahara group": [
+    {
+      "site": "JobGurus",
+      "id": "9fcb6ab122827a27d77f3120c993e608",
+      "timestamp": 1750504399018
+    },
+    {
+      "site": "JobGurus",
+      "id": "a044a67d955ccbbd421bf164a2afe7c3",
+      "timestamp": 1750504399018
+    }
+  ],
+  "skipper eye-q super specialty eye hospital": [
+    {
+      "site": "JobGurus",
+      "id": "247fe8cf669315e9dec12d08aa32d0b7",
+      "timestamp": 1750504399018
     }
   ]
 }
