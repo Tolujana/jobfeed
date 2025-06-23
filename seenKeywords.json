@@ -145,31 +145,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "b0f78bb9b5aa2f6b0c28d24f529221ca",
-      "timestamp": 1749658813331
-    },
-    {
-      "site": "JobGurus",
-      "id": "1072e836ac95e283f2f33064608005a6",
-      "timestamp": 1749658813331
-    },
-    {
-      "site": "JobGurus",
-      "id": "72be7b75818e9858fa25db111a16f849",
-      "timestamp": 1749728232526
-    },
-    {
-      "site": "JobGurus",
-      "id": "4209f5bfdb449a5fa4631481103bc264",
-      "timestamp": 1749822505671
-    },
-    {
-      "site": "JobGurus",
-      "id": "c06ff6eb0ecc296143ee445dcdcbbb25",
-      "timestamp": 1749825789989
-    },
-    {
-      "site": "JobGurus",
       "id": "2b21a2813a79e89eafb8d27379846f2b",
       "timestamp": 1750236494458
     },
@@ -182,6 +157,16 @@
       "site": "JobGurus",
       "id": "d4d9996c95be2894165bb55efbe33442",
       "timestamp": 1750238248224
+    },
+    {
+      "site": "JobGurus",
+      "id": "3a6d1adadb2d5c6813413025cc22bdbf",
+      "timestamp": 1750675540868
+    },
+    {
+      "site": "JobGurus",
+      "id": "9bbe4590d74cc418820d36cc71771c79",
+      "timestamp": 1750675540868
     }
   ],
   "cway group": [
@@ -288,11 +273,6 @@
   "choice talents ng": [
     {
       "site": "JobGurus",
-      "id": "734aba2e4f2f04e515b32c25cc6c91f7",
-      "timestamp": 1750065518653
-    },
-    {
-      "site": "JobGurus",
       "id": "d7d2566479bf3559a9e111daa5538759",
       "timestamp": 1750072443517
     },
@@ -305,6 +285,11 @@
       "site": "JobGurus",
       "id": "6504fefcfe81770e09b8b87f2513eeb5",
       "timestamp": 1750349957312
+    },
+    {
+      "site": "JobGurus",
+      "id": "796672d03638aa8fd86aeb28e080cf0b",
+      "timestamp": 1750675540868
     }
   ],
   "greengrass investment limited": [
@@ -4703,6 +4688,13 @@
       "site": "JobGurus",
       "id": "8e7c47edeef9682e6f3dcd54d4caa8b0",
       "timestamp": 1750673893215
+    }
+  ],
+  "design synchrony": [
+    {
+      "site": "JobGurus",
+      "id": "045d51dd174faea075d90baee8e4b844",
+      "timestamp": 1750675540868
     }
   ]
 }
