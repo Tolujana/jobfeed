@@ -4801,6 +4801,11 @@
       "site": "JobGurus",
       "id": "ae17a3f50e8cba8922918db8310fd133",
       "timestamp": 1750704583672
+    },
+    {
+      "site": "JobGurus",
+      "id": "24aba672d4319457c459efa4847f8c2c",
+      "timestamp": 1750705954046
     }
   ],
   "mwanga limited": [
@@ -4815,6 +4820,34 @@
       "site": "JobGurus",
       "id": "88fa2da383d5d986bae106817f9d44de",
       "timestamp": 1750704583672
+    }
+  ],
+  "amy consulting": [
+    {
+      "site": "JobGurus",
+      "id": "f4138ce57f0d63822e547747e569cf23",
+      "timestamp": 1750705954046
+    }
+  ],
+  "kennedia consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "b4100a0f46d37398edd9114b270106ff",
+      "timestamp": 1750705954046
+    }
+  ],
+  "african natural resources & mines limited": [
+    {
+      "site": "JobGurus",
+      "id": "908447c8ab1fb08b9770fb222d421948",
+      "timestamp": 1750705954046
+    }
+  ],
+  "cormart nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "56b188ddebd8586ab2ab448a1455683b",
+      "timestamp": 1750705954046
     }
   ]
 }
