@@ -4734,5 +4734,33 @@
       "id": "e703f095718d08eb5834a2d2bc5035ca",
       "timestamp": 1750678659998
     }
+  ],
+  "syntax technology": [
+    {
+      "site": "JobGurus",
+      "id": "71f43700fb49e7c82e200ca1c24751a0",
+      "timestamp": 1750682031953
+    }
+  ],
+  "coronation": [
+    {
+      "site": "JobGurus",
+      "id": "22ce69b3aa1adecbe0ecba12e0ec6a50",
+      "timestamp": 1750682031953
+    }
+  ],
+  "teal consulting": [
+    {
+      "site": "JobGurus",
+      "id": "331d3cbf2647d7c1c4ee97db1ae140a4",
+      "timestamp": 1750682031953
+    }
+  ],
+  "zocode limited": [
+    {
+      "site": "JobGurus",
+      "id": "8bf40292b4074ced01db9298d97c29a0",
+      "timestamp": 1750682031953
+    }
   ]
 }
