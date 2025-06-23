@@ -3383,6 +3383,11 @@
       "site": "JobGurus",
       "id": "c8e3fb16089972f132fbf5374ca84d23",
       "timestamp": 1750099755187
+    },
+    {
+      "site": "JobGurus",
+      "id": "ec71fda3b56154eb8f9073f65bb108ac",
+      "timestamp": 1750685510426
     }
   ],
   "divine ag solutions limited": [
@@ -4761,6 +4766,34 @@
       "site": "JobGurus",
       "id": "8bf40292b4074ced01db9298d97c29a0",
       "timestamp": 1750682031953
+    }
+  ],
+  "star lanternz integrated limited": [
+    {
+      "site": "JobGurus",
+      "id": "1e081ab3d32f3d5b32145c98663db097",
+      "timestamp": 1750685510426
+    }
+  ],
+  "abc cargo express": [
+    {
+      "site": "JobGurus",
+      "id": "bc4f0878f333d857a68a20c3c0fa4739",
+      "timestamp": 1750685510426
+    }
+  ],
+  "iqvia": [
+    {
+      "site": "JobGurus",
+      "id": "3f7a28ed455344a179f5a48d701289ed",
+      "timestamp": 1750685510426
+    }
+  ],
+  "united nigeria airlines": [
+    {
+      "site": "JobGurus",
+      "id": "294f4115eb49ad0aafcebca04ba85cdc",
+      "timestamp": 1750685510426
     }
   ]
 }
