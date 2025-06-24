@@ -4666,6 +4666,11 @@
       "site": "JobGurus",
       "id": "e80c634e2f580ba00f252f7f92060ebd",
       "timestamp": 1750671807156
+    },
+    {
+      "site": "JobGurus",
+      "id": "89cf3b1b11eeff77e03c0331d4028067",
+      "timestamp": 1750765081155
     }
   ],
   "human capital partners": [
@@ -4957,6 +4962,34 @@
       "site": "JobGurus",
       "id": "1eeefc8731b8d5879931d4c7db9e38ac",
       "timestamp": 1750763643928
+    }
+  ],
+  "smart partners consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "368a28e3c5066d031082d623d470a5b6",
+      "timestamp": 1750765081155
+    }
+  ],
+  "felamokhr consulting services limited": [
+    {
+      "site": "JobGurus",
+      "id": "77548f381317bd3fbe00326f4b07bde8",
+      "timestamp": 1750765081155
+    }
+  ],
+  "joefelin resources": [
+    {
+      "site": "JobGurus",
+      "id": "0c7f18cf830836540f45f3ac0e4ae479",
+      "timestamp": 1750765081155
+    }
+  ],
+  "future moves recruitment agency": [
+    {
+      "site": "JobGurus",
+      "id": "67589676a976267e29100ef839b71639",
+      "timestamp": 1750765081155
     }
   ]
 }
