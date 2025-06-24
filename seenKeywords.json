@@ -2720,6 +2720,11 @@
       "site": "JobGurus",
       "id": "0470e209912a7bff7a86f6340e51fa27",
       "timestamp": 1750508914087
+    },
+    {
+      "site": "JobGurus",
+      "id": "bbd9489ba7fe09d7f088c6c0446a610b",
+      "timestamp": 1750763643928
     }
   ],
   "international fertilizer development center": [
@@ -4924,6 +4929,34 @@
       "site": "JobGurus",
       "id": "efe24e25aec127eceead8a7694737d08",
       "timestamp": 1750761941240
+    }
+  ],
+  "egbin power plc": [
+    {
+      "site": "JobGurus",
+      "id": "653e35e683e016da18a9ad4711ffc8e8",
+      "timestamp": 1750763643928
+    }
+  ],
+  "uleval technology": [
+    {
+      "site": "JobGurus",
+      "id": "859beca5553ab4e3125c893c0cef8f4b",
+      "timestamp": 1750763643928
+    }
+  ],
+  "joseph robotics lab and tech": [
+    {
+      "site": "JobGurus",
+      "id": "e62da856bf3d69f814d60fa7f0976430",
+      "timestamp": 1750763643928
+    }
+  ],
+  "monmartt": [
+    {
+      "site": "JobGurus",
+      "id": "1eeefc8731b8d5879931d4c7db9e38ac",
+      "timestamp": 1750763643928
     }
   ]
 }
