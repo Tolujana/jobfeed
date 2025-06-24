@@ -2880,8 +2880,8 @@
   "addosser investment limited": [
     {
       "site": "JobGurus",
-      "id": "7871e2f2f3ed4b0b4b6231764708c780",
-      "timestamp": 1749817918789
+      "id": "46c65840791bf1b34d4fe38ee43505ec",
+      "timestamp": 1750776220163
     }
   ],
   "hb oneira nigeria limited": [
@@ -3340,8 +3340,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "8e0d4fdeabb4741499de023d78deda3f",
-      "timestamp": 1750083345184
+      "id": "e134167b3a5ae4e6885bb1f02b4d8f6a",
+      "timestamp": 1750776220163
     }
   ],
   "smartcity plc": [
@@ -5039,6 +5039,27 @@
       "site": "JobGurus",
       "id": "f442694a1e2fb6b9de5d57d1dd4e970a",
       "timestamp": 1750774545642
+    }
+  ],
+  "gosub limited": [
+    {
+      "site": "JobGurus",
+      "id": "7231db9f5b83dabf1a58b2a93564d0c5",
+      "timestamp": 1750776220163
+    }
+  ],
+  "karishma cdk limited": [
+    {
+      "site": "JobGurus",
+      "id": "7fba6d22c1137661097f377b1603a223",
+      "timestamp": 1750776220163
+    }
+  ],
+  "gped global services": [
+    {
+      "site": "JobGurus",
+      "id": "4ab81d51de8577eb828137aa13106091",
+      "timestamp": 1750776220163
     }
   ]
 }
