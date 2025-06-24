@@ -635,6 +635,16 @@
       "site": "JobGurus",
       "id": "99439ee37eccda8a2987a96e30cd18cb",
       "timestamp": 1750670342782
+    },
+    {
+      "site": "JobGurus",
+      "id": "6cb901c4553068c04eda7c46e979cc37",
+      "timestamp": 1750758190251
+    },
+    {
+      "site": "JobGurus",
+      "id": "63a7d2f99c1c5697d64fb8dd67fc176a",
+      "timestamp": 1750758190251
     }
   ],
   "food concepts plc": [
@@ -1907,8 +1917,8 @@
   "jmg limited": [
     {
       "site": "JobGurus",
-      "id": "fda377ab67053ec41b7ea19da2f983f9",
-      "timestamp": 1749482220267
+      "id": "2f0a83ae4976d8a4c52338016ac8f583",
+      "timestamp": 1750758190251
     }
   ],
   "vet etcetera limited": [
@@ -4874,6 +4884,13 @@
       "site": "JobGurus",
       "id": "79711813edd429874a3c41b3abf73a43",
       "timestamp": 1750707398436
+    }
+  ],
+  "stardom lounge": [
+    {
+      "site": "JobGurus",
+      "id": "dbccfa983fbee009c2c7a73091d3b6dc",
+      "timestamp": 1750758190251
     }
   ]
 }
