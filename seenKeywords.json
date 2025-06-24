@@ -697,8 +697,8 @@
   "lisse africa": [
     {
       "site": "JobGurus",
-      "id": "0f27d78a61098addff665b0019cae034",
-      "timestamp": 1750073862155
+      "id": "3859c5720d5d5cb46970d57a5bf563be",
+      "timestamp": 1750760253444
     }
   ],
   "guo transport company": [
@@ -4891,6 +4891,20 @@
       "site": "JobGurus",
       "id": "dbccfa983fbee009c2c7a73091d3b6dc",
       "timestamp": 1750758190251
+    }
+  ],
+  "ecozar technologies": [
+    {
+      "site": "JobGurus",
+      "id": "194277788a265562a6952fbb219a1f56",
+      "timestamp": 1750760253444
+    }
+  ],
+  "agiville industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "fefdd5c7d5a68f8842771365be53951e",
+      "timestamp": 1750760253444
     }
   ]
 }
