@@ -2595,18 +2595,8 @@
   "amani advisory limited": [
     {
       "site": "JobGurus",
-      "id": "51adcee9899d568827528f82546d7240",
-      "timestamp": 1749725099890
-    },
-    {
-      "site": "JobGurus",
-      "id": "b0f94289ec6e6a79a24ec67156126622",
-      "timestamp": 1749726799430
-    },
-    {
-      "site": "JobGurus",
-      "id": "fede88d710a2747d095d6c7d56854c65",
-      "timestamp": 1749728232526
+      "id": "fedf927663c13727cc690a58115185c5",
+      "timestamp": 1750848331251
     }
   ],
   "enviable group": [
@@ -3030,8 +3020,8 @@
   "bogo beverages limited": [
     {
       "site": "JobGurus",
-      "id": "ce146886502a177d19b9be8ffb74e4c7",
-      "timestamp": 1749914052086
+      "id": "f053f2854b19d617f9d7147d0b4b5592",
+      "timestamp": 1750848331251
     }
   ],
   "oic partners": [
@@ -5114,6 +5104,27 @@
       "site": "JobGurus",
       "id": "978e786add21e68373df200ca3594f90",
       "timestamp": 1750846654880
+    }
+  ],
+  "opay": [
+    {
+      "site": "JobGurus",
+      "id": "c4937697227e612a7e52e4a8b53f67ba",
+      "timestamp": 1750848331251
+    }
+  ],
+  "congenital heart disease foundation of nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "8da0a015c4b343cf023c267cbf7dcb45",
+      "timestamp": 1750848331251
+    }
+  ],
+  "scentarcade": [
+    {
+      "site": "JobGurus",
+      "id": "0875084242efdab1bda92beaaa84e047",
+      "timestamp": 1750848331251
     }
   ]
 }
