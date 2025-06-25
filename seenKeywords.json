@@ -342,8 +342,8 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "81209ea3fecce1ec9b8e14b3134e675f",
-      "timestamp": 1748942241466
+      "id": "3cafb2ca5970b22a672df44ee21a7e79",
+      "timestamp": 1750864651300
     }
   ],
   "jamub group": [
@@ -5153,6 +5153,34 @@
       "site": "JobGurus",
       "id": "ed151c492c98c57fa81bbff8067e6771",
       "timestamp": 1750851506314
+    }
+  ],
+  "olamide recruiting": [
+    {
+      "site": "JobGurus",
+      "id": "78cf8472f87cecf2cd60cdb5e1f45b71",
+      "timestamp": 1750864651300
+    }
+  ],
+  "ibadan business school": [
+    {
+      "site": "JobGurus",
+      "id": "94cebd91f862476e0e3f4990c54b9051",
+      "timestamp": 1750864651300
+    }
+  ],
+  "medbury medical services": [
+    {
+      "site": "JobGurus",
+      "id": "793ae36a1dc93ae50df67083deee02a9",
+      "timestamp": 1750864651300
+    }
+  ],
+  "hrhub.ng limited": [
+    {
+      "site": "JobGurus",
+      "id": "dcc1560c1127ff27d8a6f85f736dbcf3",
+      "timestamp": 1750864651300
     }
   ]
 }
