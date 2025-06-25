@@ -344,6 +344,11 @@
       "site": "JobGurus",
       "id": "3cafb2ca5970b22a672df44ee21a7e79",
       "timestamp": 1750864651300
+    },
+    {
+      "site": "JobGurus",
+      "id": "8c8441d10f83307c84836dc217071030",
+      "timestamp": 1750866229264
     }
   ],
   "jamub group": [
@@ -531,8 +536,8 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "ea0a89865aff3c750da86cdd5af94b9b",
-      "timestamp": 1748953945393
+      "id": "7a03b88edf291b20c38a86cbd38e4b16",
+      "timestamp": 1750866229264
     }
   ],
   "cig motors co. limited": [
@@ -5181,6 +5186,20 @@
       "site": "JobGurus",
       "id": "dcc1560c1127ff27d8a6f85f736dbcf3",
       "timestamp": 1750864651300
+    }
+  ],
+  "federal college of education": [
+    {
+      "site": "JobGurus",
+      "id": "dce187030f79495822461c8c326f1699",
+      "timestamp": 1750866229264
+    }
+  ],
+  "nepal energy": [
+    {
+      "site": "JobGurus",
+      "id": "6e1a872be4bb178d9d45ee5ce5be3123",
+      "timestamp": 1750866229264
     }
   ]
 }
