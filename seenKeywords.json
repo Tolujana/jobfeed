@@ -2294,8 +2294,8 @@
   "speedaf express": [
     {
       "site": "JobGurus",
-      "id": "47e95d61af8f1f46461d6ba2308e37c9",
-      "timestamp": 1749634914062
+      "id": "4098a66a650b3da47c2e5b28ecc55c56",
+      "timestamp": 1750949015482
     }
   ],
   "ujt logistics services limited": [
@@ -5219,6 +5219,13 @@
       "site": "JobGurus",
       "id": "9c2a503f604441d9d18908f0a1a1ef54",
       "timestamp": 1750870165768
+    }
+  ],
+  "field intelligence": [
+    {
+      "site": "JobGurus",
+      "id": "7ecb1f44e754e4025cccfd32608154ca",
+      "timestamp": 1750949015482
     }
   ]
 }
