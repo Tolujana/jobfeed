@@ -4161,8 +4161,8 @@
   "wts energy": [
     {
       "site": "JobGurus",
-      "id": "ea1fe974a2a9e73a92bd0e24d0058e82",
-      "timestamp": 1750353197181
+      "id": "41ea2347f173042233bf4863f1b4e713",
+      "timestamp": 1750965141216
     }
   ],
   "prixair group": [
@@ -5287,6 +5287,11 @@
       "site": "JobGurus",
       "id": "c1b2c556092dea5fad0bf5d69420fad3",
       "timestamp": 1750959655629
+    },
+    {
+      "site": "JobGurus",
+      "id": "6561ebffad31febfcf7abb6ed1c06375",
+      "timestamp": 1750965141216
     }
   ],
   "ak entertainment": [
@@ -5341,6 +5346,27 @@
       "site": "JobGurus",
       "id": "dc5c03cfa96f496037ee16daecb80e5f",
       "timestamp": 1750963759836
+    }
+  ],
+  "successmove integrated logistics services": [
+    {
+      "site": "JobGurus",
+      "id": "dd3dea7b656566e4e80597c0a64c28de",
+      "timestamp": 1750965141216
+    }
+  ],
+  "oyomesi specialist hospital": [
+    {
+      "site": "JobGurus",
+      "id": "65f523506a0c88d628bb1f760be053ba",
+      "timestamp": 1750965141216
+    }
+  ],
+  "bakangizo pharmacy and stores": [
+    {
+      "site": "JobGurus",
+      "id": "6741db101fab864b05141ada9bfe6a99",
+      "timestamp": 1750965141216
     }
   ]
 }
