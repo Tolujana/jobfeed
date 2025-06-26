@@ -597,6 +597,11 @@
       "site": "JobGurus",
       "id": "2bbb76636e5fafaafc6db2ed9724c6a7",
       "timestamp": 1750954775302
+    },
+    {
+      "site": "JobGurus",
+      "id": "04efa463999e193a5982bb807c8a0f61",
+      "timestamp": 1750963759836
     }
   ],
   "abbfem group": [
@@ -2830,8 +2835,13 @@
   "hobark international limited": [
     {
       "site": "JobGurus",
-      "id": "421c3e12940b455ccd3c1abcf2245c9c",
-      "timestamp": 1749811462683
+      "id": "e755ad5f185525ecbf2bebcea9729e31",
+      "timestamp": 1750963759836
+    },
+    {
+      "site": "JobGurus",
+      "id": "f3d53ba07c443f288bf598d54ba8f02c",
+      "timestamp": 1750963759836
     }
   ],
   "elvaridah": [
@@ -4144,8 +4154,8 @@
   "kayode obembe properties limited": [
     {
       "site": "JobGurus",
-      "id": "6202078983d4957ecbe9176aa2b377c8",
-      "timestamp": 1750351608035
+      "id": "4af841596d38f710454563d3bae576b4",
+      "timestamp": 1750963759836
     }
   ],
   "wts energy": [
@@ -5324,6 +5334,13 @@
       "site": "JobGurus",
       "id": "a46d571b4c0e0579a80783501a8651a5",
       "timestamp": 1750962132993
+    }
+  ],
+  "blue wave new energy technology nigeria company limited": [
+    {
+      "site": "JobGurus",
+      "id": "dc5c03cfa96f496037ee16daecb80e5f",
+      "timestamp": 1750963759836
     }
   ]
 }
