@@ -585,11 +585,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "b3ac4f332d619403538fe67004280984",
-      "timestamp": 1750268655739
-    },
-    {
-      "site": "JobGurus",
       "id": "12ce2c3d1d1ac30f038017016074414b",
       "timestamp": 1750704583672
     },
@@ -597,6 +592,11 @@
       "site": "JobGurus",
       "id": "20e48e4c7c1bffd944b203f083c6c8c1",
       "timestamp": 1750868420371
+    },
+    {
+      "site": "JobGurus",
+      "id": "2bbb76636e5fafaafc6db2ed9724c6a7",
+      "timestamp": 1750954775302
     }
   ],
   "abbfem group": [
@@ -2938,8 +2938,8 @@
   "resource intermediaries limited": [
     {
       "site": "JobGurus",
-      "id": "f77d53c0aa74dbde1dd199105b13811e",
-      "timestamp": 1749822505671
+      "id": "b0e5acf796279b4a74157623b5373096",
+      "timestamp": 1750954775302
     }
   ],
   "oisedotcom limited": [
@@ -3847,8 +3847,8 @@
   "the borough lagos": [
     {
       "site": "JobGurus",
-      "id": "251341e60981a5f3494670204facf0cd",
-      "timestamp": 1750256147670
+      "id": "71bd00f1901de04260c0367ef8865cb6",
+      "timestamp": 1750954775302
     }
   ],
   "cig motors company limited": [
@@ -5247,6 +5247,20 @@
       "site": "JobGurus",
       "id": "b419c3a5eab217cdf888ae838a46de5a",
       "timestamp": 1750952505551
+    }
+  ],
+  "funtay global resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "71f91be34bd8a274bc218f95fb0de786",
+      "timestamp": 1750954775302
+    }
+  ],
+  "white soul group": [
+    {
+      "site": "JobGurus",
+      "id": "d53253ec44951923503bf806e0b9dc6d",
+      "timestamp": 1750954775302
     }
   ]
 }
