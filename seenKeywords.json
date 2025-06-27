@@ -684,8 +684,8 @@
   "alan & grant": [
     {
       "site": "JobGurus",
-      "id": "451f89a8b44e7ad5b23772a64273d660",
-      "timestamp": 1750238248224
+      "id": "1672e1e620b2178e8b0fbd1ee43ec59d",
+      "timestamp": 1751021085167
     }
   ],
   "vantegral consulting": [
@@ -2842,6 +2842,11 @@
       "site": "JobGurus",
       "id": "f3d53ba07c443f288bf598d54ba8f02c",
       "timestamp": 1750963759836
+    },
+    {
+      "site": "JobGurus",
+      "id": "544f46e620007604d499b175a367dbbe",
+      "timestamp": 1751021085167
     }
   ],
   "elvaridah": [
@@ -3337,6 +3342,11 @@
       "site": "JobGurus",
       "id": "e134167b3a5ae4e6885bb1f02b4d8f6a",
       "timestamp": 1750776220163
+    },
+    {
+      "site": "JobGurus",
+      "id": "ed3d1e7021f12cf373b2a074c6bbc1e3",
+      "timestamp": 1751021085167
     }
   ],
   "smartcity plc": [
