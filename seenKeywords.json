@@ -1618,6 +1618,11 @@
       "site": "JobGurus",
       "id": "b3741f40f3afc4e52485ecfe7c13ca10",
       "timestamp": 1750868420371
+    },
+    {
+      "site": "JobGurus",
+      "id": "2bdf7fc028efea62cac2b4cef1ca4a97",
+      "timestamp": 1751032070968
     }
   ],
   "reliance health": [
@@ -2337,8 +2342,8 @@
   "kkon technologies": [
     {
       "site": "JobGurus",
-      "id": "6d06f25ef2196d72c40afdf86789f039",
-      "timestamp": 1749637037849
+      "id": "9a030289e2d9f381ee44146920ecbdcb",
+      "timestamp": 1751032070968
     }
   ],
   "kcl jobs": [
@@ -5515,6 +5520,25 @@
       "site": "JobGurus",
       "id": "e7f1b162523e69918ad7cfe8f3a2acef",
       "timestamp": 1751030861651
+    },
+    {
+      "site": "JobGurus",
+      "id": "89c38085e64f382188bb5deb9c2155ec",
+      "timestamp": 1751032070968
+    }
+  ],
+  "african natural resources and mines limited": [
+    {
+      "site": "JobGurus",
+      "id": "7b7979866fe492bee939c535ed80e1e8",
+      "timestamp": 1751032070968
+    }
+  ],
+  "st. david's pharmacy nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "987408b4aa6bb56bc82ca99dce4bf50e",
+      "timestamp": 1751032070968
     }
   ]
 }
