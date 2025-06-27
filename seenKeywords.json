@@ -2018,8 +2018,8 @@
   "kumesoft technology": [
     {
       "site": "JobGurus",
-      "id": "f560d24985766b29110ff172ef41bbef",
-      "timestamp": 1749485992778
+      "id": "91d04e87ef0f1a69e3e0939696ab3f56",
+      "timestamp": 1751046024015
     }
   ],
   "just inches limited": [
@@ -4102,6 +4102,16 @@
       "site": "JobGurus",
       "id": "bb9e411446fd28182331aab7307cecdc",
       "timestamp": 1751044415886
+    },
+    {
+      "site": "JobGurus",
+      "id": "d956990379355caf9a05da81b82b6e66",
+      "timestamp": 1751046024015
+    },
+    {
+      "site": "JobGurus",
+      "id": "26550850d6db60375beb78eaa98949af",
+      "timestamp": 1751046024015
     }
   ],
   "biomedical limited": [
@@ -5563,6 +5573,20 @@
       "site": "JobGurus",
       "id": "0e73d0c0f4013b23ed2da1426b2974eb",
       "timestamp": 1751044415886
+    }
+  ],
+  "updeal resources": [
+    {
+      "site": "JobGurus",
+      "id": "096ef2a352928ed76dad8ae49bc01e6b",
+      "timestamp": 1751046024015
+    }
+  ],
+  "macden communications limited": [
+    {
+      "site": "JobGurus",
+      "id": "30763c016389153105b55ba46e246156",
+      "timestamp": 1751046024015
     }
   ]
 }
