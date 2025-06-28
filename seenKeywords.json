@@ -1109,8 +1109,8 @@
   "zipline": [
     {
       "site": "JobGurus",
-      "id": "6be5dfb3aa055f887cde2abf251db8fa",
-      "timestamp": 1749130137286
+      "id": "3345983bd53b66492a0d8d55b5703c74",
+      "timestamp": 1751125114805
     }
   ],
   "fave consulting": [
@@ -2819,8 +2819,8 @@
   "fortis global insurance plc": [
     {
       "site": "JobGurus",
-      "id": "4a1130498dd3580fac2e6d6ba3af39ce",
-      "timestamp": 1749741431229
+      "id": "21b5bbb9eb84060cef65a0c1c986091d",
+      "timestamp": 1751125114805
     }
   ],
   "infinity tyres limited": [
@@ -5654,6 +5654,20 @@
       "site": "JobGurus",
       "id": "b78c7e6b309e84533bdb35be43196c10",
       "timestamp": 1751123656545
+    }
+  ],
+  "natafamdavid consulting nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "658ad5f82b7836b64c66990ed747d612",
+      "timestamp": 1751125114805
+    }
+  ],
+  "co creation hub": [
+    {
+      "site": "JobGurus",
+      "id": "58299b7c038fa2829f38d37d460f1cd3",
+      "timestamp": 1751125114805
     }
   ]
 }
