@@ -607,6 +607,11 @@
       "site": "JobGurus",
       "id": "fbb5309a2c8eb750d8d8ae05a650f087",
       "timestamp": 1751022813485
+    },
+    {
+      "site": "JobGurus",
+      "id": "829866e7ab3ee06cb02c42de7c3a92c9",
+      "timestamp": 1751123656545
     }
   ],
   "abbfem group": [
@@ -5635,6 +5640,20 @@
       "site": "JobGurus",
       "id": "839e4c87c3f4bd49e3d060bfc326afc2",
       "timestamp": 1751121658982
+    }
+  ],
+  "waterbrooks human resource enterprise": [
+    {
+      "site": "JobGurus",
+      "id": "a7a6325347b9ae2eb8bcd22e13ee616d",
+      "timestamp": 1751123656545
+    }
+  ],
+  "septagus consulting nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "b78c7e6b309e84533bdb35be43196c10",
+      "timestamp": 1751123656545
     }
   ]
 }
