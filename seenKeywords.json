@@ -3470,8 +3470,13 @@
   "r & r recruitment services": [
     {
       "site": "JobGurus",
-      "id": "fdb56c615b784fa0576b287a3e95b164",
-      "timestamp": 1750099755187
+      "id": "0c6c9625e944d7284e699ff351a6236d",
+      "timestamp": 1751127464693
+    },
+    {
+      "site": "JobGurus",
+      "id": "6ff4b736ae358f8789e46c90d8e5dc79",
+      "timestamp": 1751127464693
     }
   ],
   "malaria consortium": [
@@ -5668,6 +5673,18 @@
       "site": "JobGurus",
       "id": "58299b7c038fa2829f38d37d460f1cd3",
       "timestamp": 1751125114805
+    }
+  ],
+  "kuda bank": [
+    {
+      "site": "JobGurus",
+      "id": "648304ac7f7e854f7d0fbfe388341056",
+      "timestamp": 1751127464693
+    },
+    {
+      "site": "JobGurus",
+      "id": "ec3ba45574efb1fc1a44c173c7aadbb2",
+      "timestamp": 1751127464693
     }
   ]
 }
