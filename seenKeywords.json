@@ -3848,8 +3848,8 @@
   "technoserve": [
     {
       "site": "JobGurus",
-      "id": "b953885f32b6fb92cd392fe12168404e",
-      "timestamp": 1750245234855
+      "id": "921016c5289736cd6e51f440b053f2e9",
+      "timestamp": 1751121658982
     }
   ],
   "polaris bank limited": [
@@ -5611,6 +5611,30 @@
       "site": "JobGurus",
       "id": "196928fd960dad43d3ef2373bcd4cf95",
       "timestamp": 1751048494280
+    }
+  ],
+  "daystar power group": [
+    {
+      "site": "JobGurus",
+      "id": "c2764d228b566d38270404aef498ad6e",
+      "timestamp": 1751121658982
+    },
+    {
+      "site": "JobGurus",
+      "id": "61a774f43f60314cc44d63f120c975bb",
+      "timestamp": 1751121658982
+    },
+    {
+      "site": "JobGurus",
+      "id": "f517bb3204faa8433d9c4ce313f7230b",
+      "timestamp": 1751121658982
+    }
+  ],
+  "traveldeer": [
+    {
+      "site": "JobGurus",
+      "id": "839e4c87c3f4bd49e3d060bfc326afc2",
+      "timestamp": 1751121658982
     }
   ]
 }
