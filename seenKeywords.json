@@ -439,23 +439,8 @@
   "raphael group": [
     {
       "site": "JobGurus",
-      "id": "fa024a38c3257a02ab3f58de2e454395",
-      "timestamp": 1749734976802
-    },
-    {
-      "site": "JobGurus",
-      "id": "71bccfd70a6549988119d40062dcd30c",
-      "timestamp": 1749734976802
-    },
-    {
-      "site": "JobGurus",
-      "id": "06204c1e544b92aff9adef47d2e67ec5",
-      "timestamp": 1749742950417
-    },
-    {
-      "site": "JobGurus",
-      "id": "dd7f62b4c1371c38ae5884eceffe7ff9",
-      "timestamp": 1750324632606
+      "id": "28a2e8eff20e7a1571036eb0f4548d7e",
+      "timestamp": 1751294626757
     }
   ],
   "debmyk consult": [
@@ -4906,6 +4891,11 @@
       "site": "JobGurus",
       "id": "0832bbdcf01a1d8e156673b2b8b4cd6f",
       "timestamp": 1750707398436
+    },
+    {
+      "site": "JobGurus",
+      "id": "90d7fc13232ba78abba39552c68f38ba",
+      "timestamp": 1751294626757
     }
   ],
   "mwanga limited": [
@@ -5739,6 +5729,11 @@
       "site": "JobGurus",
       "id": "cd257708157215bca3d2e108840f5224",
       "timestamp": 1751290202806
+    },
+    {
+      "site": "JobGurus",
+      "id": "939532230be00e747299bce721f6ae25",
+      "timestamp": 1751294626757
     }
   ],
   "iengineering corporation": [
@@ -5795,6 +5790,20 @@
       "site": "JobGurus",
       "id": "a176094f56878dd477a58c806acf22fc",
       "timestamp": 1751292939787
+    }
+  ],
+  "eat 'n’ go limited": [
+    {
+      "site": "JobGurus",
+      "id": "8f7204704f96f43a4de0967ad16e4c3a",
+      "timestamp": 1751294626757
+    }
+  ],
+  "peridot forte solutions consulting": [
+    {
+      "site": "JobGurus",
+      "id": "9985f5d0e14d2d4ff1ce967268792446",
+      "timestamp": 1751294626757
     }
   ]
 }
