@@ -1464,13 +1464,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "d88e806c948e3dff72b3a2a7f64ac8c3",
-      "timestamp": 1750073862155
-    },
-    {
-      "site": "JobGurus",
-      "id": "13ca23e5e0139a321687c9ae058c95cc",
-      "timestamp": 1750418010079
+      "id": "18872fd5f57860a558eee2e96ae34db2",
+      "timestamp": 1751280335167
     }
   ],
   "jtech global resources limited": [
@@ -3621,8 +3616,8 @@
   "glovo nigeria": [
     {
       "site": "JobGurus",
-      "id": "ed82e04e2411ef8f88d8790ba833ecaa",
-      "timestamp": 1750169766989
+      "id": "cf1fea928609d817e1e86a3a8c5b9b68",
+      "timestamp": 1751280335167
     }
   ],
   "mikano international": [
@@ -5685,6 +5680,13 @@
       "site": "JobGurus",
       "id": "ec3ba45574efb1fc1a44c173c7aadbb2",
       "timestamp": 1751127464693
+    }
+  ],
+  "boing pinnacle limited": [
+    {
+      "site": "JobGurus",
+      "id": "a6e0e2300583a04d11eb9b0264c3ba25",
+      "timestamp": 1751280335167
     }
   ]
 }
