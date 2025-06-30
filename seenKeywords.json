@@ -5313,6 +5313,11 @@
       "site": "JobGurus",
       "id": "69d4cf594070585f6e7a47a9bceefb67",
       "timestamp": 1750952505551
+    },
+    {
+      "site": "JobGurus",
+      "id": "29a955d4e4bac46aa3fae114bcd8a67c",
+      "timestamp": 1751292939787
     }
   ],
   "mercy corps": [
@@ -5762,6 +5767,34 @@
       "site": "JobGurus",
       "id": "675f9f970ce1f7020e2b5e13bea1c0e3",
       "timestamp": 1751291498085
+    }
+  ],
+  "d’vin integrated services": [
+    {
+      "site": "JobGurus",
+      "id": "ff650265796df5753f9023736c02683d",
+      "timestamp": 1751292939787
+    }
+  ],
+  "international breweries plc": [
+    {
+      "site": "JobGurus",
+      "id": "db3f3fabd8c2c9269e06c7ae6a97c253",
+      "timestamp": 1751292939787
+    }
+  ],
+  "rosabon financial services": [
+    {
+      "site": "JobGurus",
+      "id": "1fc16a04448034efe87f3b6039ecfe1a",
+      "timestamp": 1751292939787
+    }
+  ],
+  "mfs financial services limited": [
+    {
+      "site": "JobGurus",
+      "id": "a176094f56878dd477a58c806acf22fc",
+      "timestamp": 1751292939787
     }
   ]
 }
