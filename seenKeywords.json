@@ -240,13 +240,8 @@
   "pg consulting limited": [
     {
       "site": "JobGurus",
-      "id": "312ee8c77f43addb3dde253229d1f082",
-      "timestamp": 1748897149712
-    },
-    {
-      "site": "JobGurus",
-      "id": "9ab3a3fe4117381d94e487fd49780f1e",
-      "timestamp": 1748897149712
+      "id": "6fc35a72b0d06d566647b392e6c54047",
+      "timestamp": 1751319507251
     }
   ],
   "xora technologies limited": [
@@ -4017,8 +4012,8 @@
   "tybitx services international limited": [
     {
       "site": "JobGurus",
-      "id": "705b85c6a804f82d40c6f68c03324f2b",
-      "timestamp": 1750328204679
+      "id": "cded74eb14e5274a16cf23fd22074e05",
+      "timestamp": 1751319507251
     }
   ],
   "solution impact global resources": [
@@ -5852,6 +5847,27 @@
       "site": "JobGurus",
       "id": "ba9007c2f9003ecab45add06502c4a01",
       "timestamp": 1751318087268
+    }
+  ],
+  "masruq investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "1df78364835ea90601a899a7b11b62ac",
+      "timestamp": 1751319507251
+    }
+  ],
+  "ace real estates development limited": [
+    {
+      "site": "JobGurus",
+      "id": "db8436d69f35c7b04ebf61a3e6cbda85",
+      "timestamp": 1751319507251
+    }
+  ],
+  "lucky fibres limited": [
+    {
+      "site": "JobGurus",
+      "id": "9f3d4c0810f5089e7e47b8ad39a2233f",
+      "timestamp": 1751319507251
     }
   ]
 }
