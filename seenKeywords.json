@@ -2852,6 +2852,11 @@
       "site": "JobGurus",
       "id": "544f46e620007604d499b175a367dbbe",
       "timestamp": 1751021085167
+    },
+    {
+      "site": "JobGurus",
+      "id": "4fd0a9d32a4f63f651208b0c01b81950",
+      "timestamp": 1751384514171
     }
   ],
   "elvaridah": [
@@ -6056,6 +6061,34 @@
       "site": "JobGurus",
       "id": "ce51f5ee0a077613dd3c2493e880d5db",
       "timestamp": 1751376605472
+    }
+  ],
+  "verto": [
+    {
+      "site": "JobGurus",
+      "id": "f150a66ccb721926a37cb051f60737aa",
+      "timestamp": 1751384514171
+    }
+  ],
+  "bridgemead hr. and advisory": [
+    {
+      "site": "JobGurus",
+      "id": "4e15d018d6c6b6264a69dac623a360ff",
+      "timestamp": 1751384514171
+    }
+  ],
+  "taybuwtah international": [
+    {
+      "site": "JobGurus",
+      "id": "32b496af35ff1eb84f2156bea66e579c",
+      "timestamp": 1751384514171
+    }
+  ],
+  "aa rescue limited": [
+    {
+      "site": "JobGurus",
+      "id": "a5670b18fe7a83c2803b24c8052e7985",
+      "timestamp": 1751384514171
     }
   ]
 }
