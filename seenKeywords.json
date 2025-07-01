@@ -5665,6 +5665,11 @@
       "site": "JobGurus",
       "id": "ec3ba45574efb1fc1a44c173c7aadbb2",
       "timestamp": 1751127464693
+    },
+    {
+      "site": "JobGurus",
+      "id": "0fb14d1eea3f86fe79c1d5f0562e42e3",
+      "timestamp": 1751365065849
     }
   ],
   "boing pinnacle limited": [
@@ -5922,6 +5927,34 @@
       "site": "JobGurus",
       "id": "fd3b84b599c6f6434b821bcb9cd1b295",
       "timestamp": 1751359773386
+    }
+  ],
+  "nosagie holdings": [
+    {
+      "site": "JobGurus",
+      "id": "f6ddf123a56604cf09e80f1ba6a724fe",
+      "timestamp": 1751365065849
+    }
+  ],
+  "henosis international": [
+    {
+      "site": "JobGurus",
+      "id": "3260b93a4c1a2f5235a492548c9fb65d",
+      "timestamp": 1751365065849
+    }
+  ],
+  "zte devices": [
+    {
+      "site": "JobGurus",
+      "id": "fd7e39380c3b692d1d914b00458a879f",
+      "timestamp": 1751365065849
+    }
+  ],
+  "key learning solutions": [
+    {
+      "site": "JobGurus",
+      "id": "3057c41a7b245cc575bed9455ff591ae",
+      "timestamp": 1751365065849
     }
   ]
 }
