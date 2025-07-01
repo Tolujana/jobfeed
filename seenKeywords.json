@@ -3042,8 +3042,8 @@
   "oic partners": [
     {
       "site": "JobGurus",
-      "id": "77e6c455fd2940b8c874b89c97ecc260",
-      "timestamp": 1749914052086
+      "id": "8ff63755a93267e4626159bb4774adf8",
+      "timestamp": 1751368443892
     }
   ],
   "mulligan hotel": [
@@ -3352,6 +3352,11 @@
       "site": "JobGurus",
       "id": "ed3d1e7021f12cf373b2a074c6bbc1e3",
       "timestamp": 1751021085167
+    },
+    {
+      "site": "JobGurus",
+      "id": "98259f0c00b97693f171bc6c330cf294",
+      "timestamp": 1751368443892
     }
   ],
   "smartcity plc": [
@@ -5030,6 +5035,11 @@
       "site": "JobGurus",
       "id": "67589676a976267e29100ef839b71639",
       "timestamp": 1750765081155
+    },
+    {
+      "site": "JobGurus",
+      "id": "ada8676f0c265623849d90191f623d4e",
+      "timestamp": 1751368443892
     }
   ],
   "renda limited": [
@@ -5964,6 +5974,20 @@
       "site": "JobGurus",
       "id": "3a814db4c8529f306cdd2503a1fe5d4c",
       "timestamp": 1751366746987
+    }
+  ],
+  "global hr always": [
+    {
+      "site": "JobGurus",
+      "id": "75b1316f581c75b8dc24d9a7f70f4f2b",
+      "timestamp": 1751368443892
+    }
+  ],
+  "eric kayser": [
+    {
+      "site": "JobGurus",
+      "id": "25f779382767883ae13ce94803c89989",
+      "timestamp": 1751368443892
     }
   ]
 }
