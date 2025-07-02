@@ -676,6 +676,11 @@
       "site": "JobGurus",
       "id": "2c6146bef0667001da3c140dbac6fa0e",
       "timestamp": 1751024250998
+    },
+    {
+      "site": "JobGurus",
+      "id": "f1e0c86aabdbdad1e7c3662cff78e20b",
+      "timestamp": 1751490872167
     }
   ],
   "vantegral consulting": [
@@ -6315,6 +6320,34 @@
       "site": "JobGurus",
       "id": "cc861299a246eeca32a3f1308f137cbf",
       "timestamp": 1751488837459
+    }
+  ],
+  "gn128 gn128 solutions": [
+    {
+      "site": "JobGurus",
+      "id": "9f02b6852ab2c82cb98923acd7be6ced",
+      "timestamp": 1751490872167
+    }
+  ],
+  "proforce galaxies limited": [
+    {
+      "site": "JobGurus",
+      "id": "95a18c18636d99463d3a8beffc98a134",
+      "timestamp": 1751490872167
+    }
+  ],
+  "htsf global nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "4dec9630387ccf96bc907f97bed8c3f0",
+      "timestamp": 1751490872167
+    }
+  ],
+  "recore limited": [
+    {
+      "site": "JobGurus",
+      "id": "448b5fa616981082d167a1617e4324e6",
+      "timestamp": 1751490872167
     }
   ]
 }
