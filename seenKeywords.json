@@ -1465,8 +1465,8 @@
   "techdoctorinnovations": [
     {
       "site": "JobGurus",
-      "id": "6685bc0a1c0d3a5cc3d2bed82cdd33d3",
-      "timestamp": 1749219313400
+      "id": "6b4191eee2bd446e22117aacd28e9537",
+      "timestamp": 1751470969240
     }
   ],
   "shomas supply & logistics limited": [
@@ -3113,8 +3113,8 @@
   "mactay consulting": [
     {
       "site": "JobGurus",
-      "id": "800dd18b336a2ddd7b4bb67e901fe6e6",
-      "timestamp": 1750850052681
+      "id": "08ea27d53496d1a04d903661fb742b14",
+      "timestamp": 1751470969240
     }
   ],
   "tybtitx services international limited": [
@@ -3285,8 +3285,8 @@
   "vixa pharmaceutical company limited": [
     {
       "site": "JobGurus",
-      "id": "e232c603ed9a379400a27e373353e3a2",
-      "timestamp": 1750073862155
+      "id": "bc2478eac77aa5e32012e322cd5226d7",
+      "timestamp": 1751470969240
     }
   ],
   "hamik energy limited": [
@@ -6183,6 +6183,11 @@
       "site": "JobGurus",
       "id": "e510acbb34bdcda14d6acbc448225bc7",
       "timestamp": 1751465742903
+    },
+    {
+      "site": "JobGurus",
+      "id": "4832704cbea6dfdcbb37a09c50bc06dd",
+      "timestamp": 1751470969240
     }
   ],
   "ghi assets limited": [
@@ -6211,6 +6216,13 @@
       "site": "JobGurus",
       "id": "9809663a27fd315eee9a6b1759d3346f",
       "timestamp": 1751469446164
+    }
+  ],
+  "médecins sans frontières": [
+    {
+      "site": "JobGurus",
+      "id": "32b21b94b3ec4c14c5b286bef07a4d9a",
+      "timestamp": 1751470969240
     }
   ]
 }
