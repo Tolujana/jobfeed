@@ -2110,8 +2110,8 @@
   "paykobo.com": [
     {
       "site": "JobGurus",
-      "id": "526f1a928964b3835b4c830a25b60be4",
-      "timestamp": 1749558768398
+      "id": "87447ecddbc631ba709be27566bb65b7",
+      "timestamp": 1751467439280
     }
   ],
   "bond chemical industries limited": [
@@ -2965,6 +2965,11 @@
       "site": "JobGurus",
       "id": "b0e5acf796279b4a74157623b5373096",
       "timestamp": 1750954775302
+    },
+    {
+      "site": "JobGurus",
+      "id": "2a0aece623abed6d35f8ce0382b73d74",
+      "timestamp": 1751467439280
     }
   ],
   "oisedotcom limited": [
@@ -5308,6 +5313,11 @@
       "site": "JobGurus",
       "id": "29a955d4e4bac46aa3fae114bcd8a67c",
       "timestamp": 1751292939787
+    },
+    {
+      "site": "JobGurus",
+      "id": "5a4f64531d7363346373c96140a8824b",
+      "timestamp": 1751467439280
     }
   ],
   "mercy corps": [
@@ -6173,6 +6183,20 @@
       "site": "JobGurus",
       "id": "e510acbb34bdcda14d6acbc448225bc7",
       "timestamp": 1751465742903
+    }
+  ],
+  "ghi assets limited": [
+    {
+      "site": "JobGurus",
+      "id": "463cc19a2008bb4b7beb8c375117e7f6",
+      "timestamp": 1751467439280
+    }
+  ],
+  "berger paints nigeria plc": [
+    {
+      "site": "JobGurus",
+      "id": "8b8d8a988c3705679861f917e3f314a0",
+      "timestamp": 1751467439280
     }
   ]
 }
