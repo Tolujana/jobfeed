@@ -4140,13 +4140,8 @@
   "ld&d consulting": [
     {
       "site": "JobGurus",
-      "id": "e93597b821fae75136798cfc0afeb5b2",
-      "timestamp": 1750347672974
-    },
-    {
-      "site": "JobGurus",
-      "id": "9b146033cc61ed0c2ab11247882c1655",
-      "timestamp": 1750358859529
+      "id": "b531fc6c109afeaf7dd14395c84aa39e",
+      "timestamp": 1751482175033
     }
   ],
   "roqqu nigeria limited": [
@@ -5287,8 +5282,8 @@
   "the changeroom": [
     {
       "site": "JobGurus",
-      "id": "9c2a503f604441d9d18908f0a1a1ef54",
-      "timestamp": 1750870165768
+      "id": "ecb2df34f6dc505e39edb6ad5d9ed070",
+      "timestamp": 1751482175033
     }
   ],
   "field intelligence": [
@@ -6176,6 +6171,11 @@
       "site": "JobGurus",
       "id": "fc99c86be99eddee49470df35b3b49cb",
       "timestamp": 1751465742903
+    },
+    {
+      "site": "JobGurus",
+      "id": "cfd80a84fa3c88155e0430a1b609d106",
+      "timestamp": 1751482175033
     }
   ],
   "hoop telecoms limited": [
@@ -6223,6 +6223,20 @@
       "site": "JobGurus",
       "id": "32b21b94b3ec4c14c5b286bef07a4d9a",
       "timestamp": 1751470969240
+    }
+  ],
+  "distritech distribution": [
+    {
+      "site": "JobGurus",
+      "id": "fd6f0e51015d8cd59b776d591e27d72f",
+      "timestamp": 1751482175033
+    }
+  ],
+  "nigeria sinotruck limited": [
+    {
+      "site": "JobGurus",
+      "id": "67f37a48c7aed297e04990cb2979819c",
+      "timestamp": 1751482175033
     }
   ]
 }
