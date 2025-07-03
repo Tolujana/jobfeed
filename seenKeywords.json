@@ -217,6 +217,11 @@
       "site": "JobGurus",
       "id": "6fc35a72b0d06d566647b392e6c54047",
       "timestamp": 1751319507251
+    },
+    {
+      "site": "JobGurus",
+      "id": "087cac586e4f472560b9d08cb254fabe",
+      "timestamp": 1751542679318
     }
   ],
   "xora technologies limited": [
@@ -3943,8 +3948,8 @@
   "bhel and moore": [
     {
       "site": "JobGurus",
-      "id": "f5b1fffb7ba66dd9c47480a38e9ce433",
-      "timestamp": 1750270913863
+      "id": "41c2e038fb130820aec814e1d9865dcc",
+      "timestamp": 1751542679318
     }
   ],
   "bureau veritas": [
@@ -6367,6 +6372,11 @@
       "site": "JobGurus",
       "id": "8d52c331bf7db1f201820e27a5a837fb",
       "timestamp": 1751537854821
+    },
+    {
+      "site": "JobGurus",
+      "id": "ef84a0d3ecf86c9058eaa2a44202a3a4",
+      "timestamp": 1751542679318
     }
   ],
   "naija global logistics limited": [
@@ -6409,6 +6419,20 @@
       "site": "JobGurus",
       "id": "0d4a8c2fc64655a6d8c17740e8f381e6",
       "timestamp": 1751541237989
+    }
+  ],
+  "zim integrated shipping services limited": [
+    {
+      "site": "JobGurus",
+      "id": "e15f811874fb22e575a34fcfe1c7db33",
+      "timestamp": 1751542679318
+    }
+  ],
+  "youverify": [
+    {
+      "site": "JobGurus",
+      "id": "73165399f75afb584bf9a25b49991b59",
+      "timestamp": 1751542679318
     }
   ]
 }
