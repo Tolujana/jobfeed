@@ -5751,6 +5751,11 @@
       "site": "JobGurus",
       "id": "db3f3fabd8c2c9269e06c7ae6a97c253",
       "timestamp": 1751292939787
+    },
+    {
+      "site": "JobGurus",
+      "id": "c04b5122a66ec4577360421fb84d28f4",
+      "timestamp": 1751537854821
     }
   ],
   "rosabon financial services": [
@@ -6355,6 +6360,20 @@
       "site": "JobGurus",
       "id": "9e078a2732e55b67954df9b727912d03",
       "timestamp": 1751535776554
+    }
+  ],
+  "kyosk digital services limited": [
+    {
+      "site": "JobGurus",
+      "id": "8d52c331bf7db1f201820e27a5a837fb",
+      "timestamp": 1751537854821
+    }
+  ],
+  "naija global logistics limited": [
+    {
+      "site": "JobGurus",
+      "id": "b1b650dbe0e7ec1a4235f6709cf93491",
+      "timestamp": 1751537854821
     }
   ]
 }
