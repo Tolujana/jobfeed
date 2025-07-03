@@ -738,6 +738,11 @@
       "site": "JobGurus",
       "id": "758ec2a81dfd2c89f4ec8d8b3972d0f8",
       "timestamp": 1751314609820
+    },
+    {
+      "site": "JobGurus",
+      "id": "e122d627b426b43ef358d0c996503c6c",
+      "timestamp": 1751549284889
     }
   ],
   "greensprings school": [
@@ -943,8 +948,8 @@
   "jameda concepts": [
     {
       "site": "JobGurus",
-      "id": "904998d2c79e097a1df6c35ca504d6fe",
-      "timestamp": 1749122038903
+      "id": "a26453ad00138b49fe21cdd5835a453a",
+      "timestamp": 1751549284889
     }
   ],
   "international flavors & fragrances": [
@@ -6445,6 +6450,27 @@
       "site": "JobGurus",
       "id": "410f8c53f38ec4512b56287172628e87",
       "timestamp": 1751545990882
+    }
+  ],
+  "tailored talent": [
+    {
+      "site": "JobGurus",
+      "id": "9b3f25c53f2b35188eb9f49f5f340399",
+      "timestamp": 1751549284889
+    }
+  ],
+  "lopterra services limited": [
+    {
+      "site": "JobGurus",
+      "id": "4d8c14d6456fc8f45b8415a3fa26c376",
+      "timestamp": 1751549284889
+    }
+  ],
+  "tizeti network limited": [
+    {
+      "site": "JobGurus",
+      "id": "bdbd6ba93ac7ba766b4dd2a8555fba74",
+      "timestamp": 1751549284889
     }
   ]
 }
