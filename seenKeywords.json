@@ -940,8 +940,8 @@
   "international flavors & fragrances": [
     {
       "site": "JobGurus",
-      "id": "b5fddf28fc7cfa483a5a29c0f1d49e5e",
-      "timestamp": 1749122038903
+      "id": "7bd47315660f42e6381701b3dfb76e4f",
+      "timestamp": 1751541237989
     }
   ],
   "libertypay": [
@@ -1011,18 +1011,13 @@
   "canonical nigeria": [
     {
       "site": "JobGurus",
-      "id": "0a813e178c776fb0b3fe5db6800f92b4",
-      "timestamp": 1750505823165
-    },
-    {
-      "site": "JobGurus",
-      "id": "2e4ed94a8ca9b7581d4e2729a738b0da",
-      "timestamp": 1750851506314
-    },
-    {
-      "site": "JobGurus",
       "id": "a387e6a63ed69d13315d21226e7ce8df",
       "timestamp": 1751030861651
+    },
+    {
+      "site": "JobGurus",
+      "id": "e7c9511ff0a1fdb59421c793952bb9cf",
+      "timestamp": 1751541237989
     }
   ],
   "beebeejump international limited": [
@@ -6393,6 +6388,27 @@
       "site": "JobGurus",
       "id": "8a3c5073595ca6ddc53f63fa96ea8051",
       "timestamp": 1751539513274
+    }
+  ],
+  "new healthway company": [
+    {
+      "site": "JobGurus",
+      "id": "7f4d5b495586cc7a18515953aa5f3036",
+      "timestamp": 1751541237989
+    }
+  ],
+  "myafrimall logistics limited": [
+    {
+      "site": "JobGurus",
+      "id": "96029e0791552569bcf1e374dc1cd83e",
+      "timestamp": 1751541237989
+    }
+  ],
+  "chellarams nigeria plc": [
+    {
+      "site": "JobGurus",
+      "id": "0d4a8c2fc64655a6d8c17740e8f381e6",
+      "timestamp": 1751541237989
     }
   ]
 }
