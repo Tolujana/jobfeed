@@ -147,6 +147,11 @@
       "site": "JobGurus",
       "id": "a82f580db8c89981fec5bb99e0cb2e61",
       "timestamp": 1751552167670
+    },
+    {
+      "site": "JobGurus",
+      "id": "3e868d9c81512d0d495f79487255c355",
+      "timestamp": 1751555817817
     }
   ],
   "cway group": [
@@ -2524,8 +2529,8 @@
   "hilton worldwide": [
     {
       "site": "JobGurus",
-      "id": "f7c328b7e9286a7717654a5629e16ec6",
-      "timestamp": 1749666114572
+      "id": "d04923842c33d5879dd18cf69f24dcfa",
+      "timestamp": 1751555817817
     }
   ],
   "bss consulting limited": [
@@ -6550,6 +6555,13 @@
       "site": "JobGurus",
       "id": "d007b77105324927be7a853b3cbf1afb",
       "timestamp": 1751553809553
+    }
+  ],
+  "karisa consults limited": [
+    {
+      "site": "JobGurus",
+      "id": "c8b2dc4b163065a45c5c23d0221d4648",
+      "timestamp": 1751555817817
     }
   ]
 }
