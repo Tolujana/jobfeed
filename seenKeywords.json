@@ -140,33 +140,8 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "2b21a2813a79e89eafb8d27379846f2b",
-      "timestamp": 1750236494458
-    },
-    {
-      "site": "JobGurus",
-      "id": "2cd18b27a1dbc5bcb1a97f5771052240",
-      "timestamp": 1750238248224
-    },
-    {
-      "site": "JobGurus",
-      "id": "d4d9996c95be2894165bb55efbe33442",
-      "timestamp": 1750238248224
-    },
-    {
-      "site": "JobGurus",
-      "id": "3a6d1adadb2d5c6813413025cc22bdbf",
-      "timestamp": 1750675540868
-    },
-    {
-      "site": "JobGurus",
-      "id": "9bbe4590d74cc418820d36cc71771c79",
-      "timestamp": 1750675540868
-    },
-    {
-      "site": "JobGurus",
-      "id": "3b75bdefd3141b7e2aa74ed89225a6e0",
-      "timestamp": 1750761941240
+      "id": "877f2661b1981008e66f6183829014d8",
+      "timestamp": 1751535776554
     }
   ],
   "cway group": [
@@ -6352,6 +6327,34 @@
       "site": "JobGurus",
       "id": "25000dd6c5ac185adb763a350c57bc85",
       "timestamp": 1751534271574
+    }
+  ],
+  "bluradish": [
+    {
+      "site": "JobGurus",
+      "id": "8ecdf66de389726e28571ade3ab99e5b",
+      "timestamp": 1751535776554
+    }
+  ],
+  "optimed pharmacy": [
+    {
+      "site": "JobGurus",
+      "id": "c656aa24e91b56d3def6acc7bf13d1f9",
+      "timestamp": 1751535776554
+    }
+  ],
+  "virtual palyn": [
+    {
+      "site": "JobGurus",
+      "id": "365b7167e92e10b9bcc84b3c4a605fd4",
+      "timestamp": 1751535776554
+    }
+  ],
+  "bell oil & gas": [
+    {
+      "site": "JobGurus",
+      "id": "9e078a2732e55b67954df9b727912d03",
+      "timestamp": 1751535776554
     }
   ]
 }
