@@ -552,6 +552,11 @@
       "site": "JobGurus",
       "id": "a1deda74dd394f07b2bab6f976a76836",
       "timestamp": 1751539513274
+    },
+    {
+      "site": "JobGurus",
+      "id": "ca65e5a37fd52edb7c791cbc9017dce2",
+      "timestamp": 1751545990882
     }
   ],
   "abbfem group": [
@@ -6433,6 +6438,13 @@
       "site": "JobGurus",
       "id": "73165399f75afb584bf9a25b49991b59",
       "timestamp": 1751542679318
+    }
+  ],
+  "elites holdings": [
+    {
+      "site": "JobGurus",
+      "id": "410f8c53f38ec4512b56287172628e87",
+      "timestamp": 1751545990882
     }
   ]
 }
