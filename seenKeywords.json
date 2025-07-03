@@ -268,23 +268,8 @@
   "choice talents ng": [
     {
       "site": "JobGurus",
-      "id": "d7d2566479bf3559a9e111daa5538759",
-      "timestamp": 1750072443517
-    },
-    {
-      "site": "JobGurus",
-      "id": "141ca70e4f4fd3d9712f90bb95e65514",
-      "timestamp": 1750098125260
-    },
-    {
-      "site": "JobGurus",
-      "id": "6504fefcfe81770e09b8b87f2513eeb5",
-      "timestamp": 1750349957312
-    },
-    {
-      "site": "JobGurus",
-      "id": "796672d03638aa8fd86aeb28e080cf0b",
-      "timestamp": 1750675540868
+      "id": "d206625b5e26c662dcef6ce14236d3cb",
+      "timestamp": 1751534271574
     }
   ],
   "greengrass investment limited": [
@@ -4018,8 +4003,8 @@
   "kinetic electromechanic nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "c31a40d0cdd04e6dd0967b9f7db067a8",
-      "timestamp": 1750326109817
+      "id": "42e5663615399f1019aafec15b09d2fe",
+      "timestamp": 1751534271574
     }
   ],
   "aiderr project services": [
@@ -6174,6 +6159,11 @@
       "site": "JobGurus",
       "id": "ee142ec059190ff20f736276d2c79168",
       "timestamp": 1751390055987
+    },
+    {
+      "site": "JobGurus",
+      "id": "baadb0b9ef56ebe527f490bbd2f73a1f",
+      "timestamp": 1751534271574
     }
   ],
   "redswitch collections": [
@@ -6355,6 +6345,13 @@
       "site": "JobGurus",
       "id": "f48479235ba4cb9deb96ffcb07e04ac0",
       "timestamp": 1751492303510
+    }
+  ],
+  "agricare std plus limited": [
+    {
+      "site": "JobGurus",
+      "id": "25000dd6c5ac185adb763a350c57bc85",
+      "timestamp": 1751534271574
     }
   ]
 }
