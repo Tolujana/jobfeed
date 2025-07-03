@@ -1597,6 +1597,11 @@
       "site": "JobGurus",
       "id": "844e1553610da14a5b8356d8819dd524",
       "timestamp": 1751316081225
+    },
+    {
+      "site": "JobGurus",
+      "id": "5fadc0f6efef9965161d12263868558f",
+      "timestamp": 1751550550900
     }
   ],
   "straitpay": [
@@ -2761,8 +2766,8 @@
   "infinity tyres limited": [
     {
       "site": "JobGurus",
-      "id": "32d4e8969c32ace3106685823fcd63eb",
-      "timestamp": 1749741431229
+      "id": "aaf8e86fd5f711891f23e4a56c03bcce",
+      "timestamp": 1751550550900
     }
   ],
   "hrleverage africa": [
@@ -5979,6 +5984,11 @@
       "site": "JobGurus",
       "id": "3a814db4c8529f306cdd2503a1fe5d4c",
       "timestamp": 1751366746987
+    },
+    {
+      "site": "JobGurus",
+      "id": "ee44805a92ac555c62b9c0f33ede1359",
+      "timestamp": 1751550550900
     }
   ],
   "global hr always": [
@@ -6471,6 +6481,20 @@
       "site": "JobGurus",
       "id": "bdbd6ba93ac7ba766b4dd2a8555fba74",
       "timestamp": 1751549284889
+    }
+  ],
+  "valuejet": [
+    {
+      "site": "JobGurus",
+      "id": "143f2ecd68556a1ff8bec7e2561c7ea9",
+      "timestamp": 1751550550900
+    }
+  ],
+  "nalis pharmaceuticals limited": [
+    {
+      "site": "JobGurus",
+      "id": "32080d5b32172236df61db34e073c33a",
+      "timestamp": 1751550550900
     }
   ]
 }
