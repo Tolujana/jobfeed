@@ -142,6 +142,11 @@
       "site": "JobGurus",
       "id": "877f2661b1981008e66f6183829014d8",
       "timestamp": 1751535776554
+    },
+    {
+      "site": "JobGurus",
+      "id": "a82f580db8c89981fec5bb99e0cb2e61",
+      "timestamp": 1751552167670
     }
   ],
   "cway group": [
@@ -1706,8 +1711,8 @@
   "folixx hospitality": [
     {
       "site": "JobGurus",
-      "id": "0fa384a433d5492eb599abadc2a654c8",
-      "timestamp": 1749464257931
+      "id": "f48f74cd87f576ace4a6babbdf865d20",
+      "timestamp": 1751552167670
     }
   ],
   "htt football academy": [
@@ -6364,6 +6369,11 @@
       "site": "JobGurus",
       "id": "8ecdf66de389726e28571ade3ab99e5b",
       "timestamp": 1751535776554
+    },
+    {
+      "site": "JobGurus",
+      "id": "0d454af96469b47f62b64d8b6ce6887a",
+      "timestamp": 1751552167670
     }
   ],
   "optimed pharmacy": [
@@ -6495,6 +6505,20 @@
       "site": "JobGurus",
       "id": "32080d5b32172236df61db34e073c33a",
       "timestamp": 1751550550900
+    }
+  ],
+  "c&i leasing group of companies": [
+    {
+      "site": "JobGurus",
+      "id": "6b36bcbcd47debc985b4d12132887730",
+      "timestamp": 1751552167670
+    }
+  ],
+  "management first": [
+    {
+      "site": "JobGurus",
+      "id": "2ca0fa65cf6bb1d36d8f5af481cd6af5",
+      "timestamp": 1751552167670
     }
   ]
 }
