@@ -5663,6 +5663,11 @@
       "site": "JobGurus",
       "id": "58299b7c038fa2829f38d37d460f1cd3",
       "timestamp": 1751125114805
+    },
+    {
+      "site": "JobGurus",
+      "id": "8871575e402baef4c2d275be186779b8",
+      "timestamp": 1751553809553
     }
   ],
   "kuda bank": [
@@ -6498,6 +6503,11 @@
       "site": "JobGurus",
       "id": "143f2ecd68556a1ff8bec7e2561c7ea9",
       "timestamp": 1751550550900
+    },
+    {
+      "site": "JobGurus",
+      "id": "312e1de42defc530d0f823a36b1a756d",
+      "timestamp": 1751553809553
     }
   ],
   "nalis pharmaceuticals limited": [
@@ -6519,6 +6529,27 @@
       "site": "JobGurus",
       "id": "2ca0fa65cf6bb1d36d8f5af481cd6af5",
       "timestamp": 1751552167670
+    }
+  ],
+  "omimewos global limited": [
+    {
+      "site": "JobGurus",
+      "id": "5d9597990efeddb73fb383d9f2024bcc",
+      "timestamp": 1751553809553
+    }
+  ],
+  "obsidian capital": [
+    {
+      "site": "JobGurus",
+      "id": "bd2db09265a15934e1bedf6d007189ff",
+      "timestamp": 1751553809553
+    }
+  ],
+  "global windsor group": [
+    {
+      "site": "JobGurus",
+      "id": "d007b77105324927be7a853b3cbf1afb",
+      "timestamp": 1751553809553
     }
   ]
 }
