@@ -1607,6 +1607,11 @@
       "site": "JobGurus",
       "id": "5fadc0f6efef9965161d12263868558f",
       "timestamp": 1751550550900
+    },
+    {
+      "site": "JobGurus",
+      "id": "7833745ba25ad9251fdef137133646d1",
+      "timestamp": 1751668946760
     }
   ],
   "straitpay": [
@@ -1834,8 +1839,8 @@
   "wendernek consulting limited": [
     {
       "site": "JobGurus",
-      "id": "07cf6065d448691cf6dce1dc75183143",
-      "timestamp": 1750245234855
+      "id": "d04c384bccf9b548381fb89ec1cf3d21",
+      "timestamp": 1751668946760
     }
   ],
   "dews and petals limited": [
@@ -6699,6 +6704,11 @@
       "site": "JobGurus",
       "id": "3312629195c11c763ff196b1bd1a6091",
       "timestamp": 1751663688219
+    },
+    {
+      "site": "JobGurus",
+      "id": "36fc0246f0ed10227f19238d7749ad24",
+      "timestamp": 1751668946760
     }
   ],
   "society for family health": [
@@ -6756,6 +6766,20 @@
       "site": "JobGurus",
       "id": "d6f6fb311e220cb40b6560a225ef16e1",
       "timestamp": 1751667308388
+    }
+  ],
+  "infinion technologies": [
+    {
+      "site": "JobGurus",
+      "id": "95dc29ef3f644a808824695ba24bb4f8",
+      "timestamp": 1751668946760
+    }
+  ],
+  "scruples resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "f72ac96116d8b98c177754a2daba39ba",
+      "timestamp": 1751668946760
     }
   ]
 }
