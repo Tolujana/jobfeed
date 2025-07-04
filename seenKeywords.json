@@ -620,8 +620,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "7da0780578527f348f5f5357f287a74a",
-      "timestamp": 1749666114572
+      "id": "cca1debc58ee70ec5bcff14ba75ddabe",
+      "timestamp": 1751663688219
     }
   ],
   "divine infinity college": [
@@ -6675,6 +6675,34 @@
       "site": "JobGurus",
       "id": "f82e145e96d163d9a6aec82eb2af62f0",
       "timestamp": 1751647596162
+    }
+  ],
+  "agurate online limited": [
+    {
+      "site": "JobGurus",
+      "id": "15dd0e7ee9ca08053b7a7c116d35daf6",
+      "timestamp": 1751663688219
+    }
+  ],
+  "bakery solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "3312629195c11c763ff196b1bd1a6091",
+      "timestamp": 1751663688219
+    }
+  ],
+  "society for family health": [
+    {
+      "site": "JobGurus",
+      "id": "c42d368c82da432b1bb9fb7568a19f00",
+      "timestamp": 1751663688219
+    }
+  ],
+  "de talents": [
+    {
+      "site": "JobGurus",
+      "id": "b3e00124d448665ca8fb16d9d878278c",
+      "timestamp": 1751663688219
     }
   ]
 }
