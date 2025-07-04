@@ -6648,5 +6648,33 @@
       "id": "0312e681057465259a96a92566841b6b",
       "timestamp": 1751643621853
     }
+  ],
+  "etc workforce services limited": [
+    {
+      "site": "JobGurus",
+      "id": "b3f763fb5504912090586c7c983ef4ef",
+      "timestamp": 1751647596162
+    }
+  ],
+  "jibs-ray nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "4616d2251f1b1205aea1dba29782777c",
+      "timestamp": 1751647596162
+    }
+  ],
+  "vector cube outsourcing limited": [
+    {
+      "site": "JobGurus",
+      "id": "d0999a73b533127f0088fa810a741724",
+      "timestamp": 1751647596162
+    }
+  ],
+  "prestige superstores": [
+    {
+      "site": "JobGurus",
+      "id": "f82e145e96d163d9a6aec82eb2af62f0",
+      "timestamp": 1751647596162
+    }
   ]
 }
