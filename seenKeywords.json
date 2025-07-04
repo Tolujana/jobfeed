@@ -286,8 +286,8 @@
   "trinity financial": [
     {
       "site": "JobGurus",
-      "id": "5e73ed1ec7dbbb5ca3151fdfab92fc38",
-      "timestamp": 1748900381675
+      "id": "29b8e03f99484160766ae70ecbe9bf37",
+      "timestamp": 1751670891323
     }
   ],
   "a&r group": [
@@ -6723,6 +6723,11 @@
       "site": "JobGurus",
       "id": "b3e00124d448665ca8fb16d9d878278c",
       "timestamp": 1751663688219
+    },
+    {
+      "site": "JobGurus",
+      "id": "962af28fc8c25378c001fe0e7c6543e8",
+      "timestamp": 1751670891323
     }
   ],
   "firewood rice nigeria": [
@@ -6780,6 +6785,20 @@
       "site": "JobGurus",
       "id": "f72ac96116d8b98c177754a2daba39ba",
       "timestamp": 1751668946760
+    }
+  ],
+  "uhy professional services": [
+    {
+      "site": "JobGurus",
+      "id": "e5cc8b0f3fecd8dde00f0a8919a6b340",
+      "timestamp": 1751670891323
+    }
+  ],
+  "stratom concept limited": [
+    {
+      "site": "JobGurus",
+      "id": "df3c2f8e7c56109590ace8391799bd3a",
+      "timestamp": 1751670891323
     }
   ]
 }
