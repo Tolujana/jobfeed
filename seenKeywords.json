@@ -4014,6 +4014,16 @@
       "site": "JobGurus",
       "id": "cded74eb14e5274a16cf23fd22074e05",
       "timestamp": 1751319507251
+    },
+    {
+      "site": "JobGurus",
+      "id": "77003dcf6576fd20bc5757ce9c569211",
+      "timestamp": 1751665069754
+    },
+    {
+      "site": "JobGurus",
+      "id": "664e2870f426e0f52a71d11816c78596",
+      "timestamp": 1751665069754
     }
   ],
   "solution impact global resources": [
@@ -6703,6 +6713,25 @@
       "site": "JobGurus",
       "id": "b3e00124d448665ca8fb16d9d878278c",
       "timestamp": 1751663688219
+    }
+  ],
+  "firewood rice nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "8eb39c5fc5b2ceedfd528df78259ed60",
+      "timestamp": 1751665069754
+    }
+  ],
+  "eden solution and resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "39e333e419490344bd7eee1f89097919",
+      "timestamp": 1751665069754
+    },
+    {
+      "site": "JobGurus",
+      "id": "1e50c59f6d299475777981f90d119f92",
+      "timestamp": 1751665069754
     }
   ]
 }
