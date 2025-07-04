@@ -1026,13 +1026,13 @@
   "canonical nigeria": [
     {
       "site": "JobGurus",
-      "id": "a387e6a63ed69d13315d21226e7ce8df",
-      "timestamp": 1751030861651
+      "id": "e7c9511ff0a1fdb59421c793952bb9cf",
+      "timestamp": 1751541237989
     },
     {
       "site": "JobGurus",
-      "id": "e7c9511ff0a1fdb59421c793952bb9cf",
-      "timestamp": 1751541237989
+      "id": "2287c57613db474bcb2eb351f9a12ddf",
+      "timestamp": 1751642154365
     }
   ],
   "beebeejump international limited": [
@@ -6617,6 +6617,34 @@
       "site": "JobGurus",
       "id": "320102416f44fde50f362637ff0db0f3",
       "timestamp": 1751640145052
+    }
+  ],
+  "stivlon consulting": [
+    {
+      "site": "JobGurus",
+      "id": "55cff7f0c23bf86865b9a468f06a06e7",
+      "timestamp": 1751642154365
+    }
+  ],
+  "equity specialist hospital": [
+    {
+      "site": "JobGurus",
+      "id": "581935b59e2f294a92b6cb038d27f68b",
+      "timestamp": 1751642154365
+    }
+  ],
+  "unicane industries fze": [
+    {
+      "site": "JobGurus",
+      "id": "c556bb44c6f3371df184ca0a62cc63c9",
+      "timestamp": 1751642154365
+    }
+  ],
+  "snowview support services limited": [
+    {
+      "site": "JobGurus",
+      "id": "f6c4331fd137f7e866086e1bcfeef139",
+      "timestamp": 1751642154365
     }
   ]
 }
