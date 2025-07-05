@@ -4044,8 +4044,8 @@
   "solution impact global resources": [
     {
       "site": "JobGurus",
-      "id": "8ee273b1c852155a9a2d0e8152ae5844",
-      "timestamp": 1750328204679
+      "id": "89c1828b90497f919b2d6450ed5d0985",
+      "timestamp": 1751733870035
     }
   ],
   "fastizers food and confectionery limited": [
@@ -6830,6 +6830,28 @@
       "site": "JobGurus",
       "id": "311638ab3ed0572fa39111b8ddb8bb7d",
       "timestamp": 1751732265966
+    }
+  ],
+  "ntel": [
+    {
+      "site": "JobGurus",
+      "id": "a4f7ca501e593835804a4e63f3ed5e0e",
+      "timestamp": 1751733870035
+    },
+    {
+      "site": "JobGurus",
+      "id": "e79189ac926041cf192b9a33bc50d29c",
+      "timestamp": 1751733870035
+    },
+    {
+      "site": "JobGurus",
+      "id": "523e93ccd5a20e13368f0c77daa7cc69",
+      "timestamp": 1751733870035
+    },
+    {
+      "site": "JobGurus",
+      "id": "1bf5c8cb195d536f138086834876c3ee",
+      "timestamp": 1751733870035
     }
   ]
 }
