@@ -4029,6 +4029,16 @@
       "site": "JobGurus",
       "id": "664e2870f426e0f52a71d11816c78596",
       "timestamp": 1751665069754
+    },
+    {
+      "site": "JobGurus",
+      "id": "eccddc35891ca829919986ef1c6ca915",
+      "timestamp": 1751732265966
+    },
+    {
+      "site": "JobGurus",
+      "id": "d49c7011e6b104011b1b3fd54fdb840c",
+      "timestamp": 1751732265966
     }
   ],
   "solution impact global resources": [
@@ -6799,6 +6809,27 @@
       "site": "JobGurus",
       "id": "df3c2f8e7c56109590ace8391799bd3a",
       "timestamp": 1751670891323
+    }
+  ],
+  "casalavoro limited": [
+    {
+      "site": "JobGurus",
+      "id": "4c99787f8813009c8837259be4a57b07",
+      "timestamp": 1751732265966
+    }
+  ],
+  "bedmate furniture": [
+    {
+      "site": "JobGurus",
+      "id": "cfeb1baa3c871d2101986a80a9ba1a52",
+      "timestamp": 1751732265966
+    }
+  ],
+  "bedmate furniture nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "311638ab3ed0572fa39111b8ddb8bb7d",
+      "timestamp": 1751732265966
     }
   ]
 }
