@@ -272,8 +272,8 @@
   "promasidor": [
     {
       "site": "JobGurus",
-      "id": "75dbe25cfdf68914b3f3d7345f68fc51",
-      "timestamp": 1748898922757
+      "id": "9994fcc0a751d7d160b7e8b13c23b0bf",
+      "timestamp": 1751902870611
     }
   ],
   "jc international": [
@@ -1479,8 +1479,8 @@
   "fairmoney": [
     {
       "site": "JobGurus",
-      "id": "ada5f404398d1a3cf6cc9eea14e7bc3c",
-      "timestamp": 1751019452005
+      "id": "7dfdb438f63f7cda238c147dab5e8b72",
+      "timestamp": 1751902870611
     }
   ],
   "starich recycling technology limited": [
@@ -5033,13 +5033,13 @@
   "future moves recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "67589676a976267e29100ef839b71639",
-      "timestamp": 1750765081155
+      "id": "ada8676f0c265623849d90191f623d4e",
+      "timestamp": 1751368443892
     },
     {
       "site": "JobGurus",
-      "id": "ada8676f0c265623849d90191f623d4e",
-      "timestamp": 1751368443892
+      "id": "30b2cba51f45fec91d3e07393b334270",
+      "timestamp": 1751902870611
     }
   ],
   "renda limited": [
@@ -6986,6 +6986,20 @@
       "site": "JobGurus",
       "id": "2c0e72d4abcfeb27c98e8aae60258969",
       "timestamp": 1751901358715
+    }
+  ],
+  "fd naturales": [
+    {
+      "site": "JobGurus",
+      "id": "b05b473d22e24b2f81434cbd8b88d6a4",
+      "timestamp": 1751902870611
+    }
+  ],
+  "emedical comprehensive consults hospital": [
+    {
+      "site": "JobGurus",
+      "id": "d78184edca051f1dd8ac3c24aa017b16",
+      "timestamp": 1751902870611
     }
   ]
 }
