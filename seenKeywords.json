@@ -585,6 +585,11 @@
       "site": "JobGurus",
       "id": "5fbb50d82467dbb8ddd9c3b01082d127",
       "timestamp": 1751735581720
+    },
+    {
+      "site": "JobGurus",
+      "id": "8d38920197a3e75595b21ee2a795dc90",
+      "timestamp": 1751899422367
     }
   ],
   "food concepts plc": [
@@ -692,8 +697,8 @@
   "startup soar": [
     {
       "site": "JobGurus",
-      "id": "14e0ec0370a305c33f0e07463b99436a",
-      "timestamp": 1750098125260
+      "id": "6354b0609fa76d1e1368de2c7fee408c",
+      "timestamp": 1751899422367
     }
   ],
   "ouranos technologies (ouranos)": [
@@ -6946,6 +6951,20 @@
       "site": "JobGurus",
       "id": "e436f92dd24e6a2e9c6d56e49caddd72",
       "timestamp": 1751897781507
+    }
+  ],
+  "lendha technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "478783ccd66cf206b79aa8a81df7bb03",
+      "timestamp": 1751899422367
+    }
+  ],
+  "500chow": [
+    {
+      "site": "JobGurus",
+      "id": "9cc49dc8f5cbb8dae27534be9360ae11",
+      "timestamp": 1751899422367
     }
   ]
 }
