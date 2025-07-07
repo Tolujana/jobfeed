@@ -4544,8 +4544,8 @@
   "interswitch": [
     {
       "site": "JobGurus",
-      "id": "5fe48f3acceb58f041e354ad15271210",
-      "timestamp": 1750443658709
+      "id": "7457d713f78ec0c157ca2fc0a56572f1",
+      "timestamp": 1751891575753
     }
   ],
   "human capital group": [
@@ -6883,6 +6883,32 @@
       "site": "JobGurus",
       "id": "5dfcff36ef62e0da7b45801b977a8f8a",
       "timestamp": 1751739566273
+    }
+  ],
+  "d-degree digital hub limited": [
+    {
+      "site": "JobGurus",
+      "id": "f6ff2202e7e4a45a9beea6361e8322ba",
+      "timestamp": 1751891575753
+    },
+    {
+      "site": "JobGurus",
+      "id": "b8b676c51fd70e9a4c7126e723b81e28",
+      "timestamp": 1751891575753
+    }
+  ],
+  "uncle stan's foods": [
+    {
+      "site": "JobGurus",
+      "id": "b94c7699cd8b00a68c1ba650935a72f7",
+      "timestamp": 1751891575753
+    }
+  ],
+  "mn global ventures": [
+    {
+      "site": "JobGurus",
+      "id": "36685bac4a9056819f4b046fbe5ec03f",
+      "timestamp": 1751891575753
     }
   ]
 }
