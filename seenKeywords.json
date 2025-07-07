@@ -836,13 +836,8 @@
   "elvaridah limited": [
     {
       "site": "JobGurus",
-      "id": "87693113294597b84b045e501e8912a3",
-      "timestamp": 1750951024343
-    },
-    {
-      "site": "JobGurus",
-      "id": "e01c97a6acf484e5075056a0a394f17f",
-      "timestamp": 1751030861651
+      "id": "336a122b6ec731e4fb440b65970835fd",
+      "timestamp": 1751901358715
     }
   ],
   "razley print limited": [
@@ -1811,6 +1806,11 @@
       "site": "JobGurus",
       "id": "d04c384bccf9b548381fb89ec1cf3d21",
       "timestamp": 1751668946760
+    },
+    {
+      "site": "JobGurus",
+      "id": "269cc971718d90329f6183264926c605",
+      "timestamp": 1751901358715
     }
   ],
   "dews and petals limited": [
@@ -6965,6 +6965,27 @@
       "site": "JobGurus",
       "id": "9cc49dc8f5cbb8dae27534be9360ae11",
       "timestamp": 1751899422367
+    }
+  ],
+  "bisrotex investment synergy limited": [
+    {
+      "site": "JobGurus",
+      "id": "2f2affe51c5695c8788a6602975d5cfe",
+      "timestamp": 1751901358715
+    }
+  ],
+  "olman business solutions (obs) limited": [
+    {
+      "site": "JobGurus",
+      "id": "091d6aaae8d735ade70d8664340bed8a",
+      "timestamp": 1751901358715
+    }
+  ],
+  "management sciences for health (msh)": [
+    {
+      "site": "JobGurus",
+      "id": "2c0e72d4abcfeb27c98e8aae60258969",
+      "timestamp": 1751901358715
     }
   ]
 }
