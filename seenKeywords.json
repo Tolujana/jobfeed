@@ -1408,8 +1408,8 @@
   "première urgence internationale": [
     {
       "site": "JobGurus",
-      "id": "63e1e0d851fe02374bea6b219e39b50f",
-      "timestamp": 1749219313400
+      "id": "737e763acdbebe17f9ec9ba523121af2",
+      "timestamp": 1751895021219
     }
   ],
   "techdoctorinnovations": [
@@ -6909,6 +6909,34 @@
       "site": "JobGurus",
       "id": "36685bac4a9056819f4b046fbe5ec03f",
       "timestamp": 1751891575753
+    }
+  ],
+  "transsion holdings": [
+    {
+      "site": "JobGurus",
+      "id": "fc957d35f2d264fd1570f10e2e9c81ca",
+      "timestamp": 1751895021219
+    }
+  ],
+  "dansol": [
+    {
+      "site": "JobGurus",
+      "id": "a40687ad671930dbb35a5d811b6917ee",
+      "timestamp": 1751895021219
+    }
+  ],
+  "midland construction and energy": [
+    {
+      "site": "JobGurus",
+      "id": "5bf32fdd636c59778beb5086d1e8109a",
+      "timestamp": 1751895021219
+    }
+  ],
+  "de koolar nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "23a1d88a3d4a3e86c8528ea405da755c",
+      "timestamp": 1751895021219
     }
   ]
 }
