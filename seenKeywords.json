@@ -4428,6 +4428,11 @@
       "site": "JobGurus",
       "id": "6dc8715aa0e461c67d306eaf42d75b94",
       "timestamp": 1751388551792
+    },
+    {
+      "site": "JobGurus",
+      "id": "4d6ccf3489846d62276c38150b32f612",
+      "timestamp": 1751905230628
     }
   ],
   "revenstrat consulting": [
@@ -6283,6 +6288,11 @@
       "site": "JobGurus",
       "id": "75dd1a54d4fb1b427ac155f621990f93",
       "timestamp": 1751483539284
+    },
+    {
+      "site": "JobGurus",
+      "id": "c739d5a2fc3b9e3193d97f32cddf4ed1",
+      "timestamp": 1751905230628
     }
   ],
   "teal harmony nigeria limited": [
@@ -7000,6 +7010,20 @@
       "site": "JobGurus",
       "id": "d78184edca051f1dd8ac3c24aa017b16",
       "timestamp": 1751902870611
+    }
+  ],
+  "rated cranes and scaffolding nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "67e8c62fade6ad7e8e77ff8612f22085",
+      "timestamp": 1751905230628
+    }
+  ],
+  "farm katsina limited": [
+    {
+      "site": "JobGurus",
+      "id": "90f49a5a09ce464e602e02ed94bd9935",
+      "timestamp": 1751905230628
     }
   ]
 }
