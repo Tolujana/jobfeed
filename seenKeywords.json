@@ -1234,13 +1234,8 @@
   "g-shoppers": [
     {
       "site": "JobGurus",
-      "id": "7a65ed99ffa607f757375fd5c934a7ac",
-      "timestamp": 1749205038137
-    },
-    {
-      "site": "JobGurus",
-      "id": "a91f60fb741d0933bdd8d735d12f7143",
-      "timestamp": 1749205038137
+      "id": "8fe47b7cc2e9e4a7ef3f5ceb593beb7e",
+      "timestamp": 1751897781507
     }
   ],
   "c recruite": [
@@ -1776,8 +1771,8 @@
   "efezi southsea nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "7bab2b91cafc5aec6a331a6e3f3c5c03",
-      "timestamp": 1750761941240
+      "id": "f7c3eea8dbd68df8c4e514fef10e4fb8",
+      "timestamp": 1751897781507
     }
   ],
   "styaks legal": [
@@ -2687,8 +2682,8 @@
   "marriott international": [
     {
       "site": "JobGurus",
-      "id": "d6b013149b2aebd99ee4b57a94b90309",
-      "timestamp": 1749737753140
+      "id": "c29a85ccf713f56e1cb480ecba1e6592",
+      "timestamp": 1751897781507
     }
   ],
   "well fluid services limited": [
@@ -6937,6 +6932,20 @@
       "site": "JobGurus",
       "id": "23a1d88a3d4a3e86c8528ea405da755c",
       "timestamp": 1751895021219
+    }
+  ],
+  "patrisan jozzy recruitment": [
+    {
+      "site": "JobGurus",
+      "id": "63cc9ee8ff476dcff666e8e6e4c6baf0",
+      "timestamp": 1751897781507
+    }
+  ],
+  "chilis restaurant": [
+    {
+      "site": "JobGurus",
+      "id": "e436f92dd24e6a2e9c6d56e49caddd72",
+      "timestamp": 1751897781507
     }
   ]
 }
