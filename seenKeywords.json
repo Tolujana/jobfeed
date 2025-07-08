@@ -2663,18 +2663,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "0470e209912a7bff7a86f6340e51fa27",
-      "timestamp": 1750508914087
-    },
-    {
-      "site": "JobGurus",
-      "id": "bbd9489ba7fe09d7f088c6c0446a610b",
-      "timestamp": 1750763643928
-    },
-    {
-      "site": "JobGurus",
-      "id": "6fa2e322258391db04db9059a8dded47",
-      "timestamp": 1750952505551
+      "id": "ed901efc25227c1fe0f939a808ae8ce3",
+      "timestamp": 1751978006606
     }
   ],
   "international fertilizer development center": [
@@ -4709,13 +4699,8 @@
   "lafarge africa plc": [
     {
       "site": "JobGurus",
-      "id": "e80c634e2f580ba00f252f7f92060ebd",
-      "timestamp": 1750671807156
-    },
-    {
-      "site": "JobGurus",
-      "id": "89cf3b1b11eeff77e03c0331d4028067",
-      "timestamp": 1750765081155
+      "id": "749f53d995aa4db3c65959d6811b34bf",
+      "timestamp": 1751978006606
     }
   ],
   "human capital partners": [
@@ -7024,6 +7009,25 @@
       "site": "JobGurus",
       "id": "90f49a5a09ce464e602e02ed94bd9935",
       "timestamp": 1751905230628
+    }
+  ],
+  "médecins sans frontières/doctor without borders": [
+    {
+      "site": "JobGurus",
+      "id": "25996b0df29485e5bb6a7332d33bb3ea",
+      "timestamp": 1751978006606
+    }
+  ],
+  "1k shop": [
+    {
+      "site": "JobGurus",
+      "id": "fb58cde2f519bc1ee8dbd340479ac7c4",
+      "timestamp": 1751978006606
+    },
+    {
+      "site": "JobGurus",
+      "id": "654fc9f3f5bf4ac9f462141cfe4d365f",
+      "timestamp": 1751978006606
     }
   ]
 }
