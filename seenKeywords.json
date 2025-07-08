@@ -7130,6 +7130,11 @@
       "site": "JobGurus",
       "id": "3fcc064c2e9c3d140314807f0ba63aed",
       "timestamp": 1751991612321
+    },
+    {
+      "site": "JobGurus",
+      "id": "f72fcdd1ba34f51669d8fd2be6399666",
+      "timestamp": 1751993334059
     }
   ],
   "lily hospitals": [
@@ -7137,6 +7142,32 @@
       "site": "JobGurus",
       "id": "4f050b9c30018feb15d84164b17d1c6a",
       "timestamp": 1751991612321
+    }
+  ],
+  "lagos chamber of commerce and industry": [
+    {
+      "site": "JobGurus",
+      "id": "3239f991487c89b4cc11d4541e82c00d",
+      "timestamp": 1751993334059
+    },
+    {
+      "site": "JobGurus",
+      "id": "41fe68651304596b73c4152a54f8e9b9",
+      "timestamp": 1751993334059
+    }
+  ],
+  "prestigious consulting": [
+    {
+      "site": "JobGurus",
+      "id": "fe8f0ee7b7763927fa626ca2214e8a18",
+      "timestamp": 1751993334059
+    }
+  ],
+  "quicky chillis": [
+    {
+      "site": "JobGurus",
+      "id": "0d84fa7283df259930305321b428e88d",
+      "timestamp": 1751993334059
     }
   ]
 }
