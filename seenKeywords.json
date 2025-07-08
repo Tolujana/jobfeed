@@ -1792,13 +1792,13 @@
   "hec recruit": [
     {
       "site": "JobGurus",
-      "id": "a8baf6529acabaeb342f8253cc65c651",
-      "timestamp": 1749472341027
+      "id": "76bd6a61cc2088cdac407d6956edaeaa",
+      "timestamp": 1751984135521
     },
     {
       "site": "JobGurus",
-      "id": "a7d2afc8e7f3976b8e00a1ab9adcd96b",
-      "timestamp": 1749485992778
+      "id": "9d80ee138593269a503d968bc4d7e7d6",
+      "timestamp": 1751984135521
     }
   ],
   "wendernek consulting limited": [
@@ -5324,8 +5324,8 @@
   "white soul group": [
     {
       "site": "JobGurus",
-      "id": "d53253ec44951923503bf806e0b9dc6d",
-      "timestamp": 1750954775302
+      "id": "73346510933e6c53919ff50f7ecbe02a",
+      "timestamp": 1751984135521
     }
   ],
   "crystal thorpe": [
@@ -7035,6 +7035,13 @@
       "site": "JobGurus",
       "id": "2ec1a07e0e4211f4ea83e15ff49e64a0",
       "timestamp": 1751981479785
+    }
+  ],
+  "perfetti van melle nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "9c9531bb1a6a1d472520facf90b60738",
+      "timestamp": 1751984135521
     }
   ]
 }
