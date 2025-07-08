@@ -7091,5 +7091,38 @@
       "id": "c297cb1ced882c6251b02d97179ba8e1",
       "timestamp": 1751987832635
     }
+  ],
+  "oracle": [
+    {
+      "site": "JobGurus",
+      "id": "75e099b88b25bbc9a4d39a7a3fe9c12d",
+      "timestamp": 1751989331934
+    },
+    {
+      "site": "JobGurus",
+      "id": "49412571b8f54d78ebcb510f78f3bba4",
+      "timestamp": 1751989331934
+    }
+  ],
+  "bluechip technologies": [
+    {
+      "site": "JobGurus",
+      "id": "182855927bc28eda4e1dd21852f1cd02",
+      "timestamp": 1751989331934
+    }
+  ],
+  "bfbl": [
+    {
+      "site": "JobGurus",
+      "id": "cce2c10753f37c332c912d92f6e0931d",
+      "timestamp": 1751989331934
+    }
+  ],
+  "mastercard foundation": [
+    {
+      "site": "JobGurus",
+      "id": "0dfc3ee8668440b5cedf21bc4d97a5dd",
+      "timestamp": 1751989331934
+    }
   ]
 }
