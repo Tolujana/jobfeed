@@ -4021,8 +4021,8 @@
   "fastizers food and confectionery limited": [
     {
       "site": "JobGurus",
-      "id": "b385cc0cd93b139c5dad7b93c915c576",
-      "timestamp": 1750328204679
+      "id": "92b4c5949c70fbf4694185bbc22c548d",
+      "timestamp": 1752082967505
     }
   ],
   "people capacity management": [
@@ -4660,8 +4660,8 @@
   "president paints nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "5ac80d10b3c76d55b244ba97a05b8a98",
-      "timestamp": 1750511003137
+      "id": "15e71ab2cd19179f7bae8aaeec1f6714",
+      "timestamp": 1752082967505
     }
   ],
   "ikeja electricity distribution company (ikedc)": [
@@ -5033,13 +5033,13 @@
   "future moves recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "ada8676f0c265623849d90191f623d4e",
-      "timestamp": 1751368443892
+      "id": "30b2cba51f45fec91d3e07393b334270",
+      "timestamp": 1751902870611
     },
     {
       "site": "JobGurus",
-      "id": "30b2cba51f45fec91d3e07393b334270",
-      "timestamp": 1751902870611
+      "id": "f9ff482ccbcd448c3bdff0ccdb49d551",
+      "timestamp": 1752082967505
     }
   ],
   "renda limited": [
@@ -7375,6 +7375,20 @@
       "site": "JobGurus",
       "id": "a50c340ee7a0f94d2561d3283f6119c1",
       "timestamp": 1752081371174
+    }
+  ],
+  "fresh county limited": [
+    {
+      "site": "JobGurus",
+      "id": "d1fe64ec8c4fcdad218c4c00551d69fb",
+      "timestamp": 1752082967505
+    }
+  ],
+  "mdoc healthcare": [
+    {
+      "site": "JobGurus",
+      "id": "325414c801add0c88483203e3a23debc",
+      "timestamp": 1752082967505
     }
   ]
 }
