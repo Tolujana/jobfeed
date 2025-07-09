@@ -133,8 +133,8 @@
   "residency hotel limited": [
     {
       "site": "JobGurus",
-      "id": "0790b2889f40be49cff5a92e9f0c3377",
-      "timestamp": 1750851506314
+      "id": "455d4e8ff3e0477a5b83e13e7020e9d4",
+      "timestamp": 1752070528629
     }
   ],
   "dangote group": [
@@ -2023,8 +2023,8 @@
   "bogo beverage limited": [
     {
       "site": "JobGurus",
-      "id": "f6529bee4e551092a2bfe5ef9c01f016",
-      "timestamp": 1749555430005
+      "id": "2916fbbb490fd4fecca85ac588dcfa42",
+      "timestamp": 1752070528629
     }
   ],
   "sterling health hmo": [
@@ -7305,6 +7305,16 @@
       "site": "JobGurus",
       "id": "767b8f70f69a1b4fcc9e6c1475c384f7",
       "timestamp": 1752067828768
+    },
+    {
+      "site": "JobGurus",
+      "id": "525da2aa727bb76680d522b61c4609dc",
+      "timestamp": 1752070528629
+    },
+    {
+      "site": "JobGurus",
+      "id": "cbd3ce3e9e4168ad1bb18fba26247d83",
+      "timestamp": 1752070528629
     }
   ],
   "7eleven consultancy services": [
