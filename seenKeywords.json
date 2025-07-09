@@ -7315,6 +7315,11 @@
       "site": "JobGurus",
       "id": "cbd3ce3e9e4168ad1bb18fba26247d83",
       "timestamp": 1752070528629
+    },
+    {
+      "site": "JobGurus",
+      "id": "b55c01d6f1c8765c8310026cf347b38d",
+      "timestamp": 1752072256189
     }
   ],
   "7eleven consultancy services": [
@@ -7322,6 +7327,13 @@
       "site": "JobGurus",
       "id": "c6cc841c8f77e98e17d824063de7fc5e",
       "timestamp": 1752067828768
+    }
+  ],
+  "emel hospital": [
+    {
+      "site": "JobGurus",
+      "id": "df9da6aa2ed5adec7d8097b7c02cc5ba",
+      "timestamp": 1752072256189
     }
   ]
 }
