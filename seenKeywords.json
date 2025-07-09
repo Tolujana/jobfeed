@@ -2314,6 +2314,11 @@
       "site": "JobGurus",
       "id": "11b7f81ea1289cfe5d6dcba09106177d",
       "timestamp": 1751645957920
+    },
+    {
+      "site": "JobGurus",
+      "id": "c6588abe9c0c14c2e2c439dd36ecc5e8",
+      "timestamp": 1752064399358
     }
   ],
   "flees global services": [
@@ -4503,8 +4508,8 @@
   "bonzee consulting": [
     {
       "site": "JobGurus",
-      "id": "5e8c206e2b8db05688e0f7231b26206d",
-      "timestamp": 1750443658709
+      "id": "2a666ed85a6f58187f6028ed4f7d3c2d",
+      "timestamp": 1752064399358
     }
   ],
   "kiyix recruitment hub": [
@@ -4800,8 +4805,8 @@
   "coronation": [
     {
       "site": "JobGurus",
-      "id": "22ce69b3aa1adecbe0ecba12e0ec6a50",
-      "timestamp": 1750682031953
+      "id": "5f901a426a8a18fba8562b9dabd84b4f",
+      "timestamp": 1752064399358
     }
   ],
   "teal consulting": [
@@ -7260,6 +7265,20 @@
       "site": "JobGurus",
       "id": "5fa321f4336810e434c8c9e0eb2c2095",
       "timestamp": 1752061124129
+    }
+  ],
+  "vennote technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "55d6dab5d1a8d833433810776098ade3",
+      "timestamp": 1752064399358
+    }
+  ],
+  "advans nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "d802f757b4cae5f30327eb2218cda2a7",
+      "timestamp": 1752064399358
     }
   ]
 }
