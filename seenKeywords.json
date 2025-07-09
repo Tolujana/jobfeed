@@ -595,6 +595,11 @@
       "site": "JobGurus",
       "id": "8d38920197a3e75595b21ee2a795dc90",
       "timestamp": 1751899422367
+    },
+    {
+      "site": "JobGurus",
+      "id": "3c6a0c9d766fdfba2e7ccede184e640a",
+      "timestamp": 1752079767910
     }
   ],
   "food concepts plc": [
@@ -7334,6 +7339,13 @@
       "site": "JobGurus",
       "id": "df9da6aa2ed5adec7d8097b7c02cc5ba",
       "timestamp": 1752072256189
+    }
+  ],
+  "catilas resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "5ce04473fd6980a41e4aa4880d0c1dc2",
+      "timestamp": 1752079767910
     }
   ]
 }
