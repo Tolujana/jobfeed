@@ -6421,6 +6421,11 @@
       "site": "JobGurus",
       "id": "7a50da1b002df4472fba9d1029940ddb",
       "timestamp": 1751539513274
+    },
+    {
+      "site": "JobGurus",
+      "id": "6d98c191a24d275998d36c7ffd4bcf4c",
+      "timestamp": 1752054220789
     }
   ],
   "prestige": [
@@ -7215,6 +7220,13 @@
       "site": "JobGurus",
       "id": "038f66d36bdc32aac0c8d7115f2ff6f0",
       "timestamp": 1752050957713
+    }
+  ],
+  "forthfloor partners": [
+    {
+      "site": "JobGurus",
+      "id": "871d5345510bf422d03674ef7a0bc6a0",
+      "timestamp": 1752054220789
     }
   ]
 }
