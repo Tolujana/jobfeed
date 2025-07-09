@@ -3621,8 +3621,8 @@
   "runola nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "f7e524165b33cef00eca56e1e37fd4f0",
-      "timestamp": 1750173441569
+      "id": "c5b63624c6c7433a2f6f928cb14a0b39",
+      "timestamp": 1752085353189
     }
   ],
   "eclat human resources consulting limited": [
@@ -6922,6 +6922,11 @@
       "site": "JobGurus",
       "id": "b94c7699cd8b00a68c1ba650935a72f7",
       "timestamp": 1751891575753
+    },
+    {
+      "site": "JobGurus",
+      "id": "61c202d7fa7161c26837f5481392c427",
+      "timestamp": 1752085353189
     }
   ],
   "mn global ventures": [
@@ -7389,6 +7394,27 @@
       "site": "JobGurus",
       "id": "325414c801add0c88483203e3a23debc",
       "timestamp": 1752082967505
+    }
+  ],
+  "finlab nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "418a367b2162497ce728f77b45565b19",
+      "timestamp": 1752085353189
+    }
+  ],
+  "creatives island (tci)": [
+    {
+      "site": "JobGurus",
+      "id": "f8395beb77e7337b8d86ed4fb36e12a1",
+      "timestamp": 1752085353189
+    }
+  ],
+  "kartel": [
+    {
+      "site": "JobGurus",
+      "id": "3e112b31fe5862319073e7b6653fc5e3",
+      "timestamp": 1752085353189
     }
   ]
 }
