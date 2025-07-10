@@ -140,11 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "877f2661b1981008e66f6183829014d8",
-      "timestamp": 1751535776554
-    },
-    {
-      "site": "JobGurus",
       "id": "a82f580db8c89981fec5bb99e0cb2e61",
       "timestamp": 1751552167670
     },
@@ -157,6 +152,11 @@
       "site": "JobGurus",
       "id": "22ea78c6393f58290167aa071608fe5c",
       "timestamp": 1752050957713
+    },
+    {
+      "site": "JobGurus",
+      "id": "32a47e3b356b4bdce449f7970f63b5f0",
+      "timestamp": 1752144339432
     }
   ],
   "cway group": [
@@ -1531,23 +1531,8 @@
   "dmot enterprises": [
     {
       "site": "JobGurus",
-      "id": "cfbeb579015d1d5a21661cae8e5bd4ec",
-      "timestamp": 1750673893215
-    },
-    {
-      "site": "JobGurus",
-      "id": "b3741f40f3afc4e52485ecfe7c13ca10",
-      "timestamp": 1750868420371
-    },
-    {
-      "site": "JobGurus",
-      "id": "2bdf7fc028efea62cac2b4cef1ca4a97",
-      "timestamp": 1751032070968
-    },
-    {
-      "site": "JobGurus",
-      "id": "57492f7e9654a58be67cf5449a1ef656",
-      "timestamp": 1751105722852
+      "id": "d5bc00289ef22e6c38aa956be6ada632",
+      "timestamp": 1752144339432
     }
   ],
   "reliance health": [
@@ -7456,6 +7441,27 @@
       "site": "JobGurus",
       "id": "f7848b82884174dd8245c97a1f0d6d03",
       "timestamp": 1752142658375
+    }
+  ],
+  "nordica fertility clinic": [
+    {
+      "site": "JobGurus",
+      "id": "4b1216cdc5e1b8dcf9eab073220e793a",
+      "timestamp": 1752144339432
+    }
+  ],
+  "tm interiors": [
+    {
+      "site": "JobGurus",
+      "id": "755110fbfbcd6987625f5663e9328557",
+      "timestamp": 1752144339432
+    }
+  ],
+  "golden tower nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "20bf16b13a90ce57f4610b910f963bb8",
+      "timestamp": 1752144339432
     }
   ]
 }
