@@ -605,6 +605,11 @@
       "site": "JobGurus",
       "id": "3c6a0c9d766fdfba2e7ccede184e640a",
       "timestamp": 1752079767910
+    },
+    {
+      "site": "JobGurus",
+      "id": "134588448f713565914aa06630b35d47",
+      "timestamp": 1752150838348
     }
   ],
   "food concepts plc": [
@@ -2319,6 +2324,11 @@
       "site": "JobGurus",
       "id": "65220a52a990ca03c76e5a37272e1190",
       "timestamp": 1752146068196
+    },
+    {
+      "site": "JobGurus",
+      "id": "bd12a072f56314fc6b983644bda207db",
+      "timestamp": 1752150838348
     }
   ],
   "flees global services": [
@@ -3583,8 +3593,8 @@
   "talentsquare": [
     {
       "site": "JobGurus",
-      "id": "3d977da1e80759aaf8f3cef01de09e81",
-      "timestamp": 1750173441569
+      "id": "75af6e414cd87054366f7281406f3b91",
+      "timestamp": 1752150838348
     }
   ],
   "swift consulting": [
@@ -7474,6 +7484,20 @@
       "site": "JobGurus",
       "id": "297c6651bf8e986e78f82638f194a12b",
       "timestamp": 1752146068196
+    }
+  ],
+  "sterling bank plc": [
+    {
+      "site": "JobGurus",
+      "id": "248abb08e204c93113dcff6d5a4dff93",
+      "timestamp": 1752150838348
+    }
+  ],
+  "tm interiors & associates limited": [
+    {
+      "site": "JobGurus",
+      "id": "8a407c0de79b173a5edd2b5037a23de7",
+      "timestamp": 1752150838348
     }
   ]
 }
