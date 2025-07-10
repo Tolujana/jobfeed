@@ -369,8 +369,13 @@
   "airtel nigeria": [
     {
       "site": "JobGurus",
-      "id": "a789f9f81aa317cb3b8ce083d604d471",
-      "timestamp": 1748943708802
+      "id": "595888c2689405c8d8bc92d3af44d0b8",
+      "timestamp": 1752146068196
+    },
+    {
+      "site": "JobGurus",
+      "id": "36e1b4a839d3b1f8a8ee9277b7aa8460",
+      "timestamp": 1752146068196
     }
   ],
   "hea group": [
@@ -2137,13 +2142,8 @@
   "oando plc": [
     {
       "site": "JobGurus",
-      "id": "20322933f18d68baa6ff06ae7942a840",
-      "timestamp": 1749563476808
-    },
-    {
-      "site": "JobGurus",
-      "id": "246295edc57f86483013f387b1940da3",
-      "timestamp": 1750080644233
+      "id": "da01d0cb71d075ce326a400ad0b74ace",
+      "timestamp": 1752146068196
     }
   ],
   "ace recruiters limited": [
@@ -2314,6 +2314,11 @@
       "site": "JobGurus",
       "id": "a18177e8289e42329a8713369cee3e68",
       "timestamp": 1752067828768
+    },
+    {
+      "site": "JobGurus",
+      "id": "65220a52a990ca03c76e5a37272e1190",
+      "timestamp": 1752146068196
     }
   ],
   "flees global services": [
@@ -7462,6 +7467,13 @@
       "site": "JobGurus",
       "id": "20bf16b13a90ce57f4610b910f963bb8",
       "timestamp": 1752144339432
+    }
+  ],
+  "the deutsche gesellschaft fur internationale zusammenarbeit (giz": [
+    {
+      "site": "JobGurus",
+      "id": "297c6651bf8e986e78f82638f194a12b",
+      "timestamp": 1752146068196
     }
   ]
 }
