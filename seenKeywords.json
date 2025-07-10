@@ -2827,13 +2827,13 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "4932d9b6bc938350840ee8f55b308432",
-      "timestamp": 1751484987255
+      "id": "d966307c7b3c2db968a0fc03cd66fac4",
+      "timestamp": 1751640145052
     },
     {
       "site": "JobGurus",
-      "id": "d966307c7b3c2db968a0fc03cd66fac4",
-      "timestamp": 1751640145052
+      "id": "184af9673b52d04202b60094c7287028",
+      "timestamp": 1752162248315
     }
   ],
   "netcom africa": [
@@ -7567,6 +7567,34 @@
       "site": "JobGurus",
       "id": "632e549648fbd1af641fffe0fc664250",
       "timestamp": 1752160657439
+    }
+  ],
+  "red bull": [
+    {
+      "site": "JobGurus",
+      "id": "c193abff7a352006a152ee8dcf2eae49",
+      "timestamp": 1752162248315
+    }
+  ],
+  "oj wale pillar metal “n” tech limited": [
+    {
+      "site": "JobGurus",
+      "id": "c3c38cc97d968689eb00aa1ff5f84ab0",
+      "timestamp": 1752162248315
+    }
+  ],
+  "nautilus nigeria engineering and construction limited": [
+    {
+      "site": "JobGurus",
+      "id": "a45309cf58780f41f0327fb1259b23e1",
+      "timestamp": 1752162248315
+    }
+  ],
+  "the deutsche gesellschaft fur internationale zusammenarbeit (giz)": [
+    {
+      "site": "JobGurus",
+      "id": "a5493db019972f1151f3917f8730e113",
+      "timestamp": 1752162248315
     }
   ]
 }
