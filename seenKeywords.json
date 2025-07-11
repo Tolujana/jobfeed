@@ -902,13 +902,8 @@
   "nestoil plc": [
     {
       "site": "JobGurus",
-      "id": "0887764c37bf6ce7e90108fde0fb709c",
-      "timestamp": 1749120343530
-    },
-    {
-      "site": "JobGurus",
-      "id": "7a21a4b873cc690ee27c10535394455f",
-      "timestamp": 1749209826517
+      "id": "422d2e9dcac9e9f6e56c61b0477b6cd2",
+      "timestamp": 1752225476960
     }
   ],
   "flexfilms limited": [
@@ -3085,8 +3080,8 @@
   "tybtitx services international limited": [
     {
       "site": "JobGurus",
-      "id": "93ca52925e615eeab0cf53a4c888d4f6",
-      "timestamp": 1749921137953
+      "id": "b1f3cae2cf6445c3749052853238f8ae",
+      "timestamp": 1752225476960
     }
   ],
   "entourage integrated trust limited": [
@@ -3834,8 +3829,8 @@
   "moove": [
     {
       "site": "JobGurus",
-      "id": "5036c12ad1a0d74fe9189fa0d26b7d0e",
-      "timestamp": 1751312157246
+      "id": "8d44896c29dcb02874e3afada341523b",
+      "timestamp": 1752225476960
     }
   ],
   "beaconhill smile clinic limited": [
@@ -7626,6 +7621,20 @@
       "site": "JobGurus",
       "id": "b614ef3c9f0e4f7be2f2f661cd02203f",
       "timestamp": 1752223715471
+    }
+  ],
+  "viju industries nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "d7213412b50582e16eb79454e49b4292",
+      "timestamp": 1752225476960
+    }
+  ],
+  "dovichi worldwide technology company limited": [
+    {
+      "site": "JobGurus",
+      "id": "a93104633ddf5023a16670eeb5274115",
+      "timestamp": 1752225476960
     }
   ]
 }
