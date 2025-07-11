@@ -996,11 +996,6 @@
   "canonical nigeria": [
     {
       "site": "JobGurus",
-      "id": "e7c9511ff0a1fdb59421c793952bb9cf",
-      "timestamp": 1751541237989
-    },
-    {
-      "site": "JobGurus",
       "id": "2287c57613db474bcb2eb351f9a12ddf",
       "timestamp": 1751642154365
     },
@@ -1008,6 +1003,11 @@
       "site": "JobGurus",
       "id": "33c57ebdc30e55bb337aea9701113dfa",
       "timestamp": 1751645957920
+    },
+    {
+      "site": "JobGurus",
+      "id": "29138d260e7b1fdc8a633a9ec12a13f2",
+      "timestamp": 1752226985407
     }
   ],
   "beebeejump international limited": [
@@ -1063,13 +1063,8 @@
   "revent technologies limited": [
     {
       "site": "JobGurus",
-      "id": "10870ec8fa068cde5b68f82c83be999b",
-      "timestamp": 1749130137286
-    },
-    {
-      "site": "JobGurus",
-      "id": "dc254a194c72222528e5643253996e76",
-      "timestamp": 1749130137286
+      "id": "228177fb5fe0665602659928ae330b21",
+      "timestamp": 1752226985407
     }
   ],
   "ecobank nigeria plc": [
@@ -5789,13 +5784,8 @@
   "international breweries plc": [
     {
       "site": "JobGurus",
-      "id": "db3f3fabd8c2c9269e06c7ae6a97c253",
-      "timestamp": 1751292939787
-    },
-    {
-      "site": "JobGurus",
-      "id": "c04b5122a66ec4577360421fb84d28f4",
-      "timestamp": 1751537854821
+      "id": "76fdc6f6b3ce8771b4fe1146fc43b3d6",
+      "timestamp": 1752226985407
     }
   ],
   "rosabon financial services": [
@@ -7635,6 +7625,20 @@
       "site": "JobGurus",
       "id": "a93104633ddf5023a16670eeb5274115",
       "timestamp": 1752225476960
+    }
+  ],
+  "spie oil & gas services": [
+    {
+      "site": "JobGurus",
+      "id": "3b96be566f9b8b969a6182e5f707e58a",
+      "timestamp": 1752226985407
+    }
+  ],
+  "jhpiego": [
+    {
+      "site": "JobGurus",
+      "id": "3dcc5460804c86d711f83760f7070ff0",
+      "timestamp": 1752226985407
     }
   ]
 }
