@@ -1050,6 +1050,11 @@
       "site": "JobGurus",
       "id": "228177fb5fe0665602659928ae330b21",
       "timestamp": 1752226985407
+    },
+    {
+      "site": "JobGurus",
+      "id": "dffd41ead59f0206e7ca5a8889833f92",
+      "timestamp": 1752245033047
     }
   ],
   "ecobank nigeria plc": [
@@ -3293,6 +3298,11 @@
       "site": "JobGurus",
       "id": "23d1bc97b7f807cc0652d85969ba3113",
       "timestamp": 1752229039343
+    },
+    {
+      "site": "JobGurus",
+      "id": "b9176265b01e28e751a267f923b5ba3f",
+      "timestamp": 1752245033047
     }
   ],
   "the greytar company": [
@@ -4510,6 +4520,11 @@
       "site": "JobGurus",
       "id": "2a666ed85a6f58187f6028ed4f7d3c2d",
       "timestamp": 1752064399358
+    },
+    {
+      "site": "JobGurus",
+      "id": "5a3fc1f5967bc4aaac2819ba2dabed38",
+      "timestamp": 1752245033047
     }
   ],
   "kiyix recruitment hub": [
@@ -7621,6 +7636,11 @@
       "site": "JobGurus",
       "id": "b614ef3c9f0e4f7be2f2f661cd02203f",
       "timestamp": 1752223715471
+    },
+    {
+      "site": "JobGurus",
+      "id": "502171d8d113695c39621eb67fb1b878",
+      "timestamp": 1752245033047
     }
   ],
   "viju industries nigeria limited": [
@@ -7748,6 +7768,13 @@
       "site": "JobGurus",
       "id": "a0cefb6eeff567f5b99fcab30489765f",
       "timestamp": 1752243371458
+    }
+  ],
+  "queensdrive estates limited": [
+    {
+      "site": "JobGurus",
+      "id": "646d757f578fb28970448392803e271c",
+      "timestamp": 1752245033047
     }
   ]
 }
