@@ -7683,5 +7683,38 @@
       "id": "3b4f5841f8a05009dd13e4268107e759",
       "timestamp": 1752230732504
     }
+  ],
+  "pinpoint academy": [
+    {
+      "site": "JobGurus",
+      "id": "0d73f72a2c5318967c5838ae529a681b",
+      "timestamp": 1752240561657
+    }
+  ],
+  "poweredup consulting": [
+    {
+      "site": "JobGurus",
+      "id": "35e9c5edd18767ed0d5f09413d74b324",
+      "timestamp": 1752240561657
+    }
+  ],
+  "hatlab ice cream delite limited": [
+    {
+      "site": "JobGurus",
+      "id": "76f49706305e16f07d962973f10f2876",
+      "timestamp": 1752240561657
+    },
+    {
+      "site": "JobGurus",
+      "id": "24d9ec8883ec17d6788bf98aa70cf495",
+      "timestamp": 1752240561657
+    }
+  ],
+  "whoosh logistics": [
+    {
+      "site": "JobGurus",
+      "id": "80982bbd9100dc0e322544038d60938c",
+      "timestamp": 1752240561657
+    }
   ]
 }
