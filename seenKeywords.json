@@ -552,6 +552,11 @@
       "site": "JobGurus",
       "id": "7db178080687e8269b22d668f89a38c0",
       "timestamp": 1752230732504
+    },
+    {
+      "site": "JobGurus",
+      "id": "37ca66cf62e884d62d2bc81f30840c79",
+      "timestamp": 1752237137844
     }
   ],
   "abbfem group": [
@@ -2340,8 +2345,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "b8c4048245a10a4d76882f39dab13d6a",
-      "timestamp": 1749640431021
+      "id": "513a519d1b8d5c2ababc367cd9caacc2",
+      "timestamp": 1752237137844
     }
   ],
   "fgs limited": [
@@ -6946,6 +6951,16 @@
       "site": "JobGurus",
       "id": "fc957d35f2d264fd1570f10e2e9c81ca",
       "timestamp": 1751895021219
+    },
+    {
+      "site": "JobGurus",
+      "id": "cfffb1400ea9c8d5465f44e6c806511f",
+      "timestamp": 1752237137844
+    },
+    {
+      "site": "JobGurus",
+      "id": "8a737e8a0d03c5c9ef9b5fe22ea26883",
+      "timestamp": 1752237137844
     }
   ],
   "dansol": [
