@@ -3301,8 +3301,8 @@
   "total quest limited": [
     {
       "site": "JobGurus",
-      "id": "919239e01051edc8b1ecca1d6e8a754f",
-      "timestamp": 1750080644233
+      "id": "23d1bc97b7f807cc0652d85969ba3113",
+      "timestamp": 1752229039343
     }
   ],
   "the greytar company": [
@@ -5066,6 +5066,11 @@
       "site": "JobGurus",
       "id": "dc411b7aff6b104298bfc7ed15a42383",
       "timestamp": 1751735581720
+    },
+    {
+      "site": "JobGurus",
+      "id": "b58e3b965ddb2a842f88eb90b3b3d0c9",
+      "timestamp": 1752229039343
     }
   ],
   "koins microfinance bank limited": [
@@ -7639,6 +7644,27 @@
       "site": "JobGurus",
       "id": "3dcc5460804c86d711f83760f7070ff0",
       "timestamp": 1752226985407
+    }
+  ],
+  "abuja clinics": [
+    {
+      "site": "JobGurus",
+      "id": "5843f65fd511c005f1e949553965f024",
+      "timestamp": 1752229039343
+    }
+  ],
+  "schneider electric": [
+    {
+      "site": "JobGurus",
+      "id": "bcdb263942abd5af0a1cba038326b23c",
+      "timestamp": 1752229039343
+    }
+  ],
+  "aggreko": [
+    {
+      "site": "JobGurus",
+      "id": "17272daed10129e8a8b9caf88cf5e2e1",
+      "timestamp": 1752229039343
     }
   ]
 }
