@@ -140,16 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "a82f580db8c89981fec5bb99e0cb2e61",
-      "timestamp": 1751552167670
-    },
-    {
-      "site": "JobGurus",
-      "id": "3e868d9c81512d0d495f79487255c355",
-      "timestamp": 1751555817817
-    },
-    {
-      "site": "JobGurus",
       "id": "22ea78c6393f58290167aa071608fe5c",
       "timestamp": 1752050957713
     },
@@ -157,6 +147,11 @@
       "site": "JobGurus",
       "id": "32a47e3b356b4bdce449f7970f63b5f0",
       "timestamp": 1752144339432
+    },
+    {
+      "site": "JobGurus",
+      "id": "0903fb3907834e10e69f8f8e6b1e57e1",
+      "timestamp": 1752243371458
     }
   ],
   "cway group": [
@@ -1226,8 +1221,8 @@
   "c recruite": [
     {
       "site": "JobGurus",
-      "id": "ba9fddc3508153627e855b918fd74b5f",
-      "timestamp": 1749205038137
+      "id": "c5af039a2fd34070f28badb4353c486d",
+      "timestamp": 1752243371458
     }
   ],
   "tunmise johnson household foundation": [
@@ -7739,6 +7734,20 @@
       "site": "JobGurus",
       "id": "b75b563ec16513aace7321e6c8cc1155",
       "timestamp": 1752241834185
+    }
+  ],
+  "mopheth nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "e6542cf814765a6444565a74ccf15821",
+      "timestamp": 1752243371458
+    }
+  ],
+  "eha clinics": [
+    {
+      "site": "JobGurus",
+      "id": "a0cefb6eeff567f5b99fcab30489765f",
+      "timestamp": 1752243371458
     }
   ]
 }
