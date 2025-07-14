@@ -3229,13 +3229,8 @@
   "husk power energy systems nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "478234e208433152327d98e7e20bf71c",
-      "timestamp": 1750072443517
-    },
-    {
-      "site": "JobGurus",
-      "id": "c5c9a8054ff5fe4906ccb670eaa4bdb9",
-      "timestamp": 1750508914087
+      "id": "8d9350ff9a082108079f54e75a12a093",
+      "timestamp": 1752529098490
     }
   ],
   "buckler systems": [
@@ -8114,6 +8109,32 @@
       "site": "JobGurus",
       "id": "afe20a9fdb73088ec058eebdc5533181",
       "timestamp": 1752527735582
+    }
+  ],
+  "fhemfel group": [
+    {
+      "site": "JobGurus",
+      "id": "8e3416432446ca785dadc455a010e19c",
+      "timestamp": 1752529098490
+    }
+  ],
+  "zara & fara": [
+    {
+      "site": "JobGurus",
+      "id": "ee0f4a1caa09386ea697cc50b8f0ddec",
+      "timestamp": 1752529098490
+    },
+    {
+      "site": "JobGurus",
+      "id": "70449b7fc85cbc1e38af5d8be93ff7ce",
+      "timestamp": 1752529098490
+    }
+  ],
+  "interswstik nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "c1a059c5d817222212d7a53b85b72e3e",
+      "timestamp": 1752529098490
     }
   ]
 }
