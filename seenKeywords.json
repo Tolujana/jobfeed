@@ -7998,6 +7998,11 @@
       "site": "JobGurus",
       "id": "3aedcc1c5dbef53bd39f99bf3dd786f2",
       "timestamp": 1752519193457
+    },
+    {
+      "site": "JobGurus",
+      "id": "f59aa61edd51abe46d4f197bde530f96",
+      "timestamp": 1752531350345
     }
   ],
   "kaplo africa": [
@@ -8135,6 +8140,34 @@
       "site": "JobGurus",
       "id": "c1a059c5d817222212d7a53b85b72e3e",
       "timestamp": 1752529098490
+    }
+  ],
+  "health and development support programme": [
+    {
+      "site": "JobGurus",
+      "id": "999a683fc262010bf4dcf263e998863b",
+      "timestamp": 1752531350345
+    }
+  ],
+  "zuma health trust limited": [
+    {
+      "site": "JobGurus",
+      "id": "cecd5df11f5e8b39ddae214acf489a89",
+      "timestamp": 1752531350345
+    }
+  ],
+  "sayed farms limited": [
+    {
+      "site": "JobGurus",
+      "id": "2da590f8b02e1a9cefdb3b72915dd47f",
+      "timestamp": 1752531350345
+    }
+  ],
+  "swift consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "7fc8f134c4322a941506d0785a747b0e",
+      "timestamp": 1752531350345
     }
   ]
 }
