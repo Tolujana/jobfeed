@@ -7570,6 +7570,11 @@
       "site": "JobGurus",
       "id": "08464fe1a9e9407c9b832ef30691a2f5",
       "timestamp": 1752157000052
+    },
+    {
+      "site": "JobGurus",
+      "id": "a9642182e649e23ad332cf23955f030f",
+      "timestamp": 1752483229905
     }
   ],
   "international energy services limited": [
@@ -7905,6 +7910,27 @@
       "site": "JobGurus",
       "id": "157d267de216283ad0f4aeb82a90c8ea",
       "timestamp": 1752338709999
+    }
+  ],
+  "house of maryjane": [
+    {
+      "site": "JobGurus",
+      "id": "6494f023d62607fef6f0de87396f2a0c",
+      "timestamp": 1752483229905
+    }
+  ],
+  "assets microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "de14095a9a17bfb3cc811ca45e64994c",
+      "timestamp": 1752483229905
+    }
+  ],
+  "revenstrat cnsulting": [
+    {
+      "site": "JobGurus",
+      "id": "9b0e8268a5f5463183f9a83f0c1d917e",
+      "timestamp": 1752483229905
     }
   ]
 }
