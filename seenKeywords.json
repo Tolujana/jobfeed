@@ -5654,8 +5654,8 @@
   "blume distribution limited": [
     {
       "site": "JobGurus",
-      "id": "196928fd960dad43d3ef2373bcd4cf95",
-      "timestamp": 1751048494280
+      "id": "42ae79232050652a0e64a4429c430b00",
+      "timestamp": 1752525780873
     }
   ],
   "daystar power group": [
@@ -8038,6 +8038,11 @@
       "site": "JobGurus",
       "id": "8ea6afd5a440821a23451bf3ea3d6e91",
       "timestamp": 1752521849163
+    },
+    {
+      "site": "JobGurus",
+      "id": "72759cdbb2ede9f0d1d017ede575c600",
+      "timestamp": 1752525780873
     }
   ],
   "r & r recruiting services": [
@@ -8085,6 +8090,23 @@
       "site": "JobGurus",
       "id": "4fb4c3d899e0d65ca4defdd55bbcecbf",
       "timestamp": 1752524313208
+    },
+    {
+      "site": "JobGurus",
+      "id": "bdbc22b5a12d767669b693b474a82fa3",
+      "timestamp": 1752525780873
+    },
+    {
+      "site": "JobGurus",
+      "id": "2a73008d8ebad3ea5e87e997d01f420f",
+      "timestamp": 1752525780873
+    }
+  ],
+  "snapnet limited": [
+    {
+      "site": "JobGurus",
+      "id": "694777be7051cb3ad97da1037f3a2d7a",
+      "timestamp": 1752525780873
     }
   ]
 }
