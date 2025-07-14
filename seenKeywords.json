@@ -2239,8 +2239,8 @@
   "speedaf express": [
     {
       "site": "JobGurus",
-      "id": "4098a66a650b3da47c2e5b28ecc55c56",
-      "timestamp": 1750949015482
+      "id": "f8ec6a6433c12cb8d0a4c0779dd7427c",
+      "timestamp": 1752527735582
     }
   ],
   "ujt logistics services limited": [
@@ -8107,6 +8107,13 @@
       "site": "JobGurus",
       "id": "694777be7051cb3ad97da1037f3a2d7a",
       "timestamp": 1752525780873
+    }
+  ],
+  "bluenix paint manufacturing limited": [
+    {
+      "site": "JobGurus",
+      "id": "afe20a9fdb73088ec058eebdc5533181",
+      "timestamp": 1752527735582
     }
   ]
 }
