@@ -307,13 +307,8 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "3cafb2ca5970b22a672df44ee21a7e79",
-      "timestamp": 1750864651300
-    },
-    {
-      "site": "JobGurus",
-      "id": "8c8441d10f83307c84836dc217071030",
-      "timestamp": 1750866229264
+      "id": "62c7efffb9f76c25797d55762aa52d24",
+      "timestamp": 1752534961567
     }
   ],
   "jamub group": [
@@ -911,8 +906,8 @@
   "petrogap oil and gas limited": [
     {
       "site": "JobGurus",
-      "id": "9379ded5556eff725d260ea44723860b",
-      "timestamp": 1750768372232
+      "id": "c979a4b52894f7f7da4d3ce58b3ee613",
+      "timestamp": 1752534961567
     }
   ],
   "jameda concepts": [
@@ -1969,8 +1964,8 @@
   "phillips outsourcing limited": [
     {
       "site": "JobGurus",
-      "id": "e391659a562cbe790a5af186b297d23a",
-      "timestamp": 1749485992778
+      "id": "9066654650bb4a666179590925c32b47",
+      "timestamp": 1752534961567
     }
   ],
   "momsar financial consulting services": [
