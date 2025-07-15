@@ -3276,8 +3276,8 @@
   "invealth partners limited": [
     {
       "site": "JobGurus",
-      "id": "239fd237ebe350d520019b81586ca923",
-      "timestamp": 1750962132993
+      "id": "d19ca1370093aca3bbffca7f158dc22f",
+      "timestamp": 1752578067404
     }
   ],
   "doah enterprise": [
@@ -7964,6 +7964,11 @@
       "site": "JobGurus",
       "id": "fd6c3b3a5cbe2650efabe11a75720cc6",
       "timestamp": 1752571520736
+    },
+    {
+      "site": "JobGurus",
+      "id": "e752468c62bb0d2158c822b8d7fbc410",
+      "timestamp": 1752578067404
     }
   ],
   "synapse services": [
@@ -8283,6 +8288,27 @@
       "site": "JobGurus",
       "id": "f419949eb90173247205afd40d13699c",
       "timestamp": 1752576393210
+    }
+  ],
+  "maybrands limited": [
+    {
+      "site": "JobGurus",
+      "id": "c1a314c8c694f73371ef5c3f0c2caf31",
+      "timestamp": 1752578067404
+    }
+  ],
+  "adexen recruitment agency": [
+    {
+      "site": "JobGurus",
+      "id": "45955499670f3f97f4e9f23037839721",
+      "timestamp": 1752578067404
+    }
+  ],
+  "xend finance": [
+    {
+      "site": "JobGurus",
+      "id": "6062d91b642fa2b41e9ad99fc50b846e",
+      "timestamp": 1752578067404
     }
   ]
 }
