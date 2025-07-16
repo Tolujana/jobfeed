@@ -1981,8 +1981,8 @@
   "momsar financial consulting services": [
     {
       "site": "JobGurus",
-      "id": "40bc4b1e316b454b2f7554ea3503dacf",
-      "timestamp": 1749487730658
+      "id": "b76e430b5a52bd32b788a86906680060",
+      "timestamp": 1752684669177
     }
   ],
   "the vault recruitment (tvr)": [
@@ -6264,8 +6264,13 @@
   "ama zuma group": [
     {
       "site": "JobGurus",
-      "id": "9809663a27fd315eee9a6b1759d3346f",
-      "timestamp": 1751469446164
+      "id": "e5ae998898ce14960de2106bf045024e",
+      "timestamp": 1752684669177
+    },
+    {
+      "site": "JobGurus",
+      "id": "89a72543ab25af6e0a275c7d45cf44bf",
+      "timestamp": 1752684669177
     }
   ],
   "médecins sans frontières": [
@@ -8519,6 +8524,13 @@
       "site": "JobGurus",
       "id": "8abcd94b3de9e918a6418f5d210954d5",
       "timestamp": 1752680581437
+    }
+  ],
+  "ama-zuma services limited": [
+    {
+      "site": "JobGurus",
+      "id": "b2f9fa465143de621f51f6a3269ed05c",
+      "timestamp": 1752684669177
     }
   ]
 }
