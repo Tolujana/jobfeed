@@ -2678,13 +2678,13 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "ed901efc25227c1fe0f939a808ae8ce3",
-      "timestamp": 1751978006606
+      "id": "edbba19c63909a3e742e1469d8160f86",
+      "timestamp": 1752241834185
     },
     {
       "site": "JobGurus",
-      "id": "edbba19c63909a3e742e1469d8160f86",
-      "timestamp": 1752241834185
+      "id": "8b79b595db6e89480fe3a196ad5f5a6a",
+      "timestamp": 1752693276840
     }
   ],
   "international fertilizer development center": [
@@ -8514,6 +8514,11 @@
       "site": "JobGurus",
       "id": "bbb9a68ed24a24f44ad8c2a6b2364115",
       "timestamp": 1752687894197
+    },
+    {
+      "site": "JobGurus",
+      "id": "9932f1976ede6b7cfce28bde4cfa7314",
+      "timestamp": 1752693276840
     }
   ],
   "ama-zuma services limited": [
@@ -8575,6 +8580,25 @@
       "site": "JobGurus",
       "id": "d6650de5a77d485c2cc2d6af41deb081",
       "timestamp": 1752691944782
+    },
+    {
+      "site": "JobGurus",
+      "id": "8cbda30002769e20fd23daa784528091",
+      "timestamp": 1752693276840
+    }
+  ],
+  "save the slum initiative": [
+    {
+      "site": "JobGurus",
+      "id": "56c0e4e7d7ce34bc9bc3832dd1ef9307",
+      "timestamp": 1752693276840
+    }
+  ],
+  "bankers warehouse limited": [
+    {
+      "site": "JobGurus",
+      "id": "64b741b3372ef97e181fed2a942199c4",
+      "timestamp": 1752693276840
     }
   ]
 }
