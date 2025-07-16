@@ -5395,18 +5395,13 @@
   "recruit with adenike": [
     {
       "site": "JobGurus",
-      "id": "c1b2c556092dea5fad0bf5d69420fad3",
-      "timestamp": 1750959655629
+      "id": "08dac5acf476ba7aeca8dfd80ac3052c",
+      "timestamp": 1752680581437
     },
     {
       "site": "JobGurus",
-      "id": "6561ebffad31febfcf7abb6ed1c06375",
-      "timestamp": 1750965141216
-    },
-    {
-      "site": "JobGurus",
-      "id": "5172888b9ec123c2ac81d6bcaec0aefd",
-      "timestamp": 1751291498085
+      "id": "98750117281a8eb108253058c43c807d",
+      "timestamp": 1752680581437
     }
   ],
   "ak entertainment": [
@@ -8218,6 +8213,11 @@
       "site": "JobGurus",
       "id": "7fc8f134c4322a941506d0785a747b0e",
       "timestamp": 1752531350345
+    },
+    {
+      "site": "JobGurus",
+      "id": "3d26c8ffdbbdb4c93ae8f8c0f329c9e5",
+      "timestamp": 1752680581437
     }
   ],
   "danish refugee council": [
@@ -8512,6 +8512,13 @@
       "site": "JobGurus",
       "id": "fe7306a8301f7de0734d31b18f0c1233",
       "timestamp": 1752679090075
+    }
+  ],
+  "kolomoni microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "8abcd94b3de9e918a6418f5d210954d5",
+      "timestamp": 1752680581437
     }
   ]
 }
