@@ -65,8 +65,8 @@
   "the concept group": [
     {
       "site": "JobGurus",
-      "id": "71deef63a407c359a09c09396df7b83d",
-      "timestamp": 1751643621853
+      "id": "513af93ba243ca8fd365fd7cdce6aac2",
+      "timestamp": 1752690206338
     }
   ],
   "triple x environmental health consult": [
@@ -8552,6 +8552,13 @@
       "site": "JobGurus",
       "id": "8546342afd9ead38af56b43462b57432",
       "timestamp": 1752687894197
+    }
+  ],
+  "havana group": [
+    {
+      "site": "JobGurus",
+      "id": "bf290e349aebd34f78f4ee8628e186af",
+      "timestamp": 1752690206338
     }
   ]
 }
