@@ -2827,13 +2827,13 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "d966307c7b3c2db968a0fc03cd66fac4",
-      "timestamp": 1751640145052
+      "id": "184af9673b52d04202b60094c7287028",
+      "timestamp": 1752162248315
     },
     {
       "site": "JobGurus",
-      "id": "184af9673b52d04202b60094c7287028",
-      "timestamp": 1752162248315
+      "id": "bb09645c7bbd00772aba4e8136eb1cff",
+      "timestamp": 1752747498222
     }
   ],
   "netcom africa": [
@@ -2876,6 +2876,11 @@
       "site": "JobGurus",
       "id": "cd3325f20be56d5cd65cd67b85ff8ddd",
       "timestamp": 1752687894197
+    },
+    {
+      "site": "JobGurus",
+      "id": "d79b032c0bc3c7067fdab7df5c0fb600",
+      "timestamp": 1752747498222
     }
   ],
   "sproutly inc.": [
@@ -5187,13 +5192,8 @@
   "max drive": [
     {
       "site": "JobGurus",
-      "id": "978e786add21e68373df200ca3594f90",
-      "timestamp": 1750846654880
-    },
-    {
-      "site": "JobGurus",
-      "id": "bcd7035d5c686068947613824b1a56e2",
-      "timestamp": 1751291498085
+      "id": "3b6f3497b85d996e96d1da9b3c64c92e",
+      "timestamp": 1752747498222
     }
   ],
   "opay": [
@@ -5703,18 +5703,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "648304ac7f7e854f7d0fbfe388341056",
-      "timestamp": 1751127464693
-    },
-    {
-      "site": "JobGurus",
-      "id": "ec3ba45574efb1fc1a44c173c7aadbb2",
-      "timestamp": 1751127464693
-    },
-    {
-      "site": "JobGurus",
-      "id": "0fb14d1eea3f86fe79c1d5f0562e42e3",
-      "timestamp": 1751365065849
+      "id": "f453fa0bd9b48622aa12c36ff149bed9",
+      "timestamp": 1752747498222
     }
   ],
   "boing pinnacle limited": [
@@ -7803,6 +7793,11 @@
       "site": "JobGurus",
       "id": "a0cefb6eeff567f5b99fcab30489765f",
       "timestamp": 1752243371458
+    },
+    {
+      "site": "JobGurus",
+      "id": "a02c42822f3fd0852a60f4dcd7c953df",
+      "timestamp": 1752747498222
     }
   ],
   "queensdrive estates limited": [
