@@ -17,8 +17,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "f52be72e246f918db2241fb16409c762",
-      "timestamp": 1751290202806
+      "id": "08dd5fffc5be089e4df54cffe418e4f4",
+      "timestamp": 1752745505290
     }
   ],
   "amecron nigeria limited": [
@@ -338,8 +338,8 @@
   "castville solutions": [
     {
       "site": "JobGurus",
-      "id": "9365d5a27bad988a1c1da12013ef2c45",
-      "timestamp": 1751366746987
+      "id": "a8844ccebc262f6694d4487f81ee2d11",
+      "timestamp": 1752745505290
     }
   ],
   "lacare staffing solutions": [
@@ -1912,8 +1912,8 @@
   "express resource connect": [
     {
       "site": "JobGurus",
-      "id": "ea3a5a078025d3b1e463449f6ba63617",
-      "timestamp": 1751645957920
+      "id": "55f93885f18da63f1cdbcf4349044f6a",
+      "timestamp": 1752745505290
     }
   ],
   "uptitek limited": [
@@ -8616,6 +8616,20 @@
       "site": "JobGurus",
       "id": "a22919cbc029b54e102599569792de53",
       "timestamp": 1752744022749
+    }
+  ],
+  "standard chartered bank": [
+    {
+      "site": "JobGurus",
+      "id": "5c5c68b18d67865e89efe894f5f5d40d",
+      "timestamp": 1752745505290
+    }
+  ],
+  "poke limited": [
+    {
+      "site": "JobGurus",
+      "id": "9be55eb96704c30bfae3f89451a2fe49",
+      "timestamp": 1752745505290
     }
   ]
 }
