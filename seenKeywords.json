@@ -4752,13 +4752,8 @@
   "bretty consultancy services": [
     {
       "site": "JobGurus",
-      "id": "709208dda15e16b988d0a36197deb06b",
-      "timestamp": 1750673893215
-    },
-    {
-      "site": "JobGurus",
-      "id": "cd24443274fe6199d7f45bdabc81da74",
-      "timestamp": 1750677267464
+      "id": "579b5f0dbbddfebb17c699bf98b39ebe",
+      "timestamp": 1752767043107
     }
   ],
   "neohomes limited": [
@@ -6712,8 +6707,8 @@
   "etc workforce services limited": [
     {
       "site": "JobGurus",
-      "id": "b3f763fb5504912090586c7c983ef4ef",
-      "timestamp": 1751647596162
+      "id": "dffdaa79e3ed1bbfa2983660d0c9f8bf",
+      "timestamp": 1752767043107
     }
   ],
   "jibs-ray nigeria limited": [
@@ -8731,6 +8726,27 @@
       "site": "JobGurus",
       "id": "b7e947c055972aba27d825b80d748f24",
       "timestamp": 1752765478768
+    }
+  ],
+  "cedarose hr consult": [
+    {
+      "site": "JobGurus",
+      "id": "4df9cb26c1129c4018f337f53912d17e",
+      "timestamp": 1752767043107
+    }
+  ],
+  "voltaire lifestyle services limited": [
+    {
+      "site": "JobGurus",
+      "id": "017192b5f4c2b4653bcde41f0c73c8c2",
+      "timestamp": 1752767043107
+    }
+  ],
+  "vdsc consulting services": [
+    {
+      "site": "JobGurus",
+      "id": "49a92827f3ccc279e522695444a56257",
+      "timestamp": 1752767043107
     }
   ]
 }
