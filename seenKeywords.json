@@ -1320,8 +1320,8 @@
   "jtechtrade": [
     {
       "site": "JobGurus",
-      "id": "ca2b254b67e5e035c9c4091f0ae31411",
-      "timestamp": 1749213068863
+      "id": "13f25dd01d5f98d2f511331e1e5d96a2",
+      "timestamp": 1752765478768
     }
   ],
   "vi-m professional solutions": [
@@ -3879,8 +3879,8 @@
   "cig motors company limited": [
     {
       "site": "JobGurus",
-      "id": "b85fc9125ec3743707d7ff66c37369fb",
-      "timestamp": 1750256147670
+      "id": "febcfe2b9549f81f581ee507d8be78a9",
+      "timestamp": 1752765478768
     }
   ],
   "odixcity consulting": [
@@ -8055,6 +8055,11 @@
       "site": "JobGurus",
       "id": "6eb1799efb494c13582ff5d7abe44ae6",
       "timestamp": 1752521849163
+    },
+    {
+      "site": "JobGurus",
+      "id": "6c0c4569bbafda4d7633f0a8067b2693",
+      "timestamp": 1752765478768
     }
   ],
   "troop pharmaceuticals limited": [
@@ -8712,6 +8717,20 @@
       "site": "JobGurus",
       "id": "3154ced345c1e9b63d60162a3bb024e8",
       "timestamp": 1752763520061
+    }
+  ],
+  "propetrol limited": [
+    {
+      "site": "JobGurus",
+      "id": "efc4909c7a5347806d29e62566726d12",
+      "timestamp": 1752765478768
+    }
+  ],
+  "annona grains and mills limited": [
+    {
+      "site": "JobGurus",
+      "id": "b7e947c055972aba27d825b80d748f24",
+      "timestamp": 1752765478768
     }
   ]
 }
