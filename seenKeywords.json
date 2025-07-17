@@ -3083,8 +3083,8 @@
   "mactay consulting": [
     {
       "site": "JobGurus",
-      "id": "08ea27d53496d1a04d903661fb742b14",
-      "timestamp": 1751470969240
+      "id": "8742b0dcaa12976aefc006f68867038d",
+      "timestamp": 1752750877475
     }
   ],
   "tybtitx services international limited": [
@@ -8656,6 +8656,20 @@
       "site": "JobGurus",
       "id": "5e90c7cf7932a5aa893a0729466dcacd",
       "timestamp": 1752749239843
+    }
+  ],
+  " sewa assets management limited": [
+    {
+      "site": "JobGurus",
+      "id": "5ac275c07402f856b34b885c9eddadc3",
+      "timestamp": 1752750877475
+    }
+  ],
+  "savingsbox multipurpose cooperative society": [
+    {
+      "site": "JobGurus",
+      "id": "341fb30bac580b5c8b55299b5893f291",
+      "timestamp": 1752750877475
     }
   ]
 }
