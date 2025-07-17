@@ -6383,23 +6383,8 @@
   "oppo": [
     {
       "site": "JobGurus",
-      "id": "f48479235ba4cb9deb96ffcb07e04ac0",
-      "timestamp": 1751492303510
-    },
-    {
-      "site": "JobGurus",
-      "id": "9232c6cced7d65571a658db3388aed66",
-      "timestamp": 1752081371174
-    },
-    {
-      "site": "JobGurus",
-      "id": "3efbf6b594ccdf1deba968e32628c765",
-      "timestamp": 1752081371174
-    },
-    {
-      "site": "JobGurus",
-      "id": "1757c1719d109d5484872269141fa4a6",
-      "timestamp": 1752087048167
+      "id": "0ad88e363ca787ef987c3a5574ae2db6",
+      "timestamp": 1752769243664
     }
   ],
   "agricare std plus limited": [
@@ -6709,6 +6694,11 @@
       "site": "JobGurus",
       "id": "dffdaa79e3ed1bbfa2983660d0c9f8bf",
       "timestamp": 1752767043107
+    },
+    {
+      "site": "JobGurus",
+      "id": "e51df77cdc307b645dde1069d52bcbe5",
+      "timestamp": 1752769243664
     }
   ],
   "jibs-ray nigeria limited": [
@@ -8698,6 +8688,11 @@
       "site": "JobGurus",
       "id": "5fd656eeb921533829d398fb5d6b31e3",
       "timestamp": 1752763520061
+    },
+    {
+      "site": "JobGurus",
+      "id": "fce92f5e54c7b6a49fc0bd6e4e562d14",
+      "timestamp": 1752769243664
     }
   ],
   "ocean lord limited": [
@@ -8747,6 +8742,20 @@
       "site": "JobGurus",
       "id": "49a92827f3ccc279e522695444a56257",
       "timestamp": 1752767043107
+    }
+  ],
+  "skld integrated services limited": [
+    {
+      "site": "JobGurus",
+      "id": "537758d7333bf6c59b68a215141e448c",
+      "timestamp": 1752769243664
+    }
+  ],
+  "polaris digitech limited": [
+    {
+      "site": "JobGurus",
+      "id": "39c0a8e8be3f75172bbf8b87f94a1178",
+      "timestamp": 1752769243664
     }
   ]
 }
