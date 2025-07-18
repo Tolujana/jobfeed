@@ -8822,6 +8822,11 @@
       "site": "JobGurus",
       "id": "72fa47a6e38c6f27d09d2443db05e302",
       "timestamp": 1752845622402
+    },
+    {
+      "site": "JobGurus",
+      "id": "b22f699f7b3686cd9d704601e781b220",
+      "timestamp": 1752848189128
     }
   ],
   "springrock group": [
@@ -8836,6 +8841,34 @@
       "site": "JobGurus",
       "id": "3ea2e51a420a3757cba30b6617e40623",
       "timestamp": 1752845622402
+    }
+  ],
+  "smash technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "2b1171b034072617de43e6a1e7a4cf1f",
+      "timestamp": 1752848189128
+    }
+  ],
+  "greenlife hospital limited": [
+    {
+      "site": "JobGurus",
+      "id": "94997ef05711ff31244e9d0239d5d27e",
+      "timestamp": 1752848189128
+    }
+  ],
+  "charlesmaris international company": [
+    {
+      "site": "JobGurus",
+      "id": "81aa0dcbe80eb0fee70c937df8d738fd",
+      "timestamp": 1752848189128
+    }
+  ],
+  "alpha mead group": [
+    {
+      "site": "JobGurus",
+      "id": "a35a5795933914cdc9f4cb4909284fe2",
+      "timestamp": 1752848189128
     }
   ]
 }
