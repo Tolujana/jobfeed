@@ -4166,6 +4166,11 @@
       "site": "JobGurus",
       "id": "0d657723cf0258d86bb136154d30b223",
       "timestamp": 1752838761934
+    },
+    {
+      "site": "JobGurus",
+      "id": "e6fc906f7c5badcbc3dc062b58e0b839",
+      "timestamp": 1752849908290
     }
   ],
   "wts energy": [
@@ -8869,6 +8874,27 @@
       "site": "JobGurus",
       "id": "a35a5795933914cdc9f4cb4909284fe2",
       "timestamp": 1752848189128
+    }
+  ],
+  "providus bank plc": [
+    {
+      "site": "JobGurus",
+      "id": "3c4a5adff691d89d95fbf22f16970b6f",
+      "timestamp": 1752849908290
+    }
+  ],
+  "excellium": [
+    {
+      "site": "JobGurus",
+      "id": "e2fcfc5016fc6d556857ddf8c081910a",
+      "timestamp": 1752849908290
+    }
+  ],
+  "gig mobility": [
+    {
+      "site": "JobGurus",
+      "id": "d7ac9b70d7bdad83356d635b4672305e",
+      "timestamp": 1752849908290
     }
   ]
 }
