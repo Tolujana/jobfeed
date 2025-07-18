@@ -2519,6 +2519,11 @@
       "site": "JobGurus",
       "id": "7ea1abf1a04a4cb4caec0ba6e406843e",
       "timestamp": 1752831938691
+    },
+    {
+      "site": "JobGurus",
+      "id": "b23b71e8c6b9a017cbfe3d9a96847a44",
+      "timestamp": 1752833891556
     }
   ],
   "greenfield consulting": [
@@ -3044,6 +3049,11 @@
       "site": "JobGurus",
       "id": "530dcebd200e717858509ba21acf257a",
       "timestamp": 1752592581897
+    },
+    {
+      "site": "JobGurus",
+      "id": "ac0af3a72a3ba2d758a8e1cd93f53fc6",
+      "timestamp": 1752833891556
     }
   ],
   "lauvee beauty salon": [
@@ -3579,8 +3589,8 @@
   "kadick integrated limited": [
     {
       "site": "JobGurus",
-      "id": "c596c6b651847427921b8ca43d6e2bba",
-      "timestamp": 1750171476204
+      "id": "b2563cde83ea983a258ac42fe264c02a",
+      "timestamp": 1752833891556
     }
   ],
   "tradedepot": [
@@ -7126,8 +7136,8 @@
   "zhongxin network technology company limited": [
     {
       "site": "JobGurus",
-      "id": "d73eaa0466870495485ff9b92787e96d",
-      "timestamp": 1751987832635
+      "id": "83fe1260a6c7f0eb3bb088d6686e80af",
+      "timestamp": 1752833891556
     }
   ],
   "gabs cooperative": [
@@ -8776,6 +8786,13 @@
       "site": "JobGurus",
       "id": "1f9aa7d961d473ed37a75dcf5749c1c0",
       "timestamp": 1752831938691
+    }
+  ],
+  "mint digital bank": [
+    {
+      "site": "JobGurus",
+      "id": "7768b1d40f959d02388fa34f8e957bcb",
+      "timestamp": 1752833891556
     }
   ]
 }
