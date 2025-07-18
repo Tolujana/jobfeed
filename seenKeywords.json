@@ -402,8 +402,8 @@
   "dana group": [
     {
       "site": "JobGurus",
-      "id": "47b169760de190510cb24f1988f04ee1",
-      "timestamp": 1749917848689
+      "id": "5b70ecb352dec7cde04872c6d9a18d03",
+      "timestamp": 1752845622402
     }
   ],
   "raphael group": [
@@ -4214,8 +4214,8 @@
   "saywheels auto": [
     {
       "site": "JobGurus",
-      "id": "4b4a48f82ad7543851d4a569890f9c18",
-      "timestamp": 1750354951652
+      "id": "45f3b2b81d5bf600b4b309663eeef94c",
+      "timestamp": 1752845622402
     }
   ],
   "timeless telecoms": [
@@ -8815,6 +8815,27 @@
       "site": "JobGurus",
       "id": "6aa35f57650bdc9ad5457feb132859d5",
       "timestamp": 1752842051873
+    }
+  ],
+  "future one africa network (foan group)": [
+    {
+      "site": "JobGurus",
+      "id": "72fa47a6e38c6f27d09d2443db05e302",
+      "timestamp": 1752845622402
+    }
+  ],
+  "springrock group": [
+    {
+      "site": "JobGurus",
+      "id": "7ed901291dd2f40e6e3bb47eee436ce1",
+      "timestamp": 1752845622402
+    }
+  ],
+  "aava brands limited": [
+    {
+      "site": "JobGurus",
+      "id": "3ea2e51a420a3757cba30b6617e40623",
+      "timestamp": 1752845622402
     }
   ]
 }
