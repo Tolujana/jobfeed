@@ -701,13 +701,8 @@
   "salpha energy limited": [
     {
       "site": "JobGurus",
-      "id": "758ec2a81dfd2c89f4ec8d8b3972d0f8",
-      "timestamp": 1751314609820
-    },
-    {
-      "site": "JobGurus",
-      "id": "e122d627b426b43ef358d0c996503c6c",
-      "timestamp": 1751549284889
+      "id": "81a0daec2f71b5c45834aa1c9f2ad716",
+      "timestamp": 1752831938691
     }
   ],
   "greensprings school": [
@@ -2522,8 +2517,8 @@
   "oilserv limited": [
     {
       "site": "JobGurus",
-      "id": "dbac5ee9b7af7f2553d335c6ad964170",
-      "timestamp": 1750768372232
+      "id": "7ea1abf1a04a4cb4caec0ba6e406843e",
+      "timestamp": 1752831938691
     }
   ],
   "greenfield consulting": [
@@ -8762,6 +8757,25 @@
       "site": "JobGurus",
       "id": "1a84b4a39bfc31617dc8601b5330f914",
       "timestamp": 1752770997953
+    }
+  ],
+  "nabuyar environmental consultants limited": [
+    {
+      "site": "JobGurus",
+      "id": "2b650b61e13d399433a7122f4be0cafe",
+      "timestamp": 1752831938691
+    },
+    {
+      "site": "JobGurus",
+      "id": "cda2aee2592ebe4274c74354ce401da9",
+      "timestamp": 1752831938691
+    }
+  ],
+  "norwegian refugee council": [
+    {
+      "site": "JobGurus",
+      "id": "1f9aa7d961d473ed37a75dcf5749c1c0",
+      "timestamp": 1752831938691
     }
   ]
 }
