@@ -140,16 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "22ea78c6393f58290167aa071608fe5c",
-      "timestamp": 1752050957713
-    },
-    {
-      "site": "JobGurus",
-      "id": "32a47e3b356b4bdce449f7970f63b5f0",
-      "timestamp": 1752144339432
-    },
-    {
-      "site": "JobGurus",
       "id": "0903fb3907834e10e69f8f8e6b1e57e1",
       "timestamp": 1752243371458
     },
@@ -157,6 +147,11 @@
       "site": "JobGurus",
       "id": "26b8258d53a5784ea43445ed6fdbf085",
       "timestamp": 1752576393210
+    },
+    {
+      "site": "JobGurus",
+      "id": "66812a71d860b3a1ccdf02bed4e687f8",
+      "timestamp": 1752835654868
     }
   ],
   "cway group": [
@@ -4559,8 +4554,8 @@
   "interswitch": [
     {
       "site": "JobGurus",
-      "id": "7457d713f78ec0c157ca2fc0a56572f1",
-      "timestamp": 1751891575753
+      "id": "4149249d0eda7557c300d814322335e2",
+      "timestamp": 1752835654868
     }
   ],
   "human capital group": [
@@ -7095,8 +7090,8 @@
   "perfetti van melle nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "9c9531bb1a6a1d472520facf90b60738",
-      "timestamp": 1751984135521
+      "id": "a4e26b6865a4d8a1dc472cb4682cceb4",
+      "timestamp": 1752835654868
     }
   ],
   "club concierge africa": [
@@ -8793,6 +8788,13 @@
       "site": "JobGurus",
       "id": "7768b1d40f959d02388fa34f8e957bcb",
       "timestamp": 1752833891556
+    }
+  ],
+  "dmw engineering limited": [
+    {
+      "site": "JobGurus",
+      "id": "c99f5499533b6b1c2d3ee5b7d3d26197",
+      "timestamp": 1752835654868
     }
   ]
 }
