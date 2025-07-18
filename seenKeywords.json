@@ -1501,13 +1501,13 @@
   "dmot enterprises": [
     {
       "site": "JobGurus",
-      "id": "d5bc00289ef22e6c38aa956be6ada632",
-      "timestamp": 1752144339432
+      "id": "67d3259a56253cff060fb4b6ea7b555d",
+      "timestamp": 1752337088530
     },
     {
       "site": "JobGurus",
-      "id": "67d3259a56253cff060fb4b6ea7b555d",
-      "timestamp": 1752337088530
+      "id": "875519647803e8d74049a1735152ab0e",
+      "timestamp": 1752837258076
     }
   ],
   "reliance health": [
@@ -1641,13 +1641,8 @@
   "folixx hospitality": [
     {
       "site": "JobGurus",
-      "id": "f48f74cd87f576ace4a6babbdf865d20",
-      "timestamp": 1751552167670
-    },
-    {
-      "site": "JobGurus",
-      "id": "7d3f55f0c5363ef7d080bdf780721907",
-      "timestamp": 1752059661617
+      "id": "91c6c931000a173d277c4aa7e6cd0720",
+      "timestamp": 1752837258076
     }
   ],
   "htt football academy": [
@@ -3871,28 +3866,8 @@
   "odixcity consulting": [
     {
       "site": "JobGurus",
-      "id": "d6562ca348252a35f04db49fcfb0899e",
-      "timestamp": 1750266949434
-    },
-    {
-      "site": "JobGurus",
-      "id": "e1e094dc1e043f1035ccd9cce67d15dc",
-      "timestamp": 1750272555405
-    },
-    {
-      "site": "JobGurus",
-      "id": "8fe0f89f510945ed47e9670c8df04008",
-      "timestamp": 1750336341056
-    },
-    {
-      "site": "JobGurus",
-      "id": "331783dd9e24de67ee468c1d7b2bc07a",
-      "timestamp": 1750354951652
-    },
-    {
-      "site": "JobGurus",
-      "id": "0243bf53b38a2931fbb46c8728e2adbf",
-      "timestamp": 1750357242297
+      "id": "b95c844c5a8cfc4204285b5bc20f2784",
+      "timestamp": 1752837258076
     }
   ],
   "changeroom": [
@@ -4184,8 +4159,8 @@
   "kayode obembe properties limited": [
     {
       "site": "JobGurus",
-      "id": "4af841596d38f710454563d3bae576b4",
-      "timestamp": 1750963759836
+      "id": "a8be7b678ef762e23cf6d1bd6e525c60",
+      "timestamp": 1752837258076
     }
   ],
   "wts energy": [
@@ -8795,6 +8770,13 @@
       "site": "JobGurus",
       "id": "c99f5499533b6b1c2d3ee5b7d3d26197",
       "timestamp": 1752835654868
+    }
+  ],
+  "dm holdings (dmh)": [
+    {
+      "site": "JobGurus",
+      "id": "9aecb01ad9c2952bbb2a8e8fa0a52510",
+      "timestamp": 1752837258076
     }
   ]
 }
