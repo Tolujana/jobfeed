@@ -1601,8 +1601,8 @@
   "maxitech global investment limited": [
     {
       "site": "JobGurus",
-      "id": "08d6909398259b5385ca347579c699bc",
-      "timestamp": 1750158812939
+      "id": "3e777b697c632e3b327a0a5e65b8d43c",
+      "timestamp": 1752838761934
     }
   ],
   "dreamworks global logistics limited": [
@@ -4161,6 +4161,11 @@
       "site": "JobGurus",
       "id": "a8be7b678ef762e23cf6d1bd6e525c60",
       "timestamp": 1752837258076
+    },
+    {
+      "site": "JobGurus",
+      "id": "0d657723cf0258d86bb136154d30b223",
+      "timestamp": 1752838761934
     }
   ],
   "wts energy": [
@@ -6543,8 +6548,8 @@
   "global windsor group": [
     {
       "site": "JobGurus",
-      "id": "d007b77105324927be7a853b3cbf1afb",
-      "timestamp": 1751553809553
+      "id": "159a3d266ee3daf25b2249fd54252b49",
+      "timestamp": 1752838761934
     }
   ],
   "karisa consults limited": [
@@ -8777,6 +8782,20 @@
       "site": "JobGurus",
       "id": "9aecb01ad9c2952bbb2a8e8fa0a52510",
       "timestamp": 1752837258076
+    }
+  ],
+  "so fresh": [
+    {
+      "site": "JobGurus",
+      "id": "e46d62e21d18ca51993bbf8ab98a5e5d",
+      "timestamp": 1752838761934
+    }
+  ],
+  "resource intermediaries": [
+    {
+      "site": "JobGurus",
+      "id": "88db94cd3952790ac9c3a5b8a64ae032",
+      "timestamp": 1752838761934
     }
   ]
 }
