@@ -1288,8 +1288,8 @@
   "catalyst path consulting": [
     {
       "site": "JobGurus",
-      "id": "d363d55cb8253c3be84363fb7eb65a1f",
-      "timestamp": 1749213068863
+      "id": "d9951e5878d0cc3a34be3f8a209a7062",
+      "timestamp": 1752920187320
     }
   ],
   "jtechtrade": [
@@ -5371,8 +5371,8 @@
   "cooperazione internazionale": [
     {
       "site": "JobGurus",
-      "id": "a1de703dee61601c2d35a42aea092705",
-      "timestamp": 1750959655629
+      "id": "0388f1e3cd2c14fd199b1f91276284a7",
+      "timestamp": 1752920187320
     }
   ],
   "romanspage global": [
@@ -8902,6 +8902,27 @@
       "site": "JobGurus",
       "id": "4fac45df6f7b0fee94dd2d8f18a0a56b",
       "timestamp": 1752851808779
+    }
+  ],
+  "nestle nigeria plc": [
+    {
+      "site": "JobGurus",
+      "id": "91219a043cddfee33497282045558a47",
+      "timestamp": 1752920187320
+    }
+  ],
+  "anadach consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "8331e5f5912c4fdb819ec2909092052d",
+      "timestamp": 1752920187320
+    }
+  ],
+  "cee consult": [
+    {
+      "site": "JobGurus",
+      "id": "4e0395fe2313f52cd87a77c2312f32e3",
+      "timestamp": 1752920187320
     }
   ]
 }
