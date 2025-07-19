@@ -6745,6 +6745,11 @@
       "site": "JobGurus",
       "id": "49cdecad50596d2a19f4c1f0ff3033d2",
       "timestamp": 1752923587327
+    },
+    {
+      "site": "JobGurus",
+      "id": "81a99879c3c43c7b5ac7b9fd09374138",
+      "timestamp": 1752925029334
     }
   ],
   "eden solution and resources limited": [
@@ -8968,6 +8973,34 @@
       "site": "JobGurus",
       "id": "d54cf52bd074ae55f14ccc6d1b84f236",
       "timestamp": 1752923587327
+    }
+  ],
+  "new education consult": [
+    {
+      "site": "JobGurus",
+      "id": "97755c7a8b0c86d47ecd39b1ba8312d2",
+      "timestamp": 1752925029334
+    }
+  ],
+  "prime montessori school": [
+    {
+      "site": "JobGurus",
+      "id": "243bcf5e0920df8f3cb6ea0a76156df4",
+      "timestamp": 1752925029334
+    }
+  ],
+  "nemterra developers limited": [
+    {
+      "site": "JobGurus",
+      "id": "d5fd7c197f9228ad3e334bf0583b42bf",
+      "timestamp": 1752925029334
+    }
+  ],
+  "homelight properties limited": [
+    {
+      "site": "JobGurus",
+      "id": "6d7dd4b6cabb7192cf8fb88993d4d4c2",
+      "timestamp": 1752925029334
     }
   ]
 }
