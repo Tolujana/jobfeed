@@ -6244,6 +6244,11 @@
       "site": "JobGurus",
       "id": "07a6d8cd590852e685a2a63c7e32081d",
       "timestamp": 1752921852953
+    },
+    {
+      "site": "JobGurus",
+      "id": "57b228a486a7b7802690827cbde79145",
+      "timestamp": 1752923587327
     }
   ],
   "calibration and non-destructive services limited": [
@@ -6733,8 +6738,13 @@
   "firewood rice nigeria": [
     {
       "site": "JobGurus",
-      "id": "8eb39c5fc5b2ceedfd528df78259ed60",
-      "timestamp": 1751665069754
+      "id": "11904d2efc0fc6b6f8c3837f024c47d6",
+      "timestamp": 1752923587327
+    },
+    {
+      "site": "JobGurus",
+      "id": "49cdecad50596d2a19f4c1f0ff3033d2",
+      "timestamp": 1752923587327
     }
   ],
   "eden solution and resources limited": [
@@ -8944,6 +8954,20 @@
       "site": "JobGurus",
       "id": "2d5761bf3b9adeeafc4ebdb63b40c12c",
       "timestamp": 1752921852953
+    }
+  ],
+  "ral entwurf limited": [
+    {
+      "site": "JobGurus",
+      "id": "61052014ae92b319accdce36cd579292",
+      "timestamp": 1752923587327
+    }
+  ],
+  "smileville ortho-dental limited": [
+    {
+      "site": "JobGurus",
+      "id": "d54cf52bd074ae55f14ccc6d1b84f236",
+      "timestamp": 1752923587327
     }
   ]
 }
