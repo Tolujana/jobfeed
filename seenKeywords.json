@@ -258,8 +258,8 @@
   "choice talents ng": [
     {
       "site": "JobGurus",
-      "id": "d206625b5e26c662dcef6ce14236d3cb",
-      "timestamp": 1751534271574
+      "id": "b93655e424de655b4892bac580bc0164",
+      "timestamp": 1753107511072
     }
   ],
   "greengrass investment limited": [
@@ -547,6 +547,11 @@
       "site": "JobGurus",
       "id": "81c6a0b8b43f443c0a04c556f414ab83",
       "timestamp": 1753104970058
+    },
+    {
+      "site": "JobGurus",
+      "id": "1ef3ec6099652061775311616e97011e",
+      "timestamp": 1753107511072
     }
   ],
   "abbfem group": [
@@ -2903,13 +2908,8 @@
   "resource intermediaries limited": [
     {
       "site": "JobGurus",
-      "id": "b0e5acf796279b4a74157623b5373096",
-      "timestamp": 1750954775302
-    },
-    {
-      "site": "JobGurus",
-      "id": "2a0aece623abed6d35f8ce0382b73d74",
-      "timestamp": 1751467439280
+      "id": "e723775fb4b86c1bb57ad752395395ca",
+      "timestamp": 1753107511072
     }
   ],
   "oisedotcom limited": [
@@ -9131,6 +9131,20 @@
       "site": "JobGurus",
       "id": "304bd27e5b3f6ecd607bf9e692b4f044",
       "timestamp": 1753104970058
+    }
+  ],
+  "saluda & saluda nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "b9204c8010bff9a5030169418d41031a",
+      "timestamp": 1753107511072
+    }
+  ],
+  "airtel nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "2b7e473083a9cf4c556fb968fd6ac6d4",
+      "timestamp": 1753107511072
     }
   ]
 }
