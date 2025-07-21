@@ -9077,5 +9077,22 @@
       "id": "801d3a07c09a3875a452bff039a35940",
       "timestamp": 1753093130182
     }
+  ],
+  "nosprom consult": [
+    {
+      "site": "JobGurus",
+      "id": "52256a90267ebcbb94cc9080b2694092",
+      "timestamp": 1753094908944
+    },
+    {
+      "site": "JobGurus",
+      "id": "8c48d8d6a8100221cde18a9b21545ea3",
+      "timestamp": 1753094908944
+    },
+    {
+      "site": "JobGurus",
+      "id": "9c3f7e5d77f832799f927a1d2623091a",
+      "timestamp": 1753094908944
+    }
   ]
 }
