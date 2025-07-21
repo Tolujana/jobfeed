@@ -1363,8 +1363,8 @@
   "première urgence internationale": [
     {
       "site": "JobGurus",
-      "id": "737e763acdbebe17f9ec9ba523121af2",
-      "timestamp": 1751895021219
+      "id": "24941bdea16c3da5aec6c55410410587",
+      "timestamp": 1753091385684
     }
   ],
   "techdoctorinnovations": [
@@ -3852,8 +3852,8 @@
   "the borough lagos": [
     {
       "site": "JobGurus",
-      "id": "71bd00f1901de04260c0367ef8865cb6",
-      "timestamp": 1750954775302
+      "id": "e53d6c248e59c801c4c1ccb41915339c",
+      "timestamp": 1753091385684
     }
   ],
   "cig motors company limited": [
@@ -9024,6 +9024,27 @@
       "site": "JobGurus",
       "id": "1375dc3bb2f2b425c078aec079473bf6",
       "timestamp": 1753089897676
+    }
+  ],
+  "the o lounge": [
+    {
+      "site": "JobGurus",
+      "id": "a5d60ee783b5c79d032dbe270cb6d1f5",
+      "timestamp": 1753091385684
+    }
+  ],
+  "icentra": [
+    {
+      "site": "JobGurus",
+      "id": "f0da49901f9b7d99a2fe57dbe340253d",
+      "timestamp": 1753091385684
+    }
+  ],
+  "allied thrust and systems nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "5223e60f72da812537667ffd2e4f36a4",
+      "timestamp": 1753091385684
     }
   ]
 }
