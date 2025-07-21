@@ -2672,8 +2672,8 @@
   "marriott international": [
     {
       "site": "JobGurus",
-      "id": "c29a85ccf713f56e1cb480ecba1e6592",
-      "timestamp": 1751897781507
+      "id": "1d409d11f1e89f0530f663d0dc333e32",
+      "timestamp": 1753111067055
     }
   ],
   "well fluid services limited": [
@@ -4581,6 +4581,11 @@
       "site": "JobGurus",
       "id": "72209d610a0c24b2328ef0a470ed7444",
       "timestamp": 1752763520061
+    },
+    {
+      "site": "JobGurus",
+      "id": "71188d2c8bc4ed422501b54a93096d43",
+      "timestamp": 1753111067055
     }
   ],
   "skipper eye-q super specialty eye hospital": [
@@ -6436,6 +6441,11 @@
       "site": "JobGurus",
       "id": "bee6eb6411c39894604410cbd606efe8",
       "timestamp": 1753109266240
+    },
+    {
+      "site": "JobGurus",
+      "id": "8c8067d9f13716a52aa484c67555029d",
+      "timestamp": 1753111067055
     }
   ],
   "prestige": [
@@ -6834,8 +6844,8 @@
   "casalavoro limited": [
     {
       "site": "JobGurus",
-      "id": "4c99787f8813009c8837259be4a57b07",
-      "timestamp": 1751732265966
+      "id": "bd490e42cb123afd97c2b111f31bec3a",
+      "timestamp": 1753111067055
     }
   ],
   "bedmate furniture": [
@@ -9147,6 +9157,13 @@
       "site": "JobGurus",
       "id": "dd56421417d667c56eb75d14f8daf523",
       "timestamp": 1753109266240
+    }
+  ],
+  "kiddies friendly": [
+    {
+      "site": "JobGurus",
+      "id": "64c91ba18b7c6c775caf484a263f06f8",
+      "timestamp": 1753111067055
     }
   ]
 }
