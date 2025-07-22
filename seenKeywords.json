@@ -5806,8 +5806,8 @@
   "rosabon financial services": [
     {
       "site": "JobGurus",
-      "id": "1fc16a04448034efe87f3b6039ecfe1a",
-      "timestamp": 1751292939787
+      "id": "e329ab6ffd86c3a93e811f80bf58211d",
+      "timestamp": 1753179502871
     }
   ],
   "mfs financial services limited": [
@@ -9070,6 +9070,11 @@
       "site": "JobGurus",
       "id": "f9e4c4d156bd26235479a58036c7031a",
       "timestamp": 1753177582250
+    },
+    {
+      "site": "JobGurus",
+      "id": "cb95a517de4a7bb3e40422b5b231a445",
+      "timestamp": 1753179502871
     }
   ],
   "vericortex": [
@@ -9246,6 +9251,25 @@
       "site": "JobGurus",
       "id": "e2cfe976b6adbfba19f4873a72c85d30",
       "timestamp": 1753177582250
+    },
+    {
+      "site": "JobGurus",
+      "id": "098c21e92d31829557fc9bf60ea5559d",
+      "timestamp": 1753179502871
+    }
+  ],
+  "juanda": [
+    {
+      "site": "JobGurus",
+      "id": "10d06d3a8406c17b68b1e94c0fd18cf2",
+      "timestamp": 1753179502871
+    }
+  ],
+  "martens global synergy limited": [
+    {
+      "site": "JobGurus",
+      "id": "e5680c2f3bab8ce1a4886e1cc06f561c",
+      "timestamp": 1753179502871
     }
   ]
 }
