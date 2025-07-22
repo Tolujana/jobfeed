@@ -4272,8 +4272,8 @@
   "it horizons limited": [
     {
       "site": "JobGurus",
-      "id": "24ca0fe96c588ad033830bfb28a7b06e",
-      "timestamp": 1752485019356
+      "id": "142fdb2d03f309cf9e2d50bf85113c02",
+      "timestamp": 1753191307239
     }
   ],
   "carbon nigeria": [
@@ -4920,8 +4920,8 @@
   "amy consulting": [
     {
       "site": "JobGurus",
-      "id": "f4138ce57f0d63822e547747e569cf23",
-      "timestamp": 1750705954046
+      "id": "26dcd4bac1f9559f33a7371eaddf05c3",
+      "timestamp": 1753191307239
     }
   ],
   "kennedia consulting limited": [
@@ -6953,6 +6953,11 @@
       "site": "JobGurus",
       "id": "2f07e507c4558a98e287cdaf8ed6718c",
       "timestamp": 1753181283197
+    },
+    {
+      "site": "JobGurus",
+      "id": "c13ac9b04c8b44ad8680e2ba070ada67",
+      "timestamp": 1753191307239
     }
   ],
   "d-degree digital hub limited": [
@@ -9317,6 +9322,18 @@
       "site": "JobGurus",
       "id": "35daecaa9b6e71ffb3fabd71fa7de7b1",
       "timestamp": 1753187697250
+    }
+  ],
+  "sky capital and financial allied international limited": [
+    {
+      "site": "JobGurus",
+      "id": "b9e34d9d59713e77351e15541a4ab544",
+      "timestamp": 1753191307239
+    },
+    {
+      "site": "JobGurus",
+      "id": "d26b85c08e3620035826e16c1dd945ba",
+      "timestamp": 1753191307239
     }
   ]
 }
