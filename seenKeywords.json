@@ -952,8 +952,8 @@
   "workforce group": [
     {
       "site": "JobGurus",
-      "id": "ed63db9d54f32b4d59ddfcc7fef61378",
-      "timestamp": 1752061124129
+      "id": "88c48577ac8d16fea0e050acc426d6f6",
+      "timestamp": 1753197496676
     }
   ],
   "zenith carex international limited": [
@@ -5895,6 +5895,11 @@
       "site": "JobGurus",
       "id": "69d3e9d4ead130143a27bcd1b10f1ad6",
       "timestamp": 1753195551853
+    },
+    {
+      "site": "JobGurus",
+      "id": "54ed845dc93692d132d5c739b68f15e0",
+      "timestamp": 1753197496676
     }
   ],
   "lotus capital limited": [
@@ -9360,6 +9365,20 @@
       "site": "JobGurus",
       "id": "89d08b8382ea984aee62f4679c30ae27",
       "timestamp": 1753195551853
+    }
+  ],
+  "tag energy": [
+    {
+      "site": "JobGurus",
+      "id": "51a7fc5d14040a19049378a202fb0876",
+      "timestamp": 1753197496676
+    }
+  ],
+  "nettetal nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "6531d5cbfb0dc788afa043ea50da8066",
+      "timestamp": 1753197496676
     }
   ]
 }
