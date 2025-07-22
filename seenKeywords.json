@@ -1241,8 +1241,8 @@
   "cynosure professional services": [
     {
       "site": "JobGurus",
-      "id": "feb58bfd556d49995f3988b7b53e636e",
-      "timestamp": 1749208414053
+      "id": "f4add42d9511ae43b8ae21253f4d5d22",
+      "timestamp": 1753181283197
     }
   ],
   "sonia medical laboratory and diagnostics": [
@@ -6941,13 +6941,8 @@
   "brilliant performance solutions limited": [
     {
       "site": "JobGurus",
-      "id": "c85b83335f7f11549164f9d9ad2255a2",
-      "timestamp": 1751739566273
-    },
-    {
-      "site": "JobGurus",
-      "id": "5dfcff36ef62e0da7b45801b977a8f8a",
-      "timestamp": 1751739566273
+      "id": "2f07e507c4558a98e287cdaf8ed6718c",
+      "timestamp": 1753181283197
     }
   ],
   "d-degree digital hub limited": [
@@ -9270,6 +9265,27 @@
       "site": "JobGurus",
       "id": "e5680c2f3bab8ce1a4886e1cc06f561c",
       "timestamp": 1753179502871
+    }
+  ],
+  "emr mining limited": [
+    {
+      "site": "JobGurus",
+      "id": "b55d83a33d8f305374da97510dc426d2",
+      "timestamp": 1753181283197
+    }
+  ],
+  "tirta ayu spa": [
+    {
+      "site": "JobGurus",
+      "id": "a29c6ce99ae0741d046f4ddd32cba773",
+      "timestamp": 1753181283197
+    }
+  ],
+  "cargoextra logistics": [
+    {
+      "site": "JobGurus",
+      "id": "c1464155706020263191236b45b22475",
+      "timestamp": 1753181283197
     }
   ]
 }
