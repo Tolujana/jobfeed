@@ -3081,8 +3081,8 @@
   "simba group": [
     {
       "site": "JobGurus",
-      "id": "30958cfb392f7fd47276586b8f288cb6",
-      "timestamp": 1749919414758
+      "id": "3f3dba2abe67facaf34f1f30b58fc6fc",
+      "timestamp": 1753195551853
     }
   ],
   "mactay consulting": [
@@ -4120,13 +4120,8 @@
   "ld&d consulting": [
     {
       "site": "JobGurus",
-      "id": "b531fc6c109afeaf7dd14395c84aa39e",
-      "timestamp": 1751482175033
-    },
-    {
-      "site": "JobGurus",
-      "id": "eb6b1216e5fd570de407d126225afa48",
-      "timestamp": 1751483539284
+      "id": "32b391a1ec551915b0d48a6ea3ee5981",
+      "timestamp": 1753195551853
     }
   ],
   "roqqu nigeria limited": [
@@ -5893,8 +5888,13 @@
   "mecer consulting limited": [
     {
       "site": "JobGurus",
-      "id": "44c61a49fdfcda648b915e7a4a91e8d9",
-      "timestamp": 1751318087268
+      "id": "7068893085e845f31145a86c2adabed3",
+      "timestamp": 1753195551853
+    },
+    {
+      "site": "JobGurus",
+      "id": "69d3e9d4ead130143a27bcd1b10f1ad6",
+      "timestamp": 1753195551853
     }
   ],
   "lotus capital limited": [
@@ -9353,6 +9353,13 @@
       "site": "JobGurus",
       "id": "f46195cfd4551b400fc2bdc71f9415c9",
       "timestamp": 1753193869422
+    }
+  ],
+  "movam": [
+    {
+      "site": "JobGurus",
+      "id": "89d08b8382ea984aee62f4679c30ae27",
+      "timestamp": 1753195551853
     }
   ]
 }
