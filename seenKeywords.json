@@ -4226,6 +4226,11 @@
       "site": "JobGurus",
       "id": "45f3b2b81d5bf600b4b309663eeef94c",
       "timestamp": 1752845622402
+    },
+    {
+      "site": "JobGurus",
+      "id": "218988c4c290674443adb1f4576a6944",
+      "timestamp": 1753176087559
     }
   ],
   "timeless telecoms": [
@@ -6671,6 +6676,11 @@
       "site": "JobGurus",
       "id": "c6dbbdf3262a09f1e278eb73206600cd",
       "timestamp": 1753089897676
+    },
+    {
+      "site": "JobGurus",
+      "id": "927e7c0dcf547f3c76bac5d9d747c9aa",
+      "timestamp": 1753176087559
     }
   ],
   "unicane industries fze": [
@@ -9198,6 +9208,20 @@
       "site": "JobGurus",
       "id": "57b2cf9f86107b242258e0e7991c0790",
       "timestamp": 1753174283073
+    }
+  ],
+  "tamak logistics": [
+    {
+      "site": "JobGurus",
+      "id": "ee92ed03305e76d1bff7b45ad3ec84c2",
+      "timestamp": 1753176087559
+    }
+  ],
+  "plan international": [
+    {
+      "site": "JobGurus",
+      "id": "bed8e2f261948730e69be0d08850c6b2",
+      "timestamp": 1753176087559
     }
   ]
 }
