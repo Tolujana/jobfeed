@@ -2340,8 +2340,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "513a519d1b8d5c2ababc367cd9caacc2",
-      "timestamp": 1752237137844
+      "id": "fdb214e9b5d2b86ff4512ab257eef1ea",
+      "timestamp": 1753174283073
     }
   ],
   "fgs limited": [
@@ -2383,8 +2383,8 @@
   "lily hospitals limited": [
     {
       "site": "JobGurus",
-      "id": "d23d858526f1bc1a570d452504c3e119",
-      "timestamp": 1751465742903
+      "id": "7e61b9f3ab6152dff9ce12b32217f06d",
+      "timestamp": 1753174283073
     }
   ],
   "federal polytechnic, bida.": [
@@ -9179,6 +9179,25 @@
       "site": "JobGurus",
       "id": "64c91ba18b7c6c775caf484a263f06f8",
       "timestamp": 1753111067055
+    }
+  ],
+  "deloitte human capital consulting": [
+    {
+      "site": "JobGurus",
+      "id": "0bd188532207b3176d4f1522c48e0a3a",
+      "timestamp": 1753174283073
+    }
+  ],
+  "logisoft solutions": [
+    {
+      "site": "JobGurus",
+      "id": "10bc35c84fcad40c93dce51b6b9629c1",
+      "timestamp": 1753174283073
+    },
+    {
+      "site": "JobGurus",
+      "id": "57b2cf9f86107b242258e0e7991c0790",
+      "timestamp": 1753174283073
     }
   ]
 }
