@@ -2925,6 +2925,11 @@
       "site": "JobGurus",
       "id": "e723775fb4b86c1bb57ad752395395ca",
       "timestamp": 1753107511072
+    },
+    {
+      "site": "JobGurus",
+      "id": "e02cf01a938f3a03608c1c7b8db81e0f",
+      "timestamp": 1753187697250
     }
   ],
   "oisedotcom limited": [
@@ -9291,6 +9296,27 @@
       "site": "JobGurus",
       "id": "c1464155706020263191236b45b22475",
       "timestamp": 1753181283197
+    }
+  ],
+  "finca": [
+    {
+      "site": "JobGurus",
+      "id": "3daae4f011f7c655dc11b605a2a65bd7",
+      "timestamp": 1753187697250
+    }
+  ],
+  "maon services limited": [
+    {
+      "site": "JobGurus",
+      "id": "6433be022e3e41589dad0312ccb41f78",
+      "timestamp": 1753187697250
+    }
+  ],
+  "trends ventures": [
+    {
+      "site": "JobGurus",
+      "id": "35daecaa9b6e71ffb3fabd71fa7de7b1",
+      "timestamp": 1753187697250
     }
   ]
 }
