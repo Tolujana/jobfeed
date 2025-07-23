@@ -792,18 +792,8 @@
   "tivana workforce": [
     {
       "site": "JobGurus",
-      "id": "7878692808dff997082196bec88db70e",
-      "timestamp": 1749046391159
-    },
-    {
-      "site": "JobGurus",
-      "id": "2781236d9f5294c4531200dfa0785204",
-      "timestamp": 1749053849200
-    },
-    {
-      "site": "JobGurus",
-      "id": "15a55a4f698a25cf5f1b68088c31b5a1",
-      "timestamp": 1749053849200
+      "id": "db01d48be315a561eb018b08f8a9c7c6",
+      "timestamp": 1753285527482
     }
   ],
   "pennek nigeria limited": [
@@ -5029,8 +5019,13 @@
   "egbin power plc": [
     {
       "site": "JobGurus",
-      "id": "653e35e683e016da18a9ad4711ffc8e8",
-      "timestamp": 1750763643928
+      "id": "2877f28aaf7e7a1169ae817a00b8926a",
+      "timestamp": 1753285527482
+    },
+    {
+      "site": "JobGurus",
+      "id": "edbea37234aabaa5decc2a989bd88b4b",
+      "timestamp": 1753285527482
     }
   ],
   "uleval technology": [
@@ -5224,8 +5219,8 @@
   "opay": [
     {
       "site": "JobGurus",
-      "id": "c4937697227e612a7e52e4a8b53f67ba",
-      "timestamp": 1750848331251
+      "id": "9bffea8907318d801468d6c14e982ab2",
+      "timestamp": 1753285527482
     }
   ],
   "congenital heart disease foundation of nigeria": [
