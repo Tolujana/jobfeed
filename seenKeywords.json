@@ -610,6 +610,11 @@
       "site": "JobGurus",
       "id": "83b3bfc795f48671c6c3adecd032fa58",
       "timestamp": 1753262558887
+    },
+    {
+      "site": "JobGurus",
+      "id": "2e20f74c60f96bdba8fb4ae63947b023",
+      "timestamp": 1753264075509
     }
   ],
   "food concepts plc": [
@@ -2391,8 +2396,8 @@
   "maurice xandra solutions limited": [
     {
       "site": "JobGurus",
-      "id": "01dc8fccafee684370861931b8f5e593",
-      "timestamp": 1751373183774
+      "id": "6f5b2c47146a87db9cd1dee108180cb5",
+      "timestamp": 1753264075509
     }
   ],
   "lily hospitals limited": [
@@ -9422,6 +9427,27 @@
       "site": "JobGurus",
       "id": "ed317814fc4fffd70f18a3d6fe016497",
       "timestamp": 1753262558887
+    }
+  ],
+  "ultraviolet microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "e3b724b446dfd2c8f4c4ea10cb74acd6",
+      "timestamp": 1753264075509
+    }
+  ],
+  "avetium consult limited": [
+    {
+      "site": "JobGurus",
+      "id": "7bd9d405cdd7039e6453a7088f5ea53e",
+      "timestamp": 1753264075509
+    }
+  ],
+  "jemimah nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "212751d4ed307db3874206b2eafb7eac",
+      "timestamp": 1753264075509
     }
   ]
 }
