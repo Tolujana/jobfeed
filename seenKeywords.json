@@ -567,6 +567,11 @@
       "site": "JobGurus",
       "id": "1ef3ec6099652061775311616e97011e",
       "timestamp": 1753107511072
+    },
+    {
+      "site": "JobGurus",
+      "id": "9377a5b6eb6fd09c0c0ff39469b59301",
+      "timestamp": 1753260696254
     }
   ],
   "abbfem group": [
@@ -1090,13 +1095,8 @@
   "cashxpress nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "48111371569e3a8936b61db93f4b3c6e",
-      "timestamp": 1749132949537
-    },
-    {
-      "site": "JobGurus",
-      "id": "a3a749218994f6104f5fa2f48f8c999e",
-      "timestamp": 1749132949537
+      "id": "78e3c1a3983ce9e1f1d86b055cf42a2e",
+      "timestamp": 1753260696254
     }
   ],
   "cobranet limited": [
@@ -4165,8 +4165,8 @@
   "audacia properties": [
     {
       "site": "JobGurus",
-      "id": "08d6edf7b336138eff4dae0b31170907",
-      "timestamp": 1750351608035
+      "id": "9ce7efd48c8af5bf2842499a2b9c050d",
+      "timestamp": 1753260696254
     }
   ],
   "dlm capital group": [
@@ -9379,6 +9379,20 @@
       "site": "JobGurus",
       "id": "6531d5cbfb0dc788afa043ea50da8066",
       "timestamp": 1753197496676
+    }
+  ],
+  "kings guards nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "0231ce07fe1135ba1ef4b4c59c8f2a50",
+      "timestamp": 1753260696254
+    }
+  ],
+  "karishma": [
+    {
+      "site": "JobGurus",
+      "id": "99024612f5589116c4c7f50c3c6f0e6c",
+      "timestamp": 1753260696254
     }
   ]
 }
