@@ -329,8 +329,8 @@
   "jamub group": [
     {
       "site": "JobGurus",
-      "id": "2bbc4d9091e345a4bec1f5f4f5449d4e",
-      "timestamp": 1748942241466
+      "id": "ebece6a668f967e8afbef12b7a76195f",
+      "timestamp": 1753274128073
     }
   ],
   "ziba consulting": [
@@ -8962,6 +8962,11 @@
       "site": "JobGurus",
       "id": "81aa0dcbe80eb0fee70c937df8d738fd",
       "timestamp": 1752848189128
+    },
+    {
+      "site": "JobGurus",
+      "id": "ae1c24d4b40bab5caabff7069996d1cc",
+      "timestamp": 1753274128073
     }
   ],
   "alpha mead group": [
@@ -9478,6 +9483,25 @@
       "site": "JobGurus",
       "id": "ce08e3fb5cf0bd902f8d7800b2ccad13",
       "timestamp": 1753270783650
+    }
+  ],
+  "ww luxury apartments": [
+    {
+      "site": "JobGurus",
+      "id": "c9ab6ce520d40c901db57388ba612bec",
+      "timestamp": 1753274128073
+    },
+    {
+      "site": "JobGurus",
+      "id": "ee7b38b57e21f95b945ec00242ed3ad2",
+      "timestamp": 1753274128073
+    }
+  ],
+  "juremi ventures": [
+    {
+      "site": "JobGurus",
+      "id": "b2974c92aa3c40450a531f85bc365564",
+      "timestamp": 1753274128073
     }
   ]
 }
