@@ -67,6 +67,11 @@
       "site": "JobGurus",
       "id": "513af93ba243ca8fd365fd7cdce6aac2",
       "timestamp": 1752690206338
+    },
+    {
+      "site": "JobGurus",
+      "id": "c453ad01db57f95b9906222f1b1fd491",
+      "timestamp": 1753262558887
     }
   ],
   "triple x environmental health consult": [
@@ -600,6 +605,11 @@
       "site": "JobGurus",
       "id": "7db7f4965968e8837a9533603a9a0664",
       "timestamp": 1752830432265
+    },
+    {
+      "site": "JobGurus",
+      "id": "83b3bfc795f48671c6c3adecd032fa58",
+      "timestamp": 1753262558887
     }
   ],
   "food concepts plc": [
@@ -8844,6 +8854,11 @@
       "site": "JobGurus",
       "id": "cda2aee2592ebe4274c74354ce401da9",
       "timestamp": 1752831938691
+    },
+    {
+      "site": "JobGurus",
+      "id": "75f6580927fc908fd4a11754fa0342d0",
+      "timestamp": 1753262558887
     }
   ],
   "norwegian refugee council": [
@@ -9393,6 +9408,20 @@
       "site": "JobGurus",
       "id": "99024612f5589116c4c7f50c3c6f0e6c",
       "timestamp": 1753260696254
+    }
+  ],
+  "nuru nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "99c451174612800a1dcb41fa4a953fa0",
+      "timestamp": 1753262558887
+    }
+  ],
+  "mixta africa": [
+    {
+      "site": "JobGurus",
+      "id": "ed317814fc4fffd70f18a3d6fe016497",
+      "timestamp": 1753262558887
     }
   ]
 }
