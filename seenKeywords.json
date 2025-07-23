@@ -1662,8 +1662,8 @@
   "unilever nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "36256a7bc5a04bb40ac8e62ab8d366f9",
-      "timestamp": 1749464257931
+      "id": "c541741f54664f0cfe32df485780f493",
+      "timestamp": 1753283912960
     }
   ],
   "dp education limited": [
@@ -3120,6 +3120,11 @@
       "site": "JobGurus",
       "id": "8742b0dcaa12976aefc006f68867038d",
       "timestamp": 1752750877475
+    },
+    {
+      "site": "JobGurus",
+      "id": "8f7d7af7ee591389d22c420e5f7cad64",
+      "timestamp": 1753283912960
     }
   ],
   "tybtitx services international limited": [
@@ -8797,6 +8802,11 @@
       "site": "JobGurus",
       "id": "49a92827f3ccc279e522695444a56257",
       "timestamp": 1752767043107
+    },
+    {
+      "site": "JobGurus",
+      "id": "818ef5561828fa1115fe2c1c4669cb52",
+      "timestamp": 1753283912960
     }
   ],
   "skld integrated services limited": [
@@ -9530,6 +9540,11 @@
       "site": "JobGurus",
       "id": "b5014a87549ba2a7c0b41e66462da7c5",
       "timestamp": 1753282058082
+    },
+    {
+      "site": "JobGurus",
+      "id": "e89a57a8776f75af85f1c159272c2ed1",
+      "timestamp": 1753283912960
     }
   ],
   "arco worldwide services limited": [
@@ -9537,6 +9552,13 @@
       "site": "JobGurus",
       "id": "43ca841f81e0f6a85cb03ebc7e4265d2",
       "timestamp": 1753282058082
+    }
+  ],
+  "talentpool nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "dae85548d67d06cb537cd199e6c6f307",
+      "timestamp": 1753283912960
     }
   ]
 }
