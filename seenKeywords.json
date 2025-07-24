@@ -6615,6 +6615,11 @@
       "site": "JobGurus",
       "id": "159a3d266ee3daf25b2249fd54252b49",
       "timestamp": 1752838761934
+    },
+    {
+      "site": "JobGurus",
+      "id": "1768622fed74963186b9332da0ac1f30",
+      "timestamp": 1753357131457
     }
   ],
   "karisa consults limited": [
@@ -9586,6 +9591,20 @@
       "site": "JobGurus",
       "id": "a3ac39bd54d50e55d862760d7ffc1b27",
       "timestamp": 1753355696920
+    }
+  ],
+  "infystrat software services": [
+    {
+      "site": "JobGurus",
+      "id": "02084f81ef436af135f5baec485b7294",
+      "timestamp": 1753357131457
+    }
+  ],
+  "ebanx": [
+    {
+      "site": "JobGurus",
+      "id": "52955a0ade3d50b09ec503ac875e0052",
+      "timestamp": 1753357131457
     }
   ]
 }
