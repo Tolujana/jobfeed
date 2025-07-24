@@ -773,8 +773,8 @@
   "chelis bookazine limited": [
     {
       "site": "JobGurus",
-      "id": "f586851f504e5e83590d375a30fe5f31",
-      "timestamp": 1750951024343
+      "id": "502d1cbd2632f6542af63c56bd63912f",
+      "timestamp": 1753371753217
     }
   ],
   "interrand group": [
@@ -2637,13 +2637,8 @@
   "prime pharmacy": [
     {
       "site": "JobGurus",
-      "id": "d3ee840da76e6962e1aaec243ae6d038",
-      "timestamp": 1749734976802
-    },
-    {
-      "site": "JobGurus",
-      "id": "675a427f925476ae8ed802f32d1cbe7f",
-      "timestamp": 1749736248840
+      "id": "0551e991da08c2901093c0f262816239",
+      "timestamp": 1753371753217
     }
   ],
   "bafashion": [
@@ -9622,6 +9617,20 @@
       "site": "JobGurus",
       "id": "aeba703c32f4895dd38a3e81e41d2527",
       "timestamp": 1753370203548
+    }
+  ],
+  "union maritime": [
+    {
+      "site": "JobGurus",
+      "id": "0dac5ff2decfd310fc34a56e4870c280",
+      "timestamp": 1753371753217
+    }
+  ],
+  "myrtle management consultants limited": [
+    {
+      "site": "JobGurus",
+      "id": "8f3edf4f1bd90a7375011b119121023d",
+      "timestamp": 1753371753217
     }
   ]
 }
