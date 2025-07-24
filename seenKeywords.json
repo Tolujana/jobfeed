@@ -892,8 +892,8 @@
   "nestoil plc": [
     {
       "site": "JobGurus",
-      "id": "422d2e9dcac9e9f6e56c61b0477b6cd2",
-      "timestamp": 1752225476960
+      "id": "561c34fbb4abe76a42f10105dbbf7716",
+      "timestamp": 1753366700302
     }
   ],
   "flexfilms limited": [
@@ -6068,8 +6068,8 @@
   "may & baker nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "2de84280e0a7553ad500e846a2e5721f",
-      "timestamp": 1752059661617
+      "id": "3629d0fbc67a4971c40598835a44f9f1",
+      "timestamp": 1753366700302
     }
   ],
   "jaza energy": [
@@ -7728,8 +7728,8 @@
   "dovichi worldwide technology company limited": [
     {
       "site": "JobGurus",
-      "id": "a93104633ddf5023a16670eeb5274115",
-      "timestamp": 1752225476960
+      "id": "f7bf981f5a714ead6c18d3bd6d6a47f5",
+      "timestamp": 1753366700302
     }
   ],
   "spie oil & gas services": [
@@ -9637,6 +9637,13 @@
       "site": "JobGurus",
       "id": "90d2b687aaeafb262888774cca1bf57b",
       "timestamp": 1753360523472
+    }
+  ],
+  "clearer group": [
+    {
+      "site": "JobGurus",
+      "id": "82dd35ade3bdca4b5bd46b1da70a2c89",
+      "timestamp": 1753366700302
     }
   ]
 }
