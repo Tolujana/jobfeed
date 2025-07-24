@@ -2297,38 +2297,8 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "c6588abe9c0c14c2e2c439dd36ecc5e8",
-      "timestamp": 1752064399358
-    },
-    {
-      "site": "JobGurus",
-      "id": "a18177e8289e42329a8713369cee3e68",
-      "timestamp": 1752067828768
-    },
-    {
-      "site": "JobGurus",
-      "id": "65220a52a990ca03c76e5a37272e1190",
-      "timestamp": 1752146068196
-    },
-    {
-      "site": "JobGurus",
-      "id": "bd12a072f56314fc6b983644bda207db",
-      "timestamp": 1752150838348
-    },
-    {
-      "site": "JobGurus",
-      "id": "23e072259ed5b3ff31f15f3beb89eed3",
-      "timestamp": 1752157000052
-    },
-    {
-      "site": "JobGurus",
-      "id": "8652c51bfaf40cd1a894eaa60a91b90e",
-      "timestamp": 1752158762081
-    },
-    {
-      "site": "JobGurus",
-      "id": "11a2f6b1bcee57362359c6e2757502aa",
-      "timestamp": 1752574648151
+      "id": "e775d2ace4ad96034d167ac512b253ff",
+      "timestamp": 1753370203548
     }
   ],
   "flees global services": [
@@ -2490,13 +2460,8 @@
   "dreamcity property & investment limited": [
     {
       "site": "JobGurus",
-      "id": "0128537717daadf00bdae7baf36ecd80",
-      "timestamp": 1750339712795
-    },
-    {
-      "site": "JobGurus",
-      "id": "bcfc23f4403d8f35553e93ff1c3d0099",
-      "timestamp": 1750771849479
+      "id": "a9a9c2ff2220bb9a6dfd387a5321cb78",
+      "timestamp": 1753370203548
     }
   ],
   "sifax group": [
@@ -7091,6 +7056,11 @@
       "site": "JobGurus",
       "id": "bb607316104eaf71fbe9aab9d01d8131",
       "timestamp": 1753364131617
+    },
+    {
+      "site": "JobGurus",
+      "id": "933ac34faba95bb64b5d180495b3e70e",
+      "timestamp": 1753370203548
     }
   ],
   "fd naturales": [
@@ -9645,6 +9615,13 @@
       "site": "JobGurus",
       "id": "b801b7d273badf5e6b7207922fb1a628",
       "timestamp": 1753368452359
+    }
+  ],
+  "growth partner intermediaries limited": [
+    {
+      "site": "JobGurus",
+      "id": "aeba703c32f4895dd38a3e81e41d2527",
+      "timestamp": 1753370203548
     }
   ]
 }
