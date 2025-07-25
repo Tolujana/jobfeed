@@ -4680,8 +4680,8 @@
   "kelina hospital": [
     {
       "site": "JobGurus",
-      "id": "702220b523278273a1e9e550e5d881a8",
-      "timestamp": 1750670342782
+      "id": "74a6a333c439460273b7c7ee54dee435",
+      "timestamp": 1753433383390
     }
   ],
   "kaelot gift shop": [
@@ -6969,18 +6969,8 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "fc957d35f2d264fd1570f10e2e9c81ca",
-      "timestamp": 1751895021219
-    },
-    {
-      "site": "JobGurus",
-      "id": "cfffb1400ea9c8d5465f44e6c806511f",
-      "timestamp": 1752237137844
-    },
-    {
-      "site": "JobGurus",
-      "id": "8a737e8a0d03c5c9ef9b5fe22ea26883",
-      "timestamp": 1752237137844
+      "id": "695cff42a6d64da55b3cba92656db282",
+      "timestamp": 1753433383390
     }
   ],
   "dansol": [
@@ -9631,6 +9621,20 @@
       "site": "JobGurus",
       "id": "8f3edf4f1bd90a7375011b119121023d",
       "timestamp": 1753371753217
+    }
+  ],
+  "yuana terrain limited": [
+    {
+      "site": "JobGurus",
+      "id": "e8e99b86e2b88981e73320333b99d452",
+      "timestamp": 1753433383390
+    }
+  ],
+  "paras energy": [
+    {
+      "site": "JobGurus",
+      "id": "2328410cba5b1d8598ede5127f6d9405",
+      "timestamp": 1753433383390
     }
   ]
 }
