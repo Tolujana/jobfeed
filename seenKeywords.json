@@ -5044,18 +5044,8 @@
   "mtn nigeria": [
     {
       "site": "JobGurus",
-      "id": "3f47faa2c394bdcd41d62bcadbffdcdc",
-      "timestamp": 1751735581720
-    },
-    {
-      "site": "JobGurus",
-      "id": "dc411b7aff6b104298bfc7ed15a42383",
-      "timestamp": 1751735581720
-    },
-    {
-      "site": "JobGurus",
-      "id": "b58e3b965ddb2a842f88eb90b3b3d0c9",
-      "timestamp": 1752229039343
+      "id": "509e3a44b738b169af0e348f63daaff1",
+      "timestamp": 1753454696192
     }
   ],
   "koins microfinance bank limited": [
@@ -5664,8 +5654,8 @@
   "natafamdavid consulting nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "658ad5f82b7836b64c66990ed747d612",
-      "timestamp": 1751125114805
+      "id": "27d6e09cc5101e01d0cd53c70004aae2",
+      "timestamp": 1753454696192
     }
   ],
   "co creation hub": [
@@ -5683,8 +5673,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "f453fa0bd9b48622aa12c36ff149bed9",
-      "timestamp": 1752747498222
+      "id": "5f00eb3d3fb78dce3f525263f903ce35",
+      "timestamp": 1753454696192
     }
   ],
   "boing pinnacle limited": [
@@ -7711,8 +7701,8 @@
   "schneider electric": [
     {
       "site": "JobGurus",
-      "id": "bcdb263942abd5af0a1cba038326b23c",
-      "timestamp": 1752229039343
+      "id": "643571f2765a513418fa4f452e81bfea",
+      "timestamp": 1753454696192
     }
   ],
   "aggreko": [
@@ -9736,6 +9726,13 @@
       "site": "JobGurus",
       "id": "8b770c66f97f775674710ade0bcf23e0",
       "timestamp": 1753452925150
+    }
+  ],
+  "caresheild pharmaceutical": [
+    {
+      "site": "JobGurus",
+      "id": "bd4561a2f72b13dc352a7f6686104050",
+      "timestamp": 1753454696192
     }
   ]
 }
