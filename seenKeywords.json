@@ -6981,6 +6981,11 @@
       "site": "JobGurus",
       "id": "695cff42a6d64da55b3cba92656db282",
       "timestamp": 1753433383390
+    },
+    {
+      "site": "JobGurus",
+      "id": "a0b622f35eca1a5dfdff36648bc3bd47",
+      "timestamp": 1753438704035
     }
   ],
   "dansol": [
@@ -9645,6 +9650,11 @@
       "site": "JobGurus",
       "id": "2328410cba5b1d8598ede5127f6d9405",
       "timestamp": 1753433383390
+    },
+    {
+      "site": "JobGurus",
+      "id": "3e39e0c26767d985e9506117b73dde98",
+      "timestamp": 1753438704035
     }
   ],
   "slum2school africa": [
@@ -9662,6 +9672,20 @@
       "site": "JobGurus",
       "id": "e6b7c185c7ab365ad6c86bdfe6b12445",
       "timestamp": 1753436775568
+    }
+  ],
+  "kredete": [
+    {
+      "site": "JobGurus",
+      "id": "7b7005e44380a59bd8dd117305f5614b",
+      "timestamp": 1753438704035
+    }
+  ],
+  "mitiget": [
+    {
+      "site": "JobGurus",
+      "id": "bb1aa5fb37aa4f5edfc52664ec74f472",
+      "timestamp": 1753438704035
     }
   ]
 }
