@@ -513,6 +513,11 @@
       "site": "JobGurus",
       "id": "d109b712593945ae70c4ccf92bee11b8",
       "timestamp": 1753519603114
+    },
+    {
+      "site": "JobGurus",
+      "id": "7b672ba4fdd4814a21b165a414b9528c",
+      "timestamp": 1753521362066
     }
   ],
   "cig motors co. limited": [
@@ -9023,6 +9028,21 @@
       "site": "JobGurus",
       "id": "837f51960f31267c554cf9392beb45fd",
       "timestamp": 1753456666104
+    },
+    {
+      "site": "JobGurus",
+      "id": "30b317fdb3ecab03de5b776f2c0327ae",
+      "timestamp": 1753521362066
+    },
+    {
+      "site": "JobGurus",
+      "id": "8d8758c17433d324623fdf4ab0ff0abc",
+      "timestamp": 1753521362066
+    },
+    {
+      "site": "JobGurus",
+      "id": "2fca3cd033b8de5f78c8a3f634962dbc",
+      "timestamp": 1753521362066
     }
   ],
   "ibic investment holdings": [
@@ -9785,6 +9805,13 @@
       "site": "JobGurus",
       "id": "7fc5ed81124f7f7df327d9caa0016e22",
       "timestamp": 1753456666104
+    }
+  ],
+  "ccle rubber fze": [
+    {
+      "site": "JobGurus",
+      "id": "41c0fe7b0154958f86842ae64a6ed4c6",
+      "timestamp": 1753521362066
     }
   ]
 }
