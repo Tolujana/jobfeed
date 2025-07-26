@@ -1591,6 +1591,11 @@
       "site": "JobGurus",
       "id": "705edff4d6f03a4f757acd10790d3369",
       "timestamp": 1753537688734
+    },
+    {
+      "site": "JobGurus",
+      "id": "2fb0c918aae0bef64fc6b5952d16a53e",
+      "timestamp": 1753539284620
     }
   ],
   "felton energy services limited": [
@@ -5447,13 +5452,8 @@
   "paga limited": [
     {
       "site": "JobGurus",
-      "id": "d451f9093e53a57077a71c4b8152366a",
-      "timestamp": 1750962132993
-    },
-    {
-      "site": "JobGurus",
-      "id": "a46d571b4c0e0579a80783501a8651a5",
-      "timestamp": 1750962132993
+      "id": "1f03cc05756ef22f0a7ed239f972b70e",
+      "timestamp": 1753539284620
     }
   ],
   "blue wave new energy technology nigeria company limited": [
@@ -6874,18 +6874,8 @@
   "hr hive": [
     {
       "site": "JobGurus",
-      "id": "8e13cb273a6693a0eb629dbf8d0b3be9",
-      "timestamp": 1751667308388
-    },
-    {
-      "site": "JobGurus",
-      "id": "3546ac630c71d8df08910a6a23a905f0",
-      "timestamp": 1751667308388
-    },
-    {
-      "site": "JobGurus",
-      "id": "d6f6fb311e220cb40b6560a225ef16e1",
-      "timestamp": 1751667308388
+      "id": "f02b19e5967bc9ed054ecbfb23589d37",
+      "timestamp": 1753539284620
     }
   ],
   "infinion technologies": [
@@ -9875,6 +9865,20 @@
       "site": "JobGurus",
       "id": "0668ae1a1e2094880bcd5241ba5f22a3",
       "timestamp": 1753537688734
+    }
+  ],
+  "primofinesse consulting": [
+    {
+      "site": "JobGurus",
+      "id": "fd033c69080471f5290e236f0c0a95b9",
+      "timestamp": 1753539284620
+    }
+  ],
+  "u-connect human resource limited": [
+    {
+      "site": "JobGurus",
+      "id": "7456e95c148462f1562cdfe67d94e543",
+      "timestamp": 1753539284620
     }
   ]
 }
