@@ -511,8 +511,8 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "7a03b88edf291b20c38a86cbd38e4b16",
-      "timestamp": 1750866229264
+      "id": "d109b712593945ae70c4ccf92bee11b8",
+      "timestamp": 1753519603114
     }
   ],
   "cig motors co. limited": [
@@ -582,6 +582,11 @@
       "site": "JobGurus",
       "id": "08c3b080a9a90ed0ef6910182b286b6b",
       "timestamp": 1753436775568
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7ad876b68aee8d84359f7f8aa58af54",
+      "timestamp": 1753519603114
     }
   ],
   "abbfem group": [
