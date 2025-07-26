@@ -592,6 +592,11 @@
       "site": "JobGurus",
       "id": "f7ad876b68aee8d84359f7f8aa58af54",
       "timestamp": 1753519603114
+    },
+    {
+      "site": "JobGurus",
+      "id": "73edc64abeb1c327761f49e2d14ce0f6",
+      "timestamp": 1753537688734
     }
   ],
   "abbfem group": [
@@ -1576,6 +1581,16 @@
       "site": "JobGurus",
       "id": "ab57c5df5467cb69bf9d7c323da9b960",
       "timestamp": 1753536407515
+    },
+    {
+      "site": "JobGurus",
+      "id": "78b508d26fa7bcbd8ce7190f499a0d26",
+      "timestamp": 1753537688734
+    },
+    {
+      "site": "JobGurus",
+      "id": "705edff4d6f03a4f757acd10790d3369",
+      "timestamp": 1753537688734
     }
   ],
   "felton energy services limited": [
@@ -2765,8 +2780,8 @@
   "hrleverage": [
     {
       "site": "JobGurus",
-      "id": "d35d1abfbe6e3807545ca7d39b3a5c5b",
-      "timestamp": 1749742950417
+      "id": "d34c15455b94413a08ccd7ffc4e7ed24",
+      "timestamp": 1753537688734
     }
   ],
   "work dey hr services": [
@@ -9853,6 +9868,13 @@
       "site": "JobGurus",
       "id": "331116757852c4b92571a03ff68d79bf",
       "timestamp": 1753536407515
+    }
+  ],
+  "nairametrics financial advocates limited": [
+    {
+      "site": "JobGurus",
+      "id": "0668ae1a1e2094880bcd5241ba5f22a3",
+      "timestamp": 1753537688734
     }
   ]
 }
