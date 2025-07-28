@@ -7485,8 +7485,8 @@
   "7eleven consultancy services": [
     {
       "site": "JobGurus",
-      "id": "c6cc841c8f77e98e17d824063de7fc5e",
-      "timestamp": 1752067828768
+      "id": "8e0fae133b682e73db3dbdfcf8fc4f61",
+      "timestamp": 1753714078026
     }
   ],
   "emel hospital": [
@@ -8088,8 +8088,8 @@
   "kaplo africa": [
     {
       "site": "JobGurus",
-      "id": "9c6dff751e43ed389d48184b8c93b79b",
-      "timestamp": 1752519193457
+      "id": "12741077514e45b8e6a6369305580892",
+      "timestamp": 1753714078026
     }
   ],
   "chemo-pharma laboratories limited": [
@@ -10090,6 +10090,27 @@
       "site": "JobGurus",
       "id": "4190703ad76bcca53d5705f1f3dcea75",
       "timestamp": 1753712338258
+    }
+  ],
+  "bumpa": [
+    {
+      "site": "JobGurus",
+      "id": "891edb0c1706344980a69614285883f5",
+      "timestamp": 1753714078026
+    }
+  ],
+  "walls and gates limited": [
+    {
+      "site": "JobGurus",
+      "id": "08f798ca7e49a6a52a6ed10edf41211f",
+      "timestamp": 1753714078026
+    }
+  ],
+  "silverbird group": [
+    {
+      "site": "JobGurus",
+      "id": "ed405008cd456fdce276a8f48e61c67a",
+      "timestamp": 1753714078026
     }
   ]
 }
