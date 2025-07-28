@@ -984,6 +984,11 @@
       "site": "JobGurus",
       "id": "88c48577ac8d16fea0e050acc426d6f6",
       "timestamp": 1753197496676
+    },
+    {
+      "site": "JobGurus",
+      "id": "ac29fac9e45e3b4bc165ee488a64320b",
+      "timestamp": 1753712338258
     }
   ],
   "zenith carex international limited": [
@@ -2420,6 +2425,11 @@
       "site": "JobGurus",
       "id": "7e61b9f3ab6152dff9ce12b32217f06d",
       "timestamp": 1753174283073
+    },
+    {
+      "site": "JobGurus",
+      "id": "99869b462f780ad5145470ca4cef2bc8",
+      "timestamp": 1753712338258
     }
   ],
   "federal polytechnic, bida.": [
@@ -2852,13 +2862,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "bb09645c7bbd00772aba4e8136eb1cff",
-      "timestamp": 1752747498222
-    },
-    {
-      "site": "JobGurus",
-      "id": "8195ef608a0d3d90b883dea0a7806892",
-      "timestamp": 1753089897676
+      "id": "0a81b61d0a8b23071ecbe4b948d65d50",
+      "timestamp": 1753712338258
     }
   ],
   "netcom africa": [
@@ -3184,6 +3189,11 @@
       "site": "JobGurus",
       "id": "e7fd4f0f98a9ff2bb60f375901065157",
       "timestamp": 1753354066163
+    },
+    {
+      "site": "JobGurus",
+      "id": "17ec1e8af5861788d242842d5bf2c570",
+      "timestamp": 1753712338258
     }
   ],
   "associates consulting limited": [
@@ -10073,6 +10083,13 @@
       "site": "JobGurus",
       "id": "692beafb25877b23b98a68d4d8418272",
       "timestamp": 1753709781500
+    }
+  ],
+  "fembol group": [
+    {
+      "site": "JobGurus",
+      "id": "4190703ad76bcca53d5705f1f3dcea75",
+      "timestamp": 1753712338258
     }
   ]
 }
