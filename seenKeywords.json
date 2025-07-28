@@ -10,8 +10,8 @@
   "ipnx nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "81187fb9a28410fca4a238f7f1e14e51",
-      "timestamp": 1749731513319
+      "id": "c52fc052e6e58c6c693bb0e6c5e0f7b9",
+      "timestamp": 1753697914311
     }
   ],
   "excel and grace consulting": [
@@ -9933,6 +9933,34 @@
       "site": "JobGurus",
       "id": "15d273e7ecf913295813203949858693",
       "timestamp": 1753696123122
+    }
+  ],
+  "careers verified": [
+    {
+      "site": "JobGurus",
+      "id": "785e500e7d9cae9ca0f35e905aafda1a",
+      "timestamp": 1753697914311
+    }
+  ],
+  "sygnite power and energy solutions ltd": [
+    {
+      "site": "JobGurus",
+      "id": "03796e89d1a95bb3b91d7222c3317b5b",
+      "timestamp": 1753697914311
+    }
+  ],
+  "greenland hall": [
+    {
+      "site": "JobGurus",
+      "id": "6f93c46bca213f5a6e59c5571ea53f7f",
+      "timestamp": 1753697914311
+    }
+  ],
+  "novacrust": [
+    {
+      "site": "JobGurus",
+      "id": "cb6e59f6e0a83d8d5987b96a5b351224",
+      "timestamp": 1753697914311
     }
   ]
 }
