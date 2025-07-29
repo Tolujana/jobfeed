@@ -1394,13 +1394,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "3e0c2642c148c8a74ef0bef7e8aa1ab6",
-      "timestamp": 1752057957718
-    },
-    {
-      "site": "JobGurus",
-      "id": "44d4d9fcfbfe53dd43d0e9832ade72c2",
-      "timestamp": 1752574648151
+      "id": "8618aa3947cba894dc2c6ce6589d28b0",
+      "timestamp": 1753798841974
     }
   ],
   "jtech global resources limited": [
@@ -3451,6 +3446,11 @@
       "site": "JobGurus",
       "id": "d140a53424a45624f70787b0463dd022",
       "timestamp": 1753796267988
+    },
+    {
+      "site": "JobGurus",
+      "id": "4adb631b1f6dc62505f523a6365ef2cd",
+      "timestamp": 1753798841974
     }
   ],
   "yemsays properties and investment limited": [
@@ -10239,6 +10239,27 @@
       "site": "JobGurus",
       "id": "5f4f4d695fac7cbccff4fabdc339ad6f",
       "timestamp": 1753792586860
+    }
+  ],
+  " huawei technologies": [
+    {
+      "site": "JobGurus",
+      "id": "98e199ea373d594410e3951f9053e70e",
+      "timestamp": 1753798841974
+    }
+  ],
+  "huawei": [
+    {
+      "site": "JobGurus",
+      "id": "c969d54503b16239cb2fdbcd0eed5234",
+      "timestamp": 1753798841974
+    }
+  ],
+  "mastercare international school": [
+    {
+      "site": "JobGurus",
+      "id": "3b1d57e1e1e1c1f719a481eb81dbcd92",
+      "timestamp": 1753798841974
     }
   ]
 }
