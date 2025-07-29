@@ -518,6 +518,11 @@
       "site": "JobGurus",
       "id": "7b672ba4fdd4814a21b165a414b9528c",
       "timestamp": 1753521362066
+    },
+    {
+      "site": "JobGurus",
+      "id": "bf23689566c103096a67bb3ca1be8e0b",
+      "timestamp": 1753787666968
     }
   ],
   "cig motors co. limited": [
@@ -10168,6 +10173,32 @@
       "site": "JobGurus",
       "id": "231f8f937a12aebb68ee6b439a75f539",
       "timestamp": 1753786070027
+    }
+  ],
+  "newchip technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "dae813692f0f0239736ec0172ddd6a7d",
+      "timestamp": 1753787666968
+    }
+  ],
+  "geoplex drillteq limited": [
+    {
+      "site": "JobGurus",
+      "id": "ca9bd57d641c5b64f0f3d7add6301aa9",
+      "timestamp": 1753787666968
+    },
+    {
+      "site": "JobGurus",
+      "id": "709b49116cc255c1d268b1c19e2023ef",
+      "timestamp": 1753787666968
+    }
+  ],
+  "sims nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "1f6c92a6920f2132b3add6df13e1da9c",
+      "timestamp": 1753787666968
     }
   ]
 }
