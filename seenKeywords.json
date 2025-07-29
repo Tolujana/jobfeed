@@ -327,8 +327,13 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "62c7efffb9f76c25797d55762aa52d24",
-      "timestamp": 1752534961567
+      "id": "ef7071dde198235c36683e0d20cbc091",
+      "timestamp": 1753800664882
+    },
+    {
+      "site": "JobGurus",
+      "id": "1d08ae06171e715a1bd49cd304ac2c95",
+      "timestamp": 1753800664882
     }
   ],
   "jamub group": [
@@ -3323,13 +3328,8 @@
   "doah enterprise": [
     {
       "site": "JobGurus",
-      "id": "ef14ec61e33ce054e56321d8a9dee858",
-      "timestamp": 1750077189190
-    },
-    {
-      "site": "JobGurus",
-      "id": "bd67d8e1e534a61d5632bb058796ffd0",
-      "timestamp": 1750328204679
+      "id": "8701555fd827a65796351ba305f017e2",
+      "timestamp": 1753800664882
     }
   ],
   "42 engineering limited": [
@@ -10260,6 +10260,20 @@
       "site": "JobGurus",
       "id": "3b1d57e1e1e1c1f719a481eb81dbcd92",
       "timestamp": 1753798841974
+    }
+  ],
+  "karsto global resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "66bc70d244b1c4e44bc404776673abf0",
+      "timestamp": 1753800664882
+    }
+  ],
+  "tune afrique": [
+    {
+      "site": "JobGurus",
+      "id": "dc23fa5edf1ea9be8b5f25c57c03a8fa",
+      "timestamp": 1753800664882
     }
   ]
 }
