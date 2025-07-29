@@ -1021,18 +1021,8 @@
   "canonical nigeria": [
     {
       "site": "JobGurus",
-      "id": "2287c57613db474bcb2eb351f9a12ddf",
-      "timestamp": 1751642154365
-    },
-    {
-      "site": "JobGurus",
-      "id": "33c57ebdc30e55bb337aea9701113dfa",
-      "timestamp": 1751645957920
-    },
-    {
-      "site": "JobGurus",
-      "id": "29138d260e7b1fdc8a633a9ec12a13f2",
-      "timestamp": 1752226985407
+      "id": "e44a226599fe86d2cbc2a6a691400252",
+      "timestamp": 1753792586860
     }
   ],
   "beebeejump international limited": [
@@ -1475,8 +1465,8 @@
   "laboria limited": [
     {
       "site": "JobGurus",
-      "id": "dd3a6264a3aad695325f5d275bde54a8",
-      "timestamp": 1749224357956
+      "id": "f6d4ea81f2f5f631968a28e44ce3879d",
+      "timestamp": 1753792586860
     }
   ],
   "sow real estate limited": [
@@ -8749,8 +8739,8 @@
   "snaarp": [
     {
       "site": "JobGurus",
-      "id": "5e90c7cf7932a5aa893a0729466dcacd",
-      "timestamp": 1752749239843
+      "id": "53382b22079c3a492b07c163dad5513d",
+      "timestamp": 1753792586860
     }
   ],
   " sewa assets management limited": [
@@ -10230,6 +10220,20 @@
       "site": "JobGurus",
       "id": "70615d6038dfedc8f22d473ab62e7dc2",
       "timestamp": 1753789187344
+    }
+  ],
+  "thriving stellar woman initiative (tswi)": [
+    {
+      "site": "JobGurus",
+      "id": "fafd8f600c839a420a26902022d2deee",
+      "timestamp": 1753792586860
+    }
+  ],
+  "mp infrastructure limited": [
+    {
+      "site": "JobGurus",
+      "id": "5f4f4d695fac7cbccff4fabdc339ad6f",
+      "timestamp": 1753792586860
     }
   ]
 }
