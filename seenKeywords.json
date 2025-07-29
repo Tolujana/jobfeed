@@ -5673,8 +5673,8 @@
   "updeal resources": [
     {
       "site": "JobGurus",
-      "id": "096ef2a352928ed76dad8ae49bc01e6b",
-      "timestamp": 1751046024015
+      "id": "b4441a286961c5061d34826b6b251b0d",
+      "timestamp": 1753786070027
     }
   ],
   "macden communications limited": [
@@ -10142,6 +10142,32 @@
       "site": "JobGurus",
       "id": "3db7508ada008583cd159780239effe3",
       "timestamp": 1753715920175
+    }
+  ],
+  "regent microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "063245b980b5a3cb642380365aeddcf2",
+      "timestamp": 1753786070027
+    }
+  ],
+  "nw group": [
+    {
+      "site": "JobGurus",
+      "id": "d88c951e214bec15fa41629d7d04a472",
+      "timestamp": 1753786070027
+    }
+  ],
+  "federal polytechnic, ngodo-isuochi": [
+    {
+      "site": "JobGurus",
+      "id": "953570a6cfb3e4321d3b9c1b6440e35e",
+      "timestamp": 1753786070027
+    },
+    {
+      "site": "JobGurus",
+      "id": "231f8f937a12aebb68ee6b439a75f539",
+      "timestamp": 1753786070027
     }
   ]
 }
