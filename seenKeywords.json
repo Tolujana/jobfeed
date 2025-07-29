@@ -336,6 +336,11 @@
       "site": "JobGurus",
       "id": "ebece6a668f967e8afbef12b7a76195f",
       "timestamp": 1753274128073
+    },
+    {
+      "site": "JobGurus",
+      "id": "57286c6370d4878e5faf1b7ed35d8fad",
+      "timestamp": 1753789187344
     }
   ],
   "ziba consulting": [
@@ -523,6 +528,11 @@
       "site": "JobGurus",
       "id": "bf23689566c103096a67bb3ca1be8e0b",
       "timestamp": 1753787666968
+    },
+    {
+      "site": "JobGurus",
+      "id": "d1df3d8a36311ccb5056e3543f78c0bf",
+      "timestamp": 1753789187344
     }
   ],
   "cig motors co. limited": [
@@ -10199,6 +10209,27 @@
       "site": "JobGurus",
       "id": "1f6c92a6920f2132b3add6df13e1da9c",
       "timestamp": 1753787666968
+    }
+  ],
+  "talent lab limited": [
+    {
+      "site": "JobGurus",
+      "id": "3d1bd76f60b5f58b2a3077dcab74a1ef",
+      "timestamp": 1753789187344
+    }
+  ],
+  "alliance française": [
+    {
+      "site": "JobGurus",
+      "id": "2cfb913e66f87d185f7d1f6d3995f27a",
+      "timestamp": 1753789187344
+    }
+  ],
+  "tecon oil services limited": [
+    {
+      "site": "JobGurus",
+      "id": "70615d6038dfedc8f22d473ab62e7dc2",
+      "timestamp": 1753789187344
     }
   ]
 }
