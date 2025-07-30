@@ -10296,5 +10296,33 @@
       "id": "89bb2efed3ae16ad18f8da9598596534",
       "timestamp": 1753804013184
     }
+  ],
+  "7treads consults": [
+    {
+      "site": "JobGurus",
+      "id": "77c1bc65c568cc15c96eee6726267258",
+      "timestamp": 1753865543379
+    }
+  ],
+  "integrated dairies limited": [
+    {
+      "site": "JobGurus",
+      "id": "0bc4abd4a7666decb8505ecc632e11f5",
+      "timestamp": 1753865543379
+    }
+  ],
+  "shakti industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "44be70325c4693a3a3951f1159a5d7be",
+      "timestamp": 1753865543379
+    }
+  ],
+  "microsoft corporation": [
+    {
+      "site": "JobGurus",
+      "id": "38164ab8a02211b51c652146592f09bd",
+      "timestamp": 1753865543379
+    }
   ]
 }
