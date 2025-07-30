@@ -1658,8 +1658,8 @@
   "dreamworks global logistics limited": [
     {
       "site": "JobGurus",
-      "id": "d493fc9bfbf46e5f4f181552b5b384b7",
-      "timestamp": 1749462113276
+      "id": "732553b91c33bf973882325370acf78b",
+      "timestamp": 1753888687014
     }
   ],
   "admiralty resources services": [
@@ -3360,18 +3360,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "e134167b3a5ae4e6885bb1f02b4d8f6a",
-      "timestamp": 1750776220163
-    },
-    {
-      "site": "JobGurus",
-      "id": "ed3d1e7021f12cf373b2a074c6bbc1e3",
-      "timestamp": 1751021085167
-    },
-    {
-      "site": "JobGurus",
-      "id": "98259f0c00b97693f171bc6c330cf294",
-      "timestamp": 1751368443892
+      "id": "80d139629d8fc2307a53a508cc15f8f4",
+      "timestamp": 1753888687014
     }
   ],
   "smartcity plc": [
@@ -10493,6 +10483,27 @@
       "site": "JobGurus",
       "id": "4fe31c18748fb28e6746b84c7ddab27c",
       "timestamp": 1753886821669
+    }
+  ],
+  "residence 541": [
+    {
+      "site": "JobGurus",
+      "id": "8ce60eef774379855a82768526e2b647",
+      "timestamp": 1753888687014
+    }
+  ],
+  "xiaomi technology": [
+    {
+      "site": "JobGurus",
+      "id": "a5b3d22b4b96173665491b5a425841aa",
+      "timestamp": 1753888687014
+    }
+  ],
+  "survival agricultural hub limited": [
+    {
+      "site": "JobGurus",
+      "id": "2ce78336649af0c0f667fece4bcde672",
+      "timestamp": 1753888687014
     }
   ]
 }
