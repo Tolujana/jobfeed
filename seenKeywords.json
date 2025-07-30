@@ -9683,6 +9683,11 @@
       "site": "JobGurus",
       "id": "02084f81ef436af135f5baec485b7294",
       "timestamp": 1753357131457
+    },
+    {
+      "site": "JobGurus",
+      "id": "7ad4704e9bb23021f8fc88885782a6b7",
+      "timestamp": 1753868979940
     }
   ],
   "ebanx": [
@@ -10337,6 +10342,32 @@
       "site": "JobGurus",
       "id": "3841990ab42f98b027723a25bfe94d82",
       "timestamp": 1753867448502
+    }
+  ],
+  "hrd solutions": [
+    {
+      "site": "JobGurus",
+      "id": "276fa222e302ec23ae9b0726751a407a",
+      "timestamp": 1753868979940
+    },
+    {
+      "site": "JobGurus",
+      "id": "af0bc7555d1229355b7732a328951d3e",
+      "timestamp": 1753868979940
+    }
+  ],
+  "eclat human resource consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "94fdad29fa23ce83037f4bde7b52ab2b",
+      "timestamp": 1753868979940
+    }
+  ],
+  "tetra maritime": [
+    {
+      "site": "JobGurus",
+      "id": "82d91e2065e71766bd999cdee6992dd8",
+      "timestamp": 1753868979940
     }
   ]
 }
