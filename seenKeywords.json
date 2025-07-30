@@ -3936,8 +3936,8 @@
   "odixcity consulting": [
     {
       "site": "JobGurus",
-      "id": "b95c844c5a8cfc4204285b5bc20f2784",
-      "timestamp": 1752837258076
+      "id": "5b8318ac35c8f0411497c0f67e63bd57",
+      "timestamp": 1753872470842
     }
   ],
   "changeroom": [
@@ -5383,6 +5383,11 @@
       "site": "JobGurus",
       "id": "fd5840220be8e4dfb2e2c9af1bac6967",
       "timestamp": 1753270783650
+    },
+    {
+      "site": "JobGurus",
+      "id": "134c4cb3c88e9f0dec69b3eb63b6adbb",
+      "timestamp": 1753872470842
     }
   ],
   "mercy corps": [
@@ -10385,6 +10390,25 @@
       "site": "JobGurus",
       "id": "b1cd7566522c57385edf2b002d47a85c",
       "timestamp": 1753870720110
+    },
+    {
+      "site": "JobGurus",
+      "id": "b479f951aff233de48e061aad7ef633b",
+      "timestamp": 1753872470842
+    }
+  ],
+  "mobonike hospital and maternity": [
+    {
+      "site": "JobGurus",
+      "id": "01db80925fc3821d6ac0a9f70dc52368",
+      "timestamp": 1753872470842
+    }
+  ],
+  "gti microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "8081875ee112ed72de6ef4143a969ee0",
+      "timestamp": 1753872470842
     }
   ]
 }
