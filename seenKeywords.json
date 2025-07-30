@@ -1113,18 +1113,8 @@
   "elizabeth maddeux limited": [
     {
       "site": "JobGurus",
-      "id": "987686d1b95b103edf1a026430b3e200",
-      "timestamp": 1749132949537
-    },
-    {
-      "site": "JobGurus",
-      "id": "3f2769f59ec8e2b55ed1e131177f62c0",
-      "timestamp": 1749301377036
-    },
-    {
-      "site": "JobGurus",
-      "id": "5c13d7b22c9ec14d38bcdb8f00c9ba47",
-      "timestamp": 1749313036490
+      "id": "8929e8d4d5e960148fd5415752be9ddd",
+      "timestamp": 1753886821669
     }
   ],
   "cashxpress nigeria limited": [
@@ -2416,8 +2406,8 @@
   "maurice xandra solutions limited": [
     {
       "site": "JobGurus",
-      "id": "6f5b2c47146a87db9cd1dee108180cb5",
-      "timestamp": 1753264075509
+      "id": "a4424fca50d56797537473cd81d3e97b",
+      "timestamp": 1753886821669
     }
   ],
   "lily hospitals limited": [
@@ -8888,8 +8878,8 @@
   "grand oak limited": [
     {
       "site": "JobGurus",
-      "id": "6b6023aa57c68ecee342dfce5a7486ea",
-      "timestamp": 1752770997953
+      "id": "8e340983f18e98c6daccc964b9ebd1a4",
+      "timestamp": 1753886821669
     }
   ],
   "cornelli and mosh consults limited": [
@@ -10110,6 +10100,11 @@
       "site": "JobGurus",
       "id": "4190703ad76bcca53d5705f1f3dcea75",
       "timestamp": 1753712338258
+    },
+    {
+      "site": "JobGurus",
+      "id": "7f68063986ac695c0c4c124e9d162215",
+      "timestamp": 1753886821669
     }
   ],
   "bumpa": [
@@ -10491,6 +10486,13 @@
       "site": "JobGurus",
       "id": "da335c12be520b23af525b41ed27e2ba",
       "timestamp": 1753882644541
+    }
+  ],
+  "trovest capital partners": [
+    {
+      "site": "JobGurus",
+      "id": "4fe31c18748fb28e6746b84c7ddab27c",
+      "timestamp": 1753886821669
     }
   ]
 }
