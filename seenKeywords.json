@@ -712,8 +712,8 @@
   "lisse africa": [
     {
       "site": "JobGurus",
-      "id": "3859c5720d5d5cb46970d57a5bf563be",
-      "timestamp": 1750760253444
+      "id": "9aa06598565adec33ffdd01f4b2de921",
+      "timestamp": 1753867448502
     }
   ],
   "guo transport company": [
@@ -1420,8 +1420,8 @@
   "techdoctorinnovations": [
     {
       "site": "JobGurus",
-      "id": "6b4191eee2bd446e22117aacd28e9537",
-      "timestamp": 1751470969240
+      "id": "0bc07e0babddcf6a0b0cc0c2e8d0621a",
+      "timestamp": 1753867448502
     }
   ],
   "shomas supply & logistics limited": [
@@ -8989,8 +8989,8 @@
   "aava brands limited": [
     {
       "site": "JobGurus",
-      "id": "3ea2e51a420a3757cba30b6617e40623",
-      "timestamp": 1752845622402
+      "id": "e8d86ba37e759ba9c4fd26f1904d7e3f",
+      "timestamp": 1753867448502
     }
   ],
   "smash technology limited": [
@@ -10323,6 +10323,20 @@
       "site": "JobGurus",
       "id": "38164ab8a02211b51c652146592f09bd",
       "timestamp": 1753865543379
+    }
+  ],
+  "eìclat human resource consulting": [
+    {
+      "site": "JobGurus",
+      "id": "7b38d199b1cf8539b8c46e205c73018a",
+      "timestamp": 1753867448502
+    }
+  ],
+  "glow fm akure": [
+    {
+      "site": "JobGurus",
+      "id": "3841990ab42f98b027723a25bfe94d82",
+      "timestamp": 1753867448502
     }
   ]
 }
