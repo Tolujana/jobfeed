@@ -490,8 +490,8 @@
   "clinix healthcare": [
     {
       "site": "JobGurus",
-      "id": "f725d0f1be0a2cd06ff98809db9ca0d3",
-      "timestamp": 1748950619805
+      "id": "c6bac9fe27e969cdea224482040ff015",
+      "timestamp": 1753875595072
     }
   ],
   "dgic international business services limited": [
@@ -10404,6 +10404,34 @@
       "site": "JobGurus",
       "id": "8081875ee112ed72de6ef4143a969ee0",
       "timestamp": 1753872470842
+    }
+  ],
+  "anabel apartment and suites": [
+    {
+      "site": "JobGurus",
+      "id": "a7d97c6fcee9290dffed33a7736af347",
+      "timestamp": 1753875595072
+    }
+  ],
+  "zaytuna madrasa": [
+    {
+      "site": "JobGurus",
+      "id": "32c71711a105802dd0dc90d158d7b273",
+      "timestamp": 1753875595072
+    }
+  ],
+  "laprenge staffings solutions": [
+    {
+      "site": "JobGurus",
+      "id": "c867f46f619c98abae3a0a9b5f0a187b",
+      "timestamp": 1753875595072
+    }
+  ],
+  "hydroserve group": [
+    {
+      "site": "JobGurus",
+      "id": "1f9b402462cf3ce0e82e71d43aad46ad",
+      "timestamp": 1753875595072
     }
   ]
 }
