@@ -324,6 +324,11 @@
       "site": "JobGurus",
       "id": "1d08ae06171e715a1bd49cd304ac2c95",
       "timestamp": 1753800664882
+    },
+    {
+      "site": "JobGurus",
+      "id": "3ffa029eba4f4def319d27b2ecc16b5f",
+      "timestamp": 1753951917621
     }
   ],
   "jamub group": [
@@ -2547,18 +2552,13 @@
   "oilserv limited": [
     {
       "site": "JobGurus",
-      "id": "7ea1abf1a04a4cb4caec0ba6e406843e",
-      "timestamp": 1752831938691
-    },
-    {
-      "site": "JobGurus",
-      "id": "b23b71e8c6b9a017cbfe3d9a96847a44",
-      "timestamp": 1752833891556
-    },
-    {
-      "site": "JobGurus",
       "id": "ca9bf9cf53718e5d12ab98dc74f64bed",
       "timestamp": 1753360523472
+    },
+    {
+      "site": "JobGurus",
+      "id": "f933c53e8ccfea30fe2a9fdbb92126c2",
+      "timestamp": 1753951917621
     }
   ],
   "greenfield consulting": [
@@ -4269,6 +4269,11 @@
       "site": "JobGurus",
       "id": "a592526b82368ad221eb7f84d1d8531b",
       "timestamp": 1753522816815
+    },
+    {
+      "site": "JobGurus",
+      "id": "dadb40d5054178d3a6c7b2e4460ffc9a",
+      "timestamp": 1753951917621
     }
   ],
   "saywheels auto": [
@@ -10504,6 +10509,20 @@
       "site": "JobGurus",
       "id": "2ce78336649af0c0f667fece4bcde672",
       "timestamp": 1753888687014
+    }
+  ],
+  "coca-cola hellenic bottling company": [
+    {
+      "site": "JobGurus",
+      "id": "2702ae3cad3b097b5b4233435356b8aa",
+      "timestamp": 1753951917621
+    }
+  ],
+  "digitvant microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "4178521caa6c04b5f2ccd1e7fb5805f6",
+      "timestamp": 1753951917621
     }
   ]
 }
