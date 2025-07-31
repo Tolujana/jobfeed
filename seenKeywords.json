@@ -9248,8 +9248,8 @@
   "bukka hut restaurant": [
     {
       "site": "JobGurus",
-      "id": "61aea4b2bc0edceb711480ba41845e15",
-      "timestamp": 1753096496591
+      "id": "1e831c6a2c026777dbfc125a0c069fc2",
+      "timestamp": 1753976681912
     }
   ],
   "seflam sgl limited": [
@@ -10634,6 +10634,20 @@
       "site": "JobGurus",
       "id": "6b6a7e0becb7d5bba822dddefd79f2b5",
       "timestamp": 1753973248236
+    }
+  ],
+  "flying doctors nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "a58e50896c0890cd4d4c0fd436eb3113",
+      "timestamp": 1753976681912
+    }
+  ],
+  "zest payments limited": [
+    {
+      "site": "JobGurus",
+      "id": "9cad9ce41aab95b4fc741f50e7ac9cca",
+      "timestamp": 1753976681912
     }
   ]
 }
