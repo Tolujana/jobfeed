@@ -3838,6 +3838,11 @@
       "site": "JobGurus",
       "id": "8c517e6208925d7df70914349ea4c94d",
       "timestamp": 1753802386547
+    },
+    {
+      "site": "JobGurus",
+      "id": "5c27cd13ab78922316fcf619e46b4c10",
+      "timestamp": 1753971515534
     }
   ],
   "technoserve": [
@@ -10601,6 +10606,27 @@
       "site": "JobGurus",
       "id": "60e2d3abc7ceeeb73b48ca8408cb179f",
       "timestamp": 1753968914885
+    }
+  ],
+  "goonite hygiene": [
+    {
+      "site": "JobGurus",
+      "id": "0026260961fdf3db798e949955a2e0a2",
+      "timestamp": 1753971515534
+    }
+  ],
+  "totalenergies": [
+    {
+      "site": "JobGurus",
+      "id": "ff25cc2e6d6ef3397a29eff762da9bfa",
+      "timestamp": 1753971515534
+    }
+  ],
+  "british council": [
+    {
+      "site": "JobGurus",
+      "id": "056db69c1997e846e54f9f1bbeb90b5c",
+      "timestamp": 1753971515534
     }
   ]
 }
