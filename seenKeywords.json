@@ -2108,8 +2108,8 @@
   "benmaris limited": [
     {
       "site": "JobGurus",
-      "id": "c67e903a0ac8bc17a42bf4bac531220f",
-      "timestamp": 1750349957312
+      "id": "7ae235f5f844d35383b60135226aa0d0",
+      "timestamp": 1754055293308
     }
   ],
   "mediflex industries pvt limited": [
@@ -2322,11 +2322,6 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "e775d2ace4ad96034d167ac512b253ff",
-      "timestamp": 1753370203548
-    },
-    {
-      "site": "JobGurus",
       "id": "e7ba07153df68f6dc0cdedaf617ab62b",
       "timestamp": 1753960496586
     },
@@ -2334,6 +2329,11 @@
       "site": "JobGurus",
       "id": "89d2680c2ec53315563df8527c6d0855",
       "timestamp": 1753960496586
+    },
+    {
+      "site": "JobGurus",
+      "id": "42cf9c525a6c5abf115597e560ca246d",
+      "timestamp": 1754055293308
     }
   ],
   "flees global services": [
@@ -3743,6 +3743,11 @@
       "site": "JobGurus",
       "id": "ec079bb6e31f1226d7b23a28df7e2ea7",
       "timestamp": 1753802386547
+    },
+    {
+      "site": "JobGurus",
+      "id": "a7319bae9324e4995f0970e7c072f6cf",
+      "timestamp": 1754055293308
     }
   ],
   "secom limited": [
@@ -10661,6 +10666,20 @@
       "site": "JobGurus",
       "id": "eb21f8adb3d4f6d7f3b389af20383c67",
       "timestamp": 1754051701950
+    }
+  ],
+  "team bonding nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "c5207093c9476dda0e646039039017e3",
+      "timestamp": 1754055293308
+    }
+  ],
+  "stern & kay consulting": [
+    {
+      "site": "JobGurus",
+      "id": "fc84ce651a8ac5c38e714291ffb28734",
+      "timestamp": 1754055293308
     }
   ]
 }
