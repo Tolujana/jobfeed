@@ -4336,13 +4336,8 @@
   "newglobe": [
     {
       "site": "JobGurus",
-      "id": "d3748c5abe5670c60f72e8f000c8398b",
-      "timestamp": 1752157000052
-    },
-    {
-      "site": "JobGurus",
-      "id": "570f416805e83e5940b7bcbf09b3f050",
-      "timestamp": 1752744022749
+      "id": "91e45827760f325b1a6b88ef69228384",
+      "timestamp": 1754059607786
     }
   ],
   "tiva creative": [
@@ -7094,13 +7089,8 @@
   "management sciences for health (msh)": [
     {
       "site": "JobGurus",
-      "id": "bb607316104eaf71fbe9aab9d01d8131",
-      "timestamp": 1753364131617
-    },
-    {
-      "site": "JobGurus",
-      "id": "933ac34faba95bb64b5d180495b3e70e",
-      "timestamp": 1753370203548
+      "id": "6fe6c629e648765e89125eeefbaff94c",
+      "timestamp": 1754059607786
     }
   ],
   "fd naturales": [
@@ -10646,6 +10636,11 @@
       "site": "JobGurus",
       "id": "eb21f8adb3d4f6d7f3b389af20383c67",
       "timestamp": 1754051701950
+    },
+    {
+      "site": "JobGurus",
+      "id": "78fa0161aa62830c23ccbf46a01c1b31",
+      "timestamp": 1754059607786
     }
   ],
   "team bonding nigeria": [
@@ -10667,6 +10662,20 @@
       "site": "JobGurus",
       "id": "2b1c2125faa3ac9888bbd71d9c04fa85",
       "timestamp": 1754057888211
+    }
+  ],
+  "etl engineering services limited": [
+    {
+      "site": "JobGurus",
+      "id": "e1a2beea36e5c3de66846cdc74706aba",
+      "timestamp": 1754059607786
+    }
+  ],
+  "gti investment": [
+    {
+      "site": "JobGurus",
+      "id": "7ab5c3487ac04387a6603ba58108750a",
+      "timestamp": 1754059607786
     }
   ]
 }
