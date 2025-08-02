@@ -5397,8 +5397,8 @@
   "ak entertainment": [
     {
       "site": "JobGurus",
-      "id": "a11b0f28dc3c74f531dd921a795f6d7c",
-      "timestamp": 1750959655629
+      "id": "f12bfec7efc7d0113c8e3c637f0eae33",
+      "timestamp": 1754163442434
     }
   ],
   "lagos business school": [
@@ -6418,8 +6418,8 @@
   "oppo": [
     {
       "site": "JobGurus",
-      "id": "0ad88e363ca787ef987c3a5574ae2db6",
-      "timestamp": 1752769243664
+      "id": "1230175da6e029f263fbf9b46fe13372",
+      "timestamp": 1754163442434
     }
   ],
   "agricare std plus limited": [
@@ -10716,6 +10716,11 @@
       "site": "JobGurus",
       "id": "120cfccdd53596b67f80303c72495730",
       "timestamp": 1754160610165
+    },
+    {
+      "site": "JobGurus",
+      "id": "5eb3e986987daaa924cc2da35414a1f6",
+      "timestamp": 1754163442434
     }
   ],
   "havana specialist hospital": [
@@ -10730,6 +10735,20 @@
       "site": "JobGurus",
       "id": "e5182f4778b92330821496ebdc8c510e",
       "timestamp": 1754161952473
+    }
+  ],
+  "edves digital education": [
+    {
+      "site": "JobGurus",
+      "id": "ce9f74eb8e5944384793734dc4937e95",
+      "timestamp": 1754163442434
+    }
+  ],
+  "laprenge staffing solutions": [
+    {
+      "site": "JobGurus",
+      "id": "e480b9f1d0abffd0c1f9627372c36f1a",
+      "timestamp": 1754163442434
     }
   ]
 }
