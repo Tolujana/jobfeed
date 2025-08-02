@@ -6555,8 +6555,8 @@
   "tailored talent": [
     {
       "site": "JobGurus",
-      "id": "9b3f25c53f2b35188eb9f49f5f340399",
-      "timestamp": 1751549284889
+      "id": "dc56aee03fd7f903a78a423c8d12a6e0",
+      "timestamp": 1754158928237
     }
   ],
   "lopterra services limited": [
@@ -9205,8 +9205,8 @@
   "seflam sgl limited": [
     {
       "site": "JobGurus",
-      "id": "3f9e7b59ec91ca2006a4bd0d68cd2770",
-      "timestamp": 1753096496591
+      "id": "9e15b63ff61e02af1b942a9e9ea53c00",
+      "timestamp": 1754158928237
     }
   ],
   "hayok medicare limited": [
@@ -10678,6 +10678,25 @@
       "site": "JobGurus",
       "id": "911031c367ae1013b79be7052f97c542",
       "timestamp": 1754061467957
+    }
+  ],
+  "domeo resources international (dri) i": [
+    {
+      "site": "JobGurus",
+      "id": "497126f01da46f6b637810e47b432c6c",
+      "timestamp": 1754158928237
+    }
+  ],
+  "bourbon interoil nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "1ae60310ab44956c6905ee8db67b482a",
+      "timestamp": 1754158928237
+    },
+    {
+      "site": "JobGurus",
+      "id": "1713c500784690c7bdc9a934a6288ed8",
+      "timestamp": 1754158928237
     }
   ]
 }
