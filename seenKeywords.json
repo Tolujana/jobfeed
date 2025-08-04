@@ -17,13 +17,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "40ceebe60c7ef7db578161aff6ef17d7",
-      "timestamp": 1753277734073
-    },
-    {
-      "site": "JobGurus",
-      "id": "bc67c4bf3eb4d1465d82a45007a4eb42",
-      "timestamp": 1753452925150
+      "id": "97d44c7cba1410ecc89b758647c58036",
+      "timestamp": 1754314727578
     }
   ],
   "amecron nigeria limited": [
@@ -157,6 +152,11 @@
       "site": "JobGurus",
       "id": "1b34a8247105f792f9c5c69b0afddfd7",
       "timestamp": 1753960496586
+    },
+    {
+      "site": "JobGurus",
+      "id": "240b6dde680b4e5663f140783eba53eb",
+      "timestamp": 1754314727578
     }
   ],
   "cway group": [
@@ -9098,18 +9098,8 @@
   "repton group": [
     {
       "site": "JobGurus",
-      "id": "019b37a5c90f6c06ca6aab2509ff9f00",
-      "timestamp": 1753088065684
-    },
-    {
-      "site": "JobGurus",
-      "id": "f9e4c4d156bd26235479a58036c7031a",
-      "timestamp": 1753177582250
-    },
-    {
-      "site": "JobGurus",
-      "id": "cb95a517de4a7bb3e40422b5b231a445",
-      "timestamp": 1753179502871
+      "id": "d1323be12c963f82093b335f0271b873",
+      "timestamp": 1754314727578
     }
   ],
   "vericortex": [
@@ -10899,6 +10889,20 @@
       "site": "JobGurus",
       "id": "aa868cdbe6c75feba925694ed56de6a5",
       "timestamp": 1754311024332
+    }
+  ],
+  "kingrock international nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "5d9c7997ed8bb933375da2e8c56edbd0",
+      "timestamp": 1754314727578
+    }
+  ],
+  "cng career-touch services": [
+    {
+      "site": "JobGurus",
+      "id": "49ace2246d0b21dfa855ac0cd94e7bb4",
+      "timestamp": 1754314727578
     }
   ]
 }
