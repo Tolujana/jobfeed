@@ -420,8 +420,13 @@
   "mshel homes limited": [
     {
       "site": "JobGurus",
-      "id": "70d9bd86b44944fa0f0cd4b8092dd4c7",
-      "timestamp": 1753089897676
+      "id": "1d5435ca096e01569cc4dc088b98c85d",
+      "timestamp": 1754301260202
+    },
+    {
+      "site": "JobGurus",
+      "id": "491e6d9667950f4c80d810f1f188cd52",
+      "timestamp": 1754301260202
     }
   ],
   "dana group": [
@@ -2673,13 +2678,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "27a00bd5b0d45cfa43282cc0da796a6d",
-      "timestamp": 1753109266240
-    },
-    {
-      "site": "JobGurus",
-      "id": "1455c28623244813667e0814d0c4acbc",
-      "timestamp": 1753442082456
+      "id": "2a4b4a8129f72719b93bd564d96887ac",
+      "timestamp": 1754301260202
     }
   ],
   "international fertilizer development center": [
@@ -10792,6 +10792,20 @@
       "site": "JobGurus",
       "id": "c458e58729ebb341c51eee2ded13ba68",
       "timestamp": 1754299663963
+    }
+  ],
+  "guinness nigeria plc": [
+    {
+      "site": "JobGurus",
+      "id": "29213ea991dbc4bcabc766d5f55417df",
+      "timestamp": 1754301260202
+    }
+  ],
+  "breezy digital solutions": [
+    {
+      "site": "JobGurus",
+      "id": "a2c5e01db673242525da901e1260b3a4",
+      "timestamp": 1754301260202
     }
   ]
 }
