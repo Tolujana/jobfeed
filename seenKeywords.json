@@ -630,6 +630,11 @@
       "site": "JobGurus",
       "id": "07a5d0fea769dcb6b1c14e7ca8596045",
       "timestamp": 1754048359794
+    },
+    {
+      "site": "JobGurus",
+      "id": "bd2295f141a4d42e079368e700233ad1",
+      "timestamp": 1754311024332
     }
   ],
   "food concepts plc": [
@@ -5804,8 +5809,8 @@
   "international breweries plc": [
     {
       "site": "JobGurus",
-      "id": "76fdc6f6b3ce8771b4fe1146fc43b3d6",
-      "timestamp": 1752226985407
+      "id": "b7d7b8212ee77f83dd2dc1b0a29aa553",
+      "timestamp": 1754311024332
     }
   ],
   "rosabon financial services": [
@@ -8614,13 +8619,8 @@
   "ileoja market place": [
     {
       "site": "JobGurus",
-      "id": "e042dee6b3aa347f33aad1a28636ab80",
-      "timestamp": 1752744022749
-    },
-    {
-      "site": "JobGurus",
-      "id": "a22919cbc029b54e102599569792de53",
-      "timestamp": 1752744022749
+      "id": "320666aecd3da7ab58cc9cd0bdc52cfd",
+      "timestamp": 1754311024332
     }
   ],
   "standard chartered bank": [
@@ -10885,6 +10885,20 @@
       "site": "JobGurus",
       "id": "2951a0a02f1a7cf5d20517ad67df3551",
       "timestamp": 1754307635153
+    }
+  ],
+  "flour mills of nigeria plc": [
+    {
+      "site": "JobGurus",
+      "id": "73128f7e75cc05cf1895979a78af1de7",
+      "timestamp": 1754311024332
+    }
+  ],
+  "uridium technologies": [
+    {
+      "site": "JobGurus",
+      "id": "aa868cdbe6c75feba925694ed56de6a5",
+      "timestamp": 1754311024332
     }
   ]
 }
