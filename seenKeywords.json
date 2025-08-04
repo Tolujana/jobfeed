@@ -294,8 +294,8 @@
   "jc international": [
     {
       "site": "JobGurus",
-      "id": "5b2900fadeb1b48ff02bfbfad518ee33",
-      "timestamp": 1748898922757
+      "id": "f535a1020061e9185ce2caa8be61e188",
+      "timestamp": 1754317252759
     }
   ],
   "trinity financial": [
@@ -5137,33 +5137,8 @@
   "tophire africa": [
     {
       "site": "JobGurus",
-      "id": "e100f94150b969ed611d68d92f85c694",
-      "timestamp": 1753097989068
-    },
-    {
-      "site": "JobGurus",
-      "id": "ca1528db88a8564183836e664e4b22f2",
-      "timestamp": 1753097989068
-    },
-    {
-      "site": "JobGurus",
-      "id": "c916d63fce295533099231f2f000d2b1",
-      "timestamp": 1753097989068
-    },
-    {
-      "site": "JobGurus",
-      "id": "872efc7b59bb6c0c5be98a0e156cccd3",
-      "timestamp": 1753701302055
-    },
-    {
-      "site": "JobGurus",
-      "id": "02b793708882658696695efe07208191",
-      "timestamp": 1753701302055
-    },
-    {
-      "site": "JobGurus",
-      "id": "37a930a5eff5ea012f55fd32048d4543",
-      "timestamp": 1753701302055
+      "id": "5ee845caac197ac5ec7e318b50e3c7a1",
+      "timestamp": 1754317252759
     }
   ],
   "sao group": [
@@ -10903,6 +10878,20 @@
       "site": "JobGurus",
       "id": "49ace2246d0b21dfa855ac0cd94e7bb4",
       "timestamp": 1754314727578
+    }
+  ],
+  "taidob college": [
+    {
+      "site": "JobGurus",
+      "id": "1c316f8ab6d7e4acb3e93f857eff9bf1",
+      "timestamp": 1754317252759
+    }
+  ],
+  "hiit plc": [
+    {
+      "site": "JobGurus",
+      "id": "a4d7afda4d759d30dcdc1099022c40ef",
+      "timestamp": 1754317252759
     }
   ]
 }
