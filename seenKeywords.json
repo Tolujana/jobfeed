@@ -2558,8 +2558,8 @@
   "mantrac": [
     {
       "site": "JobGurus",
-      "id": "77667efbb654d53bb87fff1873972c43",
-      "timestamp": 1750504399018
+      "id": "5ffb5346c644a94cfaf0b57873501056",
+      "timestamp": 1754307635153
     }
   ],
   "amani advisory limited": [
@@ -2855,8 +2855,8 @@
   "addosser investment limited": [
     {
       "site": "JobGurus",
-      "id": "46c65840791bf1b34d4fe38ee43505ec",
-      "timestamp": 1750776220163
+      "id": "f13758cca9aa34208c51dc2a218cd541",
+      "timestamp": 1754307635153
     }
   ],
   "hb oneira nigeria limited": [
@@ -10864,6 +10864,27 @@
       "site": "JobGurus",
       "id": "48994e8f6c82bf4ea0d9aa42f8fe90e8",
       "timestamp": 1754306140665
+    }
+  ],
+  "bridge credit limited": [
+    {
+      "site": "JobGurus",
+      "id": "8b03da854b845defa169506b1586401d",
+      "timestamp": 1754307635153
+    }
+  ],
+  "house of tara international": [
+    {
+      "site": "JobGurus",
+      "id": "3d4140eb27d4583b32a9259adcbb9065",
+      "timestamp": 1754307635153
+    }
+  ],
+  "credpal": [
+    {
+      "site": "JobGurus",
+      "id": "2951a0a02f1a7cf5d20517ad67df3551",
+      "timestamp": 1754307635153
     }
   ]
 }
