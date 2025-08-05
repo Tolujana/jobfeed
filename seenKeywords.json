@@ -5174,6 +5174,11 @@
       "site": "JobGurus",
       "id": "6270129f629e15337d7e947550870387",
       "timestamp": 1753882644541
+    },
+    {
+      "site": "JobGurus",
+      "id": "08f6a24af9aa9bae6fee486024064752",
+      "timestamp": 1754394015156
     }
   ],
   "opay": [
@@ -8363,8 +8368,13 @@
   "coinbox limited": [
     {
       "site": "JobGurus",
-      "id": "e1d8122d84e42fff97ffe8cb552c2549",
-      "timestamp": 1752596464167
+      "id": "882dc3d37b645cb2548b24c19fc66d77",
+      "timestamp": 1754394015156
+    },
+    {
+      "site": "JobGurus",
+      "id": "cb680df480857fe8269c021092b1e627",
+      "timestamp": 1754394015156
     }
   ],
   "infratel africa": [
@@ -10992,6 +11002,20 @@
       "site": "JobGurus",
       "id": "1c24d4a3539230dd1a4a5fe74474b423",
       "timestamp": 1754392532304
+    }
+  ],
+  "zojatech limited": [
+    {
+      "site": "JobGurus",
+      "id": "97299c3e2b07907690f79f0445d9d78c",
+      "timestamp": 1754394015156
+    }
+  ],
+  "alister greene consulting": [
+    {
+      "site": "JobGurus",
+      "id": "bb00870ec9f2ae180691834b100bd01c",
+      "timestamp": 1754394015156
     }
   ]
 }
