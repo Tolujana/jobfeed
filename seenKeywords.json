@@ -4413,8 +4413,8 @@
   "solidarites international (si)": [
     {
       "site": "JobGurus",
-      "id": "2627207f73abc70cb95b72e877a18b77",
-      "timestamp": 1750422739440
+      "id": "c8be35a8148e956f1df6bcc16783c68c",
+      "timestamp": 1754397412893
     }
   ],
   "farms katsina limited": [
@@ -8375,6 +8375,11 @@
       "site": "JobGurus",
       "id": "cb680df480857fe8269c021092b1e627",
       "timestamp": 1754394015156
+    },
+    {
+      "site": "JobGurus",
+      "id": "fca803aded2ca5869e008b781b84b024",
+      "timestamp": 1754397412893
     }
   ],
   "infratel africa": [
@@ -8493,13 +8498,8 @@
   "bafashion shop": [
     {
       "site": "JobGurus",
-      "id": "29a07aec310f49affe5b01f73f855187",
-      "timestamp": 1752679090075
-    },
-    {
-      "site": "JobGurus",
-      "id": "965602fbbf3d2a2d9aeabf366c70c306",
-      "timestamp": 1753193869422
+      "id": "28369faa137dad8576124393afd12d24",
+      "timestamp": 1754397412893
     }
   ],
   "ponticelli nigeria (pnl)": [
@@ -11009,6 +11009,11 @@
       "site": "JobGurus",
       "id": "97299c3e2b07907690f79f0445d9d78c",
       "timestamp": 1754394015156
+    },
+    {
+      "site": "JobGurus",
+      "id": "888f76393963fca354e042edf70bc4cd",
+      "timestamp": 1754397412893
     }
   ],
   "alister greene consulting": [
@@ -11016,6 +11021,13 @@
       "site": "JobGurus",
       "id": "bb00870ec9f2ae180691834b100bd01c",
       "timestamp": 1754394015156
+    }
+  ],
+  "deradelight technologies": [
+    {
+      "site": "JobGurus",
+      "id": "c2e14daf0bbe0b4f59ed7f6bb4078789",
+      "timestamp": 1754397412893
     }
   ]
 }
