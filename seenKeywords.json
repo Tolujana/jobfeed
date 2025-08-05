@@ -339,13 +339,13 @@
   "jamub group": [
     {
       "site": "JobGurus",
-      "id": "ebece6a668f967e8afbef12b7a76195f",
-      "timestamp": 1753274128073
+      "id": "57286c6370d4878e5faf1b7ed35d8fad",
+      "timestamp": 1753789187344
     },
     {
       "site": "JobGurus",
-      "id": "57286c6370d4878e5faf1b7ed35d8fad",
-      "timestamp": 1753789187344
+      "id": "6e0b5350f7e264bb66d81dd4850a7727",
+      "timestamp": 1754387341741
     }
   ],
   "ziba consulting": [
@@ -9576,6 +9576,11 @@
       "site": "JobGurus",
       "id": "b1bd167a2202e6ceba38e9ed5e520297",
       "timestamp": 1754046860960
+    },
+    {
+      "site": "JobGurus",
+      "id": "6a327713917479faeabd1c7f8eda8344",
+      "timestamp": 1754387341741
     }
   ],
   "infystrat software services": [
@@ -10911,6 +10916,20 @@
       "site": "JobGurus",
       "id": "811f403ead5d9d606ef2d4fb5c74ab1f",
       "timestamp": 1754385818768
+    }
+  ],
+  "asa security": [
+    {
+      "site": "JobGurus",
+      "id": "474a3eac4f8abc90a1ff821e692b0f2b",
+      "timestamp": 1754387341741
+    }
+  ],
+  "japan tobacco international (jti)": [
+    {
+      "site": "JobGurus",
+      "id": "14dc53d5b16ccb2d56f12a927f409aa6",
+      "timestamp": 1754387341741
     }
   ]
 }
