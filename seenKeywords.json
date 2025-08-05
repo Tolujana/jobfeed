@@ -301,8 +301,8 @@
   "trinity financial": [
     {
       "site": "JobGurus",
-      "id": "29b8e03f99484160766ae70ecbe9bf37",
-      "timestamp": 1751670891323
+      "id": "c080602f63b334e3822dc8b6574cdfa3",
+      "timestamp": 1754385818768
     }
   ],
   "a&r group": [
@@ -10892,6 +10892,25 @@
       "site": "JobGurus",
       "id": "a4d7afda4d759d30dcdc1099022c40ef",
       "timestamp": 1754317252759
+    }
+  ],
+  "lasad ventures": [
+    {
+      "site": "JobGurus",
+      "id": "54a8fcfef83616d09aa4eeebcf49d787",
+      "timestamp": 1754385818768
+    },
+    {
+      "site": "JobGurus",
+      "id": "d222a59e8d740f1822492f9e93cae27e",
+      "timestamp": 1754385818768
+    }
+  ],
+  "project masters nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "811f403ead5d9d606ef2d4fb5c74ab1f",
+      "timestamp": 1754385818768
     }
   ]
 }
