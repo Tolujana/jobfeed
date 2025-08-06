@@ -1680,8 +1680,8 @@
   "shulifang biotechnology": [
     {
       "site": "JobGurus",
-      "id": "1e42ec964a540fff27c3ab609ba589a6",
-      "timestamp": 1749465915168
+      "id": "927518e05832b7a62e71c6798a985dde",
+      "timestamp": 1754477322680
     }
   ],
   "innov8 hub": [
@@ -8953,8 +8953,8 @@
   "gig mobility": [
     {
       "site": "JobGurus",
-      "id": "d7ac9b70d7bdad83356d635b4672305e",
-      "timestamp": 1752849908290
+      "id": "607953495ace34e3e1f3e102556c1c59",
+      "timestamp": 1754477322680
     }
   ],
   "visionspring": [
@@ -11093,6 +11093,27 @@
       "site": "JobGurus",
       "id": "828f107a53a885f168deeb0ad8a0ebbf",
       "timestamp": 1754475514635
+    }
+  ],
+  "shopfify": [
+    {
+      "site": "JobGurus",
+      "id": "3169eba3939e5e000268de114830c459",
+      "timestamp": 1754477322680
+    }
+  ],
+  "fairmoney nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "3f6467882a36fa739654c25311fe39d0",
+      "timestamp": 1754477322680
+    }
+  ],
+  "crown interactive": [
+    {
+      "site": "JobGurus",
+      "id": "ac12b7db1bc0fc0970442a40e12dbfa0",
+      "timestamp": 1754477322680
     }
   ]
 }
