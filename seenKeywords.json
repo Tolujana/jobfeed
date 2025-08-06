@@ -811,8 +811,8 @@
   "western development company limited": [
     {
       "site": "JobGurus",
-      "id": "c7960a0f5e72c852e74c9917f36d8554",
-      "timestamp": 1749049528578
+      "id": "ef3b3c6b0940d1a00ad5605403929f36",
+      "timestamp": 1754473780881
     }
   ],
   "africa plus partners nigeria limited": [
@@ -5469,8 +5469,8 @@
   "sundry foods": [
     {
       "site": "JobGurus",
-      "id": "eb9cd79dc51702b0e3bbd58e95fab694",
-      "timestamp": 1751019452005
+      "id": "6f9e8553ccbdc7a71ad594e516022697",
+      "timestamp": 1754473780881
     }
   ],
   "ht-limited": [
@@ -6950,18 +6950,8 @@
   "uncle stan's foods": [
     {
       "site": "JobGurus",
-      "id": "b94c7699cd8b00a68c1ba650935a72f7",
-      "timestamp": 1751891575753
-    },
-    {
-      "site": "JobGurus",
-      "id": "61c202d7fa7161c26837f5481392c427",
-      "timestamp": 1752085353189
-    },
-    {
-      "site": "JobGurus",
-      "id": "01ec5485f99876fc11e92afe7ee791d3",
-      "timestamp": 1752087048167
+      "id": "555827869bd69aafd62cf0a1d5f6e707",
+      "timestamp": 1754473780881
     }
   ],
   "mn global ventures": [
@@ -7794,8 +7784,8 @@
   "mopheth nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "e6542cf814765a6444565a74ccf15821",
-      "timestamp": 1752243371458
+      "id": "7c3df173d8a74010480fecf385296a23",
+      "timestamp": 1754473780881
     }
   ],
   "eha clinics": [
@@ -11075,6 +11065,13 @@
       "site": "JobGurus",
       "id": "5b85df1b67523913165f9ab024d5fb22",
       "timestamp": 1754472254853
+    }
+  ],
+  "qupee consult": [
+    {
+      "site": "JobGurus",
+      "id": "4616f958e38f7976bc9f1e11ad4d81d4",
+      "timestamp": 1754473780881
     }
   ]
 }
