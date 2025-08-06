@@ -10671,6 +10671,11 @@
       "site": "JobGurus",
       "id": "7ab5c3487ac04387a6603ba58108750a",
       "timestamp": 1754059607786
+    },
+    {
+      "site": "JobGurus",
+      "id": "41a2601c38ec5c59d2486bb0f04d2007",
+      "timestamp": 1754472254853
     }
   ],
   "roychem industries limited": [
@@ -11042,6 +11047,34 @@
       "site": "JobGurus",
       "id": "8efb3eba4f36a9c94bcc4f2d3a2323e5",
       "timestamp": 1754403674434
+    }
+  ],
+  "umunnachi microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "88c3ed6406acf8981b35935b11257b6f",
+      "timestamp": 1754472254853
+    }
+  ],
+  "skyline international tourism & hospitality limited": [
+    {
+      "site": "JobGurus",
+      "id": "dc6f995e08fed5bf77e1beab383c7050",
+      "timestamp": 1754472254853
+    }
+  ],
+  "natony limited": [
+    {
+      "site": "JobGurus",
+      "id": "486a56ceb5d004490d49aa77022eb7eb",
+      "timestamp": 1754472254853
+    }
+  ],
+  "securehub connect": [
+    {
+      "site": "JobGurus",
+      "id": "5b85df1b67523913165f9ab024d5fb22",
+      "timestamp": 1754472254853
     }
   ]
 }
