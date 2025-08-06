@@ -590,18 +590,18 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "f7ad876b68aee8d84359f7f8aa58af54",
-      "timestamp": 1753519603114
-    },
-    {
-      "site": "JobGurus",
-      "id": "73edc64abeb1c327761f49e2d14ce0f6",
-      "timestamp": 1753537688734
-    },
-    {
-      "site": "JobGurus",
       "id": "99f14cc479b546c9d4bf349c9d436f43",
       "timestamp": 1754057888211
+    },
+    {
+      "site": "JobGurus",
+      "id": "2f773d3d52e5913afc54072c42a1b23a",
+      "timestamp": 1754480424093
+    },
+    {
+      "site": "JobGurus",
+      "id": "e2d6f050229fad1c9b9fb26522a1444f",
+      "timestamp": 1754480424093
     }
   ],
   "abbfem group": [
@@ -3573,8 +3573,8 @@
   "mikano international": [
     {
       "site": "JobGurus",
-      "id": "f1cea1565ac5f932f30ac792d9b30611",
-      "timestamp": 1750169766989
+      "id": "5b544ad82d5462e682491db6ca121438",
+      "timestamp": 1754480424093
     }
   ],
   "vurin group": [
@@ -9165,6 +9165,11 @@
       "site": "JobGurus",
       "id": "1e831c6a2c026777dbfc125a0c069fc2",
       "timestamp": 1753976681912
+    },
+    {
+      "site": "JobGurus",
+      "id": "25115b4ccbab0de912dc2d916afa9dfd",
+      "timestamp": 1754480424093
     }
   ],
   "seflam sgl limited": [
