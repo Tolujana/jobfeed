@@ -1204,8 +1204,8 @@
   "g-shoppers": [
     {
       "site": "JobGurus",
-      "id": "8fe47b7cc2e9e4a7ef3f5ceb593beb7e",
-      "timestamp": 1751897781507
+      "id": "1474ba62f438131f7e20a3f9c3047625",
+      "timestamp": 1754563684273
     }
   ],
   "c recruite": [
@@ -8759,8 +8759,8 @@
   "polaris digitech limited": [
     {
       "site": "JobGurus",
-      "id": "39c0a8e8be3f75172bbf8b87f94a1178",
-      "timestamp": 1752769243664
+      "id": "771afb397b6b43853f90c2bc5dd2252d",
+      "timestamp": 1754563684273
     }
   ],
   "efficacy development plc": [
@@ -11278,6 +11278,20 @@
       "site": "JobGurus",
       "id": "2738423382869fcf8e3717c70fb3636b",
       "timestamp": 1754561889861
+    }
+  ],
+  "vis-ideal concept limited": [
+    {
+      "site": "JobGurus",
+      "id": "3b2b68a3f2e6c89a64eb711808937d57",
+      "timestamp": 1754563684273
+    }
+  ],
+  "citi residence": [
+    {
+      "site": "JobGurus",
+      "id": "7ce73fd2f7d7b3feb7833e2c142f1aee",
+      "timestamp": 1754563684273
     }
   ]
 }
