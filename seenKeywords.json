@@ -1772,13 +1772,8 @@
   "hec recruit": [
     {
       "site": "JobGurus",
-      "id": "76bd6a61cc2088cdac407d6956edaeaa",
-      "timestamp": 1751984135521
-    },
-    {
-      "site": "JobGurus",
-      "id": "9d80ee138593269a503d968bc4d7e7d6",
-      "timestamp": 1751984135521
+      "id": "dd6c515fb39d9f2e64b705e6a021a1d6",
+      "timestamp": 1754578171901
     }
   ],
   "wendernek consulting limited": [
@@ -2309,6 +2304,11 @@
       "site": "JobGurus",
       "id": "d9ca46ae3bb2c8123fb580d0e00649aa",
       "timestamp": 1754573853119
+    },
+    {
+      "site": "JobGurus",
+      "id": "5b94f4a8e29eb0fa75ca91161f1381fc",
+      "timestamp": 1754578171901
     }
   ],
   "flees global services": [
@@ -3770,8 +3770,8 @@
   "fortesoft systems limited": [
     {
       "site": "JobGurus",
-      "id": "3b8727b17fa7df220113b1b48c3ceca0",
-      "timestamp": 1750243470266
+      "id": "4b7b4f6d34843d470e8c93f978b3a9b5",
+      "timestamp": 1754578171901
     }
   ],
   "d&m data solutions": [
@@ -10996,6 +10996,11 @@
       "site": "JobGurus",
       "id": "7c6e3a526afcff69bdc49fb0e04e4bf1",
       "timestamp": 1754573853119
+    },
+    {
+      "site": "JobGurus",
+      "id": "3a8b61f3745602f1b2f2e34d92115959",
+      "timestamp": 1754578171901
     }
   ],
   "deradelight technologies": [
@@ -11350,6 +11355,13 @@
       "site": "JobGurus",
       "id": "2d038658367ccbb95584a84623166d3b",
       "timestamp": 1754576416923
+    }
+  ],
+  "staredge public health concept": [
+    {
+      "site": "JobGurus",
+      "id": "534a716475041161d5f835b115bf382b",
+      "timestamp": 1754578171901
     }
   ]
 }
