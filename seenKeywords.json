@@ -3052,18 +3052,8 @@
   "erisco foods limited": [
     {
       "site": "JobGurus",
-      "id": "530dcebd200e717858509ba21acf257a",
-      "timestamp": 1752592581897
-    },
-    {
-      "site": "JobGurus",
-      "id": "ac0af3a72a3ba2d758a8e1cd93f53fc6",
-      "timestamp": 1752833891556
-    },
-    {
-      "site": "JobGurus",
-      "id": "3714eb348305deb1deea795ae8083746",
-      "timestamp": 1753177582250
+      "id": "ba13795fd12b056ab795d40fc08919d2",
+      "timestamp": 1754579949096
     }
   ],
   "lauvee beauty salon": [
@@ -5013,8 +5003,8 @@
   "future moves recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "34102261958a98118a610bb57c625b24",
-      "timestamp": 1753089897676
+      "id": "452144f0e1dbdfc12d0fafc835bd35d0",
+      "timestamp": 1754579949096
     }
   ],
   "renda limited": [
@@ -11362,6 +11352,27 @@
       "site": "JobGurus",
       "id": "534a716475041161d5f835b115bf382b",
       "timestamp": 1754578171901
+    }
+  ],
+  "domeo resources international (dri)": [
+    {
+      "site": "JobGurus",
+      "id": "ca4c0fd7f1872ef146d03ebf48279257",
+      "timestamp": 1754579949096
+    }
+  ],
+  "pulse nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "cc84abf326465ad6caf110ba2c8f7149",
+      "timestamp": 1754579949096
+    }
+  ],
+  "nairametrics": [
+    {
+      "site": "JobGurus",
+      "id": "22ca6915f59732f52610a9a441564d8f",
+      "timestamp": 1754579949096
     }
   ]
 }
