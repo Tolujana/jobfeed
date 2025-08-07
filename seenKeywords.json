@@ -1083,6 +1083,11 @@
       "site": "JobGurus",
       "id": "1d98a3b4a4010885be12b36e12491f47",
       "timestamp": 1754161952473
+    },
+    {
+      "site": "JobGurus",
+      "id": "6a39a66a12d1468933c42c67fcfb9dbb",
+      "timestamp": 1754561889861
     }
   ],
   "elizabeth maddeux limited": [
@@ -7860,8 +7865,8 @@
   "house of maryjane": [
     {
       "site": "JobGurus",
-      "id": "6494f023d62607fef6f0de87396f2a0c",
-      "timestamp": 1752483229905
+      "id": "a3f4fad1e4c37dfd44e7e56dd2392945",
+      "timestamp": 1754561889861
     }
   ],
   "assets microfinance bank": [
@@ -11252,6 +11257,27 @@
       "site": "JobGurus",
       "id": "c387937c763d7258366b49b5e7141404",
       "timestamp": 1754560077496
+    }
+  ],
+  "avario digitals": [
+    {
+      "site": "JobGurus",
+      "id": "032c9c1e80e0cdbf80e264e6f14402b5",
+      "timestamp": 1754561889861
+    }
+  ],
+  "mainstack": [
+    {
+      "site": "JobGurus",
+      "id": "601d27cb24a9ebef67bdbb0f76f6b53a",
+      "timestamp": 1754561889861
+    }
+  ],
+  "consilium consulting": [
+    {
+      "site": "JobGurus",
+      "id": "2738423382869fcf8e3717c70fb3636b",
+      "timestamp": 1754561889861
     }
   ]
 }
