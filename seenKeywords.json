@@ -10882,6 +10882,11 @@
       "site": "JobGurus",
       "id": "a4d7afda4d759d30dcdc1099022c40ef",
       "timestamp": 1754317252759
+    },
+    {
+      "site": "JobGurus",
+      "id": "c80049b5c3037a435bd7182d469eea44",
+      "timestamp": 1754576416923
     }
   ],
   "lasad ventures": [
@@ -11324,6 +11329,27 @@
       "site": "JobGurus",
       "id": "060db61f8f6e1edc92fddf98ed62932f",
       "timestamp": 1754573853119
+    }
+  ],
+  "slvr wlf digitale limited": [
+    {
+      "site": "JobGurus",
+      "id": "0001e93128a03249117dd723c82e467f",
+      "timestamp": 1754576416923
+    }
+  ],
+  "focus energies": [
+    {
+      "site": "JobGurus",
+      "id": "cf8840f381a3d7b3389ebd25247d513a",
+      "timestamp": 1754576416923
+    }
+  ],
+  "international sos": [
+    {
+      "site": "JobGurus",
+      "id": "2d038658367ccbb95584a84623166d3b",
+      "timestamp": 1754576416923
     }
   ]
 }
