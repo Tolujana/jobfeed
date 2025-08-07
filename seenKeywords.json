@@ -140,16 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "7596060986e505eb998da6990f6e63a8",
-      "timestamp": 1753874130016
-    },
-    {
-      "site": "JobGurus",
-      "id": "662066d76e0308d62acce69299ca0625",
-      "timestamp": 1753874130016
-    },
-    {
-      "site": "JobGurus",
       "id": "1b34a8247105f792f9c5c69b0afddfd7",
       "timestamp": 1753960496586
     },
@@ -157,6 +147,11 @@
       "site": "JobGurus",
       "id": "240b6dde680b4e5663f140783eba53eb",
       "timestamp": 1754314727578
+    },
+    {
+      "site": "JobGurus",
+      "id": "a80ba346d53937934b73c914e7de1b82",
+      "timestamp": 1754558575956
     }
   ],
   "cway group": [
@@ -640,8 +635,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "cca1debc58ee70ec5bcff14ba75ddabe",
-      "timestamp": 1751663688219
+      "id": "e0768a919f0bee7e5453175781ba5c73",
+      "timestamp": 1754558575956
     }
   ],
   "divine infinity college": [
@@ -2309,6 +2304,11 @@
       "site": "JobGurus",
       "id": "dcdf73f07483a5737261deb9d304aaca",
       "timestamp": 1754304588394
+    },
+    {
+      "site": "JobGurus",
+      "id": "b1af3fbb3c9d88c45912166a88e9f4a6",
+      "timestamp": 1754558575956
     }
   ],
   "flees global services": [
@@ -11217,6 +11217,13 @@
       "site": "JobGurus",
       "id": "fb94888a839dbb4801b895a904c69b51",
       "timestamp": 1754499141488
+    }
+  ],
+  "cutstruct technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "48f4541610acc7ab6546e62517208b82",
+      "timestamp": 1754558575956
     }
   ]
 }
