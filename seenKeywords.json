@@ -1764,6 +1764,11 @@
       "site": "JobGurus",
       "id": "d941814897ddc5106627a0d94a253ec0",
       "timestamp": 1754650057473
+    },
+    {
+      "site": "JobGurus",
+      "id": "af365de3e7813eb3e032ba5207e5190f",
+      "timestamp": 1754653191308
     }
   ],
   "wendernek consulting limited": [
@@ -10809,6 +10814,11 @@
       "site": "JobGurus",
       "id": "48994e8f6c82bf4ea0d9aa42f8fe90e8",
       "timestamp": 1754306140665
+    },
+    {
+      "site": "JobGurus",
+      "id": "bf732282cdc59d88db18523979a7f704",
+      "timestamp": 1754653191308
     }
   ],
   "bridge credit limited": [
@@ -11429,6 +11439,27 @@
       "site": "JobGurus",
       "id": "8836c61a84951675893a392f70f1e26d",
       "timestamp": 1754651698047
+    }
+  ],
+  "dakulture empire": [
+    {
+      "site": "JobGurus",
+      "id": "cb1de845981ae29b502d919daa77ddaf",
+      "timestamp": 1754653191308
+    }
+  ],
+  "hotnaija": [
+    {
+      "site": "JobGurus",
+      "id": "b472d55e8b05b5b8ebac796ed6e92291",
+      "timestamp": 1754653191308
+    }
+  ],
+  "mo prints": [
+    {
+      "site": "JobGurus",
+      "id": "2f3ce90ed9648d2c6c54db79539074af",
+      "timestamp": 1754653191308
     }
   ]
 }
