@@ -1934,6 +1934,11 @@
       "site": "JobGurus",
       "id": "eb4b4174605bc74913b34815a95e29b0",
       "timestamp": 1754302805222
+    },
+    {
+      "site": "JobGurus",
+      "id": "b4df61be30901b0a849b74b32af1a8c2",
+      "timestamp": 1754656526744
     }
   ],
   "phillips outsourcing limited": [
@@ -10631,6 +10636,11 @@
       "site": "JobGurus",
       "id": "41a2601c38ec5c59d2486bb0f04d2007",
       "timestamp": 1754472254853
+    },
+    {
+      "site": "JobGurus",
+      "id": "086360907af5d0d9916e029184ef7680",
+      "timestamp": 1754656526744
     }
   ],
   "roychem industries limited": [
@@ -10899,6 +10909,11 @@
       "site": "JobGurus",
       "id": "d222a59e8d740f1822492f9e93cae27e",
       "timestamp": 1754385818768
+    },
+    {
+      "site": "JobGurus",
+      "id": "53d54fedddd8f606e41a7ee135a7d896",
+      "timestamp": 1754656526744
     }
   ],
   "project masters nigeria limited": [
@@ -11460,6 +11475,20 @@
       "site": "JobGurus",
       "id": "2f3ce90ed9648d2c6c54db79539074af",
       "timestamp": 1754653191308
+    }
+  ],
+  "pinasima ventures": [
+    {
+      "site": "JobGurus",
+      "id": "7a8fcce9d652c15cfb39551b90157519",
+      "timestamp": 1754656526744
+    }
+  ],
+  "cordros capital limited": [
+    {
+      "site": "JobGurus",
+      "id": "dfd1390ea8247f3d5ea190729c0c122f",
+      "timestamp": 1754656526744
     }
   ]
 }
