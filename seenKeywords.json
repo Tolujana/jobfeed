@@ -623,13 +623,13 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "07a5d0fea769dcb6b1c14e7ca8596045",
-      "timestamp": 1754048359794
+      "id": "bd2295f141a4d42e079368e700233ad1",
+      "timestamp": 1754311024332
     },
     {
       "site": "JobGurus",
-      "id": "bd2295f141a4d42e079368e700233ad1",
-      "timestamp": 1754311024332
+      "id": "8a0919f93f29e9e8580a75ea7c858e10",
+      "timestamp": 1754666247923
     }
   ],
   "food concepts plc": [
@@ -1520,6 +1520,11 @@
       "site": "JobGurus",
       "id": "7bc147ca1e9c08c10aaad4df77a0b0c8",
       "timestamp": 1754662728620
+    },
+    {
+      "site": "JobGurus",
+      "id": "5d63019dc011785ce2b0b1beaeecbc28",
+      "timestamp": 1754666247923
     }
   ],
   "unified payment services limited": [
@@ -2800,23 +2805,8 @@
   "hobark international limited": [
     {
       "site": "JobGurus",
-      "id": "e755ad5f185525ecbf2bebcea9729e31",
-      "timestamp": 1750963759836
-    },
-    {
-      "site": "JobGurus",
-      "id": "f3d53ba07c443f288bf598d54ba8f02c",
-      "timestamp": 1750963759836
-    },
-    {
-      "site": "JobGurus",
-      "id": "544f46e620007604d499b175a367dbbe",
-      "timestamp": 1751021085167
-    },
-    {
-      "site": "JobGurus",
-      "id": "4fd0a9d32a4f63f651208b0c01b81950",
-      "timestamp": 1751384514171
+      "id": "60208a9719e10f67c46281981390b67b",
+      "timestamp": 1754666247923
     }
   ],
   "elvaridah": [
@@ -3954,8 +3944,8 @@
   "hr-aid consults": [
     {
       "site": "JobGurus",
-      "id": "5039fe8b6668b8ae364067a1ce55225a",
-      "timestamp": 1750326109817
+      "id": "1aed9ea7efdbd20c825703559c3d7896",
+      "timestamp": 1754666247923
     }
   ],
   "nigeria society of engineers (nse)": [
@@ -11498,6 +11488,13 @@
       "site": "JobGurus",
       "id": "d06884b16f696b176ff4a2ba790aceb2",
       "timestamp": 1754664427650
+    }
+  ],
+  "jiji.ng": [
+    {
+      "site": "JobGurus",
+      "id": "2a2dd715a1a1a022876199203d2954d7",
+      "timestamp": 1754666247923
     }
   ]
 }
