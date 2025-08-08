@@ -10302,8 +10302,8 @@
   "gti microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "8081875ee112ed72de6ef4143a969ee0",
-      "timestamp": 1753872470842
+      "id": "61e7af93862a8a802e6d4b75ad8637f2",
+      "timestamp": 1754646478970
     }
   ],
   "anabel apartment and suites": [
@@ -11373,6 +11373,34 @@
       "site": "JobGurus",
       "id": "22ca6915f59732f52610a9a441564d8f",
       "timestamp": 1754579949096
+    }
+  ],
+  "green africa airways limited": [
+    {
+      "site": "JobGurus",
+      "id": "d0173726bafe12bc0852893d7ce6aab8",
+      "timestamp": 1754646478970
+    }
+  ],
+  "l12 secrets": [
+    {
+      "site": "JobGurus",
+      "id": "736b0e6c6f158781a7d7fb07c00214b2",
+      "timestamp": 1754646478970
+    }
+  ],
+  "d.light energy limited": [
+    {
+      "site": "JobGurus",
+      "id": "e7e95ba4d3a7db0ae98a96e328457856",
+      "timestamp": 1754646478970
+    }
+  ],
+  "ngk & co chartered accountants": [
+    {
+      "site": "JobGurus",
+      "id": "2ad4731924638f7a5fbc8723975da478",
+      "timestamp": 1754646478970
     }
   ]
 }
