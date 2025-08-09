@@ -6912,6 +6912,11 @@
       "site": "JobGurus",
       "id": "555827869bd69aafd62cf0a1d5f6e707",
       "timestamp": 1754473780881
+    },
+    {
+      "site": "JobGurus",
+      "id": "06272958fac3d52546c2dbe2d3770aee",
+      "timestamp": 1754732372587
     }
   ],
   "mn global ventures": [
@@ -11500,6 +11505,30 @@
       "site": "JobGurus",
       "id": "2a2dd715a1a1a022876199203d2954d7",
       "timestamp": 1754666247923
+    }
+  ],
+  "global peace development": [
+    {
+      "site": "JobGurus",
+      "id": "4bc595875512ee59577b3bd5433fde69",
+      "timestamp": 1754732372587
+    }
+  ],
+  "bisedge": [
+    {
+      "site": "JobGurus",
+      "id": "a1932434d82ac9077a196b088e1ac0ab",
+      "timestamp": 1754732372587
+    },
+    {
+      "site": "JobGurus",
+      "id": "0a6f763af55c7518e4602085173e09fe",
+      "timestamp": 1754732372587
+    },
+    {
+      "site": "JobGurus",
+      "id": "4d6dc971e1ccb398d7e32ea66a3a55fa",
+      "timestamp": 1754732372587
     }
   ]
 }
