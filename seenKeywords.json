@@ -1676,8 +1676,8 @@
   "allflavors supreme foods": [
     {
       "site": "JobGurus",
-      "id": "8ae9e48b060372e44e54bed5b97d08b8",
-      "timestamp": 1749465915168
+      "id": "b5584fb90684436697c64786be313a2c",
+      "timestamp": 1754734543834
     }
   ],
   "pyfinest resources": [
@@ -6445,8 +6445,8 @@
   "myafrimall logistics limited": [
     {
       "site": "JobGurus",
-      "id": "96029e0791552569bcf1e374dc1cd83e",
-      "timestamp": 1751541237989
+      "id": "efffda1141251ce10e60ec92a8547604",
+      "timestamp": 1754734543834
     }
   ],
   "chellarams nigeria plc": [
@@ -10880,6 +10880,11 @@
       "site": "JobGurus",
       "id": "1c316f8ab6d7e4acb3e93f857eff9bf1",
       "timestamp": 1754317252759
+    },
+    {
+      "site": "JobGurus",
+      "id": "41912f7f6c337d030c7415af407655fb",
+      "timestamp": 1754734543834
     }
   ],
   "hiit plc": [
@@ -11529,6 +11534,20 @@
       "site": "JobGurus",
       "id": "4d6dc971e1ccb398d7e32ea66a3a55fa",
       "timestamp": 1754732372587
+    }
+  ],
+  "cng careertouch service": [
+    {
+      "site": "JobGurus",
+      "id": "0dfc8285d352c6759feb8b7f4fefd6cd",
+      "timestamp": 1754734543834
+    }
+  ],
+  "beaconhill smile clinic": [
+    {
+      "site": "JobGurus",
+      "id": "1d2ece188613eb42690f13d4730d6895",
+      "timestamp": 1754734543834
     }
   ]
 }
