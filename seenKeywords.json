@@ -1039,8 +1039,8 @@
   "zipline": [
     {
       "site": "JobGurus",
-      "id": "3345983bd53b66492a0d8d55b5703c74",
-      "timestamp": 1751125114805
+      "id": "23cab66838252ad90523e34527292b8c",
+      "timestamp": 1754919283800
     }
   ],
   "fave consulting": [
@@ -2024,13 +2024,8 @@
   "rnp services": [
     {
       "site": "JobGurus",
-      "id": "6ac70bd7909b31892fc1cae95d99ce9f",
-      "timestamp": 1753088065684
-    },
-    {
-      "site": "JobGurus",
-      "id": "b6f12ae81b68a64f6b5745fd4d3a7718",
-      "timestamp": 1753088065684
+      "id": "aff42dca51a3abf3c11748d57bd2643f",
+      "timestamp": 1754919283800
     }
   ],
   "the national institute of credit administration": [
@@ -2812,8 +2807,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "0a81b61d0a8b23071ecbe4b948d65d50",
-      "timestamp": 1753712338258
+      "id": "3de49bd3ec67d375a0d263e1cd03574f",
+      "timestamp": 1754919283800
     }
   ],
   "netcom africa": [
@@ -8248,8 +8243,8 @@
   "maybrands limited": [
     {
       "site": "JobGurus",
-      "id": "c1a314c8c694f73371ef5c3f0c2caf31",
-      "timestamp": 1752578067404
+      "id": "90f2f80d28a6aaa451239eecd814cfd4",
+      "timestamp": 1754919283800
     }
   ],
   "adexen recruitment agency": [
@@ -11543,6 +11538,13 @@
       "site": "JobGurus",
       "id": "1d2ece188613eb42690f13d4730d6895",
       "timestamp": 1754734543834
+    }
+  ],
+  "altara credit limited": [
+    {
+      "site": "JobGurus",
+      "id": "9d184d8c10dc575184cf1581619b1fb2",
+      "timestamp": 1754919283800
     }
   ]
 }
