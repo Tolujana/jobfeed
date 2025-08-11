@@ -585,11 +585,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "99f14cc479b546c9d4bf349c9d436f43",
-      "timestamp": 1754057888211
-    },
-    {
-      "site": "JobGurus",
       "id": "2f773d3d52e5913afc54072c42a1b23a",
       "timestamp": 1754480424093
     },
@@ -597,6 +592,11 @@
       "site": "JobGurus",
       "id": "e2d6f050229fad1c9b9fb26522a1444f",
       "timestamp": 1754480424093
+    },
+    {
+      "site": "JobGurus",
+      "id": "4f851473e68f6810e9d7ee2858fa2654",
+      "timestamp": 1754929261348
     }
   ],
   "abbfem group": [
@@ -647,6 +647,11 @@
       "site": "JobGurus",
       "id": "d771641c2d5a861264697ab13e4945ec",
       "timestamp": 1754927040194
+    },
+    {
+      "site": "JobGurus",
+      "id": "5a6b7b1154c6f178bb6120666f9452be",
+      "timestamp": 1754929261348
     }
   ],
   "divine infinity college": [
@@ -3844,8 +3849,8 @@
   "cig motors company limited": [
     {
       "site": "JobGurus",
-      "id": "401c2d208300a60310e5b39af04d8eb3",
-      "timestamp": 1753958876845
+      "id": "7b68c40d08b00bd46c9fb7d053fd8249",
+      "timestamp": 1754929261348
     }
   ],
   "odixcity consulting": [
@@ -5006,6 +5011,11 @@
       "site": "JobGurus",
       "id": "bc63ba66e5f018813386fa9ef41f88e3",
       "timestamp": 1754667884593
+    },
+    {
+      "site": "JobGurus",
+      "id": "44d66a42df65c78c4af14d0faf0563cc",
+      "timestamp": 1754929261348
     }
   ],
   "koins microfinance bank limited": [
@@ -10411,13 +10421,8 @@
   "digitvant microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "4178521caa6c04b5f2ccd1e7fb5805f6",
-      "timestamp": 1753951917621
-    },
-    {
-      "site": "JobGurus",
-      "id": "26a04b025a1b19dd14318e774ee57f3b",
-      "timestamp": 1753953768022
+      "id": "6bfb6d2146e8e344e5f2be38042cc2ee",
+      "timestamp": 1754929261348
     }
   ],
   "quest realtor & consulting services": [
