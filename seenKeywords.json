@@ -67,6 +67,11 @@
       "site": "JobGurus",
       "id": "e35bfd1b50914a411c0d0985f22d50cf",
       "timestamp": 1754662728620
+    },
+    {
+      "site": "JobGurus",
+      "id": "9a36b300f13bf91d277383f19fa2c496",
+      "timestamp": 1754934252281
     }
   ],
   "triple x environmental health consult": [
@@ -11590,6 +11595,27 @@
       "site": "JobGurus",
       "id": "ecb833e972ce77c13045e222e0386134",
       "timestamp": 1754932628188
+    }
+  ],
+  "matrix homes and properties limited": [
+    {
+      "site": "JobGurus",
+      "id": "769341d948bce3612f5046dafab67587",
+      "timestamp": 1754934252281
+    }
+  ],
+  "euracare": [
+    {
+      "site": "JobGurus",
+      "id": "47502b9b6ea0891120fe2a4a1bb08166",
+      "timestamp": 1754934252281
+    }
+  ],
+  "kartel energy": [
+    {
+      "site": "JobGurus",
+      "id": "ce58c7095c6d27d1ebc8cb2a1e307071",
+      "timestamp": 1754934252281
     }
   ]
 }
