@@ -1547,6 +1547,11 @@
       "site": "JobGurus",
       "id": "a65608b3da1abb68c2479d59508a27b9",
       "timestamp": 1754487554703
+    },
+    {
+      "site": "JobGurus",
+      "id": "c70a1416a896e110268f7fe7ecdcf9a3",
+      "timestamp": 1755008164745
     }
   ],
   "straitpay": [
@@ -11718,6 +11723,32 @@
       "site": "JobGurus",
       "id": "69c87508ee85ec005c7acbe751beea2f",
       "timestamp": 1755005469713
+    }
+  ],
+  "turaco logistics": [
+    {
+      "site": "JobGurus",
+      "id": "8387e2de40f304d66056725562d4dd2e",
+      "timestamp": 1755008164745
+    }
+  ],
+  "nairagram": [
+    {
+      "site": "JobGurus",
+      "id": "57945adf0a2351d16e1daff2f6e14a70",
+      "timestamp": 1755008164745
+    },
+    {
+      "site": "JobGurus",
+      "id": "6826a5f3b5bab7367f35a91b21a50e41",
+      "timestamp": 1755008164745
+    }
+  ],
+  "strivo": [
+    {
+      "site": "JobGurus",
+      "id": "a828a2609fbfd00140dc4526c072f028",
+      "timestamp": 1755008164745
     }
   ]
 }
