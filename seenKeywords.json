@@ -1621,8 +1621,8 @@
   "maxitech global investment limited": [
     {
       "site": "JobGurus",
-      "id": "3e777b697c632e3b327a0a5e65b8d43c",
-      "timestamp": 1752838761934
+      "id": "b48e709e3da948da9fc25d033027177b",
+      "timestamp": 1755011850042
     }
   ],
   "dreamworks global logistics limited": [
@@ -6240,8 +6240,8 @@
   "nigeria sinotruck limited": [
     {
       "site": "JobGurus",
-      "id": "9b16e8293b010dfc5a2e0240c5d20b91",
-      "timestamp": 1753097989068
+      "id": "53caa1fd486fe731490b5142f8a2861a",
+      "timestamp": 1755011850042
     }
   ],
   "lington & bernie consulting limited": [
@@ -11761,6 +11761,13 @@
       "site": "JobGurus",
       "id": "612051f0c1c179cdc7fcdbb254d6ebad",
       "timestamp": 1755009874048
+    }
+  ],
+  "elin group limited": [
+    {
+      "site": "JobGurus",
+      "id": "81e1431695a4d022a022903192dd184f",
+      "timestamp": 1755011850042
     }
   ]
 }
