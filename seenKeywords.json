@@ -1552,6 +1552,11 @@
       "site": "JobGurus",
       "id": "c70a1416a896e110268f7fe7ecdcf9a3",
       "timestamp": 1755008164745
+    },
+    {
+      "site": "JobGurus",
+      "id": "d973fba5c9d71cf5c5b008a371310459",
+      "timestamp": 1755009874048
     }
   ],
   "straitpay": [
@@ -5695,8 +5700,8 @@
   "oneland africa": [
     {
       "site": "JobGurus",
-      "id": "71298975959de9078f274a11866e0ac7",
-      "timestamp": 1751290202806
+      "id": "86dc00421390437cb4bc7c27b9367cca",
+      "timestamp": 1755009874048
     }
   ],
   "techdroid integrated services": [
@@ -6360,8 +6365,8 @@
   "agricare std plus limited": [
     {
       "site": "JobGurus",
-      "id": "25000dd6c5ac185adb763a350c57bc85",
-      "timestamp": 1751534271574
+      "id": "c819366492b8ba8783455f1ceb232b6b",
+      "timestamp": 1755009874048
     }
   ],
   "bluradish": [
@@ -11749,6 +11754,13 @@
       "site": "JobGurus",
       "id": "a828a2609fbfd00140dc4526c072f028",
       "timestamp": 1755008164745
+    }
+  ],
+  "cfl group limited": [
+    {
+      "site": "JobGurus",
+      "id": "612051f0c1c179cdc7fcdbb254d6ebad",
+      "timestamp": 1755009874048
     }
   ]
 }
