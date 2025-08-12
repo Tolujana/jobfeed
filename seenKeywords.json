@@ -145,18 +145,13 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "1b34a8247105f792f9c5c69b0afddfd7",
-      "timestamp": 1753960496586
-    },
-    {
-      "site": "JobGurus",
-      "id": "240b6dde680b4e5663f140783eba53eb",
-      "timestamp": 1754314727578
-    },
-    {
-      "site": "JobGurus",
       "id": "a80ba346d53937934b73c914e7de1b82",
       "timestamp": 1754558575956
+    },
+    {
+      "site": "JobGurus",
+      "id": "68f5a63ff95291b407fbd8eacb4addc1",
+      "timestamp": 1754995514674
     }
   ],
   "cway group": [
@@ -11627,6 +11622,34 @@
       "site": "JobGurus",
       "id": "d0e3021d582b26194882c566287ce370",
       "timestamp": 1754993864992
+    }
+  ],
+  "rentachef ng": [
+    {
+      "site": "JobGurus",
+      "id": "ff3f7c7531c8726f5ac49b845a1ebd1a",
+      "timestamp": 1754995514674
+    }
+  ],
+  "broadlog support services limited": [
+    {
+      "site": "JobGurus",
+      "id": "0c7431bafbf60ae66f8493588779da9a",
+      "timestamp": 1754995514674
+    }
+  ],
+  "headstart private school": [
+    {
+      "site": "JobGurus",
+      "id": "d1ddbf3e8746db9edcd7b6f76d3ec902",
+      "timestamp": 1754995514674
+    }
+  ],
+  "sambus geospatial": [
+    {
+      "site": "JobGurus",
+      "id": "6d088d68cd6108ccc0a62b7822742bbe",
+      "timestamp": 1754995514674
     }
   ]
 }
