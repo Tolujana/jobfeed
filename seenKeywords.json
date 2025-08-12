@@ -249,8 +249,8 @@
   "outcess solutions nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "3e70d0a22d62764af41faa0b4b89d3c8",
-      "timestamp": 1748897149712
+      "id": "380257fb9dc06cfd95c4779aca18a221",
+      "timestamp": 1754990321323
     }
   ],
   "sap nigeria": [
@@ -6169,13 +6169,8 @@
   "redswitch collections": [
     {
       "site": "JobGurus",
-      "id": "fc99c86be99eddee49470df35b3b49cb",
-      "timestamp": 1751465742903
-    },
-    {
-      "site": "JobGurus",
-      "id": "cfd80a84fa3c88155e0430a1b609d106",
-      "timestamp": 1751482175033
+      "id": "7a00c30d05a809bd1126c0fbf0d99c1f",
+      "timestamp": 1754990321323
     }
   ],
   "hoop telecoms limited": [
@@ -9488,13 +9483,8 @@
   "j3 foods and store international": [
     {
       "site": "JobGurus",
-      "id": "b5014a87549ba2a7c0b41e66462da7c5",
-      "timestamp": 1753282058082
-    },
-    {
-      "site": "JobGurus",
-      "id": "e89a57a8776f75af85f1c159272c2ed1",
-      "timestamp": 1753283912960
+      "id": "b319920d81253dc7d51b7ec1669269e0",
+      "timestamp": 1754990321323
     }
   ],
   "arco worldwide services limited": [
@@ -11616,6 +11606,13 @@
       "site": "JobGurus",
       "id": "ce58c7095c6d27d1ebc8cb2a1e307071",
       "timestamp": 1754934252281
+    }
+  ],
+  "hop mobile transport": [
+    {
+      "site": "JobGurus",
+      "id": "8561315421ba642f3090ab64e51ee3e9",
+      "timestamp": 1754990321323
     }
   ]
 }
