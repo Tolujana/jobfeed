@@ -5931,13 +5931,8 @@
   "primovet engineering limited": [
     {
       "site": "JobGurus",
-      "id": "46b4d809ef65426efe5809e12aaa63d4",
-      "timestamp": 1751359773386
-    },
-    {
-      "site": "JobGurus",
-      "id": "d4329d93a31186dcf8f7d73ae95193b1",
-      "timestamp": 1751488837459
+      "id": "fd2babfa2c5453984f252c641f6db2c9",
+      "timestamp": 1755101799023
     }
   ],
   "alaba shonibare & co": [
@@ -6236,8 +6231,8 @@
   "médecins sans frontières": [
     {
       "site": "JobGurus",
-      "id": "32b21b94b3ec4c14c5b286bef07a4d9a",
-      "timestamp": 1751470969240
+      "id": "4811f59e565995114e79a47ba49b3c36",
+      "timestamp": 1755101799023
     }
   ],
   "distritech distribution": [
@@ -9866,8 +9861,8 @@
   "grand towers limited": [
     {
       "site": "JobGurus",
-      "id": "15d273e7ecf913295813203949858693",
-      "timestamp": 1753696123122
+      "id": "c973b97fe2eb9df8a3a91a2c8478d618",
+      "timestamp": 1755101799023
     }
   ],
   "careers verified": [
@@ -11849,6 +11844,20 @@
       "site": "JobGurus",
       "id": "d69a0c50e60b199385d41bfb61b17ac4",
       "timestamp": 1755098049718
+    }
+  ],
+  "levitikal group": [
+    {
+      "site": "JobGurus",
+      "id": "424671a5183c68ef932381e550b81029",
+      "timestamp": 1755101799023
+    }
+  ],
+  "two angels pharmacy": [
+    {
+      "site": "JobGurus",
+      "id": "6e998421527156e7103cac277d601adc",
+      "timestamp": 1755101799023
     }
   ]
 }
