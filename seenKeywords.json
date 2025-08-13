@@ -1156,8 +1156,8 @@
   "u connect human resources limited": [
     {
       "site": "JobGurus",
-      "id": "a8e7a39d34b502ca702534f73315fc01",
-      "timestamp": 1750422739440
+      "id": "45f8248fbe8419df14706eda44f96966",
+      "timestamp": 1755111008492
     }
   ],
   "carogas energy": [
@@ -4122,13 +4122,8 @@
   "roqqu nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "e5e9aff4bef090be9def1c64d2496a38",
-      "timestamp": 1750347672974
-    },
-    {
-      "site": "JobGurus",
-      "id": "f6ad4097aca6a04fbd17aa5ab3e2dce6",
-      "timestamp": 1750778251598
+      "id": "2264e53fde52d01332b651a9c745bbcd",
+      "timestamp": 1755111008492
     }
   ],
   "northbury british school": [
@@ -11934,6 +11929,11 @@
       "site": "JobGurus",
       "id": "ddeb28654e33efcfbe7dbab8191ce828",
       "timestamp": 1755109314978
+    },
+    {
+      "site": "JobGurus",
+      "id": "890be6be279e29c1c7256ad41a3aeb57",
+      "timestamp": 1755111008492
     }
   ],
   "justhr": [
@@ -11941,6 +11941,20 @@
       "site": "JobGurus",
       "id": "c2954531dbf6b562c640aeb738b1c837",
       "timestamp": 1755109314978
+    }
+  ],
+  "zumera property development limited": [
+    {
+      "site": "JobGurus",
+      "id": "e2e83f44bc2d01e9a2983814d2199816",
+      "timestamp": 1755111008492
+    }
+  ],
+  "polymath real estate limited": [
+    {
+      "site": "JobGurus",
+      "id": "97a39b6472e90e40384afb96a54ed40c",
+      "timestamp": 1755111008492
     }
   ]
 }
