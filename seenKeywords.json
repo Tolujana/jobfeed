@@ -667,6 +667,11 @@
       "site": "JobGurus",
       "id": "5a6b7b1154c6f178bb6120666f9452be",
       "timestamp": 1754929261348
+    },
+    {
+      "site": "JobGurus",
+      "id": "510f68f0243168a3341c90cf2977bb6b",
+      "timestamp": 1755105164287
     }
   ],
   "divine infinity college": [
@@ -2947,8 +2952,18 @@
   "sunfi technology solutions limited": [
     {
       "site": "JobGurus",
-      "id": "6aee1ebfe180e7485bb0e568a284bf05",
-      "timestamp": 1749822505671
+      "id": "cb4d3d229c3aac5b52055e573df8e3f7",
+      "timestamp": 1755105164287
+    },
+    {
+      "site": "JobGurus",
+      "id": "41ed37cea0323ca22d66527fa04e9a51",
+      "timestamp": 1755105164287
+    },
+    {
+      "site": "JobGurus",
+      "id": "4d79447b2e54442f6463c0b04e2bc8d6",
+      "timestamp": 1755105164287
     }
   ],
   "afripoint group limited": [
@@ -11884,6 +11899,13 @@
       "site": "JobGurus",
       "id": "80ed7f273419a9a1520f579dd82d9639",
       "timestamp": 1755103436863
+    }
+  ],
+  "virgin forest energy limited": [
+    {
+      "site": "JobGurus",
+      "id": "f90401574055357141f147a8b06ad2c7",
+      "timestamp": 1755105164287
     }
   ]
 }
