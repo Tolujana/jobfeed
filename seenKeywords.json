@@ -152,6 +152,11 @@
       "site": "JobGurus",
       "id": "68f5a63ff95291b407fbd8eacb4addc1",
       "timestamp": 1754995514674
+    },
+    {
+      "site": "JobGurus",
+      "id": "1fc0e7ec6e955b813bbfa60d22fe327d",
+      "timestamp": 1755080285374
     }
   ],
   "cway group": [
@@ -296,8 +301,8 @@
   "trinity financial": [
     {
       "site": "JobGurus",
-      "id": "c080602f63b334e3822dc8b6574cdfa3",
-      "timestamp": 1754385818768
+      "id": "6f1d30dda093a005ed313074c996e635",
+      "timestamp": 1755080285374
     }
   ],
   "a&r group": [
@@ -3352,8 +3357,8 @@
   "prestigious homes limited": [
     {
       "site": "JobGurus",
-      "id": "8686d53a9ab57a65d3213446b85b3a0d",
-      "timestamp": 1750099755187
+      "id": "e460ba6a3f7cde7f96c15b387e057a9a",
+      "timestamp": 1755080285374
     }
   ],
   "excellent jobs": [
@@ -11768,6 +11773,20 @@
       "site": "JobGurus",
       "id": "81e1431695a4d022a022903192dd184f",
       "timestamp": 1755011850042
+    }
+  ],
+  "african industries group (aig)": [
+    {
+      "site": "JobGurus",
+      "id": "b771baad5859bc83c9d9008cbcb6d38e",
+      "timestamp": 1755080285374
+    }
+  ],
+  "whiten lighten": [
+    {
+      "site": "JobGurus",
+      "id": "cd1b9b6b9d2d682b54446c807717be08",
+      "timestamp": 1755080285374
     }
   ]
 }
