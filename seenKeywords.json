@@ -263,18 +263,8 @@
   "choice talents ng": [
     {
       "site": "JobGurus",
-      "id": "b93655e424de655b4892bac580bc0164",
-      "timestamp": 1753107511072
-    },
-    {
-      "site": "JobGurus",
-      "id": "3c63991e999dd3315498c45790c39547",
-      "timestamp": 1753112683076
-    },
-    {
-      "site": "JobGurus",
-      "id": "3edc2bf7de50b5e92bb5b9ef31f42e40",
-      "timestamp": 1753112683076
+      "id": "d4480d653917dadfbe61d832cde19b9e",
+      "timestamp": 1755171477270
     }
   ],
   "greengrass investment limited": [
@@ -9386,8 +9376,8 @@
   "karishma": [
     {
       "site": "JobGurus",
-      "id": "99024612f5589116c4c7f50c3c6f0e6c",
-      "timestamp": 1753260696254
+      "id": "23d1f69d3e40a41d7702384217154c65",
+      "timestamp": 1755171477270
     }
   ],
   "nuru nigeria": [
@@ -11997,6 +11987,27 @@
       "site": "JobGurus",
       "id": "26aecfca635c13ea98773a5b33a1c1f9",
       "timestamp": 1755170052018
+    }
+  ],
+  "inspire polytechnic": [
+    {
+      "site": "JobGurus",
+      "id": "6245b5d78cd673b6c7c435ca5288aaaf",
+      "timestamp": 1755171477270
+    }
+  ],
+  "accor hotel": [
+    {
+      "site": "JobGurus",
+      "id": "eb0038301cb50e2811ab8fd98ed414ec",
+      "timestamp": 1755171477270
+    }
+  ],
+  "enyata": [
+    {
+      "site": "JobGurus",
+      "id": "a578e49650abe2f19044afdef55a5b03",
+      "timestamp": 1755171477270
     }
   ]
 }
