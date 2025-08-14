@@ -630,11 +630,6 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "e0768a919f0bee7e5453175781ba5c73",
-      "timestamp": 1754558575956
-    },
-    {
-      "site": "JobGurus",
       "id": "d771641c2d5a861264697ab13e4945ec",
       "timestamp": 1754927040194
     },
@@ -647,6 +642,11 @@
       "site": "JobGurus",
       "id": "510f68f0243168a3341c90cf2977bb6b",
       "timestamp": 1755105164287
+    },
+    {
+      "site": "JobGurus",
+      "id": "a663f45f15c8d03134ca7620955ff0f3",
+      "timestamp": 1755182655417
     }
   ],
   "divine infinity college": [
@@ -2239,8 +2239,8 @@
   "speedaf express": [
     {
       "site": "JobGurus",
-      "id": "f8ec6a6433c12cb8d0a4c0779dd7427c",
-      "timestamp": 1752527735582
+      "id": "f3b0e4bb0388cfb7e0f72b3fce200261",
+      "timestamp": 1755182655417
     }
   ],
   "ujt logistics services limited": [
@@ -4902,8 +4902,8 @@
   "eunisell limited": [
     {
       "site": "JobGurus",
-      "id": "2ad07793b74b01574f1e5360154300d1",
-      "timestamp": 1753458204066
+      "id": "de409e6ed205000397f00ec039ed72f1",
+      "timestamp": 1755182655417
     }
   ],
   "stardom lounge": [
@@ -12035,6 +12035,13 @@
       "site": "JobGurus",
       "id": "c3452cd4a4d1ad84d606804f11526891",
       "timestamp": 1755180947710
+    }
+  ],
+  "quantum group": [
+    {
+      "site": "JobGurus",
+      "id": "765688fbd4c0eed1d3b836cfd9cfc12a",
+      "timestamp": 1755182655417
     }
   ]
 }
