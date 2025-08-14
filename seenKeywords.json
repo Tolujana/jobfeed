@@ -1026,13 +1026,13 @@
   "canonical nigeria": [
     {
       "site": "JobGurus",
-      "id": "e44a226599fe86d2cbc2a6a691400252",
-      "timestamp": 1753792586860
+      "id": "1d76451244f947fbd2cd9d25681d4654",
+      "timestamp": 1755166677423
     },
     {
       "site": "JobGurus",
-      "id": "5aad29b32f357f0dce75503f050f6c0f",
-      "timestamp": 1753955242436
+      "id": "50d2e9cc87a55c5ac056c76675a102b7",
+      "timestamp": 1755166677423
     }
   ],
   "beebeejump international limited": [
@@ -9148,11 +9148,6 @@
   "bukka hut restaurant": [
     {
       "site": "JobGurus",
-      "id": "25115b4ccbab0de912dc2d916afa9dfd",
-      "timestamp": 1754480424093
-    },
-    {
-      "site": "JobGurus",
       "id": "8d47cfb60324069bc7ced9207a9e7a56",
       "timestamp": 1754991749831
     },
@@ -9160,6 +9155,11 @@
       "site": "JobGurus",
       "id": "f0f6afad715ce70f77b0301c38634fac",
       "timestamp": 1754998668937
+    },
+    {
+      "site": "JobGurus",
+      "id": "035a631ea8bd3953f7e05659c3ff6542",
+      "timestamp": 1755166677423
     }
   ],
   "seflam sgl limited": [
@@ -11962,6 +11962,20 @@
       "site": "JobGurus",
       "id": "4ebaf3fdde5561bc69e253b708e11194",
       "timestamp": 1755164612749
+    }
+  ],
+  "edubulb consulting": [
+    {
+      "site": "JobGurus",
+      "id": "b89db733585d3a757791ee4575a9a698",
+      "timestamp": 1755166677423
+    }
+  ],
+  "gbfoods africa": [
+    {
+      "site": "JobGurus",
+      "id": "e9d593b34490e8a0e8ff5d9864f06476",
+      "timestamp": 1755166677423
     }
   ]
 }
