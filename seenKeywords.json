@@ -1033,6 +1033,11 @@
       "site": "JobGurus",
       "id": "50d2e9cc87a55c5ac056c76675a102b7",
       "timestamp": 1755166677423
+    },
+    {
+      "site": "JobGurus",
+      "id": "390f253dcfefad9cda606b455f48948e",
+      "timestamp": 1755168369519
     }
   ],
   "beebeejump international limited": [
@@ -2583,8 +2588,8 @@
   "mantrac": [
     {
       "site": "JobGurus",
-      "id": "5ffb5346c644a94cfaf0b57873501056",
-      "timestamp": 1754307635153
+      "id": "7294d2dfe6cec8ab21e6c0a1afcf6db1",
+      "timestamp": 1755168369519
     }
   ],
   "amani advisory limited": [
@@ -6887,8 +6892,8 @@
   "courier and logistics management institute": [
     {
       "site": "JobGurus",
-      "id": "ffa2c28d1c3ef9aae80574acea561ed8",
-      "timestamp": 1751737124304
+      "id": "bf13718a521fa950cb5f5da61b5b7edd",
+      "timestamp": 1755168369519
     }
   ],
   "5thwall consulting": [
@@ -8052,13 +8057,8 @@
   "talent-nest recruitment hub": [
     {
       "site": "JobGurus",
-      "id": "87752a9d348f0d328b6ae3d02792d477",
-      "timestamp": 1752524313208
-    },
-    {
-      "site": "JobGurus",
-      "id": "177ba14e51a848bd22247f7ad8a7da66",
-      "timestamp": 1752524313208
+      "id": "55a7be0945e3386e57d13dd56cc4bf3c",
+      "timestamp": 1755168369519
     }
   ],
   "firstangle ng limited": [
@@ -11976,6 +11976,13 @@
       "site": "JobGurus",
       "id": "e9d593b34490e8a0e8ff5d9864f06476",
       "timestamp": 1755166677423
+    }
+  ],
+  "lauvee beauty salon and spa": [
+    {
+      "site": "JobGurus",
+      "id": "b6d40d825e45c8b15d6d97fefee89f7d",
+      "timestamp": 1755168369519
     }
   ]
 }
