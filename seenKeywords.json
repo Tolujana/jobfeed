@@ -4317,8 +4317,8 @@
   "volition capital": [
     {
       "site": "JobGurus",
-      "id": "1e024dee7b7665d20ca920b22947b269",
-      "timestamp": 1752691944782
+      "id": "ebbd6f9f25bca1d0a0a34a9a67165c9e",
+      "timestamp": 1755178370729
     }
   ],
   "mogtech group limited": [
@@ -6372,13 +6372,8 @@
   "bluradish": [
     {
       "site": "JobGurus",
-      "id": "8ecdf66de389726e28571ade3ab99e5b",
-      "timestamp": 1751535776554
-    },
-    {
-      "site": "JobGurus",
-      "id": "0d454af96469b47f62b64d8b6ce6887a",
-      "timestamp": 1751552167670
+      "id": "d03fbfc3718b5291420908cccbbd685f",
+      "timestamp": 1755178370729
     }
   ],
   "optimed pharmacy": [
@@ -12005,6 +12000,27 @@
       "site": "JobGurus",
       "id": "e826bfee092d44d9f58ac735a643546f",
       "timestamp": 1755174894781
+    }
+  ],
+  "sefa minimart provision store": [
+    {
+      "site": "JobGurus",
+      "id": "bfe64f186c4ea269c99b7270f70857b8",
+      "timestamp": 1755178370729
+    }
+  ],
+  "termii": [
+    {
+      "site": "JobGurus",
+      "id": "758615db1da4afa112e4101d3527edff",
+      "timestamp": 1755178370729
+    }
+  ],
+  "zylus homes": [
+    {
+      "site": "JobGurus",
+      "id": "3da8c86c1738857f33a19cb4bdff1c87",
+      "timestamp": 1755178370729
     }
   ]
 }
