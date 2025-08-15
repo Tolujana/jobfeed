@@ -1165,8 +1165,8 @@
   "baker industries limited": [
     {
       "site": "JobGurus",
-      "id": "92499248f8da5e09fc91147b096603ba",
-      "timestamp": 1752520390828
+      "id": "5559fc5cacdf63ac51dc4e7f190bf06a",
+      "timestamp": 1755268984867
     }
   ],
   "gbenga badejo and co.": [
@@ -5298,6 +5298,11 @@
       "site": "JobGurus",
       "id": "4667a0b9b68fdcf7277066aafbeabb1b",
       "timestamp": 1754736191302
+    },
+    {
+      "site": "JobGurus",
+      "id": "2e0a651a3b39985d6304e4eaf13ebc0f",
+      "timestamp": 1755268984867
     }
   ],
   "mercy corps": [
@@ -12135,6 +12140,13 @@
       "site": "JobGurus",
       "id": "5b5091344cd750d4e5a2a54b70cf85db",
       "timestamp": 1755265632106
+    }
+  ],
+  "lohachy farms": [
+    {
+      "site": "JobGurus",
+      "id": "f0c1c15547bad64e4779cce6e158e00b",
+      "timestamp": 1755268984867
     }
   ]
 }
