@@ -3407,8 +3407,8 @@
   "malaria consortium": [
     {
       "site": "JobGurus",
-      "id": "ea763f14b0a6e1886093da586a55c738",
-      "timestamp": 1750157094363
+      "id": "57acb5f951401b5f8156b9cf1aad2abe",
+      "timestamp": 1755250861679
     }
   ],
   "first bank of nigeria limited": [
@@ -5768,6 +5768,11 @@
       "site": "JobGurus",
       "id": "433e0d27a634eac59d86b56666b37d4f",
       "timestamp": 1754651698047
+    },
+    {
+      "site": "JobGurus",
+      "id": "661cdc1a68975a5a73ac0b7e163b3434",
+      "timestamp": 1755250861679
     }
   ],
   "mfs financial services limited": [
@@ -7756,13 +7761,13 @@
   "eha clinics": [
     {
       "site": "JobGurus",
-      "id": "ee7e6decb0d97fbd02f77e5bd20fc6b9",
-      "timestamp": 1754570197736
+      "id": "2f43071f5f6d5110df9cef9d787db384",
+      "timestamp": 1754925480263
     },
     {
       "site": "JobGurus",
-      "id": "2f43071f5f6d5110df9cef9d787db384",
-      "timestamp": 1754925480263
+      "id": "7d76869b191c7142a863616f71e93a7a",
+      "timestamp": 1755250861679
     }
   ],
   "queensdrive estates limited": [
@@ -12042,6 +12047,20 @@
       "site": "JobGurus",
       "id": "765688fbd4c0eed1d3b836cfd9cfc12a",
       "timestamp": 1755182655417
+    }
+  ],
+  "staffora global limited": [
+    {
+      "site": "JobGurus",
+      "id": "70280b1f294480f959e7bec4a8f63888",
+      "timestamp": 1755250861679
+    }
+  ],
+  "kafu consult associates": [
+    {
+      "site": "JobGurus",
+      "id": "e09813dfe678c13031b1bfaf7d08040e",
+      "timestamp": 1755250861679
     }
   ]
 }
