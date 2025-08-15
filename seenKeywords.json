@@ -837,6 +837,11 @@
       "site": "JobGurus",
       "id": "40531786d82b828e2c21a97f9c6560bd",
       "timestamp": 1755261115054
+    },
+    {
+      "site": "JobGurus",
+      "id": "d62c1425d45bfaa4852bb52ca315b70a",
+      "timestamp": 1755265632106
     }
   ],
   "mkh properties limited": [
@@ -1581,13 +1586,8 @@
   "felton energy services limited": [
     {
       "site": "JobGurus",
-      "id": "6cb3f5703589f47b7e5471b411ad0698",
-      "timestamp": 1752333338044
-    },
-    {
-      "site": "JobGurus",
-      "id": "46287acfabcc110c58eca2c524bb468d",
-      "timestamp": 1752333338044
+      "id": "784d2a30058e016d1fc6d34e061d57ee",
+      "timestamp": 1755265632106
     }
   ],
   "toasties limited": [
@@ -9740,18 +9740,8 @@
   "quicky chillis restaurant": [
     {
       "site": "JobGurus",
-      "id": "536241598fb107d14191b76ec32b5b7d",
-      "timestamp": 1753452925150
-    },
-    {
-      "site": "JobGurus",
-      "id": "56c53495fc1c3eaae7e11f92cc96b8f6",
-      "timestamp": 1753460440346
-    },
-    {
-      "site": "JobGurus",
-      "id": "dd4cbb3cfc20c400ac8d43fadd0342e1",
-      "timestamp": 1753706174741
+      "id": "e0b9470d9dc38a405ca250bda6a2b97f",
+      "timestamp": 1755265632106
     }
   ],
   "qquicky chillis restaurant": [
@@ -12138,6 +12128,13 @@
       "site": "JobGurus",
       "id": "0ab1606816c2f021b1d45e153fbdb89b",
       "timestamp": 1755264453306
+    }
+  ],
+  "nuggets microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "5b5091344cd750d4e5a2a54b70cf85db",
+      "timestamp": 1755265632106
     }
   ]
 }
