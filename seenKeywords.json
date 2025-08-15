@@ -6906,13 +6906,8 @@
   "brilliant performance solutions limited": [
     {
       "site": "JobGurus",
-      "id": "2f07e507c4558a98e287cdaf8ed6718c",
-      "timestamp": 1753181283197
-    },
-    {
-      "site": "JobGurus",
-      "id": "c13ac9b04c8b44ad8680e2ba070ada67",
-      "timestamp": 1753191307239
+      "id": "320275b4339f0eff0a11d3f7b41db86d",
+      "timestamp": 1755270977630
     }
   ],
   "d-degree digital hub limited": [
@@ -11404,8 +11399,8 @@
   "pulse nigeria": [
     {
       "site": "JobGurus",
-      "id": "cc84abf326465ad6caf110ba2c8f7149",
-      "timestamp": 1754579949096
+      "id": "08bb2a2dbc01b68c5374e8ea8cce370f",
+      "timestamp": 1755270977630
     }
   ],
   "nairametrics": [
@@ -12147,6 +12142,27 @@
       "site": "JobGurus",
       "id": "f0c1c15547bad64e4779cce6e158e00b",
       "timestamp": 1755268984867
+    }
+  ],
+  "de-net optimum communication limited": [
+    {
+      "site": "JobGurus",
+      "id": "4594d4c079662aed8e01fe48de7fd424",
+      "timestamp": 1755270977630
+    }
+  ],
+  "vestates": [
+    {
+      "site": "JobGurus",
+      "id": "98f3ab3fcb106cd723926e8d8da48f23",
+      "timestamp": 1755270977630
+    }
+  ],
+  "the place": [
+    {
+      "site": "JobGurus",
+      "id": "ef935834d6bf18d71b7031ac6685213b",
+      "timestamp": 1755270977630
     }
   ]
 }
