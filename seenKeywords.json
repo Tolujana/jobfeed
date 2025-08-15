@@ -830,8 +830,13 @@
   "optimus bank": [
     {
       "site": "JobGurus",
-      "id": "a383c5f6186c96b8b6f3383b4e0cdfbc",
-      "timestamp": 1754401113609
+      "id": "8e9efe3c42cc7315dab895d48909620d",
+      "timestamp": 1755261115054
+    },
+    {
+      "site": "JobGurus",
+      "id": "40531786d82b828e2c21a97f9c6560bd",
+      "timestamp": 1755261115054
     }
   ],
   "mkh properties limited": [
@@ -3869,6 +3874,11 @@
       "site": "JobGurus",
       "id": "7db25b2b8b9572a6fb6a4f67f18adc79",
       "timestamp": 1754993864992
+    },
+    {
+      "site": "JobGurus",
+      "id": "27a26d84b144f6d0ba1fda8771e4730b",
+      "timestamp": 1755261115054
     }
   ],
   "cig motors company limited": [
@@ -11619,6 +11629,11 @@
       "site": "JobGurus",
       "id": "47502b9b6ea0891120fe2a4a1bb08166",
       "timestamp": 1754934252281
+    },
+    {
+      "site": "JobGurus",
+      "id": "cdb2b45a681092b50995eee71822234c",
+      "timestamp": 1755261115054
     }
   ],
   "kartel energy": [
@@ -12109,6 +12124,13 @@
       "site": "JobGurus",
       "id": "9fe28918525f5b25f54eea39784f1453",
       "timestamp": 1755257817283
+    }
+  ],
+  "first ally capital": [
+    {
+      "site": "JobGurus",
+      "id": "92b5a8dab03b2201bcf289324c5d9eb9",
+      "timestamp": 1755261115054
     }
   ]
 }
