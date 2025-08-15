@@ -3907,6 +3907,11 @@
       "site": "JobGurus",
       "id": "304e673903b85dbecb6fe6e0528ae261",
       "timestamp": 1755106710674
+    },
+    {
+      "site": "JobGurus",
+      "id": "e380ac97e22740db67b902df8c437ab1",
+      "timestamp": 1755256416612
     }
   ],
   "e-mmerx world limited": [
@@ -7862,8 +7867,8 @@
   "assets microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "de14095a9a17bfb3cc811ca45e64994c",
-      "timestamp": 1752483229905
+      "id": "2d0826158c1b0b932d2aa66051002472",
+      "timestamp": 1755256416612
     }
   ],
   "revenstrat cnsulting": [
@@ -8902,8 +8907,8 @@
   "alpha mead group": [
     {
       "site": "JobGurus",
-      "id": "a35a5795933914cdc9f4cb4909284fe2",
-      "timestamp": 1752848189128
+      "id": "ffd8c4e6603f35085d9f193eeefa8f13",
+      "timestamp": 1755256416612
     }
   ],
   "providus bank plc": [
@@ -12071,6 +12076,13 @@
       "site": "JobGurus",
       "id": "eb9276bfe7fbfa96389ded7edf62c510",
       "timestamp": 1755254653080
+    }
+  ],
+  "yaliam press limited": [
+    {
+      "site": "JobGurus",
+      "id": "4dd11df462d293ab88225d7b821c3a51",
+      "timestamp": 1755256416612
     }
   ]
 }
