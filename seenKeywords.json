@@ -844,8 +844,13 @@
   "unocasa limited": [
     {
       "site": "JobGurus",
-      "id": "631c11ba3f50639e9d7f9e0600f7d196",
-      "timestamp": 1753456666104
+      "id": "dd90c3deb1fd0958d0572a6ab0fd424c",
+      "timestamp": 1755257817283
+    },
+    {
+      "site": "JobGurus",
+      "id": "3d5442421b8a799146a5e26eb4966c33",
+      "timestamp": 1755257817283
     }
   ],
   "elvaridah limited": [
@@ -12083,6 +12088,27 @@
       "site": "JobGurus",
       "id": "4dd11df462d293ab88225d7b821c3a51",
       "timestamp": 1755256416612
+    }
+  ],
+  "lamlan digital solution limited": [
+    {
+      "site": "JobGurus",
+      "id": "a9f0778710ded46bbbd72c28af094385",
+      "timestamp": 1755257817283
+    }
+  ],
+  "dkt international nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "19eba569857a065f0b43c1f2c3ec571b",
+      "timestamp": 1755257817283
+    }
+  ],
+  "bosak microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "9fe28918525f5b25f54eea39784f1453",
+      "timestamp": 1755257817283
     }
   ]
 }
