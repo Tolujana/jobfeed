@@ -2758,13 +2758,8 @@
   "hrleverage africa": [
     {
       "site": "JobGurus",
-      "id": "81e95a7b4f9421932b97a6b28619fc17",
-      "timestamp": 1749742950417
-    },
-    {
-      "site": "JobGurus",
-      "id": "9414cdaef559dc4641a56559fdf8c8ab",
-      "timestamp": 1749742950417
+      "id": "fd9da8f4fa34584ca09bc16e57802046",
+      "timestamp": 1755355159243
     }
   ],
   "hrleverage": [
@@ -8178,6 +8173,11 @@
       "site": "JobGurus",
       "id": "f49352a88ef4ff877eb1d29d592afc70",
       "timestamp": 1755353586202
+    },
+    {
+      "site": "JobGurus",
+      "id": "5a866f82a3bf362bce11886fd3f599e4",
+      "timestamp": 1755355159243
     }
   ],
   "danish refugee council": [
@@ -12174,6 +12174,11 @@
       "site": "JobGurus",
       "id": "8513621dc2a895067bf1614ed702ad74",
       "timestamp": 1755349534294
+    },
+    {
+      "site": "JobGurus",
+      "id": "e5a64733f4035acf765718a50cccc31a",
+      "timestamp": 1755355159243
     }
   ],
   "cravecity mega limited": [
@@ -12202,6 +12207,20 @@
       "site": "JobGurus",
       "id": "feaf417482ea3028d0f3ec102651fd53",
       "timestamp": 1755351702297
+    }
+  ],
+  "eta zuma mining and industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "8b5089541707d9965cb4a128d7fa049c",
+      "timestamp": 1755355159243
+    }
+  ],
+  "hr leverage africa": [
+    {
+      "site": "JobGurus",
+      "id": "a8e1c6370f08b8fcca063fd1e0b71b79",
+      "timestamp": 1755355159243
     }
   ]
 }
