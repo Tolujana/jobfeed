@@ -4858,8 +4858,8 @@
   "leam consulting": [
     {
       "site": "JobGurus",
-      "id": "88fa2da383d5d986bae106817f9d44de",
-      "timestamp": 1750704583672
+      "id": "d845548b8c964cb31b9b93ae666280e0",
+      "timestamp": 1755351702297
     }
   ],
   "amy consulting": [
@@ -12174,6 +12174,34 @@
       "site": "JobGurus",
       "id": "8513621dc2a895067bf1614ed702ad74",
       "timestamp": 1755349534294
+    }
+  ],
+  "cravecity mega limited": [
+    {
+      "site": "JobGurus",
+      "id": "6690a1cb8f9d05e70f0daede93f69e7d",
+      "timestamp": 1755351702297
+    }
+  ],
+  "welcome u shopping centre": [
+    {
+      "site": "JobGurus",
+      "id": "a314faebc7693bcdacd9f2957c4f6e61",
+      "timestamp": 1755351702297
+    }
+  ],
+  "skipper eye-q super speciality eye hospital": [
+    {
+      "site": "JobGurus",
+      "id": "5aacc568437244062fb467dd038f6efb",
+      "timestamp": 1755351702297
+    }
+  ],
+  "bridgegap consult limited": [
+    {
+      "site": "JobGurus",
+      "id": "feaf417482ea3028d0f3ec102651fd53",
+      "timestamp": 1755351702297
     }
   ]
 }
