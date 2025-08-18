@@ -1374,8 +1374,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "8618aa3947cba894dc2c6ce6589d28b0",
-      "timestamp": 1753798841974
+      "id": "3c24143d68546681e383f7527f195e00",
+      "timestamp": 1755538942266
     }
   ],
   "jtech global resources limited": [
@@ -3052,8 +3052,8 @@
   "erisco foods limited": [
     {
       "site": "JobGurus",
-      "id": "ba13795fd12b056ab795d40fc08919d2",
-      "timestamp": 1754579949096
+      "id": "47609606787523f583d070e764d2be5b",
+      "timestamp": 1755538942266
     }
   ],
   "lauvee beauty salon": [
@@ -12273,6 +12273,20 @@
       "site": "JobGurus",
       "id": "53afabd35d944cdf705397fb207ae342",
       "timestamp": 1755537353327
+    }
+  ],
+  "saro agro-allied": [
+    {
+      "site": "JobGurus",
+      "id": "cc34e3afbf7d9272d3f20bf6a559ffe3",
+      "timestamp": 1755538942266
+    }
+  ],
+  "sage grey technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "10445b4d9b69d8409483063dd9013e33",
+      "timestamp": 1755538942266
     }
   ]
 }
