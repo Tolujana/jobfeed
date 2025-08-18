@@ -1959,8 +1959,8 @@
   "phillips outsourcing limited": [
     {
       "site": "JobGurus",
-      "id": "9066654650bb4a666179590925c32b47",
-      "timestamp": 1752534961567
+      "id": "8fb6bbe2e6e600dc4559c7ee785f74ca",
+      "timestamp": 1755545822456
     }
   ],
   "momsar financial consulting services": [
@@ -4956,8 +4956,8 @@
   "uleval technology": [
     {
       "site": "JobGurus",
-      "id": "859beca5553ab4e3125c893c0cef8f4b",
-      "timestamp": 1750763643928
+      "id": "6ff28b2c98def2c91af8d1018b60436f",
+      "timestamp": 1755545822456
     }
   ],
   "joseph robotics lab and tech": [
@@ -9515,6 +9515,11 @@
       "site": "JobGurus",
       "id": "b319920d81253dc7d51b7ec1669269e0",
       "timestamp": 1754990321323
+    },
+    {
+      "site": "JobGurus",
+      "id": "1ca362ab795eb5a0efd11d17cc8d22e7",
+      "timestamp": 1755545822456
     }
   ],
   "arco worldwide services limited": [
@@ -12346,6 +12351,20 @@
       "site": "JobGurus",
       "id": "bb29f1b0e281de98c0884351b9b564a2",
       "timestamp": 1755544434053
+    }
+  ],
+  "sendvoy limited": [
+    {
+      "site": "JobGurus",
+      "id": "2a2463cf94d3c3e4598ad83cddd58d54",
+      "timestamp": 1755545822456
+    }
+  ],
+  "vastovers stemordz limited": [
+    {
+      "site": "JobGurus",
+      "id": "d559920fb115b0579c313bb974ad01e0",
+      "timestamp": 1755545822456
     }
   ]
 }
