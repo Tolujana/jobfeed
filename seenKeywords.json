@@ -515,8 +515,8 @@
   "first excelsia professional services limited": [
     {
       "site": "JobGurus",
-      "id": "fd8f2a9c5b8c0ccbe4905104a8c72a3e",
-      "timestamp": 1754566808681
+      "id": "d827b06bdfa81fa46864dd904f403956",
+      "timestamp": 1755544434053
     }
   ],
   "universal human resource consult": [
@@ -722,8 +722,8 @@
   "startup soar": [
     {
       "site": "JobGurus",
-      "id": "9d6f91af264c939a15eee54a619234e8",
-      "timestamp": 1753973248236
+      "id": "acd2daa7fe64ff319a196e218495b2a0",
+      "timestamp": 1755544434053
     }
   ],
   "ouranos technologies (ouranos)": [
@@ -7417,8 +7417,13 @@
   "mdoc healthcare": [
     {
       "site": "JobGurus",
-      "id": "325414c801add0c88483203e3a23debc",
-      "timestamp": 1752082967505
+      "id": "3ad6a965fc774292b19efa974dab91c3",
+      "timestamp": 1755544434053
+    },
+    {
+      "site": "JobGurus",
+      "id": "6d5d765229247130edee7e964a3d3fb5",
+      "timestamp": 1755544434053
     }
   ],
   "finlab nigeria limited": [
@@ -12334,6 +12339,13 @@
       "site": "JobGurus",
       "id": "2c989013285fa029f6a514c804f7fada",
       "timestamp": 1755543106865
+    }
+  ],
+  "trade lenda": [
+    {
+      "site": "JobGurus",
+      "id": "bb29f1b0e281de98c0884351b9b564a2",
+      "timestamp": 1755544434053
     }
   ]
 }
