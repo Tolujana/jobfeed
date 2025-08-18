@@ -4235,8 +4235,8 @@
   "goldline nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "d62a760ae7578100db0fe1e880502c04",
-      "timestamp": 1752596464167
+      "id": "116afa4c0c75b9ed318bc66867ff800d",
+      "timestamp": 1755537353327
     }
   ],
   "it horizons limited": [
@@ -8322,8 +8322,8 @@
   "ajoke group": [
     {
       "site": "JobGurus",
-      "id": "bfe41f1f108267271762950fcc72bdd6",
-      "timestamp": 1752594169990
+      "id": "27baaa1336717deb93305b87cbca8e5a",
+      "timestamp": 1755537353327
     }
   ],
   "united airlines": [
@@ -12252,6 +12252,27 @@
       "site": "JobGurus",
       "id": "fdb86a5e24ca7bc69923e200fa554677",
       "timestamp": 1755365861811
+    }
+  ],
+  "aku": [
+    {
+      "site": "JobGurus",
+      "id": "2aa4c42097f7976c029dbec2e027fc3e",
+      "timestamp": 1755537353327
+    }
+  ],
+  "focal point cleaners limited": [
+    {
+      "site": "JobGurus",
+      "id": "9e7728f6e346114b410c57d01739cd09",
+      "timestamp": 1755537353327
+    }
+  ],
+  "strivo labs": [
+    {
+      "site": "JobGurus",
+      "id": "53afabd35d944cdf705397fb207ae342",
+      "timestamp": 1755537353327
     }
   ]
 }
