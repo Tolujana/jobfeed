@@ -12020,6 +12020,11 @@
       "site": "JobGurus",
       "id": "e826bfee092d44d9f58ac735a643546f",
       "timestamp": 1755174894781
+    },
+    {
+      "site": "JobGurus",
+      "id": "341af545da35fbc6081a7a3e3f0c0327",
+      "timestamp": 1755541438103
     }
   ],
   "sefa minimart provision store": [
@@ -12287,6 +12292,34 @@
       "site": "JobGurus",
       "id": "10445b4d9b69d8409483063dd9013e33",
       "timestamp": 1755538942266
+    }
+  ],
+  "yaba college of technology": [
+    {
+      "site": "JobGurus",
+      "id": "eaf452d1c32e7d55ba48353b23499da4",
+      "timestamp": 1755541438103
+    }
+  ],
+  "ehealth4everyone": [
+    {
+      "site": "JobGurus",
+      "id": "a8e2768a7006a432f6ee2408ccd59eda",
+      "timestamp": 1755541438103
+    }
+  ],
+  "ramos realty": [
+    {
+      "site": "JobGurus",
+      "id": "2770dcc3930800c6dcbcb323e8f66fb9",
+      "timestamp": 1755541438103
+    }
+  ],
+  "sycamore integrated solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "774266179400a746c652e1a0c0b42ca2",
+      "timestamp": 1755541438103
     }
   ]
 }
