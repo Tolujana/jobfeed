@@ -3793,8 +3793,8 @@
   "technoserve": [
     {
       "site": "JobGurus",
-      "id": "921016c5289736cd6e51f440b053f2e9",
-      "timestamp": 1751121658982
+      "id": "7623394c63ecebd2251e66492a6687a3",
+      "timestamp": 1755543106865
     }
   ],
   "polaris bank limited": [
@@ -4453,13 +4453,8 @@
   "foodonline limited": [
     {
       "site": "JobGurus",
-      "id": "f0041e027a95bea476dea715b62023af",
-      "timestamp": 1751366746987
-    },
-    {
-      "site": "JobGurus",
-      "id": "bb86d2cd5ad46d6e91c21ee93cc3507f",
-      "timestamp": 1751373183774
+      "id": "dd2793534d1d76f9a24d9384e8fd29bc",
+      "timestamp": 1755543106865
     }
   ],
   "rishcon digital agency": [
@@ -12306,6 +12301,11 @@
       "site": "JobGurus",
       "id": "a8e2768a7006a432f6ee2408ccd59eda",
       "timestamp": 1755541438103
+    },
+    {
+      "site": "JobGurus",
+      "id": "76c1a9337de8a9491cd498e9e3d6cd49",
+      "timestamp": 1755543106865
     }
   ],
   "ramos realty": [
@@ -12320,6 +12320,20 @@
       "site": "JobGurus",
       "id": "774266179400a746c652e1a0c0b42ca2",
       "timestamp": 1755541438103
+    }
+  ],
+  "apple and pears limited": [
+    {
+      "site": "JobGurus",
+      "id": "5c2260d1cd22ebee072e1fa1e86c975b",
+      "timestamp": 1755543106865
+    }
+  ],
+  "shulifang biotechnolog": [
+    {
+      "site": "JobGurus",
+      "id": "2c989013285fa029f6a514c804f7fada",
+      "timestamp": 1755543106865
     }
   ]
 }
