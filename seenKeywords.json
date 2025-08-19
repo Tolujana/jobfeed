@@ -2086,8 +2086,8 @@
   "ariosh limited": [
     {
       "site": "JobGurus",
-      "id": "67bbf3e4e040fca9cbcc0461127a89d1",
-      "timestamp": 1749562207903
+      "id": "e9a40bb2bdff2208f2a31f155dacb858",
+      "timestamp": 1755627643536
     }
   ],
   "benmaris limited": [
@@ -6720,8 +6720,8 @@
   "agurate online limited": [
     {
       "site": "JobGurus",
-      "id": "15dd0e7ee9ca08053b7a7c116d35daf6",
-      "timestamp": 1751663688219
+      "id": "7670a045b0ca890ffb3df614fa43689d",
+      "timestamp": 1755627643536
     }
   ],
   "bakery solutions limited": [
@@ -7513,18 +7513,8 @@
   "agbeyewa farms": [
     {
       "site": "JobGurus",
-      "id": "d16d6d54ae1468f41f862e6d862be3e8",
-      "timestamp": 1753965241929
-    },
-    {
-      "site": "JobGurus",
-      "id": "96845e6e76757a2b3a6cc75c8a2e896e",
-      "timestamp": 1754389114956
-    },
-    {
-      "site": "JobGurus",
-      "id": "3b74ea06171dbee64e937da8d26b86ea",
-      "timestamp": 1754390942923
+      "id": "fa9bcc9667c6c2863a716d5099edcb75",
+      "timestamp": 1755627643536
     }
   ],
   "international energy services limited": [
@@ -8183,6 +8173,11 @@
       "site": "JobGurus",
       "id": "5a866f82a3bf362bce11886fd3f599e4",
       "timestamp": 1755355159243
+    },
+    {
+      "site": "JobGurus",
+      "id": "46561412dd93b546e00b2875c3adf744",
+      "timestamp": 1755627643536
     }
   ],
   "danish refugee council": [
@@ -12464,6 +12459,13 @@
       "site": "JobGurus",
       "id": "301e62209ffcb81ea1267876620eb8ad",
       "timestamp": 1755625157755
+    }
+  ],
+  "jnc international limited": [
+    {
+      "site": "JobGurus",
+      "id": "a546567f3fcf2dd572f2968f71f90bda",
+      "timestamp": 1755627643536
     }
   ]
 }
