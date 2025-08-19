@@ -1210,8 +1210,8 @@
   "yinson holdings berhad": [
     {
       "site": "JobGurus",
-      "id": "4c8e248402f57470d76de3b0552dc1ef",
-      "timestamp": 1749143492661
+      "id": "8910f09e6c474ce136e7cf84bdd7d5e8",
+      "timestamp": 1755621969341
     }
   ],
   "barnksforte group limited": [
@@ -7943,13 +7943,8 @@
   "nomba": [
     {
       "site": "JobGurus",
-      "id": "9f2fa35c9d1e7c00cd952384e013976f",
-      "timestamp": 1752506268492
-    },
-    {
-      "site": "JobGurus",
-      "id": "9d51e32bfb47fae10ef9cca571443ad5",
-      "timestamp": 1752533091653
+      "id": "0b57ede4804a0c8466f22e35f3b7c4d3",
+      "timestamp": 1755621969341
     }
   ],
   "mindas petroleum limited": [
@@ -12412,6 +12407,27 @@
       "site": "JobGurus",
       "id": "6bf7b5226d73a9e98cc4ed47275e56df",
       "timestamp": 1755618044114
+    }
+  ],
+  "axa mansard insurance plc": [
+    {
+      "site": "JobGurus",
+      "id": "6b5ff333926fa7a17941c25c7826ba1c",
+      "timestamp": 1755621969341
+    }
+  ],
+  "pharmaccess group": [
+    {
+      "site": "JobGurus",
+      "id": "ba704f83e202c0e03c6c7edcd08df278",
+      "timestamp": 1755621969341
+    }
+  ],
+  "mitiget assurance and technology services limited": [
+    {
+      "site": "JobGurus",
+      "id": "03fed67ff6fe55dbd0206d7075e88eb8",
+      "timestamp": 1755621969341
     }
   ]
 }
