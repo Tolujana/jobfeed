@@ -6196,13 +6196,8 @@
   "hoop telecoms limited": [
     {
       "site": "JobGurus",
-      "id": "e510acbb34bdcda14d6acbc448225bc7",
-      "timestamp": 1751465742903
-    },
-    {
-      "site": "JobGurus",
-      "id": "4832704cbea6dfdcbb37a09c50bc06dd",
-      "timestamp": 1751470969240
+      "id": "77bc2b5472e5f9ebb66519ad5d8db43d",
+      "timestamp": 1755618044114
     }
   ],
   "ghi assets limited": [
@@ -12391,6 +12386,27 @@
       "site": "JobGurus",
       "id": "845d9c9b2e9086ef0c4a0c33eb034e6c",
       "timestamp": 1755549592254
+    }
+  ],
+  "inab realty limited": [
+    {
+      "site": "JobGurus",
+      "id": "c25af08cea3f771e034d79947ec28cb9",
+      "timestamp": 1755618044114
+    }
+  ],
+  "sparkle nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "bf7c6f104a9d82942cfa4d98c2ff6176",
+      "timestamp": 1755618044114
+    }
+  ],
+  "neptune microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "6bf7b5226d73a9e98cc4ed47275e56df",
+      "timestamp": 1755618044114
     }
   ]
 }
