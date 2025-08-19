@@ -7950,6 +7950,11 @@
       "site": "JobGurus",
       "id": "beadf0c85007371d085d7ffdc108c094",
       "timestamp": 1755623611288
+    },
+    {
+      "site": "JobGurus",
+      "id": "eafe7af7b6e26881edefbf5382b082fd",
+      "timestamp": 1755625157755
     }
   ],
   "mindas petroleum limited": [
@@ -12447,6 +12452,18 @@
       "site": "JobGurus",
       "id": "461b7962b33f12ea991431787b556b1f",
       "timestamp": 1755623611288
+    },
+    {
+      "site": "JobGurus",
+      "id": "7eca70a9db3065d3c47063ac3d0d8e84",
+      "timestamp": 1755625157755
+    }
+  ],
+  "xuriel resources": [
+    {
+      "site": "JobGurus",
+      "id": "301e62209ffcb81ea1267876620eb8ad",
+      "timestamp": 1755625157755
     }
   ]
 }
