@@ -3364,18 +3364,13 @@
   "excellent jobs": [
     {
       "site": "JobGurus",
-      "id": "8c3b444eeeffaa30efd12acc9c86a447",
-      "timestamp": 1753796267988
+      "id": "0b3cc3ec49bf248ae668b3069bdd68aa",
+      "timestamp": 1755643198658
     },
     {
       "site": "JobGurus",
-      "id": "d140a53424a45624f70787b0463dd022",
-      "timestamp": 1753796267988
-    },
-    {
-      "site": "JobGurus",
-      "id": "4adb631b1f6dc62505f523a6365ef2cd",
-      "timestamp": 1753798841974
+      "id": "17609d4b7e1eec1f934703ba0bed4359",
+      "timestamp": 1755643198658
     }
   ],
   "yemsays properties and investment limited": [
@@ -8629,8 +8624,8 @@
   "snaarp": [
     {
       "site": "JobGurus",
-      "id": "53382b22079c3a492b07c163dad5513d",
-      "timestamp": 1753792586860
+      "id": "62be265b84cc85beb159e9c3870c07e4",
+      "timestamp": 1755643198658
     }
   ],
   " sewa assets management limited": [
@@ -12487,6 +12482,20 @@
       "site": "JobGurus",
       "id": "dc3db82fbc1dff6d4e3b177af5d7a5a5",
       "timestamp": 1755641685167
+    }
+  ],
+  "new age mobile concepts limited": [
+    {
+      "site": "JobGurus",
+      "id": "ba50354168760b1f01046217dbf7e62f",
+      "timestamp": 1755643198658
+    }
+  ],
+  "deen consult": [
+    {
+      "site": "JobGurus",
+      "id": "0e7881b65a183c116b7c8232a594add0",
+      "timestamp": 1755643198658
     }
   ]
 }
