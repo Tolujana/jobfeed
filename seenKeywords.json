@@ -9858,8 +9858,8 @@
   "careers verified": [
     {
       "site": "JobGurus",
-      "id": "785e500e7d9cae9ca0f35e905aafda1a",
-      "timestamp": 1753697914311
+      "id": "d29ca1baf5fde4c4fd480541bdae8f99",
+      "timestamp": 1755722448365
     }
   ],
   "sygnite power and energy solutions ltd": [
@@ -11714,8 +11714,8 @@
   "ralds & agate": [
     {
       "site": "JobGurus",
-      "id": "c5c84ce9fa6c7a424f9fbdf2112bef15",
-      "timestamp": 1755005469713
+      "id": "199b91200238e0babed53fa7e7eda73d",
+      "timestamp": 1755722448365
     }
   ],
   "kennedia consulting": [
@@ -12582,6 +12582,27 @@
       "site": "JobGurus",
       "id": "f32450c06815657b40ed94f82ff3fd8c",
       "timestamp": 1755721028536
+    }
+  ],
+  "onetouch graphix": [
+    {
+      "site": "JobGurus",
+      "id": "940d969c9b4feeb216f5da9efa842b34",
+      "timestamp": 1755722448365
+    }
+  ],
+  "cowry consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "404cc90b2bc96f7340c99b455fe72f52",
+      "timestamp": 1755722448365
+    }
+  ],
+  "zurishaddai recruitment agency": [
+    {
+      "site": "JobGurus",
+      "id": "85c75f718ac68b24ebffa2bfa4df8fce",
+      "timestamp": 1755722448365
     }
   ]
 }
