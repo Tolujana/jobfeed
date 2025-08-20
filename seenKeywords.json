@@ -555,28 +555,8 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "2f773d3d52e5913afc54072c42a1b23a",
-      "timestamp": 1754480424093
-    },
-    {
-      "site": "JobGurus",
-      "id": "e2d6f050229fad1c9b9fb26522a1444f",
-      "timestamp": 1754480424093
-    },
-    {
-      "site": "JobGurus",
-      "id": "4f851473e68f6810e9d7ee2858fa2654",
-      "timestamp": 1754929261348
-    },
-    {
-      "site": "JobGurus",
-      "id": "b96f78cab13da0ce6ad66a90094ccf24",
-      "timestamp": 1754991749831
-    },
-    {
-      "site": "JobGurus",
-      "id": "19c2961f1f1d0b8ba2f38ad1134182b1",
-      "timestamp": 1755002011691
+      "id": "cd762e805ff8bce0fb2b343ad67976fb",
+      "timestamp": 1755714138864
     }
   ],
   "abbfem group": [
@@ -12519,6 +12499,34 @@
       "site": "JobGurus",
       "id": "9b8ca9e7de168d275237a7a770211437",
       "timestamp": 1755711574448
+    }
+  ],
+  "esosa food systems and innovations limited": [
+    {
+      "site": "JobGurus",
+      "id": "63ad57e0e362b6006a1e4af818059c54",
+      "timestamp": 1755714138864
+    }
+  ],
+  "union diagnostics and clinical services plc": [
+    {
+      "site": "JobGurus",
+      "id": "e5bf046f5aee66ba85878ef2d6026a86",
+      "timestamp": 1755714138864
+    }
+  ],
+  "ics outsourcing": [
+    {
+      "site": "JobGurus",
+      "id": "55e8981d57ba699d20a06c57dda9fe91",
+      "timestamp": 1755714138864
+    }
+  ],
+  "atlanticblu hotel & resort": [
+    {
+      "site": "JobGurus",
+      "id": "e648f562d383ca2677fe7c7f9904dd7a",
+      "timestamp": 1755714138864
     }
   ]
 }
