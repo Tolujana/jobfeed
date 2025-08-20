@@ -1015,13 +1015,8 @@
   "elizabeth maddeux": [
     {
       "site": "JobGurus",
-      "id": "c8d25167a0d66afd8dfc06182036ee4f",
-      "timestamp": 1749126736406
-    },
-    {
-      "site": "JobGurus",
-      "id": "a00e17003ab221e08c268b8cffd74f11",
-      "timestamp": 1749132949537
+      "id": "1d1dcf2b93a399e83e48da6f247743f9",
+      "timestamp": 1755715718659
     }
   ],
   "brenhazy limited": [
@@ -5573,8 +5568,8 @@
   "updeal resources": [
     {
       "site": "JobGurus",
-      "id": "b4441a286961c5061d34826b6b251b0d",
-      "timestamp": 1753786070027
+      "id": "b86c59aa97e6dd6deb6d07f4d5a3eb59",
+      "timestamp": 1755715718659
     }
   ],
   "macden communications limited": [
@@ -12506,6 +12501,16 @@
       "site": "JobGurus",
       "id": "63ad57e0e362b6006a1e4af818059c54",
       "timestamp": 1755714138864
+    },
+    {
+      "site": "JobGurus",
+      "id": "4ef70c0f8844c6f72e62059f8186fc8e",
+      "timestamp": 1755715718659
+    },
+    {
+      "site": "JobGurus",
+      "id": "6fb2e2eebcd6f36f1b1edfa4dbe9c4ab",
+      "timestamp": 1755715718659
     }
   ],
   "union diagnostics and clinical services plc": [
@@ -12527,6 +12532,13 @@
       "site": "JobGurus",
       "id": "e648f562d383ca2677fe7c7f9904dd7a",
       "timestamp": 1755714138864
+    }
+  ],
+  "revampa hr consulting": [
+    {
+      "site": "JobGurus",
+      "id": "cf8217ca3d597f7fedea3820b84ec650",
+      "timestamp": 1755715718659
     }
   ]
 }
