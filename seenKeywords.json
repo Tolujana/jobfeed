@@ -600,23 +600,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "d771641c2d5a861264697ab13e4945ec",
-      "timestamp": 1754927040194
-    },
-    {
-      "site": "JobGurus",
-      "id": "5a6b7b1154c6f178bb6120666f9452be",
-      "timestamp": 1754929261348
-    },
-    {
-      "site": "JobGurus",
-      "id": "510f68f0243168a3341c90cf2977bb6b",
-      "timestamp": 1755105164287
-    },
-    {
-      "site": "JobGurus",
-      "id": "a663f45f15c8d03134ca7620955ff0f3",
-      "timestamp": 1755182655417
+      "id": "928856d3d4ae93ea6fc3a3216d54cf2a",
+      "timestamp": 1755800540935
     }
   ],
   "divine infinity college": [
@@ -12747,6 +12732,27 @@
       "site": "JobGurus",
       "id": "01832afd2d28bde47b42db4f9303fa32",
       "timestamp": 1755797961296
+    }
+  ],
+  "kaltani": [
+    {
+      "site": "JobGurus",
+      "id": "4527190ca9f4bd868ccbe62ffa9791ae",
+      "timestamp": 1755800540935
+    }
+  ],
+  "petcare animal hospital": [
+    {
+      "site": "JobGurus",
+      "id": "7abd88a0688daa114f4a09fbd805273a",
+      "timestamp": 1755800540935
+    }
+  ],
+  "smooth promotions": [
+    {
+      "site": "JobGurus",
+      "id": "631ee9ff0cf78e5265ea49b5a09439ef",
+      "timestamp": 1755800540935
     }
   ]
 }
