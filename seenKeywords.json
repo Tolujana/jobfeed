@@ -841,8 +841,8 @@
   "elvaridah limited": [
     {
       "site": "JobGurus",
-      "id": "336a122b6ec731e4fb440b65970835fd",
-      "timestamp": 1751901358715
+      "id": "973fc3452b48649c809dac78f3ef80e9",
+      "timestamp": 1755789395772
     }
   ],
   "razley print limited": [
@@ -10830,8 +10830,8 @@
   "flour mills of nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "73128f7e75cc05cf1895979a78af1de7",
-      "timestamp": 1754311024332
+      "id": "30e6951aeb3eed6608f1810e5d553df9",
+      "timestamp": 1755789395772
     }
   ],
   "uridium technologies": [
@@ -12645,6 +12645,20 @@
       "site": "JobGurus",
       "id": "9655b4afcbe26db67f663394ea578d48",
       "timestamp": 1755779491690
+    }
+  ],
+  "louis industrial": [
+    {
+      "site": "JobGurus",
+      "id": "908845796da5b2b14de90118c9a1db7c",
+      "timestamp": 1755789395772
+    }
+  ],
+  "me cure services": [
+    {
+      "site": "JobGurus",
+      "id": "34ab1bde6bdf06c820e36d4842c63433",
+      "timestamp": 1755789395772
     }
   ]
 }
