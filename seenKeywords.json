@@ -11388,13 +11388,8 @@
   "green africa airways limited": [
     {
       "site": "JobGurus",
-      "id": "d0173726bafe12bc0852893d7ce6aab8",
-      "timestamp": 1754646478970
-    },
-    {
-      "site": "JobGurus",
-      "id": "3ff7cd9546a8bf783bb76df7bea2d344",
-      "timestamp": 1755098049718
+      "id": "6da3322837da294165f346b9b13ce413",
+      "timestamp": 1755797961296
     }
   ],
   "l12 secrets": [
@@ -12676,6 +12671,11 @@
       "site": "JobGurus",
       "id": "7512a3f7a248a7a976f894d6cdf4bbe5",
       "timestamp": 1755793419479
+    },
+    {
+      "site": "JobGurus",
+      "id": "906363a9b41fdc8a88cb6b499e26d5bf",
+      "timestamp": 1755797961296
     }
   ],
   "dreampod place": [
@@ -12721,6 +12721,11 @@
       "site": "JobGurus",
       "id": "261bab92f21cb8275e827e5d12f948e0",
       "timestamp": 1755797001487
+    },
+    {
+      "site": "JobGurus",
+      "id": "92c3ef2748eb4ac63f01d24ce3371f68",
+      "timestamp": 1755797961296
     }
   ],
   "hssl technologies": [
@@ -12728,6 +12733,20 @@
       "site": "JobGurus",
       "id": "f7ee102be04de5fd98674e48b4440dd0",
       "timestamp": 1755797001487
+    }
+  ],
+  "citibank nigeria limited (cnl)": [
+    {
+      "site": "JobGurus",
+      "id": "ee2cd837acd88d31bc56330927179b5f",
+      "timestamp": 1755797961296
+    }
+  ],
+  "bill energy services limited": [
+    {
+      "site": "JobGurus",
+      "id": "01832afd2d28bde47b42db4f9303fa32",
+      "timestamp": 1755797961296
     }
   ]
 }
