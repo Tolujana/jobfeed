@@ -9357,8 +9357,8 @@
   "ultraviolet microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "e3b724b446dfd2c8f4c4ea10cb74acd6",
-      "timestamp": 1753264075509
+      "id": "d9a2293119cc68c1c7605bc56876defd",
+      "timestamp": 1755803520438
     }
   ],
   "avetium consult limited": [
@@ -9451,13 +9451,8 @@
   "source microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "cb900f2faf10dcd6c39bc3dd2b8e1c32",
-      "timestamp": 1753280283674
-    },
-    {
-      "site": "JobGurus",
-      "id": "c010de3640714641101be0518ac41c18",
-      "timestamp": 1753282058082
+      "id": "c29cbcd628c21289c3fe51e1206526c5",
+      "timestamp": 1755803520438
     }
   ],
   "j3 foods and store international": [
@@ -12738,6 +12733,27 @@
       "site": "JobGurus",
       "id": "631ee9ff0cf78e5265ea49b5a09439ef",
       "timestamp": 1755800540935
+    }
+  ],
+  "united nations world food programme": [
+    {
+      "site": "JobGurus",
+      "id": "e4ce3ae2f563bbdff108e68ee25dcf60",
+      "timestamp": 1755803520438
+    }
+  ],
+  "codelabprojects nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "5f143587b2b81a61420ad01e5fe07d2e",
+      "timestamp": 1755803520438
+    }
+  ],
+  "castel resources consultancy limited": [
+    {
+      "site": "JobGurus",
+      "id": "d3acf7d725cc7a3db46c6d933f59ac3a",
+      "timestamp": 1755803520438
     }
   ]
 }
