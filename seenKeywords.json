@@ -824,13 +824,8 @@
   "unocasa limited": [
     {
       "site": "JobGurus",
-      "id": "dd90c3deb1fd0958d0572a6ab0fd424c",
-      "timestamp": 1755257817283
-    },
-    {
-      "site": "JobGurus",
-      "id": "3d5442421b8a799146a5e26eb4966c33",
-      "timestamp": 1755257817283
+      "id": "23e01f1df3e36838c84f2389244a94a7",
+      "timestamp": 1755888420172
     }
   ],
   "elvaridah limited": [
@@ -9581,8 +9576,8 @@
   "mattoris supermarket": [
     {
       "site": "JobGurus",
-      "id": "e412a5a61ec52c07cee226ca8b887222",
-      "timestamp": 1753368452359
+      "id": "6f9304cb24305f0d5a15c15ecd482fb4",
+      "timestamp": 1755888420172
     }
   ],
   "austine & partners international limited": [
@@ -10335,8 +10330,8 @@
   "onefocus consulting service": [
     {
       "site": "JobGurus",
-      "id": "5859215da0d1eab22832b46b2a2d41d0",
-      "timestamp": 1754993864992
+      "id": "8886fa651821d03ce3a388a02b9f1580",
+      "timestamp": 1755888420172
     }
   ],
   "value edge management services limited": [
@@ -12804,6 +12799,20 @@
       "site": "JobGurus",
       "id": "c2f98ebf9a06067aefb468d4f1a93dcf",
       "timestamp": 1755882808737
+    }
+  ],
+  "ceo's mart": [
+    {
+      "site": "JobGurus",
+      "id": "baf26c817195160e8b35c117f6b0ddbd",
+      "timestamp": 1755888420172
+    }
+  ],
+  "life helpers initiative (lhi)": [
+    {
+      "site": "JobGurus",
+      "id": "af96969b8995187fef1f1c3479d938fb",
+      "timestamp": 1755888420172
     }
   ]
 }
