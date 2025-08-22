@@ -3143,8 +3143,8 @@
   "staff-recruit": [
     {
       "site": "JobGurus",
-      "id": "00a86e76b4e524ad54fe4cca2456d296",
-      "timestamp": 1750070732493
+      "id": "43d7a5957ac807c2be84f605c6c8f072",
+      "timestamp": 1755891331006
     }
   ],
   "willers solutions limited": [
@@ -12691,6 +12691,11 @@
       "site": "JobGurus",
       "id": "92c3ef2748eb4ac63f01d24ce3371f68",
       "timestamp": 1755797961296
+    },
+    {
+      "site": "JobGurus",
+      "id": "813924b87deca4b6ed17871184b00c1c",
+      "timestamp": 1755891331006
     }
   ],
   "hssl technologies": [
@@ -12827,6 +12832,27 @@
       "site": "JobGurus",
       "id": "b53c40602a0ffaa8487da3fe3e2322fc",
       "timestamp": 1755889935028
+    }
+  ],
+  "flexolutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "5a919ed250f779810491338167aa1155",
+      "timestamp": 1755891331006
+    }
+  ],
+  "pullus": [
+    {
+      "site": "JobGurus",
+      "id": "792c6bfc5ce812f7c7d856320eb3a56e",
+      "timestamp": 1755891331006
+    }
+  ],
+  "syx-brij nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "5703af70be6cac9abe0a90ca2dcae525",
+      "timestamp": 1755891331006
     }
   ]
 }
