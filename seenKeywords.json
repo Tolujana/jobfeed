@@ -3171,8 +3171,8 @@
   "buckler systems": [
     {
       "site": "JobGurus",
-      "id": "038eabc2d0064175ff9f81fee116a715",
-      "timestamp": 1750072443517
+      "id": "724a8d4e980caee5002d00044868ae0d",
+      "timestamp": 1755889935028
     }
   ],
   "arkounting business concepts limited": [
@@ -10067,8 +10067,8 @@
   "sims nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "1f6c92a6920f2132b3add6df13e1da9c",
-      "timestamp": 1753787666968
+      "id": "18e1b7374d9a11046b9c1f01106d3d24",
+      "timestamp": 1755889935028
     }
   ],
   "talent lab limited": [
@@ -11015,8 +11015,8 @@
   "qupee consult": [
     {
       "site": "JobGurus",
-      "id": "4616f958e38f7976bc9f1e11ad4d81d4",
-      "timestamp": 1754473780881
+      "id": "1482c424f7b1e3f5fa422d123518a9be",
+      "timestamp": 1755889935028
     }
   ],
   "amitouch global concepts limited": [
@@ -12813,6 +12813,20 @@
       "site": "JobGurus",
       "id": "af96969b8995187fef1f1c3479d938fb",
       "timestamp": 1755888420172
+    }
+  ],
+  "applyboard": [
+    {
+      "site": "JobGurus",
+      "id": "a1be6d0908417d9f65d33bb85d561b1c",
+      "timestamp": 1755889935028
+    }
+  ],
+  "talent city": [
+    {
+      "site": "JobGurus",
+      "id": "b53c40602a0ffaa8487da3fe3e2322fc",
+      "timestamp": 1755889935028
     }
   ]
 }
