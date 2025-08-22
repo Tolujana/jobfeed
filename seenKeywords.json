@@ -503,6 +503,11 @@
       "site": "JobGurus",
       "id": "a4b5cd9b869470db722a985db7bf6580",
       "timestamp": 1755804936003
+    },
+    {
+      "site": "JobGurus",
+      "id": "239a1da6efdf34a32dc59d67c641c16d",
+      "timestamp": 1755884363248
     }
   ],
   "cig motors co. limited": [
@@ -1794,13 +1799,8 @@
   "icl support services limited": [
     {
       "site": "JobGurus",
-      "id": "24a2644857cb601b90ef174f91c660f2",
-      "timestamp": 1749475739851
-    },
-    {
-      "site": "JobGurus",
-      "id": "a7e63a49feb917429177a07681c1bb9f",
-      "timestamp": 1749475739851
+      "id": "e690eaf0e648822fc62a1d27c7b95f0f",
+      "timestamp": 1755884363248
     }
   ],
   "davruna group": [
@@ -2203,8 +2203,8 @@
   "helean global limited": [
     {
       "site": "JobGurus",
-      "id": "26c4d9d842d809c13d1193e4780f3649",
-      "timestamp": 1749634914062
+      "id": "ca50f2d2a5e87352e94c4ecb70b81338",
+      "timestamp": 1755884363248
     }
   ],
   "maisha meds": [
@@ -5429,6 +5429,11 @@
       "site": "JobGurus",
       "id": "10e5ac67e230705930569bee7c184576",
       "timestamp": 1755882808737
+    },
+    {
+      "site": "JobGurus",
+      "id": "497a3b9496942b87ba978fbb8260cddf",
+      "timestamp": 1755884363248
     }
   ],
   "whassan nigeria": [
