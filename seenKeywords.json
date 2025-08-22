@@ -593,18 +593,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "bd2295f141a4d42e079368e700233ad1",
-      "timestamp": 1754311024332
-    },
-    {
-      "site": "JobGurus",
-      "id": "8a0919f93f29e9e8580a75ea7c858e10",
-      "timestamp": 1754666247923
-    },
-    {
-      "site": "JobGurus",
-      "id": "3b0426cf8f7bf38b05934a4c667a6209",
-      "timestamp": 1754737972506
+      "id": "76f30ece185728c9a2d5c27c6554c210",
+      "timestamp": 1755893808124
     }
   ],
   "food concepts plc": [
@@ -12853,6 +12843,32 @@
       "site": "JobGurus",
       "id": "5703af70be6cac9abe0a90ca2dcae525",
       "timestamp": 1755891331006
+    },
+    {
+      "site": "JobGurus",
+      "id": "745ab30627d41abce9e4efd3720843ff",
+      "timestamp": 1755893808124
+    }
+  ],
+  "dm holdings": [
+    {
+      "site": "JobGurus",
+      "id": "a5d2014100e59817b83ad012f2c474e4",
+      "timestamp": 1755893808124
+    }
+  ],
+  "deskmayte": [
+    {
+      "site": "JobGurus",
+      "id": "5a12b668992f598194b7e5e0439e33ec",
+      "timestamp": 1755893808124
+    }
+  ],
+  "sewa assets management limited": [
+    {
+      "site": "JobGurus",
+      "id": "a5d43e3db1bf9de6628b459e83debe67",
+      "timestamp": 1755893808124
     }
   ]
 }
