@@ -123,6 +123,11 @@
       "site": "JobGurus",
       "id": "243a726b15b4a676f87d4609e92d71b4",
       "timestamp": 1755353586202
+    },
+    {
+      "site": "JobGurus",
+      "id": "0f0de8c3454ada47f02fa0d86634a50d",
+      "timestamp": 1755886867076
     }
   ],
   "residency hotel limited": [
@@ -1372,8 +1377,8 @@
   "shomas supply & logistics limited": [
     {
       "site": "JobGurus",
-      "id": "4bb05bb08218d001a3e00a4f45878299",
-      "timestamp": 1754664427650
+      "id": "12beedadce2ec34a73bc6fc8ac29c2fb",
+      "timestamp": 1755886867076
     }
   ],
   "businessday media limited": [
@@ -2358,13 +2363,8 @@
   "lily hospitals limited": [
     {
       "site": "JobGurus",
-      "id": "7e61b9f3ab6152dff9ce12b32217f06d",
-      "timestamp": 1753174283073
-    },
-    {
-      "site": "JobGurus",
-      "id": "99869b462f780ad5145470ca4cef2bc8",
-      "timestamp": 1753712338258
+      "id": "17c9d04937752687cd43739e5b5bcbce",
+      "timestamp": 1755886867076
     }
   ],
   "federal polytechnic, bida.": [
@@ -8704,8 +8704,13 @@
   "polaris digitech limited": [
     {
       "site": "JobGurus",
-      "id": "771afb397b6b43853f90c2bc5dd2252d",
-      "timestamp": 1754563684273
+      "id": "9b166a983804454cc40c095a14f29683",
+      "timestamp": 1755886867076
+    },
+    {
+      "site": "JobGurus",
+      "id": "83dd7b43e1b371918364612595e00019",
+      "timestamp": 1755886867076
     }
   ],
   "efficacy development plc": [
