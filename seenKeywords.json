@@ -5427,8 +5427,8 @@
   "aspom travels and tours": [
     {
       "site": "JobGurus",
-      "id": "59a4b6311c0f8bbd66f5713058ee550f",
-      "timestamp": 1751024250998
+      "id": "10e5ac67e230705930569bee7c184576",
+      "timestamp": 1755882808737
     }
   ],
   "whassan nigeria": [
@@ -12787,6 +12787,13 @@
       "site": "JobGurus",
       "id": "02af32c2d29f159e529ed4638d9ba8b1",
       "timestamp": 1755807390099
+    }
+  ],
+  "novella africa limited": [
+    {
+      "site": "JobGurus",
+      "id": "c2f98ebf9a06067aefb468d4f1a93dcf",
+      "timestamp": 1755882808737
     }
   ]
 }
