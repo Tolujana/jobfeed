@@ -5719,8 +5719,8 @@
   "international breweries plc": [
     {
       "site": "JobGurus",
-      "id": "b7d7b8212ee77f83dd2dc1b0a29aa553",
-      "timestamp": 1754311024332
+      "id": "d1d25b08b793769402167ca12c403882",
+      "timestamp": 1755958357594
     }
   ],
   "rosabon financial services": [
@@ -6452,8 +6452,18 @@
   "lopterra services limited": [
     {
       "site": "JobGurus",
-      "id": "4d8c14d6456fc8f45b8415a3fa26c376",
-      "timestamp": 1751549284889
+      "id": "612fdd06cb6bfe2c130ca206d7652f4c",
+      "timestamp": 1755958357594
+    },
+    {
+      "site": "JobGurus",
+      "id": "67e6ac5f9e639b3e5d718534d48884b4",
+      "timestamp": 1755958357594
+    },
+    {
+      "site": "JobGurus",
+      "id": "b304a7c44c820234277a2e9fa488396f",
+      "timestamp": 1755958357594
     }
   ],
   "tizeti network limited": [
@@ -12977,6 +12987,11 @@
       "site": "JobGurus",
       "id": "70226ef9967e92ff5e3b6286c0ec3a04",
       "timestamp": 1755956363369
+    },
+    {
+      "site": "JobGurus",
+      "id": "f15cf13faf2e0447515040bbcda3b8b7",
+      "timestamp": 1755958357594
     }
   ]
 }
