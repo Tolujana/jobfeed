@@ -3816,18 +3816,18 @@
   "odixcity consulting": [
     {
       "site": "JobGurus",
-      "id": "5b8318ac35c8f0411497c0f67e63bd57",
-      "timestamp": 1753872470842
+      "id": "b467bcd1e52e95f322250e7049703900",
+      "timestamp": 1755948941580
     },
     {
       "site": "JobGurus",
-      "id": "e144a22c9a20a7524dfe1affe1e678ed",
-      "timestamp": 1753874130016
+      "id": "814446c0ebeedfc74e8ac5fc75911a27",
+      "timestamp": 1755948941580
     },
     {
       "site": "JobGurus",
-      "id": "dc870607fc1a541887b789372be0fe7b",
-      "timestamp": 1753878954957
+      "id": "1e95ce15d31c026add669c3baaa559c7",
+      "timestamp": 1755948941580
     }
   ],
   "changeroom": [
@@ -12895,6 +12895,20 @@
       "site": "JobGurus",
       "id": "f22279b0441ac1147165cb98bcc2003d",
       "timestamp": 1755895192400
+    }
+  ],
+  "transnational zamiva services": [
+    {
+      "site": "JobGurus",
+      "id": "48ed3d67283b5a9a845e97371932de6d",
+      "timestamp": 1755948941580
+    }
+  ],
+  "straight-gate publishers limited": [
+    {
+      "site": "JobGurus",
+      "id": "2da67bc38beeeccd385e21945382a896",
+      "timestamp": 1755948941580
     }
   ]
 }
