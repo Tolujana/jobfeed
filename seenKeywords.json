@@ -4126,8 +4126,8 @@
   "wts energy": [
     {
       "site": "JobGurus",
-      "id": "feafdf178eaf21a71fd11369e496ed7b",
-      "timestamp": 1754660141939
+      "id": "752a19d978df248ad8086e05d185c834",
+      "timestamp": 1755956363369
     }
   ],
   "prixair group": [
@@ -9444,8 +9444,8 @@
   "pc place nigeria": [
     {
       "site": "JobGurus",
-      "id": "dcd4166d48b659d13f55b1368440eb25",
-      "timestamp": 1753280283674
+      "id": "5596c777a1ac5502939a4a3fca2b2f15",
+      "timestamp": 1755956363369
     }
   ],
   "source microfinance bank": [
@@ -12817,6 +12817,11 @@
       "site": "JobGurus",
       "id": "e110621e8a3195dd88227e90e010bec7",
       "timestamp": 1755952091743
+    },
+    {
+      "site": "JobGurus",
+      "id": "6be149255103916233eb5d890edc6dd8",
+      "timestamp": 1755956363369
     }
   ],
   "novella africa limited": [
@@ -12958,6 +12963,20 @@
       "site": "JobGurus",
       "id": "93fe3abebe162f8ad4742946e285eaee",
       "timestamp": 1755954065823
+    }
+  ],
+  "detail and avedia consulting": [
+    {
+      "site": "JobGurus",
+      "id": "3cef9045cbd4bb6ae50ad33f771d186a",
+      "timestamp": 1755956363369
+    }
+  ],
+  "maison fahrenheit": [
+    {
+      "site": "JobGurus",
+      "id": "70226ef9967e92ff5e3b6286c0ec3a04",
+      "timestamp": 1755956363369
     }
   ]
 }
