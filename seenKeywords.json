@@ -417,8 +417,8 @@
   "dana group": [
     {
       "site": "JobGurus",
-      "id": "5b70ecb352dec7cde04872c6d9a18d03",
-      "timestamp": 1752845622402
+      "id": "b0d5a84ef392820466ecac9284be1e2e",
+      "timestamp": 1756149131437
     }
   ],
   "raphael group": [
@@ -12402,6 +12402,16 @@
       "site": "JobGurus",
       "id": "7eca70a9db3065d3c47063ac3d0d8e84",
       "timestamp": 1755625157755
+    },
+    {
+      "site": "JobGurus",
+      "id": "e54690f3b39ccbd3cb32418f1544025b",
+      "timestamp": 1756149131437
+    },
+    {
+      "site": "JobGurus",
+      "id": "6828b2cdb3eb74f2b820de723223fc98",
+      "timestamp": 1756149131437
     }
   ],
   "xuriel resources": [
@@ -13065,6 +13075,20 @@
       "site": "JobGurus",
       "id": "58a2a590c3e9d1508b3aabb2db936827",
       "timestamp": 1756147722163
+    }
+  ],
+  "glybridge schools": [
+    {
+      "site": "JobGurus",
+      "id": "a86e5df20118e0fe4bf7d6851b1c7faf",
+      "timestamp": 1756149131437
+    }
+  ],
+  "d'allure interiors": [
+    {
+      "site": "JobGurus",
+      "id": "a60588843c358be618b6cc29321b6276",
+      "timestamp": 1756149131437
     }
   ]
 }
