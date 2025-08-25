@@ -6313,13 +6313,13 @@
   "oppo": [
     {
       "site": "JobGurus",
-      "id": "d133f18104425525e3e3575b420d921e",
-      "timestamp": 1755272469611
+      "id": "b527a70a6d481c293fe52f9e327647ee",
+      "timestamp": 1755718545573
     },
     {
       "site": "JobGurus",
-      "id": "b527a70a6d481c293fe52f9e327647ee",
-      "timestamp": 1755718545573
+      "id": "401f4bdb4f41e7b57062c8fff5224c31",
+      "timestamp": 1756146166753
     }
   ],
   "agricare std plus limited": [
@@ -12072,8 +12072,8 @@
   "bosak microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "9fe28918525f5b25f54eea39784f1453",
-      "timestamp": 1755257817283
+      "id": "62d2139f3f65ae101e4713168e6f35b9",
+      "timestamp": 1756146166753
     }
   ],
   "first ally capital": [
@@ -13037,6 +13037,27 @@
       "site": "JobGurus",
       "id": "e418788ce0e4ebd236f6cb87ed6738d9",
       "timestamp": 1756143520591
+    }
+  ],
+  "oaks intelligence limited": [
+    {
+      "site": "JobGurus",
+      "id": "2e1602a1d7c296d66b6b0ef045485c97",
+      "timestamp": 1756146166753
+    }
+  ],
+  "fidelam homes limited": [
+    {
+      "site": "JobGurus",
+      "id": "c5c070ad875df7f2270e8259054f2109",
+      "timestamp": 1756146166753
+    }
+  ],
+  "soft alliance": [
+    {
+      "site": "JobGurus",
+      "id": "c60634273e4a8a1e50cd170e2e19d595",
+      "timestamp": 1756146166753
     }
   ]
 }
