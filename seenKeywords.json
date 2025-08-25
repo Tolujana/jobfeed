@@ -898,6 +898,11 @@
       "site": "JobGurus",
       "id": "d6e9b6ed9bcac265d7d88540cc779d23",
       "timestamp": 1755548190789
+    },
+    {
+      "site": "JobGurus",
+      "id": "91d071cf63a5d0845b6ee5e69b31b322",
+      "timestamp": 1756147722163
     }
   ],
   "jameda concepts": [
@@ -1344,13 +1349,13 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "3c24143d68546681e383f7527f195e00",
-      "timestamp": 1755538942266
+      "id": "67ef2c5f9ad1d3b6948c1d0954d06e67",
+      "timestamp": 1756134978299
     },
     {
       "site": "JobGurus",
-      "id": "67ef2c5f9ad1d3b6948c1d0954d06e67",
-      "timestamp": 1756134978299
+      "id": "5aafdde3b69c320a4755d61db18a70cb",
+      "timestamp": 1756147722163
     }
   ],
   "jtech global resources limited": [
@@ -8131,18 +8136,13 @@
   "swift consulting limited": [
     {
       "site": "JobGurus",
-      "id": "f49352a88ef4ff877eb1d29d592afc70",
-      "timestamp": 1755353586202
-    },
-    {
-      "site": "JobGurus",
-      "id": "5a866f82a3bf362bce11886fd3f599e4",
-      "timestamp": 1755355159243
-    },
-    {
-      "site": "JobGurus",
       "id": "46561412dd93b546e00b2875c3adf744",
       "timestamp": 1755627643536
+    },
+    {
+      "site": "JobGurus",
+      "id": "646c576e0e87bd1a82cbfb748602dcb3",
+      "timestamp": 1756147722163
     }
   ],
   "danish refugee council": [
@@ -13058,6 +13058,13 @@
       "site": "JobGurus",
       "id": "c60634273e4a8a1e50cd170e2e19d595",
       "timestamp": 1756146166753
+    }
+  ],
+  "karis concept": [
+    {
+      "site": "JobGurus",
+      "id": "58a2a590c3e9d1508b3aabb2db936827",
+      "timestamp": 1756147722163
     }
   ]
 }
