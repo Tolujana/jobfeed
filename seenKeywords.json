@@ -8360,8 +8360,8 @@
   "dwight patterson consultants": [
     {
       "site": "JobGurus",
-      "id": "26a84f6ebae21494052544badaedf332",
-      "timestamp": 1752599702342
+      "id": "886f8bc016492890b5a61bb2383a571b",
+      "timestamp": 1756222765280
     }
   ],
   "eighgold consulting limited": [
@@ -13189,6 +13189,20 @@
       "site": "JobGurus",
       "id": "b17b87416d935905587af95dfca2eb71",
       "timestamp": 1756221380816
+    }
+  ],
+  "business insider africa": [
+    {
+      "site": "JobGurus",
+      "id": "2f9da67eaf2ea40bcbdf0f114ee4c524",
+      "timestamp": 1756222765280
+    }
+  ],
+  "ldd consulting": [
+    {
+      "site": "JobGurus",
+      "id": "1a5643bbff3e45da63b062c5d3899f73",
+      "timestamp": 1756222765280
     }
   ]
 }
