@@ -572,6 +572,11 @@
       "site": "JobGurus",
       "id": "711f496b5892d5ea679eac84cb89b2ce",
       "timestamp": 1756219281472
+    },
+    {
+      "site": "JobGurus",
+      "id": "b422a664046b748842b173df09df6e5f",
+      "timestamp": 1756221380816
     }
   ],
   "abbfem group": [
@@ -10918,8 +10923,8 @@
   "japan tobacco international (jti)": [
     {
       "site": "JobGurus",
-      "id": "14dc53d5b16ccb2d56f12a927f409aa6",
-      "timestamp": 1754387341741
+      "id": "d5ac36aa8fde048f65652a6188b83f1d",
+      "timestamp": 1756221380816
     }
   ],
   "care on course": [
@@ -12814,6 +12819,11 @@
       "site": "JobGurus",
       "id": "d3acf7d725cc7a3db46c6d933f59ac3a",
       "timestamp": 1755803520438
+    },
+    {
+      "site": "JobGurus",
+      "id": "2d38b13a59d2656a80afc2f8a92865ab",
+      "timestamp": 1756221380816
     }
   ],
   "fidson healthcare plc": [
@@ -13165,6 +13175,20 @@
       "site": "JobGurus",
       "id": "362d2768e36e47417ce31a5805cfa06f",
       "timestamp": 1756219281472
+    }
+  ],
+  "kydal office point": [
+    {
+      "site": "JobGurus",
+      "id": "63f3afc8741d473934444ad69e437a0f",
+      "timestamp": 1756221380816
+    }
+  ],
+  "onepyramid consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "b17b87416d935905587af95dfca2eb71",
+      "timestamp": 1756221380816
     }
   ]
 }
