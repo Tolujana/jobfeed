@@ -626,8 +626,8 @@
   "vantegral consulting": [
     {
       "site": "JobGurus",
-      "id": "f2de217ac9eddcb5a3756b6c555aa468",
-      "timestamp": 1750347672974
+      "id": "ea2e7d3f94be2e868f2062cb85daa879",
+      "timestamp": 1756208214369
     }
   ],
   "private sector health alliance of nigeria": [
@@ -2408,8 +2408,8 @@
   "precious palm royal hotel": [
     {
       "site": "JobGurus",
-      "id": "4d7fba1c87707ffc3c806008f9973254",
-      "timestamp": 1749648590966
+      "id": "1c7782f70b1f109d5be3ec58716a721f",
+      "timestamp": 1756208214369
     }
   ],
   "architrave nigeria limited": [
@@ -13127,6 +13127,20 @@
       "site": "JobGurus",
       "id": "86a24427a84b82d508e86edf7f27d130",
       "timestamp": 1756205021762
+    }
+  ],
+  "h & y furniture manufacturers": [
+    {
+      "site": "JobGurus",
+      "id": "48bfd75d3cfda2642a3542c2cc5a402f",
+      "timestamp": 1756208214369
+    }
+  ],
+  "ingenuity hr solutions": [
+    {
+      "site": "JobGurus",
+      "id": "cd594f7e3ae2a788592d30b597929b62",
+      "timestamp": 1756208214369
     }
   ]
 }
