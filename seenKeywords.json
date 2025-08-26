@@ -567,6 +567,11 @@
       "site": "JobGurus",
       "id": "cd762e805ff8bce0fb2b343ad67976fb",
       "timestamp": 1755714138864
+    },
+    {
+      "site": "JobGurus",
+      "id": "711f496b5892d5ea679eac84cb89b2ce",
+      "timestamp": 1756219281472
     }
   ],
   "abbfem group": [
@@ -4899,13 +4904,8 @@
   "egbin power plc": [
     {
       "site": "JobGurus",
-      "id": "2877f28aaf7e7a1169ae817a00b8926a",
-      "timestamp": 1753285527482
-    },
-    {
-      "site": "JobGurus",
-      "id": "edbea37234aabaa5decc2a989bd88b4b",
-      "timestamp": 1753285527482
+      "id": "5c86549935990e1a3563c4ace9d0d74c",
+      "timestamp": 1756219281472
     }
   ],
   "uleval technology": [
@@ -7978,6 +7978,11 @@
       "site": "JobGurus",
       "id": "aa7c2db4104655843f711370bc19940e",
       "timestamp": 1755718545573
+    },
+    {
+      "site": "JobGurus",
+      "id": "822460b16cfeb3cd620958854d9d37f2",
+      "timestamp": 1756219281472
     }
   ],
   "r & r recruiting services": [
@@ -12201,6 +12206,11 @@
       "site": "JobGurus",
       "id": "5882c2d188accc03a6ed33ed918ed5a0",
       "timestamp": 1756154400367
+    },
+    {
+      "site": "JobGurus",
+      "id": "d055996284788603a74ccaf0bf153854",
+      "timestamp": 1756219281472
     }
   ],
   "bemil nigeria limited": [
@@ -13148,6 +13158,13 @@
       "site": "JobGurus",
       "id": "06cc51ea0bc7e5e72dff2667af53d2ce",
       "timestamp": 1756217672871
+    }
+  ],
+  "radix capital partners limited": [
+    {
+      "site": "JobGurus",
+      "id": "362d2768e36e47417ce31a5805cfa06f",
+      "timestamp": 1756219281472
     }
   ]
 }
