@@ -2483,8 +2483,8 @@
   "limeswood international company limited": [
     {
       "site": "JobGurus",
-      "id": "56c56ef51842819812585f79a7f15384",
-      "timestamp": 1754667884593
+      "id": "549e4888e052490f067107cc85939f5b",
+      "timestamp": 1756217672871
     }
   ],
   "medbury pharmaceuticals": [
@@ -3017,8 +3017,8 @@
   "erisco foods limited": [
     {
       "site": "JobGurus",
-      "id": "47609606787523f583d070e764d2be5b",
-      "timestamp": 1755538942266
+      "id": "3219603478a4865d1ebcb434af66061b",
+      "timestamp": 1756217672871
     }
   ],
   "lauvee beauty salon": [
@@ -3576,8 +3576,8 @@
   "runola nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "bb76fbf6f59938c3a8913eed54ac149d",
-      "timestamp": 1754499141488
+      "id": "f7821dee470db9c975511a46d3f8b62c",
+      "timestamp": 1756217672871
     }
   ],
   "eclat human resources consulting limited": [
@@ -10037,8 +10037,8 @@
   "regent microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "063245b980b5a3cb642380365aeddcf2",
-      "timestamp": 1753786070027
+      "id": "9d06d23fffb0829cfc776c8ed49a5e95",
+      "timestamp": 1756217672871
     }
   ],
   "nw group": [
@@ -13141,6 +13141,13 @@
       "site": "JobGurus",
       "id": "cd594f7e3ae2a788592d30b597929b62",
       "timestamp": 1756208214369
+    }
+  ],
+  "multi-net group limited": [
+    {
+      "site": "JobGurus",
+      "id": "06cc51ea0bc7e5e72dff2667af53d2ce",
+      "timestamp": 1756217672871
     }
   ]
 }
