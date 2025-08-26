@@ -4926,6 +4926,11 @@
       "site": "JobGurus",
       "id": "f22068f97c66126d2847efdf897ee827",
       "timestamp": 1756228409546
+    },
+    {
+      "site": "JobGurus",
+      "id": "be8d294c12d85bec91b3d4bd0606d7ed",
+      "timestamp": 1756229926976
     }
   ],
   "uleval technology": [
@@ -13236,6 +13241,27 @@
       "site": "JobGurus",
       "id": "e70fe34ca8f138b1eb82997590d895fe",
       "timestamp": 1756228409546
+    }
+  ],
+  "foodhub by cwc": [
+    {
+      "site": "JobGurus",
+      "id": "fbb8a9c1534533dd92eba3d9919eae9c",
+      "timestamp": 1756229926976
+    }
+  ],
+  "oxfam": [
+    {
+      "site": "JobGurus",
+      "id": "77bc2f55014aba437480a77526a76db7",
+      "timestamp": 1756229926976
+    }
+  ],
+  "egbin power plc.": [
+    {
+      "site": "JobGurus",
+      "id": "74c5b7937d85495de6eb3f9ea7bc23ea",
+      "timestamp": 1756229926976
     }
   ]
 }
