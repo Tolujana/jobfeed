@@ -1350,13 +1350,8 @@
   "lifebank": [
     {
       "site": "JobGurus",
-      "id": "a93716aeeb4880bb747182aef70882c3",
-      "timestamp": 1749216438631
-    },
-    {
-      "site": "JobGurus",
-      "id": "2c2f9d2155a9cab0be2d6968e2a73856",
-      "timestamp": 1749309254654
+      "id": "d82e9ea74219d7d4a2e4a49dc43f7d37",
+      "timestamp": 1756232455098
     }
   ],
   "united nations international children's emergency fund": [
@@ -2668,8 +2663,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "2a4b4a8129f72719b93bd564d96887ac",
-      "timestamp": 1754301260202
+      "id": "25ae2fcf3e08b16d08934cd531590fcd",
+      "timestamp": 1756232455098
     }
   ],
   "international fertilizer development center": [
@@ -3516,8 +3511,8 @@
   "glovo nigeria": [
     {
       "site": "JobGurus",
-      "id": "17ac21bc0a93616d69e8cb5ff1e834d2",
-      "timestamp": 1753958876845
+      "id": "6d16e9cb33871753ac9e7123b9dad219",
+      "timestamp": 1756232455098
     }
   ],
   "mikano international": [
@@ -11721,8 +11716,8 @@
   "kennedia consulting": [
     {
       "site": "JobGurus",
-      "id": "69c87508ee85ec005c7acbe751beea2f",
-      "timestamp": 1755005469713
+      "id": "5a362a8e111b7f55772838d9770d42e4",
+      "timestamp": 1756232455098
     }
   ],
   "turaco logistics": [
@@ -13206,6 +13201,11 @@
       "site": "JobGurus",
       "id": "2f9da67eaf2ea40bcbdf0f114ee4c524",
       "timestamp": 1756222765280
+    },
+    {
+      "site": "JobGurus",
+      "id": "5733cf32fed8e5bc83ed618beb8392ec",
+      "timestamp": 1756232455098
     }
   ],
   "ldd consulting": [
