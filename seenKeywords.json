@@ -605,6 +605,11 @@
       "site": "JobGurus",
       "id": "76f30ece185728c9a2d5c27c6554c210",
       "timestamp": 1755893808124
+    },
+    {
+      "site": "JobGurus",
+      "id": "8319a11f0b68fc08dfa6449bab81767c",
+      "timestamp": 1756228409546
     }
   ],
   "food concepts plc": [
@@ -4916,6 +4921,11 @@
       "site": "JobGurus",
       "id": "5c86549935990e1a3563c4ace9d0d74c",
       "timestamp": 1756219281472
+    },
+    {
+      "site": "JobGurus",
+      "id": "f22068f97c66126d2847efdf897ee827",
+      "timestamp": 1756228409546
     }
   ],
   "uleval technology": [
@@ -9808,8 +9818,8 @@
   "kpmg": [
     {
       "site": "JobGurus",
-      "id": "9ea117fc867068469418d221543f077e",
-      "timestamp": 1753694656561
+      "id": "8a551f1c13ececfc873c7dfb2813415b",
+      "timestamp": 1756228409546
     }
   ],
   " esty agro": [
@@ -13212,6 +13222,20 @@
       "site": "JobGurus",
       "id": "4540f1178f82a7b8e3ff12d937121a35",
       "timestamp": 1756226669770
+    }
+  ],
+  "ptk consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "6b82db8b1ee2493f41736f58caf17495",
+      "timestamp": 1756228409546
+    }
+  ],
+  "chateau royal real estate limited": [
+    {
+      "site": "JobGurus",
+      "id": "e70fe34ca8f138b1eb82997590d895fe",
+      "timestamp": 1756228409546
     }
   ]
 }
