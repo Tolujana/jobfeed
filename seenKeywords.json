@@ -1002,6 +1002,11 @@
       "site": "JobGurus",
       "id": "1d1dcf2b93a399e83e48da6f247743f9",
       "timestamp": 1755715718659
+    },
+    {
+      "site": "JobGurus",
+      "id": "4ec5336e4fe5a58858fcb5085adc38e7",
+      "timestamp": 1756205021762
     }
   ],
   "brenhazy limited": [
@@ -10817,6 +10822,11 @@
       "site": "JobGurus",
       "id": "30e6951aeb3eed6608f1810e5d553df9",
       "timestamp": 1755789395772
+    },
+    {
+      "site": "JobGurus",
+      "id": "97315e65c1925ea1a83b8b6be4fbccda",
+      "timestamp": 1756205021762
     }
   ],
   "uridium technologies": [
@@ -13101,6 +13111,27 @@
       "site": "JobGurus",
       "id": "649281dc5bef17778948be7e57d2f785",
       "timestamp": 1756203392828
+    }
+  ],
+  "carrillion construction": [
+    {
+      "site": "JobGurus",
+      "id": "b9087818dc3e78e74800fb02c8cbb71c",
+      "timestamp": 1756205021762
+    }
+  ],
+  "seid hq": [
+    {
+      "site": "JobGurus",
+      "id": "94fdab8aa09df6419942e3bd58c3b388",
+      "timestamp": 1756205021762
+    }
+  ],
+  "society for women development & empowerment of nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "86a24427a84b82d508e86edf7f27d130",
+      "timestamp": 1756205021762
     }
   ]
 }
