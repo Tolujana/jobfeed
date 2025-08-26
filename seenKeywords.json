@@ -2385,6 +2385,11 @@
       "site": "JobGurus",
       "id": "17c9d04937752687cd43739e5b5bcbce",
       "timestamp": 1755886867076
+    },
+    {
+      "site": "JobGurus",
+      "id": "03d4fe0646dd3dc499611a1d6911837f",
+      "timestamp": 1756226669770
     }
   ],
   "federal polytechnic, bida.": [
@@ -3048,8 +3053,8 @@
   "mactay consulting": [
     {
       "site": "JobGurus",
-      "id": "7c8b5837050232f25277b11940f2ac8a",
-      "timestamp": 1755096290456
+      "id": "7e6a1b2b4ceb90876c36520da61bbfbc",
+      "timestamp": 1756226669770
     }
   ],
   "tybtitx services international limited": [
@@ -6914,18 +6919,8 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "695cff42a6d64da55b3cba92656db282",
-      "timestamp": 1753433383390
-    },
-    {
-      "site": "JobGurus",
-      "id": "a0b622f35eca1a5dfdff36648bc3bd47",
-      "timestamp": 1753438704035
-    },
-    {
-      "site": "JobGurus",
-      "id": "60ccaf529e2fdd0b516590218d17235b",
-      "timestamp": 1753962000564
+      "id": "96827c9fd2395956d66d0cb14fa2f498",
+      "timestamp": 1756226669770
     }
   ],
   "dansol": [
@@ -13203,6 +13198,20 @@
       "site": "JobGurus",
       "id": "1a5643bbff3e45da63b062c5d3899f73",
       "timestamp": 1756222765280
+    }
+  ],
+  "aino engineering limited": [
+    {
+      "site": "JobGurus",
+      "id": "04c59ff2d0cbf9f1736a6ec506b62109",
+      "timestamp": 1756226669770
+    }
+  ],
+  "ankorpointe integrated limited": [
+    {
+      "site": "JobGurus",
+      "id": "4540f1178f82a7b8e3ff12d937121a35",
+      "timestamp": 1756226669770
     }
   ]
 }
