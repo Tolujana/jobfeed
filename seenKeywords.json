@@ -336,13 +336,8 @@
   "ziba consulting": [
     {
       "site": "JobGurus",
-      "id": "28c325e8c952c78409be951775078cc7",
-      "timestamp": 1750768372232
-    },
-    {
-      "site": "JobGurus",
-      "id": "47cd801279714c717174ede881480a72",
-      "timestamp": 1751316081225
+      "id": "fc9d1b46deb12bae2cd22acbef6e0959",
+      "timestamp": 1756313086846
     }
   ],
   "castville solutions": [
@@ -12953,6 +12948,11 @@
       "site": "JobGurus",
       "id": "745ab30627d41abce9e4efd3720843ff",
       "timestamp": 1755893808124
+    },
+    {
+      "site": "JobGurus",
+      "id": "62b6cd2e0baa403ea9412ee5758d8d5f",
+      "timestamp": 1756313086846
     }
   ],
   "dm holdings": [
@@ -13274,6 +13274,25 @@
       "site": "JobGurus",
       "id": "d53bfc934b411436c1f947ad27ecd7de",
       "timestamp": 1756291247995
+    }
+  ],
+  "barama energy resources": [
+    {
+      "site": "JobGurus",
+      "id": "8160117227dc6237c4ca93775e04171f",
+      "timestamp": 1756313086846
+    },
+    {
+      "site": "JobGurus",
+      "id": "c313fb45373839860dd0ff2232dc7914",
+      "timestamp": 1756313086846
+    }
+  ],
+  "sunrise universal integrated": [
+    {
+      "site": "JobGurus",
+      "id": "9707abd6a541f56872bb2cbd1a227e5b",
+      "timestamp": 1756313086846
     }
   ]
 }
