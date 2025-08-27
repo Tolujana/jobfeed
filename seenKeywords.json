@@ -2390,6 +2390,11 @@
       "site": "JobGurus",
       "id": "03d4fe0646dd3dc499611a1d6911837f",
       "timestamp": 1756226669770
+    },
+    {
+      "site": "JobGurus",
+      "id": "79f4d26f0e92f3c3ffd669f7d9b7c9a9",
+      "timestamp": 1756325794884
     }
   ],
   "federal polytechnic, bida.": [
@@ -4203,8 +4208,8 @@
   "nspri guest house": [
     {
       "site": "JobGurus",
-      "id": "ba2beb2a16e0799f4c1cbf77b719eb2c",
-      "timestamp": 1750357242297
+      "id": "d74b465b335cb6f5ba144b3e2fc93eeb",
+      "timestamp": 1756325794884
     }
   ],
   "goldline nigeria limited": [
@@ -4231,8 +4236,8 @@
   "the label store": [
     {
       "site": "JobGurus",
-      "id": "46398200fee5cfd8d42ef91b7bc8b714",
-      "timestamp": 1753706174741
+      "id": "8c39636326e1ed2e6d1d26319eaf2833",
+      "timestamp": 1756325794884
     }
   ],
   "wellsworth energy services limited": [
@@ -9394,8 +9399,8 @@
   "avetium consult limited": [
     {
       "site": "JobGurus",
-      "id": "7bd9d405cdd7039e6453a7088f5ea53e",
-      "timestamp": 1753264075509
+      "id": "291a18c0e740edf63756e9aa9b41d868",
+      "timestamp": 1756325794884
     }
   ],
   "jemimah nigeria limited": [
@@ -13369,6 +13374,13 @@
       "site": "JobGurus",
       "id": "7130fafe560751e97b2dea0319680b49",
       "timestamp": 1756321970391
+    }
+  ],
+  "dicalo consulting group": [
+    {
+      "site": "JobGurus",
+      "id": "2248bbdf1d8e887425be76c2f36614ee",
+      "timestamp": 1756325794884
     }
   ]
 }
