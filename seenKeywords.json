@@ -8089,8 +8089,8 @@
   "fhemfel group": [
     {
       "site": "JobGurus",
-      "id": "8e3416432446ca785dadc455a010e19c",
-      "timestamp": 1752529098490
+      "id": "df3a15a3614b5da464472422b6e66ef8",
+      "timestamp": 1756318867955
     }
   ],
   "zara & fara": [
@@ -13301,6 +13301,11 @@
       "site": "JobGurus",
       "id": "c313fb45373839860dd0ff2232dc7914",
       "timestamp": 1756313086846
+    },
+    {
+      "site": "JobGurus",
+      "id": "deb2318c937fbb48db05b51d77198ce1",
+      "timestamp": 1756318867955
     }
   ],
   "sunrise universal integrated": [
@@ -13322,6 +13327,27 @@
       "site": "JobGurus",
       "id": "7849a5c487e01d66f537d9bbc4bbc78a",
       "timestamp": 1756316289818
+    }
+  ],
+  "un arena by lvg lifestyle": [
+    {
+      "site": "JobGurus",
+      "id": "abe5d053983dd4d02c66e7064047f4eb",
+      "timestamp": 1756318867955
+    }
+  ],
+  "mootaj global limited": [
+    {
+      "site": "JobGurus",
+      "id": "52a8248323c023b0933779cfe3f5ec9f",
+      "timestamp": 1756318867955
+    }
+  ],
+  "pally agro products limited": [
+    {
+      "site": "JobGurus",
+      "id": "61ae3b1c30528db162a85da3b25d6e88",
+      "timestamp": 1756318867955
     }
   ]
 }
