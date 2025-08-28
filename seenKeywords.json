@@ -4286,8 +4286,8 @@
   "newglobe": [
     {
       "site": "JobGurus",
-      "id": "91e45827760f325b1a6b88ef69228384",
-      "timestamp": 1754059607786
+      "id": "56657656d0297d24169507b96f914e74",
+      "timestamp": 1756397941914
     }
   ],
   "tiva creative": [
@@ -11173,8 +11173,8 @@
   "oconsulting limited": [
     {
       "site": "JobGurus",
-      "id": "58c8dfbac37bafd4eccc0da77907bc74",
-      "timestamp": 1754487554703
+      "id": "0a13b17f3d59a6dac5cb800dcb46e808",
+      "timestamp": 1756397941914
     }
   ],
   "new city university": [
@@ -13231,6 +13231,11 @@
       "site": "JobGurus",
       "id": "5733cf32fed8e5bc83ed618beb8392ec",
       "timestamp": 1756232455098
+    },
+    {
+      "site": "JobGurus",
+      "id": "2d559819e2b70d9fde30e2d169f24ebe",
+      "timestamp": 1756397941914
     }
   ],
   "ldd consulting": [
@@ -13433,6 +13438,20 @@
       "site": "JobGurus",
       "id": "88157bf7baab941613414d7dc3177b1d",
       "timestamp": 1756395549078
+    }
+  ],
+  "impact investors foundation": [
+    {
+      "site": "JobGurus",
+      "id": "19c9a6677bd8090d8b966d277a1a0ba1",
+      "timestamp": 1756397941914
+    }
+  ],
+  "trend micro incorporated": [
+    {
+      "site": "JobGurus",
+      "id": "58aad49ba462fbcda5bac41448ed9eb3",
+      "timestamp": 1756397941914
     }
   ]
 }
