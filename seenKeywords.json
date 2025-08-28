@@ -3400,8 +3400,8 @@
   "cvm career company": [
     {
       "site": "JobGurus",
-      "id": "3148bf87bede3069c1f4bbd072591978",
-      "timestamp": 1750157094363
+      "id": "df93d0060b80d1f8078fc417dc906b0a",
+      "timestamp": 1756406817337
     }
   ],
   "jumia": [
@@ -13497,6 +13497,34 @@
       "site": "JobGurus",
       "id": "f66e7272264fc773d7d621e451be8dfd",
       "timestamp": 1756405272411
+    }
+  ],
+  "siemens": [
+    {
+      "site": "JobGurus",
+      "id": "1c47abadba1fa9f37e731a46efbcb37e",
+      "timestamp": 1756406817337
+    }
+  ],
+  "do-ii designs": [
+    {
+      "site": "JobGurus",
+      "id": "46933769eedfa60ed99df7ae6fc91bd7",
+      "timestamp": 1756406817337
+    }
+  ],
+  "bic": [
+    {
+      "site": "JobGurus",
+      "id": "89827e73b89a5e63a3798680f3dd4e19",
+      "timestamp": 1756406817337
+    }
+  ],
+  "nemitt pharmaceuticals limited": [
+    {
+      "site": "JobGurus",
+      "id": "8688295b9d2defa8a3a79a5afd9ac7e7",
+      "timestamp": 1756406817337
     }
   ]
 }
