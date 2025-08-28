@@ -4175,6 +4175,11 @@
       "site": "JobGurus",
       "id": "749b39dab2fcf5e35b362f9fa8773ccb",
       "timestamp": 1755804936003
+    },
+    {
+      "site": "JobGurus",
+      "id": "885eef2bb68793fa4ba1a339d34bc116",
+      "timestamp": 1756401182039
     }
   ],
   "bottleking limited": [
@@ -8415,8 +8420,8 @@
   "shalina healthcare": [
     {
       "site": "JobGurus",
-      "id": "c0e6aac8d666cd5025077a63f0d1f775",
-      "timestamp": 1752617792855
+      "id": "0fe57fffaa10a19dbe806e116fb1efc5",
+      "timestamp": 1756401182039
     }
   ],
   "aluko & oyebode": [
@@ -12864,6 +12869,11 @@
       "site": "JobGurus",
       "id": "2d38b13a59d2656a80afc2f8a92865ab",
       "timestamp": 1756221380816
+    },
+    {
+      "site": "JobGurus",
+      "id": "99fa66085d8a00a2375a3539d7290ce3",
+      "timestamp": 1756401182039
     }
   ],
   "fidson healthcare plc": [
@@ -12871,6 +12881,11 @@
       "site": "JobGurus",
       "id": "4f964a83f3932a0eef914a798d6fd096",
       "timestamp": 1755804936003
+    },
+    {
+      "site": "JobGurus",
+      "id": "0a47bf58d232ffcd759c915d43173f8e",
+      "timestamp": 1756401182039
     }
   ],
   "emerald food & beverages company limited": [
@@ -13481,6 +13496,13 @@
       "site": "JobGurus",
       "id": "a9be04801babbdd49a7a912d3b671fea",
       "timestamp": 1756399472798
+    }
+  ],
+  "stratahr limited": [
+    {
+      "site": "JobGurus",
+      "id": "bf024e8d0d2620d5182be822ca8f7102",
+      "timestamp": 1756401182039
     }
   ]
 }
