@@ -525,8 +525,8 @@
   "first excelsia professional services limited": [
     {
       "site": "JobGurus",
-      "id": "d827b06bdfa81fa46864dd904f403956",
-      "timestamp": 1755544434053
+      "id": "e8d0d1c22edb4a49d170904c7aa88fb1",
+      "timestamp": 1756402683997
     }
   ],
   "universal human resource consult": [
@@ -3311,13 +3311,8 @@
   "abnl limited": [
     {
       "site": "JobGurus",
-      "id": "68cac16997d8f2c225a7a7b0f3141745",
-      "timestamp": 1752331250250
-    },
-    {
-      "site": "JobGurus",
-      "id": "8dfbb61f239b03406dc6e4f195cfe088",
-      "timestamp": 1752337088530
+      "id": "54df53f7a7602cd2b8d7c826065aec48",
+      "timestamp": 1756402683997
     }
   ],
   "daily need distributors limited": [
@@ -5781,13 +5776,8 @@
   "rosabon financial services": [
     {
       "site": "JobGurus",
-      "id": "433e0d27a634eac59d86b56666b37d4f",
-      "timestamp": 1754651698047
-    },
-    {
-      "site": "JobGurus",
-      "id": "661cdc1a68975a5a73ac0b7e163b3434",
-      "timestamp": 1755250861679
+      "id": "ce3335d2825ff96665cedadb22761072",
+      "timestamp": 1756402683997
     }
   ],
   "mfs financial services limited": [
@@ -10900,13 +10890,8 @@
   "hiit plc": [
     {
       "site": "JobGurus",
-      "id": "a4d7afda4d759d30dcdc1099022c40ef",
-      "timestamp": 1754317252759
-    },
-    {
-      "site": "JobGurus",
-      "id": "c80049b5c3037a435bd7182d469eea44",
-      "timestamp": 1754576416923
+      "id": "4a800687a4921b5744f72ed0eade1150",
+      "timestamp": 1756402683997
     }
   ],
   "lasad ventures": [
@@ -13503,6 +13488,13 @@
       "site": "JobGurus",
       "id": "bf024e8d0d2620d5182be822ca8f7102",
       "timestamp": 1756401182039
+    }
+  ],
+  "permanent capital ventures limited": [
+    {
+      "site": "JobGurus",
+      "id": "ae4c56aaf5ddf16fd91a4eab68e77abd",
+      "timestamp": 1756402683997
     }
   ]
 }
