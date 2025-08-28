@@ -145,18 +145,8 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "a80ba346d53937934b73c914e7de1b82",
-      "timestamp": 1754558575956
-    },
-    {
-      "site": "JobGurus",
-      "id": "68f5a63ff95291b407fbd8eacb4addc1",
-      "timestamp": 1754995514674
-    },
-    {
-      "site": "JobGurus",
-      "id": "1fc0e7ec6e955b813bbfa60d22fe327d",
-      "timestamp": 1755080285374
+      "id": "39a6c1acd24a569cc3f4c86e55711864",
+      "timestamp": 1756405272411
     }
   ],
   "cway group": [
@@ -2807,8 +2797,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "3de49bd3ec67d375a0d263e1cd03574f",
-      "timestamp": 1754919283800
+      "id": "e0aa310c06a074a2e239d78983e8920b",
+      "timestamp": 1756405272411
     }
   ],
   "netcom africa": [
@@ -3119,6 +3109,11 @@
       "site": "JobGurus",
       "id": "f2c51be5023bd68485ac65ffe386d166",
       "timestamp": 1756150573523
+    },
+    {
+      "site": "JobGurus",
+      "id": "85791c6066ccf3a341902336a6f8f483",
+      "timestamp": 1756405272411
     }
   ],
   "associates consulting limited": [
@@ -11053,8 +11048,8 @@
   "securehub connect": [
     {
       "site": "JobGurus",
-      "id": "5b85df1b67523913165f9ab024d5fb22",
-      "timestamp": 1754472254853
+      "id": "200e0db9bf588eef989eb58a1e698833",
+      "timestamp": 1756405272411
     }
   ],
   "qupee consult": [
@@ -13495,6 +13490,13 @@
       "site": "JobGurus",
       "id": "ae4c56aaf5ddf16fd91a4eab68e77abd",
       "timestamp": 1756402683997
+    }
+  ],
+  "dangote industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "f66e7272264fc773d7d621e451be8dfd",
+      "timestamp": 1756405272411
     }
   ]
 }
