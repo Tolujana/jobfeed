@@ -496,13 +496,8 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "a4b5cd9b869470db722a985db7bf6580",
-      "timestamp": 1755804936003
-    },
-    {
-      "site": "JobGurus",
-      "id": "239a1da6efdf34a32dc59d67c641c16d",
-      "timestamp": 1755884363248
+      "id": "f284b8b18097be262746d4192959ae7d",
+      "timestamp": 1756491627287
     }
   ],
   "cig motors co. limited": [
@@ -1875,8 +1870,13 @@
   "espritsor enterprises": [
     {
       "site": "JobGurus",
-      "id": "ac38b2c45ad8d7eb9b8ccf4ae389e08d",
-      "timestamp": 1749483692113
+      "id": "07bc5094641116e87b09499daad622a7",
+      "timestamp": 1756491627287
+    },
+    {
+      "site": "JobGurus",
+      "id": "37c448d6a069eb1c4c0df5b2f155f4bf",
+      "timestamp": 1756491627287
     }
   ],
   "express resource connect": [
@@ -11130,8 +11130,8 @@
   "paystack": [
     {
       "site": "JobGurus",
-      "id": "8be30386e8bc35abd8e1e678bf7f7444",
-      "timestamp": 1754478928857
+      "id": "2b5d3411afb01ec5c21b20d032c64b9f",
+      "timestamp": 1756491627287
     }
   ],
   "c.don communication limited": [
@@ -13542,6 +13542,13 @@
       "site": "JobGurus",
       "id": "519cfef265fccb6ba7000ba9cba66f04",
       "timestamp": 1756429825599
+    }
+  ],
+  "ardova plc ardova plc": [
+    {
+      "site": "JobGurus",
+      "id": "ac1a478304356b8361739abf56bcdb9c",
+      "timestamp": 1756491627287
     }
   ]
 }
