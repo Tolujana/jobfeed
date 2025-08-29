@@ -2492,6 +2492,11 @@
       "site": "JobGurus",
       "id": "68cf90cf6578f0f0945931b9759ae1be",
       "timestamp": 1756493057186
+    },
+    {
+      "site": "JobGurus",
+      "id": "7bfc39a63fd651f3227ff67ef6525df0",
+      "timestamp": 1756498549613
     }
   ],
   "sifax group": [
@@ -5648,8 +5653,8 @@
   "traveldeer": [
     {
       "site": "JobGurus",
-      "id": "839e4c87c3f4bd49e3d060bfc326afc2",
-      "timestamp": 1751121658982
+      "id": "73d1197a02a0cc0bb3e06147ff6a4f65",
+      "timestamp": 1756498549613
     }
   ],
   "waterbrooks human resource enterprise": [
@@ -6227,8 +6232,8 @@
   "fibre hub": [
     {
       "site": "JobGurus",
-      "id": "bf15a6001683d7e2369e1911a09eee3e",
-      "timestamp": 1751469446164
+      "id": "2ac3307eeb46e02eaec95ad573be7530",
+      "timestamp": 1756498549613
     }
   ],
   "ama zuma group": [
@@ -13588,6 +13593,20 @@
       "site": "JobGurus",
       "id": "10f792a11a7827ee8f32579989728b48",
       "timestamp": 1756496146444
+    }
+  ],
+  "borderlesshr": [
+    {
+      "site": "JobGurus",
+      "id": "7022caa68541cea5651d05a6f06e2df1",
+      "timestamp": 1756498549613
+    }
+  ],
+  "sankore global investments limited": [
+    {
+      "site": "JobGurus",
+      "id": "e4cd2a5a6810a99382b62bb5c6748d1c",
+      "timestamp": 1756498549613
     }
   ]
 }
