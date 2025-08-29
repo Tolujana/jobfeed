@@ -1086,13 +1086,8 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "1d98a3b4a4010885be12b36e12491f47",
-      "timestamp": 1754161952473
-    },
-    {
-      "site": "JobGurus",
-      "id": "6a39a66a12d1468933c42c67fcfb9dbb",
-      "timestamp": 1754561889861
+      "id": "6afbe232e75475cdae0726c82cd64b63",
+      "timestamp": 1756489046077
     }
   ],
   "elizabeth maddeux limited": [
@@ -7209,8 +7204,13 @@
   "prestigious consulting": [
     {
       "site": "JobGurus",
-      "id": "b5f9a9b4fc5ea9a870158efbf4fafc16",
-      "timestamp": 1754057888211
+      "id": "678db1c676f2615dc9a76cb77275a586",
+      "timestamp": 1756489046077
+    },
+    {
+      "site": "JobGurus",
+      "id": "61078dae9065adb0906ae5e3b4c566ff",
+      "timestamp": 1756489046077
     }
   ],
   "quicky chillis": [
@@ -9401,6 +9401,11 @@
       "site": "JobGurus",
       "id": "291a18c0e740edf63756e9aa9b41d868",
       "timestamp": 1756325794884
+    },
+    {
+      "site": "JobGurus",
+      "id": "8d50ff18fb1d3ef241141206dbea167c",
+      "timestamp": 1756489046077
     }
   ],
   "jemimah nigeria limited": [
@@ -11379,8 +11384,8 @@
   "pulse nigeria": [
     {
       "site": "JobGurus",
-      "id": "08bb2a2dbc01b68c5374e8ea8cce370f",
-      "timestamp": 1755270977630
+      "id": "c2ed0b944d2c3c4ff1ccff36ab1b7228",
+      "timestamp": 1756489046077
     }
   ],
   "nairametrics": [
