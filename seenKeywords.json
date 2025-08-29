@@ -126,13 +126,13 @@
   "african industries group": [
     {
       "site": "JobGurus",
-      "id": "243a726b15b4a676f87d4609e92d71b4",
-      "timestamp": 1755353586202
+      "id": "0f0de8c3454ada47f02fa0d86634a50d",
+      "timestamp": 1755886867076
     },
     {
       "site": "JobGurus",
-      "id": "0f0de8c3454ada47f02fa0d86634a50d",
-      "timestamp": 1755886867076
+      "id": "8fe9257436c5213d8bb51c956ae6f72b",
+      "timestamp": 1756487574989
     }
   ],
   "residency hotel limited": [
@@ -1313,8 +1313,8 @@
   "catalyst path consulting": [
     {
       "site": "JobGurus",
-      "id": "d9951e5878d0cc3a34be3f8a209a7062",
-      "timestamp": 1752920187320
+      "id": "1ca709e46595a15736af8a8e7db490f1",
+      "timestamp": 1756487574989
     }
   ],
   "jtechtrade": [
@@ -6377,8 +6377,8 @@
   "bluradish": [
     {
       "site": "JobGurus",
-      "id": "d03fbfc3718b5291420908cccbbd685f",
-      "timestamp": 1755178370729
+      "id": "a02c3217e0ea6bdb730a2f3ac4d94b5e",
+      "timestamp": 1756487574989
     }
   ],
   "optimed pharmacy": [
@@ -8505,13 +8505,8 @@
   "stella maris high school": [
     {
       "site": "JobGurus",
-      "id": "c660a3f7b3d11c7110d5552b7cee307b",
-      "timestamp": 1752687894197
-    },
-    {
-      "site": "JobGurus",
-      "id": "8546342afd9ead38af56b43462b57432",
-      "timestamp": 1752687894197
+      "id": "71d72a2fd0a22bf69707783cdcab0a80",
+      "timestamp": 1756487574989
     }
   ],
   "havana group": [
@@ -12929,6 +12924,11 @@
       "site": "JobGurus",
       "id": "eae25ffadc63ad4b5ed6f542d8c7ee53",
       "timestamp": 1755952091743
+    },
+    {
+      "site": "JobGurus",
+      "id": "b81a59828f20a7ac0d83ffdd05b704e7",
+      "timestamp": 1756487574989
     }
   ],
   "ceo's mart": [
