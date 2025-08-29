@@ -498,6 +498,11 @@
       "site": "JobGurus",
       "id": "f284b8b18097be262746d4192959ae7d",
       "timestamp": 1756491627287
+    },
+    {
+      "site": "JobGurus",
+      "id": "a19b5b545002ec1e6e38fe8afb5a281d",
+      "timestamp": 1756493057186
     }
   ],
   "cig motors co. limited": [
@@ -2465,8 +2470,8 @@
   "dreamcity property & investment limited": [
     {
       "site": "JobGurus",
-      "id": "9b9d594421f9ca5d2b2419d247b9efc7",
-      "timestamp": 1754475514635
+      "id": "68cf90cf6578f0f0945931b9759ae1be",
+      "timestamp": 1756493057186
     }
   ],
   "sifax group": [
@@ -3299,8 +3304,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "a7ed2631ec26f22bf57fbebbe556f437",
-      "timestamp": 1753796267988
+      "id": "7b7ec43ec7d04aabaf0badf0883a6720",
+      "timestamp": 1756493057186
     }
   ],
   "abnl limited": [
@@ -6556,8 +6561,8 @@
   "obsidian capital": [
     {
       "site": "JobGurus",
-      "id": "bd2db09265a15934e1bedf6d007189ff",
-      "timestamp": 1751553809553
+      "id": "4defa85f0bc404387af64fac4436bb52",
+      "timestamp": 1756493057186
     }
   ],
   "global windsor group": [
@@ -13549,6 +13554,13 @@
       "site": "JobGurus",
       "id": "ac1a478304356b8361739abf56bcdb9c",
       "timestamp": 1756491627287
+    }
+  ],
+  "talent towers": [
+    {
+      "site": "JobGurus",
+      "id": "3fdd65dfa2a20e5fc89b6fcf9bd37738",
+      "timestamp": 1756493057186
     }
   ]
 }
