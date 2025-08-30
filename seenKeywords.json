@@ -8288,8 +8288,8 @@
   "maybrands limited": [
     {
       "site": "JobGurus",
-      "id": "90f2f80d28a6aaa451239eecd814cfd4",
-      "timestamp": 1754919283800
+      "id": "ed7d98093cc5330c46b074004786a841",
+      "timestamp": 1756546540617
     }
   ],
   "adexen recruitment agency": [
@@ -13441,6 +13441,11 @@
       "site": "JobGurus",
       "id": "2248bbdf1d8e887425be76c2f36614ee",
       "timestamp": 1756325794884
+    },
+    {
+      "site": "JobGurus",
+      "id": "419d9e53e1f5a6093070bbfd7839c7b4",
+      "timestamp": 1756546540617
     }
   ],
   "marquis concierge limited": [
@@ -13630,6 +13635,11 @@
       "site": "JobGurus",
       "id": "9ed637f43cdd503ac0115d2f40611c33",
       "timestamp": 1756545216836
+    },
+    {
+      "site": "JobGurus",
+      "id": "7adac19583cf929a557a87574c9b9924",
+      "timestamp": 1756546540617
     }
   ],
   "solevo group": [
@@ -13642,6 +13652,20 @@
       "site": "JobGurus",
       "id": "5982c56bc8d8fe21efac7799432d1a12",
       "timestamp": 1756545216836
+    }
+  ],
+  "acoustic expert limited": [
+    {
+      "site": "JobGurus",
+      "id": "e27f6c3e8ae7f5b65771dd8432325152",
+      "timestamp": 1756546540617
+    }
+  ],
+  "majeurs holdings limited": [
+    {
+      "site": "JobGurus",
+      "id": "a7eb147e9f57ca2a1d1434a0b1155958",
+      "timestamp": 1756546540617
     }
   ]
 }
