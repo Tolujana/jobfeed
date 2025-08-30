@@ -475,8 +475,8 @@
   "clinix healthcare": [
     {
       "site": "JobGurus",
-      "id": "c6bac9fe27e969cdea224482040ff015",
-      "timestamp": 1753875595072
+      "id": "22ed8b71d35e20bb1e1880acd19eb969",
+      "timestamp": 1756550257539
     }
   ],
   "dgic international business services limited": [
@@ -13654,6 +13654,11 @@
       "site": "JobGurus",
       "id": "e27f6c3e8ae7f5b65771dd8432325152",
       "timestamp": 1756546540617
+    },
+    {
+      "site": "JobGurus",
+      "id": "8f3a3d43ab5c339a7bc0b842e94ee90a",
+      "timestamp": 1756550257539
     }
   ],
   "majeurs holdings limited": [
@@ -13680,6 +13685,18 @@
       "site": "JobGurus",
       "id": "4a28b5e2b241e202a2b14bd302f17ec6",
       "timestamp": 1756548814915
+    },
+    {
+      "site": "JobGurus",
+      "id": "27dddbc278edda44ff0e957db20ef830",
+      "timestamp": 1756550257539
+    }
+  ],
+  "ayo falaiye + co": [
+    {
+      "site": "JobGurus",
+      "id": "1617979ff7b55fb97b98025185eaa259",
+      "timestamp": 1756550257539
     }
   ]
 }
