@@ -1530,18 +1530,13 @@
   "unified payment services limited": [
     {
       "site": "JobGurus",
-      "id": "a65608b3da1abb68c2479d59508a27b9",
-      "timestamp": 1754487554703
+      "id": "c7c373f559cc111a4d25281bfbc62b59",
+      "timestamp": 1756548814915
     },
     {
       "site": "JobGurus",
-      "id": "c70a1416a896e110268f7fe7ecdcf9a3",
-      "timestamp": 1755008164745
-    },
-    {
-      "site": "JobGurus",
-      "id": "d973fba5c9d71cf5c5b008a371310459",
-      "timestamp": 1755009874048
+      "id": "e7eb802aa9c3e31d129424878b598cf6",
+      "timestamp": 1756548814915
     }
   ],
   "straitpay": [
@@ -13666,6 +13661,25 @@
       "site": "JobGurus",
       "id": "a7eb147e9f57ca2a1d1434a0b1155958",
       "timestamp": 1756546540617
+    }
+  ],
+  "goodland proconsult limited": [
+    {
+      "site": "JobGurus",
+      "id": "f763467580527e67ed0bdf7f90de901c",
+      "timestamp": 1756548814915
+    }
+  ],
+  "miva open university": [
+    {
+      "site": "JobGurus",
+      "id": "5c01d8ae664c139e9b7ead94d394ad9a",
+      "timestamp": 1756548814915
+    },
+    {
+      "site": "JobGurus",
+      "id": "4a28b5e2b241e202a2b14bd302f17ec6",
+      "timestamp": 1756548814915
     }
   ]
 }
