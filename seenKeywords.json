@@ -723,6 +723,11 @@
       "site": "JobGurus",
       "id": "d7c824bc9f0198132ceacb97970d50a0",
       "timestamp": 1756499857682
+    },
+    {
+      "site": "JobGurus",
+      "id": "e42607c3a9e5cfaa09115d9227870457",
+      "timestamp": 1756755363325
     }
   ],
   "greensprings school": [
@@ -6255,8 +6260,8 @@
   "nigeria sinotruck limited": [
     {
       "site": "JobGurus",
-      "id": "53caa1fd486fe731490b5142f8a2861a",
-      "timestamp": 1755011850042
+      "id": "739b3876b949fb9d550a1de874cdc9d8",
+      "timestamp": 1756755363325
     }
   ],
   "lington & bernie consulting limited": [
@@ -13801,6 +13806,13 @@
       "site": "JobGurus",
       "id": "057d1cd88348531d5cd8b8bce7540664",
       "timestamp": 1756752290552
+    }
+  ],
+  "key retail group": [
+    {
+      "site": "JobGurus",
+      "id": "1a15c618001a58efa04842286f7f191b",
+      "timestamp": 1756755363325
     }
   ]
 }
