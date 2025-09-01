@@ -5907,8 +5907,8 @@
   "masruq investment limited": [
     {
       "site": "JobGurus",
-      "id": "1df78364835ea90601a899a7b11b62ac",
-      "timestamp": 1751319507251
+      "id": "87846de1bf5dc32fc87d28ca154a218c",
+      "timestamp": 1756726569288
     }
   ],
   "ace real estates development limited": [
@@ -13504,6 +13504,11 @@
       "site": "JobGurus",
       "id": "fbb21419131e70abbe1792f9a6b630e7",
       "timestamp": 1756399472798
+    },
+    {
+      "site": "JobGurus",
+      "id": "999d24d4c1fada8567fd5b9a1fb404d8",
+      "timestamp": 1756726569288
     }
   ],
   "9mobile": [
@@ -13697,6 +13702,27 @@
       "site": "JobGurus",
       "id": "1617979ff7b55fb97b98025185eaa259",
       "timestamp": 1756550257539
+    }
+  ],
+  "emerson  automation solutions": [
+    {
+      "site": "JobGurus",
+      "id": "ee09ec4f972eb405df5d7931d4ac5425",
+      "timestamp": 1756726569288
+    }
+  ],
+  "fave consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "919265e3f4dfcbde107cf75c27b008e6",
+      "timestamp": 1756726569288
+    }
+  ],
+  "av-tec limited": [
+    {
+      "site": "JobGurus",
+      "id": "a275eb11c244393a3086aa7124592aba",
+      "timestamp": 1756726569288
     }
   ]
 }
