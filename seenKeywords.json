@@ -5627,6 +5627,11 @@
       "site": "JobGurus",
       "id": "6878ef47e3c099859970cfa383d96f5a",
       "timestamp": 1756320294152
+    },
+    {
+      "site": "JobGurus",
+      "id": "c3dc33c721a6c1f1737725dfefd9a0f9",
+      "timestamp": 1756757721848
     }
   ],
   "blucon valley limited": [
@@ -7002,8 +7007,8 @@
   "patrisan jozzy recruitment": [
     {
       "site": "JobGurus",
-      "id": "63cc9ee8ff476dcff666e8e6e4c6baf0",
-      "timestamp": 1751897781507
+      "id": "3d1a544491fea4386897ed64a96a5d25",
+      "timestamp": 1756757721848
     }
   ],
   "chilis restaurant": [
@@ -13813,6 +13818,20 @@
       "site": "JobGurus",
       "id": "1a15c618001a58efa04842286f7f191b",
       "timestamp": 1756755363325
+    }
+  ],
+  "golden line global services limited": [
+    {
+      "site": "JobGurus",
+      "id": "ba6131333b2bcf0a3726d628b96e9d84",
+      "timestamp": 1756757721848
+    }
+  ],
+  "global oneword healthcare limited": [
+    {
+      "site": "JobGurus",
+      "id": "db9b2db46ea50d943410863e0456d0d7",
+      "timestamp": 1756757721848
     }
   ]
 }
