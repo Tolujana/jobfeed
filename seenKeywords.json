@@ -4460,6 +4460,11 @@
       "site": "JobGurus",
       "id": "608889c980e17b7882056817663d29ca",
       "timestamp": 1756499857682
+    },
+    {
+      "site": "JobGurus",
+      "id": "5ae9e42ab0192466cadbbeff59102a73",
+      "timestamp": 1756729908142
     }
   ],
   "rishcon digital agency": [
@@ -12214,8 +12219,8 @@
   "cravecity mega limited": [
     {
       "site": "JobGurus",
-      "id": "6690a1cb8f9d05e70f0daede93f69e7d",
-      "timestamp": 1755351702297
+      "id": "9f34b8e83a2d445aef57ab654cc42780",
+      "timestamp": 1756729908142
     }
   ],
   "welcome u shopping centre": [
@@ -13161,6 +13166,11 @@
       "site": "JobGurus",
       "id": "c5c070ad875df7f2270e8259054f2109",
       "timestamp": 1756146166753
+    },
+    {
+      "site": "JobGurus",
+      "id": "cb22bf0b7deef76468b92c004954df82",
+      "timestamp": 1756729908142
     }
   ],
   "soft alliance": [
@@ -13723,6 +13733,20 @@
       "site": "JobGurus",
       "id": "a275eb11c244393a3086aa7124592aba",
       "timestamp": 1756726569288
+    }
+  ],
+  "deslog energy services limited": [
+    {
+      "site": "JobGurus",
+      "id": "3d8be804951e541f0140f978b9ff8182",
+      "timestamp": 1756729908142
+    }
+  ],
+  "greenlight planet": [
+    {
+      "site": "JobGurus",
+      "id": "1afaf281af4ecb4624511c43bf384fdb",
+      "timestamp": 1756729908142
     }
   ]
 }
