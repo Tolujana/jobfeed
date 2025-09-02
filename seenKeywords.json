@@ -6492,6 +6492,11 @@
       "site": "JobGurus",
       "id": "2b93b69bd559e14dec482e433673ebbf",
       "timestamp": 1756311527000
+    },
+    {
+      "site": "JobGurus",
+      "id": "ec77f5d199e3ad07514aaeadb4703395",
+      "timestamp": 1756827628518
     }
   ],
   "lopterra services limited": [
@@ -13903,6 +13908,13 @@
       "site": "JobGurus",
       "id": "ed74588bc043d1fdfbaf674e41da5058",
       "timestamp": 1756826159574
+    }
+  ],
+  "across global travel & tours limited": [
+    {
+      "site": "JobGurus",
+      "id": "5bf3426ad37c80294f1debd1850c3bfb",
+      "timestamp": 1756827628518
     }
   ]
 }
