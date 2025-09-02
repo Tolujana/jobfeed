@@ -6247,8 +6247,8 @@
   "lington & bernie consulting limited": [
     {
       "site": "JobGurus",
-      "id": "e5a18a5358fb62c4d77c5aab73e95e69",
-      "timestamp": 1754046860960
+      "id": "4d8be92070470142b03ba4ac894a5f92",
+      "timestamp": 1756831497680
     }
   ],
   "calibration and non-destructive services limited": [
@@ -13915,6 +13915,27 @@
       "site": "JobGurus",
       "id": "5bf3426ad37c80294f1debd1850c3bfb",
       "timestamp": 1756827628518
+    }
+  ],
+  "s&p global commodity insights": [
+    {
+      "site": "JobGurus",
+      "id": "a387f6d37733e1e6c3153ababb4b1228",
+      "timestamp": 1756831497680
+    }
+  ],
+  "duplo": [
+    {
+      "site": "JobGurus",
+      "id": "17f25bb3e769781ea238f2b8b1a0dcbd",
+      "timestamp": 1756831497680
+    }
+  ],
+  "dcsl corporate service limited": [
+    {
+      "site": "JobGurus",
+      "id": "77c5d37433efa448501f864d42ceea4d",
+      "timestamp": 1756831497680
     }
   ]
 }
