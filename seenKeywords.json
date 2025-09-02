@@ -836,11 +836,6 @@
   "elvaridah limited": [
     {
       "site": "JobGurus",
-      "id": "973fc3452b48649c809dac78f3ef80e9",
-      "timestamp": 1755789395772
-    },
-    {
-      "site": "JobGurus",
       "id": "56ef894edd66cfc9c65b5abc060c6596",
       "timestamp": 1756314788075
     },
@@ -848,6 +843,11 @@
       "site": "JobGurus",
       "id": "90bdf634f453a100a9bc6873765bd9cc",
       "timestamp": 1756314788075
+    },
+    {
+      "site": "JobGurus",
+      "id": "175d9156836fc5787637435bb053aa94",
+      "timestamp": 1756834635152
     }
   ],
   "razley print limited": [
@@ -992,13 +992,8 @@
   "workforce group": [
     {
       "site": "JobGurus",
-      "id": "88c48577ac8d16fea0e050acc426d6f6",
-      "timestamp": 1753197496676
-    },
-    {
-      "site": "JobGurus",
-      "id": "ac29fac9e45e3b4bc165ee488a64320b",
-      "timestamp": 1753712338258
+      "id": "35f07c09d385cc72130e0ce5d7334d2d",
+      "timestamp": 1756834635152
     }
   ],
   "zenith carex international limited": [
@@ -4852,8 +4847,8 @@
   "kennedia consulting limited": [
     {
       "site": "JobGurus",
-      "id": "f6e8ca04a5f48a7d8d57a6d8d3ea7ff4",
-      "timestamp": 1755005469713
+      "id": "2df0dc774efe85681b69e1613eb84454",
+      "timestamp": 1756834635152
     }
   ],
   "african natural resources & mines limited": [
@@ -13938,6 +13933,20 @@
       "site": "JobGurus",
       "id": "e6bc23c175e761762791f6416a78db29",
       "timestamp": 1756833161203
+    }
+  ],
+  "vale fmc": [
+    {
+      "site": "JobGurus",
+      "id": "de08ab09482de53b4b520d6ff7deea1c",
+      "timestamp": 1756834635152
+    }
+  ],
+  "the moment": [
+    {
+      "site": "JobGurus",
+      "id": "ecd4ee59f1eab613370c2ddd3f73ba3e",
+      "timestamp": 1756834635152
     }
   ]
 }
