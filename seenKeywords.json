@@ -636,8 +636,8 @@
   "vantegral consulting": [
     {
       "site": "JobGurus",
-      "id": "ea2e7d3f94be2e868f2062cb85daa879",
-      "timestamp": 1756208214369
+      "id": "2da38df1ae20a3de53330313e340edab",
+      "timestamp": 1756819574681
     }
   ],
   "private sector health alliance of nigeria": [
@@ -763,8 +763,8 @@
   "chelis bookazine limited": [
     {
       "site": "JobGurus",
-      "id": "502d1cbd2632f6542af63c56bd63912f",
-      "timestamp": 1753371753217
+      "id": "c0b3eb0008d34323ce610d8bb9fc2259",
+      "timestamp": 1756819574681
     }
   ],
   "interrand group": [
@@ -10528,13 +10528,8 @@
   "totalenergies": [
     {
       "site": "JobGurus",
-      "id": "ff25cc2e6d6ef3397a29eff762da9bfa",
-      "timestamp": 1753971515534
-    },
-    {
-      "site": "JobGurus",
-      "id": "19297cd6d7cf5197007f76d358b3725e",
-      "timestamp": 1754051701950
+      "id": "53d55aee9bf63461aca0773835603083",
+      "timestamp": 1756819574681
     }
   ],
   "british council": [
@@ -13837,6 +13832,20 @@
       "site": "JobGurus",
       "id": "480ccfe17bd71463bed6b5fc68ecb6da",
       "timestamp": 1756759043326
+    }
+  ],
+  "kassie classic": [
+    {
+      "site": "JobGurus",
+      "id": "6d875964636059090c83b3220b49d7ff",
+      "timestamp": 1756819574681
+    }
+  ],
+  "ciwsr global": [
+    {
+      "site": "JobGurus",
+      "id": "bd1b262eb8238567300bfba9acee3e4b",
+      "timestamp": 1756819574681
     }
   ]
 }
