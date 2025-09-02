@@ -2104,8 +2104,8 @@
   "krystal digital solutions limited": [
     {
       "site": "JobGurus",
-      "id": "9df84a2baf4e06c81be0695c079fbddc",
-      "timestamp": 1749563476808
+      "id": "c1f74d84eff6ee9ddd7fe807c70f4bed",
+      "timestamp": 1756820706442
     }
   ],
   "traydah global resources limited": [
@@ -6669,13 +6669,8 @@
   "equity specialist hospital": [
     {
       "site": "JobGurus",
-      "id": "c6dbbdf3262a09f1e278eb73206600cd",
-      "timestamp": 1753089897676
-    },
-    {
-      "site": "JobGurus",
-      "id": "927e7c0dcf547f3c76bac5d9d747c9aa",
-      "timestamp": 1753176087559
+      "id": "17623d2cc202084adf681f4c3451f5e6",
+      "timestamp": 1756820706442
     }
   ],
   "unicane industries fze": [
@@ -13846,6 +13841,27 @@
       "site": "JobGurus",
       "id": "bd1b262eb8238567300bfba9acee3e4b",
       "timestamp": 1756819574681
+    }
+  ],
+  "us embassy": [
+    {
+      "site": "JobGurus",
+      "id": "2f68ae72f18f39a4fee0111fafe8640e",
+      "timestamp": 1756820706442
+    }
+  ],
+  "federal polytechnic, idah": [
+    {
+      "site": "JobGurus",
+      "id": "91b0bb37c331e297fe69d9fb27f728d3",
+      "timestamp": 1756820706442
+    }
+  ],
+  "feijoa investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "9e58f8d0fdbf4c886b45da55358d6f4d",
+      "timestamp": 1756820706442
     }
   ]
 }
