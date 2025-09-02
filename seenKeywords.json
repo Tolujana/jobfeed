@@ -2542,13 +2542,8 @@
   "oilserv limited": [
     {
       "site": "JobGurus",
-      "id": "f933c53e8ccfea30fe2a9fdbb92126c2",
-      "timestamp": 1753951917621
-    },
-    {
-      "site": "JobGurus",
-      "id": "2c87f8157a411e99930d5add8974a912",
-      "timestamp": 1754401113609
+      "id": "0899ecf0d54e365adff0d144e4158052",
+      "timestamp": 1756822529652
     }
   ],
   "greenfield consulting": [
@@ -10845,13 +10840,8 @@
   "flour mills of nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "30e6951aeb3eed6608f1810e5d553df9",
-      "timestamp": 1755789395772
-    },
-    {
-      "site": "JobGurus",
-      "id": "97315e65c1925ea1a83b8b6be4fbccda",
-      "timestamp": 1756205021762
+      "id": "a3820a90bb6efd4b4133b49a688e5501",
+      "timestamp": 1756822529652
     }
   ],
   "uridium technologies": [
@@ -12328,8 +12318,8 @@
   "sycamore integrated solutions limited": [
     {
       "site": "JobGurus",
-      "id": "774266179400a746c652e1a0c0b42ca2",
-      "timestamp": 1755541438103
+      "id": "7cf0f60f3586841d8db99eb0b4578ff3",
+      "timestamp": 1756822529652
     }
   ],
   "apple and pears limited": [
@@ -13862,6 +13852,13 @@
       "site": "JobGurus",
       "id": "9e58f8d0fdbf4c886b45da55358d6f4d",
       "timestamp": 1756820706442
+    }
+  ],
+  "solar depot": [
+    {
+      "site": "JobGurus",
+      "id": "554fcf3157c4e0d6996e3d789ec48ee1",
+      "timestamp": 1756822529652
     }
   ]
 }
