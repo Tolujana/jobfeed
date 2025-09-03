@@ -2234,8 +2234,8 @@
   "speedaf express": [
     {
       "site": "JobGurus",
-      "id": "f3b0e4bb0388cfb7e0f72b3fce200261",
-      "timestamp": 1755182655417
+      "id": "6c0836fca5e7220c464c3b08efaae593",
+      "timestamp": 1756923632773
     }
   ],
   "ujt logistics services limited": [
@@ -5130,8 +5130,8 @@
   "brands optimal limited": [
     {
       "site": "JobGurus",
-      "id": "d0b1fbc076c39668186eac716688a87e",
-      "timestamp": 1750846654880
+      "id": "54b6c8f2c7c6ce1358107d615b0b66a4",
+      "timestamp": 1756923632773
     }
   ],
   "max drive": [
@@ -14045,6 +14045,27 @@
       "site": "JobGurus",
       "id": "82c86fce45be0d75d467273a5fdce283",
       "timestamp": 1756919557720
+    }
+  ],
+  "zenilum company limited": [
+    {
+      "site": "JobGurus",
+      "id": "a9c51bd070fdbaca2fc848cf755e120b",
+      "timestamp": 1756923632773
+    }
+  ],
+  "access bank plc": [
+    {
+      "site": "JobGurus",
+      "id": "55544a63e72a89572d5c3df636837c1f",
+      "timestamp": 1756923632773
+    }
+  ],
+  "global recruit": [
+    {
+      "site": "JobGurus",
+      "id": "dbd35901ac31ba3dda374229ef6abad1",
+      "timestamp": 1756923632773
     }
   ]
 }
