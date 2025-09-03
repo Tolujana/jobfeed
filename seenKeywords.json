@@ -1892,6 +1892,11 @@
       "site": "JobGurus",
       "id": "ed9897bde0ed11e2782694c68175880b",
       "timestamp": 1756494691021
+    },
+    {
+      "site": "JobGurus",
+      "id": "15aef816eeee02ca9b5e297bc3e53319",
+      "timestamp": 1756916308639
     }
   ],
   "express resource connect": [
@@ -3216,8 +3221,8 @@
   "buckler systems": [
     {
       "site": "JobGurus",
-      "id": "724a8d4e980caee5002d00044868ae0d",
-      "timestamp": 1755889935028
+      "id": "55f4ff4d8e3c869149abb7b3d35bf1f2",
+      "timestamp": 1756916308639
     }
   ],
   "arkounting business concepts limited": [
@@ -5304,8 +5309,8 @@
   "white soul group": [
     {
       "site": "JobGurus",
-      "id": "73346510933e6c53919ff50f7ecbe02a",
-      "timestamp": 1751984135521
+      "id": "725c0a34554ef79a2d0ad7d36473fe19",
+      "timestamp": 1756916308639
     }
   ],
   "crystal thorpe": [
@@ -8517,8 +8522,8 @@
   "havana group": [
     {
       "site": "JobGurus",
-      "id": "bf290e349aebd34f78f4ee8628e186af",
-      "timestamp": 1752690206338
+      "id": "572a733db7d83680845a57b2e55119a1",
+      "timestamp": 1756916308639
     }
   ],
   "ics outsourcing limited": [
@@ -13999,6 +14004,13 @@
       "site": "JobGurus",
       "id": "1945f73bc7ea01c29710d09830fb5b6c",
       "timestamp": 1756913935098
+    }
+  ],
+  "crc credit bureau limited": [
+    {
+      "site": "JobGurus",
+      "id": "a44d707c84698bcdd19db9998e80a4b7",
+      "timestamp": 1756916308639
     }
   ]
 }
