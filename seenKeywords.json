@@ -3883,6 +3883,11 @@
       "site": "JobGurus",
       "id": "940018883077110c824c26824ff31b5b",
       "timestamp": 1756761153845
+    },
+    {
+      "site": "JobGurus",
+      "id": "6c7929889b5ef820d4cb15b8700dc78f",
+      "timestamp": 1756924991086
     }
   ],
   "changeroom": [
@@ -4944,18 +4949,8 @@
   "egbin power plc": [
     {
       "site": "JobGurus",
-      "id": "5c86549935990e1a3563c4ace9d0d74c",
-      "timestamp": 1756219281472
-    },
-    {
-      "site": "JobGurus",
-      "id": "f22068f97c66126d2847efdf897ee827",
-      "timestamp": 1756228409546
-    },
-    {
-      "site": "JobGurus",
-      "id": "be8d294c12d85bec91b3d4bd0606d7ed",
-      "timestamp": 1756229926976
+      "id": "3cc0f7f428a86aab61bfb665c7dbdf33",
+      "timestamp": 1756924991086
     }
   ],
   "uleval technology": [
@@ -13273,13 +13268,8 @@
   "aino engineering limited": [
     {
       "site": "JobGurus",
-      "id": "04c59ff2d0cbf9f1736a6ec506b62109",
-      "timestamp": 1756226669770
-    },
-    {
-      "site": "JobGurus",
-      "id": "5314672653cf28129d15de09e836e1f7",
-      "timestamp": 1756234003588
+      "id": "537d077b795e13a024422d005b48d5d6",
+      "timestamp": 1756924991086
     }
   ],
   "ankorpointe integrated limited": [
@@ -14066,6 +14056,20 @@
       "site": "JobGurus",
       "id": "dbd35901ac31ba3dda374229ef6abad1",
       "timestamp": 1756923632773
+    }
+  ],
+  "mopheth pharmaceutical nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "ea3d727d6997864fc936515052b40ec5",
+      "timestamp": 1756924991086
+    }
+  ],
+  "jubaili agrotec limited": [
+    {
+      "site": "JobGurus",
+      "id": "5ca4ca3ba14e57e4ac65bd28f15b6c39",
+      "timestamp": 1756924991086
     }
   ]
 }
