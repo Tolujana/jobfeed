@@ -3042,8 +3042,8 @@
   "erisco foods limited": [
     {
       "site": "JobGurus",
-      "id": "3219603478a4865d1ebcb434af66061b",
-      "timestamp": 1756217672871
+      "id": "dc9e32deab155218a40eef6e267bb836",
+      "timestamp": 1756913935098
     }
   ],
   "lauvee beauty salon": [
@@ -13973,6 +13973,32 @@
       "site": "JobGurus",
       "id": "7c0d3e54d1b240e2205c9a708576e822",
       "timestamp": 1756845386176
+    }
+  ],
+  "ringo telecommunications limited": [
+    {
+      "site": "JobGurus",
+      "id": "fe687dbad42f86349f2c2b4a51dee207",
+      "timestamp": 1756913935098
+    },
+    {
+      "site": "JobGurus",
+      "id": "2d5dde4e57afceb53c68174b17220e46",
+      "timestamp": 1756913935098
+    }
+  ],
+  "costarchem nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "2fefe01bb0a0605b692fc108e406e48c",
+      "timestamp": 1756913935098
+    }
+  ],
+  "patjeda group": [
+    {
+      "site": "JobGurus",
+      "id": "1945f73bc7ea01c29710d09830fb5b6c",
+      "timestamp": 1756913935098
     }
   ]
 }
