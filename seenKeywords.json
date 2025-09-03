@@ -357,6 +357,11 @@
       "site": "JobGurus",
       "id": "82e602cd0015642b7643e750c87b594f",
       "timestamp": 1756761153845
+    },
+    {
+      "site": "JobGurus",
+      "id": "08c79278304c7240dfbd5d7f10285aef",
+      "timestamp": 1756919557720
     }
   ],
   "wandel international": [
@@ -4765,8 +4770,8 @@
   "coronation": [
     {
       "site": "JobGurus",
-      "id": "5f901a426a8a18fba8562b9dabd84b4f",
-      "timestamp": 1752064399358
+      "id": "8c2c830fba06158aec26f98cc571c1f7",
+      "timestamp": 1756919557720
     }
   ],
   "teal consulting": [
@@ -10127,8 +10132,13 @@
   "sims nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "18e1b7374d9a11046b9c1f01106d3d24",
-      "timestamp": 1755889935028
+      "id": "67e9da514523a8e3a2e2b19e08dc9692",
+      "timestamp": 1756919557720
+    },
+    {
+      "site": "JobGurus",
+      "id": "743f2e98ceec6bd091aeb490bc8dc0ec",
+      "timestamp": 1756919557720
     }
   ],
   "talent lab limited": [
@@ -14028,6 +14038,13 @@
       "site": "JobGurus",
       "id": "15aeaaf9bf987d1f69894b35fb08a8d8",
       "timestamp": 1756917811932
+    }
+  ],
+  "primly services": [
+    {
+      "site": "JobGurus",
+      "id": "82c86fce45be0d75d467273a5fdce283",
+      "timestamp": 1756919557720
     }
   ]
 }
