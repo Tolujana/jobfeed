@@ -8749,13 +8749,8 @@
   "polaris digitech limited": [
     {
       "site": "JobGurus",
-      "id": "9b166a983804454cc40c095a14f29683",
-      "timestamp": 1755886867076
-    },
-    {
-      "site": "JobGurus",
-      "id": "83dd7b43e1b371918364612595e00019",
-      "timestamp": 1755886867076
+      "id": "4d2cb7d0bc3a4d5cadfb6bb3189fe012",
+      "timestamp": 1757013079766
     }
   ],
   "efficacy development plc": [
@@ -14238,6 +14233,32 @@
       "site": "JobGurus",
       "id": "8706175b70c88f62f816bb857eabf9a8",
       "timestamp": 1757011512928
+    },
+    {
+      "site": "JobGurus",
+      "id": "8b9468cea06b19fdc99fac06184fed30",
+      "timestamp": 1757013079766
+    }
+  ],
+  "arion energy services limited": [
+    {
+      "site": "JobGurus",
+      "id": "437228db24078cf364513105128ec53f",
+      "timestamp": 1757013079766
+    }
+  ],
+  "asa international": [
+    {
+      "site": "JobGurus",
+      "id": "8b10f5316e1daa3534114e72bb6628c5",
+      "timestamp": 1757013079766
+    }
+  ],
+  "digital virgo group": [
+    {
+      "site": "JobGurus",
+      "id": "85be41681f914c5374d5dbe7078bba39",
+      "timestamp": 1757013079766
     }
   ]
 }
