@@ -12,6 +12,11 @@
       "site": "JobGurus",
       "id": "b3b8e4bbe6248cbdc041bb22eaf3a009",
       "timestamp": 1756993299371
+    },
+    {
+      "site": "JobGurus",
+      "id": "7b43afb9ba3bbae722a115ba7559cefd",
+      "timestamp": 1757000350267
     }
   ],
   "excel and grace consulting": [
@@ -5610,18 +5615,13 @@
   "macden communications limited": [
     {
       "site": "JobGurus",
-      "id": "9d58d2958f39f19ec563307ca5079784",
-      "timestamp": 1756320294152
-    },
-    {
-      "site": "JobGurus",
-      "id": "6878ef47e3c099859970cfa383d96f5a",
-      "timestamp": 1756320294152
-    },
-    {
-      "site": "JobGurus",
       "id": "c3dc33c721a6c1f1737725dfefd9a0f9",
       "timestamp": 1756757721848
+    },
+    {
+      "site": "JobGurus",
+      "id": "f2ca451efd8e497d9cf0137a97a21773",
+      "timestamp": 1757000350267
     }
   ],
   "blucon valley limited": [
@@ -14161,6 +14161,13 @@
       "site": "JobGurus",
       "id": "23d52cffd86e9b84b52e0412957aef85",
       "timestamp": 1756998927822
+    }
+  ],
+  "mactay consultin limited": [
+    {
+      "site": "JobGurus",
+      "id": "0d9f4d314485aa6608efa937b77c7570",
+      "timestamp": 1757000350267
     }
   ]
 }
