@@ -405,13 +405,8 @@
   "mshel homes limited": [
     {
       "site": "JobGurus",
-      "id": "1d5435ca096e01569cc4dc088b98c85d",
-      "timestamp": 1754301260202
-    },
-    {
-      "site": "JobGurus",
-      "id": "491e6d9667950f4c80d810f1f188cd52",
-      "timestamp": 1754301260202
+      "id": "f42b2580bc56b76e480c38ce90f4e0f2",
+      "timestamp": 1757005966005
     }
   ],
   "dana group": [
@@ -6124,8 +6119,8 @@
   "prosperity microfinance bank nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "b79bca8ad98bf503d706d195528c629f",
-      "timestamp": 1751386818685
+      "id": "5f5b443292be4a0cfd80b67334963034",
+      "timestamp": 1757005966005
     }
   ],
   "ivorypay": [
@@ -7785,8 +7780,8 @@
   "foodcourt": [
     {
       "site": "JobGurus",
-      "id": "59afb8d4c649cfef2925ad8959e3c41a",
-      "timestamp": 1752247038655
+      "id": "f318db5ee486aaf5d60af8742dc11fb2",
+      "timestamp": 1757005966005
     }
   ],
   "gbenga badejo & co": [
@@ -14198,6 +14193,13 @@
       "site": "JobGurus",
       "id": "7459f264085a56082003cb1fb1502974",
       "timestamp": 1757004260137
+    }
+  ],
+  "tv deluxe global": [
+    {
+      "site": "JobGurus",
+      "id": "7411e70036e25f241a67eca88c420ffb",
+      "timestamp": 1757005966005
     }
   ]
 }
