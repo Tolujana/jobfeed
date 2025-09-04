@@ -5565,8 +5565,8 @@
   "african natural resources and mines limited": [
     {
       "site": "JobGurus",
-      "id": "7b7979866fe492bee939c535ed80e1e8",
-      "timestamp": 1751032070968
+      "id": "5c15424ea6f1808fe1a0d9d4534aee14",
+      "timestamp": 1756998927822
     }
   ],
   "st. david's pharmacy nigeria limited": [
@@ -14140,6 +14140,27 @@
       "site": "JobGurus",
       "id": "15339ea49ed25649e21b7b608801c9ac",
       "timestamp": 1756996826752
+    }
+  ],
+  "russelsmith": [
+    {
+      "site": "JobGurus",
+      "id": "8a77ef5a3dd238850abbc897e2bafdde",
+      "timestamp": 1756998927822
+    }
+  ],
+  "sellyfak energy": [
+    {
+      "site": "JobGurus",
+      "id": "a72a5f2dd43251769e3a739dfa54c907",
+      "timestamp": 1756998927822
+    }
+  ],
+  "endless pharmaceutical companies limited": [
+    {
+      "site": "JobGurus",
+      "id": "23d52cffd86e9b84b52e0412957aef85",
+      "timestamp": 1756998927822
     }
   ]
 }
