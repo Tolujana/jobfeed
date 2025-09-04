@@ -2963,6 +2963,11 @@
       "site": "JobGurus",
       "id": "bc9f62d001eb2d1742d4e3815078458a",
       "timestamp": 1756762528074
+    },
+    {
+      "site": "JobGurus",
+      "id": "f2195954a0130bfa93a30c5dcfb4a61d",
+      "timestamp": 1757011512928
     }
   ],
   "wahala no dey finish": [
@@ -9574,13 +9579,8 @@
   "tribitat real estate": [
     {
       "site": "JobGurus",
-      "id": "b1bd167a2202e6ceba38e9ed5e520297",
-      "timestamp": 1754046860960
-    },
-    {
-      "site": "JobGurus",
-      "id": "6a327713917479faeabd1c7f8eda8344",
-      "timestamp": 1754387341741
+      "id": "fd2db967d8b7b4adf315a999c148343b",
+      "timestamp": 1757011512928
     }
   ],
   "infystrat software services": [
@@ -14224,6 +14224,20 @@
       "site": "JobGurus",
       "id": "11f2a35b10f3af9b6681d91e28de201a",
       "timestamp": 1757010026056
+    }
+  ],
+  "aos orwell limited": [
+    {
+      "site": "JobGurus",
+      "id": "5ffda4ff03b0b7abe64094f5755ae7bf",
+      "timestamp": 1757011512928
+    }
+  ],
+  "the plug": [
+    {
+      "site": "JobGurus",
+      "id": "8706175b70c88f62f816bb857eabf9a8",
+      "timestamp": 1757011512928
     }
   ]
 }
