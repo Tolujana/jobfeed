@@ -279,8 +279,8 @@
   "jc international": [
     {
       "site": "JobGurus",
-      "id": "f535a1020061e9185ce2caa8be61e188",
-      "timestamp": 1754317252759
+      "id": "bd33e2455d85665167d743718f1455cc",
+      "timestamp": 1756996826752
     }
   ],
   "trinity financial": [
@@ -5810,8 +5810,8 @@
   "eat 'n’ go limited": [
     {
       "site": "JobGurus",
-      "id": "8f7204704f96f43a4de0967ad16e4c3a",
-      "timestamp": 1751294626757
+      "id": "423542f625af73f9c442225961455640",
+      "timestamp": 1756996826752
     }
   ],
   "peridot forte solutions consulting": [
@@ -14126,6 +14126,20 @@
       "site": "JobGurus",
       "id": "e157f93fc4f856ea26e1b3bd1fec9b63",
       "timestamp": 1756995265798
+    }
+  ],
+  "gamakwellness": [
+    {
+      "site": "JobGurus",
+      "id": "c8be1adf1e788916fb4fc48e6c542292",
+      "timestamp": 1756996826752
+    }
+  ],
+  "obafemi awolowo university teaching hospitals complex": [
+    {
+      "site": "JobGurus",
+      "id": "15339ea49ed25649e21b7b608801c9ac",
+      "timestamp": 1756996826752
     }
   ]
 }
