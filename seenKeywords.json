@@ -72,6 +72,11 @@
       "site": "JobGurus",
       "id": "205d4be025902ed7c827d55af9fc5dd6",
       "timestamp": 1756926715510
+    },
+    {
+      "site": "JobGurus",
+      "id": "c441b12bdcbb264b995f563b0d852f6c",
+      "timestamp": 1757010026056
     }
   ],
   "triple x environmental health consult": [
@@ -14200,6 +14205,25 @@
       "site": "JobGurus",
       "id": "7411e70036e25f241a67eca88c420ffb",
       "timestamp": 1757005966005
+    }
+  ],
+  "3kings engineering": [
+    {
+      "site": "JobGurus",
+      "id": "571db1fa6a08848a977812cbafdbf47c",
+      "timestamp": 1757010026056
+    },
+    {
+      "site": "JobGurus",
+      "id": "ad57eaf12d9a76e967640fdd48fa2d2f",
+      "timestamp": 1757010026056
+    }
+  ],
+  "macabo resources enterprise": [
+    {
+      "site": "JobGurus",
+      "id": "11f2a35b10f3af9b6681d91e28de201a",
+      "timestamp": 1757010026056
     }
   ]
 }
