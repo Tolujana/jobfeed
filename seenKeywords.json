@@ -1551,8 +1551,8 @@
   "felton energy services limited": [
     {
       "site": "JobGurus",
-      "id": "784d2a30058e016d1fc6d34e061d57ee",
-      "timestamp": 1755265632106
+      "id": "bb9a4bda20006bd9e3d595854f00c327",
+      "timestamp": 1757070733044
     }
   ],
   "toasties limited": [
@@ -3616,8 +3616,8 @@
   "runola nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "f7821dee470db9c975511a46d3f8b62c",
-      "timestamp": 1756217672871
+      "id": "2e9797bb6676c56447feb6b8d263b32e",
+      "timestamp": 1757070733044
     }
   ],
   "eclat human resources consulting limited": [
@@ -7792,6 +7792,11 @@
       "site": "JobGurus",
       "id": "f318db5ee486aaf5d60af8742dc11fb2",
       "timestamp": 1757005966005
+    },
+    {
+      "site": "JobGurus",
+      "id": "93dea7c117be1a38d723191581ed7b51",
+      "timestamp": 1757070733044
     }
   ],
   "gbenga badejo & co": [
@@ -13136,8 +13141,13 @@
   "soft alliance": [
     {
       "site": "JobGurus",
-      "id": "c60634273e4a8a1e50cd170e2e19d595",
-      "timestamp": 1756146166753
+      "id": "bc0723d7d6ee8477ae7ad87702ffb481",
+      "timestamp": 1757070733044
+    },
+    {
+      "site": "JobGurus",
+      "id": "0ee0496a3af1f8a5423e41ea98bc106e",
+      "timestamp": 1757070733044
     }
   ],
   "karis concept": [
