@@ -513,6 +513,16 @@
       "site": "JobGurus",
       "id": "a19b5b545002ec1e6e38fe8afb5a281d",
       "timestamp": 1756493057186
+    },
+    {
+      "site": "JobGurus",
+      "id": "75bd9f5ff1cd34624373a267c15315af",
+      "timestamp": 1757089080286
+    },
+    {
+      "site": "JobGurus",
+      "id": "ea38eb84988d4a6d9ec799558332a03d",
+      "timestamp": 1757089080286
     }
   ],
   "cig motors co. limited": [
@@ -10348,13 +10358,8 @@
   "laprenge staffings solutions": [
     {
       "site": "JobGurus",
-      "id": "c867f46f619c98abae3a0a9b5f0a187b",
-      "timestamp": 1753875595072
-    },
-    {
-      "site": "JobGurus",
-      "id": "bd322e9560fcd75f815d5c00961652f8",
-      "timestamp": 1754306140665
+      "id": "f11d3657487514a880a03ffb54e95980",
+      "timestamp": 1757089080286
     }
   ],
   "hydroserve group": [
@@ -11382,8 +11387,8 @@
   "domeo resources international (dri)": [
     {
       "site": "JobGurus",
-      "id": "ca4c0fd7f1872ef146d03ebf48279257",
-      "timestamp": 1754579949096
+      "id": "773dbcaf640640017504d8b2e8c1921b",
+      "timestamp": 1757089080286
     }
   ],
   "pulse nigeria": [
@@ -14371,6 +14376,13 @@
       "site": "JobGurus",
       "id": "aefe22f5fb9ec894b2161f35bff90d06",
       "timestamp": 1757075382660
+    }
+  ],
+  "protege management": [
+    {
+      "site": "JobGurus",
+      "id": "2b51d766cc7fe050fb4b6ac3ac4ef838",
+      "timestamp": 1757089080286
     }
   ]
 }
