@@ -603,18 +603,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "76f30ece185728c9a2d5c27c6554c210",
-      "timestamp": 1755893808124
-    },
-    {
-      "site": "JobGurus",
-      "id": "8319a11f0b68fc08dfa6449bab81767c",
-      "timestamp": 1756228409546
-    },
-    {
-      "site": "JobGurus",
-      "id": "7123e55d97e3cee0d0419d5a05cc352c",
-      "timestamp": 1756408329641
+      "id": "5a459df0384e7a808e0d668729788e39",
+      "timestamp": 1757063765924
     }
   ],
   "food concepts plc": [
@@ -8661,6 +8651,11 @@
       "site": "JobGurus",
       "id": "84c550482ed4fd2d232ff828b748ca10",
       "timestamp": 1756833161203
+    },
+    {
+      "site": "JobGurus",
+      "id": "07aa2d5edb2211d00dfb57acd7f1dd59",
+      "timestamp": 1757063765924
     }
   ],
   "lextorah education group": [
@@ -14288,6 +14283,27 @@
       "site": "JobGurus",
       "id": "8cf04fceddaed21d1782bf2800952b12",
       "timestamp": 1757061810290
+    }
+  ],
+  "faith digital consulting": [
+    {
+      "site": "JobGurus",
+      "id": "f5b2e18f26e52be2dd501790249a8640",
+      "timestamp": 1757063765924
+    }
+  ],
+  "ideal staffing agency": [
+    {
+      "site": "JobGurus",
+      "id": "f99ae8a25b80e6f6162db800a3db9b59",
+      "timestamp": 1757063765924
+    }
+  ],
+  "ibic investment  holdings": [
+    {
+      "site": "JobGurus",
+      "id": "3cf44c10d90aec96048f32e4945779cf",
+      "timestamp": 1757063765924
     }
   ]
 }
