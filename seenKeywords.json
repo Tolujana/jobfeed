@@ -523,6 +523,11 @@
       "site": "JobGurus",
       "id": "ea38eb84988d4a6d9ec799558332a03d",
       "timestamp": 1757089080286
+    },
+    {
+      "site": "JobGurus",
+      "id": "026d79774a5634c670fa0a667fa6f10a",
+      "timestamp": 1757093818380
     }
   ],
   "cig motors co. limited": [
@@ -1379,13 +1384,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "67ef2c5f9ad1d3b6948c1d0954d06e67",
-      "timestamp": 1756134978299
-    },
-    {
-      "site": "JobGurus",
-      "id": "5aafdde3b69c320a4755d61db18a70cb",
-      "timestamp": 1756147722163
+      "id": "a813d1497e7d3953de35550648253feb",
+      "timestamp": 1757093818380
     }
   ],
   "jtech global resources limited": [
@@ -6974,13 +6974,8 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "96827c9fd2395956d66d0cb14fa2f498",
-      "timestamp": 1756226669770
-    },
-    {
-      "site": "JobGurus",
-      "id": "10adf9609e4e34cd75d523601faf5d5e",
-      "timestamp": 1756395549078
+      "id": "8d05581b597f072effb53c5091a72108",
+      "timestamp": 1757093818380
     }
   ],
   "dansol": [
@@ -10365,6 +10360,11 @@
       "site": "JobGurus",
       "id": "f11d3657487514a880a03ffb54e95980",
       "timestamp": 1757089080286
+    },
+    {
+      "site": "JobGurus",
+      "id": "e36914073273c7ef46f71fab3f48a014",
+      "timestamp": 1757093818380
     }
   ],
   "hydroserve group": [
@@ -14431,6 +14431,13 @@
       "site": "JobGurus",
       "id": "c76e0314cf6635bef91ad23227c9f45e",
       "timestamp": 1757092363144
+    }
+  ],
+  "vision heritage management": [
+    {
+      "site": "JobGurus",
+      "id": "598b0dd848f9cd61109a7eef6a59ae33",
+      "timestamp": 1757093818380
     }
   ]
 }
