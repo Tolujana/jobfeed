@@ -13078,8 +13078,8 @@
   "detail and avedia consulting": [
     {
       "site": "JobGurus",
-      "id": "3cef9045cbd4bb6ae50ad33f771d186a",
-      "timestamp": 1755956363369
+      "id": "4786ae0ddeb5e2dfb247d972fa11eb5a",
+      "timestamp": 1757103349006
     }
   ],
   "maison fahrenheit": [
@@ -14438,6 +14438,32 @@
       "site": "JobGurus",
       "id": "598b0dd848f9cd61109a7eef6a59ae33",
       "timestamp": 1757093818380
+    }
+  ],
+  "lovereigns heritage foundation": [
+    {
+      "site": "JobGurus",
+      "id": "41925947b5ac2695e356948b7c9c20f9",
+      "timestamp": 1757103349006
+    }
+  ],
+  "joe etoniru & associates": [
+    {
+      "site": "JobGurus",
+      "id": "8085ce38ce9561281563ee198f4d6755",
+      "timestamp": 1757103349006
+    },
+    {
+      "site": "JobGurus",
+      "id": "c3e21d02d9e2ef47fb9b121d8c79f4d1",
+      "timestamp": 1757103349006
+    }
+  ],
+  "messrs joe etoniru & associates": [
+    {
+      "site": "JobGurus",
+      "id": "6b3e255524a878284a69a466983752dc",
+      "timestamp": 1757103349006
     }
   ]
 }
