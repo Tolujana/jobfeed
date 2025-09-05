@@ -1515,6 +1515,11 @@
       "site": "JobGurus",
       "id": "f5cd70b07f311852fad4acf04e68fc18",
       "timestamp": 1757072166946
+    },
+    {
+      "site": "JobGurus",
+      "id": "c22a372ae4f694e68367b1ae73b74449",
+      "timestamp": 1757075382660
     }
   ],
   "unified payment services limited": [
@@ -8661,6 +8666,11 @@
       "site": "JobGurus",
       "id": "07aa2d5edb2211d00dfb57acd7f1dd59",
       "timestamp": 1757063765924
+    },
+    {
+      "site": "JobGurus",
+      "id": "05138a1cfb4a459e4a48883350a41470",
+      "timestamp": 1757075382660
     }
   ],
   "lextorah education group": [
@@ -14335,6 +14345,27 @@
       "site": "JobGurus",
       "id": "4cc30ebdfd370e927b17f0ee8b6d9528",
       "timestamp": 1757072166946
+    }
+  ],
+  "karabow construction": [
+    {
+      "site": "JobGurus",
+      "id": "388503385d481636a51c7ccf70e9f607",
+      "timestamp": 1757075382660
+    }
+  ],
+  "kredi bank": [
+    {
+      "site": "JobGurus",
+      "id": "f28975ba9995ca1522ff725ec31c0fdd",
+      "timestamp": 1757075382660
+    }
+  ],
+  "inspiration life community church": [
+    {
+      "site": "JobGurus",
+      "id": "aefe22f5fb9ec894b2161f35bff90d06",
+      "timestamp": 1757075382660
     }
   ]
 }
