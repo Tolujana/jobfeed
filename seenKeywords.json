@@ -155,8 +155,8 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "39a6c1acd24a569cc3f4c86e55711864",
-      "timestamp": 1756405272411
+      "id": "9cec904a14f8841f3f05d2d112720768",
+      "timestamp": 1757072166946
     }
   ],
   "cway group": [
@@ -1513,13 +1513,8 @@
   "reliance health": [
     {
       "site": "JobGurus",
-      "id": "cba4754bb64db46710fc237f6833cf04",
-      "timestamp": 1755802005200
-    },
-    {
-      "site": "JobGurus",
-      "id": "6bbec0d16b2e64ff68853af1853c8e1c",
-      "timestamp": 1755802005200
+      "id": "f5cd70b07f311852fad4acf04e68fc18",
+      "timestamp": 1757072166946
     }
   ],
   "unified payment services limited": [
@@ -14319,6 +14314,27 @@
       "site": "JobGurus",
       "id": "3cf44c10d90aec96048f32e4945779cf",
       "timestamp": 1757063765924
+    }
+  ],
+  "ipt powertech group": [
+    {
+      "site": "JobGurus",
+      "id": "469dea529584227af3eee2d95e721541",
+      "timestamp": 1757072166946
+    }
+  ],
+  "elevated hr limited": [
+    {
+      "site": "JobGurus",
+      "id": "8e2c0584eee44d2ab29cfb5b86890580",
+      "timestamp": 1757072166946
+    }
+  ],
+  "borno women development initiative (bowdi)": [
+    {
+      "site": "JobGurus",
+      "id": "4cc30ebdfd370e927b17f0ee8b6d9528",
+      "timestamp": 1757072166946
     }
   ]
 }
