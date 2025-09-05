@@ -13090,6 +13090,11 @@
       "site": "JobGurus",
       "id": "f4fea5304dba4fd2c8a2d28f847efe6e",
       "timestamp": 1757104693045
+    },
+    {
+      "site": "JobGurus",
+      "id": "0453ff443d9445f0a5234cea5a34e401",
+      "timestamp": 1757106792286
     }
   ],
   "maison fahrenheit": [
@@ -14464,6 +14469,18 @@
       "site": "JobGurus",
       "id": "6b3e255524a878284a69a466983752dc",
       "timestamp": 1757103349006
+    }
+  ],
+  "wowtiger": [
+    {
+      "site": "JobGurus",
+      "id": "3d04c7d70474871184b05291b80fee32",
+      "timestamp": 1757106792286
+    },
+    {
+      "site": "JobGurus",
+      "id": "981303c6fa3e37d4dddde0570dd4c506",
+      "timestamp": 1757106792286
     }
   ]
 }
