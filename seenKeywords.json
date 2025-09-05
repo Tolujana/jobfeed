@@ -5336,6 +5336,11 @@
       "site": "JobGurus",
       "id": "b73218e22153ee045b7c9596e963abaa",
       "timestamp": 1756917811932
+    },
+    {
+      "site": "JobGurus",
+      "id": "f6d902247ddcecb3d54a248401412d20",
+      "timestamp": 1757090496227
     }
   ],
   "crystal thorpe": [
@@ -9955,8 +9960,8 @@
   "teejay360 multi resources": [
     {
       "site": "JobGurus",
-      "id": "233792e68102f742d8e51f79f5ef3673",
-      "timestamp": 1753701302055
+      "id": "15a376efe38356f28c8231dc0a9e2162",
+      "timestamp": 1757090496227
     }
   ],
   "olam pfb": [
@@ -14383,6 +14388,25 @@
       "site": "JobGurus",
       "id": "2b51d766cc7fe050fb4b6ac3ac4ef838",
       "timestamp": 1757089080286
+    }
+  ],
+  "u3u security services limited": [
+    {
+      "site": "JobGurus",
+      "id": "ffd9e7d687d70a585e2e69ab0f0321e3",
+      "timestamp": 1757090496227
+    },
+    {
+      "site": "JobGurus",
+      "id": "98441119aa4dc1ec9c70e5704c5ce1fa",
+      "timestamp": 1757090496227
+    }
+  ],
+  "am consulting": [
+    {
+      "site": "JobGurus",
+      "id": "aa6ed2b7d4193a3a59632ae9b61203be",
+      "timestamp": 1757090496227
     }
   ]
 }
