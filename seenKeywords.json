@@ -2324,6 +2324,11 @@
       "site": "JobGurus",
       "id": "d01a6affe01f877085275ea9647b10ee",
       "timestamp": 1757163363399
+    },
+    {
+      "site": "JobGurus",
+      "id": "312f7f63a019dca8a2797b6f182202ef",
+      "timestamp": 1757165707523
     }
   ],
   "flees global services": [
@@ -6339,8 +6344,8 @@
   "craneburg construction company": [
     {
       "site": "JobGurus",
-      "id": "6e0cdc36adffd67475e654d2cac37914",
-      "timestamp": 1751488837459
+      "id": "341b6491e992a6d13a694ae3b5d4e890",
+      "timestamp": 1757165707523
     }
   ],
   "gomoney": [
@@ -11409,6 +11414,11 @@
       "site": "JobGurus",
       "id": "773dbcaf640640017504d8b2e8c1921b",
       "timestamp": 1757089080286
+    },
+    {
+      "site": "JobGurus",
+      "id": "82d6a4e48fb9f1957c4d056da539c57e",
+      "timestamp": 1757165707523
     }
   ],
   "pulse nigeria": [
@@ -14532,6 +14542,20 @@
       "site": "JobGurus",
       "id": "67bebd11ad3add81ae02c8390316dfb0",
       "timestamp": 1757164705939
+    }
+  ],
+  "jasper beryl consulting": [
+    {
+      "site": "JobGurus",
+      "id": "e87ac7ab8fca33cce18798f1c05311e2",
+      "timestamp": 1757165707523
+    }
+  ],
+  "det consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "0ab9c006fc5a8a23e8da3a347bee22f6",
+      "timestamp": 1757165707523
     }
   ]
 }
