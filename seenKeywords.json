@@ -3494,6 +3494,11 @@
       "site": "JobGurus",
       "id": "f3512282aa8337945450ead750242d9a",
       "timestamp": 1756752290552
+    },
+    {
+      "site": "JobGurus",
+      "id": "1d44a78bde2beb7988d37a6650a041b8",
+      "timestamp": 1757164705939
     }
   ],
   "prixair": [
@@ -4938,8 +4943,8 @@
   "agiville industries limited": [
     {
       "site": "JobGurus",
-      "id": "fefdd5c7d5a68f8842771365be53951e",
-      "timestamp": 1750760253444
+      "id": "272ca7c8a40da2b2279ae458a90ed657",
+      "timestamp": 1757164705939
     }
   ],
   "productheights consulting": [
@@ -5419,6 +5424,11 @@
       "site": "JobGurus",
       "id": "7e20423b1ae7134a4a702335c6ebd0c7",
       "timestamp": 1757147958013
+    },
+    {
+      "site": "JobGurus",
+      "id": "6d6f03ea47ccd5e49db825b081381e7b",
+      "timestamp": 1757164705939
     }
   ],
   "blue wave new energy technology nigeria company limited": [
@@ -14515,6 +14525,13 @@
       "site": "JobGurus",
       "id": "24fbb951856e8677842a59759f523590",
       "timestamp": 1757149977908
+    }
+  ],
+  "online foodstuff store limited": [
+    {
+      "site": "JobGurus",
+      "id": "67bebd11ad3add81ae02c8390316dfb0",
+      "timestamp": 1757164705939
     }
   ]
 }
