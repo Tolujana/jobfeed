@@ -12482,6 +12482,11 @@
       "site": "JobGurus",
       "id": "97a5e7d813f9e7a15f0f9f42ccd5e859",
       "timestamp": 1756762528074
+    },
+    {
+      "site": "JobGurus",
+      "id": "ee00a0f8e1ef4d8039790ea968580309",
+      "timestamp": 1757345986911
     }
   ],
   "xuriel resources": [
@@ -12501,8 +12506,8 @@
   "pwan group": [
     {
       "site": "JobGurus",
-      "id": "8eb863918578da921ea4d78e6e2cfa34",
-      "timestamp": 1755641685167
+      "id": "caec6b6bf815882b7a3cc29b0191a79d",
+      "timestamp": 1757345986911
     }
   ],
   "zhuli recruiters": [
@@ -14296,6 +14301,11 @@
       "site": "JobGurus",
       "id": "5ffda4ff03b0b7abe64094f5755ae7bf",
       "timestamp": 1757011512928
+    },
+    {
+      "site": "JobGurus",
+      "id": "7eef0f40b9bfa82a72b4541585a77e64",
+      "timestamp": 1757345986911
     }
   ],
   "the plug": [
@@ -14556,6 +14566,20 @@
       "site": "JobGurus",
       "id": "0ab9c006fc5a8a23e8da3a347bee22f6",
       "timestamp": 1757165707523
+    }
+  ],
+  "power control and appliances limited": [
+    {
+      "site": "JobGurus",
+      "id": "11e9bf4f0d6827ecd92d67ffbe1bb0b0",
+      "timestamp": 1757345986911
+    }
+  ],
+  "rotawn energy & logistics services limited": [
+    {
+      "site": "JobGurus",
+      "id": "4a6d4b82348f072e28eea57fa97da41d",
+      "timestamp": 1757345986911
     }
   ]
 }
