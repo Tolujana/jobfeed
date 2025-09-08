@@ -3903,6 +3903,11 @@
       "site": "JobGurus",
       "id": "6c7929889b5ef820d4cb15b8700dc78f",
       "timestamp": 1756924991086
+    },
+    {
+      "site": "JobGurus",
+      "id": "5b297efe3f3d6994721e9c3300cd5898",
+      "timestamp": 1757348291432
     }
   ],
   "changeroom": [
@@ -8315,8 +8320,8 @@
   "adexen recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "45955499670f3f97f4e9f23037839721",
-      "timestamp": 1752578067404
+      "id": "07e0fb8c379cd00bf709d5aba6a4f100",
+      "timestamp": 1757348291432
     }
   ],
   "xend finance": [
@@ -8362,8 +8367,8 @@
   "ajoke group": [
     {
       "site": "JobGurus",
-      "id": "27baaa1336717deb93305b87cbca8e5a",
-      "timestamp": 1755537353327
+      "id": "f0fc9666d2a6a6e2baadf294524a0187",
+      "timestamp": 1757348291432
     }
   ],
   "united airlines": [
@@ -14580,6 +14585,13 @@
       "site": "JobGurus",
       "id": "4a6d4b82348f072e28eea57fa97da41d",
       "timestamp": 1757345986911
+    }
+  ],
+  "flex finance": [
+    {
+      "site": "JobGurus",
+      "id": "3d02d9fb69e7d006230351ea02b7ed50",
+      "timestamp": 1757348291432
     }
   ]
 }
