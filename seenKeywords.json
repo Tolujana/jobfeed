@@ -2930,6 +2930,11 @@
       "site": "JobGurus",
       "id": "525ba9242d3652e71c5dd05923fcc40a",
       "timestamp": 1757014546705
+    },
+    {
+      "site": "JobGurus",
+      "id": "c4228397978db35b94eec4f21138aeea",
+      "timestamp": 1757353088077
     }
   ],
   "oisedotcom limited": [
@@ -5489,8 +5494,8 @@
   "sundry foods": [
     {
       "site": "JobGurus",
-      "id": "6f9e8553ccbdc7a71ad594e516022697",
-      "timestamp": 1754473780881
+      "id": "277743be39e578c7ab0389d2dc9b2972",
+      "timestamp": 1757353088077
     }
   ],
   "ht-limited": [
@@ -12326,8 +12331,8 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "53afabd35d944cdf705397fb207ae342",
-      "timestamp": 1755537353327
+      "id": "d9882910d181ef6955bd8771e892b287",
+      "timestamp": 1757353088077
     }
   ],
   "saro agro-allied": [
@@ -14625,6 +14630,20 @@
       "site": "JobGurus",
       "id": "36d131292f7d77b43571fdfe812ab92d",
       "timestamp": 1757351593430
+    }
+  ],
+  "a4s": [
+    {
+      "site": "JobGurus",
+      "id": "5de24a546d426488e4788ec60d1e1ca7",
+      "timestamp": 1757353088077
+    }
+  ],
+  "vertex realty solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "a686db716f4390f61981cab3538d7420",
+      "timestamp": 1757353088077
     }
   ]
 }
