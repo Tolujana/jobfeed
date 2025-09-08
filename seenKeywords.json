@@ -6380,6 +6380,16 @@
       "site": "JobGurus",
       "id": "de1d753e82df73fef536555088250f4a",
       "timestamp": 1757357129601
+    },
+    {
+      "site": "JobGurus",
+      "id": "e0711fc4b2139e0c670ffe07b19f1e3f",
+      "timestamp": 1757360136885
+    },
+    {
+      "site": "JobGurus",
+      "id": "3886d1278cdf9593c9c6623345b66394",
+      "timestamp": 1757360136885
     }
   ],
   "gn128 gn128 solutions": [
@@ -14668,6 +14678,25 @@
       "site": "JobGurus",
       "id": "b9c9e80ef5647c4d0bd9254770a9576c",
       "timestamp": 1757357129601
+    }
+  ],
+  "travoofy": [
+    {
+      "site": "JobGurus",
+      "id": "1a1aab67125abe4eb12d220739c3a94b",
+      "timestamp": 1757360136885
+    }
+  ],
+  "afconrecruit limited": [
+    {
+      "site": "JobGurus",
+      "id": "245f2b77bfef7dea43c5c96529634234",
+      "timestamp": 1757360136885
+    },
+    {
+      "site": "JobGurus",
+      "id": "d8bbf853d629486c2dc5908eaf4aaae8",
+      "timestamp": 1757360136885
     }
   ]
 }
