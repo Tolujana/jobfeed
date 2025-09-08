@@ -3103,13 +3103,8 @@
   "mactay consulting": [
     {
       "site": "JobGurus",
-      "id": "7e6a1b2b4ceb90876c36520da61bbfbc",
-      "timestamp": 1756226669770
-    },
-    {
-      "site": "JobGurus",
-      "id": "7550c3f15b9238f6b25408b5522f74e5",
-      "timestamp": 1756316289818
+      "id": "7e04cf95cf0d3eec9259794697e7bb1e",
+      "timestamp": 1757362570312
     }
   ],
   "tybtitx services international limited": [
@@ -3804,8 +3799,8 @@
   "kinz global consult": [
     {
       "site": "JobGurus",
-      "id": "2953267383cd71545f08afa1f9b81440",
-      "timestamp": 1750245234855
+      "id": "8a916e1851bb565cfe6e3a06dd6dd4a4",
+      "timestamp": 1757362570312
     }
   ],
   "cen global services limited": [
@@ -14697,6 +14692,20 @@
       "site": "JobGurus",
       "id": "d8bbf853d629486c2dc5908eaf4aaae8",
       "timestamp": 1757360136885
+    }
+  ],
+  "beebeejump": [
+    {
+      "site": "JobGurus",
+      "id": "e84f0842ec6080e1f658d7af95763440",
+      "timestamp": 1757362570312
+    }
+  ],
+  "golden heritage plc": [
+    {
+      "site": "JobGurus",
+      "id": "41eb569233d8e0c8c835a45092272b92",
+      "timestamp": 1757362570312
     }
   ]
 }
