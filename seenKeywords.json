@@ -1042,8 +1042,8 @@
   "brenhazy limited": [
     {
       "site": "JobGurus",
-      "id": "40e752d9188fb5ee4dd7c731d96447da",
-      "timestamp": 1753957101162
+      "id": "2fd13e3f7401243c034548cc3d0f87ad",
+      "timestamp": 1757351593430
     }
   ],
   "zipline": [
@@ -14611,6 +14611,20 @@
       "site": "JobGurus",
       "id": "9f0a9dbd8aa7bf4696b961cec3f57f62",
       "timestamp": 1757349856176
+    }
+  ],
+  "new heights pharmaceuticals limited": [
+    {
+      "site": "JobGurus",
+      "id": "30a654606e620d3a2c47be5d6c71c86a",
+      "timestamp": 1757351593430
+    }
+  ],
+  "resq-x limited": [
+    {
+      "site": "JobGurus",
+      "id": "36d131292f7d77b43571fdfe812ab92d",
+      "timestamp": 1757351593430
     }
   ]
 }
