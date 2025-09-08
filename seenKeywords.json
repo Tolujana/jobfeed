@@ -367,6 +367,11 @@
       "site": "JobGurus",
       "id": "d4f99d0b10415b5dd2c9725d244f9702",
       "timestamp": 1757355733296
+    },
+    {
+      "site": "JobGurus",
+      "id": "b8dd012d89cab8c231df4386d66fe08d",
+      "timestamp": 1757357129601
     }
   ],
   "wandel international": [
@@ -573,8 +578,8 @@
   "filmhouse cinemas limited": [
     {
       "site": "JobGurus",
-      "id": "7b4deccac78cabfc432ff3dd8d2e6382",
-      "timestamp": 1754921902384
+      "id": "949098771f07e63460f7058b37664b4a",
+      "timestamp": 1757357129601
     }
   ],
   "ascentech services limited": [
@@ -6373,8 +6378,8 @@
   "fastest cakes limited": [
     {
       "site": "JobGurus",
-      "id": "cc861299a246eeca32a3f1308f137cbf",
-      "timestamp": 1751488837459
+      "id": "de1d753e82df73fef536555088250f4a",
+      "timestamp": 1757357129601
     }
   ],
   "gn128 gn128 solutions": [
@@ -14654,6 +14659,20 @@
       "site": "JobGurus",
       "id": "a686db716f4390f61981cab3538d7420",
       "timestamp": 1757353088077
+    }
+  ],
+  "hope and rural aid foundation": [
+    {
+      "site": "JobGurus",
+      "id": "dc8d8ab5a31602d4d445d7943c39197b",
+      "timestamp": 1757357129601
+    }
+  ],
+  "marcforte business consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "b9c9e80ef5647c4d0bd9254770a9576c",
+      "timestamp": 1757357129601
     }
   ]
 }
