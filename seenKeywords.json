@@ -7181,8 +7181,8 @@
   "zhongxin network technology company limited": [
     {
       "site": "JobGurus",
-      "id": "83fe1260a6c7f0eb3bb088d6686e80af",
-      "timestamp": 1752833891556
+      "id": "4f482e5c2c689e0f29c633b9e8ff117a",
+      "timestamp": 1757414499220
     }
   ],
   "gabs cooperative": [
@@ -14767,6 +14767,20 @@
       "site": "JobGurus",
       "id": "1f6034705ca437f2e9d190588bd51819",
       "timestamp": 1757412955555
+    }
+  ],
+  "radisson onyx hotel": [
+    {
+      "site": "JobGurus",
+      "id": "930f3ee6891076dc6ab09c9f1e113753",
+      "timestamp": 1757414499220
+    }
+  ],
+  "redcloud technology": [
+    {
+      "site": "JobGurus",
+      "id": "5e553cee8bb40630992929876a7b7fa0",
+      "timestamp": 1757414499220
     }
   ]
 }
