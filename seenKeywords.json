@@ -334,13 +334,8 @@
   "jamub group": [
     {
       "site": "JobGurus",
-      "id": "57286c6370d4878e5faf1b7ed35d8fad",
-      "timestamp": 1753789187344
-    },
-    {
-      "site": "JobGurus",
-      "id": "6e0b5350f7e264bb66d81dd4850a7727",
-      "timestamp": 1754387341741
+      "id": "f04476f2e3c0b28baffb9256fbe19471",
+      "timestamp": 1757436303720
     }
   ],
   "ziba consulting": [
@@ -1387,6 +1382,11 @@
       "site": "JobGurus",
       "id": "884f4a74324697a84f4cd4af067caf83",
       "timestamp": 1757151299658
+    },
+    {
+      "site": "JobGurus",
+      "id": "f1308447c8df828ca21e78056de4177e",
+      "timestamp": 1757436303720
     }
   ],
   "united nations international children's emergency fund": [
@@ -2839,6 +2839,11 @@
       "site": "JobGurus",
       "id": "9df7ab2b9ac01c8a4ca4d9f3db0c53f2",
       "timestamp": 1757355733296
+    },
+    {
+      "site": "JobGurus",
+      "id": "64b177142e1937e2be41de60c1e3703c",
+      "timestamp": 1757436303720
     }
   ],
   "netcom africa": [
@@ -14820,6 +14825,13 @@
       "site": "JobGurus",
       "id": "4be77f578b6399a1fb719f80be02de75",
       "timestamp": 1757434728312
+    }
+  ],
+  "wells carlton hotel & apartments": [
+    {
+      "site": "JobGurus",
+      "id": "494bb63378b5598ba4df0a9cfdc2af09",
+      "timestamp": 1757436303720
     }
   ]
 }
