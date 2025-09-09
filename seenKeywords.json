@@ -13557,13 +13557,8 @@
   "global profilers": [
     {
       "site": "JobGurus",
-      "id": "fbb21419131e70abbe1792f9a6b630e7",
-      "timestamp": 1756399472798
-    },
-    {
-      "site": "JobGurus",
-      "id": "999d24d4c1fada8567fd5b9a1fb404d8",
-      "timestamp": 1756726569288
+      "id": "67217a92a4c827d90bd8019d09b602c2",
+      "timestamp": 1757439392239
     }
   ],
   "9mobile": [
@@ -14858,6 +14853,34 @@
       "site": "JobGurus",
       "id": "29025cea6cfd9d327148b7005ae4d6ef",
       "timestamp": 1757437986470
+    }
+  ],
+  "ruth and roots": [
+    {
+      "site": "JobGurus",
+      "id": "e53535ec98344f6dbd6954fb88b54c5b",
+      "timestamp": 1757439392239
+    }
+  ],
+  "nigerian newsdirect": [
+    {
+      "site": "JobGurus",
+      "id": "52a4f7b49b0736e3db85c27e9a0cdf58",
+      "timestamp": 1757439392239
+    }
+  ],
+  "zenfix limited": [
+    {
+      "site": "JobGurus",
+      "id": "b788087ba88435bb1cc2ef82cc831bd1",
+      "timestamp": 1757439392239
+    }
+  ],
+  "credo advisory": [
+    {
+      "site": "JobGurus",
+      "id": "321850e84ee4de3f8ce1ac62ed3b7ddc",
+      "timestamp": 1757439392239
     }
   ]
 }
