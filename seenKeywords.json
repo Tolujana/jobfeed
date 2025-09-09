@@ -722,13 +722,8 @@
   "startup soar": [
     {
       "site": "JobGurus",
-      "id": "acd2daa7fe64ff319a196e218495b2a0",
-      "timestamp": 1755544434053
-    },
-    {
-      "site": "JobGurus",
-      "id": "56c67ce6f0e7d4e6f1e2a3667120f666",
-      "timestamp": 1755548190789
+      "id": "989e698427bca4f195c578fabdb906a7",
+      "timestamp": 1757434728312
     }
   ],
   "ouranos technologies (ouranos)": [
@@ -3105,6 +3100,11 @@
       "site": "JobGurus",
       "id": "7e04cf95cf0d3eec9259794697e7bb1e",
       "timestamp": 1757362570312
+    },
+    {
+      "site": "JobGurus",
+      "id": "9e348a8188c44ee9b958cc2f17e154c0",
+      "timestamp": 1757434728312
     }
   ],
   "tybtitx services international limited": [
@@ -7000,23 +7000,8 @@
   "uncle stan's foods": [
     {
       "site": "JobGurus",
-      "id": "555827869bd69aafd62cf0a1d5f6e707",
-      "timestamp": 1754473780881
-    },
-    {
-      "site": "JobGurus",
-      "id": "06272958fac3d52546c2dbe2d3770aee",
-      "timestamp": 1754732372587
-    },
-    {
-      "site": "JobGurus",
-      "id": "685fc8db51ae2cd0e5eba8b2c3927f47",
-      "timestamp": 1754737972506
-    },
-    {
-      "site": "JobGurus",
-      "id": "befc330f748de0ec40a4087c03568ecf",
-      "timestamp": 1754739419638
+      "id": "03c6745e7744d2f290caf61b307451c4",
+      "timestamp": 1757434728312
     }
   ],
   "mn global ventures": [
@@ -14821,6 +14806,20 @@
       "site": "JobGurus",
       "id": "913e1bb7c6df0bf1cc42a5ec7bd15be6",
       "timestamp": 1757432423073
+    }
+  ],
+  "grand cereals limited": [
+    {
+      "site": "JobGurus",
+      "id": "03f70c7d1902b1397f8f86219240cd36",
+      "timestamp": 1757434728312
+    }
+  ],
+  "lopterra": [
+    {
+      "site": "JobGurus",
+      "id": "4be77f578b6399a1fb719f80be02de75",
+      "timestamp": 1757434728312
     }
   ]
 }
