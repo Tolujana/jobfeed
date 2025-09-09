@@ -152,6 +152,11 @@
       "site": "JobGurus",
       "id": "9cec904a14f8841f3f05d2d112720768",
       "timestamp": 1757072166946
+    },
+    {
+      "site": "JobGurus",
+      "id": "ea93a23793a1966b962bb018b93a0102",
+      "timestamp": 1757409395808
     }
   ],
   "cway group": [
@@ -4812,6 +4817,11 @@
       "site": "JobGurus",
       "id": "8c2c830fba06158aec26f98cc571c1f7",
       "timestamp": 1756919557720
+    },
+    {
+      "site": "JobGurus",
+      "id": "d3f057c1b861961ae6272c0d360b429d",
+      "timestamp": 1757409395808
     }
   ],
   "teal consulting": [
@@ -11164,8 +11174,8 @@
   "zamiva transnational services": [
     {
       "site": "JobGurus",
-      "id": "c25f5359a31ad9ea73bb552477c1af9e",
-      "timestamp": 1755353586202
+      "id": "12b0f6dcceafe7fac73f8a81230581c2",
+      "timestamp": 1757409395808
     }
   ],
   "one": [
@@ -14725,6 +14735,13 @@
       "site": "JobGurus",
       "id": "c6fb9cc3b278030684aee62df0ee7b86",
       "timestamp": 1757407531801
+    }
+  ],
+  "dryva logistics": [
+    {
+      "site": "JobGurus",
+      "id": "26f2ace700a59256bdb267399f1420ad",
+      "timestamp": 1757409395808
     }
   ]
 }
