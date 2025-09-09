@@ -3307,8 +3307,8 @@
   "ezion-geber energy limited": [
     {
       "site": "JobGurus",
-      "id": "f867c23eee20f0841283dc2df8b55eb9",
-      "timestamp": 1750080644233
+      "id": "4a55e34aacf2832610e7de2e0e0693c6",
+      "timestamp": 1757412955555
     }
   ],
   "high caliber nigeria limited": [
@@ -6534,8 +6534,8 @@
   "zim integrated shipping services limited": [
     {
       "site": "JobGurus",
-      "id": "e15f811874fb22e575a34fcfe1c7db33",
-      "timestamp": 1751542679318
+      "id": "afa4df44ec2295e53e6eccc68f7f0891",
+      "timestamp": 1757412955555
     }
   ],
   "youverify": [
@@ -14753,6 +14753,20 @@
       "site": "JobGurus",
       "id": "b55bc8fbbab8a69850d2f1070cf079b6",
       "timestamp": 1757410781164
+    }
+  ],
+  "pathfinder international": [
+    {
+      "site": "JobGurus",
+      "id": "f2613bd77f13735ccd6c68edb3b95682",
+      "timestamp": 1757412955555
+    }
+  ],
+  "lafiya telehealth app": [
+    {
+      "site": "JobGurus",
+      "id": "1f6034705ca437f2e9d190588bd51819",
+      "timestamp": 1757412955555
     }
   ]
 }
