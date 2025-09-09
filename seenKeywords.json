@@ -8096,13 +8096,8 @@
   "neveah limited": [
     {
       "site": "JobGurus",
-      "id": "822460b16cfeb3cd620958854d9d37f2",
-      "timestamp": 1756219281472
-    },
-    {
-      "site": "JobGurus",
-      "id": "1f0803e02f14cf93769bc55b6ea9f65d",
-      "timestamp": 1756395549078
+      "id": "ff9c5fb3c75ebe17552ed4c824134f8f",
+      "timestamp": 1757430995035
     }
   ],
   "r & r recruiting services": [
@@ -12299,18 +12294,8 @@
   "hr leverage africa": [
     {
       "site": "JobGurus",
-      "id": "5882c2d188accc03a6ed33ed918ed5a0",
-      "timestamp": 1756154400367
-    },
-    {
-      "site": "JobGurus",
-      "id": "d055996284788603a74ccaf0bf153854",
-      "timestamp": 1756219281472
-    },
-    {
-      "site": "JobGurus",
-      "id": "48ea3928ae63b29f0101112d3a1d0306",
-      "timestamp": 1756752290552
+      "id": "bda6a2e3a3252b0a74ce28c91fe1b78b",
+      "timestamp": 1757430995035
     }
   ],
   "bemil nigeria limited": [
@@ -12353,6 +12338,11 @@
       "site": "JobGurus",
       "id": "d9882910d181ef6955bd8771e892b287",
       "timestamp": 1757353088077
+    },
+    {
+      "site": "JobGurus",
+      "id": "c8111aefbf92ef0a9cea50c0499adbff",
+      "timestamp": 1757430995035
     }
   ],
   "saro agro-allied": [
@@ -14805,6 +14795,20 @@
       "site": "JobGurus",
       "id": "2bc55f6b2a667e78b0f246f17cb07ccf",
       "timestamp": 1757416393918
+    }
+  ],
+  "lafabids resources nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "7d65b7d23fcaf52cd73e1858334c3564",
+      "timestamp": 1757430995035
+    }
+  ],
+  "remem humanitarian organization": [
+    {
+      "site": "JobGurus",
+      "id": "73d0d3cd835ce2007a333e7653683966",
+      "timestamp": 1757430995035
     }
   ]
 }
