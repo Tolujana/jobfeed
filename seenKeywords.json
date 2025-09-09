@@ -157,6 +157,11 @@
       "site": "JobGurus",
       "id": "ea93a23793a1966b962bb018b93a0102",
       "timestamp": 1757409395808
+    },
+    {
+      "site": "JobGurus",
+      "id": "b79460d7d8cc87f0c465940bea1e77df",
+      "timestamp": 1757437986470
     }
   ],
   "cway group": [
@@ -6455,8 +6460,8 @@
   "agricare std plus limited": [
     {
       "site": "JobGurus",
-      "id": "c819366492b8ba8783455f1ceb232b6b",
-      "timestamp": 1755009874048
+      "id": "bef493b56c1af03d4f7df90628cc606d",
+      "timestamp": 1757437986470
     }
   ],
   "bluradish": [
@@ -14832,6 +14837,27 @@
       "site": "JobGurus",
       "id": "494bb63378b5598ba4df0a9cfdc2af09",
       "timestamp": 1757436303720
+    }
+  ],
+  "msmacnord limited": [
+    {
+      "site": "JobGurus",
+      "id": "461159d07fb5c8f1cd6e785f265a370d",
+      "timestamp": 1757437986470
+    }
+  ],
+  "clyne paper limited": [
+    {
+      "site": "JobGurus",
+      "id": "6098c5d7e16a242fb6ecda4aa3e7dc6b",
+      "timestamp": 1757437986470
+    }
+  ],
+  "startup soar consulting": [
+    {
+      "site": "JobGurus",
+      "id": "29025cea6cfd9d327148b7005ae4d6ef",
+      "timestamp": 1757437986470
     }
   ]
 }
