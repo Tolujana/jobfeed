@@ -590,18 +590,8 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "cd762e805ff8bce0fb2b343ad67976fb",
-      "timestamp": 1755714138864
-    },
-    {
-      "site": "JobGurus",
-      "id": "711f496b5892d5ea679eac84cb89b2ce",
-      "timestamp": 1756219281472
-    },
-    {
-      "site": "JobGurus",
-      "id": "b422a664046b748842b173df09df6e5f",
-      "timestamp": 1756221380816
+      "id": "d0d4d3b02951b862abfa96aafd6bc624",
+      "timestamp": 1757502737725
     }
   ],
   "abbfem group": [
@@ -12721,8 +12711,8 @@
   "abodes lagos": [
     {
       "site": "JobGurus",
-      "id": "64c4ad0f737718409f5c54c0d8d15c3b",
-      "timestamp": 1755724442311
+      "id": "7260eef53bb21c6b26dc9e2935b9f591",
+      "timestamp": 1757502737725
     }
   ],
   "morris royal security limited": [
@@ -14888,6 +14878,20 @@
       "site": "JobGurus",
       "id": "343c7a4544b712cff930c92232823d2e",
       "timestamp": 1757450264440
+    }
+  ],
+  "mudiame university": [
+    {
+      "site": "JobGurus",
+      "id": "30caa635b2759634917ae5714b054ef3",
+      "timestamp": 1757502737725
+    }
+  ],
+  "electronic payplus limited": [
+    {
+      "site": "JobGurus",
+      "id": "63603a134d0cf38c232f89a934b53048",
+      "timestamp": 1757502737725
     }
   ]
 }
