@@ -9636,6 +9636,11 @@
       "site": "JobGurus",
       "id": "fd2db967d8b7b4adf315a999c148343b",
       "timestamp": 1757011512928
+    },
+    {
+      "site": "JobGurus",
+      "id": "9cd939200f570fc76b99dbf9e19e3223",
+      "timestamp": 1757504150973
     }
   ],
   "infystrat software services": [
@@ -12490,16 +12495,6 @@
   "tribest corporate support limited": [
     {
       "site": "JobGurus",
-      "id": "b4eee54ca15a67a27f9abd7b476c7380",
-      "timestamp": 1756762528074
-    },
-    {
-      "site": "JobGurus",
-      "id": "97a5e7d813f9e7a15f0f9f42ccd5e859",
-      "timestamp": 1756762528074
-    },
-    {
-      "site": "JobGurus",
       "id": "ee00a0f8e1ef4d8039790ea968580309",
       "timestamp": 1757345986911
     },
@@ -12507,6 +12502,11 @@
       "site": "JobGurus",
       "id": "e7c4f0ec67d874c7dbc82bcb8775f9f6",
       "timestamp": 1757355733296
+    },
+    {
+      "site": "JobGurus",
+      "id": "840cb93ea756d08e67f94d3874bd8d19",
+      "timestamp": 1757504150973
     }
   ],
   "xuriel resources": [
@@ -14892,6 +14892,20 @@
       "site": "JobGurus",
       "id": "63603a134d0cf38c232f89a934b53048",
       "timestamp": 1757502737725
+    }
+  ],
+  "uhr consult limited": [
+    {
+      "site": "JobGurus",
+      "id": "724f051e1471a3afa337ec6fc98f5563",
+      "timestamp": 1757504150973
+    }
+  ],
+  "ultimus holdings": [
+    {
+      "site": "JobGurus",
+      "id": "099e61739129660966879260cbc2e67d",
+      "timestamp": 1757504150973
     }
   ]
 }
