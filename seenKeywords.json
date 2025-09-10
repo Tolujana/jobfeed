@@ -550,8 +550,8 @@
   "first excelsia professional services limited": [
     {
       "site": "JobGurus",
-      "id": "e8d0d1c22edb4a49d170904c7aa88fb1",
-      "timestamp": 1756402683997
+      "id": "32a181af7e02e2f7e243cd625a618c46",
+      "timestamp": 1757507383193
     }
   ],
   "universal human resource consult": [
@@ -2273,8 +2273,8 @@
   "helean global limited": [
     {
       "site": "JobGurus",
-      "id": "ca50f2d2a5e87352e94c4ecb70b81338",
-      "timestamp": 1755884363248
+      "id": "423ff78204b2ebe58fabdf90cb769bb3",
+      "timestamp": 1757507383193
     }
   ],
   "maisha meds": [
@@ -6228,8 +6228,8 @@
   "kloverharris limited": [
     {
       "site": "JobGurus",
-      "id": "69611ab8d5140b02ef55a871a6129e14",
-      "timestamp": 1754667884593
+      "id": "7fec5f2290027912823b264ab732a648",
+      "timestamp": 1757507383193
     }
   ],
   "awake to power communications": [
@@ -7984,13 +7984,8 @@
   "synapse services": [
     {
       "site": "JobGurus",
-      "id": "31f21f20f333e2b18aa5f04681d0b4a2",
-      "timestamp": 1752504352657
-    },
-    {
-      "site": "JobGurus",
-      "id": "75298342dc4aefa9d722a851697de0dc",
-      "timestamp": 1752533091653
+      "id": "ce2652854f70fe4494ebf17a03ed41b9",
+      "timestamp": 1757507383193
     }
   ],
   "felpet nigeria limited": [
@@ -14588,6 +14583,11 @@
       "site": "JobGurus",
       "id": "11e9bf4f0d6827ecd92d67ffbe1bb0b0",
       "timestamp": 1757345986911
+    },
+    {
+      "site": "JobGurus",
+      "id": "c2fe49ad249ad3f6454b5e3b822bc93d",
+      "timestamp": 1757507383193
     }
   ],
   "rotawn energy & logistics services limited": [
