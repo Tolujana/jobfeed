@@ -2557,8 +2557,8 @@
   "oilserv limited": [
     {
       "site": "JobGurus",
-      "id": "0899ecf0d54e365adff0d144e4158052",
-      "timestamp": 1756822529652
+      "id": "1cbb794da72169adf7df3a72edf4113d",
+      "timestamp": 1757532934271
     }
   ],
   "greenfield consulting": [
@@ -14981,6 +14981,13 @@
       "site": "JobGurus",
       "id": "4178512266a83549f8d3dd3e8bb8e653",
       "timestamp": 1757531504306
+    }
+  ],
+  "tailored by maju": [
+    {
+      "site": "JobGurus",
+      "id": "10589a3b1ea11d563f3fde6590a52057",
+      "timestamp": 1757532934271
     }
   ]
 }
