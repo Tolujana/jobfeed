@@ -6560,13 +6560,8 @@
   "tailored talent": [
     {
       "site": "JobGurus",
-      "id": "2b93b69bd559e14dec482e433673ebbf",
-      "timestamp": 1756311527000
-    },
-    {
-      "site": "JobGurus",
-      "id": "ec77f5d199e3ad07514aaeadb4703395",
-      "timestamp": 1756827628518
+      "id": "af98a3dd60eeae33cac24fdda3fe5c97",
+      "timestamp": 1757528452289
     }
   ],
   "lopterra services limited": [
@@ -8586,6 +8581,11 @@
       "site": "JobGurus",
       "id": "6290b1601b9349e9529bf602a4d4847d",
       "timestamp": 1757004260137
+    },
+    {
+      "site": "JobGurus",
+      "id": "9f67479c6a64101e334ce7a81bb9ed78",
+      "timestamp": 1757528452289
     }
   ],
   "greenwich trustees limited": [
@@ -14929,6 +14929,27 @@
       "site": "JobGurus",
       "id": "e48ad33fc4566205796e54f1f46df489",
       "timestamp": 1757509415363
+    }
+  ],
+  "ibrand tv": [
+    {
+      "site": "JobGurus",
+      "id": "d8f6f7403ae5b7464c581b68c27e5c76",
+      "timestamp": 1757528452289
+    }
+  ],
+  "victory specialist hospital": [
+    {
+      "site": "JobGurus",
+      "id": "a9481b1cdfae256293480abf84b9bd29",
+      "timestamp": 1757528452289
+    }
+  ],
+  "swiftlink global services limited": [
+    {
+      "site": "JobGurus",
+      "id": "ea4ccd6eadc6ecbc1c5a45ee7f2da9b6",
+      "timestamp": 1757528452289
     }
   ]
 }
