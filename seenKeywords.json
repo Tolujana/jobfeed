@@ -4251,8 +4251,8 @@
   "timeless telecoms": [
     {
       "site": "JobGurus",
-      "id": "6384f5c6fcbcda674072ebd3c4662dd4",
-      "timestamp": 1750357242297
+      "id": "d1973e36e8073023401390efc213bd58",
+      "timestamp": 1757531504306
     }
   ],
   "nspri guest house": [
@@ -7644,8 +7644,8 @@
   "oj wale pillar metal “n” tech limited": [
     {
       "site": "JobGurus",
-      "id": "72265a6032550d024de8d0f498e105d7",
-      "timestamp": 1755620358521
+      "id": "e0543ed48cd39ede1b98e2c5633ed1dc",
+      "timestamp": 1757531504306
     }
   ],
   "nautilus nigeria engineering and construction limited": [
@@ -8561,8 +8561,8 @@
   "montego upstream services limited": [
     {
       "site": "JobGurus",
-      "id": "c6e220c5126bef0abfcde980cb3b570a",
-      "timestamp": 1752686222464
+      "id": "464aae8afc7146f2f29153ad90501093",
+      "timestamp": 1757531504306
     }
   ],
   "don quester consulting": [
@@ -14967,6 +14967,20 @@
       "site": "JobGurus",
       "id": "7277b7935e1735398e3e435dfe87eefd",
       "timestamp": 1757529935482
+    }
+  ],
+  "lovonus microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "2b3402446bab6c1837955aedbe2bfeba",
+      "timestamp": 1757531504306
+    }
+  ],
+  "iknorbert communications limited": [
+    {
+      "site": "JobGurus",
+      "id": "4178512266a83549f8d3dd3e8bb8e653",
+      "timestamp": 1757531504306
     }
   ]
 }
