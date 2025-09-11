@@ -389,13 +389,8 @@
   "airtel nigeria": [
     {
       "site": "JobGurus",
-      "id": "595888c2689405c8d8bc92d3af44d0b8",
-      "timestamp": 1752146068196
-    },
-    {
-      "site": "JobGurus",
-      "id": "36e1b4a839d3b1f8a8ee9277b7aa8460",
-      "timestamp": 1752146068196
+      "id": "a45aa863e490ff26cd76fbdc76248554",
+      "timestamp": 1757600111964
     }
   ],
   "hea group": [
@@ -2224,8 +2219,8 @@
   "idyllic technologies limited": [
     {
       "site": "JobGurus",
-      "id": "cb46f3e53bd8d474bb05f282e629e357",
-      "timestamp": 1749566629437
+      "id": "0f4674d93b69f037816b243360d2aceb",
+      "timestamp": 1757600111964
     }
   ],
   "pennylender": [
@@ -15050,6 +15045,25 @@
       "site": "JobGurus",
       "id": "88bd2772a854ca42363267b19d93ba27",
       "timestamp": 1757597932071
+    }
+  ],
+  "brands and trade limited": [
+    {
+      "site": "JobGurus",
+      "id": "a9de3adada01663f8459b35d855a90e5",
+      "timestamp": 1757600111964
+    },
+    {
+      "site": "JobGurus",
+      "id": "e02efe16b76e28fda82a94526ef1cb58",
+      "timestamp": 1757600111964
+    }
+  ],
+  "global spectrum energy services limited": [
+    {
+      "site": "JobGurus",
+      "id": "3cc8af2c47128eddcfd7129c93839410",
+      "timestamp": 1757600111964
     }
   ]
 }
