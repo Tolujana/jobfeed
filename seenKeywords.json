@@ -235,13 +235,8 @@
   "pg consulting limited": [
     {
       "site": "JobGurus",
-      "id": "6fc35a72b0d06d566647b392e6c54047",
-      "timestamp": 1751319507251
-    },
-    {
-      "site": "JobGurus",
-      "id": "087cac586e4f472560b9d08cb254fabe",
-      "timestamp": 1751542679318
+      "id": "32f05aa7fa9de8759a620f95df61b2ea",
+      "timestamp": 1757603665976
     }
   ],
   "xora technologies limited": [
@@ -587,6 +582,11 @@
       "site": "JobGurus",
       "id": "d0d4d3b02951b862abfa96aafd6bc624",
       "timestamp": 1757502737725
+    },
+    {
+      "site": "JobGurus",
+      "id": "c8db0e9f90c632ef1987bd9f0b243bb1",
+      "timestamp": 1757603665976
     }
   ],
   "abbfem group": [
@@ -15064,6 +15064,20 @@
       "site": "JobGurus",
       "id": "3cc8af2c47128eddcfd7129c93839410",
       "timestamp": 1757600111964
+    }
+  ],
+  "dainty affairs bakery": [
+    {
+      "site": "JobGurus",
+      "id": "6d25a45bd3c0c2c7658e0a9fa2ebf939",
+      "timestamp": 1757603665976
+    }
+  ],
+  "class suites hotels & apartment": [
+    {
+      "site": "JobGurus",
+      "id": "339d174a33ae3a61044afc0d04af8971",
+      "timestamp": 1757603665976
     }
   ]
 }
