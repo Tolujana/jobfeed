@@ -348,8 +348,8 @@
   "castville solutions": [
     {
       "site": "JobGurus",
-      "id": "8986ba733e7bd0288d164ed0316f2592",
-      "timestamp": 1754048359794
+      "id": "0bb38373b40c76478b80efbff16829fb",
+      "timestamp": 1757608848342
     }
   ],
   "lacare staffing solutions": [
@@ -4315,8 +4315,8 @@
   "tenaris": [
     {
       "site": "JobGurus",
-      "id": "b91021e30d78885477c6b7fd0f0f417f",
-      "timestamp": 1750414603028
+      "id": "2852875e161b7a71f00a675dfb094843",
+      "timestamp": 1757608848342
     }
   ],
   "zowdin limited": [
@@ -11458,8 +11458,8 @@
   "green africa airways limited": [
     {
       "site": "JobGurus",
-      "id": "6da3322837da294165f346b9b13ce413",
-      "timestamp": 1755797961296
+      "id": "f678320875709bef8ff530dd33a8556b",
+      "timestamp": 1757608848342
     }
   ],
   "l12 secrets": [
@@ -15092,6 +15092,20 @@
       "site": "JobGurus",
       "id": "520b6e9a4e8cecb4f53a7146728a2bb6",
       "timestamp": 1757607496122
+    }
+  ],
+  "lifestyle centre": [
+    {
+      "site": "JobGurus",
+      "id": "a7d2ad74b53261c2400cf36003751ee3",
+      "timestamp": 1757608848342
+    }
+  ],
+  "kwik delivery": [
+    {
+      "site": "JobGurus",
+      "id": "e707b832545ba44878cc206ab03c5c6c",
+      "timestamp": 1757608848342
     }
   ]
 }
