@@ -5159,6 +5159,11 @@
       "site": "JobGurus",
       "id": "e1e139e5314d8b4b537d88efb6bd2c7a",
       "timestamp": 1757513640044
+    },
+    {
+      "site": "JobGurus",
+      "id": "015ef0a1e06b756ac9a9e8507078be33",
+      "timestamp": 1757595777423
     }
   ],
   "sao group": [
@@ -8084,8 +8089,8 @@
   "srs collection": [
     {
       "site": "JobGurus",
-      "id": "ad3fac40ea43fc96280253e4d85ed3a3",
-      "timestamp": 1752521849163
+      "id": "ce2636a4d4eabb74a95d8d588ec9a3ee",
+      "timestamp": 1757595777423
     }
   ],
   "neveah limited": [
@@ -14378,6 +14383,11 @@
       "site": "JobGurus",
       "id": "8cf04fceddaed21d1782bf2800952b12",
       "timestamp": 1757061810290
+    },
+    {
+      "site": "JobGurus",
+      "id": "d6e5df2d2236d40f84e6d5961c3696a1",
+      "timestamp": 1757595777423
     }
   ],
   "faith digital consulting": [
@@ -15000,6 +15010,20 @@
       "site": "JobGurus",
       "id": "a64b4ec8ad40b85280f1b5b9f66b3752",
       "timestamp": 1757593762799
+    }
+  ],
+  "chef eros & co": [
+    {
+      "site": "JobGurus",
+      "id": "dcb0149678e55441b7f873ad66c1aadb",
+      "timestamp": 1757595777423
+    }
+  ],
+  "teal harmony limited": [
+    {
+      "site": "JobGurus",
+      "id": "52fdbc28f29ce0ba11c7ca42d58b3578",
+      "timestamp": 1757595777423
     }
   ]
 }
