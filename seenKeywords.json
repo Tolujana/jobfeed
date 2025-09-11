@@ -1420,8 +1420,8 @@
   "techdoctorinnovations": [
     {
       "site": "JobGurus",
-      "id": "0bc07e0babddcf6a0b0cc0c2e8d0621a",
-      "timestamp": 1753867448502
+      "id": "9d6e94385d24537397c53c637b65abc9",
+      "timestamp": 1757607496122
     }
   ],
   "shomas supply & logistics limited": [
@@ -7829,8 +7829,8 @@
   "mopheth nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "9d3f014099357510e5d032dc3471afa1",
-      "timestamp": 1755096290456
+      "id": "64f708d9bfd17adf87540d6a9dff1027",
+      "timestamp": 1757607496122
     }
   ],
   "eha clinics": [
@@ -10720,18 +10720,8 @@
   "bourbon interoil nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "1ae60310ab44956c6905ee8db67b482a",
-      "timestamp": 1754158928237
-    },
-    {
-      "site": "JobGurus",
-      "id": "1713c500784690c7bdc9a934a6288ed8",
-      "timestamp": 1754158928237
-    },
-    {
-      "site": "JobGurus",
-      "id": "963eef04933f434c57030b66cf9d7e34",
-      "timestamp": 1754165822807
+      "id": "2dd8bfb96c2de7033a61afaf52741513",
+      "timestamp": 1757607496122
     }
   ],
   "multipro consumer products limited": [
@@ -12517,6 +12507,11 @@
       "site": "JobGurus",
       "id": "840cb93ea756d08e67f94d3874bd8d19",
       "timestamp": 1757504150973
+    },
+    {
+      "site": "JobGurus",
+      "id": "5a89c68bf82fc72209d94f9ef195f7bd",
+      "timestamp": 1757607496122
     }
   ],
   "xuriel resources": [
@@ -15090,6 +15085,13 @@
       "site": "JobGurus",
       "id": "01a199b003d4f8a8b3a6be972a180dbc",
       "timestamp": 1757604994542
+    }
+  ],
+  "khadasha innovations africa": [
+    {
+      "site": "JobGurus",
+      "id": "520b6e9a4e8cecb4f53a7146728a2bb6",
+      "timestamp": 1757607496122
     }
   ]
 }
