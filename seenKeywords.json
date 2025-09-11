@@ -625,6 +625,11 @@
       "site": "JobGurus",
       "id": "01c02903d2ee5006d049e7602a70f526",
       "timestamp": 1757529935482
+    },
+    {
+      "site": "JobGurus",
+      "id": "0f35c72e600399629e8d6d611d385577",
+      "timestamp": 1757593762799
     }
   ],
   "food concepts plc": [
@@ -14988,6 +14993,13 @@
       "site": "JobGurus",
       "id": "10589a3b1ea11d563f3fde6590a52057",
       "timestamp": 1757532934271
+    }
+  ],
+  "global spectrum energy services plc": [
+    {
+      "site": "JobGurus",
+      "id": "a64b4ec8ad40b85280f1b5b9f66b3752",
+      "timestamp": 1757593762799
     }
   ]
 }
