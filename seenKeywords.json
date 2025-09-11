@@ -1014,8 +1014,8 @@
   "zenith carex international limited": [
     {
       "site": "JobGurus",
-      "id": "e25c68b7f26c5ae8745ff8c74d175e66",
-      "timestamp": 1754403674434
+      "id": "8dab9e7d69e4373a109c24b601876b60",
+      "timestamp": 1757604994542
     }
   ],
   "canonical nigeria": [
@@ -3470,8 +3470,8 @@
   "cvm career company": [
     {
       "site": "JobGurus",
-      "id": "df93d0060b80d1f8078fc417dc906b0a",
-      "timestamp": 1756406817337
+      "id": "bff0f440c66c06163f40023be4b3dd00",
+      "timestamp": 1757604994542
     }
   ],
   "jumia": [
@@ -8165,8 +8165,8 @@
   "snapnet limited": [
     {
       "site": "JobGurus",
-      "id": "facab09a762e3b0a5f36bda9718b355e",
-      "timestamp": 1756234003588
+      "id": "4cd512166bbbb346a97b62ad4bf98793",
+      "timestamp": 1757604994542
     }
   ],
   "bluenix paint manufacturing limited": [
@@ -15078,6 +15078,18 @@
       "site": "JobGurus",
       "id": "339d174a33ae3a61044afc0d04af8971",
       "timestamp": 1757603665976
+    }
+  ],
+  "kels global ventures": [
+    {
+      "site": "JobGurus",
+      "id": "cb64c5e9e2387d55f38c47991b352752",
+      "timestamp": 1757604994542
+    },
+    {
+      "site": "JobGurus",
+      "id": "01a199b003d4f8a8b3a6be972a180dbc",
+      "timestamp": 1757604994542
     }
   ]
 }
