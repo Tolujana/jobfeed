@@ -2717,13 +2717,8 @@
   "marriott international": [
     {
       "site": "JobGurus",
-      "id": "1d409d11f1e89f0530f663d0dc333e32",
-      "timestamp": 1753111067055
-    },
-    {
-      "site": "JobGurus",
-      "id": "710078643b197cd3428a59dfac14fdd1",
-      "timestamp": 1753456666104
+      "id": "9cb710f937e987ed3fbf52b9c0d7b41a",
+      "timestamp": 1757616194715
     }
   ],
   "well fluid services limited": [
@@ -14350,6 +14345,16 @@
       "site": "JobGurus",
       "id": "437228db24078cf364513105128ec53f",
       "timestamp": 1757013079766
+    },
+    {
+      "site": "JobGurus",
+      "id": "6378728c88610a00dfa373e7af7077ed",
+      "timestamp": 1757616194715
+    },
+    {
+      "site": "JobGurus",
+      "id": "edda24522e5d48cfe5d99faf2e503cd9",
+      "timestamp": 1757616194715
     }
   ],
   "asa international": [
@@ -15132,6 +15137,18 @@
       "site": "JobGurus",
       "id": "072d5cf14a3b8ecc19d30719223fcc11",
       "timestamp": 1757614678542
+    }
+  ],
+  "lendastack": [
+    {
+      "site": "JobGurus",
+      "id": "945c564e5b10198acf999d3b04a210fb",
+      "timestamp": 1757616194715
+    },
+    {
+      "site": "JobGurus",
+      "id": "2641b766b87b6807d179797c1153a6cf",
+      "timestamp": 1757616194715
     }
   ]
 }
