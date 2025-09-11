@@ -7040,8 +7040,8 @@
   "de koolar nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "23a1d88a3d4a3e86c8528ea405da755c",
-      "timestamp": 1751895021219
+      "id": "4d56339edcb07c5c0122a98068dfb6b0",
+      "timestamp": 1757619329979
     }
   ],
   "patrisan jozzy recruitment": [
@@ -13859,8 +13859,8 @@
   "vagan oil & gas limited": [
     {
       "site": "JobGurus",
-      "id": "ee8f0c644fcfede299f31ba264103964",
-      "timestamp": 1756759043326
+      "id": "ef585b13ad083facf2b3838703f5bb58",
+      "timestamp": 1757619329979
     }
   ],
   "kuddy cosmetics": [
@@ -15137,6 +15137,11 @@
       "site": "JobGurus",
       "id": "072d5cf14a3b8ecc19d30719223fcc11",
       "timestamp": 1757614678542
+    },
+    {
+      "site": "JobGurus",
+      "id": "ceec8da91e9917030a0505aaa872629a",
+      "timestamp": 1757619329979
     }
   ],
   "lendastack": [
@@ -15154,6 +15159,13 @@
       "site": "JobGurus",
       "id": "6d9f866b1979ae4c91ebe59a3c5f4c7b",
       "timestamp": 1757617860512
+    }
+  ],
+  "bayero university kano (buk)": [
+    {
+      "site": "JobGurus",
+      "id": "fc5a8bb43aa5b9867875e703fbd637df",
+      "timestamp": 1757619329979
     }
   ]
 }
