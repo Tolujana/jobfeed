@@ -4491,8 +4491,8 @@
   "matrix design and works": [
     {
       "site": "JobGurus",
-      "id": "0085caa0f773ee1d9bd5fbffbbe73fc4",
-      "timestamp": 1750428896763
+      "id": "9a600c1816407af86bb2997b625a53ad",
+      "timestamp": 1757697143838
     }
   ],
   "foodonline limited": [
@@ -14784,6 +14784,11 @@
       "site": "JobGurus",
       "id": "930f3ee6891076dc6ab09c9f1e113753",
       "timestamp": 1757414499220
+    },
+    {
+      "site": "JobGurus",
+      "id": "1926ee73fc1b3418b251d0c8902a9136",
+      "timestamp": 1757697143838
     }
   ],
   "redcloud technology": [
@@ -15199,6 +15204,27 @@
       "site": "JobGurus",
       "id": "dd4a6f8560e929927e466b0717133c10",
       "timestamp": 1757686461029
+    }
+  ],
+  "brint online school": [
+    {
+      "site": "JobGurus",
+      "id": "8bd5e5f9e412e9ad054d8c7d541951a8",
+      "timestamp": 1757697143838
+    }
+  ],
+  "vfs global": [
+    {
+      "site": "JobGurus",
+      "id": "cdb1edae6c27fcb7fb09db31e49918eb",
+      "timestamp": 1757697143838
+    }
+  ],
+  "rotic aluminium extrusion": [
+    {
+      "site": "JobGurus",
+      "id": "03b31311b8e3ed2c8825422e8c709cd6",
+      "timestamp": 1757697143838
     }
   ]
 }
