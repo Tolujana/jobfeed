@@ -8082,8 +8082,8 @@
   "revolutionplus property development company limited": [
     {
       "site": "JobGurus",
-      "id": "1163b7ef634c3d727778f6af93c16b2d",
-      "timestamp": 1752520390828
+      "id": "9fd31d9a69f032c3664b100aae7e0789",
+      "timestamp": 1757698579218
     }
   ],
   "srs collection": [
@@ -12945,28 +12945,8 @@
   "brit properties nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "a86ccff00a8d46caaaecf06a0715f1f1",
-      "timestamp": 1755807390099
-    },
-    {
-      "site": "JobGurus",
-      "id": "fa966c68f18eabbc0a8e769f63d015f5",
-      "timestamp": 1755807390099
-    },
-    {
-      "site": "JobGurus",
-      "id": "02af32c2d29f159e529ed4638d9ba8b1",
-      "timestamp": 1755807390099
-    },
-    {
-      "site": "JobGurus",
-      "id": "e110621e8a3195dd88227e90e010bec7",
-      "timestamp": 1755952091743
-    },
-    {
-      "site": "JobGurus",
-      "id": "6be149255103916233eb5d890edc6dd8",
-      "timestamp": 1755956363369
+      "id": "2936a1ed84090dac126b830b2bf7258c",
+      "timestamp": 1757698579218
     }
   ],
   "novella africa limited": [
@@ -15225,6 +15205,27 @@
       "site": "JobGurus",
       "id": "03b31311b8e3ed2c8825422e8c709cd6",
       "timestamp": 1757697143838
+    }
+  ],
+  "kashterk limited": [
+    {
+      "site": "JobGurus",
+      "id": "30b5d43f0135123c3e69d0d07b5b01b9",
+      "timestamp": 1757698579218
+    }
+  ],
+  "fibrehub internetworking services limited": [
+    {
+      "site": "JobGurus",
+      "id": "840b8a147120541c0a9a177d3b18b300",
+      "timestamp": 1757698579218
+    }
+  ],
+  "optimum exposures limited": [
+    {
+      "site": "JobGurus",
+      "id": "6fa560df2f4e0816245a614ca89760cd",
+      "timestamp": 1757698579218
     }
   ]
 }
