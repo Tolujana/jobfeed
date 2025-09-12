@@ -3259,8 +3259,8 @@
   "husk power energy systems nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "8d9350ff9a082108079f54e75a12a093",
-      "timestamp": 1752529098490
+      "id": "5ddfb34103c695c99e87795d1e67dd4d",
+      "timestamp": 1757684455540
     }
   ],
   "buckler systems": [
@@ -3364,8 +3364,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "7b7ec43ec7d04aabaf0badf0883a6720",
-      "timestamp": 1756493057186
+      "id": "06c790cda4afd99671708da44c02eaf8",
+      "timestamp": 1757684455540
     }
   ],
   "abnl limited": [
@@ -15173,6 +15173,20 @@
       "site": "JobGurus",
       "id": "06e4adba657d36dcdea30b8121cd2762",
       "timestamp": 1757680151357
+    }
+  ],
+  "mettle consulting": [
+    {
+      "site": "JobGurus",
+      "id": "718c5d410d45467d958b87b092d6ccd3",
+      "timestamp": 1757684455540
+    }
+  ],
+  "fezotech financial services": [
+    {
+      "site": "JobGurus",
+      "id": "f6a43f8a5aa0edb5bd577225736c6ddd",
+      "timestamp": 1757684455540
     }
   ]
 }
