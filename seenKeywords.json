@@ -778,8 +778,18 @@
   "chelis bookazine limited": [
     {
       "site": "JobGurus",
-      "id": "c0b3eb0008d34323ce610d8bb9fc2259",
-      "timestamp": 1756819574681
+      "id": "2dc42e14fa6a58bcdc3a8a7815507ecf",
+      "timestamp": 1757761833255
+    },
+    {
+      "site": "JobGurus",
+      "id": "a5b6c4e443dc1092bd8875983b1d5b1c",
+      "timestamp": 1757761833255
+    },
+    {
+      "site": "JobGurus",
+      "id": "7b485a370234a8c577597a5a2a9cdc76",
+      "timestamp": 1757761833255
     }
   ],
   "interrand group": [
@@ -12384,13 +12394,8 @@
   "ehealth4everyone": [
     {
       "site": "JobGurus",
-      "id": "a8e2768a7006a432f6ee2408ccd59eda",
-      "timestamp": 1755541438103
-    },
-    {
-      "site": "JobGurus",
-      "id": "76c1a9337de8a9491cd498e9e3d6cd49",
-      "timestamp": 1755543106865
+      "id": "9f9d6405035d3de44cb8d4fb337a1f75",
+      "timestamp": 1757761833255
     }
   ],
   "ramos realty": [
@@ -15289,6 +15294,13 @@
       "site": "JobGurus",
       "id": "d602d4cdb8e88341fb0ea9d67d286c40",
       "timestamp": 1757759786259
+    }
+  ],
+  "talent sync services": [
+    {
+      "site": "JobGurus",
+      "id": "aaa03d6f991513ef3856f5c5ca34d329",
+      "timestamp": 1757761833255
     }
   ]
 }
