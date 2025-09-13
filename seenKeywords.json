@@ -582,6 +582,11 @@
       "site": "JobGurus",
       "id": "9abd4bc0aa9c71925bf21d0cbd80ff7f",
       "timestamp": 1757704277827
+    },
+    {
+      "site": "JobGurus",
+      "id": "2c78585522f425c5f34bb1c0931e4ef8",
+      "timestamp": 1757768183796
     }
   ],
   "abbfem group": [
@@ -3763,8 +3768,8 @@
   "secom limited": [
     {
       "site": "JobGurus",
-      "id": "00d1fd99254886a6c6bffcb052a20616",
-      "timestamp": 1753955242436
+      "id": "018faa5e4a36ddb36f52732b00531314",
+      "timestamp": 1757768183796
     }
   ],
   "confederated facilitators limited": [
@@ -5354,6 +5359,11 @@
       "site": "JobGurus",
       "id": "185c93e676af2d096b3d7e2a471e24da",
       "timestamp": 1757759786259
+    },
+    {
+      "site": "JobGurus",
+      "id": "06db1d671fdf72357d842ada98357512",
+      "timestamp": 1757768183796
     }
   ],
   "field intelligence": [
@@ -15335,6 +15345,13 @@
       "site": "JobGurus",
       "id": "0dd50fda6832f4588071511f74e6a6d4",
       "timestamp": 1757763346636
+    }
+  ],
+  "nigerian exchange group (ngx group)": [
+    {
+      "site": "JobGurus",
+      "id": "1285dfef32dee7a7f8f6f031134bd0dc",
+      "timestamp": 1757768183796
     }
   ]
 }
