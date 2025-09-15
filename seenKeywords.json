@@ -12118,13 +12118,8 @@
   "ovm consulting services": [
     {
       "site": "JobGurus",
-      "id": "e826bfee092d44d9f58ac735a643546f",
-      "timestamp": 1755174894781
-    },
-    {
-      "site": "JobGurus",
-      "id": "341af545da35fbc6081a7a3e3f0c0327",
-      "timestamp": 1755541438103
+      "id": "4598fcbe70af8c4ec9e9ec21231ac9c0",
+      "timestamp": 1757943668658
     }
   ],
   "sefa minimart provision store": [
@@ -14464,8 +14459,8 @@
   "ipt powertech group": [
     {
       "site": "JobGurus",
-      "id": "469dea529584227af3eee2d95e721541",
-      "timestamp": 1757072166946
+      "id": "d4f2a555e8c28b48631dc062370dc447",
+      "timestamp": 1757943668658
     }
   ],
   "elevated hr limited": [
@@ -15381,6 +15376,11 @@
       "site": "JobGurus",
       "id": "75af1d39dee9b5afa65b1d8476d868f3",
       "timestamp": 1757942652658
+    },
+    {
+      "site": "JobGurus",
+      "id": "c9207eed3f2d814568b190dbb00bc4bb",
+      "timestamp": 1757943668658
     }
   ],
   "sim impacting lives foundation": [
@@ -15388,6 +15388,20 @@
       "site": "JobGurus",
       "id": "0f1d66ae7bd76444c98472931be74e3e",
       "timestamp": 1757942652658
+    }
+  ],
+  "solar nigachem limited": [
+    {
+      "site": "JobGurus",
+      "id": "0faad3d0fb52240ee4a2c01ffb1eea37",
+      "timestamp": 1757943668658
+    }
+  ],
+  "molifoods": [
+    {
+      "site": "JobGurus",
+      "id": "781569adf1978111dc5279cef6241299",
+      "timestamp": 1757943668658
     }
   ]
 }
