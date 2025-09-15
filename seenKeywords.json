@@ -145,11 +145,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "9cec904a14f8841f3f05d2d112720768",
-      "timestamp": 1757072166946
-    },
-    {
-      "site": "JobGurus",
       "id": "ea93a23793a1966b962bb018b93a0102",
       "timestamp": 1757409395808
     },
@@ -157,6 +152,11 @@
       "site": "JobGurus",
       "id": "b79460d7d8cc87f0c465940bea1e77df",
       "timestamp": 1757437986470
+    },
+    {
+      "site": "JobGurus",
+      "id": "7fe44af0dfe46a1e1355ca60b236a976",
+      "timestamp": 1757942652658
     }
   ],
   "cway group": [
@@ -3370,8 +3370,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "59a16371b385bd7b7ab5cd94b92db26f",
-      "timestamp": 1756993299371
+      "id": "6964b58332fb08287221b064d3b20182",
+      "timestamp": 1757942652658
     }
   ],
   "smartcity plc": [
@@ -3386,6 +3386,11 @@
       "site": "JobGurus",
       "id": "06c790cda4afd99671708da44c02eaf8",
       "timestamp": 1757684455540
+    },
+    {
+      "site": "JobGurus",
+      "id": "c8a7660df2de8afd4ab253fc79d29965",
+      "timestamp": 1757942652658
     }
   ],
   "abnl limited": [
@@ -15369,6 +15374,20 @@
       "site": "JobGurus",
       "id": "e531f4ad4d16029ca5fd5ca4a7fb284b",
       "timestamp": 1757925895273
+    }
+  ],
+  "agary pharmaceutical limited": [
+    {
+      "site": "JobGurus",
+      "id": "75af1d39dee9b5afa65b1d8476d868f3",
+      "timestamp": 1757942652658
+    }
+  ],
+  "sim impacting lives foundation": [
+    {
+      "site": "JobGurus",
+      "id": "0f1d66ae7bd76444c98472931be74e3e",
+      "timestamp": 1757942652658
     }
   ]
 }
