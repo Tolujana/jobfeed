@@ -1331,8 +1331,8 @@
   "handyman daige properties": [
     {
       "site": "JobGurus",
-      "id": "e33c41e94a928eb995c01edc1467390c",
-      "timestamp": 1756134978299
+      "id": "1cbdf9332c89c8d665b302b892a56a56",
+      "timestamp": 1757945740386
     }
   ],
   "catalyst path consulting": [
@@ -10394,13 +10394,8 @@
   "eclat human resource consulting limited": [
     {
       "site": "JobGurus",
-      "id": "94fdad29fa23ce83037f4bde7b52ab2b",
-      "timestamp": 1753868979940
-    },
-    {
-      "site": "JobGurus",
-      "id": "5ab5bd77bcf5780c9bee363888eda6ab",
-      "timestamp": 1753955242436
+      "id": "dc9a30cb9792d31ab1ce641604023d96",
+      "timestamp": 1757945740386
     }
   ],
   "tetra maritime": [
@@ -12017,13 +12012,8 @@
   "just brand it limited": [
     {
       "site": "JobGurus",
-      "id": "ddeb28654e33efcfbe7dbab8191ce828",
-      "timestamp": 1755109314978
-    },
-    {
-      "site": "JobGurus",
-      "id": "890be6be279e29c1c7256ad41a3aeb57",
-      "timestamp": 1755111008492
+      "id": "857de415bd42c28b01cf5d93f2bb3e5e",
+      "timestamp": 1757945740386
     }
   ],
   "justhr": [
@@ -15402,6 +15392,13 @@
       "site": "JobGurus",
       "id": "781569adf1978111dc5279cef6241299",
       "timestamp": 1757943668658
+    }
+  ],
+  "mao-oak resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "7ba8aa59a4af9a6d364dc287905cc93a",
+      "timestamp": 1757945740386
     }
   ]
 }
