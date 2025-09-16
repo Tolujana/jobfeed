@@ -745,8 +745,8 @@
   "equinix": [
     {
       "site": "JobGurus",
-      "id": "56e319021db8cf29227b8cf2cadc407d",
-      "timestamp": 1754651698047
+      "id": "00d8be39ebb81c0bd6dad3f8307f07df",
+      "timestamp": 1758019250125
     }
   ],
   "premier hub innovation center": [
@@ -1103,6 +1103,11 @@
       "site": "JobGurus",
       "id": "413626ca33cb7c63b7ae69a28bcc26a8",
       "timestamp": 1757702515039
+    },
+    {
+      "site": "JobGurus",
+      "id": "7316b52a8ecc0220c3f6243dbe2579b2",
+      "timestamp": 1758019250125
     }
   ],
   "elizabeth maddeux limited": [
@@ -10130,8 +10135,8 @@
   "tezza business solutions limited": [
     {
       "site": "JobGurus",
-      "id": "3db7508ada008583cd159780239effe3",
-      "timestamp": 1753715920175
+      "id": "1f358d37f785ee069d36394c270aeb7d",
+      "timestamp": 1758019250125
     }
   ],
   "regent microfinance bank limited": [
@@ -12311,13 +12316,13 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "d9882910d181ef6955bd8771e892b287",
-      "timestamp": 1757353088077
+      "id": "c8111aefbf92ef0a9cea50c0499adbff",
+      "timestamp": 1757430995035
     },
     {
       "site": "JobGurus",
-      "id": "c8111aefbf92ef0a9cea50c0499adbff",
-      "timestamp": 1757430995035
+      "id": "28fd1d7fcdacded1b2b3f3a72d398c3b",
+      "timestamp": 1758019250125
     }
   ],
   "saro agro-allied": [
