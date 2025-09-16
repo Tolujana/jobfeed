@@ -317,18 +317,8 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "ef7071dde198235c36683e0d20cbc091",
-      "timestamp": 1753800664882
-    },
-    {
-      "site": "JobGurus",
-      "id": "1d08ae06171e715a1bd49cd304ac2c95",
-      "timestamp": 1753800664882
-    },
-    {
-      "site": "JobGurus",
-      "id": "3ffa029eba4f4def319d27b2ecc16b5f",
-      "timestamp": 1753951917621
+      "id": "dffea5bcaff796366cf538f8609e748a",
+      "timestamp": 1758014189594
     }
   ],
   "jamub group": [
@@ -3946,18 +3936,8 @@
   "odixcity consulting": [
     {
       "site": "JobGurus",
-      "id": "940018883077110c824c26824ff31b5b",
-      "timestamp": 1756761153845
-    },
-    {
-      "site": "JobGurus",
-      "id": "6c7929889b5ef820d4cb15b8700dc78f",
-      "timestamp": 1756924991086
-    },
-    {
-      "site": "JobGurus",
-      "id": "5b297efe3f3d6994721e9c3300cd5898",
-      "timestamp": 1757348291432
+      "id": "a78c21345be6a5bdfdc4d871442185d8",
+      "timestamp": 1758014189594
     }
   ],
   "changeroom": [
@@ -7243,8 +7223,8 @@
   "gabs cooperative": [
     {
       "site": "JobGurus",
-      "id": "c297cb1ced882c6251b02d97179ba8e1",
-      "timestamp": 1751987832635
+      "id": "5e8063dbc922c4108524969686d21271",
+      "timestamp": 1758014189594
     }
   ],
   "oracle": [
@@ -15437,6 +15417,20 @@
       "site": "JobGurus",
       "id": "c198cd16fd33278cbd6c444d804f3c29",
       "timestamp": 1757954644281
+    }
+  ],
+  "bakery solutions nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "f242cbbc8e9c7bbe98ec781f0524cb0a",
+      "timestamp": 1758014189594
+    }
+  ],
+  "mobile sport limited": [
+    {
+      "site": "JobGurus",
+      "id": "46a7c64911da88750dd3faa11c7136c7",
+      "timestamp": 1758014189594
     }
   ]
 }
