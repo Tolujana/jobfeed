@@ -3118,11 +3118,6 @@
   "mactay consulting": [
     {
       "site": "JobGurus",
-      "id": "7e04cf95cf0d3eec9259794697e7bb1e",
-      "timestamp": 1757362570312
-    },
-    {
-      "site": "JobGurus",
       "id": "9e348a8188c44ee9b958cc2f17e154c0",
       "timestamp": 1757434728312
     },
@@ -3140,6 +3135,11 @@
       "site": "JobGurus",
       "id": "8309e2f340ee968e4e9d2e16a9c1814f",
       "timestamp": 1757704277827
+    },
+    {
+      "site": "JobGurus",
+      "id": "99acfedb57942e7083852a89d372aedb",
+      "timestamp": 1758029098519
     }
   ],
   "tybtitx services international limited": [
@@ -6387,8 +6387,8 @@
   "lington & bernie consulting limited": [
     {
       "site": "JobGurus",
-      "id": "4d8be92070470142b03ba4ac894a5f92",
-      "timestamp": 1756831497680
+      "id": "ca983db17359776c0c9dfe42a3c72c7c",
+      "timestamp": 1758029098519
     }
   ],
   "calibration and non-destructive services limited": [
@@ -15481,6 +15481,20 @@
       "site": "JobGurus",
       "id": "55df32ab1854843b3c8f45c35f047a9d",
       "timestamp": 1758022559835
+    }
+  ],
+  "m-kopa nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "cdd02ae3216073e111d8af9a809a89fe",
+      "timestamp": 1758029098519
+    }
+  ],
+  "olam international limited": [
+    {
+      "site": "JobGurus",
+      "id": "2fda6f62c31c4e584a9dc6740d42510b",
+      "timestamp": 1758029098519
     }
   ]
 }
