@@ -140,16 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "ea93a23793a1966b962bb018b93a0102",
-      "timestamp": 1757409395808
-    },
-    {
-      "site": "JobGurus",
-      "id": "b79460d7d8cc87f0c465940bea1e77df",
-      "timestamp": 1757437986470
-    },
-    {
-      "site": "JobGurus",
       "id": "7fe44af0dfe46a1e1355ca60b236a976",
       "timestamp": 1757942652658
     },
@@ -157,6 +147,11 @@
       "site": "JobGurus",
       "id": "819921d35e8504ddf5429d5c6d83062a",
       "timestamp": 1757954644281
+    },
+    {
+      "site": "JobGurus",
+      "id": "a879a28d42e36326462a13bdffa4e0f9",
+      "timestamp": 1758134758466
     }
   ],
   "cway group": [
@@ -2413,6 +2408,11 @@
       "site": "JobGurus",
       "id": "c2c96eff973bd3f3cb85a5abc582922c",
       "timestamp": 1757597932071
+    },
+    {
+      "site": "JobGurus",
+      "id": "a6ae6d708e71ce3af2a668a50c16165c",
+      "timestamp": 1758134758466
     }
   ],
   "lily hospitals limited": [
@@ -6615,8 +6615,8 @@
   "tailored talent": [
     {
       "site": "JobGurus",
-      "id": "af98a3dd60eeae33cac24fdda3fe5c97",
-      "timestamp": 1757528452289
+      "id": "6dcfcb75a078d669003de0043b54203f",
+      "timestamp": 1758134758466
     }
   ],
   "lopterra services limited": [
@@ -14352,8 +14352,8 @@
   "digital virgo group": [
     {
       "site": "JobGurus",
-      "id": "85be41681f914c5374d5dbe7078bba39",
-      "timestamp": 1757013079766
+      "id": "b37856049cd62be5df1141f8873ef7a5",
+      "timestamp": 1758134758466
     }
   ],
   "bons industries limited": [
@@ -15579,6 +15579,13 @@
       "site": "JobGurus",
       "id": "fab06f4ad89819ab04c4e4a966b24007",
       "timestamp": 1758133271610
+    }
+  ],
+  "mg vowgas group": [
+    {
+      "site": "JobGurus",
+      "id": "436b2eacf414da01991dbf2f0b471a7d",
+      "timestamp": 1758134758466
     }
   ]
 }
