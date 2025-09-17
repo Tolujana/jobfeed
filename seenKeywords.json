@@ -46,13 +46,8 @@
   "dag industries nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "87d9a596854aea5efdde33df6601d406",
-      "timestamp": 1756845386176
-    },
-    {
-      "site": "JobGurus",
-      "id": "09104a40f31220efeb1de2fadb399d4b",
-      "timestamp": 1756847562507
+      "id": "e36144d20c22e32321127f973f89c6c1",
+      "timestamp": 1758129162144
     }
   ],
   "compovine technologies limited": [
@@ -5925,8 +5920,13 @@
   "eat 'n’ go limited": [
     {
       "site": "JobGurus",
-      "id": "423542f625af73f9c442225961455640",
-      "timestamp": 1756996826752
+      "id": "6c6a4ed5a6f310e331ad6cfb5059a925",
+      "timestamp": 1758129162144
+    },
+    {
+      "site": "JobGurus",
+      "id": "48652c5de9f7f0e2a2f85eac8545b855",
+      "timestamp": 1758129162144
     }
   ],
   "peridot forte solutions consulting": [
@@ -15556,6 +15556,13 @@
       "site": "JobGurus",
       "id": "f8367b82c44686355698b91027ca5655",
       "timestamp": 1758033680273
+    }
+  ],
+  "foy global investments limited": [
+    {
+      "site": "JobGurus",
+      "id": "16802507c1f0e3308c8456bd93a72376",
+      "timestamp": 1758129162144
     }
   ]
 }
