@@ -721,13 +721,8 @@
   "salpha energy limited": [
     {
       "site": "JobGurus",
-      "id": "d7c824bc9f0198132ceacb97970d50a0",
-      "timestamp": 1756499857682
-    },
-    {
-      "site": "JobGurus",
-      "id": "e42607c3a9e5cfaa09115d9227870457",
-      "timestamp": 1756755363325
+      "id": "c0d000828e03dff0c79be4925cbde75b",
+      "timestamp": 1758143544669
     }
   ],
   "greensprings school": [
@@ -15675,6 +15670,13 @@
       "site": "JobGurus",
       "id": "cfc4f0e4e0491d325368410bd252ad5a",
       "timestamp": 1758141469382
+    }
+  ],
+  "qualiserve group": [
+    {
+      "site": "JobGurus",
+      "id": "55a872290987be6e13265f60976a2a04",
+      "timestamp": 1758143544669
     }
   ]
 }
