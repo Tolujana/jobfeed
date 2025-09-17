@@ -820,18 +820,8 @@
   "optimus bank": [
     {
       "site": "JobGurus",
-      "id": "8e9efe3c42cc7315dab895d48909620d",
-      "timestamp": 1755261115054
-    },
-    {
-      "site": "JobGurus",
-      "id": "40531786d82b828e2c21a97f9c6560bd",
-      "timestamp": 1755261115054
-    },
-    {
-      "site": "JobGurus",
-      "id": "d62c1425d45bfaa4852bb52ca315b70a",
-      "timestamp": 1755265632106
+      "id": "415d4873bf429ee03f8dde3d277f5205",
+      "timestamp": 1758133271610
     }
   ],
   "mkh properties limited": [
@@ -8374,8 +8364,8 @@
   "dsl pharma": [
     {
       "site": "JobGurus",
-      "id": "5871d83706fb0ebe043852de9a254ff7",
-      "timestamp": 1752590705696
+      "id": "82c9d156ce214ad724d5fcd2d272815f",
+      "timestamp": 1758133271610
     }
   ],
   "emmix global limited": [
@@ -15279,6 +15269,11 @@
       "site": "JobGurus",
       "id": "d602d4cdb8e88341fb0ea9d67d286c40",
       "timestamp": 1757759786259
+    },
+    {
+      "site": "JobGurus",
+      "id": "11884e1d71cef5ac8a6282b2ed3773a4",
+      "timestamp": 1758133271610
     }
   ],
   "talent sync services": [
@@ -15577,6 +15572,13 @@
       "site": "JobGurus",
       "id": "a8641b354c3164452bf9f1df4cef25fa",
       "timestamp": 1758130613017
+    }
+  ],
+  "vodstra limited": [
+    {
+      "site": "JobGurus",
+      "id": "fab06f4ad89819ab04c4e4a966b24007",
+      "timestamp": 1758133271610
     }
   ]
 }
