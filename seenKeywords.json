@@ -8633,8 +8633,8 @@
   "jev consulting": [
     {
       "site": "JobGurus",
-      "id": "e366571f2ff6fd9308e420d954e88e73",
-      "timestamp": 1754566808681
+      "id": "0eacaddcdba155bce50e2983722338f7",
+      "timestamp": 1758137766857
     }
   ],
   "save the slum initiative": [
@@ -12326,11 +12326,6 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "c8111aefbf92ef0a9cea50c0499adbff",
-      "timestamp": 1757430995035
-    },
-    {
-      "site": "JobGurus",
       "id": "28fd1d7fcdacded1b2b3f3a72d398c3b",
       "timestamp": 1758019250125
     },
@@ -12338,6 +12333,11 @@
       "site": "JobGurus",
       "id": "67c30f75012e9e684ffe7b436ae9da9f",
       "timestamp": 1758032123898
+    },
+    {
+      "site": "JobGurus",
+      "id": "28d6d00175ccf1789379ac788c965787",
+      "timestamp": 1758137766857
     }
   ],
   "saro agro-allied": [
@@ -15608,6 +15608,27 @@
       "site": "JobGurus",
       "id": "81b7e84ab831f2bbb30635550bb6972b",
       "timestamp": 1758136286886
+    }
+  ],
+  "gbekemo farms limited": [
+    {
+      "site": "JobGurus",
+      "id": "7fad2f8138fa202dcc3c1f2574f81d24",
+      "timestamp": 1758137766857
+    }
+  ],
+  "british international school (bis)": [
+    {
+      "site": "JobGurus",
+      "id": "9170a75d26488f477957fae1ac3992f0",
+      "timestamp": 1758137766857
+    }
+  ],
+  "prp consult": [
+    {
+      "site": "JobGurus",
+      "id": "009134be2fe3fd74614ced7e4ead8d4c",
+      "timestamp": 1758137766857
     }
   ]
 }
