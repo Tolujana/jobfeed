@@ -10147,8 +10147,8 @@
   "regent microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "9d06d23fffb0829cfc776c8ed49a5e95",
-      "timestamp": 1756217672871
+      "id": "f60b423435d68634d7418fd931af5548",
+      "timestamp": 1758204923491
     }
   ],
   "nw group": [
@@ -11432,13 +11432,8 @@
   "domeo resources international (dri)": [
     {
       "site": "JobGurus",
-      "id": "773dbcaf640640017504d8b2e8c1921b",
-      "timestamp": 1757089080286
-    },
-    {
-      "site": "JobGurus",
-      "id": "82d6a4e48fb9f1957c4d056da539c57e",
-      "timestamp": 1757165707523
+      "id": "a5bb8b9a9f5a4374605aa756bd1ba1b5",
+      "timestamp": 1758204923491
     }
   ],
   "pulse nigeria": [
@@ -15742,6 +15737,27 @@
       "site": "JobGurus",
       "id": "e0e5cb51be61adaea7adfb7b47264b46",
       "timestamp": 1758202910339
+    }
+  ],
+  "tranter it infrastructure services limited": [
+    {
+      "site": "JobGurus",
+      "id": "6d545c66a71916f203abf17a594dbe44",
+      "timestamp": 1758204923491
+    }
+  ],
+  "lytup power systems incorporated": [
+    {
+      "site": "JobGurus",
+      "id": "63a5ddab6574389138d839b3ad820b65",
+      "timestamp": 1758204923491
+    }
+  ],
+  "crimson oak partners": [
+    {
+      "site": "JobGurus",
+      "id": "6a8abde389fbcf9324ac3a255a210d5d",
+      "timestamp": 1758204923491
     }
   ]
 }
