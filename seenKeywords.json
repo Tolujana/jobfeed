@@ -53,8 +53,8 @@
   "compovine technologies limited": [
     {
       "site": "JobGurus",
-      "id": "8e7867fe507b38158be610d4df7ece30",
-      "timestamp": 1757163363399
+      "id": "aa5902e6964475055eb827d97bb7aa15",
+      "timestamp": 1758200699441
     }
   ],
   "the concept group": [
@@ -598,18 +598,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "5a459df0384e7a808e0d668729788e39",
-      "timestamp": 1757063765924
-    },
-    {
-      "site": "JobGurus",
-      "id": "01c02903d2ee5006d049e7602a70f526",
-      "timestamp": 1757529935482
-    },
-    {
-      "site": "JobGurus",
-      "id": "0f35c72e600399629e8d6d611d385577",
-      "timestamp": 1757593762799
+      "id": "6f1f0435aabcf105275cdccf9b721f5f",
+      "timestamp": 1758200699441
     }
   ],
   "food concepts plc": [
@@ -15717,6 +15707,13 @@
       "site": "JobGurus",
       "id": "1452360e2995292545807e942d6106e8",
       "timestamp": 1758198603117
+    }
+  ],
+  "mapsi group": [
+    {
+      "site": "JobGurus",
+      "id": "1770b7deb4d60e6befc9794b9178da69",
+      "timestamp": 1758200699441
     }
   ]
 }
