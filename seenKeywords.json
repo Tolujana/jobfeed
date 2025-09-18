@@ -12201,8 +12201,8 @@
   "the place": [
     {
       "site": "JobGurus",
-      "id": "ef935834d6bf18d71b7031ac6685213b",
-      "timestamp": 1755270977630
+      "id": "bbc83ca30bfad0239a7b4e7ef4a641a0",
+      "timestamp": 1758202910339
     }
   ],
   "ambiance cafeteria": [
@@ -15714,6 +15714,34 @@
       "site": "JobGurus",
       "id": "1770b7deb4d60e6befc9794b9178da69",
       "timestamp": 1758200699441
+    }
+  ],
+  "sqi college of ict": [
+    {
+      "site": "JobGurus",
+      "id": "6f3a2eb2af900e5c46f204a4d32cd584",
+      "timestamp": 1758202910339
+    }
+  ],
+  "property brokers magazine": [
+    {
+      "site": "JobGurus",
+      "id": "531aafe80bf0ce64d20df631a42da764",
+      "timestamp": 1758202910339
+    }
+  ],
+  "cross beverage company limited": [
+    {
+      "site": "JobGurus",
+      "id": "ccb2ec4f76db00ad7c80e0b6088ae8ed",
+      "timestamp": 1758202910339
+    }
+  ],
+  "structured resource business limited": [
+    {
+      "site": "JobGurus",
+      "id": "e0e5cb51be61adaea7adfb7b47264b46",
+      "timestamp": 1758202910339
     }
   ]
 }
