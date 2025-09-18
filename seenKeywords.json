@@ -1027,8 +1027,8 @@
   "brenhazy limited": [
     {
       "site": "JobGurus",
-      "id": "2fd13e3f7401243c034548cc3d0f87ad",
-      "timestamp": 1757351593430
+      "id": "6c6e7708746b77224d908946a61d4fdc",
+      "timestamp": 1758212284996
     }
   ],
   "zipline": [
@@ -3625,13 +3625,8 @@
   "swift consulting": [
     {
       "site": "JobGurus",
-      "id": "fc0967c9ff10480b3f1202ad3c4e0db1",
-      "timestamp": 1755353586202
-    },
-    {
-      "site": "JobGurus",
-      "id": "505d1108ef3660f99f808059850e6765",
-      "timestamp": 1755353586202
+      "id": "b0a5a16c1ee723d228a738638f4caa74",
+      "timestamp": 1758212284996
     }
   ],
   "pack ‘n’ pay": [
@@ -7497,13 +7492,8 @@
   "mdoc healthcare": [
     {
       "site": "JobGurus",
-      "id": "3ad6a965fc774292b19efa974dab91c3",
-      "timestamp": 1755544434053
-    },
-    {
-      "site": "JobGurus",
-      "id": "6d5d765229247130edee7e964a3d3fb5",
-      "timestamp": 1755544434053
+      "id": "77d7e83f9c7ba62afac144b4ec7d4201",
+      "timestamp": 1758212284996
     }
   ],
   "finlab nigeria limited": [
@@ -15783,6 +15773,13 @@
       "site": "JobGurus",
       "id": "eeb5ed4f5545419a68bd04c1152c0d41",
       "timestamp": 1758209901006
+    }
+  ],
+  "hugo": [
+    {
+      "site": "JobGurus",
+      "id": "1573ed25a5c2305cfaf3ba1a73c3a680",
+      "timestamp": 1758212284996
     }
   ]
 }
