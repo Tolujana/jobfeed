@@ -4913,11 +4913,6 @@
   "leam consulting": [
     {
       "site": "JobGurus",
-      "id": "3706a840441073dc2d3e9669e2196ece",
-      "timestamp": 1757349856176
-    },
-    {
-      "site": "JobGurus",
       "id": "f8bf3d409f4c30fd2a13ecbc5b5b6f2a",
       "timestamp": 1757702515039
     },
@@ -4925,6 +4920,11 @@
       "site": "JobGurus",
       "id": "713feb871e062e267a98a7eb86e996ee",
       "timestamp": 1757758402453
+    },
+    {
+      "site": "JobGurus",
+      "id": "44960fdc47ab508a11c0ef2a13530d59",
+      "timestamp": 1758285048298
     }
   ],
   "amy consulting": [
@@ -13655,13 +13655,8 @@
   "solevo group": [
     {
       "site": "JobGurus",
-      "id": "d5fb0737849fbcb001d6bb9dad3b0046",
-      "timestamp": 1756545216836
-    },
-    {
-      "site": "JobGurus",
-      "id": "5982c56bc8d8fe21efac7799432d1a12",
-      "timestamp": 1756545216836
+      "id": "7ab9c9411ad4b0548116641fceb6140c",
+      "timestamp": 1758285048298
     }
   ],
   "acoustic expert limited": [
@@ -15851,6 +15846,13 @@
       "site": "JobGurus",
       "id": "6a30762cb43d7f60c3604e5049c0351d",
       "timestamp": 1758278433542
+    }
+  ],
+  "bosak grassroot empowerment initiative": [
+    {
+      "site": "JobGurus",
+      "id": "2ee67b881212530da6de5dc7ef2644ec",
+      "timestamp": 1758285048298
     }
   ]
 }
