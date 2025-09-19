@@ -496,28 +496,8 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "f284b8b18097be262746d4192959ae7d",
-      "timestamp": 1756491627287
-    },
-    {
-      "site": "JobGurus",
-      "id": "a19b5b545002ec1e6e38fe8afb5a281d",
-      "timestamp": 1756493057186
-    },
-    {
-      "site": "JobGurus",
-      "id": "75bd9f5ff1cd34624373a267c15315af",
-      "timestamp": 1757089080286
-    },
-    {
-      "site": "JobGurus",
-      "id": "ea38eb84988d4a6d9ec799558332a03d",
-      "timestamp": 1757089080286
-    },
-    {
-      "site": "JobGurus",
-      "id": "026d79774a5634c670fa0a667fa6f10a",
-      "timestamp": 1757093818380
+      "id": "f199e46612911a7a3d75111ad01999b8",
+      "timestamp": 1758306026895
     }
   ],
   "cig motors co. limited": [
@@ -5350,8 +5330,8 @@
   "zael business management & consulting": [
     {
       "site": "JobGurus",
-      "id": "c0d46ace5f30d9fd38fb21d554105c10",
-      "timestamp": 1756494691021
+      "id": "df50ed65ad2425c5ead91091af8a64df",
+      "timestamp": 1758306026895
     }
   ],
   "the changeroom": [
@@ -5517,23 +5497,13 @@
   "paga limited": [
     {
       "site": "JobGurus",
-      "id": "d41b270cb9e644a75ee3f75fe0dc09f1",
-      "timestamp": 1757147958013
-    },
-    {
-      "site": "JobGurus",
-      "id": "7e20423b1ae7134a4a702335c6ebd0c7",
-      "timestamp": 1757147958013
-    },
-    {
-      "site": "JobGurus",
-      "id": "6d6f03ea47ccd5e49db825b081381e7b",
-      "timestamp": 1757164705939
-    },
-    {
-      "site": "JobGurus",
       "id": "50d328a5b4a809e68e05f5c1faefc607",
       "timestamp": 1757705752979
+    },
+    {
+      "site": "JobGurus",
+      "id": "08d37550074921569d88d99386c5e77f",
+      "timestamp": 1758306026895
     }
   ],
   "blue wave new energy technology nigeria company limited": [
@@ -15956,6 +15926,20 @@
       "site": "JobGurus",
       "id": "f632c3fb88cf01f70bf8724115e1e741",
       "timestamp": 1758301950967
+    }
+  ],
+  "mitera health limited": [
+    {
+      "site": "JobGurus",
+      "id": "9d89174e7da041e471bd7905d28ab2da",
+      "timestamp": 1758306026895
+    }
+  ],
+  "shawsand medical centre": [
+    {
+      "site": "JobGurus",
+      "id": "5c9902f99e0a34c275a49275aea87ea5",
+      "timestamp": 1758306026895
     }
   ]
 }
