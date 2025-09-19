@@ -62,6 +62,11 @@
       "site": "JobGurus",
       "id": "28b208817f68f3e609194140c67e36fb",
       "timestamp": 1757682102601
+    },
+    {
+      "site": "JobGurus",
+      "id": "b981c74fb24bdaf4a64846f767841647",
+      "timestamp": 1758276994551
     }
   ],
   "triple x environmental health consult": [
@@ -11531,8 +11536,8 @@
   "concept nova": [
     {
       "site": "JobGurus",
-      "id": "d06884b16f696b176ff4a2ba790aceb2",
-      "timestamp": 1754664427650
+      "id": "f66c219b32915cfe9961ad1848e6afcb",
+      "timestamp": 1758276994551
     }
   ],
   "jiji.ng": [
@@ -14225,8 +14230,8 @@
   "prohuman capital consulting": [
     {
       "site": "JobGurus",
-      "id": "0e9a1fce5d477665a7c7806a9337b2e9",
-      "timestamp": 1757002741599
+      "id": "3b7bbbadf62d1e7749a785135a88745e",
+      "timestamp": 1758276994551
     }
   ],
   "lagoon hospitals": [
@@ -15827,6 +15832,13 @@
       "site": "JobGurus",
       "id": "28127d0a08e841e6b672289628978d89",
       "timestamp": 1758219716402
+    }
+  ],
+  "edgebase technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "59f99d06df29cc03345ab95e72c0b401",
+      "timestamp": 1758276994551
     }
   ]
 }
