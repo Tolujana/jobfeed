@@ -605,6 +605,11 @@
       "site": "JobGurus",
       "id": "6f1f0435aabcf105275cdccf9b721f5f",
       "timestamp": 1758200699441
+    },
+    {
+      "site": "JobGurus",
+      "id": "2bc36f7062b570cfccc884405a9ec609",
+      "timestamp": 1758301950967
     }
   ],
   "food concepts plc": [
@@ -746,6 +751,11 @@
       "site": "JobGurus",
       "id": "4cd900f07b73d93b11c614b430a9aec0",
       "timestamp": 1758300165771
+    },
+    {
+      "site": "JobGurus",
+      "id": "797786a4c09792d437f786c6e9b2de72",
+      "timestamp": 1758301950967
     }
   ],
   "presto integrated solutions": [
@@ -15939,6 +15949,13 @@
       "site": "JobGurus",
       "id": "c71afe245aeb1575fe5e1eb470e391b1",
       "timestamp": 1758300165771
+    }
+  ],
+  "transparency scape insurance brokers": [
+    {
+      "site": "JobGurus",
+      "id": "f632c3fb88cf01f70bf8724115e1e741",
+      "timestamp": 1758301950967
     }
   ]
 }
