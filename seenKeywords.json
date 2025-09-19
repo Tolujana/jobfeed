@@ -7725,8 +7725,8 @@
   "spie oil & gas services": [
     {
       "site": "JobGurus",
-      "id": "3b96be566f9b8b969a6182e5f707e58a",
-      "timestamp": 1752226985407
+      "id": "5b555be00a4ac6f5187c0c6487545fa3",
+      "timestamp": 1758278433542
     }
   ],
   "jhpiego": [
@@ -15839,6 +15839,13 @@
       "site": "JobGurus",
       "id": "59f99d06df29cc03345ab95e72c0b401",
       "timestamp": 1758276994551
+    }
+  ],
+  "red for africa": [
+    {
+      "site": "JobGurus",
+      "id": "6a30762cb43d7f60c3604e5049c0351d",
+      "timestamp": 1758278433542
     }
   ]
 }
