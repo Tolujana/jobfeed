@@ -2814,6 +2814,16 @@
       "site": "JobGurus",
       "id": "992b8e9530e20fff5ffa1dbe8732c828",
       "timestamp": 1757759786259
+    },
+    {
+      "site": "JobGurus",
+      "id": "93acca9fde65998d5918b7b5586da941",
+      "timestamp": 1758291266718
+    },
+    {
+      "site": "JobGurus",
+      "id": "88f1a40e97570fa3ec82d91361b5b7a4",
+      "timestamp": 1758291266718
     }
   ],
   "longbridge technologies limited": [
@@ -5524,8 +5534,8 @@
   "blue wave new energy technology nigeria company limited": [
     {
       "site": "JobGurus",
-      "id": "dc5c03cfa96f496037ee16daecb80e5f",
-      "timestamp": 1750963759836
+      "id": "5a2ef9157fd1f752b4956b2878dab738",
+      "timestamp": 1758291266718
     }
   ],
   "successmove integrated logistics services": [
@@ -15888,6 +15898,20 @@
       "site": "JobGurus",
       "id": "3fa662da70320ddf24b4be6b70bb1649",
       "timestamp": 1758289347929
+    }
+  ],
+  "whitespace integrated services limited": [
+    {
+      "site": "JobGurus",
+      "id": "130dacaa7472cbec43c931f2e5b46952",
+      "timestamp": 1758291266718
+    }
+  ],
+  "ave maria multipurpose investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "e2de172e7fb635fe2bb16c1cb3dca400",
+      "timestamp": 1758291266718
     }
   ]
 }
