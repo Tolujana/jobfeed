@@ -5212,8 +5212,8 @@
   "max drive": [
     {
       "site": "JobGurus",
-      "id": "5e7da59d43e4608ba9c805ce9e3ae325",
-      "timestamp": 1757167899931
+      "id": "00f87a068da5c4c5fd1a7f7a310975bc",
+      "timestamp": 1758288230253
     }
   ],
   "opay": [
@@ -15853,6 +15853,34 @@
       "site": "JobGurus",
       "id": "2ee67b881212530da6de5dc7ef2644ec",
       "timestamp": 1758285048298
+    }
+  ],
+  "fortinet (nasdaq: ftnt)": [
+    {
+      "site": "JobGurus",
+      "id": "ccf70458094d96799c607bd81d5a4f84",
+      "timestamp": 1758288230253
+    }
+  ],
+  "grand maridos hotel": [
+    {
+      "site": "JobGurus",
+      "id": "862ec954c044d2af22ecfa0516852301",
+      "timestamp": 1758288230253
+    }
+  ],
+  "ethnos cyber limited": [
+    {
+      "site": "JobGurus",
+      "id": "d0fb5b74c58f67ebb732a5293bfa0922",
+      "timestamp": 1758288230253
+    }
+  ],
+  "maprena nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "41296c0e9c67d834ad72e83d5b6efa6b",
+      "timestamp": 1758288230253
     }
   ]
 }
