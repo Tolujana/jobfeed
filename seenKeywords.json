@@ -744,8 +744,8 @@
   "tek experts": [
     {
       "site": "JobGurus",
-      "id": "d56828249e12dffa150de2fcf829111a",
-      "timestamp": 1749046391159
+      "id": "4cd900f07b73d93b11c614b430a9aec0",
+      "timestamp": 1758300165771
     }
   ],
   "presto integrated solutions": [
@@ -6792,13 +6792,8 @@
   "stivlon consulting": [
     {
       "site": "JobGurus",
-      "id": "552dd0716d417bdbad921be71092f226",
-      "timestamp": 1755954065823
-    },
-    {
-      "site": "JobGurus",
-      "id": "9b58d7d42d76101e0c46bbc1cabef9ff",
-      "timestamp": 1756206835222
+      "id": "51a87143cf0fb016087d85b7d105c5da",
+      "timestamp": 1758300165771
     }
   ],
   "equity specialist hospital": [
@@ -11265,8 +11260,8 @@
   "ace afri financials limited": [
     {
       "site": "JobGurus",
-      "id": "fb94888a839dbb4801b895a904c69b51",
-      "timestamp": 1754499141488
+      "id": "86919f7b88015e401d644cdff29a5db7",
+      "timestamp": 1758300165771
     }
   ],
   "cutstruct technology limited": [
@@ -15930,6 +15925,20 @@
       "site": "JobGurus",
       "id": "886a8a2932c298b3dd5c9729c2ca0771",
       "timestamp": 1758298653932
+    }
+  ],
+  "stanbic ibtc insurance": [
+    {
+      "site": "JobGurus",
+      "id": "2243f3739e9cc22882aafaa50bb45389",
+      "timestamp": 1758300165771
+    }
+  ],
+  "tastee fried chicken": [
+    {
+      "site": "JobGurus",
+      "id": "c71afe245aeb1575fe5e1eb470e391b1",
+      "timestamp": 1758300165771
     }
   ]
 }
