@@ -1410,8 +1410,13 @@
   "techdoctorinnovations": [
     {
       "site": "JobGurus",
-      "id": "9d6e94385d24537397c53c637b65abc9",
-      "timestamp": 1757607496122
+      "id": "7b0a9ea5f3b685bf03377d4698d40f0d",
+      "timestamp": 1758289347929
+    },
+    {
+      "site": "JobGurus",
+      "id": "19c3701a19c80ab361cda8259b6a046d",
+      "timestamp": 1758289347929
     }
   ],
   "shomas supply & logistics limited": [
@@ -2687,6 +2692,11 @@
       "site": "JobGurus",
       "id": "bdf0865038a1d4ffc8f20aa142e2ea40",
       "timestamp": 1757950716491
+    },
+    {
+      "site": "JobGurus",
+      "id": "baa59731f53ccc3bd62b22d364c6d373",
+      "timestamp": 1758289347929
     }
   ],
   "prime pharmacy": [
@@ -10937,18 +10947,8 @@
   "lasad ventures": [
     {
       "site": "JobGurus",
-      "id": "fdb804dd9706905822fde518b5a5c78a",
-      "timestamp": 1755272469611
-    },
-    {
-      "site": "JobGurus",
-      "id": "d0688eee7601d1e0d49ccdb8a23b63de",
-      "timestamp": 1755364372058
-    },
-    {
-      "site": "JobGurus",
-      "id": "641434c968f9a299feb08d76045fd9c0",
-      "timestamp": 1755364372058
+      "id": "f1f42161c21f1f5e9182d6dda85264e6",
+      "timestamp": 1758289347929
     }
   ],
   "project masters nigeria limited": [
@@ -15881,6 +15881,13 @@
       "site": "JobGurus",
       "id": "41296c0e9c67d834ad72e83d5b6efa6b",
       "timestamp": 1758288230253
+    }
+  ],
+  "clementine planetary limited": [
+    {
+      "site": "JobGurus",
+      "id": "3fa662da70320ddf24b4be6b70bb1649",
+      "timestamp": 1758289347929
     }
   ]
 }
