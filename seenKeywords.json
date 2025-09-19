@@ -270,6 +270,11 @@
       "site": "JobGurus",
       "id": "3d4df3e1252e3af2caa8d9999ab6eef0",
       "timestamp": 1758022559835
+    },
+    {
+      "site": "JobGurus",
+      "id": "3b77e594a9a2fd70a07627e4f2c449e1",
+      "timestamp": 1758298653932
     }
   ],
   "greengrass investment limited": [
@@ -4019,8 +4024,8 @@
   "hr-aid consults": [
     {
       "site": "JobGurus",
-      "id": "790c62241525505c7abbe3a7d2001d20",
-      "timestamp": 1755721028536
+      "id": "1b45a0eee0b07deee18178b9c0bee202",
+      "timestamp": 1758298653932
     }
   ],
   "nigeria society of engineers (nse)": [
@@ -7479,13 +7484,8 @@
   "catilas resources limited": [
     {
       "site": "JobGurus",
-      "id": "60070181be7ea89e50bfb4acd84b71bf",
-      "timestamp": 1754392532304
-    },
-    {
-      "site": "JobGurus",
-      "id": "fcce31c754203c3a158ac70da79b0b17",
-      "timestamp": 1754401113609
+      "id": "c33177350d9b690da9d30f27c0977aa6",
+      "timestamp": 1758298653932
     }
   ],
   "firstfruit housing limited": [
@@ -15916,6 +15916,20 @@
       "site": "JobGurus",
       "id": "bed6856506142a5a9296dee605f3f620",
       "timestamp": 1758296276149
+    }
+  ],
+  "staffbridgehr limited": [
+    {
+      "site": "JobGurus",
+      "id": "06afd56ab6f5c7336f497fc8aaf9af61",
+      "timestamp": 1758298653932
+    }
+  ],
+  "devyani international nigeria ltd": [
+    {
+      "site": "JobGurus",
+      "id": "886a8a2932c298b3dd5c9729c2ca0771",
+      "timestamp": 1758298653932
     }
   ]
 }
