@@ -711,6 +711,11 @@
       "site": "JobGurus",
       "id": "797786a4c09792d437f786c6e9b2de72",
       "timestamp": 1758301950967
+    },
+    {
+      "site": "JobGurus",
+      "id": "3b0b3c6c6c8171a3f7e46125fc7d93c1",
+      "timestamp": 1758357649476
     }
   ],
   "presto integrated solutions": [
@@ -3091,8 +3096,8 @@
   "simba group": [
     {
       "site": "JobGurus",
-      "id": "3f3dba2abe67facaf34f1f30b58fc6fc",
-      "timestamp": 1753195551853
+      "id": "ed373dbc1a472dc32b7173dc5f97b8d3",
+      "timestamp": 1758357649476
     }
   ],
   "mactay consulting": [
@@ -12466,8 +12471,13 @@
   "pwan group": [
     {
       "site": "JobGurus",
-      "id": "caec6b6bf815882b7a3cc29b0191a79d",
-      "timestamp": 1757345986911
+      "id": "c6d984ea22aa80c13c5dd4cc62769575",
+      "timestamp": 1758357649476
+    },
+    {
+      "site": "JobGurus",
+      "id": "0df97935d099780eb42d7e1eabc9e743",
+      "timestamp": 1758357649476
     }
   ],
   "zhuli recruiters": [
