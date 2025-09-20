@@ -6970,6 +6970,11 @@
       "site": "JobGurus",
       "id": "1a19aea64a972beac5c3b432c3040c52",
       "timestamp": 1758366669300
+    },
+    {
+      "site": "JobGurus",
+      "id": "34ae2ddebd5a5c35000c40bbf424cd9e",
+      "timestamp": 1758373160147
     }
   ],
   "ntel": [
@@ -9466,6 +9471,16 @@
       "site": "JobGurus",
       "id": "00ddc7ce1967fa55d82c12fb7a75af64",
       "timestamp": 1758366669300
+    },
+    {
+      "site": "JobGurus",
+      "id": "a5b884fbf14e9cb8abfda6d2592472e0",
+      "timestamp": 1758373160147
+    },
+    {
+      "site": "JobGurus",
+      "id": "3f385d2c83412add7a077cbf09a9e657",
+      "timestamp": 1758373160147
     }
   ],
   "jemimah nigeria limited": [
@@ -14887,6 +14902,11 @@
       "site": "JobGurus",
       "id": "cab9d50115025318fc36c79ffab25666",
       "timestamp": 1758366669300
+    },
+    {
+      "site": "JobGurus",
+      "id": "35330a8999c9cc4634303e772f9ae78d",
+      "timestamp": 1758373160147
     }
   ],
   "uhr consult limited": [
@@ -15960,6 +15980,13 @@
       "site": "JobGurus",
       "id": "5c9902f99e0a34c275a49275aea87ea5",
       "timestamp": 1758306026895
+    }
+  ],
+  "talent pool resources international limited": [
+    {
+      "site": "JobGurus",
+      "id": "deb07f17afc5c4b0c1bd94c505e7d1d2",
+      "timestamp": 1758373160147
     }
   ]
 }
