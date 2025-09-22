@@ -494,8 +494,8 @@
   "above lifestyle": [
     {
       "site": "JobGurus",
-      "id": "436dc8fdbbee996c5215fcdacb1e8808",
-      "timestamp": 1748957407033
+      "id": "560ab832de5efdd432dd47cdfbd4e66a",
+      "timestamp": 1758569747844
     }
   ],
   "cfao yamaha motor": [
@@ -5164,6 +5164,11 @@
       "site": "JobGurus",
       "id": "b6138529debca664810a561f55bf7146",
       "timestamp": 1758568299536
+    },
+    {
+      "site": "JobGurus",
+      "id": "99d4951d4b894bd3c529388a8f572148",
+      "timestamp": 1758569747844
     }
   ],
   "sao group": [
@@ -7705,13 +7710,8 @@
   "ronsberger nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "87e277018a5a4743831c775d3246a7a6",
-      "timestamp": 1752230732504
-    },
-    {
-      "site": "JobGurus",
-      "id": "3b4f5841f8a05009dd13e4268107e759",
-      "timestamp": 1752230732504
+      "id": "209cdd7885e59df2a874ec653d95cb85",
+      "timestamp": 1758569747844
     }
   ],
   "pinpoint academy": [
@@ -13709,8 +13709,8 @@
   "spotlight supermarket": [
     {
       "site": "JobGurus",
-      "id": "c82ba3dcfdf706cb3f9a4fb08d8dbe42",
-      "timestamp": 1756733115101
+      "id": "44d62dd96f301cf5e96e4526d2d0b89f",
+      "timestamp": 1758569747844
     }
   ],
   "regions healthcare": [
@@ -16015,6 +16015,13 @@
       "site": "JobGurus",
       "id": "fea24ad1cb789741ff64c181d3d59f4d",
       "timestamp": 1758568299536
+    }
+  ],
+  "broot consulting": [
+    {
+      "site": "JobGurus",
+      "id": "567b6914ce72a4c7ad908f2dd4c556fd",
+      "timestamp": 1758569747844
     }
   ]
 }
