@@ -224,8 +224,8 @@
   "outcess solutions nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "380257fb9dc06cfd95c4779aca18a221",
-      "timestamp": 1754990321323
+      "id": "0324876d6cabca1a2e9583ab86466500",
+      "timestamp": 1758547531216
     }
   ],
   "sap nigeria": [
@@ -3389,13 +3389,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "06c790cda4afd99671708da44c02eaf8",
-      "timestamp": 1757684455540
-    },
-    {
-      "site": "JobGurus",
-      "id": "c8a7660df2de8afd4ab253fc79d29965",
-      "timestamp": 1757942652658
+      "id": "d6dfb44731bfd8dc9e6a3ca0b807291d",
+      "timestamp": 1758547531216
     }
   ],
   "abnl limited": [
@@ -13054,8 +13049,8 @@
   "dovers dental clinic": [
     {
       "site": "JobGurus",
-      "id": "1c986eb4b176b1173aeae5b191a8c6e5",
-      "timestamp": 1755895192400
+      "id": "3b60d28ddce7abf80ae2df63eaae37f6",
+      "timestamp": 1758547531216
     }
   ],
   "kimberly ryan limited": [
@@ -16011,6 +16006,20 @@
       "site": "JobGurus",
       "id": "64791db8bdb839a33a9a4dd190e8d185",
       "timestamp": 1758544283419
+    }
+  ],
+  "joje hospital": [
+    {
+      "site": "JobGurus",
+      "id": "67e5b60a1448dfd3b382376fad3a3609",
+      "timestamp": 1758547531216
+    }
+  ],
+  "courier and logistics management institute (clmi)": [
+    {
+      "site": "JobGurus",
+      "id": "27a7ed7050e921cb8bd7feb5766603d2",
+      "timestamp": 1758547531216
     }
   ]
 }
