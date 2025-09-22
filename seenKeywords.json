@@ -9463,6 +9463,11 @@
       "site": "JobGurus",
       "id": "a2992095da32322d607f31b023722579",
       "timestamp": 1758565259920
+    },
+    {
+      "site": "JobGurus",
+      "id": "0a0f57ed51a12af81978817209a2f33f",
+      "timestamp": 1758566710374
     }
   ],
   "feed avenue limited": [
@@ -13776,8 +13781,8 @@
   "key retail group": [
     {
       "site": "JobGurus",
-      "id": "1a15c618001a58efa04842286f7f191b",
-      "timestamp": 1756755363325
+      "id": "804273940b7f672f74844803823d07ac",
+      "timestamp": 1758566710374
     }
   ],
   "golden line global services limited": [
@@ -13986,8 +13991,8 @@
   "cw real estate": [
     {
       "site": "JobGurus",
-      "id": "7c0d3e54d1b240e2205c9a708576e822",
-      "timestamp": 1756845386176
+      "id": "67ac1d835ddc22ee958f363a67aaf5d3",
+      "timestamp": 1758566710374
     }
   ],
   "ringo telecommunications limited": [
@@ -16019,6 +16024,20 @@
       "site": "JobGurus",
       "id": "09ab832711e4448988b1cbd37e50a32e",
       "timestamp": 1758550563450
+    }
+  ],
+  "quick collect": [
+    {
+      "site": "JobGurus",
+      "id": "c95f9cf73b6cdfe08d7897acf1d59c3b",
+      "timestamp": 1758566710374
+    }
+  ],
+  "windek group": [
+    {
+      "site": "JobGurus",
+      "id": "305e665b71ca46dce3db24d17d3c9981",
+      "timestamp": 1758566710374
     }
   ]
 }
