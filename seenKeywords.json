@@ -4211,8 +4211,8 @@
   "wts energy": [
     {
       "site": "JobGurus",
-      "id": "083984c102f462cb6967eccaee27eb51",
-      "timestamp": 1757701078450
+      "id": "d4a605e8eb6568e6c0374619f1300a77",
+      "timestamp": 1758568299536
     }
   ],
   "prixair group": [
@@ -5157,23 +5157,13 @@
   "tophire africa": [
     {
       "site": "JobGurus",
-      "id": "af4a5be33951ba6d5e135d952a894cdb",
-      "timestamp": 1757513640044
-    },
-    {
-      "site": "JobGurus",
-      "id": "e1e139e5314d8b4b537d88efb6bd2c7a",
-      "timestamp": 1757513640044
-    },
-    {
-      "site": "JobGurus",
-      "id": "015ef0a1e06b756ac9a9e8507078be33",
-      "timestamp": 1757595777423
-    },
-    {
-      "site": "JobGurus",
       "id": "88796f60f287ce64aaec1ed051af5aca",
       "timestamp": 1758021143899
+    },
+    {
+      "site": "JobGurus",
+      "id": "b6138529debca664810a561f55bf7146",
+      "timestamp": 1758568299536
     }
   ],
   "sao group": [
@@ -5943,28 +5933,8 @@
   "mecer consulting limited": [
     {
       "site": "JobGurus",
-      "id": "7068893085e845f31145a86c2adabed3",
-      "timestamp": 1753195551853
-    },
-    {
-      "site": "JobGurus",
-      "id": "69d3e9d4ead130143a27bcd1b10f1ad6",
-      "timestamp": 1753195551853
-    },
-    {
-      "site": "JobGurus",
-      "id": "54ed845dc93692d132d5c739b68f15e0",
-      "timestamp": 1753197496676
-    },
-    {
-      "site": "JobGurus",
-      "id": "a5ec31922e73349c81e1d5419e7ff271",
-      "timestamp": 1753364131617
-    },
-    {
-      "site": "JobGurus",
-      "id": "aea609e87ffda56390e289b577d7fa1a",
-      "timestamp": 1753364131617
+      "id": "8f94b8165e430122ea8e2c1266092be1",
+      "timestamp": 1758568299536
     }
   ],
   "lotus capital limited": [
@@ -7264,8 +7234,8 @@
   "prestigious consulting": [
     {
       "site": "JobGurus",
-      "id": "3ad616a6ad89e4fe7f249e3e2ce179eb",
-      "timestamp": 1757947164993
+      "id": "5113ed6e28605bda6f8d3dc701b44e1b",
+      "timestamp": 1758568299536
     }
   ],
   "quicky chillis": [
@@ -16038,6 +16008,13 @@
       "site": "JobGurus",
       "id": "305e665b71ca46dce3db24d17d3c9981",
       "timestamp": 1758566710374
+    }
+  ],
+  "cooperazione internazionale (coopi)": [
+    {
+      "site": "JobGurus",
+      "id": "fea24ad1cb789741ff64c181d3d59f4d",
+      "timestamp": 1758568299536
     }
   ]
 }
