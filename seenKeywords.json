@@ -736,6 +736,11 @@
       "site": "JobGurus",
       "id": "72c4c10c70ce581544c8be7c90ea8110",
       "timestamp": 1758359619145
+    },
+    {
+      "site": "JobGurus",
+      "id": "1b5df713818e03d150e7bdb0a78d0c9b",
+      "timestamp": 1758544283419
     }
   ],
   "presto integrated solutions": [
@@ -10766,8 +10771,8 @@
   "tulip cocoa processing limited": [
     {
       "site": "JobGurus",
-      "id": "1e26dbd8a881ab01a7db1c1ab7090f0c",
-      "timestamp": 1757002741599
+      "id": "03728656ed7d4e129f36e38845512997",
+      "timestamp": 1758544283419
     }
   ],
   "discovering talents academy": [
@@ -15572,6 +15577,11 @@
       "site": "JobGurus",
       "id": "a8641b354c3164452bf9f1df4cef25fa",
       "timestamp": 1758130613017
+    },
+    {
+      "site": "JobGurus",
+      "id": "9043401a280f490d265c20ee7ee60356",
+      "timestamp": 1758544283419
     }
   ],
   "vodstra limited": [
@@ -15987,6 +15997,20 @@
       "site": "JobGurus",
       "id": "deb07f17afc5c4b0c1bd94c505e7d1d2",
       "timestamp": 1758373160147
+    }
+  ],
+  "crown aegis": [
+    {
+      "site": "JobGurus",
+      "id": "add5f98284afb90dc89e8085fc2b584f",
+      "timestamp": 1758544283419
+    }
+  ],
+  "fairprice mart": [
+    {
+      "site": "JobGurus",
+      "id": "64791db8bdb839a33a9a4dd190e8d185",
+      "timestamp": 1758544283419
     }
   ]
 }
