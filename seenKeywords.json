@@ -140,16 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "7fe44af0dfe46a1e1355ca60b236a976",
-      "timestamp": 1757942652658
-    },
-    {
-      "site": "JobGurus",
-      "id": "819921d35e8504ddf5429d5c6d83062a",
-      "timestamp": 1757954644281
-    },
-    {
-      "site": "JobGurus",
       "id": "a879a28d42e36326462a13bdffa4e0f9",
       "timestamp": 1758134758466
     },
@@ -157,6 +147,11 @@
       "site": "JobGurus",
       "id": "bab5e8fd291fb44165259d01fbabb879",
       "timestamp": 1758136286886
+    },
+    {
+      "site": "JobGurus",
+      "id": "0fe9d30b9154f7908ff6553d499177d3",
+      "timestamp": 1758615591463
     }
   ],
   "cway group": [
@@ -1076,11 +1071,6 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "413626ca33cb7c63b7ae69a28bcc26a8",
-      "timestamp": 1757702515039
-    },
-    {
-      "site": "JobGurus",
       "id": "7316b52a8ecc0220c3f6243dbe2579b2",
       "timestamp": 1758019250125
     },
@@ -1088,6 +1078,11 @@
       "site": "JobGurus",
       "id": "be6fe871874559a2a4f63d78fa7df428",
       "timestamp": 1758280356747
+    },
+    {
+      "site": "JobGurus",
+      "id": "59593e4c639f74764b90eb95eea1cb3d",
+      "timestamp": 1758615591463
     }
   ],
   "elizabeth maddeux limited": [
@@ -6480,13 +6475,8 @@
   "kyosk digital services limited": [
     {
       "site": "JobGurus",
-      "id": "8d52c331bf7db1f201820e27a5a837fb",
-      "timestamp": 1751537854821
-    },
-    {
-      "site": "JobGurus",
-      "id": "ef84a0d3ecf86c9058eaa2a44202a3a4",
-      "timestamp": 1751542679318
+      "id": "7a586d656ff62eff14fbc7484c7c12a9",
+      "timestamp": 1758615591463
     }
   ],
   "naija global logistics limited": [
@@ -16053,6 +16043,13 @@
       "site": "JobGurus",
       "id": "04feeeb2591d2e0206c509173b33fe2c",
       "timestamp": 1758573491730
+    }
+  ],
+  "wells accounting and tax services": [
+    {
+      "site": "JobGurus",
+      "id": "35906b6e49d39fb9f7d55fb709c6b7b5",
+      "timestamp": 1758615591463
     }
   ]
 }
