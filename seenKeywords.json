@@ -731,6 +731,11 @@
       "site": "JobGurus",
       "id": "52a578293a06d4a9136a1f6d5b05a9bb",
       "timestamp": 1758548629351
+    },
+    {
+      "site": "JobGurus",
+      "id": "fa74f7ce766c4c8bed6828eb44cc53ad",
+      "timestamp": 1758620344691
     }
   ],
   "presto integrated solutions": [
@@ -3217,6 +3222,16 @@
       "site": "JobGurus",
       "id": "8d6d1c21ddf6de237ac6db0dfcbeac0f",
       "timestamp": 1758550563450
+    },
+    {
+      "site": "JobGurus",
+      "id": "aaca854d29b490afbfedff9f83d7776d",
+      "timestamp": 1758620344691
+    },
+    {
+      "site": "JobGurus",
+      "id": "c01dda586f478575f1741582dfd8f02c",
+      "timestamp": 1758620344691
     }
   ],
   "demyhealth clinic and genomic medicine": [
@@ -16095,6 +16110,20 @@
       "site": "JobGurus",
       "id": "31df8931631fd4dbf5345d6c21662c1d",
       "timestamp": 1758618997773
+    }
+  ],
+  "nielseniq": [
+    {
+      "site": "JobGurus",
+      "id": "7ea47f7f829085ef6068c9c764c041b9",
+      "timestamp": 1758620344691
+    }
+  ],
+  "sagad farms": [
+    {
+      "site": "JobGurus",
+      "id": "6cd306eeeb60cb7923d6d78bb848e93f",
+      "timestamp": 1758620344691
     }
   ]
 }
