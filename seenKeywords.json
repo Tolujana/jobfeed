@@ -7236,6 +7236,11 @@
       "site": "JobGurus",
       "id": "5113ed6e28605bda6f8d3dc701b44e1b",
       "timestamp": 1758568299536
+    },
+    {
+      "site": "JobGurus",
+      "id": "cb197f47c9f73da03af409533f2f7a9f",
+      "timestamp": 1758617049102
     }
   ],
   "quicky chillis": [
@@ -8286,8 +8291,8 @@
   "emmix global limited": [
     {
       "site": "JobGurus",
-      "id": "0c95a0aa0ec6590d7a0e60b131a29ab7",
-      "timestamp": 1757766383200
+      "id": "234fdcbee6e003988ab29da797355483",
+      "timestamp": 1758617049102
     }
   ],
   "amo farm sieberer hatchery limited": [
@@ -16050,6 +16055,13 @@
       "site": "JobGurus",
       "id": "35906b6e49d39fb9f7d55fb709c6b7b5",
       "timestamp": 1758615591463
+    }
+  ],
+  "captain residency hotel": [
+    {
+      "site": "JobGurus",
+      "id": "6783c23215af24cad3bbf185e30bfd20",
+      "timestamp": 1758617049102
     }
   ]
 }
