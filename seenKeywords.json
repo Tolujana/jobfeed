@@ -1209,8 +1209,8 @@
   "g-shoppers": [
     {
       "site": "JobGurus",
-      "id": "1474ba62f438131f7e20a3f9c3047625",
-      "timestamp": 1754563684273
+      "id": "7b138780d682a3b125194f55e0a74d4a",
+      "timestamp": 1758644323506
     }
   ],
   "c recruite": [
@@ -4130,8 +4130,8 @@
   "ld&d consulting": [
     {
       "site": "JobGurus",
-      "id": "b4a96b7a23fe1c73b616588d594ff0f9",
-      "timestamp": 1756752290552
+      "id": "380e0950636172c0e67d186721d91c16",
+      "timestamp": 1758644323506
     }
   ],
   "roqqu nigeria limited": [
@@ -7479,8 +7479,8 @@
   "noemdek limited": [
     {
       "site": "JobGurus",
-      "id": "e686dfa8cc9d2cbea37908849a99cad3",
-      "timestamp": 1758022559835
+      "id": "af8aebd2465e6e0665db419d51d14882",
+      "timestamp": 1758644323506
     }
   ],
   "nordica fertility clinic": [
@@ -8338,8 +8338,8 @@
   "coinbox limited": [
     {
       "site": "JobGurus",
-      "id": "ec082f4aa70acefd51250a891c6ce02e",
-      "timestamp": 1755709991533
+      "id": "9f2c31937a1bba83cc8404849707228b",
+      "timestamp": 1758644323506
     }
   ],
   "infratel africa": [
@@ -16169,6 +16169,13 @@
       "site": "JobGurus",
       "id": "b2c73637d7ce79ed30e62482790a9534",
       "timestamp": 1758641966901
+    }
+  ],
+  "credsol": [
+    {
+      "site": "JobGurus",
+      "id": "86a907892f8a97e3cc27ca2596b2013d",
+      "timestamp": 1758644323506
     }
   ]
 }
