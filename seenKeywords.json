@@ -4877,13 +4877,8 @@
   "united nigeria airlines": [
     {
       "site": "JobGurus",
-      "id": "30338deeecaba1ff6215b8eee9a807dd",
-      "timestamp": 1752160657439
-    },
-    {
-      "site": "JobGurus",
-      "id": "7b8d23e11bdaca8f2623e844509c7159",
-      "timestamp": 1752230732504
+      "id": "01e0598b85006c17f45eeb5f9e221b04",
+      "timestamp": 1758622537733
     }
   ],
   "greystone consulting limited": [
@@ -9298,8 +9293,8 @@
   "martens global synergy limited": [
     {
       "site": "JobGurus",
-      "id": "e5680c2f3bab8ce1a4886e1cc06f561c",
-      "timestamp": 1753179502871
+      "id": "8ff0980c8375791d68905c1f05c5fc6e",
+      "timestamp": 1758622537733
     }
   ],
   "emr mining limited": [
@@ -16124,6 +16119,20 @@
       "site": "JobGurus",
       "id": "6cd306eeeb60cb7923d6d78bb848e93f",
       "timestamp": 1758620344691
+    }
+  ],
+  "comfeve global services limited": [
+    {
+      "site": "JobGurus",
+      "id": "4b560b6e88e2d0373a2a5be961458bd2",
+      "timestamp": 1758622537733
+    }
+  ],
+  "vitafoam nigeria plc": [
+    {
+      "site": "JobGurus",
+      "id": "a84fcdfafbcacb10cb386cf97a230b70",
+      "timestamp": 1758622537733
     }
   ]
 }
