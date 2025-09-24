@@ -978,8 +978,8 @@
   "west africa vocational education (wave)": [
     {
       "site": "JobGurus",
-      "id": "8bed56eb67ab7d69b9bb47aec7429811",
-      "timestamp": 1751388551792
+      "id": "4d3919b7e531384bc8e9b7966479c100",
+      "timestamp": 1758739471022
     }
   ],
   "skylight professional services and partners": [
@@ -6373,18 +6373,13 @@
   "fastest cakes limited": [
     {
       "site": "JobGurus",
-      "id": "de1d753e82df73fef536555088250f4a",
-      "timestamp": 1757357129601
+      "id": "a971adad5b92922121a31dc7cd6bf963",
+      "timestamp": 1758739471022
     },
     {
       "site": "JobGurus",
-      "id": "e0711fc4b2139e0c670ffe07b19f1e3f",
-      "timestamp": 1757360136885
-    },
-    {
-      "site": "JobGurus",
-      "id": "3886d1278cdf9593c9c6623345b66394",
-      "timestamp": 1757360136885
+      "id": "b06e60ea57ce4f07acfba260e10fc0af",
+      "timestamp": 1758739471022
     }
   ],
   "gn128 gn128 solutions": [
@@ -10889,6 +10884,11 @@
       "site": "JobGurus",
       "id": "f1f42161c21f1f5e9182d6dda85264e6",
       "timestamp": 1758289347929
+    },
+    {
+      "site": "JobGurus",
+      "id": "549636e8ac13fb75d89e139edf3ecde9",
+      "timestamp": 1758739471022
     }
   ],
   "project masters nigeria limited": [
@@ -16276,6 +16276,13 @@
       "site": "JobGurus",
       "id": "61a67656322bb832e5465e181c7acb20",
       "timestamp": 1758738021629
+    }
+  ],
+  "givanas cosmetics nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "945b11c666047e366d9ebf3320b45496",
+      "timestamp": 1758739471022
     }
   ]
 }
