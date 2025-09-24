@@ -8018,13 +8018,8 @@
   "kaplo africa": [
     {
       "site": "JobGurus",
-      "id": "12741077514e45b8e6a6369305580892",
-      "timestamp": 1753714078026
-    },
-    {
-      "site": "JobGurus",
-      "id": "ad37a5fb124ab63e1b9038965ea96da3",
-      "timestamp": 1754048359794
+      "id": "71bf034b3a7b595c4601885cda4cb626",
+      "timestamp": 1758710497871
     }
   ],
   "chemo-pharma laboratories limited": [
@@ -9305,6 +9300,11 @@
       "site": "JobGurus",
       "id": "74c06c22ea72ba991c9894ddcbddadcb",
       "timestamp": 1758708949892
+    },
+    {
+      "site": "JobGurus",
+      "id": "92c6bfed46ef9175ea78347ba0f80679",
+      "timestamp": 1758710497871
     }
   ],
   "emr mining limited": [
@@ -12492,8 +12492,8 @@
   "new age mobile concepts limited": [
     {
       "site": "JobGurus",
-      "id": "ba50354168760b1f01046217dbf7e62f",
-      "timestamp": 1755643198658
+      "id": "7c3564fcf25c194ce3e9891f6ddc9ed1",
+      "timestamp": 1758710497871
     }
   ],
   "deen consult": [
@@ -16228,6 +16228,13 @@
       "site": "JobGurus",
       "id": "a1d400eb4db430f756fd849f185473f6",
       "timestamp": 1758708949892
+    }
+  ],
+  "recuitera workforce solutions": [
+    {
+      "site": "JobGurus",
+      "id": "837ec848f2f7076a9eb59b68de6a2514",
+      "timestamp": 1758710497871
     }
   ]
 }
