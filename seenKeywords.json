@@ -375,8 +375,8 @@
   "mshel homes limited": [
     {
       "site": "JobGurus",
-      "id": "e0bedd72dfbd6f31414845a52b14d44b",
-      "timestamp": 1757701078450
+      "id": "fa00fbe10b505dfeffb32e4c293f2d3c",
+      "timestamp": 1758724799402
     }
   ],
   "dana group": [
@@ -5846,8 +5846,8 @@
   "rosabon financial services": [
     {
       "site": "JobGurus",
-      "id": "ce3335d2825ff96665cedadb22761072",
-      "timestamp": 1756402683997
+      "id": "57b2cb33d4a0cd867ad6032a414a9aa6",
+      "timestamp": 1758724799402
     }
   ],
   "mfs financial services limited": [
@@ -16225,6 +16225,13 @@
       "site": "JobGurus",
       "id": "837ec848f2f7076a9eb59b68de6a2514",
       "timestamp": 1758710497871
+    }
+  ],
+  "dr. seyi absolute wellness": [
+    {
+      "site": "JobGurus",
+      "id": "f5c7a99ef19119888f1feae9986305d2",
+      "timestamp": 1758724799402
     }
   ]
 }
