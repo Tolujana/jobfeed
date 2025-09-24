@@ -802,6 +802,11 @@
       "site": "JobGurus",
       "id": "415d4873bf429ee03f8dde3d277f5205",
       "timestamp": 1758133271610
+    },
+    {
+      "site": "JobGurus",
+      "id": "326db280881052aa8394707c58bcc31c",
+      "timestamp": 1758730780224
     }
   ],
   "mkh properties limited": [
@@ -2505,8 +2510,8 @@
   "dreamcity property & investment limited": [
     {
       "site": "JobGurus",
-      "id": "0667489068e1b6ff1db8294ffd3108ba",
-      "timestamp": 1757410781164
+      "id": "1680d1fad45d2a6893508a9917bc73bc",
+      "timestamp": 1758730780224
     }
   ],
   "sifax group": [
@@ -4269,13 +4274,8 @@
   "carbon nigeria": [
     {
       "site": "JobGurus",
-      "id": "9c3d2375c676f4376e5165c114645bd3",
-      "timestamp": 1756928147106
-    },
-    {
-      "site": "JobGurus",
-      "id": "b112bfc5e1d9ca9e7fc5dad45f79a899",
-      "timestamp": 1756928147106
+      "id": "45cf610bd85343a598757bf0feee887e",
+      "timestamp": 1758730780224
     }
   ],
   "the label store": [
@@ -12464,6 +12464,11 @@
       "site": "JobGurus",
       "id": "7c3564fcf25c194ce3e9891f6ddc9ed1",
       "timestamp": 1758710497871
+    },
+    {
+      "site": "JobGurus",
+      "id": "e2d90fa20ac903d89011cf34fb9ba380",
+      "timestamp": 1758730780224
     }
   ],
   "deen consult": [
@@ -16233,6 +16238,13 @@
       "site": "JobGurus",
       "id": "4049586c9fb7f38232eafb03b2539bb5",
       "timestamp": 1758728381510
+    }
+  ],
+  "shelt": [
+    {
+      "site": "JobGurus",
+      "id": "a8e1f88bd70ab8913ffbba5631e45061",
+      "timestamp": 1758730780224
     }
   ]
 }
