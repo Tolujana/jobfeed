@@ -8340,6 +8340,11 @@
       "site": "JobGurus",
       "id": "9f2c31937a1bba83cc8404849707228b",
       "timestamp": 1758644323506
+    },
+    {
+      "site": "JobGurus",
+      "id": "735fa35a78f6ffc159c152a4c062455f",
+      "timestamp": 1758809711072
     }
   ],
   "infratel africa": [
@@ -16375,6 +16380,13 @@
       "site": "JobGurus",
       "id": "7aa87a273f26f7e5f1bfd1392a5ea424",
       "timestamp": 1758807875588
+    }
+  ],
+  "il bagno nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "cbbceceba92d5765ee56c2bab3e93a58",
+      "timestamp": 1758809711072
     }
   ]
 }
