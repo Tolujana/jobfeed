@@ -1469,8 +1469,8 @@
   "fairmoney": [
     {
       "site": "JobGurus",
-      "id": "aca30685c0820fe52a93448b64e34689",
-      "timestamp": 1754650057473
+      "id": "8eda376eba33c44cad40d55a42abca5b",
+      "timestamp": 1758795375962
     }
   ],
   "starich recycling technology limited": [
@@ -2327,13 +2327,8 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "d01a6affe01f877085275ea9647b10ee",
-      "timestamp": 1757163363399
-    },
-    {
-      "site": "JobGurus",
-      "id": "312f7f63a019dca8a2797b6f182202ef",
-      "timestamp": 1757165707523
+      "id": "2cc981b03990e78239ef05d9442c05ce",
+      "timestamp": 1758795375962
     }
   ],
   "flees global services": [
@@ -16297,6 +16292,27 @@
       "site": "JobGurus",
       "id": "d6105d5051a2c3f1e4d8cc9c19f81a9d",
       "timestamp": 1758741157853
+    }
+  ],
+  "bell oil and gas limited": [
+    {
+      "site": "JobGurus",
+      "id": "0d63cba800c3d9f24a9a9330c78cde32",
+      "timestamp": 1758795375962
+    }
+  ],
+  "giftitng": [
+    {
+      "site": "JobGurus",
+      "id": "d15444cc0db1ecdc76871db86cc100ca",
+      "timestamp": 1758795375962
+    }
+  ],
+  "tearfund nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "e009a3c5492986ba2b0db1ad120f024c",
+      "timestamp": 1758795375962
     }
   ]
 }
