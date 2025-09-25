@@ -1717,13 +1717,8 @@
   "seven-up bottling company limited": [
     {
       "site": "JobGurus",
-      "id": "4e2dd8a1ce725b2f199134deb96105a6",
-      "timestamp": 1753435214755
-    },
-    {
-      "site": "JobGurus",
-      "id": "82ed98807dcc7da5a00b4fed65764b0d",
-      "timestamp": 1753435214755
+      "id": "468461eb7d2d8fb8b29c7f98d0526a74",
+      "timestamp": 1758826025824
     }
   ],
   "lemfi (yc s21)": [
@@ -4252,8 +4247,8 @@
   "it horizons limited": [
     {
       "site": "JobGurus",
-      "id": "529f7b5f8d5894b66aca04fcf0640eb7",
-      "timestamp": 1754923619602
+      "id": "8c3d5406148350334c3004ea155d6cbc",
+      "timestamp": 1758826025824
     }
   ],
   "carbon nigeria": [
@@ -12086,8 +12081,8 @@
   "light heights global services limited": [
     {
       "site": "JobGurus",
-      "id": "0ab1606816c2f021b1d45e153fbdb89b",
-      "timestamp": 1755264453306
+      "id": "bcbd7de8dee2b04dc31f377f71792817",
+      "timestamp": 1758826025824
     }
   ],
   "nuggets microfinance bank": [
@@ -16407,6 +16402,11 @@
       "site": "JobGurus",
       "id": "946c79c2fcc183eadfd1c9faa05c3eb1",
       "timestamp": 1758824527481
+    },
+    {
+      "site": "JobGurus",
+      "id": "5ec7a274db3e5e811e5201ceb339be98",
+      "timestamp": 1758826025824
     }
   ]
 }
