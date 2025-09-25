@@ -14543,8 +14543,8 @@
   "resq-x limited": [
     {
       "site": "JobGurus",
-      "id": "36d131292f7d77b43571fdfe812ab92d",
-      "timestamp": 1757351593430
+      "id": "7b3beae02c1c84f8f6042cdfbeefe5eb",
+      "timestamp": 1758796886767
     }
   ],
   "a4s": [
@@ -16313,6 +16313,20 @@
       "site": "JobGurus",
       "id": "e009a3c5492986ba2b0db1ad120f024c",
       "timestamp": 1758795375962
+    }
+  ],
+  "federal university of applied sciences": [
+    {
+      "site": "JobGurus",
+      "id": "eb0e726b511aa202f91a55739dbae12c",
+      "timestamp": 1758796886767
+    }
+  ],
+  "business day media limited": [
+    {
+      "site": "JobGurus",
+      "id": "80671b144c41c6038147bf216bbc1f34",
+      "timestamp": 1758796886767
     }
   ]
 }
