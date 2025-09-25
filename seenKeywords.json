@@ -8203,8 +8203,8 @@
   "plugzone online": [
     {
       "site": "JobGurus",
-      "id": "aac8ddbf8ffdd1d2916848c174505e1d",
-      "timestamp": 1752572943906
+      "id": "3268ffb4c4588b3edee2c363e3a37632",
+      "timestamp": 1758824527481
     }
   ],
   "penafort energy limited": [
@@ -12067,8 +12067,13 @@
   "bosak microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "9578893c2ae10ad03cd8f2414be7aed9",
-      "timestamp": 1756847562507
+      "id": "b371e16ed739123ddf9ecdbd866257f8",
+      "timestamp": 1758824527481
+    },
+    {
+      "site": "JobGurus",
+      "id": "4cfca4b0af41483a9acafc9ca6dadeed",
+      "timestamp": 1758824527481
     }
   ],
   "first ally capital": [
@@ -16388,6 +16393,20 @@
       "site": "JobGurus",
       "id": "0a651dececf49e53b4a1e65b09f1a3a9",
       "timestamp": 1758817118944
+    }
+  ],
+  "nordica fertility centre": [
+    {
+      "site": "JobGurus",
+      "id": "7c1269d1f98d432e4bdd87019d248db5",
+      "timestamp": 1758824527481
+    }
+  ],
+  "ceoafrica": [
+    {
+      "site": "JobGurus",
+      "id": "946c79c2fcc183eadfd1c9faa05c3eb1",
+      "timestamp": 1758824527481
     }
   ]
 }
