@@ -7351,8 +7351,8 @@
   "westfield consulting": [
     {
       "site": "JobGurus",
-      "id": "f4124bd97633b2e9b0613c924453e418",
-      "timestamp": 1753870720110
+      "id": "2409f5850dec1e2e17a433d340aaadb2",
+      "timestamp": 1758817118944
     }
   ],
   "sumal foods limited": [
@@ -16374,6 +16374,20 @@
       "site": "JobGurus",
       "id": "6b48cc800e82275166b31f0a321047a6",
       "timestamp": 1758813362498
+    }
+  ],
+  "adins academy": [
+    {
+      "site": "JobGurus",
+      "id": "eec9293faae229830fe23e07d015cee0",
+      "timestamp": 1758817118944
+    }
+  ],
+  "mai shayi coffe roasters": [
+    {
+      "site": "JobGurus",
+      "id": "0a651dececf49e53b4a1e65b09f1a3a9",
+      "timestamp": 1758817118944
     }
   ]
 }
