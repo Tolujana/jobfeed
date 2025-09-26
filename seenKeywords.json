@@ -522,6 +522,11 @@
       "site": "JobGurus",
       "id": "7095d09049b801c1012fb7f77487fc50",
       "timestamp": 1758565259920
+    },
+    {
+      "site": "JobGurus",
+      "id": "1f8992ca25f91bfa420076c41a354689",
+      "timestamp": 1758893051740
     }
   ],
   "abbfem group": [
@@ -5036,8 +5041,8 @@
   "koins microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "511e4219517c9eba71dbbf1016a55ebb",
-      "timestamp": 1756150573523
+      "id": "c60967784fc8952cc8be6b119fc13475",
+      "timestamp": 1758893051740
     }
   ],
   "lifted horizon nigeria limited": [
@@ -14302,8 +14307,8 @@
   "kredi bank": [
     {
       "site": "JobGurus",
-      "id": "f28975ba9995ca1522ff725ec31c0fdd",
-      "timestamp": 1757075382660
+      "id": "74c04b11e4a6e3fa2a9e83c4e65d0bbe",
+      "timestamp": 1758893051740
     }
   ],
   "inspiration life community church": [
@@ -14651,8 +14656,8 @@
   "eco fleet services": [
     {
       "site": "JobGurus",
-      "id": "cad282e6b9f1d0528e1fd9cfd7f86bad",
-      "timestamp": 1757416393918
+      "id": "f5ab78843bf9d87c58923cdf36499c2f",
+      "timestamp": 1758893051740
     }
   ],
   "ayekooto": [
@@ -16438,6 +16443,13 @@
       "site": "JobGurus",
       "id": "2d15a9fe7dbc7b5f43b2fd69dd825056",
       "timestamp": 1758889877000
+    }
+  ],
+  "olam sanyo foods limited": [
+    {
+      "site": "JobGurus",
+      "id": "7610a33262594f3526679e34694549b8",
+      "timestamp": 1758893051740
     }
   ]
 }
