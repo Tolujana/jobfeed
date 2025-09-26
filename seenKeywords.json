@@ -13735,8 +13735,8 @@
   "i-chr limited": [
     {
       "site": "JobGurus",
-      "id": "480ccfe17bd71463bed6b5fc68ecb6da",
-      "timestamp": 1756759043326
+      "id": "245d6a7bdca434da2a2e61d4b2ba35bb",
+      "timestamp": 1758895991906
     }
   ],
   "kassie classic": [
@@ -16166,6 +16166,11 @@
       "site": "JobGurus",
       "id": "092bd235b52fccc12bb12fb33037cb4b",
       "timestamp": 1758706764185
+    },
+    {
+      "site": "JobGurus",
+      "id": "5b0cb734001c0947e06f809881f31a4b",
+      "timestamp": 1758895991906
     }
   ],
   "rifugio communications limited": [
@@ -16467,6 +16472,18 @@
       "site": "JobGurus",
       "id": "76dcc43ed9ebe3c9551e78b78d09f7ea",
       "timestamp": 1758894134658
+    }
+  ],
+  "jeroid limited": [
+    {
+      "site": "JobGurus",
+      "id": "c9019ec52c41533403f70f30deabac6a",
+      "timestamp": 1758895991906
+    },
+    {
+      "site": "JobGurus",
+      "id": "7e80490c1d9de17b018118c45e87b826",
+      "timestamp": 1758895991906
     }
   ]
 }
