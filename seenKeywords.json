@@ -1516,8 +1516,8 @@
   "dmot enterprises": [
     {
       "site": "JobGurus",
-      "id": "426cc19f3ad50d0a515fd5653701040d",
-      "timestamp": 1757529935482
+      "id": "c2f25821eb9a32f5f594edfd13d04f83",
+      "timestamp": 1758883246283
     }
   ],
   "reliance health": [
@@ -3356,13 +3356,8 @@
   "abnl limited": [
     {
       "site": "JobGurus",
-      "id": "54df53f7a7602cd2b8d7c826065aec48",
-      "timestamp": 1756402683997
-    },
-    {
-      "site": "JobGurus",
-      "id": "91488d02f803cb24c41da044ec2c30a3",
-      "timestamp": 1756826159574
+      "id": "5b64b49a017b6ab56f23a9779a35d527",
+      "timestamp": 1758883246283
     }
   ],
   "daily need distributors limited": [
@@ -12810,8 +12805,8 @@
   "codelabprojects nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "5f143587b2b81a61420ad01e5fe07d2e",
-      "timestamp": 1755803520438
+      "id": "d8ebcf74420c84814a54f983878e7f86",
+      "timestamp": 1758883246283
     }
   ],
   "castel resources consultancy limited": [
@@ -16440,6 +16435,18 @@
       "site": "JobGurus",
       "id": "b8b94f0e0289a3504eae808ea2a93a0a",
       "timestamp": 1758881728097
+    }
+  ],
+  "obor logistics nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "c3a5b3328672ce2443a391c3e4890288",
+      "timestamp": 1758883246283
+    },
+    {
+      "site": "JobGurus",
+      "id": "99d33cf8a3edf026900f23564b709443",
+      "timestamp": 1758883246283
     }
   ]
 }
