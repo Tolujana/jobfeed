@@ -3881,8 +3881,8 @@
   "odixcity consulting": [
     {
       "site": "JobGurus",
-      "id": "a78c21345be6a5bdfdc4d871442185d8",
-      "timestamp": 1758014189594
+      "id": "3c118480db65830f2b2c1f4bb67aeea5",
+      "timestamp": 1758894134658
     }
   ],
   "changeroom": [
@@ -6197,8 +6197,8 @@
   "apex network": [
     {
       "site": "JobGurus",
-      "id": "5ead65872feca16803450cbbbc12c3e1",
-      "timestamp": 1755807390099
+      "id": "d03e671f4afcd24c0da1f80a2cdb3c3e",
+      "timestamp": 1758894134658
     }
   ],
   "redswitch collections": [
@@ -16346,6 +16346,11 @@
       "site": "JobGurus",
       "id": "eec9293faae229830fe23e07d015cee0",
       "timestamp": 1758817118944
+    },
+    {
+      "site": "JobGurus",
+      "id": "e5986f2ce26440e709669f14bfe387ea",
+      "timestamp": 1758894134658
     }
   ],
   "mai shayi coffe roasters": [
@@ -16410,6 +16415,11 @@
       "site": "JobGurus",
       "id": "b8b94f0e0289a3504eae808ea2a93a0a",
       "timestamp": 1758881728097
+    },
+    {
+      "site": "JobGurus",
+      "id": "1faee9a25e0eb047d8f120ba68896a2f",
+      "timestamp": 1758894134658
     }
   ],
   "obor logistics nigeria limited": [
@@ -16450,6 +16460,13 @@
       "site": "JobGurus",
       "id": "7610a33262594f3526679e34694549b8",
       "timestamp": 1758893051740
+    }
+  ],
+  "weston-charis microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "76dcc43ed9ebe3c9551e78b78d09f7ea",
+      "timestamp": 1758894134658
     }
   ]
 }
