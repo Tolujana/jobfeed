@@ -8772,8 +8772,8 @@
   "so fresh": [
     {
       "site": "JobGurus",
-      "id": "e46d62e21d18ca51993bbf8ab98a5e5d",
-      "timestamp": 1752838761934
+      "id": "5b53f10fa6857f5583a5ced1c263d320",
+      "timestamp": 1758903528652
     }
   ],
   "resource intermediaries": [
@@ -16493,6 +16493,13 @@
       "site": "JobGurus",
       "id": "b107229cb1277b8540087c2848a4c7c7",
       "timestamp": 1758901073302
+    }
+  ],
+  "kimberlys group": [
+    {
+      "site": "JobGurus",
+      "id": "9584907417f5a465b33bc72453774004",
+      "timestamp": 1758903528652
     }
   ]
 }
