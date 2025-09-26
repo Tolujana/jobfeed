@@ -1731,13 +1731,8 @@
   "efezi southsea nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "d730786312bdff73084fe595f9bb5af2",
-      "timestamp": 1753452925150
-    },
-    {
-      "site": "JobGurus",
-      "id": "010dccd18566adce6af3f6d521f3879c",
-      "timestamp": 1753458204066
+      "id": "2b4df9c1b331d9ccaf48d84f1a65f82a",
+      "timestamp": 1758885146912
     }
   ],
   "styaks legal": [
@@ -6244,13 +6239,8 @@
   "ama zuma group": [
     {
       "site": "JobGurus",
-      "id": "e5ae998898ce14960de2106bf045024e",
-      "timestamp": 1752684669177
-    },
-    {
-      "site": "JobGurus",
-      "id": "89a72543ab25af6e0a275c7d45cf44bf",
-      "timestamp": 1752684669177
+      "id": "63e39010d58ea80315ecad1930a52687",
+      "timestamp": 1758885146912
     }
   ],
   "médecins sans frontières": [
@@ -6707,13 +6697,8 @@
   "etc workforce services limited": [
     {
       "site": "JobGurus",
-      "id": "dffdaa79e3ed1bbfa2983660d0c9f8bf",
-      "timestamp": 1752767043107
-    },
-    {
-      "site": "JobGurus",
-      "id": "e51df77cdc307b645dde1069d52bcbe5",
-      "timestamp": 1752769243664
+      "id": "15ce1d595d27265eab40f7153ea91c5e",
+      "timestamp": 1758885146912
     }
   ],
   "jibs-ray nigeria limited": [
@@ -16447,6 +16432,13 @@
       "site": "JobGurus",
       "id": "99d33cf8a3edf026900f23564b709443",
       "timestamp": 1758883246283
+    }
+  ],
+  "garland empowerment and self reliance initiative": [
+    {
+      "site": "JobGurus",
+      "id": "79409b8e9d98e5425fda92168ccc94d1",
+      "timestamp": 1758885146912
     }
   ]
 }
