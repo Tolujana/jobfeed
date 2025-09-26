@@ -1394,8 +1394,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "a813d1497e7d3953de35550648253feb",
-      "timestamp": 1757093818380
+      "id": "4fb3738e245a69440000e3035ee05299",
+      "timestamp": 1758906771595
     }
   ],
   "jtech global resources limited": [
@@ -10985,8 +10985,8 @@
   "qupee consult": [
     {
       "site": "JobGurus",
-      "id": "1482c424f7b1e3f5fa422d123518a9be",
-      "timestamp": 1755889935028
+      "id": "de06b753fefef41b24a92acefb1e899a",
+      "timestamp": 1758906771595
     }
   ],
   "amitouch global concepts limited": [
@@ -16500,6 +16500,13 @@
       "site": "JobGurus",
       "id": "9584907417f5a465b33bc72453774004",
       "timestamp": 1758903528652
+    }
+  ],
+  "sudo africa": [
+    {
+      "site": "JobGurus",
+      "id": "bf46f223f54f5f1f4b76b38bd83be0a3",
+      "timestamp": 1758906771595
     }
   ]
 }
