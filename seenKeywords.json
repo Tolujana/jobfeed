@@ -10395,8 +10395,8 @@
   "xiaomi technology": [
     {
       "site": "JobGurus",
-      "id": "a5b3d22b4b96173665491b5a425841aa",
-      "timestamp": 1753888687014
+      "id": "a42aa1207a3e83f6f6fee7beabff027a",
+      "timestamp": 1758977846517
     }
   ],
   "survival agricultural hub limited": [
@@ -11519,6 +11519,11 @@
       "site": "JobGurus",
       "id": "57a9b603a1e9b177bede8900ccb05fb9",
       "timestamp": 1758976023606
+    },
+    {
+      "site": "JobGurus",
+      "id": "3085f4403c50cb0e366fd5328e87d5a2",
+      "timestamp": 1758977846517
     }
   ],
   "atol consulting": [
@@ -12261,6 +12266,16 @@
       "site": "JobGurus",
       "id": "12fbbbb9a3a4086b36ade3fbdc43a800",
       "timestamp": 1758976023606
+    },
+    {
+      "site": "JobGurus",
+      "id": "c58ee0a468c34d3dbf9a290d3c9349ca",
+      "timestamp": 1758977846517
+    },
+    {
+      "site": "JobGurus",
+      "id": "8ba13d1330f48d8abe35745ceda48c49",
+      "timestamp": 1758977846517
     }
   ],
   "ramos realty": [
@@ -16544,6 +16559,13 @@
       "site": "JobGurus",
       "id": "877fa5a9e34645858c44f0ab3f13c830",
       "timestamp": 1758976023606
+    }
+  ],
+  "samsung heavy industries nigeria (shin)": [
+    {
+      "site": "JobGurus",
+      "id": "d5406938d4c33e882ab661ef51c97d4b",
+      "timestamp": 1758977846517
     }
   ]
 }
