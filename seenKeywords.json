@@ -6271,6 +6271,11 @@
       "site": "JobGurus",
       "id": "63e39010d58ea80315ecad1930a52687",
       "timestamp": 1758885146912
+    },
+    {
+      "site": "JobGurus",
+      "id": "b56c8f96f4cc6f6e31e41be157f20e5d",
+      "timestamp": 1759152364747
     }
   ],
   "médecins sans frontières": [
@@ -12407,6 +12412,11 @@
       "site": "JobGurus",
       "id": "47690a5f241411f0df58af9d00a99f03",
       "timestamp": 1758706764185
+    },
+    {
+      "site": "JobGurus",
+      "id": "fccf243600256c76c569c0ea72574bd6",
+      "timestamp": 1759152364747
     }
   ],
   "xuriel resources": [
@@ -16592,6 +16602,11 @@
       "site": "JobGurus",
       "id": "6454faf1fd85c44eb61d2e2f11a1fbea",
       "timestamp": 1758979270620
+    },
+    {
+      "site": "JobGurus",
+      "id": "d2679c1987f478c9a0cdee70eacecb1b",
+      "timestamp": 1759152364747
     }
   ],
   " hr hive": [
@@ -16620,6 +16635,20 @@
       "site": "JobGurus",
       "id": "f052d27a4c6857967feed8c9f13bf286",
       "timestamp": 1759149130910
+    }
+  ],
+  "value edge management services": [
+    {
+      "site": "JobGurus",
+      "id": "8a3acbea3be8df78948e87b7a5cdd41e",
+      "timestamp": 1759152364747
+    }
+  ],
+  "spectrum books limited": [
+    {
+      "site": "JobGurus",
+      "id": "a351b903a7d568cca2bed76f7ac16cd8",
+      "timestamp": 1759152364747
     }
   ]
 }
