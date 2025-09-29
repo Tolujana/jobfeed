@@ -10297,8 +10297,8 @@
   "gti microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "61e7af93862a8a802e6d4b75ad8637f2",
-      "timestamp": 1754646478970
+      "id": "194503e223bb027b7c63f67b5fabf507",
+      "timestamp": 1759149130910
     }
   ],
   "anabel apartment and suites": [
@@ -11691,8 +11691,8 @@
   "kennedia consulting": [
     {
       "site": "JobGurus",
-      "id": "5a362a8e111b7f55772838d9770d42e4",
-      "timestamp": 1756232455098
+      "id": "a6131902005a589b7e3bb4e6a05ca5e4",
+      "timestamp": 1759149130910
     }
   ],
   "turaco logistics": [
@@ -16606,6 +16606,20 @@
       "site": "JobGurus",
       "id": "cffb05baf4f1a02fcd546c21bf3c4217",
       "timestamp": 1758979270620
+    }
+  ],
+  "sfo consulting": [
+    {
+      "site": "JobGurus",
+      "id": "858674fab31a4c9032399098f4f71ede",
+      "timestamp": 1759149130910
+    }
+  ],
+  "hartleys supermarket and stores": [
+    {
+      "site": "JobGurus",
+      "id": "f052d27a4c6857967feed8c9f13bf286",
+      "timestamp": 1759149130910
     }
   ]
 }
