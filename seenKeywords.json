@@ -252,8 +252,8 @@
   "promasidor": [
     {
       "site": "JobGurus",
-      "id": "9994fcc0a751d7d160b7e8b13c23b0bf",
-      "timestamp": 1751902870611
+      "id": "a6d25beec591467abe0f3025b7b4b11e",
+      "timestamp": 1759176901958
     }
   ],
   "jc international": [
@@ -3321,8 +3321,8 @@
   "total quest limited": [
     {
       "site": "JobGurus",
-      "id": "b229bc3e7a04c405a200222610b7ed73",
-      "timestamp": 1754925480263
+      "id": "c77638c6b7dabf8ddb4d6c6f1e5c7dbf",
+      "timestamp": 1759176901958
     }
   ],
   "the greytar company": [
@@ -7125,13 +7125,8 @@
   "oracle": [
     {
       "site": "JobGurus",
-      "id": "75e099b88b25bbc9a4d39a7a3fe9c12d",
-      "timestamp": 1751989331934
-    },
-    {
-      "site": "JobGurus",
-      "id": "49412571b8f54d78ebcb510f78f3bba4",
-      "timestamp": 1751989331934
+      "id": "77dccc21488c75281b457b08c05d2c64",
+      "timestamp": 1759176901958
     }
   ],
   "bluechip technologies": [
@@ -16733,6 +16728,20 @@
       "site": "JobGurus",
       "id": "95f390a0f40a7eef1ac33f48e1f900c0",
       "timestamp": 1759166028085
+    }
+  ],
+  "ginsau nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "e7e9d3c81a8ca33ebcf15a9fa6df2882",
+      "timestamp": 1759176901958
+    }
+  ],
+  "royal resource management": [
+    {
+      "site": "JobGurus",
+      "id": "5f66739b5fc87dac020bf0dd443bb83a",
+      "timestamp": 1759176901958
     }
   ]
 }
