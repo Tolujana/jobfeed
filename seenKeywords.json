@@ -1151,8 +1151,8 @@
   "u connect human resources limited": [
     {
       "site": "JobGurus",
-      "id": "45f8248fbe8419df14706eda44f96966",
-      "timestamp": 1755111008492
+      "id": "0b5fb728843ae131581019fccf96f55c",
+      "timestamp": 1759163851427
     }
   ],
   "carogas energy": [
@@ -6044,8 +6044,8 @@
   "global hr always": [
     {
       "site": "JobGurus",
-      "id": "cbc947a55d3e43bb1880f7d8694ffefe",
-      "timestamp": 1757428844191
+      "id": "2bff24fcf79d913224614d916018d2f0",
+      "timestamp": 1759163851427
     }
   ],
   "eric kayser": [
@@ -10035,8 +10035,8 @@
   "tezza business solutions limited": [
     {
       "site": "JobGurus",
-      "id": "1f358d37f785ee069d36394c270aeb7d",
-      "timestamp": 1758019250125
+      "id": "0c7b0be769a155863d0fee8006b70ab3",
+      "timestamp": 1759163851427
     }
   ],
   "regent microfinance bank limited": [
@@ -12438,8 +12438,8 @@
   "zhuli recruiters": [
     {
       "site": "JobGurus",
-      "id": "212f726275899106f38f1abff0bf108e",
-      "timestamp": 1756917811932
+      "id": "24b1e46c24fce290720d95b9fc03f8a0",
+      "timestamp": 1759163851427
     }
   ],
   "the leprosy mission nigeria (tlmn)": [
@@ -16620,6 +16620,11 @@
       "site": "JobGurus",
       "id": "f052d27a4c6857967feed8c9f13bf286",
       "timestamp": 1759149130910
+    },
+    {
+      "site": "JobGurus",
+      "id": "cae84c2c32b0c8cf4b4271924b9504b0",
+      "timestamp": 1759163851427
     }
   ],
   "value edge management services": [
