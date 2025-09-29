@@ -9484,13 +9484,8 @@
   "pc place nigeria": [
     {
       "site": "JobGurus",
-      "id": "9465b8b8337e63828c56f713b17e6585",
-      "timestamp": 1756926715510
-    },
-    {
-      "site": "JobGurus",
-      "id": "60f100dbabe641096ee15c382772ab9e",
-      "timestamp": 1756928147106
+      "id": "3e14570eb682f0828ec5e5fa988be3ad",
+      "timestamp": 1759158949189
     }
   ],
   "source microfinance bank": [
@@ -13313,8 +13308,8 @@
   "naji realties": [
     {
       "site": "JobGurus",
-      "id": "a3471dfe1415a8dbba94f31319051245",
-      "timestamp": 1757956380255
+      "id": "03c86f33d1ceb213d1fde5ee112a2634",
+      "timestamp": 1759158949189
     }
   ],
   "emeraldzone business support services": [
@@ -14698,6 +14693,11 @@
       "site": "JobGurus",
       "id": "f5ab78843bf9d87c58923cdf36499c2f",
       "timestamp": 1758893051740
+    },
+    {
+      "site": "JobGurus",
+      "id": "ee2203d469bf21d7742490da3e991329",
+      "timestamp": 1759158949189
     }
   ],
   "ayekooto": [
@@ -16677,6 +16677,20 @@
       "site": "JobGurus",
       "id": "9376241c3a774843d7a5053d9bfe0a48",
       "timestamp": 1759156881919
+    }
+  ],
+  "scruples resource limited": [
+    {
+      "site": "JobGurus",
+      "id": "1c93ce254ff8369621c2192e619ddccc",
+      "timestamp": 1759158949189
+    }
+  ],
+  "wateraid": [
+    {
+      "site": "JobGurus",
+      "id": "8f4bc4672e172d2e7e84152f09db8fde",
+      "timestamp": 1759158949189
     }
   ]
 }
