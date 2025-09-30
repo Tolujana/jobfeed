@@ -590,8 +590,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "66ded95f6940a0cd85daf590ffee503a",
-      "timestamp": 1758640513759
+      "id": "8c9d83074d73d8611392998b61b8cddc",
+      "timestamp": 1759249148592
     }
   ],
   "divine infinity college": [
@@ -891,18 +891,18 @@
   "bolton white group": [
     {
       "site": "JobGurus",
-      "id": "764a3da556afb7fa4717f501b4e1e802",
-      "timestamp": 1756496146444
+      "id": "c967a7885606973e84495813317b4b8b",
+      "timestamp": 1759249148592
     },
     {
       "site": "JobGurus",
-      "id": "88acd9b544422f4bf77412a5de0434c3",
-      "timestamp": 1756496146444
+      "id": "d1877fe8847fdef6ba6a0a49f9c3b41e",
+      "timestamp": 1759249148592
     },
     {
       "site": "JobGurus",
-      "id": "260b783b5b49572be6366d2bcb1a18e1",
-      "timestamp": 1756496146444
+      "id": "f4ab719b3478affeb4832efd63c0ab77",
+      "timestamp": 1759249148592
     }
   ],
   "mephalti technologies limited": [
@@ -16854,6 +16854,13 @@
       "site": "JobGurus",
       "id": "efbb04d1c1d8f002d9ea58a7ee2d6f0c",
       "timestamp": 1759246659932
+    }
+  ],
+  " strivo labs": [
+    {
+      "site": "JobGurus",
+      "id": "6766b4326096afb66392dbe2ebbe08a5",
+      "timestamp": 1759249148592
     }
   ]
 }
