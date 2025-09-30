@@ -903,6 +903,11 @@
       "site": "JobGurus",
       "id": "f4ab719b3478affeb4832efd63c0ab77",
       "timestamp": 1759249148592
+    },
+    {
+      "site": "JobGurus",
+      "id": "d3657f43afaa156f4d3da5a61ced4817",
+      "timestamp": 1759253891210
     }
   ],
   "mephalti technologies limited": [
@@ -15349,8 +15354,13 @@
   "fortis engineering": [
     {
       "site": "JobGurus",
-      "id": "55df32ab1854843b3c8f45c35f047a9d",
-      "timestamp": 1758022559835
+      "id": "8fa747b264d0fd2c33ac3a2b562b9fd4",
+      "timestamp": 1759253891210
+    },
+    {
+      "site": "JobGurus",
+      "id": "01c04efc4aca649ddd8a628b75bcac61",
+      "timestamp": 1759253891210
     }
   ],
   "m-kopa nigeria": [
@@ -16896,6 +16906,20 @@
       "site": "JobGurus",
       "id": "d24667fee9078426ca745ade590e50a2",
       "timestamp": 1759252394474
+    }
+  ],
+  "oya abeo": [
+    {
+      "site": "JobGurus",
+      "id": "76240c5503f152e7e4d76d32c8f4dee1",
+      "timestamp": 1759253891210
+    }
+  ],
+  "imperial law office attorney": [
+    {
+      "site": "JobGurus",
+      "id": "a501d0dd13fbb568732b5c2d4b93b582",
+      "timestamp": 1759253891210
     }
   ]
 }
