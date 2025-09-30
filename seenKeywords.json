@@ -92,9 +92,9 @@
   ],
   "smartrecruitmentnow": [
     {
-      "site": "Example Site",
-      "id": "2fca53d2defb7c40efe0265ce5c37f25",
-      "timestamp": 1748870501361
+      "site": "JobGurus",
+      "id": "6abbefd3c1cd39823a651335380ec848",
+      "timestamp": 1759222004637
     }
   ],
   "f-pro computer college": [
@@ -2299,6 +2299,11 @@
       "site": "JobGurus",
       "id": "2cc981b03990e78239ef05d9442c05ce",
       "timestamp": 1758795375962
+    },
+    {
+      "site": "JobGurus",
+      "id": "1677fcda48ca654bc4358b17da913aa9",
+      "timestamp": 1759222004637
     }
   ],
   "flees global services": [
@@ -16789,6 +16794,20 @@
       "site": "JobGurus",
       "id": "860544dc854ce73970f0ddf6e7ba6c1d",
       "timestamp": 1759180359778
+    }
+  ],
+  "sooyah bistro limited": [
+    {
+      "site": "JobGurus",
+      "id": "6354df1dc606528d6a62f0deb4a1d1b8",
+      "timestamp": 1759222004637
+    }
+  ],
+  "beaumont woods and furnitures": [
+    {
+      "site": "JobGurus",
+      "id": "19a2d412958ed279f391668b25a1bb1b",
+      "timestamp": 1759222004637
     }
   ]
 }
