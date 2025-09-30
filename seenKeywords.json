@@ -2025,8 +2025,8 @@
   "sterling health hmo": [
     {
       "site": "JobGurus",
-      "id": "51bafc3eefe289ae17ca4e3cfb0aea6b",
-      "timestamp": 1749555430005
+      "id": "f9915f9fca58d7e5ed75aee3036e8bec",
+      "timestamp": 1759252394474
     }
   ],
   "candel fze": [
@@ -3335,8 +3335,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "6964b58332fb08287221b064d3b20182",
-      "timestamp": 1757942652658
+      "id": "4582f6f7b38ce2db469f3e9e89382fe4",
+      "timestamp": 1759252394474
     }
   ],
   "smartcity plc": [
@@ -16875,6 +16875,27 @@
       "site": "JobGurus",
       "id": "583b65c3ced36d445c78767c7f9d5e20",
       "timestamp": 1759250645066
+    }
+  ],
+  "ojatee consulting": [
+    {
+      "site": "JobGurus",
+      "id": "bcb49d0e9a0aad936d3c198f289638d3",
+      "timestamp": 1759252394474
+    }
+  ],
+  "internopay": [
+    {
+      "site": "JobGurus",
+      "id": "968d6d2bed0cd05d74fb8811bf3cc5b3",
+      "timestamp": 1759252394474
+    }
+  ],
+  "afritropic farming and agro service limited": [
+    {
+      "site": "JobGurus",
+      "id": "d24667fee9078426ca745ade590e50a2",
+      "timestamp": 1759252394474
     }
   ]
 }
