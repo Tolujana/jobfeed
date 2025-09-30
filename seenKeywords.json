@@ -9151,13 +9151,8 @@
   "logisoft solutions": [
     {
       "site": "JobGurus",
-      "id": "10bc35c84fcad40c93dce51b6b9629c1",
-      "timestamp": 1753174283073
-    },
-    {
-      "site": "JobGurus",
-      "id": "57b2cf9f86107b242258e0e7991c0790",
-      "timestamp": 1753174283073
+      "id": "d3c1beac359a7f067904f49c148b4fa4",
+      "timestamp": 1759250645066
     }
   ],
   "tamak logistics": [
@@ -16861,6 +16856,25 @@
       "site": "JobGurus",
       "id": "6766b4326096afb66392dbe2ebbe08a5",
       "timestamp": 1759249148592
+    }
+  ],
+  "ab microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "72949f84a2c6abf83f339e015eb0c501",
+      "timestamp": 1759250645066
+    }
+  ],
+  "benin asaba expressway": [
+    {
+      "site": "JobGurus",
+      "id": "4dfeb06031da930fa75cb9a20ba90e99",
+      "timestamp": 1759250645066
+    },
+    {
+      "site": "JobGurus",
+      "id": "583b65c3ced36d445c78767c7f9d5e20",
+      "timestamp": 1759250645066
     }
   ]
 }
