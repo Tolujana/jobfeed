@@ -6363,6 +6363,11 @@
       "site": "JobGurus",
       "id": "9f8a77ff876084dc610fc533cbf8f23a",
       "timestamp": 1759235544364
+    },
+    {
+      "site": "JobGurus",
+      "id": "8ec6f2a0f69b81d88dabd88a62f83ec5",
+      "timestamp": 1759238773869
     }
   ],
   "oppo": [
@@ -16814,6 +16819,13 @@
       "site": "JobGurus",
       "id": "61f6fb95734bab5b4b895aad974569f4",
       "timestamp": 1759235544364
+    }
+  ],
+  "new hope liuhe": [
+    {
+      "site": "JobGurus",
+      "id": "12b9b4dea7456dd2e602ec6d7910365c",
+      "timestamp": 1759238773869
     }
   ]
 }
