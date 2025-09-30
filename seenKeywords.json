@@ -3078,28 +3078,8 @@
   "mactay consulting": [
     {
       "site": "JobGurus",
-      "id": "9e348a8188c44ee9b958cc2f17e154c0",
-      "timestamp": 1757434728312
-    },
-    {
-      "site": "JobGurus",
-      "id": "d22a6d119ccf4e16fda4fbcdecb423a1",
-      "timestamp": 1757597932071
-    },
-    {
-      "site": "JobGurus",
-      "id": "bc8650961a00a2f4383515da838cccb7",
-      "timestamp": 1757702515039
-    },
-    {
-      "site": "JobGurus",
-      "id": "8309e2f340ee968e4e9d2e16a9c1814f",
-      "timestamp": 1757704277827
-    },
-    {
-      "site": "JobGurus",
-      "id": "99acfedb57942e7083852a89d372aedb",
-      "timestamp": 1758029098519
+      "id": "3e17aa1ef827f1dee9de37bc708f7df9",
+      "timestamp": 1759230784490
     }
   ],
   "tybtitx services international limited": [
@@ -16818,6 +16798,13 @@
       "site": "JobGurus",
       "id": "22424629a670183ea7b37e8c3643462c",
       "timestamp": 1759228905188
+    }
+  ],
+  "new era": [
+    {
+      "site": "JobGurus",
+      "id": "410596111310328ae0eb3eed8203962b",
+      "timestamp": 1759230784490
     }
   ]
 }
