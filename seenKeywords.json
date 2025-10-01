@@ -152,6 +152,11 @@
       "site": "JobGurus",
       "id": "6e009a987622cc11bcbda7650d439209",
       "timestamp": 1759326335194
+    },
+    {
+      "site": "JobGurus",
+      "id": "4535b7829b195ad88165b55486aad143",
+      "timestamp": 1759328112836
     }
   ],
   "cway group": [
@@ -4534,13 +4539,8 @@
   "interswitch": [
     {
       "site": "JobGurus",
-      "id": "a5c9446e434d03bad16abafc4c04972d",
-      "timestamp": 1757956380255
-    },
-    {
-      "site": "JobGurus",
-      "id": "412f46c4d6200ebe21b54f32aaed93e7",
-      "timestamp": 1758206411634
+      "id": "c5beb6c0d8a41103d732fe1ebca3d171",
+      "timestamp": 1759328112836
     }
   ],
   "human capital group": [
@@ -10207,8 +10207,8 @@
   "hrd solutions": [
     {
       "site": "JobGurus",
-      "id": "2d0687d22d4891922dbc1784f9ddf32e",
-      "timestamp": 1755005469713
+      "id": "866e93b6bcb7342ff7493212fd01842e",
+      "timestamp": 1759328112836
     }
   ],
   "eclat human resource consulting limited": [
@@ -16991,6 +16991,20 @@
       "site": "JobGurus",
       "id": "faebc689d7dc48320530acd0f44d9631",
       "timestamp": 1759326335194
+    }
+  ],
+  "flutterwave": [
+    {
+      "site": "JobGurus",
+      "id": "28ce02d4dcccb1bb752eaa30df6e33f7",
+      "timestamp": 1759328112836
+    }
+  ],
+  "mipraise investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "72e548ccec70354f1d37366caedff0e8",
+      "timestamp": 1759328112836
     }
   ]
 }
