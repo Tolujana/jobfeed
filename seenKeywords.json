@@ -140,18 +140,18 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "0fe9d30b9154f7908ff6553d499177d3",
-      "timestamp": 1758615591463
-    },
-    {
-      "site": "JobGurus",
-      "id": "d58c5f12f72659b602c80d1162a35d11",
-      "timestamp": 1758706764185
-    },
-    {
-      "site": "JobGurus",
       "id": "647d188e1ce53672336d5c08b06ff0cf",
       "timestamp": 1759166028085
+    },
+    {
+      "site": "JobGurus",
+      "id": "3595d40c164bdec774575ae21aa71026",
+      "timestamp": 1759326335194
+    },
+    {
+      "site": "JobGurus",
+      "id": "6e009a987622cc11bcbda7650d439209",
+      "timestamp": 1759326335194
     }
   ],
   "cway group": [
@@ -1113,8 +1113,8 @@
   "elizabeth maddeux limited": [
     {
       "site": "JobGurus",
-      "id": "369c2c49d8d051673bbdbb436799e5ac",
-      "timestamp": 1758708949892
+      "id": "0ee18b434053432d5d5d8b6f862d98ae",
+      "timestamp": 1759326335194
     }
   ],
   "cashxpress nigeria limited": [
@@ -16965,6 +16965,11 @@
       "site": "JobGurus",
       "id": "289d71c5edf059f0f38b16ebac9c9a5e",
       "timestamp": 1759325165935
+    },
+    {
+      "site": "JobGurus",
+      "id": "04058b812ac3c08d0ce6dbd0d57508fb",
+      "timestamp": 1759326335194
     }
   ],
   "your hrgirlnextdoor consulting": [
@@ -16979,6 +16984,13 @@
       "site": "JobGurus",
       "id": "0b0ebdfd1a851de401e156a73d39252a",
       "timestamp": 1759325165935
+    }
+  ],
+  "cgi hr consult": [
+    {
+      "site": "JobGurus",
+      "id": "faebc689d7dc48320530acd0f44d9631",
+      "timestamp": 1759326335194
     }
   ]
 }
