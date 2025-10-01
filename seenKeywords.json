@@ -17006,5 +17006,38 @@
       "id": "72e548ccec70354f1d37366caedff0e8",
       "timestamp": 1759328112836
     }
+  ],
+  "holy trinity hospital": [
+    {
+      "site": "JobGurus",
+      "id": "0ab1856725775a9c469cd57ed5e03957",
+      "timestamp": 1759329750251
+    }
+  ],
+  "st. dominic catholic hospita": [
+    {
+      "site": "JobGurus",
+      "id": "268cfa82a4a21f2d270d623059485363",
+      "timestamp": 1759329750251
+    }
+  ],
+  "tespire": [
+    {
+      "site": "JobGurus",
+      "id": "d037cacde8858a38c39af36d435c95e5",
+      "timestamp": 1759329750251
+    }
+  ],
+  "vedic lifecare hospital": [
+    {
+      "site": "JobGurus",
+      "id": "a5c4978a70e257a3d08a69d90f756aed",
+      "timestamp": 1759329750251
+    },
+    {
+      "site": "JobGurus",
+      "id": "adec6faab67b64a51c4ae3e95b340dc0",
+      "timestamp": 1759329750251
+    }
   ]
 }
