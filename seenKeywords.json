@@ -466,8 +466,8 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "f199e46612911a7a3d75111ad01999b8",
-      "timestamp": 1758306026895
+      "id": "eb53ba4318c8f26614ea2e8ced7bd945",
+      "timestamp": 1759337043469
     }
   ],
   "cig motors co. limited": [
@@ -844,8 +844,8 @@
   "unocasa limited": [
     {
       "site": "JobGurus",
-      "id": "23e01f1df3e36838c84f2389244a94a7",
-      "timestamp": 1755888420172
+      "id": "a285db909803e6950ed345899f021531",
+      "timestamp": 1759337043469
     }
   ],
   "elvaridah limited": [
@@ -5703,13 +5703,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "5f00eb3d3fb78dce3f525263f903ce35",
-      "timestamp": 1753454696192
-    },
-    {
-      "site": "JobGurus",
-      "id": "62809bb090b756eca19b154c77f3532f",
-      "timestamp": 1753458204066
+      "id": "791e39ab0cb9907bbd7a4e0e2f5c2d09",
+      "timestamp": 1759337043469
     }
   ],
   "boing pinnacle limited": [
@@ -17069,6 +17064,18 @@
       "site": "JobGurus",
       "id": "df4bdafbf4466fff71c6a09e32ed20fd",
       "timestamp": 1759335558426
+    }
+  ],
+  "hilltop resources": [
+    {
+      "site": "JobGurus",
+      "id": "5963682857819b127ee133449e53750c",
+      "timestamp": 1759337043469
+    },
+    {
+      "site": "JobGurus",
+      "id": "d6d5d761f95df113c2d354d082c12161",
+      "timestamp": 1759337043469
     }
   ]
 }
