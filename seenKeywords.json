@@ -292,8 +292,13 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "dffea5bcaff796366cf538f8609e748a",
-      "timestamp": 1758014189594
+      "id": "b8e34225d3cd8dcb03284dd7ee7491fa",
+      "timestamp": 1759423416097
+    },
+    {
+      "site": "JobGurus",
+      "id": "354400c2b28aa3c7be4228221d4a70ad",
+      "timestamp": 1759423416097
     }
   ],
   "jamub group": [
@@ -3585,8 +3590,8 @@
   "swift consulting": [
     {
       "site": "JobGurus",
-      "id": "b0a5a16c1ee723d228a738638f4caa74",
-      "timestamp": 1758212284996
+      "id": "0b93862b72dec1965a9d2eb2b4c27a43",
+      "timestamp": 1759423416097
     }
   ],
   "pack ‘n’ pay": [
@@ -8096,13 +8101,8 @@
   "swift consulting limited": [
     {
       "site": "JobGurus",
-      "id": "46561412dd93b546e00b2875c3adf744",
-      "timestamp": 1755627643536
-    },
-    {
-      "site": "JobGurus",
-      "id": "646c576e0e87bd1a82cbfb748602dcb3",
-      "timestamp": 1756147722163
+      "id": "3bb092e0e6853bd1d73e1e71c22d62d8",
+      "timestamp": 1759423416097
     }
   ],
   "danish refugee council": [
