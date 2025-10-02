@@ -1096,18 +1096,8 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "be6fe871874559a2a4f63d78fa7df428",
-      "timestamp": 1758280356747
-    },
-    {
-      "site": "JobGurus",
-      "id": "59593e4c639f74764b90eb95eea1cb3d",
-      "timestamp": 1758615591463
-    },
-    {
-      "site": "JobGurus",
-      "id": "d37079ab0b6139bf9ef5ef449da968ca",
-      "timestamp": 1758803537585
+      "id": "7ea1271cf223bf717ce932f736e6b83b",
+      "timestamp": 1759440897297
     }
   ],
   "elizabeth maddeux limited": [
@@ -1978,13 +1968,8 @@
   "the vault recruitment (tvr)": [
     {
       "site": "JobGurus",
-      "id": "07797ebc3b48721150ed710ebe81ff09",
-      "timestamp": 1751643621853
-    },
-    {
-      "site": "JobGurus",
-      "id": "2640d2d66cfe42aa3cc08ce6a724b042",
-      "timestamp": 1751645957920
+      "id": "0d448d82105b6b70a402119bdb632fa3",
+      "timestamp": 1759440897297
     }
   ],
   "across global travels & tours limited": [
@@ -3855,13 +3840,8 @@
   "rainoil limited": [
     {
       "site": "JobGurus",
-      "id": "e82da5237c46536b9fce286c2d873761",
-      "timestamp": 1757410781164
-    },
-    {
-      "site": "JobGurus",
-      "id": "a0a51dc81a20d165161694e510eaa454",
-      "timestamp": 1757417735901
+      "id": "040f28d118ec04df9e9bb1d4057bba73",
+      "timestamp": 1759440897297
     }
   ],
   "the borough lagos": [
@@ -9622,13 +9602,8 @@
   "kredete": [
     {
       "site": "JobGurus",
-      "id": "665c4747354dd613672549ec8207b723",
-      "timestamp": 1758280356747
-    },
-    {
-      "site": "JobGurus",
-      "id": "9bb4f89d4df57890b8bce1739bf13d0b",
-      "timestamp": 1758296276149
+      "id": "aff94e98644b5bcff11648a49325ec22",
+      "timestamp": 1759440897297
     }
   ],
   "mitiget": [
@@ -17199,6 +17174,13 @@
       "site": "JobGurus",
       "id": "230938b0ef734e7470e92966954efa13",
       "timestamp": 1759429266316
+    }
+  ],
+  "the vault recruitment": [
+    {
+      "site": "JobGurus",
+      "id": "16b06bf2d0a4b40c4f812aacb0dd753a",
+      "timestamp": 1759440897297
     }
   ]
 }
