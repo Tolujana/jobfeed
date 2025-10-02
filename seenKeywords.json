@@ -14866,8 +14866,8 @@
   "tailored by maju": [
     {
       "site": "JobGurus",
-      "id": "10589a3b1ea11d563f3fde6590a52057",
-      "timestamp": 1757532934271
+      "id": "619b5d593aa4cf35f4caafaa83f27b96",
+      "timestamp": 1759401548196
     }
   ],
   "global spectrum energy services plc": [
@@ -17108,6 +17108,27 @@
       "site": "JobGurus",
       "id": "86e0ba0124f680188775d69c67931a39",
       "timestamp": 1759400090850
+    }
+  ],
+  "ceragon networks limited": [
+    {
+      "site": "JobGurus",
+      "id": "8c583c546ac0162d95f6142f70d3cada",
+      "timestamp": 1759401548196
+    }
+  ],
+  "james hope university": [
+    {
+      "site": "JobGurus",
+      "id": "d01376891605ea3b1e61670d7b03c9cf",
+      "timestamp": 1759401548196
+    }
+  ],
+  "sterling homes limited": [
+    {
+      "site": "JobGurus",
+      "id": "48375253f26b62a03d7c1dec973bffdf",
+      "timestamp": 1759401548196
     }
   ]
 }
