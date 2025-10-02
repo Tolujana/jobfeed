@@ -6899,8 +6899,8 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "9573959592128603bd2891cc5dc2de1f",
-      "timestamp": 1758371284080
+      "id": "c0c30629d5831e5f9948e0452f113c85",
+      "timestamp": 1759443191634
     }
   ],
   "dansol": [
@@ -17181,6 +17181,13 @@
       "site": "JobGurus",
       "id": "16b06bf2d0a4b40c4f812aacb0dd753a",
       "timestamp": 1759440897297
+    }
+  ],
+  "maineflow limited": [
+    {
+      "site": "JobGurus",
+      "id": "4144d310c7b2ceb97babbe4ec2f99080",
+      "timestamp": 1759443191634
     }
   ]
 }
