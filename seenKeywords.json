@@ -485,8 +485,8 @@
   "first excelsia professional services limited": [
     {
       "site": "JobGurus",
-      "id": "32a181af7e02e2f7e243cd625a618c46",
-      "timestamp": 1757507383193
+      "id": "a28226ba56533c8ba1298487340e7486",
+      "timestamp": 1759426552850
     }
   ],
   "universal human resource consult": [
@@ -5888,13 +5888,8 @@
   "mecer consulting limited": [
     {
       "site": "JobGurus",
-      "id": "8f94b8165e430122ea8e2c1266092be1",
-      "timestamp": 1758568299536
-    },
-    {
-      "site": "JobGurus",
-      "id": "98f93943503150426c41cb1fb3ecc680",
-      "timestamp": 1758705369363
+      "id": "f5a9d4c1c400e042493a115f32b831dc",
+      "timestamp": 1759426552850
     }
   ],
   "lotus capital limited": [
@@ -8679,8 +8674,8 @@
   "polaris digitech limited": [
     {
       "site": "JobGurus",
-      "id": "4d2cb7d0bc3a4d5cadfb6bb3189fe012",
-      "timestamp": 1757013079766
+      "id": "cce9fee8a3b3f27b31fd251ba5b0bfe1",
+      "timestamp": 1759426552850
     }
   ],
   "efficacy development plc": [
@@ -17131,6 +17126,11 @@
       "site": "JobGurus",
       "id": "0eba53627c56a79363630c5775651fcf",
       "timestamp": 1759403506767
+    },
+    {
+      "site": "JobGurus",
+      "id": "24f550f0f69ddd270f53882fddf308cf",
+      "timestamp": 1759426552850
     }
   ],
   "federal polytechnic ede": [
@@ -17173,6 +17173,13 @@
       "site": "JobGurus",
       "id": "f3c4a7d7a876484106098ec7ea12cb92",
       "timestamp": 1759425085085
+    }
+  ],
+  "sundry foods limited": [
+    {
+      "site": "JobGurus",
+      "id": "921e53a74ab25c0d445e3c03dd965edd",
+      "timestamp": 1759426552850
     }
   ]
 }
