@@ -3979,8 +3979,8 @@
   "hr-aid consults": [
     {
       "site": "JobGurus",
-      "id": "1b45a0eee0b07deee18178b9c0bee202",
-      "timestamp": 1758298653932
+      "id": "31a5b763f5573b27d7b774f7f8ae67f5",
+      "timestamp": 1759403506767
     }
   ],
   "nigeria society of engineers (nse)": [
@@ -12473,8 +12473,8 @@
   "ics outsourcing": [
     {
       "site": "JobGurus",
-      "id": "55e8981d57ba699d20a06c57dda9fe91",
-      "timestamp": 1755714138864
+      "id": "d00d2fa661361bde58916f04a367bd4f",
+      "timestamp": 1759403506767
     }
   ],
   "atlanticblu hotel & resort": [
@@ -17129,6 +17129,27 @@
       "site": "JobGurus",
       "id": "48375253f26b62a03d7c1dec973bffdf",
       "timestamp": 1759401548196
+    }
+  ],
+  "adenal consulting": [
+    {
+      "site": "JobGurus",
+      "id": "0eba53627c56a79363630c5775651fcf",
+      "timestamp": 1759403506767
+    }
+  ],
+  "federal polytechnic ede": [
+    {
+      "site": "JobGurus",
+      "id": "ee3d1ad496a5afa4348b86ac4e4635c3",
+      "timestamp": 1759403506767
+    }
+  ],
+  "pwan unique": [
+    {
+      "site": "JobGurus",
+      "id": "e2c321b29bb158a4a5a2c0e815f87cf4",
+      "timestamp": 1759403506767
     }
   ]
 }
