@@ -4535,8 +4535,8 @@
   "kiyix recruitment hub": [
     {
       "site": "JobGurus",
-      "id": "fdab1b0f3d1df3a5f9b9b2197b68b836",
-      "timestamp": 1758717082820
+      "id": "924c3200ecdd93f84c1ae092a098723c",
+      "timestamp": 1759502388935
     }
   ],
   "mediplan healthcare limited": [
@@ -4902,8 +4902,8 @@
   "kennedia consulting limited": [
     {
       "site": "JobGurus",
-      "id": "405b6616ed95f593b9871c44f8dc5571",
-      "timestamp": 1758565259920
+      "id": "5497d6302d1153c8d4aa617763e54263",
+      "timestamp": 1759502388935
     }
   ],
   "african natural resources & mines limited": [
@@ -17157,6 +17157,11 @@
       "site": "JobGurus",
       "id": "ba2a77d5be58a9cfa46fddd48e43feb0",
       "timestamp": 1759404948319
+    },
+    {
+      "site": "JobGurus",
+      "id": "42a3715bced27b8ca6454b8b576bf3ce",
+      "timestamp": 1759502388935
     }
   ],
   "kay’s perfumery": [
@@ -17328,6 +17333,20 @@
       "site": "JobGurus",
       "id": "287a44a5489e9570977ef5a0ca96175e",
       "timestamp": 1759500842552
+    }
+  ],
+  "rozdon integrated systems limited": [
+    {
+      "site": "JobGurus",
+      "id": "47ac8b28668c8ab72e419481cc202d49",
+      "timestamp": 1759502388935
+    }
+  ],
+  "taocars nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "8767176cdbb9c82a2c5c9dd9b464c28f",
+      "timestamp": 1759502388935
     }
   ]
 }
