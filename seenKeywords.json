@@ -2170,6 +2170,11 @@
       "site": "JobGurus",
       "id": "7ee2b2424138eb433e88a52c097c6764",
       "timestamp": 1759414470316
+    },
+    {
+      "site": "JobGurus",
+      "id": "a8a33e06721bdaab005b45ab0bacbf12",
+      "timestamp": 1759497724544
     }
   ],
   "cometstar industrial gases limited": [
@@ -5044,18 +5049,8 @@
   "mtn nigeria": [
     {
       "site": "JobGurus",
-      "id": "5db118b5783bce6f1c1c46791fe53eee",
-      "timestamp": 1754662728620
-    },
-    {
-      "site": "JobGurus",
-      "id": "bc63ba66e5f018813386fa9ef41f88e3",
-      "timestamp": 1754667884593
-    },
-    {
-      "site": "JobGurus",
-      "id": "44d66a42df65c78c4af14d0faf0563cc",
-      "timestamp": 1754929261348
+      "id": "de09702c63ef08425f82002fdeb6ac7d",
+      "timestamp": 1759497724544
     }
   ],
   "koins microfinance bank limited": [
@@ -6264,6 +6259,11 @@
       "site": "JobGurus",
       "id": "c79cd274aa53ee22259d8110ebeb403a",
       "timestamp": 1759178193279
+    },
+    {
+      "site": "JobGurus",
+      "id": "6232122b34c5d46d56edf3f02e32cf6f",
+      "timestamp": 1759497724544
     }
   ],
   "calibration and non-destructive services limited": [
@@ -17285,6 +17285,13 @@
       "site": "JobGurus",
       "id": "ee55109830b29723348e3c5df45b7e91",
       "timestamp": 1759494617794
+    }
+  ],
+  "colasolar": [
+    {
+      "site": "JobGurus",
+      "id": "f1a3ee837604f262413309f19787cd96",
+      "timestamp": 1759497724544
     }
   ]
 }
