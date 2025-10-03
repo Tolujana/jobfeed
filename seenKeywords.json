@@ -4875,6 +4875,11 @@
       "site": "JobGurus",
       "id": "ebb5dc3ddeacb96d98d79632e10cd303",
       "timestamp": 1759489934989
+    },
+    {
+      "site": "JobGurus",
+      "id": "87865e87d7d2b2c423b62b0b32a71d10",
+      "timestamp": 1759494617794
     }
   ],
   "amy consulting": [
@@ -17252,6 +17257,34 @@
       "site": "JobGurus",
       "id": "e864ed9b8400e49026d47ece57133457",
       "timestamp": 1759491337028
+    }
+  ],
+  "knowvas technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "db4c988696d64293ed6c0aff94bfd383",
+      "timestamp": 1759494617794
+    }
+  ],
+  "recycling ant": [
+    {
+      "site": "JobGurus",
+      "id": "d8da86b6548cad066dd211df9cd39fe3",
+      "timestamp": 1759494617794
+    }
+  ],
+  "cinqteos group": [
+    {
+      "site": "JobGurus",
+      "id": "4f979dcac2cb63c45c64b1ec04c3cfd8",
+      "timestamp": 1759494617794
+    }
+  ],
+  "philban consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "ee55109830b29723348e3c5df45b7e91",
+      "timestamp": 1759494617794
     }
   ]
 }
