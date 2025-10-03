@@ -4391,6 +4391,11 @@
       "site": "JobGurus",
       "id": "f1613c2592b23486dd1ceebfdf86968c",
       "timestamp": 1759321990341
+    },
+    {
+      "site": "JobGurus",
+      "id": "0a061082747c8186c1dd8b2801f4bea3",
+      "timestamp": 1759491337028
     }
   ],
   "jaykay group": [
@@ -17226,6 +17231,27 @@
       "site": "JobGurus",
       "id": "4075a42a1d34d04c970fdb5c513038d9",
       "timestamp": 1759489934989
+    }
+  ],
+  "deejoft technologies": [
+    {
+      "site": "JobGurus",
+      "id": "d2d08608ad9e4c290835502fdc2c22a2",
+      "timestamp": 1759491337028
+    }
+  ],
+  "mar&mor integrated services limited": [
+    {
+      "site": "JobGurus",
+      "id": "088a3dd1c38f11bad93f56ab7deb4b14",
+      "timestamp": 1759491337028
+    }
+  ],
+  "reliable steel and plastic industry limited": [
+    {
+      "site": "JobGurus",
+      "id": "e864ed9b8400e49026d47ece57133457",
+      "timestamp": 1759491337028
     }
   ]
 }
