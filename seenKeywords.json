@@ -2424,8 +2424,8 @@
   "jules construction": [
     {
       "site": "JobGurus",
-      "id": "0e7aac28614046ca0f0489170d3493e4",
-      "timestamp": 1749645159598
+      "id": "b9ace9ca2b368e95dd705907719d1ae6",
+      "timestamp": 1759508280363
     }
   ],
   "obafemi awolowo university (oau)": [
@@ -8681,6 +8681,11 @@
       "site": "JobGurus",
       "id": "cce9fee8a3b3f27b31fd251ba5b0bfe1",
       "timestamp": 1759426552850
+    },
+    {
+      "site": "JobGurus",
+      "id": "76b8458945f0e795df87546ab43cef81",
+      "timestamp": 1759508280363
     }
   ],
   "efficacy development plc": [
@@ -8773,13 +8778,8 @@
   "la campagne tropicana beach resort": [
     {
       "site": "JobGurus",
-      "id": "3d822d54290f0319ce9e167dd08877f7",
-      "timestamp": 1752842051873
-    },
-    {
-      "site": "JobGurus",
-      "id": "6aa35f57650bdc9ad5457feb132859d5",
-      "timestamp": 1752842051873
+      "id": "102d41a6562726c4679468b456a614fe",
+      "timestamp": 1759508280363
     }
   ],
   "future one africa network (foan group)": [
@@ -17354,6 +17354,13 @@
       "site": "JobGurus",
       "id": "a016d4c48f0c9079b2526235adc5f92b",
       "timestamp": 1759505823011
+    }
+  ],
+  "litefi limited": [
+    {
+      "site": "JobGurus",
+      "id": "3b1d14e0d1469de3c9defd1218f4c530",
+      "timestamp": 1759508280363
     }
   ]
 }
