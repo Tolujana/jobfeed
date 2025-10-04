@@ -1134,6 +1134,11 @@
       "site": "JobGurus",
       "id": "1be31a7d67140940d59a08a8d81f0280",
       "timestamp": 1759587104235
+    },
+    {
+      "site": "JobGurus",
+      "id": "fb63d8d5ca398ed6d32237d6cdbc6fce",
+      "timestamp": 1759588532539
     }
   ],
   "habaripay limited": [
@@ -3020,8 +3025,13 @@
   "bogo beverages limited": [
     {
       "site": "JobGurus",
-      "id": "f053f2854b19d617f9d7147d0b4b5592",
-      "timestamp": 1750848331251
+      "id": "bc14708c2d0e32e3cf88203d9db74a25",
+      "timestamp": 1759588532539
+    },
+    {
+      "site": "JobGurus",
+      "id": "8069ad8b6701b779d67e220f303c96aa",
+      "timestamp": 1759588532539
     }
   ],
   "oic partners": [
@@ -3770,8 +3780,8 @@
   "fortesoft systems limited": [
     {
       "site": "JobGurus",
-      "id": "4b7b4f6d34843d470e8c93f978b3a9b5",
-      "timestamp": 1754578171901
+      "id": "a30a31916e82a9c1076bc732bda0d1c7",
+      "timestamp": 1759588532539
     }
   ],
   "d&m data solutions": [
@@ -17363,6 +17373,13 @@
       "site": "JobGurus",
       "id": "532a8781eb63e5941500549e5ac844e7",
       "timestamp": 1759587104235
+    }
+  ],
+  "she code africa": [
+    {
+      "site": "JobGurus",
+      "id": "ae9e600a7c74526bbd47f0b95557ae9b",
+      "timestamp": 1759588532539
     }
   ]
 }
