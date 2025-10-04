@@ -520,11 +520,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "1f8992ca25f91bfa420076c41a354689",
-      "timestamp": 1758893051740
-    },
-    {
-      "site": "JobGurus",
       "id": "42f5713ac02b6eb1391d364e5b2c75c4",
       "timestamp": 1759160312934
     },
@@ -552,6 +547,16 @@
       "site": "JobGurus",
       "id": "2d139fda5f9a96dffe8ea2748cb4a807",
       "timestamp": 1759489934989
+    },
+    {
+      "site": "JobGurus",
+      "id": "9106bf9ea83ef7a6304ef49df861c1f7",
+      "timestamp": 1759590762199
+    },
+    {
+      "site": "JobGurus",
+      "id": "d2bd1daa4249343a00278723eadd7fda",
+      "timestamp": 1759590762199
     }
   ],
   "abbfem group": [
@@ -3584,8 +3589,8 @@
   "kadick integrated limited": [
     {
       "site": "JobGurus",
-      "id": "b2563cde83ea983a258ac42fe264c02a",
-      "timestamp": 1752833891556
+      "id": "6d173222613dd480d38f3e65967c5603",
+      "timestamp": 1759590762199
     }
   ],
   "tradedepot": [
@@ -6096,8 +6101,8 @@
   "verto": [
     {
       "site": "JobGurus",
-      "id": "f150a66ccb721926a37cb051f60737aa",
-      "timestamp": 1751384514171
+      "id": "e3a59b281260283ebe9d3d45f5b02747",
+      "timestamp": 1759590762199
     }
   ],
   "bridgemead hr. and advisory": [
@@ -6420,8 +6425,8 @@
   "kyosk digital services limited": [
     {
       "site": "JobGurus",
-      "id": "7a586d656ff62eff14fbc7484c7c12a9",
-      "timestamp": 1758615591463
+      "id": "73dec8dcf4056e1f71e515c9f11c6d91",
+      "timestamp": 1759590762199
     }
   ],
   "naija global logistics limited": [
