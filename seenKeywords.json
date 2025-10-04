@@ -9238,8 +9238,8 @@
   "maon services limited": [
     {
       "site": "JobGurus",
-      "id": "6433be022e3e41589dad0312ccb41f78",
-      "timestamp": 1753187697250
+      "id": "a1bd07a3f1b4363fa491fbb6c3ff6e40",
+      "timestamp": 1759592106163
     }
   ],
   "trends ventures": [
@@ -11279,8 +11279,13 @@
   "pulse nigeria": [
     {
       "site": "JobGurus",
-      "id": "330abb294aecd4b7b75f6a47e394ad70",
-      "timestamp": 1757104693045
+      "id": "1030e805f6adfb3e8f49524a34895c5d",
+      "timestamp": 1759592106163
+    },
+    {
+      "site": "JobGurus",
+      "id": "c00388a8d35d179730dcb0094104701b",
+      "timestamp": 1759592106163
     }
   ],
   "nairametrics": [
@@ -17385,6 +17390,20 @@
       "site": "JobGurus",
       "id": "ae9e600a7c74526bbd47f0b95557ae9b",
       "timestamp": 1759588532539
+    }
+  ],
+  "parkway project limited": [
+    {
+      "site": "JobGurus",
+      "id": "2ce371c2890be296054c5c007e4e1a73",
+      "timestamp": 1759592106163
+    }
+  ],
+  "dlocal": [
+    {
+      "site": "JobGurus",
+      "id": "709c119524e0551568a3db80070b9b03",
+      "timestamp": 1759592106163
     }
   ]
 }
