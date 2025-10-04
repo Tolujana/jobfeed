@@ -1592,13 +1592,8 @@
   "nine stars limited": [
     {
       "site": "JobGurus",
-      "id": "3f262214ad369d43b75931b663bf8080",
-      "timestamp": 1754662728620
-    },
-    {
-      "site": "JobGurus",
-      "id": "60926d7b1e21e923e2ef3cb817488291",
-      "timestamp": 1754664427650
+      "id": "8333ebb2d71f77c772f1900f142b0771",
+      "timestamp": 1759594572109
     }
   ],
   "derive communications systems & engr. ltd": [
@@ -11286,6 +11281,11 @@
       "site": "JobGurus",
       "id": "c00388a8d35d179730dcb0094104701b",
       "timestamp": 1759592106163
+    },
+    {
+      "site": "JobGurus",
+      "id": "4438f9b47ab12bcc89d0d25227ddeb93",
+      "timestamp": 1759594572109
     }
   ],
   "nairametrics": [
@@ -17404,6 +17404,27 @@
       "site": "JobGurus",
       "id": "709c119524e0551568a3db80070b9b03",
       "timestamp": 1759592106163
+    }
+  ],
+  "coolfm / wazobia fm": [
+    {
+      "site": "JobGurus",
+      "id": "5aedbcb80568c9ddbc4cfceaa48b0ab4",
+      "timestamp": 1759594572109
+    }
+  ],
+  "nine stars agricultural limited": [
+    {
+      "site": "JobGurus",
+      "id": "967f5183832889b9d002deacc3537957",
+      "timestamp": 1759594572109
+    }
+  ],
+  "digitalents hub limited": [
+    {
+      "site": "JobGurus",
+      "id": "7ad3fdcb4425ac7402af1cbf89171de2",
+      "timestamp": 1759594572109
     }
   ]
 }
