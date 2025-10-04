@@ -1425,8 +1425,8 @@
   "techdoctorinnovations": [
     {
       "site": "JobGurus",
-      "id": "0b0e83e512cb654f128d88d0ef8638dd",
-      "timestamp": 1758897514085
+      "id": "b1ba4413e6ecc0eee46d50d9572b18fa",
+      "timestamp": 1759595986593
     }
   ],
   "shomas supply & logistics limited": [
@@ -17425,6 +17425,13 @@
       "site": "JobGurus",
       "id": "7ad3fdcb4425ac7402af1cbf89171de2",
       "timestamp": 1759594572109
+    }
+  ],
+  "royal power and energy limited": [
+    {
+      "site": "JobGurus",
+      "id": "974003c7d9b1a92135aaaf5935387681",
+      "timestamp": 1759595986593
     }
   ]
 }
