@@ -2668,13 +2668,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "1bf00392ca0e81361c820f5e55143b85",
-      "timestamp": 1758217052564
-    },
-    {
-      "site": "JobGurus",
-      "id": "d1ad60c84166b99d6e2bb7ed2fb9138c",
-      "timestamp": 1758562611438
+      "id": "8396d0e3d7d12a7fe17d26921a4a099f",
+      "timestamp": 1759769023757
     }
   ],
   "international fertilizer development center": [
@@ -3548,8 +3543,8 @@
   "mikano international": [
     {
       "site": "JobGurus",
-      "id": "5b544ad82d5462e682491db6ca121438",
-      "timestamp": 1754480424093
+      "id": "3def0aff67ff3b949aa9891fa4505d09",
+      "timestamp": 1759769023757
     }
   ],
   "vurin group": [
@@ -4992,8 +4987,8 @@
   "smart partners consulting limited": [
     {
       "site": "JobGurus",
-      "id": "b29dcbee75db5620d9edaa75579a7d91",
-      "timestamp": 1756762528074
+      "id": "5867a3789f09a808549f8ed1e7fdd45d",
+      "timestamp": 1759769023757
     }
   ],
   "felamokhr consulting services limited": [
@@ -7069,8 +7064,8 @@
   "lorache consulting limited": [
     {
       "site": "JobGurus",
-      "id": "ac2993c97f74b39bd9215ba26f08d45f",
-      "timestamp": 1756206835222
+      "id": "6ba1cc2e9bbbc83de751e74a72a685cc",
+      "timestamp": 1759769023757
     }
   ],
   "zhongxin network technology company limited": [
@@ -17499,6 +17494,13 @@
       "site": "JobGurus",
       "id": "09ebdb35e34e7251d52baa4cbfb28eac",
       "timestamp": 1759767519192
+    }
+  ],
+  "digital space capital": [
+    {
+      "site": "JobGurus",
+      "id": "3aa6b08c07ccaf38b424a162b7a8ada2",
+      "timestamp": 1759769023757
     }
   ]
 }
