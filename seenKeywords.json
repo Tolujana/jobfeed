@@ -10,8 +10,13 @@
   "ipnx nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "58b81a2618f531f40ff28a0c3f186977",
-      "timestamp": 1758565259920
+      "id": "71b95837967c0f5b69859f4634ef3057",
+      "timestamp": 1759767519192
+    },
+    {
+      "site": "JobGurus",
+      "id": "30685a7779359314ad7aa8ce4431b8a8",
+      "timestamp": 1759767519192
     }
   ],
   "excel and grace consulting": [
@@ -2576,13 +2581,8 @@
   "gas tech international limited": [
     {
       "site": "JobGurus",
-      "id": "80406a2214a912e41f7156bcaadc7529",
-      "timestamp": 1749725099890
-    },
-    {
-      "site": "JobGurus",
-      "id": "079457aef61e70032281920b451b9cc9",
-      "timestamp": 1749731513319
+      "id": "cd8473b84df6a218ccba7dc9a1d8095c",
+      "timestamp": 1759767519192
     }
   ],
   "tempo paper pulp & packaging plc": [
@@ -12340,13 +12340,8 @@
   "tribest corporate support limited": [
     {
       "site": "JobGurus",
-      "id": "47690a5f241411f0df58af9d00a99f03",
-      "timestamp": 1758706764185
-    },
-    {
-      "site": "JobGurus",
-      "id": "fccf243600256c76c569c0ea72574bd6",
-      "timestamp": 1759152364747
+      "id": "c6e379d5ade97a8d68ed1710a9c2bbd3",
+      "timestamp": 1759767519192
     }
   ],
   "xuriel resources": [
@@ -17497,6 +17492,13 @@
       "site": "JobGurus",
       "id": "5844cb863b98bec74314de10187f6ccd",
       "timestamp": 1759765133698
+    }
+  ],
+  "rhema project": [
+    {
+      "site": "JobGurus",
+      "id": "09ebdb35e34e7251d52baa4cbfb28eac",
+      "timestamp": 1759767519192
     }
   ]
 }
