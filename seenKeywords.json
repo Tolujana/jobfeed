@@ -6176,8 +6176,8 @@
   "hoop telecoms limited": [
     {
       "site": "JobGurus",
-      "id": "77bc2b5472e5f9ebb66519ad5d8db43d",
-      "timestamp": 1755618044114
+      "id": "ce641d04a56c6f5dac3261a8c306ad97",
+      "timestamp": 1759770840557
     }
   ],
   "ghi assets limited": [
@@ -11163,8 +11163,8 @@
   "vis-ideal concept limited": [
     {
       "site": "JobGurus",
-      "id": "3b2b68a3f2e6c89a64eb711808937d57",
-      "timestamp": 1754563684273
+      "id": "4bd6de1024a976c39d83e9088f681f52",
+      "timestamp": 1759770840557
     }
   ],
   "citi residence": [
@@ -16899,6 +16899,11 @@
       "site": "JobGurus",
       "id": "d5c5ad20fb25decfbd8f40e0e06e562d",
       "timestamp": 1759321990341
+    },
+    {
+      "site": "JobGurus",
+      "id": "13f95b2e35fe75f5d77be0ac79604b2e",
+      "timestamp": 1759770840557
     }
   ],
   "ginos ventures limited": [
@@ -17501,6 +17506,20 @@
       "site": "JobGurus",
       "id": "3aa6b08c07ccaf38b424a162b7a8ada2",
       "timestamp": 1759769023757
+    }
+  ],
+  "radio now fm": [
+    {
+      "site": "JobGurus",
+      "id": "4557c91654ba005cb10181ad4535f7e1",
+      "timestamp": 1759770840557
+    }
+  ],
+  "zillion restaurant & catering": [
+    {
+      "site": "JobGurus",
+      "id": "56f841c033cf1f80ab6e86b0df8e61b0",
+      "timestamp": 1759770840557
     }
   ]
 }
