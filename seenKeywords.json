@@ -6686,6 +6686,11 @@
       "site": "JobGurus",
       "id": "a60180ef0eebfbacb13e6822bf78ac11",
       "timestamp": 1759761683483
+    },
+    {
+      "site": "JobGurus",
+      "id": "321b628eb00e6a7de3a93f6a1b93ea02",
+      "timestamp": 1759763715930
     }
   ],
   "vector cube outsourcing limited": [
@@ -8463,13 +8468,13 @@
   "jev consulting": [
     {
       "site": "JobGurus",
-      "id": "0eacaddcdba155bce50e2983722338f7",
-      "timestamp": 1758137766857
+      "id": "3eaf114bc27dff4bccbee7428c559dc7",
+      "timestamp": 1759763715930
     },
     {
       "site": "JobGurus",
-      "id": "b91564706f97ac6e8bcafb6e4e048826",
-      "timestamp": 1758141469382
+      "id": "69a500d17a57226a042b158e04ba5dae",
+      "timestamp": 1759763715930
     }
   ],
   "save the slum initiative": [
@@ -17483,6 +17488,13 @@
       "site": "JobGurus",
       "id": "8ace37f9a3a2a5992d82312792a1e708",
       "timestamp": 1759761683483
+    }
+  ],
+  "vintano hotel": [
+    {
+      "site": "JobGurus",
+      "id": "0c4f1a73ba5fbb5ce845f23b785c0e99",
+      "timestamp": 1759763715930
     }
   ]
 }
