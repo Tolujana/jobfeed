@@ -9624,6 +9624,11 @@
       "site": "JobGurus",
       "id": "aff94e98644b5bcff11648a49325ec22",
       "timestamp": 1759440897297
+    },
+    {
+      "site": "JobGurus",
+      "id": "6222604b00b0abbf6abcee12510074e6",
+      "timestamp": 1759749153369
     }
   ],
   "mitiget": [
@@ -10302,8 +10307,8 @@
   "value edge management services limited": [
     {
       "site": "JobGurus",
-      "id": "3461a14da0cf964d74346d556c4aab65",
-      "timestamp": 1758793127384
+      "id": "00f55adad0c863166efc3894ec78e8e5",
+      "timestamp": 1759749153369
     }
   ],
   "christian retreat centre": [
@@ -17432,6 +17437,13 @@
       "site": "JobGurus",
       "id": "974003c7d9b1a92135aaaf5935387681",
       "timestamp": 1759595986593
+    }
+  ],
+  "kydal office point (kop)": [
+    {
+      "site": "JobGurus",
+      "id": "43f2ba031e3814da5292bb6e9c731de0",
+      "timestamp": 1759749153369
     }
   ]
 }
