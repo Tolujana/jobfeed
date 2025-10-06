@@ -2330,8 +2330,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "ad42208d3ff49b15f9a443d9ee888e72",
-      "timestamp": 1758811343234
+      "id": "b974ce5d22b45b6bd5f2bfe6f2a15534",
+      "timestamp": 1759765133698
     }
   ],
   "fgs limited": [
@@ -2908,8 +2908,8 @@
   "resource intermediaries limited": [
     {
       "site": "JobGurus",
-      "id": "1c602c7a1d484f5f1c1888bf3622c1ee",
-      "timestamp": 1758640513759
+      "id": "acc1e7d35ddec1d50831c45574d17a00",
+      "timestamp": 1759765133698
     }
   ],
   "oisedotcom limited": [
@@ -3786,8 +3786,8 @@
   "cen global services limited": [
     {
       "site": "JobGurus",
-      "id": "a0bfac72d8289fbffee1c0c5b836c46a",
-      "timestamp": 1758713736914
+      "id": "bf4a473fdc1a01e4cdf06ed095343527",
+      "timestamp": 1759765133698
     }
   ],
   "technoserve": [
@@ -16562,13 +16562,8 @@
   "spectrum books limited": [
     {
       "site": "JobGurus",
-      "id": "a351b903a7d568cca2bed76f7ac16cd8",
-      "timestamp": 1759152364747
-    },
-    {
-      "site": "JobGurus",
-      "id": "61083079496f3abf45eece2953d4349c",
-      "timestamp": 1759153518874
+      "id": "05d81cd55e2ae667a1241d271e6dca74",
+      "timestamp": 1759765133698
     }
   ],
   "najec limited": [
@@ -17495,6 +17490,13 @@
       "site": "JobGurus",
       "id": "0c4f1a73ba5fbb5ce845f23b785c0e99",
       "timestamp": 1759763715930
+    }
+  ],
+  "drugstoc": [
+    {
+      "site": "JobGurus",
+      "id": "5844cb863b98bec74314de10187f6ccd",
+      "timestamp": 1759765133698
     }
   ]
 }
