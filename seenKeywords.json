@@ -2822,13 +2822,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "24476a974b6e6ffdcebedf87943f56df",
-      "timestamp": 1758728381510
-    },
-    {
-      "site": "JobGurus",
-      "id": "7ef6a51ffa2ff9ad6c87e4d44e40dc1e",
-      "timestamp": 1758807875588
+      "id": "1990689485a0343a2931e82a54caa11a",
+      "timestamp": 1759753913511
     }
   ],
   "netcom africa": [
@@ -15537,13 +15532,8 @@
   "invent alliance limited": [
     {
       "site": "JobGurus",
-      "id": "f9e0bbf56794fbbea3cc4e41cd2fd279",
-      "timestamp": 1758193931948
-    },
-    {
-      "site": "JobGurus",
-      "id": "9755aae9d28f67cc9d92e202ee1a713d",
-      "timestamp": 1758195344775
+      "id": "18f9b30311f76cdf6e0293e8e81b22eb",
+      "timestamp": 1759753913511
     }
   ],
   "prestigious consulting group": [
@@ -17444,6 +17434,27 @@
       "site": "JobGurus",
       "id": "43f2ba031e3814da5292bb6e9c731de0",
       "timestamp": 1759749153369
+    }
+  ],
+  "wazobia cosmetics": [
+    {
+      "site": "JobGurus",
+      "id": "d8aa6e6ac32c70eeb2500ca2999a96b5",
+      "timestamp": 1759753913511
+    }
+  ],
+  "shogxypro outsourcing": [
+    {
+      "site": "JobGurus",
+      "id": "21d5f05dda548b2c23ed087bb0f3142b",
+      "timestamp": 1759753913511
+    }
+  ],
+  "ericsson": [
+    {
+      "site": "JobGurus",
+      "id": "a65d1f2c0e9ddbf3497a33c4464b2726",
+      "timestamp": 1759753913511
     }
   ]
 }
