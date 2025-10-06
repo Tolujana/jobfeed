@@ -2605,8 +2605,8 @@
   "african foundries limited": [
     {
       "site": "JobGurus",
-      "id": "4ad187c3b44fed5818fe837a676d33a7",
-      "timestamp": 1749726799430
+      "id": "759c10b0a6e78f2705e335d7f0175155",
+      "timestamp": 1759758253762
     }
   ],
   "ruhe global resources": [
@@ -14376,13 +14376,8 @@
   "periwinkle residences limited": [
     {
       "site": "JobGurus",
-      "id": "dd0deafdac8f897eea8ddb136138c701",
-      "timestamp": 1757147958013
-    },
-    {
-      "site": "JobGurus",
-      "id": "9b28acc2cd94944e90e6e4b0f199a5d6",
-      "timestamp": 1757147958013
+      "id": "bc61c2de0c7097ae941e08880954edac",
+      "timestamp": 1759758253762
     }
   ],
   "sidel": [
@@ -17305,6 +17300,11 @@
       "site": "JobGurus",
       "id": "ee55109830b29723348e3c5df45b7e91",
       "timestamp": 1759494617794
+    },
+    {
+      "site": "JobGurus",
+      "id": "bfccebdfbf83fc4f55e3abe196953dda",
+      "timestamp": 1759758253762
     }
   ],
   "colasolar": [
@@ -17455,6 +17455,20 @@
       "site": "JobGurus",
       "id": "a65d1f2c0e9ddbf3497a33c4464b2726",
       "timestamp": 1759753913511
+    }
+  ],
+  "fine brothers limited": [
+    {
+      "site": "JobGurus",
+      "id": "557a9fa120be8ca45e87f733bbf95709",
+      "timestamp": 1759758253762
+    }
+  ],
+  "addandview": [
+    {
+      "site": "JobGurus",
+      "id": "e7e316f70065f8729ae98378fb490df7",
+      "timestamp": 1759758253762
     }
   ]
 }
