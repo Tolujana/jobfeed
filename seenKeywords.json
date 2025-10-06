@@ -773,18 +773,8 @@
   "chelis bookazine limited": [
     {
       "site": "JobGurus",
-      "id": "2dc42e14fa6a58bcdc3a8a7815507ecf",
-      "timestamp": 1757761833255
-    },
-    {
-      "site": "JobGurus",
-      "id": "a5b6c4e443dc1092bd8875983b1d5b1c",
-      "timestamp": 1757761833255
-    },
-    {
-      "site": "JobGurus",
-      "id": "7b485a370234a8c577597a5a2a9cdc76",
-      "timestamp": 1757761833255
+      "id": "ff18698bea15b4d105bdcd9250bde9f9",
+      "timestamp": 1759760098547
     }
   ],
   "interrand group": [
@@ -6290,8 +6280,8 @@
   "msi nigeria reproductive choices": [
     {
       "site": "JobGurus",
-      "id": "bd68a1f515c13d6bafe8bb189ce8b19f",
-      "timestamp": 1758807875588
+      "id": "06ef65a233f5864fafe4801df6e5b1bc",
+      "timestamp": 1759760098547
     }
   ],
   "kizzytelsconcept": [
@@ -14241,13 +14231,8 @@
   "elevated hr limited": [
     {
       "site": "JobGurus",
-      "id": "8e2c0584eee44d2ab29cfb5b86890580",
-      "timestamp": 1757072166946
-    },
-    {
-      "site": "JobGurus",
-      "id": "e4d83215083fca311c83a895a5c252b6",
-      "timestamp": 1757167899931
+      "id": "88b720db14a8d21dba263a4bea726e99",
+      "timestamp": 1759760098547
     }
   ],
   "borno women development initiative (bowdi)": [
@@ -15817,8 +15802,8 @@
   "tastee fried chicken": [
     {
       "site": "JobGurus",
-      "id": "c71afe245aeb1575fe5e1eb470e391b1",
-      "timestamp": 1758300165771
+      "id": "809eaf0ad2b1ff91b0f318c0f9d6d203",
+      "timestamp": 1759760098547
     }
   ],
   "transparency scape insurance brokers": [
@@ -17469,6 +17454,13 @@
       "site": "JobGurus",
       "id": "e7e316f70065f8729ae98378fb490df7",
       "timestamp": 1759758253762
+    }
+  ],
+  "dang lifestyle": [
+    {
+      "site": "JobGurus",
+      "id": "f08696027accb4a344faad929192bd36",
+      "timestamp": 1759760098547
     }
   ]
 }
