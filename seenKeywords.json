@@ -6679,8 +6679,13 @@
   "jibs-ray nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "4616d2251f1b1205aea1dba29782777c",
-      "timestamp": 1751647596162
+      "id": "0fd7466ac0ba388107bac6aba25e2acf",
+      "timestamp": 1759761683483
+    },
+    {
+      "site": "JobGurus",
+      "id": "a60180ef0eebfbacb13e6822bf78ac11",
+      "timestamp": 1759761683483
     }
   ],
   "vector cube outsourcing limited": [
@@ -17461,6 +17466,23 @@
       "site": "JobGurus",
       "id": "f08696027accb4a344faad929192bd36",
       "timestamp": 1759760098547
+    }
+  ],
+  "jobmagnet nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "93aac3f5e4aac60a3ad10f5508f41a1c",
+      "timestamp": 1759761683483
+    },
+    {
+      "site": "JobGurus",
+      "id": "003738d1a26e8cf7d8d7f6d115137a16",
+      "timestamp": 1759761683483
+    },
+    {
+      "site": "JobGurus",
+      "id": "8ace37f9a3a2a5992d82312792a1e708",
+      "timestamp": 1759761683483
     }
   ]
 }
