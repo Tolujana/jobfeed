@@ -145,11 +145,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "647d188e1ce53672336d5c08b06ff0cf",
-      "timestamp": 1759166028085
-    },
-    {
-      "site": "JobGurus",
       "id": "3595d40c164bdec774575ae21aa71026",
       "timestamp": 1759326335194
     },
@@ -162,6 +157,11 @@
       "site": "JobGurus",
       "id": "4535b7829b195ad88165b55486aad143",
       "timestamp": 1759328112836
+    },
+    {
+      "site": "JobGurus",
+      "id": "2b29cc558e91d2e2929a771f1e3bddf9",
+      "timestamp": 1759843563315
     }
   ],
   "cway group": [
@@ -2500,13 +2500,8 @@
   "dreamcity property & investment limited": [
     {
       "site": "JobGurus",
-      "id": "1680d1fad45d2a6893508a9917bc73bc",
-      "timestamp": 1758730780224
-    },
-    {
-      "site": "JobGurus",
-      "id": "0d79770a0b6287dedfe7c43fe7af4c5f",
-      "timestamp": 1759166028085
+      "id": "89048185f9cab19e83c5acd43e49e65a",
+      "timestamp": 1759843563315
     }
   ],
   "sifax group": [
@@ -17579,6 +17574,27 @@
       "site": "JobGurus",
       "id": "1e3611f995d08ea5bee9032d3082153a",
       "timestamp": 1759836947321
+    }
+  ],
+  "integrated health care limited": [
+    {
+      "site": "JobGurus",
+      "id": "207d7b5865b3f7d50c033bc0e79fb84c",
+      "timestamp": 1759843563315
+    }
+  ],
+  "acute angle media limited": [
+    {
+      "site": "JobGurus",
+      "id": "5310f6024f4c88a63ae53a03182e6094",
+      "timestamp": 1759843563315
+    }
+  ],
+  "magikworld": [
+    {
+      "site": "JobGurus",
+      "id": "7c6fb0a207e7bfd59a7044058e20d3c3",
+      "timestamp": 1759843563315
     }
   ]
 }
