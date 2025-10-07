@@ -138,8 +138,8 @@
   "residency hotel limited": [
     {
       "site": "JobGurus",
-      "id": "455d4e8ff3e0477a5b83e13e7020e9d4",
-      "timestamp": 1752070528629
+      "id": "1a10d82376f47f603f246cf3e5014603",
+      "timestamp": 1759844684930
     }
   ],
   "dangote group": [
@@ -5875,6 +5875,11 @@
       "site": "JobGurus",
       "id": "f5a9d4c1c400e042493a115f32b831dc",
       "timestamp": 1759426552850
+    },
+    {
+      "site": "JobGurus",
+      "id": "ab37334d651a9b1dacfff238f0314387",
+      "timestamp": 1759844684930
     }
   ],
   "lotus capital limited": [
@@ -17595,6 +17600,27 @@
       "site": "JobGurus",
       "id": "7c6fb0a207e7bfd59a7044058e20d3c3",
       "timestamp": 1759843563315
+    }
+  ],
+  "apm terminals": [
+    {
+      "site": "JobGurus",
+      "id": "a4d66587807ef179c0c15f6720e0ab34",
+      "timestamp": 1759844684930
+    }
+  ],
+  "wildreams agency": [
+    {
+      "site": "JobGurus",
+      "id": "3317c10a69d43e1bc44df7bdb0f6d20a",
+      "timestamp": 1759844684930
+    }
+  ],
+  "deepwater consultancy & engineering services limited": [
+    {
+      "site": "JobGurus",
+      "id": "8253b037c5764ed9d91ccf6523341f01",
+      "timestamp": 1759844684930
     }
   ]
 }
