@@ -913,6 +913,16 @@
       "site": "JobGurus",
       "id": "d3657f43afaa156f4d3da5a61ced4817",
       "timestamp": 1759253891210
+    },
+    {
+      "site": "JobGurus",
+      "id": "06782eed6cdf4d786d7f5ece01a845c8",
+      "timestamp": 1759832151997
+    },
+    {
+      "site": "JobGurus",
+      "id": "0483d1af7c9a7b952ffd1df6255660d3",
+      "timestamp": 1759832151997
     }
   ],
   "mephalti technologies limited": [
@@ -3573,8 +3583,8 @@
   "talentsquare": [
     {
       "site": "JobGurus",
-      "id": "75af6e414cd87054366f7281406f3b91",
-      "timestamp": 1752150838348
+      "id": "5a336da2c0e50f6474e3ce324810f69a",
+      "timestamp": 1759832151997
     }
   ],
   "swift consulting": [
@@ -8253,13 +8263,8 @@
   "coinbox limited": [
     {
       "site": "JobGurus",
-      "id": "9f2c31937a1bba83cc8404849707228b",
-      "timestamp": 1758644323506
-    },
-    {
-      "site": "JobGurus",
-      "id": "735fa35a78f6ffc159c152a4c062455f",
-      "timestamp": 1758809711072
+      "id": "ac03bb001b4326f95231750603cf67c2",
+      "timestamp": 1759832151997
     }
   ],
   "infratel africa": [
@@ -17536,6 +17541,13 @@
       "site": "JobGurus",
       "id": "966954f20bb93b85555bbfc52da2831f",
       "timestamp": 1759829932859
+    }
+  ],
+  "sproxil": [
+    {
+      "site": "JobGurus",
+      "id": "7f51fc1dce73648f3e351e1456c7ee0e",
+      "timestamp": 1759832151997
     }
   ]
 }
