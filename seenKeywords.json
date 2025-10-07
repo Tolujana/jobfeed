@@ -9063,8 +9063,8 @@
   "bukka hut restaurant": [
     {
       "site": "JobGurus",
-      "id": "c45312f0f22db31efbf21f5ec8394c76",
-      "timestamp": 1758889877000
+      "id": "7887f95f8f4a1cf7baef22216036ceab",
+      "timestamp": 1759835560404
     }
   ],
   "seflam sgl limited": [
@@ -17565,6 +17565,13 @@
       "site": "JobGurus",
       "id": "e7f5006bf543cdc3d450213d0b46482d",
       "timestamp": 1759833664061
+    }
+  ],
+  "lynn naturals": [
+    {
+      "site": "JobGurus",
+      "id": "f5a86157337a5cf57fc21035101c5bc2",
+      "timestamp": 1759835560404
     }
   ]
 }
