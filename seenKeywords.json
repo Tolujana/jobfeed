@@ -385,8 +385,8 @@
   "mshel homes limited": [
     {
       "site": "JobGurus",
-      "id": "fa00fbe10b505dfeffb32e4c293f2d3c",
-      "timestamp": 1758724799402
+      "id": "82a190a485be4889e92bc1b14e6495e7",
+      "timestamp": 1759829932859
     }
   ],
   "dana group": [
@@ -2635,13 +2635,8 @@
   "globalclique resources": [
     {
       "site": "JobGurus",
-      "id": "bdf0865038a1d4ffc8f20aa142e2ea40",
-      "timestamp": 1757950716491
-    },
-    {
-      "site": "JobGurus",
-      "id": "baa59731f53ccc3bd62b22d364c6d373",
-      "timestamp": 1758289347929
+      "id": "756974b4d60caf479f37f7d7eef0c4ac",
+      "timestamp": 1759829932859
     }
   ],
   "prime pharmacy": [
@@ -17527,6 +17522,20 @@
       "site": "JobGurus",
       "id": "29e6b84b22a7e180326f32ca3adfeb01",
       "timestamp": 1759772243867
+    }
+  ],
+  "mainland resource and security": [
+    {
+      "site": "JobGurus",
+      "id": "51d529c6a9783260a03b1adf2a4a8d90",
+      "timestamp": 1759829932859
+    }
+  ],
+  "architrave": [
+    {
+      "site": "JobGurus",
+      "id": "966954f20bb93b85555bbfc52da2831f",
+      "timestamp": 1759829932859
     }
   ]
 }
