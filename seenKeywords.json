@@ -5865,6 +5865,11 @@
       "site": "JobGurus",
       "id": "ab37334d651a9b1dacfff238f0314387",
       "timestamp": 1759844684930
+    },
+    {
+      "site": "JobGurus",
+      "id": "950b900d87d41ffedec9c90cb47f4300",
+      "timestamp": 1759851615483
     }
   ],
   "lotus capital limited": [
@@ -17625,6 +17630,21 @@
       "site": "JobGurus",
       "id": "adb027c00663fe0d353d4a2f4fdb226b",
       "timestamp": 1759850193147
+    },
+    {
+      "site": "JobGurus",
+      "id": "5ace74c2d606234cc009b69ee2aa88d4",
+      "timestamp": 1759851615483
+    },
+    {
+      "site": "JobGurus",
+      "id": "02e0940096799e218137845870836ecd",
+      "timestamp": 1759851615483
+    },
+    {
+      "site": "JobGurus",
+      "id": "3dad2883dacb16b37b857f5c62613639",
+      "timestamp": 1759851615483
     }
   ],
   "first cardiology consultants (fcc)": [
@@ -17665,6 +17685,13 @@
       "site": "JobGurus",
       "id": "2a66835c4f6d2304c22023ddaa57f708",
       "timestamp": 1759850193147
+    }
+  ],
+  "cash 24 group of companies": [
+    {
+      "site": "JobGurus",
+      "id": "f795766919575c5f351d8ec01f884a5f",
+      "timestamp": 1759851615483
     }
   ]
 }
