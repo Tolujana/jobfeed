@@ -690,8 +690,8 @@
   "estrada international staffing solutions": [
     {
       "site": "JobGurus",
-      "id": "1036d80c4f0f6a44e4486858e2e2debe",
-      "timestamp": 1754306140665
+      "id": "cd35d1f30f80d26db7469c87c56c1766",
+      "timestamp": 1759947750596
     }
   ],
   "startup soar": [
@@ -2905,6 +2905,11 @@
       "site": "JobGurus",
       "id": "acc1e7d35ddec1d50831c45574d17a00",
       "timestamp": 1759765133698
+    },
+    {
+      "site": "JobGurus",
+      "id": "6d67c33404313d2224648a7b9e879d56",
+      "timestamp": 1759947750596
     }
   ],
   "oisedotcom limited": [
@@ -7544,8 +7549,8 @@
   "oj wale pillar metal “n” tech limited": [
     {
       "site": "JobGurus",
-      "id": "e0543ed48cd39ede1b98e2c5633ed1dc",
-      "timestamp": 1757531504306
+      "id": "5de7fea157171f49cf365fefa119112d",
+      "timestamp": 1759947750596
     }
   ],
   "nautilus nigeria engineering and construction limited": [
@@ -17816,6 +17821,20 @@
       "site": "JobGurus",
       "id": "60ea84c322ab4efdf1a956164999656e",
       "timestamp": 1759940337368
+    }
+  ],
+  "tuteria limited": [
+    {
+      "site": "JobGurus",
+      "id": "930b3c40736d56e2be2c3ef231ecc320",
+      "timestamp": 1759947750596
+    }
+  ],
+  "fitness plus gym": [
+    {
+      "site": "JobGurus",
+      "id": "c0f83318951122b1dad70d9dabaff001",
+      "timestamp": 1759947750596
     }
   ]
 }
