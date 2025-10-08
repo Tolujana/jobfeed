@@ -1902,8 +1902,8 @@
   "express resource connect": [
     {
       "site": "JobGurus",
-      "id": "55f93885f18da63f1cdbcf4349044f6a",
-      "timestamp": 1752745505290
+      "id": "62b5944dc00f75f051346e1e086fa07a",
+      "timestamp": 1759936570428
     }
   ],
   "uptitek limited": [
@@ -15514,8 +15514,8 @@
   "prestigious consulting group": [
     {
       "site": "JobGurus",
-      "id": "46f75ae4d161f6a43baee7d193568c6c",
-      "timestamp": 1758198603117
+      "id": "05fdd5d3102c9916007b3a6ba0454639",
+      "timestamp": 1759936570428
     }
   ],
   "nepal energies limited": [
@@ -17748,6 +17748,23 @@
       "site": "JobGurus",
       "id": "68607615ee1009c858ea232415a920bd",
       "timestamp": 1759932932575
+    }
+  ],
+  "azikel group": [
+    {
+      "site": "JobGurus",
+      "id": "a8ab88e5da3c7350d35e137bded9a389",
+      "timestamp": 1759936570428
+    },
+    {
+      "site": "JobGurus",
+      "id": "4031c16db49b14ef40ce831796fb1a5d",
+      "timestamp": 1759936570428
+    },
+    {
+      "site": "JobGurus",
+      "id": "eaa0e8a638bbae15b55582675c4ce33f",
+      "timestamp": 1759936570428
     }
   ]
 }
