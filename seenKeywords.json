@@ -2248,13 +2248,8 @@
   "helean global limited": [
     {
       "site": "JobGurus",
-      "id": "b23873256810d79d603f5d66a48e874e",
-      "timestamp": 1758971432233
-    },
-    {
-      "site": "JobGurus",
-      "id": "a34325c106f59e91b328d05b7f0d63e1",
-      "timestamp": 1758972936695
+      "id": "f38e1f89d343f3b1439a2150e3b980b7",
+      "timestamp": 1759926727928
     }
   ],
   "maisha meds": [
@@ -6796,8 +6791,8 @@
   "infinion technologies": [
     {
       "site": "JobGurus",
-      "id": "1efd74b20dbc2d80bd9072bf67bca723",
-      "timestamp": 1757953116810
+      "id": "2c916dbd7452984e90f706cb3cce5044",
+      "timestamp": 1759926727928
     }
   ],
   "scruples resources limited": [
@@ -16347,8 +16342,8 @@
   "interrand homes & properties limited": [
     {
       "site": "JobGurus",
-      "id": "646fc5f5bf22388d3aca5456c4180a0a",
-      "timestamp": 1758828951471
+      "id": "036854015202d83c9921e50d129ba6b4",
+      "timestamp": 1759926727928
     }
   ],
   "naira567": [
@@ -17718,6 +17713,20 @@
       "site": "JobGurus",
       "id": "211b21e98b13379298317a0d695535d7",
       "timestamp": 1759923361326
+    }
+  ],
+  "transnet cloud": [
+    {
+      "site": "JobGurus",
+      "id": "95c06a723dee06405c59d5085c685600",
+      "timestamp": 1759926727928
+    }
+  ],
+  "softnation homes limited": [
+    {
+      "site": "JobGurus",
+      "id": "f6928d55a8ed55323578513855221f11",
+      "timestamp": 1759926727928
     }
   ]
 }
