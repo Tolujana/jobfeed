@@ -2239,8 +2239,8 @@
   "speedaf express": [
     {
       "site": "JobGurus",
-      "id": "6c0836fca5e7220c464c3b08efaae593",
-      "timestamp": 1756923632773
+      "id": "b149b6371d8150a63f9669e233fb60f5",
+      "timestamp": 1760026788649
     }
   ],
   "ujt logistics services limited": [
@@ -6735,8 +6735,8 @@
   "agurate online limited": [
     {
       "site": "JobGurus",
-      "id": "29b03e9c7cb689da850d7866feb1b5df",
-      "timestamp": 1756545216836
+      "id": "e5834309bbb885e2542011a58aa9110e",
+      "timestamp": 1760026788649
     }
   ],
   "bakery solutions limited": [
@@ -8083,8 +8083,8 @@
   "interswstik nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "ad76061157a226b650ef70c788fcd5f6",
-      "timestamp": 1757358748054
+      "id": "68d2b522fbe01e2f2e3f1c2c796dd5eb",
+      "timestamp": 1760026788649
     }
   ],
   "health and development support programme": [
@@ -17832,6 +17832,20 @@
       "site": "JobGurus",
       "id": "6676fbf117ef0a0a0172e0bd1f4b64e0",
       "timestamp": 1759949293404
+    }
+  ],
+  "hope found global initiative": [
+    {
+      "site": "JobGurus",
+      "id": "581e9685d3b0d896475d653c0a35fb7e",
+      "timestamp": 1760026788649
+    }
+  ],
+  "african pits & quarries limited": [
+    {
+      "site": "JobGurus",
+      "id": "ed9233cf236078b9436cbffcdfc2a7c1",
+      "timestamp": 1760026788649
     }
   ]
 }
