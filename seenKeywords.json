@@ -11578,8 +11578,8 @@
   "sambus geospatial": [
     {
       "site": "JobGurus",
-      "id": "6d088d68cd6108ccc0a62b7822742bbe",
-      "timestamp": 1754995514674
+      "id": "5fee2f6750504872b9cdc4efa343e4fd",
+      "timestamp": 1760030007943
     }
   ],
   "keystone bank": [
@@ -11829,8 +11829,8 @@
   "justhr": [
     {
       "site": "JobGurus",
-      "id": "c2954531dbf6b562c640aeb738b1c837",
-      "timestamp": 1755109314978
+      "id": "21d15a336237fd96b9ae0425aadacb70",
+      "timestamp": 1760030007943
     }
   ],
   "zumera property development limited": [
@@ -16642,8 +16642,8 @@
   "hr-ex consulting": [
     {
       "site": "JobGurus",
-      "id": "6cbe65fb649888fd008b582e59a02ae2",
-      "timestamp": 1759162529869
+      "id": "a24b64eccb24cd3636837e94edc0f903",
+      "timestamp": 1760030007943
     }
   ],
   "defcon alliance": [
@@ -17872,6 +17872,20 @@
       "site": "JobGurus",
       "id": "a4bf2bea6df157cde283ff2e2c0c7650",
       "timestamp": 1760028390787
+    }
+  ],
+  "palace workers solutions": [
+    {
+      "site": "JobGurus",
+      "id": "ba1bd657efb3061d411c7c20bcf7679e",
+      "timestamp": 1760030007943
+    }
+  ],
+  "lead enterprise support company limited": [
+    {
+      "site": "JobGurus",
+      "id": "101fbf9dc1b6b5f61a490f1858aa077e",
+      "timestamp": 1760030007943
     }
   ]
 }
