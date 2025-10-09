@@ -3130,8 +3130,13 @@
   "stretch-it concepts limited": [
     {
       "site": "JobGurus",
-      "id": "e022504e8500903ffaaf1b56d4f8cf10",
-      "timestamp": 1750067006198
+      "id": "534c52e5da084180edbf6bd9f2051334",
+      "timestamp": 1760034089635
+    },
+    {
+      "site": "JobGurus",
+      "id": "dfa1a9dd837d5e24e6c3e5ed7d5db833",
+      "timestamp": 1760034089635
     }
   ],
   "pz cussons": [
@@ -10420,8 +10425,8 @@
   "ernst & young (ey)": [
     {
       "site": "JobGurus",
-      "id": "eade05b78037413653a32eeebd501279",
-      "timestamp": 1753962000564
+      "id": "2530231523ca3ebe8b3232465e3171e6",
+      "timestamp": 1760034089635
     }
   ],
   "dreams placement hub": [
@@ -13784,8 +13789,8 @@
   "biz afric solutions": [
     {
       "site": "JobGurus",
-      "id": "f69c2f60312209065f0011c43c987f54",
-      "timestamp": 1759325165935
+      "id": "8b0e005949919e77f7ed4a3006fc957d",
+      "timestamp": 1760034089635
     }
   ],
   "teamace": [
@@ -17907,6 +17912,13 @@
       "site": "JobGurus",
       "id": "d6eb18e11f12f19ccd26cbebacc4dc92",
       "timestamp": 1760031532549
+    }
+  ],
+  "ardova plc": [
+    {
+      "site": "JobGurus",
+      "id": "de7d97e4cf1f01a14b08e5531c8b7982",
+      "timestamp": 1760034089635
     }
   ]
 }
