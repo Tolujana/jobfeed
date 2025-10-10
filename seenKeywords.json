@@ -309,8 +309,8 @@
   "jamub group": [
     {
       "site": "JobGurus",
-      "id": "f04476f2e3c0b28baffb9256fbe19471",
-      "timestamp": 1757436303720
+      "id": "90390a1cedcfba72aa30712048794483",
+      "timestamp": 1760109308918
     }
   ],
   "ziba consulting": [
@@ -710,8 +710,8 @@
   "equinix": [
     {
       "site": "JobGurus",
-      "id": "00d8be39ebb81c0bd6dad3f8307f07df",
-      "timestamp": 1758019250125
+      "id": "38a030c37625845bd1e20604756f6aef",
+      "timestamp": 1760109308918
     }
   ],
   "premier hub innovation center": [
@@ -2522,8 +2522,8 @@
   "oilserv limited": [
     {
       "site": "JobGurus",
-      "id": "1cbb794da72169adf7df3a72edf4113d",
-      "timestamp": 1757532934271
+      "id": "3510033ff2f98beb50964836b852b77c",
+      "timestamp": 1760109308918
     }
   ],
   "greenfield consulting": [
@@ -9389,8 +9389,8 @@
   "pc place nigeria": [
     {
       "site": "JobGurus",
-      "id": "3e14570eb682f0828ec5e5fa988be3ad",
-      "timestamp": 1759158949189
+      "id": "4e16e8f05de2443c33621f292d2a51ab",
+      "timestamp": 1760109308918
     }
   ],
   "source microfinance bank": [
@@ -18015,6 +18015,13 @@
       "site": "JobGurus",
       "id": "a33750ba37b430c73aacd16fd7f2d887",
       "timestamp": 1760107265508
+    }
+  ],
+  " avocado virtual solutions": [
+    {
+      "site": "JobGurus",
+      "id": "221ba0c328ba32ce5d61832151d6dfb4",
+      "timestamp": 1760109308918
     }
   ]
 }
