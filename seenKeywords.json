@@ -525,31 +525,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "8c09bcdc956b376ad67d986d74bf401a",
-      "timestamp": 1759235544364
-    },
-    {
-      "site": "JobGurus",
-      "id": "e9b402d3d4353104be2f82a4ddcab56e",
-      "timestamp": 1759235544364
-    },
-    {
-      "site": "JobGurus",
-      "id": "7df4de79a372540aaefa458073a171ff",
-      "timestamp": 1759245220606
-    },
-    {
-      "site": "JobGurus",
-      "id": "0f38cf00a4e17c98626b784844781381",
-      "timestamp": 1759486524203
-    },
-    {
-      "site": "JobGurus",
-      "id": "2d139fda5f9a96dffe8ea2748cb4a807",
-      "timestamp": 1759489934989
-    },
-    {
-      "site": "JobGurus",
       "id": "9106bf9ea83ef7a6304ef49df861c1f7",
       "timestamp": 1759590762199
     },
@@ -562,6 +537,11 @@
       "site": "JobGurus",
       "id": "bdae02f717822b17b575b5abede7ca7a",
       "timestamp": 1759833664061
+    },
+    {
+      "site": "JobGurus",
+      "id": "5b0a480ae8a5dd01251faeb87566708a",
+      "timestamp": 1760102697668
     }
   ],
   "abbfem group": [
@@ -1437,6 +1417,11 @@
       "site": "JobGurus",
       "id": "b1ba4413e6ecc0eee46d50d9572b18fa",
       "timestamp": 1759595986593
+    },
+    {
+      "site": "JobGurus",
+      "id": "38ab566a5e4353ab329228b7bee35577",
+      "timestamp": 1760102697668
     }
   ],
   "shomas supply & logistics limited": [
@@ -3964,8 +3949,8 @@
   "hr-aid consults": [
     {
       "site": "JobGurus",
-      "id": "31a5b763f5573b27d7b774f7f8ae67f5",
-      "timestamp": 1759403506767
+      "id": "9146d93bc2f0c0130729c58c4bc11bfd",
+      "timestamp": 1760102697668
     }
   ],
   "nigeria society of engineers (nse)": [
