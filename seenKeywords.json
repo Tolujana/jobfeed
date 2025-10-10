@@ -8420,8 +8420,8 @@
   "stella maris high school": [
     {
       "site": "JobGurus",
-      "id": "71d72a2fd0a22bf69707783cdcab0a80",
-      "timestamp": 1756487574989
+      "id": "2340fe91b7720e7c5d24054b87a11338",
+      "timestamp": 1760103756040
     }
   ],
   "havana group": [
@@ -10535,8 +10535,8 @@
   "bourbon interoil nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "2dd8bfb96c2de7033a61afaf52741513",
-      "timestamp": 1757607496122
+      "id": "14ab09b828e421bfca4795b1f9900036",
+      "timestamp": 1760103756040
     }
   ],
   "multipro consumer products limited": [
@@ -17985,6 +17985,27 @@
       "site": "JobGurus",
       "id": "d2b925cb1ce15402f48eb3ca410b2613",
       "timestamp": 1760099475999
+    }
+  ],
+  "human-aware real-time solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "67dad08737eb6dabaffdb405358e8852",
+      "timestamp": 1760103756040
+    }
+  ],
+  "abraham and sarah beverages nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "591b53bdcda14d89bbc70cf3b74f0988",
+      "timestamp": 1760103756040
+    }
+  ],
+  " wells carlton hotel & apartments": [
+    {
+      "site": "JobGurus",
+      "id": "6e85f846db0f0c61768ffaf1ab25b728",
+      "timestamp": 1760103756040
     }
   ]
 }
