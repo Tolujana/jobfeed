@@ -11607,8 +11607,13 @@
   "reckitt benckiser": [
     {
       "site": "JobGurus",
-      "id": "874e25bdc4b32c5a37e1bab7b87eda92",
-      "timestamp": 1755005469713
+      "id": "319810a010cd685d0c119657848d1c71",
+      "timestamp": 1760099475999
+    },
+    {
+      "site": "JobGurus",
+      "id": "4bb8ef1e0927d09dad48b535d70010c0",
+      "timestamp": 1760099475999
     }
   ],
   "ralds & agate": [
@@ -14162,8 +14167,8 @@
   "digital virgo group": [
     {
       "site": "JobGurus",
-      "id": "b37856049cd62be5df1141f8873ef7a5",
-      "timestamp": 1758134758466
+      "id": "798d0a3013b76cdc547b76f331d347e9",
+      "timestamp": 1760099475999
     }
   ],
   "bons industries limited": [
@@ -17988,6 +17993,13 @@
       "site": "JobGurus",
       "id": "dabfd7084e04ececc7c9ddda75effa97",
       "timestamp": 1760096138255
+    }
+  ],
+  "contec global group": [
+    {
+      "site": "JobGurus",
+      "id": "d2b925cb1ce15402f48eb3ca410b2613",
+      "timestamp": 1760099475999
     }
   ]
 }
