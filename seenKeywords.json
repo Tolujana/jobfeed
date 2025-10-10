@@ -22,8 +22,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "184249c960407d1400197927b7e67492",
-      "timestamp": 1759318559177
+      "id": "cc358e63be110898130a4977d51b91a8",
+      "timestamp": 1760107265508
     }
   ],
   "amecron nigeria limited": [
@@ -7159,18 +7159,8 @@
   "prestigious consulting": [
     {
       "site": "JobGurus",
-      "id": "5113ed6e28605bda6f8d3dc701b44e1b",
-      "timestamp": 1758568299536
-    },
-    {
-      "site": "JobGurus",
-      "id": "cb197f47c9f73da03af409533f2f7a9f",
-      "timestamp": 1758617049102
-    },
-    {
-      "site": "JobGurus",
-      "id": "080b5508c4de8557331fc0aa864a7534",
-      "timestamp": 1758803537585
+      "id": "b64afa6c0f1a357f59d6d1984d0dca60",
+      "timestamp": 1760107265508
     }
   ],
   "quicky chillis": [
@@ -9696,8 +9686,8 @@
   "hrleverage africa consulting limited": [
     {
       "site": "JobGurus",
-      "id": "331116757852c4b92571a03ff68d79bf",
-      "timestamp": 1753536407515
+      "id": "95ea6a07d47011977a3fd5a94eeb5378",
+      "timestamp": 1760107265508
     }
   ],
   "nairametrics financial advocates limited": [
@@ -11247,8 +11237,8 @@
   "domeo resources international (dri)": [
     {
       "site": "JobGurus",
-      "id": "a5bb8b9a9f5a4374605aa756bd1ba1b5",
-      "timestamp": 1758204923491
+      "id": "ab4e52869e3780134d36d7b1a2d64d40",
+      "timestamp": 1760107265508
     }
   ],
   "pulse nigeria": [
@@ -18018,6 +18008,13 @@
       "site": "JobGurus",
       "id": "7954c1eb4c3e8e02b8dc516de30dcf79",
       "timestamp": 1760105695718
+    }
+  ],
+  "unicaf": [
+    {
+      "site": "JobGurus",
+      "id": "a33750ba37b430c73aacd16fd7f2d887",
+      "timestamp": 1760107265508
     }
   ]
 }
