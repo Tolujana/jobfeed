@@ -387,6 +387,11 @@
       "site": "JobGurus",
       "id": "82a190a485be4889e92bc1b14e6495e7",
       "timestamp": 1759829932859
+    },
+    {
+      "site": "JobGurus",
+      "id": "08cef96dcff480fbb05c4a446119d8df",
+      "timestamp": 1760105695718
     }
   ],
   "dana group": [
@@ -2484,8 +2489,8 @@
   "hilton worldwide": [
     {
       "site": "JobGurus",
-      "id": "e2de89af7e9286d15d86cfaa96f26061",
-      "timestamp": 1758720301768
+      "id": "59d8649c489941e5b5d03cf16746a7a0",
+      "timestamp": 1760105695718
     }
   ],
   "bss consulting limited": [
@@ -15815,8 +15820,8 @@
   "talent pool resources international limited": [
     {
       "site": "JobGurus",
-      "id": "deb07f17afc5c4b0c1bd94c505e7d1d2",
-      "timestamp": 1758373160147
+      "id": "60531de3e29593de62b9cb76a0469413",
+      "timestamp": 1760105695718
     }
   ],
   "crown aegis": [
@@ -18006,6 +18011,13 @@
       "site": "JobGurus",
       "id": "6e85f846db0f0c61768ffaf1ab25b728",
       "timestamp": 1760103756040
+    }
+  ],
+  "palladium group": [
+    {
+      "site": "JobGurus",
+      "id": "7954c1eb4c3e8e02b8dc516de30dcf79",
+      "timestamp": 1760105695718
     }
   ]
 }
