@@ -13033,8 +13033,8 @@
   "karis concept": [
     {
       "site": "JobGurus",
-      "id": "58a2a590c3e9d1508b3aabb2db936827",
-      "timestamp": 1756147722163
+      "id": "10863cf3d92100f1db44c801aab37206",
+      "timestamp": 1760179060110
     }
   ],
   "glybridge schools": [
@@ -18077,6 +18077,23 @@
       "site": "JobGurus",
       "id": "8cdb0ea2708ea62a5ec4f8b97e081cbf",
       "timestamp": 1760177645817
+    },
+    {
+      "site": "JobGurus",
+      "id": "dfd1aa1ee8bff1f88d43230d045555d2",
+      "timestamp": 1760179060110
+    }
+  ],
+  "clearpay microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "8bd2c18735addb0395a0c48ad4c514fa",
+      "timestamp": 1760179060110
+    },
+    {
+      "site": "JobGurus",
+      "id": "cc33522b0aa79b3f8feb24482e936043",
+      "timestamp": 1760179060110
     }
   ]
 }
