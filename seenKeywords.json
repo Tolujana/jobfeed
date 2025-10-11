@@ -2919,8 +2919,8 @@
   "afripoint group limited": [
     {
       "site": "JobGurus",
-      "id": "5f93b70aa3acb0aa996204a8063b113e",
-      "timestamp": 1758296276149
+      "id": "204b04a0891110306429fd2ecc7a2715",
+      "timestamp": 1760182545334
     }
   ],
   "the plug entertainment limited": [
@@ -5186,8 +5186,8 @@
   "htsf global limited": [
     {
       "site": "JobGurus",
-      "id": "ed151c492c98c57fa81bbff8067e6771",
-      "timestamp": 1750851506314
+      "id": "6b055a0fb7498a4e517b94597a68018c",
+      "timestamp": 1760182545334
     }
   ],
   "olamide recruiting": [
@@ -6890,8 +6890,8 @@
   "uncle stan's foods": [
     {
       "site": "JobGurus",
-      "id": "03c6745e7744d2f290caf61b307451c4",
-      "timestamp": 1757434728312
+      "id": "449ecd8152b564acff5deb06a568a5a1",
+      "timestamp": 1760182545334
     }
   ],
   "mn global ventures": [
@@ -16096,8 +16096,8 @@
   "rifugio communications limited": [
     {
       "site": "JobGurus",
-      "id": "a1d400eb4db430f756fd849f185473f6",
-      "timestamp": 1758708949892
+      "id": "05211a5af8f10553942d3db00cf10765",
+      "timestamp": 1760182545334
     }
   ],
   "recuitera workforce solutions": [
@@ -18101,6 +18101,13 @@
       "site": "JobGurus",
       "id": "29cba59f4fc7bf6c7639c2ce7bcc0f4d",
       "timestamp": 1760181041906
+    }
+  ],
+  "nexcore advisory services limited": [
+    {
+      "site": "JobGurus",
+      "id": "47c0a0806d06d205661e0fc5c9265f27",
+      "timestamp": 1760182545334
     }
   ]
 }
