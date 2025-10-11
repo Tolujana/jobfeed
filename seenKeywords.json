@@ -325,18 +325,8 @@
   "lacare staffing solutions": [
     {
       "site": "JobGurus",
-      "id": "2bf7f5528874e0631fc6e2ca14996ee3",
-      "timestamp": 1758969413472
-    },
-    {
-      "site": "JobGurus",
-      "id": "7e19c8d04cf5dcab6b07b586a256e9fc",
-      "timestamp": 1758969413472
-    },
-    {
-      "site": "JobGurus",
-      "id": "2f813821f60b1f6fdf9c094eddd9d03f",
-      "timestamp": 1758971432233
+      "id": "d71cab230eef0e5cc47fef48188e541a",
+      "timestamp": 1760181041906
     }
   ],
   "wandel international": [
@@ -6049,8 +6039,8 @@
   "westfield consulting limited": [
     {
       "site": "JobGurus",
-      "id": "01a3e4cdf3eb9afc8d5bec342b457797",
-      "timestamp": 1758636911853
+      "id": "947d8d7e57dc19bc92aa318736c05a60",
+      "timestamp": 1760181041906
     }
   ],
   "health connect 24x7": [
@@ -18094,6 +18084,23 @@
       "site": "JobGurus",
       "id": "cc33522b0aa79b3f8feb24482e936043",
       "timestamp": 1760179060110
+    }
+  ],
+  "global aluminium industries": [
+    {
+      "site": "JobGurus",
+      "id": "1d551cfae89b78a9b35573da6fcbc45a",
+      "timestamp": 1760181041906
+    },
+    {
+      "site": "JobGurus",
+      "id": "ed2685738d3160070b67daae231c0d0a",
+      "timestamp": 1760181041906
+    },
+    {
+      "site": "JobGurus",
+      "id": "29cba59f4fc7bf6c7639c2ce7bcc0f4d",
+      "timestamp": 1760181041906
     }
   ]
 }
