@@ -1014,6 +1014,11 @@
       "site": "JobGurus",
       "id": "d450561a0176d77414e0a9d02b5ea794",
       "timestamp": 1759929970754
+    },
+    {
+      "site": "JobGurus",
+      "id": "ee309d2eb17cdae495fb682e86e59b81",
+      "timestamp": 1760187476877
     }
   ],
   "zenith carex international limited": [
@@ -6046,6 +6051,11 @@
       "site": "JobGurus",
       "id": "947d8d7e57dc19bc92aa318736c05a60",
       "timestamp": 1760181041906
+    },
+    {
+      "site": "JobGurus",
+      "id": "9bbadcbf75d8d7bd3c7e492af3a29724",
+      "timestamp": 1760187476877
     }
   ],
   "health connect 24x7": [
@@ -7291,8 +7301,8 @@
   "westfield consulting": [
     {
       "site": "JobGurus",
-      "id": "2409f5850dec1e2e17a433d340aaadb2",
-      "timestamp": 1758817118944
+      "id": "ae84306b1f6ea3918b1ae2f30b47d174",
+      "timestamp": 1760187476877
     }
   ],
   "sumal foods limited": [
@@ -18120,6 +18130,18 @@
       "site": "JobGurus",
       "id": "d219d88a21ca7552c1c63b54bfb5b5c7",
       "timestamp": 1760185643476
+    }
+  ],
+  "bridgemead hr and advisory": [
+    {
+      "site": "JobGurus",
+      "id": "c2b204794f71573892004e6e47082df7",
+      "timestamp": 1760187476877
+    },
+    {
+      "site": "JobGurus",
+      "id": "bc117ba94cbdf35b2cb98f40f46e1c6d",
+      "timestamp": 1760187476877
     }
   ]
 }
