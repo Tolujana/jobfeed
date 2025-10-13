@@ -525,16 +525,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "9106bf9ea83ef7a6304ef49df861c1f7",
-      "timestamp": 1759590762199
-    },
-    {
-      "site": "JobGurus",
-      "id": "d2bd1daa4249343a00278723eadd7fda",
-      "timestamp": 1759590762199
-    },
-    {
-      "site": "JobGurus",
       "id": "bdae02f717822b17b575b5abede7ca7a",
       "timestamp": 1759833664061
     },
@@ -542,6 +532,11 @@
       "site": "JobGurus",
       "id": "5b0a480ae8a5dd01251faeb87566708a",
       "timestamp": 1760102697668
+    },
+    {
+      "site": "JobGurus",
+      "id": "c9a201b51c87316fd603f20c0d66d512",
+      "timestamp": 1760386605713
     }
   ],
   "abbfem group": [
@@ -13413,8 +13408,8 @@
   "borderlesshr": [
     {
       "site": "JobGurus",
-      "id": "7022caa68541cea5651d05a6f06e2df1",
-      "timestamp": 1756498549613
+      "id": "adeeb0d9ef4efa9de028f7e4202cce5c",
+      "timestamp": 1760386605713
     }
   ],
   "sankore global investments limited": [
@@ -15945,8 +15940,8 @@
   "nielseniq": [
     {
       "site": "JobGurus",
-      "id": "7ea47f7f829085ef6068c9c764c041b9",
-      "timestamp": 1758620344691
+      "id": "7249cf44941dfc4e4290101d8c5aa157",
+      "timestamp": 1760386605713
     }
   ],
   "sagad farms": [
@@ -18154,6 +18149,20 @@
       "site": "JobGurus",
       "id": "e20842f9a1ea8edb6dbf67f8a8982a85",
       "timestamp": 1760384158357
+    }
+  ],
+  "amo-hr solutions": [
+    {
+      "site": "JobGurus",
+      "id": "1e3e2eb6672f5f8a51a37f766a5c0724",
+      "timestamp": 1760386605713
+    }
+  ],
+  "new incentives": [
+    {
+      "site": "JobGurus",
+      "id": "ab4669baf629e5af5061d59475abf2cb",
+      "timestamp": 1760386605713
     }
   ]
 }
