@@ -7268,6 +7268,11 @@
       "site": "JobGurus",
       "id": "ae84306b1f6ea3918b1ae2f30b47d174",
       "timestamp": 1760187476877
+    },
+    {
+      "site": "JobGurus",
+      "id": "443f32d94c9b2f0d77cab35144cca737",
+      "timestamp": 1760384158357
     }
   ],
   "sumal foods limited": [
@@ -16139,8 +16144,8 @@
   "caring habitat": [
     {
       "site": "JobGurus",
-      "id": "61a67656322bb832e5465e181c7acb20",
-      "timestamp": 1758738021629
+      "id": "60608f324973a10de4f9f3f33740b8ad",
+      "timestamp": 1760384158357
     }
   ],
   "givanas cosmetics nigeria limited": [
@@ -17381,8 +17386,8 @@
   "shogxypro outsourcing": [
     {
       "site": "JobGurus",
-      "id": "21d5f05dda548b2c23ed087bb0f3142b",
-      "timestamp": 1759753913511
+      "id": "8fb57f652dfc7463626a32874040fb58",
+      "timestamp": 1760384158357
     }
   ],
   "ericsson": [
@@ -18135,6 +18140,20 @@
       "site": "JobGurus",
       "id": "e70815a1c2a3046bb8d9ac3cf20798e9",
       "timestamp": 1760382713651
+    }
+  ],
+  "elders group": [
+    {
+      "site": "JobGurus",
+      "id": "f4fd3335a661d32b23b14ee2ae320500",
+      "timestamp": 1760384158357
+    }
+  ],
+  "dexterous applied training institute (dati)": [
+    {
+      "site": "JobGurus",
+      "id": "e20842f9a1ea8edb6dbf67f8a8982a85",
+      "timestamp": 1760384158357
     }
   ]
 }
