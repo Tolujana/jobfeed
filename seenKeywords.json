@@ -24,6 +24,11 @@
       "site": "JobGurus",
       "id": "cc358e63be110898130a4977d51b91a8",
       "timestamp": 1760107265508
+    },
+    {
+      "site": "JobGurus",
+      "id": "5c429088032ad635d2f85fbaf171e788",
+      "timestamp": 1760379665023
     }
   ],
   "amecron nigeria limited": [
@@ -6627,13 +6632,8 @@
   "stivlon consulting": [
     {
       "site": "JobGurus",
-      "id": "51a87143cf0fb016087d85b7d105c5da",
-      "timestamp": 1758300165771
-    },
-    {
-      "site": "JobGurus",
-      "id": "ef12f8baa0d72fcc0d05e65952b94f9d",
-      "timestamp": 1758550563450
+      "id": "a69a53125a74901b35e86b83e48ef6f1",
+      "timestamp": 1760379665023
     }
   ],
   "equity specialist hospital": [
@@ -11224,6 +11224,11 @@
       "site": "JobGurus",
       "id": "ab4e52869e3780134d36d7b1a2d64d40",
       "timestamp": 1760107265508
+    },
+    {
+      "site": "JobGurus",
+      "id": "1e2556b45300eeb1d47c3840b3102fc3",
+      "timestamp": 1760379665023
     }
   ],
   "pulse nigeria": [
@@ -18086,6 +18091,11 @@
       "site": "JobGurus",
       "id": "29cba59f4fc7bf6c7639c2ce7bcc0f4d",
       "timestamp": 1760181041906
+    },
+    {
+      "site": "JobGurus",
+      "id": "a97bd5b93f34cb2eed8c351d6a98f27d",
+      "timestamp": 1760379665023
     }
   ],
   "nexcore advisory services limited": [
@@ -18112,6 +18122,13 @@
       "site": "JobGurus",
       "id": "bc117ba94cbdf35b2cb98f40f46e1c6d",
       "timestamp": 1760187476877
+    }
+  ],
+  "joternam limited": [
+    {
+      "site": "JobGurus",
+      "id": "92cc11291a1396fff5631182c17f7497",
+      "timestamp": 1760379665023
     }
   ]
 }
