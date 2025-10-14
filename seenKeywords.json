@@ -3523,8 +3523,8 @@
   "mikano international": [
     {
       "site": "JobGurus",
-      "id": "3def0aff67ff3b949aa9891fa4505d09",
-      "timestamp": 1759769023757
+      "id": "42e6e4cede186806854ed9d4185d4b3b",
+      "timestamp": 1760448408026
     }
   ],
   "vurin group": [
@@ -6879,8 +6879,8 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "c0c30629d5831e5f9948e0452f113c85",
-      "timestamp": 1759443191634
+      "id": "eb41b4f3aa37af65b63de59ed2271f7b",
+      "timestamp": 1760448408026
     }
   ],
   "dansol": [
@@ -18177,6 +18177,27 @@
       "site": "JobGurus",
       "id": "4b5a4121b658159ad21026abfccf6975",
       "timestamp": 1760445217435
+    }
+  ],
+  "fiberone": [
+    {
+      "site": "JobGurus",
+      "id": "b0e00484d595b49750f0f3ad5595ce3f",
+      "timestamp": 1760448408026
+    }
+  ],
+  "jubilee-life mortgage bank plc": [
+    {
+      "site": "JobGurus",
+      "id": "558e6627f78b65a80e4510fbe2232a84",
+      "timestamp": 1760448408026
+    }
+  ],
+  "balangu": [
+    {
+      "site": "JobGurus",
+      "id": "e846190d1108aed2c89fea2c2c4638be",
+      "timestamp": 1760448408026
     }
   ]
 }
