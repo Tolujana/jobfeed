@@ -585,8 +585,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "8c9d83074d73d8611392998b61b8cddc",
-      "timestamp": 1759249148592
+      "id": "1af361a003eaa84e14618fc9defcf3b5",
+      "timestamp": 1760445217435
     }
   ],
   "divine infinity college": [
@@ -14003,8 +14003,8 @@
   "arnergy solar limited": [
     {
       "site": "JobGurus",
-      "id": "a9586e86e476416483b33ae0e76095c6",
-      "timestamp": 1757002741599
+      "id": "ce520521ecb5921448e3fb34cc6cee7d",
+      "timestamp": 1760445217435
     }
   ],
   "prohuman capital consulting": [
@@ -15724,8 +15724,8 @@
   "afrihealth limited": [
     {
       "site": "JobGurus",
-      "id": "bed6856506142a5a9296dee605f3f620",
-      "timestamp": 1758296276149
+      "id": "ab1ff74db4b89c590bafcd5e3b2138eb",
+      "timestamp": 1760445217435
     }
   ],
   "staffbridgehr limited": [
@@ -18163,6 +18163,20 @@
       "site": "JobGurus",
       "id": "ab4669baf629e5af5061d59475abf2cb",
       "timestamp": 1760386605713
+    }
+  ],
+  "roses regency": [
+    {
+      "site": "JobGurus",
+      "id": "f45e51473e780568cbc869dc44a13bee",
+      "timestamp": 1760445217435
+    }
+  ],
+  "emel hospitals limited": [
+    {
+      "site": "JobGurus",
+      "id": "4b5a4121b658159ad21026abfccf6975",
+      "timestamp": 1760445217435
     }
   ]
 }
