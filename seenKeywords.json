@@ -17824,6 +17824,11 @@
       "site": "JobGurus",
       "id": "ba1bd657efb3061d411c7c20bcf7679e",
       "timestamp": 1760030007943
+    },
+    {
+      "site": "JobGurus",
+      "id": "b68a5cd33271e4e1fb568791ae853a47",
+      "timestamp": 1760458745957
     }
   ],
   "lead enterprise support company limited": [
@@ -18291,6 +18296,20 @@
       "site": "JobGurus",
       "id": "00becb85696f4b2d47117dce95da55f3",
       "timestamp": 1760456317710
+    }
+  ],
+  "spatial haven": [
+    {
+      "site": "JobGurus",
+      "id": "70229b3e166e266d750215051ab55894",
+      "timestamp": 1760458745957
+    }
+  ],
+  "anettcom technologies": [
+    {
+      "site": "JobGurus",
+      "id": "387ac0c6b9284427734e0f3854abb673",
+      "timestamp": 1760458745957
     }
   ]
 }
