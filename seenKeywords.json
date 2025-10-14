@@ -12814,8 +12814,8 @@
   "pullus": [
     {
       "site": "JobGurus",
-      "id": "1a7cf59b03470943c89f956f2bba7a83",
-      "timestamp": 1758030220675
+      "id": "8a7092a2f676c59f50e43ee0a2aff3e9",
+      "timestamp": 1760455048778
     }
   ],
   "syx-brij nigeria limited": [
@@ -18086,6 +18086,11 @@
       "site": "JobGurus",
       "id": "a97bd5b93f34cb2eed8c351d6a98f27d",
       "timestamp": 1760379665023
+    },
+    {
+      "site": "JobGurus",
+      "id": "a4243b9eeaade7fedefcf21a6166a12b",
+      "timestamp": 1760455048778
     }
   ],
   "nexcore advisory services limited": [
@@ -18257,6 +18262,23 @@
       "site": "JobGurus",
       "id": "73c8fafc6c354554661518b2e23198e0",
       "timestamp": 1760452991240
+    },
+    {
+      "site": "JobGurus",
+      "id": "7a9e776d0f2b139ff7379affb88d77be",
+      "timestamp": 1760455048778
+    },
+    {
+      "site": "JobGurus",
+      "id": "59f8868131cea00c7962feafd50563c6",
+      "timestamp": 1760455048778
+    }
+  ],
+  "winnys mart": [
+    {
+      "site": "JobGurus",
+      "id": "c5f6f4f6774b6cf34bd05ae69061af59",
+      "timestamp": 1760455048778
     }
   ]
 }
