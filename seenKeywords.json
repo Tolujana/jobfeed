@@ -1041,8 +1041,8 @@
   "fave consulting": [
     {
       "site": "JobGurus",
-      "id": "934053fd750d8dcc34850b67f8d5877f",
-      "timestamp": 1754997263138
+      "id": "d13d3fd03736885356d52986bfaa239a",
+      "timestamp": 1760539430133
     }
   ],
   "revent technologies limited": [
@@ -18322,6 +18322,27 @@
       "site": "JobGurus",
       "id": "07b4e3030e3a026d649f49f13a4be5f2",
       "timestamp": 1760537773173
+    }
+  ],
+  "gblagos art & lifestyle": [
+    {
+      "site": "JobGurus",
+      "id": "714fcc44d1b5f2c8ec18b66452da34aa",
+      "timestamp": 1760539430133
+    }
+  ],
+  "luxury watch roll": [
+    {
+      "site": "JobGurus",
+      "id": "0da18e5792ee3786a19164f9c274f031",
+      "timestamp": 1760539430133
+    }
+  ],
+  "givanas group": [
+    {
+      "site": "JobGurus",
+      "id": "fd75e0337f21229fae31f6e80e1d5aa1",
+      "timestamp": 1760539430133
     }
   ]
 }
