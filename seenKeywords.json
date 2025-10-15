@@ -2062,8 +2062,8 @@
   "oando plc": [
     {
       "site": "JobGurus",
-      "id": "01f39a3f755f406d31451c074ac56b1f",
-      "timestamp": 1758813362498
+      "id": "3c3a35e955a79759e68e14614e037965",
+      "timestamp": 1760534910866
     }
   ],
   "ace recruiters limited": [
@@ -4509,8 +4509,8 @@
   "sahara group": [
     {
       "site": "JobGurus",
-      "id": "3f5cf0a8aecbe1fba983ad2c4cb7906f",
-      "timestamp": 1758206411634
+      "id": "02b724d88ddca14290e16d8dee7a283f",
+      "timestamp": 1760534910866
     }
   ],
   "skipper eye-q super specialty eye hospital": [
@@ -7354,8 +7354,8 @@
   "noemdek limited": [
     {
       "site": "JobGurus",
-      "id": "09f953b4919bf765d1c2e26432274c24",
-      "timestamp": 1759335558426
+      "id": "fbcbf89ce62ebe322c6e3673e39a0387",
+      "timestamp": 1760534910866
     }
   ],
   "nordica fertility clinic": [
@@ -16300,13 +16300,8 @@
   "obor logistics nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "c3a5b3328672ce2443a391c3e4890288",
-      "timestamp": 1758883246283
-    },
-    {
-      "site": "JobGurus",
-      "id": "99d33cf8a3edf026900f23564b709443",
-      "timestamp": 1758883246283
+      "id": "9f1d9db59df80d72e656620422690095",
+      "timestamp": 1760534910866
     }
   ],
   "garland empowerment and self reliance initiative": [
@@ -18301,6 +18296,13 @@
       "site": "JobGurus",
       "id": "c71fc949e835c0312d25427c82361674",
       "timestamp": 1760523440142
+    }
+  ],
+  "puff and glaze limited": [
+    {
+      "site": "JobGurus",
+      "id": "35728264e8fbd113bb6f13835ccb402d",
+      "timestamp": 1760534910866
     }
   ]
 }
