@@ -2431,6 +2431,11 @@
       "site": "JobGurus",
       "id": "59d8649c489941e5b5d03cf16746a7a0",
       "timestamp": 1760105695718
+    },
+    {
+      "site": "JobGurus",
+      "id": "12e3876be8a509fa947f36b5a44b0517",
+      "timestamp": 1760537773173
     }
   ],
   "bss consulting limited": [
@@ -5414,18 +5419,8 @@
   "whassan nigeria": [
     {
       "site": "JobGurus",
-      "id": "07dad4c07f1969be47f80ba315be703f",
-      "timestamp": 1754739419638
-    },
-    {
-      "site": "JobGurus",
-      "id": "13ca90b2da921c5fb2e616ecba0e7d5a",
-      "timestamp": 1754739419638
-    },
-    {
-      "site": "JobGurus",
-      "id": "431646ddc41a3e7a87eeedaf009221ce",
-      "timestamp": 1755106710674
+      "id": "a41337f2172665931672df51ef09cbdd",
+      "timestamp": 1760537773173
     }
   ],
   "milepost equip services limited": [
@@ -18320,6 +18315,13 @@
       "site": "JobGurus",
       "id": "c0c759880ac2d885796fa89102397269",
       "timestamp": 1760536105279
+    }
+  ],
+  "sar industries nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "07b4e3030e3a026d649f49f13a4be5f2",
+      "timestamp": 1760537773173
     }
   ]
 }
