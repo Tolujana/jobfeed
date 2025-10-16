@@ -2609,6 +2609,11 @@
       "site": "JobGurus",
       "id": "7ebe810d951421e9c34eeef85ac87353",
       "timestamp": 1760028390787
+    },
+    {
+      "site": "JobGurus",
+      "id": "59d66d59684fde83fd5c204118cefb14",
+      "timestamp": 1760614572374
     }
   ],
   "well fluid services limited": [
@@ -4457,8 +4462,8 @@
   "mediplan healthcare limited": [
     {
       "site": "JobGurus",
-      "id": "ebe1b900bc6380d603f02dc117b79f0f",
-      "timestamp": 1750443658709
+      "id": "64db39d9b6e1cc5bffcc8966099cdafe",
+      "timestamp": 1760614572374
     }
   ],
   "interswitch": [
@@ -6132,8 +6137,8 @@
   "fibre hub": [
     {
       "site": "JobGurus",
-      "id": "2ac3307eeb46e02eaec95ad573be7530",
-      "timestamp": 1756498549613
+      "id": "16e37f364ea0ab4260bef0f4e6ab448e",
+      "timestamp": 1760614572374
     }
   ],
   "ama zuma group": [
@@ -18470,6 +18475,20 @@
       "site": "JobGurus",
       "id": "480cfdee5927e1b68d075d6216c21ee4",
       "timestamp": 1760613205851
+    }
+  ],
+  "krishat pharma industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "fd6e50457cd74d7def1b99c59c2b085e",
+      "timestamp": 1760614572374
+    }
+  ],
+  "boulevard hotels and resorts": [
+    {
+      "site": "JobGurus",
+      "id": "ef924c6276289216efab8dd1e9b72c58",
+      "timestamp": 1760614572374
     }
   ]
 }
