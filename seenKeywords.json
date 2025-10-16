@@ -13696,6 +13696,11 @@
       "site": "JobGurus",
       "id": "8b0e005949919e77f7ed4a3006fc957d",
       "timestamp": 1760034089635
+    },
+    {
+      "site": "JobGurus",
+      "id": "b6c981bf26d13a4c09d00ba0b0c4a0c4",
+      "timestamp": 1760607633287
     }
   ],
   "teamace": [
@@ -16891,8 +16896,8 @@
   "flutterwave": [
     {
       "site": "JobGurus",
-      "id": "28ce02d4dcccb1bb752eaa30df6e33f7",
-      "timestamp": 1759328112836
+      "id": "448d6ede9b44d9eee0c0cd9517088de2",
+      "timestamp": 1760607633287
     }
   ],
   "mipraise investment limited": [
@@ -18435,6 +18440,13 @@
       "site": "JobGurus",
       "id": "9a12d31d61200b27116c627fd6245bda",
       "timestamp": 1760559441794
+    }
+  ],
+  "bincike international": [
+    {
+      "site": "JobGurus",
+      "id": "da119cd2c94229559797c4197be16cb6",
+      "timestamp": 1760607633287
     }
   ]
 }
