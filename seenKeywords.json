@@ -152,8 +152,8 @@
   "cway group": [
     {
       "site": "JobGurus",
-      "id": "db49dd2e1c861df139996cca834ada7f",
-      "timestamp": 1755103436863
+      "id": "ada553c507116c0a4fe320ffb33cc8d1",
+      "timestamp": 1760611361971
     }
   ],
   "natnudo": [
@@ -3278,6 +3278,11 @@
       "site": "JobGurus",
       "id": "06606025a31693b02c2b584d93a6074f",
       "timestamp": 1760609866275
+    },
+    {
+      "site": "JobGurus",
+      "id": "9eb6a9b588826696061af1d3bde622db",
+      "timestamp": 1760611361971
     }
   ],
   "daily need distributors limited": [
@@ -18461,6 +18466,13 @@
       "site": "JobGurus",
       "id": "1b3fb623aac316113e8132acc01c856e",
       "timestamp": 1760609866275
+    }
+  ],
+  "prince o j global services limited": [
+    {
+      "site": "JobGurus",
+      "id": "a53760f7800ae3ade71677101442ecf3",
+      "timestamp": 1760611361971
     }
   ]
 }
