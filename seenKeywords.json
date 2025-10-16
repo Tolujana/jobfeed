@@ -11926,6 +11926,11 @@
       "site": "JobGurus",
       "id": "aae34384d5caaaa7c08431b3f17d4229",
       "timestamp": 1760618014631
+    },
+    {
+      "site": "JobGurus",
+      "id": "a705e000a4ca54a57dfcead88a3a0243",
+      "timestamp": 1760621254709
     }
   ],
   "light heights global services limited": [
@@ -14968,13 +14973,8 @@
   "rotic aluminium extrusion": [
     {
       "site": "JobGurus",
-      "id": "03b31311b8e3ed2c8825422e8c709cd6",
-      "timestamp": 1757697143838
-    },
-    {
-      "site": "JobGurus",
-      "id": "1e5c1961973184c4c5de2f04674a01f3",
-      "timestamp": 1757701078450
+      "id": "d1b39b3d11a93bc7d6caaf6bfd088a1c",
+      "timestamp": 1760621254709
     }
   ],
   "kashterk limited": [
@@ -18496,6 +18496,13 @@
       "site": "JobGurus",
       "id": "ef39ed36e9a4c709adcc6de2a109f2bb",
       "timestamp": 1760618014631
+    }
+  ],
+  "nivafer engineering and construction limited": [
+    {
+      "site": "JobGurus",
+      "id": "81bcb005b757ac04b2e476f087acb175",
+      "timestamp": 1760621254709
     }
   ]
 }
