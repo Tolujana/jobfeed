@@ -3723,6 +3723,11 @@
       "site": "JobGurus",
       "id": "bf70749e0f07195ec9fe08b95d7deab0",
       "timestamp": 1760700956348
+    },
+    {
+      "site": "JobGurus",
+      "id": "0db023c31ea2980dcbf3954aa24b39df",
+      "timestamp": 1760710513736
     }
   ],
   "technoserve": [
@@ -18037,6 +18042,11 @@
       "site": "JobGurus",
       "id": "dfd1aa1ee8bff1f88d43230d045555d2",
       "timestamp": 1760179060110
+    },
+    {
+      "site": "JobGurus",
+      "id": "bf5e7bb5188afa59d4ad2056b1384c1a",
+      "timestamp": 1760710513736
     }
   ],
   "clearpay microfinance bank": [
@@ -18622,6 +18632,13 @@
       "site": "JobGurus",
       "id": "e0b855d08d2a6c35512c75cbcde280fa",
       "timestamp": 1760708571407
+    }
+  ],
+  "rockshield asset protection company limited": [
+    {
+      "site": "JobGurus",
+      "id": "f85894c4dceea87641a068919f05e5ac",
+      "timestamp": 1760710513736
     }
   ]
 }
