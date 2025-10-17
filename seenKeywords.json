@@ -142,6 +142,11 @@
       "site": "JobGurus",
       "id": "d763bca166e84617a2392b1b149590f8",
       "timestamp": 1760541331325
+    },
+    {
+      "site": "JobGurus",
+      "id": "6aaa8a9a73784ee94ffbeace96ff0ed5",
+      "timestamp": 1760719459931
     }
   ],
   "cway group": [
@@ -2132,8 +2137,8 @@
   "duob recruitment": [
     {
       "site": "JobGurus",
-      "id": "0c734529d2c8a687862a2c1eabf87124",
-      "timestamp": 1757513640044
+      "id": "71efcd4b0acf93c04c18c2746e0bac6c",
+      "timestamp": 1760719459931
     }
   ],
   "speedaf express": [
@@ -9241,6 +9246,11 @@
       "site": "JobGurus",
       "id": "ba3e9c7ed2f6411997ff0b9b3fbbafed",
       "timestamp": 1760717916836
+    },
+    {
+      "site": "JobGurus",
+      "id": "565e90bae9291a1973444ab583177555",
+      "timestamp": 1760719459931
     }
   ],
   "jemimah nigeria limited": [
@@ -18657,6 +18667,20 @@
       "site": "JobGurus",
       "id": "5b5ab13fdca65d8574f798ae69ab3d7c",
       "timestamp": 1760717916836
+    }
+  ],
+  "cozym process systems limited": [
+    {
+      "site": "JobGurus",
+      "id": "48c944023497b98440daef6c710cb309",
+      "timestamp": 1760719459931
+    }
+  ],
+  "octoplus marketing group": [
+    {
+      "site": "JobGurus",
+      "id": "425899a339bc3df52f8660212f47be33",
+      "timestamp": 1760719459931
     }
   ]
 }
