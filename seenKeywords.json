@@ -1480,8 +1480,8 @@
   "unified payment services limited": [
     {
       "site": "JobGurus",
-      "id": "86430b9d5be8f4c56ff78ad485173a04",
-      "timestamp": 1759921959018
+      "id": "34993a68eabfcd9a314c58e58f83beb7",
+      "timestamp": 1760717916836
     }
   ],
   "straitpay": [
@@ -9239,18 +9239,8 @@
   "avetium consult limited": [
     {
       "site": "JobGurus",
-      "id": "00ddc7ce1967fa55d82c12fb7a75af64",
-      "timestamp": 1758366669300
-    },
-    {
-      "site": "JobGurus",
-      "id": "a5b884fbf14e9cb8abfda6d2592472e0",
-      "timestamp": 1758373160147
-    },
-    {
-      "site": "JobGurus",
-      "id": "3f385d2c83412add7a077cbf09a9e657",
-      "timestamp": 1758373160147
+      "id": "ba3e9c7ed2f6411997ff0b9b3fbbafed",
+      "timestamp": 1760717916836
     }
   ],
   "jemimah nigeria limited": [
@@ -11608,8 +11598,8 @@
   "african industries group (aig)": [
     {
       "site": "JobGurus",
-      "id": "b771baad5859bc83c9d9008cbcb6d38e",
-      "timestamp": 1755080285374
+      "id": "2c57309ce7791423a6183d5c908dc830",
+      "timestamp": 1760717916836
     }
   ],
   "whiten lighten": [
@@ -18653,6 +18643,20 @@
       "site": "JobGurus",
       "id": "e21aff91721d6b8190c8c7db8cec1f03",
       "timestamp": 1760714134983
+    }
+  ],
+  "dbell logistics": [
+    {
+      "site": "JobGurus",
+      "id": "6426e1fff80c93a4b7e66d36ba650fb4",
+      "timestamp": 1760717916836
+    }
+  ],
+  "recruiters village": [
+    {
+      "site": "JobGurus",
+      "id": "5b5ab13fdca65d8574f798ae69ab3d7c",
+      "timestamp": 1760717916836
     }
   ]
 }
