@@ -190,8 +190,8 @@
   "pg consulting limited": [
     {
       "site": "JobGurus",
-      "id": "367759bbde10ee4641b9851f75e3e84c",
-      "timestamp": 1759414470316
+      "id": "d2d628e0d47a97b163d3ba6ea32de940",
+      "timestamp": 1760712082793
     }
   ],
   "xora technologies limited": [
@@ -4996,8 +4996,8 @@
   "koins microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "c60967784fc8952cc8be6b119fc13475",
-      "timestamp": 1758893051740
+      "id": "5a490c35e6585194ed5ad4abff51e56b",
+      "timestamp": 1760712082793
     }
   ],
   "lifted horizon nigeria limited": [
@@ -5045,8 +5045,8 @@
   "lheon consulting limited": [
     {
       "site": "JobGurus",
-      "id": "b16a4357a5f0a9befc076b2cb70b776b",
-      "timestamp": 1758208508587
+      "id": "432e1ec05f1a2d6c1664965943732dae",
+      "timestamp": 1760712082793
     }
   ],
   "tophire africa": [
@@ -18639,6 +18639,13 @@
       "site": "JobGurus",
       "id": "f85894c4dceea87641a068919f05e5ac",
       "timestamp": 1760710513736
+    }
+  ],
+  "valorem consulting": [
+    {
+      "site": "JobGurus",
+      "id": "38e59becac2e094619579d327f68374a",
+      "timestamp": 1760712082793
     }
   ]
 }
