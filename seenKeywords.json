@@ -126,13 +126,8 @@
   "african industries group": [
     {
       "site": "JobGurus",
-      "id": "0f0de8c3454ada47f02fa0d86634a50d",
-      "timestamp": 1755886867076
-    },
-    {
-      "site": "JobGurus",
-      "id": "8fe9257436c5213d8bb51c956ae6f72b",
-      "timestamp": 1756487574989
+      "id": "7f14d4484e59d56ae980557d9e26f0dd",
+      "timestamp": 1760707485897
     }
   ],
   "residency hotel limited": [
@@ -16586,8 +16581,8 @@
   "aco nigeria": [
     {
       "site": "JobGurus",
-      "id": "cebbb034931dca818ee3f52a685ce0fe",
-      "timestamp": 1759772243867
+      "id": "a8f7a23109d2096bcad62b4663ad4607",
+      "timestamp": 1760707485897
     }
   ],
   "ginsau nigeria limited": [
@@ -18575,6 +18570,11 @@
       "site": "JobGurus",
       "id": "ab7b69a726e5ae527f5e757b41d3f3da",
       "timestamp": 1760704296257
+    },
+    {
+      "site": "JobGurus",
+      "id": "9ecadf3d1ddff3d97b572c2206bbdf79",
+      "timestamp": 1760707485897
     }
   ],
   "brickfort": [
@@ -18582,6 +18582,20 @@
       "site": "JobGurus",
       "id": "e98e8f5bb5487595bdfe41da4d979e7a",
       "timestamp": 1760704296257
+    }
+  ],
+  "campus technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "1402932ca6b8d714830918b6cdaca5e6",
+      "timestamp": 1760707485897
+    }
+  ],
+  "kada bistro": [
+    {
+      "site": "JobGurus",
+      "id": "a209dff1d0afac403693687f21bd2c4d",
+      "timestamp": 1760707485897
     }
   ]
 }
