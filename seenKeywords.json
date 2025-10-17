@@ -4516,6 +4516,11 @@
       "site": "JobGurus",
       "id": "02b724d88ddca14290e16d8dee7a283f",
       "timestamp": 1760534910866
+    },
+    {
+      "site": "JobGurus",
+      "id": "5f00d0f3bb3d1bd00b8f8e4a0be8d947",
+      "timestamp": 1760708571407
     }
   ],
   "skipper eye-q super specialty eye hospital": [
@@ -18596,6 +18601,27 @@
       "site": "JobGurus",
       "id": "a209dff1d0afac403693687f21bd2c4d",
       "timestamp": 1760707485897
+    }
+  ],
+  "octoplus marketing limited": [
+    {
+      "site": "JobGurus",
+      "id": "07fed2b4c22a192c6820cf30b78f8d3c",
+      "timestamp": 1760708571407
+    }
+  ],
+  "daasa integrated systems limited": [
+    {
+      "site": "JobGurus",
+      "id": "3dc9fb2c8a980167252041bbf24c0019",
+      "timestamp": 1760708571407
+    }
+  ],
+  "ray oil and gas": [
+    {
+      "site": "JobGurus",
+      "id": "e0b855d08d2a6c35512c75cbcde280fa",
+      "timestamp": 1760708571407
     }
   ]
 }
