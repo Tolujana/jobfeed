@@ -1477,6 +1477,11 @@
       "site": "JobGurus",
       "id": "34993a68eabfcd9a314c58e58f83beb7",
       "timestamp": 1760717916836
+    },
+    {
+      "site": "JobGurus",
+      "id": "a231f78624f8629dfb970cf73a8f47e4",
+      "timestamp": 1760785871329
     }
   ],
   "straitpay": [
@@ -18561,6 +18566,11 @@
       "site": "JobGurus",
       "id": "468a24326195d961800f345b4e6d821b",
       "timestamp": 1760783881045
+    },
+    {
+      "site": "JobGurus",
+      "id": "1e0dafcca7747ca780b78676efd54dd7",
+      "timestamp": 1760785871329
     }
   ],
   "daievom dispenser water": [
@@ -18676,6 +18686,25 @@
       "site": "JobGurus",
       "id": "425899a339bc3df52f8660212f47be33",
       "timestamp": 1760719459931
+    }
+  ],
+  "starnet innovations limited": [
+    {
+      "site": "JobGurus",
+      "id": "9e44cc31d2fcf4c73cd318ca9250486b",
+      "timestamp": 1760785871329
+    }
+  ],
+  "pentfield": [
+    {
+      "site": "JobGurus",
+      "id": "26d2c37750d97ce3db036c7a55cab5ee",
+      "timestamp": 1760785871329
+    },
+    {
+      "site": "JobGurus",
+      "id": "ca80731a9a2a8857013b18c4a8617080",
+      "timestamp": 1760785871329
     }
   ]
 }
