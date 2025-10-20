@@ -550,6 +550,11 @@
       "site": "JobGurus",
       "id": "5533be4ba5769dfb9be2c925698424fc",
       "timestamp": 1760721191742
+    },
+    {
+      "site": "JobGurus",
+      "id": "0a86c151f8680c20d980a2e034f160d0",
+      "timestamp": 1760967924955
     }
   ],
   "food concepts plc": [
@@ -6109,8 +6114,8 @@
   "redswitch collections": [
     {
       "site": "JobGurus",
-      "id": "7a00c30d05a809bd1126c0fbf0d99c1f",
-      "timestamp": 1754990321323
+      "id": "68106e43dce11fa5b1512b1d463697db",
+      "timestamp": 1760967924955
     }
   ],
   "hoop telecoms limited": [
@@ -9212,8 +9217,13 @@
   "ultraviolet microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "d9a2293119cc68c1c7605bc56876defd",
-      "timestamp": 1755803520438
+      "id": "ca2a0cb8dd5a55b4d9e436d8286edd2f",
+      "timestamp": 1760967924955
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7fdf722dd42ca1f09dbccac7f7a6039",
+      "timestamp": 1760967924955
     }
   ],
   "avetium consult limited": [
@@ -18761,6 +18771,13 @@
       "site": "JobGurus",
       "id": "4353dfc3bc6c416fcc18beb7b0ff080e",
       "timestamp": 1760966765723
+    }
+  ],
+  "deepee industrials limited": [
+    {
+      "site": "JobGurus",
+      "id": "f490fe8936ca7eab1abf5babb221d01a",
+      "timestamp": 1760967924955
     }
   ]
 }
