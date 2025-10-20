@@ -2324,8 +2324,8 @@
   "jules construction": [
     {
       "site": "JobGurus",
-      "id": "b9ace9ca2b368e95dd705907719d1ae6",
-      "timestamp": 1759508280363
+      "id": "e600c078e9e14354e5368683aa22748c",
+      "timestamp": 1760996277670
     }
   ],
   "obafemi awolowo university (oau)": [
@@ -6554,8 +6554,8 @@
   "equity specialist hospital": [
     {
       "site": "JobGurus",
-      "id": "17623d2cc202084adf681f4c3451f5e6",
-      "timestamp": 1756820706442
+      "id": "d68019675e9088ccd8686d819d239cea",
+      "timestamp": 1760996277670
     }
   ],
   "unicane industries fze": [
@@ -18818,6 +18818,18 @@
       "site": "JobGurus",
       "id": "5843843a4e74412d57486f1a845a4dc6",
       "timestamp": 1760994855101
+    },
+    {
+      "site": "JobGurus",
+      "id": "02df46ce6c2071965028c81a112a5a66",
+      "timestamp": 1760996277670
+    }
+  ],
+  "lavita group": [
+    {
+      "site": "JobGurus",
+      "id": "7402baa13d5583b5fc3823cf0b9d2bb3",
+      "timestamp": 1760996277670
     }
   ]
 }
