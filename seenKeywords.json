@@ -197,6 +197,11 @@
       "site": "JobGurus",
       "id": "d2d628e0d47a97b163d3ba6ea32de940",
       "timestamp": 1760712082793
+    },
+    {
+      "site": "JobGurus",
+      "id": "85f263a83a162e14fbeba08268e231a7",
+      "timestamp": 1761049993743
     }
   ],
   "xora technologies limited": [
@@ -303,8 +308,8 @@
   "castville solutions": [
     {
       "site": "JobGurus",
-      "id": "0bb38373b40c76478b80efbff16829fb",
-      "timestamp": 1757608848342
+      "id": "5acc5546bdaa335c7f9a5e6a063c6d74",
+      "timestamp": 1761049993743
     }
   ],
   "lacare staffing solutions": [
@@ -1083,8 +1088,8 @@
   "elizabeth maddeux limited": [
     {
       "site": "JobGurus",
-      "id": "0ee18b434053432d5d5d8b6f862d98ae",
-      "timestamp": 1759326335194
+      "id": "847cad4a867e944ec4a12c6c78e203e1",
+      "timestamp": 1761049993743
     }
   ],
   "cashxpress nigeria limited": [
@@ -3690,8 +3695,8 @@
   "fortesoft systems limited": [
     {
       "site": "JobGurus",
-      "id": "a30a31916e82a9c1076bc732bda0d1c7",
-      "timestamp": 1759588532539
+      "id": "966eef0489d1f7b2c0b2768a0cdfd087",
+      "timestamp": 1761049993743
     }
   ],
   "d&m data solutions": [
@@ -18840,6 +18845,13 @@
       "site": "JobGurus",
       "id": "7402baa13d5583b5fc3823cf0b9d2bb3",
       "timestamp": 1760996277670
+    }
+  ],
+  "development exchange centre (dec)": [
+    {
+      "site": "JobGurus",
+      "id": "4645cad37959dd823ef221739b83db0f",
+      "timestamp": 1761049993743
     }
   ]
 }
