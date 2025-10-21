@@ -6561,6 +6561,11 @@
       "site": "JobGurus",
       "id": "d68019675e9088ccd8686d819d239cea",
       "timestamp": 1760996277670
+    },
+    {
+      "site": "JobGurus",
+      "id": "11f1189e22c1463933960974c9fead3c",
+      "timestamp": 1761065049124
     }
   ],
   "unicane industries fze": [
@@ -18932,6 +18937,27 @@
       "site": "JobGurus",
       "id": "2a1ec40a0065686b0ad6743bb9ff3118",
       "timestamp": 1761061157554
+    }
+  ],
+  "ridan consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "d22fd647da7f1527f9438a4ec7a7117f",
+      "timestamp": 1761065049124
+    }
+  ],
+  "c.h.f heron nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "962d70efd061be41c837c8e38aaba13f",
+      "timestamp": 1761065049124
+    }
+  ],
+  "reime west africa limited": [
+    {
+      "site": "JobGurus",
+      "id": "9f4fa321428def6c7a2e8a8a71b8cb51",
+      "timestamp": 1761065049124
     }
   ]
 }
