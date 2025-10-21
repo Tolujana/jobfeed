@@ -475,8 +475,8 @@
   "first excelsia professional services limited": [
     {
       "site": "JobGurus",
-      "id": "a28226ba56533c8ba1298487340e7486",
-      "timestamp": 1759426552850
+      "id": "aa510230b0716d075ce32edf155b8b60",
+      "timestamp": 1761057636283
     }
   ],
   "universal human resource consult": [
@@ -9309,13 +9309,13 @@
   "pc place nigeria": [
     {
       "site": "JobGurus",
-      "id": "4e16e8f05de2443c33621f292d2a51ab",
-      "timestamp": 1760109308918
+      "id": "538592776f3aa76766f02b7c9f74043c",
+      "timestamp": 1760456317710
     },
     {
       "site": "JobGurus",
-      "id": "538592776f3aa76766f02b7c9f74043c",
-      "timestamp": 1760456317710
+      "id": "eef57d472fc85ca3b35930e58c75603f",
+      "timestamp": 1761057636283
     }
   ],
   "source microfinance bank": [
@@ -12368,8 +12368,8 @@
   "ics outsourcing": [
     {
       "site": "JobGurus",
-      "id": "d00d2fa661361bde58916f04a367bd4f",
-      "timestamp": 1759403506767
+      "id": "4f98a9b616108b65a02afb3baef18158",
+      "timestamp": 1761057636283
     }
   ],
   "atlanticblu hotel & resort": [
@@ -17476,8 +17476,8 @@
   "sproxil": [
     {
       "site": "JobGurus",
-      "id": "7f51fc1dce73648f3e351e1456c7ee0e",
-      "timestamp": 1759832151997
+      "id": "b3a5413ec721d53626cff9c752be52e5",
+      "timestamp": 1761057636283
     }
   ],
   "architrave architrave": [
@@ -18911,6 +18911,13 @@
       "site": "JobGurus",
       "id": "769e5dae30e7f56645b1204eb226a292",
       "timestamp": 1761056096292
+    }
+  ],
+  "de palm food cafe": [
+    {
+      "site": "JobGurus",
+      "id": "a7e80e7e8361928ff7692e33d0d92c47",
+      "timestamp": 1761057636283
     }
   ]
 }
