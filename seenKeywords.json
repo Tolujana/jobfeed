@@ -147,6 +147,11 @@
       "site": "JobGurus",
       "id": "6aaa8a9a73784ee94ffbeace96ff0ed5",
       "timestamp": 1760719459931
+    },
+    {
+      "site": "JobGurus",
+      "id": "870fe4dc0f67a94243cae37c73cd5cf1",
+      "timestamp": 1761054692665
     }
   ],
   "cway group": [
@@ -7336,6 +7341,11 @@
       "site": "JobGurus",
       "id": "fbcbf89ce62ebe322c6e3673e39a0387",
       "timestamp": 1760534910866
+    },
+    {
+      "site": "JobGurus",
+      "id": "a06e1effbf77e7e5b868e03753646b43",
+      "timestamp": 1761054692665
     }
   ],
   "nordica fertility clinic": [
@@ -18861,6 +18871,25 @@
       "site": "JobGurus",
       "id": "d78a30ca0a93648c5c021fe7674d1237",
       "timestamp": 1761053418007
+    }
+  ],
+  "d.i.k international limited": [
+    {
+      "site": "JobGurus",
+      "id": "a9e6cab49fecc3a222b79c57437f8e99",
+      "timestamp": 1761054692665
+    },
+    {
+      "site": "JobGurus",
+      "id": "eca3c1aebdb80494eafb7257073dc6c8",
+      "timestamp": 1761054692665
+    }
+  ],
+  "carlcare development nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "96307ac8720d0dc487e538918326682d",
+      "timestamp": 1761054692665
     }
   ]
 }
