@@ -5047,8 +5047,8 @@
   "tophire africa": [
     {
       "site": "JobGurus",
-      "id": "fe9fc29662fa7eaefb5893f50480c232",
-      "timestamp": 1759223771807
+      "id": "61c78ee347d69f8ea0f6e0cdbd0b6958",
+      "timestamp": 1761059769546
     }
   ],
   "sao group": [
@@ -6335,8 +6335,8 @@
   "kyosk digital services limited": [
     {
       "site": "JobGurus",
-      "id": "73dec8dcf4056e1f71e515c9f11c6d91",
-      "timestamp": 1759590762199
+      "id": "801f2b0506479de2726a796be0753baf",
+      "timestamp": 1761059769546
     }
   ],
   "naija global logistics limited": [
@@ -18918,6 +18918,18 @@
       "site": "JobGurus",
       "id": "a7e80e7e8361928ff7692e33d0d92c47",
       "timestamp": 1761057636283
+    }
+  ],
+  "accelerate tv": [
+    {
+      "site": "JobGurus",
+      "id": "92c76c732d8b94a9784acf167397e5ac",
+      "timestamp": 1761059769546
+    },
+    {
+      "site": "JobGurus",
+      "id": "131b2f50d670af548a2bbb2556c5cd7f",
+      "timestamp": 1761059769546
     }
   ]
 }
