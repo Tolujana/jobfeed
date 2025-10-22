@@ -3494,8 +3494,8 @@
   "kadick integrated limited": [
     {
       "site": "JobGurus",
-      "id": "6d173222613dd480d38f3e65967c5603",
-      "timestamp": 1759590762199
+      "id": "5f78ef6c02a80903a60ab31b4c61c1e1",
+      "timestamp": 1761142607742
     }
   ],
   "tradedepot": [
@@ -14325,6 +14325,11 @@
       "site": "JobGurus",
       "id": "8619e0fbe371387813696216088f587b",
       "timestamp": 1761129859063
+    },
+    {
+      "site": "JobGurus",
+      "id": "55ec6299bdacae4c5ddd310e28ae077f",
+      "timestamp": 1761142607742
     }
   ],
   "flex finance": [
@@ -16748,13 +16753,8 @@
   "benin asaba expressway": [
     {
       "site": "JobGurus",
-      "id": "4dfeb06031da930fa75cb9a20ba90e99",
-      "timestamp": 1759250645066
-    },
-    {
-      "site": "JobGurus",
-      "id": "583b65c3ced36d445c78767c7f9d5e20",
-      "timestamp": 1759250645066
+      "id": "a4b30d1f2210519d27d6b76a5fe8f91a",
+      "timestamp": 1761142607742
     }
   ],
   "ojatee consulting": [
@@ -19017,6 +19017,13 @@
       "site": "JobGurus",
       "id": "3d72cb6bacd43f0989eac753b819cfab",
       "timestamp": 1761141055844
+    }
+  ],
+  "software business solutions consulting": [
+    {
+      "site": "JobGurus",
+      "id": "34346feeae51e618bb52ef6c17ecda3c",
+      "timestamp": 1761142607742
     }
   ]
 }
