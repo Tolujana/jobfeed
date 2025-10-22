@@ -1859,6 +1859,11 @@
       "site": "JobGurus",
       "id": "65c89411976bc55fc3609c0ab8421879",
       "timestamp": 1761151678296
+    },
+    {
+      "site": "JobGurus",
+      "id": "f8fc195cf5e34842a5ade5de7d5cdfdc",
+      "timestamp": 1761153260090
     }
   ],
   "phillips outsourcing limited": [
@@ -5785,6 +5790,11 @@
       "site": "JobGurus",
       "id": "b010703b8a7bd7a5bc13b7f43f3b2396",
       "timestamp": 1761151678296
+    },
+    {
+      "site": "JobGurus",
+      "id": "9f1fbf770c48d9e95519168800f1583e",
+      "timestamp": 1761153260090
     }
   ],
   "lotus capital limited": [
@@ -6785,8 +6795,8 @@
   "uncle stan's foods": [
     {
       "site": "JobGurus",
-      "id": "449ecd8152b564acff5deb06a568a5a1",
-      "timestamp": 1760182545334
+      "id": "dd0deb31435dd30321b7fd6fee43dff3",
+      "timestamp": 1761153260090
     }
   ],
   "mn global ventures": [
@@ -19026,6 +19036,20 @@
       "site": "JobGurus",
       "id": "ad3716ae50bc7f124ac60e1e62c1c68b",
       "timestamp": 1761146124618
+    }
+  ],
+  "ericsson nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "c2d9bcd51d9196067b41125f25855e0b",
+      "timestamp": 1761153260090
+    }
+  ],
+  "aaa medi-calibrations limited": [
+    {
+      "site": "JobGurus",
+      "id": "975a712dcb2b371ae5311b010e1486cf",
+      "timestamp": 1761153260090
     }
   ]
 }
