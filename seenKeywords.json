@@ -570,6 +570,11 @@
       "site": "JobGurus",
       "id": "a8fef034ebfb95e8db13a650ee3988f6",
       "timestamp": 1760969680907
+    },
+    {
+      "site": "JobGurus",
+      "id": "8f5d474ede9cc366e17061b602737522",
+      "timestamp": 1761154645463
     }
   ],
   "food concepts plc": [
@@ -9641,8 +9646,8 @@
   "nina jojer limited": [
     {
       "site": "JobGurus",
-      "id": "8dc6e5b34904575a92537128ba1e4f00",
-      "timestamp": 1759425085085
+      "id": "a6c7f05107d9f653f8b68c7cf205a63c",
+      "timestamp": 1761154645463
     }
   ],
   "kpmg": [
@@ -19050,6 +19055,20 @@
       "site": "JobGurus",
       "id": "975a712dcb2b371ae5311b010e1486cf",
       "timestamp": 1761153260090
+    }
+  ],
+  "nevada restaurant and lounge": [
+    {
+      "site": "JobGurus",
+      "id": "44cd6afff8af071e5349fa54a853b8bd",
+      "timestamp": 1761154645463
+    }
+  ],
+  "mactay consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "93155ecf6e561fc36047ffb897d70476",
+      "timestamp": 1761154645463
     }
   ]
 }
