@@ -3100,23 +3100,8 @@
   "j-six group": [
     {
       "site": "JobGurus",
-      "id": "8d6d1c21ddf6de237ac6db0dfcbeac0f",
-      "timestamp": 1758550563450
-    },
-    {
-      "site": "JobGurus",
-      "id": "aaca854d29b490afbfedff9f83d7776d",
-      "timestamp": 1758620344691
-    },
-    {
-      "site": "JobGurus",
-      "id": "c01dda586f478575f1741582dfd8f02c",
-      "timestamp": 1758620344691
-    },
-    {
-      "site": "JobGurus",
-      "id": "865bc4a920fef3aedf4d6cc0dc3547d6",
-      "timestamp": 1758706764185
+      "id": "b73459bab23b40caca7a5990dc1aeef4",
+      "timestamp": 1761141055844
     }
   ],
   "demyhealth clinic and genomic medicine": [
@@ -9314,13 +9299,13 @@
   "pc place nigeria": [
     {
       "site": "JobGurus",
-      "id": "538592776f3aa76766f02b7c9f74043c",
-      "timestamp": 1760456317710
+      "id": "eef57d472fc85ca3b35930e58c75603f",
+      "timestamp": 1761057636283
     },
     {
       "site": "JobGurus",
-      "id": "eef57d472fc85ca3b35930e58c75603f",
-      "timestamp": 1761057636283
+      "id": "de8dd9a8d06368d9668f822fd82a6bc2",
+      "timestamp": 1761141055844
     }
   ],
   "source microfinance bank": [
@@ -19011,6 +18996,27 @@
       "site": "JobGurus",
       "id": "81d59b6cd16a9685fb44d311ed9ca98c",
       "timestamp": 1761136414047
+    }
+  ],
+  "cemcs": [
+    {
+      "site": "JobGurus",
+      "id": "4468a748aaf49252cd8541847cc9c03e",
+      "timestamp": 1761141055844
+    }
+  ],
+  "bj group": [
+    {
+      "site": "JobGurus",
+      "id": "fc8afb80b2ab39f68cbbb644c2bd42d8",
+      "timestamp": 1761141055844
+    }
+  ],
+  "lo’meedar fresh": [
+    {
+      "site": "JobGurus",
+      "id": "3d72cb6bacd43f0989eac753b819cfab",
+      "timestamp": 1761141055844
     }
   ]
 }
