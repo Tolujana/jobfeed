@@ -5518,8 +5518,8 @@
   "updeal resources": [
     {
       "site": "JobGurus",
-      "id": "f721cd261b6cfcd7859fc83c534c3322",
-      "timestamp": 1759412487139
+      "id": "01b674daf6601a636ebc1c38ff27816b",
+      "timestamp": 1761146124618
     }
   ],
   "macden communications limited": [
@@ -9162,8 +9162,8 @@
   "nettetal nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6531d5cbfb0dc788afa043ea50da8066",
-      "timestamp": 1753197496676
+      "id": "04ad0d3d6d599413f2971d078b4eb78b",
+      "timestamp": 1761146124618
     }
   ],
   "kings guards nigeria limited": [
@@ -19024,6 +19024,13 @@
       "site": "JobGurus",
       "id": "34346feeae51e618bb52ef6c17ecda3c",
       "timestamp": 1761142607742
+    }
+  ],
+  "harmony garden & estate development limited": [
+    {
+      "site": "JobGurus",
+      "id": "ad3716ae50bc7f124ac60e1e62c1c68b",
+      "timestamp": 1761146124618
     }
   ]
 }
