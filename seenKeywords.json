@@ -6274,8 +6274,8 @@
   "htsf global nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "670b23aaf70d69472fb89e0a2d3570d4",
-      "timestamp": 1757529935482
+      "id": "8f5fcf42925aa16f5f53740bab92034a",
+      "timestamp": 1761214613941
     }
   ],
   "recore limited": [
@@ -19074,6 +19074,20 @@
       "site": "JobGurus",
       "id": "93155ecf6e561fc36047ffb897d70476",
       "timestamp": 1761154645463
+    }
+  ],
+  "resource divine energy and logistics": [
+    {
+      "site": "JobGurus",
+      "id": "cd6d593e35b229fcb189f012772333a5",
+      "timestamp": 1761214613941
+    }
+  ],
+  "american open university nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "330dc06772af02b8026b12b9a488226d",
+      "timestamp": 1761214613941
     }
   ]
 }
