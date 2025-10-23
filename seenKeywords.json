@@ -19095,6 +19095,16 @@
       "site": "JobGurus",
       "id": "609cc8882dc9061b1bebf4f2262fdf13",
       "timestamp": 1761216148555
+    },
+    {
+      "site": "JobGurus",
+      "id": "b21eee21fc141a6ac3bc12efbb29e2b8",
+      "timestamp": 1761218005121
+    },
+    {
+      "site": "JobGurus",
+      "id": "2c98e5789096e8c852fd070899a5bdc3",
+      "timestamp": 1761218005121
     }
   ],
   "premidis nigeria limited": [
@@ -19109,6 +19119,25 @@
       "site": "JobGurus",
       "id": "9436a960f7c2e24a2201c648af36bdc5",
       "timestamp": 1761216148555
+    }
+  ],
+  "bakan gizo pharmacy & stores limited": [
+    {
+      "site": "JobGurus",
+      "id": "78ea3c71d0e7ed3f6b0ef0176557134b",
+      "timestamp": 1761218005121
+    },
+    {
+      "site": "JobGurus",
+      "id": "8872a65c0a82b680d635bfa2917bd994",
+      "timestamp": 1761218005121
+    }
+  ],
+  "bennie agro processing company limited": [
+    {
+      "site": "JobGurus",
+      "id": "04263f37f55f5e7bc3eac9037b03ee84",
+      "timestamp": 1761218005121
     }
   ]
 }
