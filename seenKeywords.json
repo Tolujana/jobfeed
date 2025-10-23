@@ -1702,13 +1702,8 @@
   "hec recruit": [
     {
       "site": "JobGurus",
-      "id": "fe2e778097966b216268ab66d646a49a",
-      "timestamp": 1758827536416
-    },
-    {
-      "site": "JobGurus",
-      "id": "31427ae468ed072a13f43157029ac0c2",
-      "timestamp": 1758827536416
+      "id": "33c2b9e29a3a98ee5571812993e18d43",
+      "timestamp": 1761230606886
     }
   ],
   "wendernek consulting limited": [
@@ -3180,8 +3175,8 @@
   "vixa pharmaceutical company limited": [
     {
       "site": "JobGurus",
-      "id": "bc2478eac77aa5e32012e322cd5226d7",
-      "timestamp": 1751470969240
+      "id": "ca9c55e274e78106ec3bcde763cb2cb2",
+      "timestamp": 1761230606886
     }
   ],
   "hamik energy limited": [
@@ -5506,13 +5501,8 @@
   "eric kayser nigeria": [
     {
       "site": "JobGurus",
-      "id": "ae0a66de5b86572881b90529d0f54b94",
-      "timestamp": 1751044415886
-    },
-    {
-      "site": "JobGurus",
-      "id": "0e73d0c0f4013b23ed2da1426b2974eb",
-      "timestamp": 1751044415886
+      "id": "e5f4e0bd823c89803da538a5917db462",
+      "timestamp": 1761230606886
     }
   ],
   "updeal resources": [
@@ -8661,8 +8651,8 @@
   "xpedient services": [
     {
       "site": "JobGurus",
-      "id": "65740357163a7f4cd053b61a38b04313",
-      "timestamp": 1758886533809
+      "id": "d58d2c7bf10f2d87c788baa38f27c347",
+      "timestamp": 1761230606886
     }
   ],
   "la campagne tropicana beach resort": [
@@ -19088,6 +19078,11 @@
       "site": "JobGurus",
       "id": "330dc06772af02b8026b12b9a488226d",
       "timestamp": 1761214613941
+    },
+    {
+      "site": "JobGurus",
+      "id": "58261033e302120ca2c59eaf2fbd5bb5",
+      "timestamp": 1761230606886
     }
   ],
   "greywood hotels & apartments": [
