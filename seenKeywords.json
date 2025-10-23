@@ -1349,8 +1349,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "4fb3738e245a69440000e3035ee05299",
-      "timestamp": 1758906771595
+      "id": "803b23b893a6e76059614893b5cc58e0",
+      "timestamp": 1761228949606
     }
   ],
   "jtech global resources limited": [
@@ -4483,8 +4483,8 @@
   "bluebrain services limited": [
     {
       "site": "JobGurus",
-      "id": "51e2f747e6044701e0544b28d32f1e3c",
-      "timestamp": 1750445281161
+      "id": "7f2adc3f5785a2a66fca8639527ea1c9",
+      "timestamp": 1761228949606
     }
   ],
   "dufil group": [
@@ -8133,8 +8133,8 @@
   "amo farm sieberer hatchery limited": [
     {
       "site": "JobGurus",
-      "id": "ede48e6e2a5eec390749f6c424d9e0ff",
-      "timestamp": 1752592581897
+      "id": "d0d7688dc52200c0cdbf4a5d055fb295",
+      "timestamp": 1761228949606
     }
   ],
   "abuja": [
@@ -19193,6 +19193,13 @@
       "site": "JobGurus",
       "id": "dbd757d87e525225b3b810984b298299",
       "timestamp": 1761227337165
+    }
+  ],
+  "d&m data solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "ef65a89d23282db29616a4f4e9adc19c",
+      "timestamp": 1761228949606
     }
   ]
 }
