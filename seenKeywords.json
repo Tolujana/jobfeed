@@ -19105,6 +19105,11 @@
       "site": "JobGurus",
       "id": "2c98e5789096e8c852fd070899a5bdc3",
       "timestamp": 1761218005121
+    },
+    {
+      "site": "JobGurus",
+      "id": "820eed1539893d42536f020e38bff0c5",
+      "timestamp": 1761226130656
     }
   ],
   "premidis nigeria limited": [
@@ -19131,6 +19136,21 @@
       "site": "JobGurus",
       "id": "8872a65c0a82b680d635bfa2917bd994",
       "timestamp": 1761218005121
+    },
+    {
+      "site": "JobGurus",
+      "id": "d136c85939c69d05511f6db346230230",
+      "timestamp": 1761226130656
+    },
+    {
+      "site": "JobGurus",
+      "id": "76a4b83990ddb704057a17442d3e1913",
+      "timestamp": 1761226130656
+    },
+    {
+      "site": "JobGurus",
+      "id": "e90c36f1fd48a1cf16847f8ac33b7647",
+      "timestamp": 1761226130656
     }
   ],
   "bennie agro processing company limited": [
@@ -19159,6 +19179,13 @@
       "site": "JobGurus",
       "id": "ee084de19c9a4534648015fbcb0ae75c",
       "timestamp": 1761222801923
+    }
+  ],
+  "matrix energy group": [
+    {
+      "site": "JobGurus",
+      "id": "d966940e956f8c441f197a4d0af0746c",
+      "timestamp": 1761226130656
     }
   ]
 }
