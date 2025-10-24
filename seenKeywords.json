@@ -2517,8 +2517,8 @@
   "enviable group": [
     {
       "site": "JobGurus",
-      "id": "be1d58304e6ef0873ee50d8f6fe705b1",
-      "timestamp": 1758552148287
+      "id": "546ef624c4d23246ba734d36167ab845",
+      "timestamp": 1761327510414
     }
   ],
   "dev-afrique development advisors": [
@@ -7338,8 +7338,8 @@
   "kartel": [
     {
       "site": "JobGurus",
-      "id": "a1c466c85b51bf8d6a7aaef54c87c509",
-      "timestamp": 1760460277139
+      "id": "2c2fb1a5f5b2167677050a8d438d23a2",
+      "timestamp": 1761327510414
     }
   ],
   "tonia pharmacy limited": [
@@ -19330,6 +19330,18 @@
       "site": "JobGurus",
       "id": "430f7373644e31dff898ba7ec5370a89",
       "timestamp": 1761326033832
+    }
+  ],
+  "energy and plant technology": [
+    {
+      "site": "JobGurus",
+      "id": "5adad9e7534ecadc799f5fbf6cfef976",
+      "timestamp": 1761327510414
+    },
+    {
+      "site": "JobGurus",
+      "id": "c6dee4133a2d81c30c4d39ada4d28487",
+      "timestamp": 1761327510414
     }
   ]
 }
