@@ -7991,8 +7991,8 @@
   "swift consulting limited": [
     {
       "site": "JobGurus",
-      "id": "3bb092e0e6853bd1d73e1e71c22d62d8",
-      "timestamp": 1759423416097
+      "id": "7596ee2b2a3ea6239692abf9ccea1a62",
+      "timestamp": 1761302579039
     }
   ],
   "danish refugee council": [
@@ -19221,6 +19221,20 @@
       "site": "JobGurus",
       "id": "45635128e639eba369a39b8d06e7838a",
       "timestamp": 1761297436883
+    }
+  ],
+  "inter global technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "dc734b1590806029cbc947ab0da85f5e",
+      "timestamp": 1761302579039
+    }
+  ],
+  "gbemisola rita": [
+    {
+      "site": "JobGurus",
+      "id": "d74e6f1cfd8a43c6bcda640a0808f30f",
+      "timestamp": 1761302579039
     }
   ]
 }
