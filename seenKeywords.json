@@ -5648,13 +5648,8 @@
   "olam agri": [
     {
       "site": "JobGurus",
-      "id": "7d32c53f91bc263276298aeff6ad206e",
-      "timestamp": 1758371284080
-    },
-    {
-      "site": "JobGurus",
-      "id": "5e6584feca4e1356f11c4c521a86b280",
-      "timestamp": 1758828951471
+      "id": "3ba0465f6230eb506b464da34a7cfb2f",
+      "timestamp": 1761333163135
     }
   ],
   "oneland africa": [
@@ -10672,8 +10667,8 @@
   "uridium technologies": [
     {
       "site": "JobGurus",
-      "id": "aa868cdbe6c75feba925694ed56de6a5",
-      "timestamp": 1754311024332
+      "id": "81b2e8b90887047748e852db214e6f65",
+      "timestamp": 1761333163135
     }
   ],
   "kingrock international nigeria limited": [
@@ -17122,8 +17117,8 @@
   "echo-scan services limited": [
     {
       "site": "JobGurus",
-      "id": "230938b0ef734e7470e92966954efa13",
-      "timestamp": 1759429266316
+      "id": "1c7f53129934c0399ef0b2c86d54c00c",
+      "timestamp": 1761333163135
     }
   ],
   "the vault recruitment": [
@@ -19361,6 +19356,20 @@
       "site": "JobGurus",
       "id": "aef8acba6ab616a2f01d7d21b2d66986",
       "timestamp": 1761330112186
+    }
+  ],
+  "international committee of the red cross (icrc)": [
+    {
+      "site": "JobGurus",
+      "id": "bc59b3562c32e3821cc0d1cbbfcdb981",
+      "timestamp": 1761333163135
+    }
+  ],
+  "cadsync consults limited": [
+    {
+      "site": "JobGurus",
+      "id": "6c4b92e3ce48d9ab0cb41a9a2d03ba23",
+      "timestamp": 1761333163135
     }
   ]
 }
