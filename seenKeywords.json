@@ -157,6 +157,11 @@
       "site": "JobGurus",
       "id": "38afebc1b33343a0b63b4f5dbcbd871b",
       "timestamp": 1761316977231
+    },
+    {
+      "site": "JobGurus",
+      "id": "918d02c70983f352bd598352a5c01c04",
+      "timestamp": 1761320383578
     }
   ],
   "cway group": [
@@ -580,6 +585,11 @@
       "site": "JobGurus",
       "id": "8f5d474ede9cc366e17061b602737522",
       "timestamp": 1761154645463
+    },
+    {
+      "site": "JobGurus",
+      "id": "83f4f82d13f4cc33736766b99b7eae36",
+      "timestamp": 1761320383578
     }
   ],
   "food concepts plc": [
@@ -7542,8 +7552,8 @@
   "jhpiego": [
     {
       "site": "JobGurus",
-      "id": "3dcc5460804c86d711f83760f7070ff0",
-      "timestamp": 1752226985407
+      "id": "a6e05f43404ed04a58af917c70db4a1b",
+      "timestamp": 1761320383578
     }
   ],
   "abuja clinics": [
@@ -19271,6 +19281,13 @@
       "site": "JobGurus",
       "id": "7fa41cdc5b2f9e2a4bf0020174d31bd9",
       "timestamp": 1761318976858
+    }
+  ],
+  "ai multimedia academy": [
+    {
+      "site": "JobGurus",
+      "id": "4270b166328f0d341b0d5fc80c08e480",
+      "timestamp": 1761320383578
     }
   ]
 }
