@@ -18154,8 +18154,8 @@
   "amo-hr solutions": [
     {
       "site": "JobGurus",
-      "id": "1e3e2eb6672f5f8a51a37f766a5c0724",
-      "timestamp": 1760386605713
+      "id": "306d84a9fe8b58810ef410614aa21d01",
+      "timestamp": 1761322757170
     }
   ],
   "new incentives": [
@@ -19288,6 +19288,27 @@
       "site": "JobGurus",
       "id": "4270b166328f0d341b0d5fc80c08e480",
       "timestamp": 1761320383578
+    }
+  ],
+  "triumph power and gas systems limited": [
+    {
+      "site": "JobGurus",
+      "id": "adfc1fc977c7cf4f5d5078e24cb8206f",
+      "timestamp": 1761322757170
+    }
+  ],
+  "xfp productions": [
+    {
+      "site": "JobGurus",
+      "id": "f75ce0c11a5303d93678c1b5d3ab4e69",
+      "timestamp": 1761322757170
+    }
+  ],
+  "learners burg limited": [
+    {
+      "site": "JobGurus",
+      "id": "7bfc3049afd1d05320d376928468e5ea",
+      "timestamp": 1761322757170
     }
   ]
 }
