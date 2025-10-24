@@ -3515,8 +3515,8 @@
   "swift consulting": [
     {
       "site": "JobGurus",
-      "id": "42f644a2f6b72ab80748ff10a1cbc6bf",
-      "timestamp": 1760382713651
+      "id": "c233d44331841cb3526a8db317387272",
+      "timestamp": 1761304401792
     }
   ],
   "pack ‘n’ pay": [
@@ -19235,6 +19235,13 @@
       "site": "JobGurus",
       "id": "d74e6f1cfd8a43c6bcda640a0808f30f",
       "timestamp": 1761302579039
+    }
+  ],
+  "bc networks west africa": [
+    {
+      "site": "JobGurus",
+      "id": "61ac818511d23f2b167603c21dc8237a",
+      "timestamp": 1761304401792
     }
   ]
 }
