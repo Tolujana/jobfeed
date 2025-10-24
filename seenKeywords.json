@@ -152,6 +152,11 @@
       "site": "JobGurus",
       "id": "ac3191eec11b8fbbd2eea80fcd4403aa",
       "timestamp": 1761151678296
+    },
+    {
+      "site": "JobGurus",
+      "id": "38afebc1b33343a0b63b4f5dbcbd871b",
+      "timestamp": 1761316977231
     }
   ],
   "cway group": [
@@ -6402,18 +6407,8 @@
   "lopterra services limited": [
     {
       "site": "JobGurus",
-      "id": "612fdd06cb6bfe2c130ca206d7652f4c",
-      "timestamp": 1755958357594
-    },
-    {
-      "site": "JobGurus",
-      "id": "67e6ac5f9e639b3e5d718534d48884b4",
-      "timestamp": 1755958357594
-    },
-    {
-      "site": "JobGurus",
-      "id": "b304a7c44c820234277a2e9fa488396f",
-      "timestamp": 1755958357594
+      "id": "f6678bad9d47b493a2bb3a91202fd05c",
+      "timestamp": 1761316977231
     }
   ],
   "tizeti network limited": [
@@ -6506,6 +6501,11 @@
       "site": "JobGurus",
       "id": "fc627f9adf35b05af00af67e3050fe4f",
       "timestamp": 1760987552855
+    },
+    {
+      "site": "JobGurus",
+      "id": "84d91251c8ae28d98a0f3ee4ddc95638",
+      "timestamp": 1761316977231
     }
   ],
   "timospiden global services": [
@@ -7588,8 +7588,8 @@
   "whoosh logistics": [
     {
       "site": "JobGurus",
-      "id": "d6ec10fc3a32b24c34e8295521e799b1",
-      "timestamp": 1754667884593
+      "id": "4c0602edd2b07bfd74521d57a64e8f44",
+      "timestamp": 1761316977231
     }
   ],
   "board of management of fedral medical centre": [
@@ -19242,6 +19242,13 @@
       "site": "JobGurus",
       "id": "61ac818511d23f2b167603c21dc8237a",
       "timestamp": 1761304401792
+    }
+  ],
+  "genesis restaurant": [
+    {
+      "site": "JobGurus",
+      "id": "e36f1dc22c4d712eb2bb47ed530f58b9",
+      "timestamp": 1761316977231
     }
   ]
 }
