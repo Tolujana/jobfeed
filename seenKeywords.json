@@ -979,6 +979,11 @@
       "site": "JobGurus",
       "id": "b948f2cafcaa4b71d4a99807d85996ab",
       "timestamp": 1761388694823
+    },
+    {
+      "site": "JobGurus",
+      "id": "d45ff8dfcf2961fee3138b64d282aeca",
+      "timestamp": 1761390681638
     }
   ],
   "zenith carex international limited": [
@@ -2650,8 +2655,13 @@
   "apex forte professionals": [
     {
       "site": "JobGurus",
-      "id": "3c9c574ecd0c593cb76973c605554e09",
-      "timestamp": 1753442082456
+      "id": "60c2af1ae8fd905b94aaefd281f2cd1d",
+      "timestamp": 1761390681638
+    },
+    {
+      "site": "JobGurus",
+      "id": "47236b67ce7052f69b23bd5be36927cd",
+      "timestamp": 1761390681638
     }
   ],
   " hrd solutions": [
@@ -19372,6 +19382,11 @@
       "site": "JobGurus",
       "id": "f714342c3cac7577326a2a241e0bb028",
       "timestamp": 1761383653292
+    },
+    {
+      "site": "JobGurus",
+      "id": "93c652a92ab588c32099acebaa0a106b",
+      "timestamp": 1761390681638
     }
   ],
   "schlumberger limited": [
@@ -19398,6 +19413,13 @@
       "site": "JobGurus",
       "id": "1d23eff10b6c7856df81fee1241953f9",
       "timestamp": 1761388694823
+    }
+  ],
+  "damos wellness empire limited": [
+    {
+      "site": "JobGurus",
+      "id": "d30cd5b81c11c6f8802e8f593f814622",
+      "timestamp": 1761390681638
     }
   ]
 }
