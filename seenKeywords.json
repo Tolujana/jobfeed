@@ -977,13 +977,8 @@
   "workforce group": [
     {
       "site": "JobGurus",
-      "id": "d450561a0176d77414e0a9d02b5ea794",
-      "timestamp": 1759929970754
-    },
-    {
-      "site": "JobGurus",
-      "id": "ee309d2eb17cdae495fb682e86e59b81",
-      "timestamp": 1760187476877
+      "id": "b948f2cafcaa4b71d4a99807d85996ab",
+      "timestamp": 1761388694823
     }
   ],
   "zenith carex international limited": [
@@ -6594,6 +6589,11 @@
       "site": "JobGurus",
       "id": "e54debf4fde73494e5d6dfe60f5a614d",
       "timestamp": 1761387261529
+    },
+    {
+      "site": "JobGurus",
+      "id": "82ca82b3423a1cf0db25d46e22ecb0f7",
+      "timestamp": 1761388694823
     }
   ],
   "jibs-ray nigeria limited": [
@@ -17271,13 +17271,13 @@
   "rainbow heritage group limited": [
     {
       "site": "JobGurus",
-      "id": "16c24d5dc0294474ba302711f5f1357f",
-      "timestamp": 1759584945422
+      "id": "a4e1e8f492016b83843e0362971a5dab",
+      "timestamp": 1761388694823
     },
     {
       "site": "JobGurus",
-      "id": "532a8781eb63e5941500549e5ac844e7",
-      "timestamp": 1759587104235
+      "id": "b11b825d87fcf6eeafb8d6833c07a03b",
+      "timestamp": 1761388694823
     }
   ],
   "she code africa": [
@@ -19391,6 +19391,13 @@
       "site": "JobGurus",
       "id": "a0fc75d6294ef44ba865ba08d3669f43",
       "timestamp": 1761384951931
+    }
+  ],
+  "wellnest mindset brand": [
+    {
+      "site": "JobGurus",
+      "id": "1d23eff10b6c7856df81fee1241953f9",
+      "timestamp": 1761388694823
     }
   ]
 }
