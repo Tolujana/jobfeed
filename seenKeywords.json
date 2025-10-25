@@ -17513,8 +17513,8 @@
   "magikworld": [
     {
       "site": "JobGurus",
-      "id": "7c6fb0a207e7bfd59a7044058e20d3c3",
-      "timestamp": 1759843563315
+      "id": "af864928da48c801e4ae2e15fd078cf0",
+      "timestamp": 1761384951931
     }
   ],
   "apm terminals": [
@@ -17674,6 +17674,11 @@
       "site": "JobGurus",
       "id": "6a2a2c9b599f8da155b6db89702afd1c",
       "timestamp": 1761383653292
+    },
+    {
+      "site": "JobGurus",
+      "id": "f3af6fcacb2174b33b05d8679f46a70e",
+      "timestamp": 1761384951931
     }
   ],
   "bt health and diagnostic centre": [
@@ -19384,6 +19389,18 @@
       "site": "JobGurus",
       "id": "91466380f232e7256c95e9c16221d64a",
       "timestamp": 1761383653292
+    }
+  ],
+  "pragmatic technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "386e9526a6539390e6a849030043cedf",
+      "timestamp": 1761384951931
+    },
+    {
+      "site": "JobGurus",
+      "id": "a0fc75d6294ef44ba865ba08d3669f43",
+      "timestamp": 1761384951931
     }
   ]
 }
