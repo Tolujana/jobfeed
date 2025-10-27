@@ -1500,13 +1500,13 @@
   "unified payment services limited": [
     {
       "site": "JobGurus",
-      "id": "34993a68eabfcd9a314c58e58f83beb7",
-      "timestamp": 1760717916836
+      "id": "cc6156f19a759169d84224cce7402010",
+      "timestamp": 1761579504979
     },
     {
       "site": "JobGurus",
-      "id": "a231f78624f8629dfb970cf73a8f47e4",
-      "timestamp": 1760785871329
+      "id": "83ad6612792dc26e72186b5e6ed1943b",
+      "timestamp": 1761579504979
     }
   ],
   "straitpay": [
@@ -15467,8 +15467,8 @@
   "mapsi group": [
     {
       "site": "JobGurus",
-      "id": "1770b7deb4d60e6befc9794b9178da69",
-      "timestamp": 1758200699441
+      "id": "c764bfb3ff5d95efd1fb8d0c0b5ab86d",
+      "timestamp": 1761579504979
     }
   ],
   "sqi college of ict": [
@@ -16167,13 +16167,8 @@
   "deer nigeria": [
     {
       "site": "JobGurus",
-      "id": "678a3ecc399f54fb9107e108f01674f7",
-      "timestamp": 1758803537585
-    },
-    {
-      "site": "JobGurus",
-      "id": "be46a61f8254b0a6cb1beacc6d1e7077",
-      "timestamp": 1758806751684
+      "id": "4f70f2df729db4d3d2d531ac13cc0c8b",
+      "timestamp": 1761579504979
     }
   ],
   "maywood lending limited": [
@@ -19455,6 +19450,13 @@
       "site": "JobGurus",
       "id": "989b25c6347cbd5db1782e373175393d",
       "timestamp": 1761578200609
+    }
+  ],
+  "christian aid (ca)": [
+    {
+      "site": "JobGurus",
+      "id": "975c8ead4977dc59b366ecaeb362ba81",
+      "timestamp": 1761579504979
     }
   ]
 }
