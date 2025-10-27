@@ -5815,6 +5815,11 @@
       "site": "JobGurus",
       "id": "9f1fbf770c48d9e95519168800f1583e",
       "timestamp": 1761153260090
+    },
+    {
+      "site": "JobGurus",
+      "id": "244cc3665575a8f5dd4d985dc50c2926",
+      "timestamp": 1761578200609
     }
   ],
   "lotus capital limited": [
@@ -6671,13 +6676,8 @@
   "de talents": [
     {
       "site": "JobGurus",
-      "id": "b3e00124d448665ca8fb16d9d878278c",
-      "timestamp": 1751663688219
-    },
-    {
-      "site": "JobGurus",
-      "id": "962af28fc8c25378c001fe0e7c6543e8",
-      "timestamp": 1751670891323
+      "id": "4dca62d5d8c2bd06564564075de2b8cd",
+      "timestamp": 1761578200609
     }
   ],
   "firewood rice nigeria": [
@@ -15959,8 +15959,8 @@
   "flinx realty": [
     {
       "site": "JobGurus",
-      "id": "05cb1bad26f33842a6ef62c0ad031a61",
-      "timestamp": 1758625952301
+      "id": "89e2ad713bec2ac06b2d2880954185f9",
+      "timestamp": 1761578200609
     }
   ],
   "terra aqua environmental consultancy limited": [
@@ -19441,6 +19441,20 @@
       "site": "JobGurus",
       "id": "8b0eb8dedc1be5be64f2e7339fe8e9ef",
       "timestamp": 1761574604866
+    }
+  ],
+  "cold slab ice creamery": [
+    {
+      "site": "JobGurus",
+      "id": "b020043c4b875cf566c01c64f7f02987",
+      "timestamp": 1761578200609
+    }
+  ],
+  "hr and its people": [
+    {
+      "site": "JobGurus",
+      "id": "989b25c6347cbd5db1782e373175393d",
+      "timestamp": 1761578200609
     }
   ]
 }
