@@ -65,8 +65,8 @@
   "the concept group": [
     {
       "site": "JobGurus",
-      "id": "37bc7d99a82e874b60d698363cc30bbb",
-      "timestamp": 1760110633361
+      "id": "853443ca4b7994f1b4a22e6d9ac1a589",
+      "timestamp": 1761565021750
     }
   ],
   "triple x environmental health consult": [
@@ -19420,6 +19420,18 @@
       "site": "JobGurus",
       "id": "d30cd5b81c11c6f8802e8f593f814622",
       "timestamp": 1761390681638
+    }
+  ],
+  "beta glass": [
+    {
+      "site": "JobGurus",
+      "id": "d7f2edafe34a736fd58872ab349eea84",
+      "timestamp": 1761565021750
+    },
+    {
+      "site": "JobGurus",
+      "id": "a083e6543054125faa785969ca1d36f1",
+      "timestamp": 1761565021750
     }
   ]
 }
