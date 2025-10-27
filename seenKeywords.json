@@ -4926,8 +4926,8 @@
   "uleval technology": [
     {
       "site": "JobGurus",
-      "id": "6ff28b2c98def2c91af8d1018b60436f",
-      "timestamp": 1755545822456
+      "id": "d69b2b7777e27ae24d5794853450d176",
+      "timestamp": 1761574604866
     }
   ],
   "joseph robotics lab and tech": [
@@ -8046,18 +8046,8 @@
   "screenage limited": [
     {
       "site": "JobGurus",
-      "id": "0eceb048e91632f547a4437f38d24738",
-      "timestamp": 1752572943906
-    },
-    {
-      "site": "JobGurus",
-      "id": "af6fe89fb6942259c868c8c5f09f7fbd",
-      "timestamp": 1752572943906
-    },
-    {
-      "site": "JobGurus",
-      "id": "2013effe0c9c9762e6c6881c9832f103",
-      "timestamp": 1752572943906
+      "id": "a99b1136ac076a64645cec86b8db22c4",
+      "timestamp": 1761574604866
     }
   ],
   "plugzone online": [
@@ -16288,13 +16278,8 @@
   "primly premium solutions limited": [
     {
       "site": "JobGurus",
-      "id": "b8b94f0e0289a3504eae808ea2a93a0a",
-      "timestamp": 1758881728097
-    },
-    {
-      "site": "JobGurus",
-      "id": "1faee9a25e0eb047d8f120ba68896a2f",
-      "timestamp": 1758894134658
+      "id": "b6f6f5620c079cbd34a0e6c534c507b7",
+      "timestamp": 1761574604866
     }
   ],
   "obor logistics nigeria limited": [
@@ -19444,6 +19429,13 @@
       "site": "JobGurus",
       "id": "45c3fcac4fa0ad38556e41ace75d1eec",
       "timestamp": 1761572991060
+    }
+  ],
+  "center for community development and research network": [
+    {
+      "site": "JobGurus",
+      "id": "8b0eb8dedc1be5be64f2e7339fe8e9ef",
+      "timestamp": 1761574604866
     }
   ]
 }
