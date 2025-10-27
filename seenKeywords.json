@@ -436,8 +436,13 @@
   "me cure industries limited": [
     {
       "site": "JobGurus",
-      "id": "1f099a7e9bc660aaebbc9df4651ea62a",
-      "timestamp": 1748950619805
+      "id": "83cbf4e2dd63c1ec6cd6263a955d9fcf",
+      "timestamp": 1761582003465
+    },
+    {
+      "site": "JobGurus",
+      "id": "f6f6233871e8a54b7ec9d140cf8f3dc7",
+      "timestamp": 1761582003465
     }
   ],
   "society for family health (sfh)": [
@@ -14324,8 +14329,8 @@
   "det consulting limited": [
     {
       "site": "JobGurus",
-      "id": "c75957bccaec7b38dbb06152649c0891",
-      "timestamp": 1759487951879
+      "id": "2941857c8c3b7a3d85a6839487802833",
+      "timestamp": 1761582003465
     }
   ],
   "power control and appliances limited": [
@@ -16188,8 +16193,8 @@
   "ravenpay limited": [
     {
       "site": "JobGurus",
-      "id": "7aa87a273f26f7e5f1bfd1392a5ea424",
-      "timestamp": 1758807875588
+      "id": "fcf55a49b70b830daab438ead68b7ec8",
+      "timestamp": 1761582003465
     }
   ],
   "il bagno nigeria": [
@@ -19457,6 +19462,13 @@
       "site": "JobGurus",
       "id": "975c8ead4977dc59b366ecaeb362ba81",
       "timestamp": 1761579504979
+    }
+  ],
+  "basscomm nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "c00569fcc9dce920c54e80f42087aab6",
+      "timestamp": 1761582003465
     }
   ]
 }
