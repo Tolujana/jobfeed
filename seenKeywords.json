@@ -140,11 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "6aaa8a9a73784ee94ffbeace96ff0ed5",
-      "timestamp": 1760719459931
-    },
-    {
-      "site": "JobGurus",
       "id": "870fe4dc0f67a94243cae37c73cd5cf1",
       "timestamp": 1761054692665
     },
@@ -162,6 +157,11 @@
       "site": "JobGurus",
       "id": "918d02c70983f352bd598352a5c01c04",
       "timestamp": 1761320383578
+    },
+    {
+      "site": "JobGurus",
+      "id": "5729e3be62629a7de3a5f79388027c69",
+      "timestamp": 1761651368533
     }
   ],
   "cway group": [
@@ -985,8 +985,8 @@
   "skylight professional services and partners": [
     {
       "site": "JobGurus",
-      "id": "949f60e181214cdc698e6e0b8210518a",
-      "timestamp": 1755364372058
+      "id": "9f56eb73eae21c886a5379ff9a6a94ec",
+      "timestamp": 1761651368533
     }
   ],
   "workforce group": [
@@ -2359,8 +2359,8 @@
   "jules construction": [
     {
       "site": "JobGurus",
-      "id": "e600c078e9e14354e5368683aa22748c",
-      "timestamp": 1760996277670
+      "id": "43725c0d2dfbc44c1efaeb3c5c5b901a",
+      "timestamp": 1761651368533
     }
   ],
   "obafemi awolowo university (oau)": [
@@ -2463,8 +2463,8 @@
   "limeswood international company limited": [
     {
       "site": "JobGurus",
-      "id": "9df890a4775e301700dbae734127daf9",
-      "timestamp": 1758550563450
+      "id": "95c855e4a0f653054d97128140140ffb",
+      "timestamp": 1761651368533
     }
   ],
   "medbury pharmaceuticals": [
@@ -8177,8 +8177,8 @@
   "ajoke group": [
     {
       "site": "JobGurus",
-      "id": "f0fc9666d2a6a6e2baadf294524a0187",
-      "timestamp": 1757348291432
+      "id": "b068127cdbec182cf9eb7f354434615f",
+      "timestamp": 1761651368533
     }
   ],
   "united airlines": [
