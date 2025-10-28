@@ -492,6 +492,11 @@
       "site": "JobGurus",
       "id": "aa510230b0716d075ce32edf155b8b60",
       "timestamp": 1761057636283
+    },
+    {
+      "site": "JobGurus",
+      "id": "3a5476908716675dae8cb93822d542e0",
+      "timestamp": 1761649971785
     }
   ],
   "universal human resource consult": [
@@ -18208,8 +18213,8 @@
   "beyond credit limited": [
     {
       "site": "JobGurus",
-      "id": "bf8873e879311308001c580af1d23767",
-      "timestamp": 1760449582712
+      "id": "2f043543589df595fc94269fa1024958",
+      "timestamp": 1761649971785
     }
   ],
   "o’spaces nigeria limited": [
@@ -19528,6 +19533,20 @@
       "site": "JobGurus",
       "id": "c0477f8f36be34556728d5f9d336ff03",
       "timestamp": 1761648273421
+    }
+  ],
+  "savannah energy": [
+    {
+      "site": "JobGurus",
+      "id": "678ffdac88fc33314a0d9e5aeea0e925",
+      "timestamp": 1761649971785
+    }
+  ],
+  "aim consultants limited": [
+    {
+      "site": "JobGurus",
+      "id": "fd62c5d255aa0d2463ece992118c6c8e",
+      "timestamp": 1761649971785
     }
   ]
 }
