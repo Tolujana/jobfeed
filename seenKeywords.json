@@ -547,6 +547,11 @@
       "site": "JobGurus",
       "id": "bc1a389a6fadbb75e5ca3c7969b66530",
       "timestamp": 1761666138866
+    },
+    {
+      "site": "JobGurus",
+      "id": "b35c290b69755a3b6c0522d545bda484",
+      "timestamp": 1761668443900
     }
   ],
   "abbfem group": [
@@ -11224,18 +11229,8 @@
   "pulse nigeria": [
     {
       "site": "JobGurus",
-      "id": "1030e805f6adfb3e8f49524a34895c5d",
-      "timestamp": 1759592106163
-    },
-    {
-      "site": "JobGurus",
-      "id": "c00388a8d35d179730dcb0094104701b",
-      "timestamp": 1759592106163
-    },
-    {
-      "site": "JobGurus",
-      "id": "4438f9b47ab12bcc89d0d25227ddeb93",
-      "timestamp": 1759594572109
+      "id": "eb6620614588614b1bc18128b6e6dffc",
+      "timestamp": 1761668443900
     }
   ],
   "nairametrics": [
@@ -16556,8 +16551,8 @@
   "swean consulting": [
     {
       "site": "JobGurus",
-      "id": "dc4e917fe2a6691b59878b9c7864eb85",
-      "timestamp": 1759160312934
+      "id": "bc74722568053226014357c13ca94ced",
+      "timestamp": 1761668443900
     }
   ],
   "reftop homes limited": [
@@ -19603,6 +19598,11 @@
       "site": "JobGurus",
       "id": "17c31c958aa26639bcdfdee0e5de01f7",
       "timestamp": 1761662623199
+    },
+    {
+      "site": "JobGurus",
+      "id": "6355d44da3d5446433885caad9a50bcd",
+      "timestamp": 1761668443900
     }
   ],
   "goldchek herbals": [
@@ -19643,6 +19643,13 @@
       "site": "JobGurus",
       "id": "4ca7d8ab2861d0a47b9dca3b81a556f5",
       "timestamp": 1761666138866
+    }
+  ],
+  "golden fleet logistics (gfl)": [
+    {
+      "site": "JobGurus",
+      "id": "a358014713c142e2a7c68e1f88ec8908",
+      "timestamp": 1761668443900
     }
   ]
 }
