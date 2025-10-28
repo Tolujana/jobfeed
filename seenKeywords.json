@@ -542,6 +542,11 @@
       "site": "JobGurus",
       "id": "a48b46d647ce96e29d4921cfd4f95852",
       "timestamp": 1761576354913
+    },
+    {
+      "site": "JobGurus",
+      "id": "bc1a389a6fadbb75e5ca3c7969b66530",
+      "timestamp": 1761666138866
     }
   ],
   "abbfem group": [
@@ -4184,6 +4189,11 @@
       "site": "JobGurus",
       "id": "58035ec41f97b2cd8a5af3641e999cd5",
       "timestamp": 1761318976858
+    },
+    {
+      "site": "JobGurus",
+      "id": "e507eff60f2d36d3dcf23f8a79b0f73b",
+      "timestamp": 1761666138866
     }
   ],
   "saywheels auto": [
@@ -19619,6 +19629,20 @@
       "site": "JobGurus",
       "id": "f39d64ec4ab4712ddec00cc29bdae9fe",
       "timestamp": 1761664653281
+    }
+  ],
+  "kelvix consult": [
+    {
+      "site": "JobGurus",
+      "id": "d512fdf7c6811d0cb496e5a1bbe9d988",
+      "timestamp": 1761666138866
+    }
+  ],
+  "zibahs digitals": [
+    {
+      "site": "JobGurus",
+      "id": "4ca7d8ab2861d0a47b9dca3b81a556f5",
+      "timestamp": 1761666138866
     }
   ]
 }
