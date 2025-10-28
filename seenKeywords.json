@@ -22,13 +22,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "cc358e63be110898130a4977d51b91a8",
-      "timestamp": 1760107265508
-    },
-    {
-      "site": "JobGurus",
-      "id": "5c429088032ad635d2f85fbaf171e788",
-      "timestamp": 1760379665023
+      "id": "3caaa72d5cebef600f916a3478c63a37",
+      "timestamp": 1761664653281
     }
   ],
   "amecron nigeria limited": [
@@ -19598,6 +19593,32 @@
       "site": "JobGurus",
       "id": "17c31c958aa26639bcdfdee0e5de01f7",
       "timestamp": 1761662623199
+    }
+  ],
+  "goldchek herbals": [
+    {
+      "site": "JobGurus",
+      "id": "43c7d2408af48c0ef1f85ba7bfc3b956",
+      "timestamp": 1761664653281
+    }
+  ],
+  "federal polytechnic, bida": [
+    {
+      "site": "JobGurus",
+      "id": "321e79d387f51abd2af3975482a4231c",
+      "timestamp": 1761664653281
+    },
+    {
+      "site": "JobGurus",
+      "id": "0358865383423303acb2d19f463b7c8f",
+      "timestamp": 1761664653281
+    }
+  ],
+  "acouns laboratory and diagnostic centre": [
+    {
+      "site": "JobGurus",
+      "id": "f39d64ec4ab4712ddec00cc29bdae9fe",
+      "timestamp": 1761664653281
     }
   ]
 }
