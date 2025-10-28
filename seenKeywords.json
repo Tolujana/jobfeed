@@ -5270,8 +5270,8 @@
   "saha africa": [
     {
       "site": "JobGurus",
-      "id": "b419c3a5eab217cdf888ae838a46de5a",
-      "timestamp": 1750952505551
+      "id": "6e260337111f6b4ebc1fd560f145de56",
+      "timestamp": 1761660993338
     }
   ],
   "funtay global resources limited": [
@@ -18500,6 +18500,11 @@
       "site": "JobGurus",
       "id": "48be2196181f88004bd3605f804fe7d3",
       "timestamp": 1761659226919
+    },
+    {
+      "site": "JobGurus",
+      "id": "79eb5bcc24ec9859b421718fe8c47ca0",
+      "timestamp": 1761660993338
     }
   ],
   "krishat pharma industries limited": [
@@ -19055,6 +19060,11 @@
       "site": "JobGurus",
       "id": "fc8afb80b2ab39f68cbbb644c2bd42d8",
       "timestamp": 1761141055844
+    },
+    {
+      "site": "JobGurus",
+      "id": "fd4683a842ae8e6cb945eba67ef851a0",
+      "timestamp": 1761660993338
     }
   ],
   "lo’meedar fresh": [
@@ -19559,6 +19569,18 @@
       "site": "JobGurus",
       "id": "fff3a70b9f93405e6dd950c750095323",
       "timestamp": 1761654738053
+    }
+  ],
+  "harmony sanitary limited": [
+    {
+      "site": "JobGurus",
+      "id": "146ca26c1ac561ea65aa06c66f81b6bf",
+      "timestamp": 1761660993338
+    },
+    {
+      "site": "JobGurus",
+      "id": "51b50c0761f92706b21a39427d1c9289",
+      "timestamp": 1761660993338
     }
   ]
 }
