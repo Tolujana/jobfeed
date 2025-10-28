@@ -1004,6 +1004,11 @@
       "site": "JobGurus",
       "id": "d45ff8dfcf2961fee3138b64d282aeca",
       "timestamp": 1761390681638
+    },
+    {
+      "site": "JobGurus",
+      "id": "71f1c1501ebe3d5e6b8ce6dac03be614",
+      "timestamp": 1761662623199
     }
   ],
   "zenith carex international limited": [
@@ -1376,6 +1381,11 @@
       "site": "JobGurus",
       "id": "803b23b893a6e76059614893b5cc58e0",
       "timestamp": 1761228949606
+    },
+    {
+      "site": "JobGurus",
+      "id": "4deb3a94bb58623f954044a41798b933",
+      "timestamp": 1761662623199
     }
   ],
   "jtech global resources limited": [
@@ -4602,8 +4612,8 @@
   "ikeja electricity distribution company (ikedc)": [
     {
       "site": "JobGurus",
-      "id": "754d931802518af6cabc080c966542e4",
-      "timestamp": 1759486524203
+      "id": "505524157cdc4b40130d1c2c2836e422",
+      "timestamp": 1761662623199
     }
   ],
   "blowfish group": [
@@ -14833,8 +14843,8 @@
   "marchforte courtyard hotel and suite": [
     {
       "site": "JobGurus",
-      "id": "88bd2772a854ca42363267b19d93ba27",
-      "timestamp": 1757597932071
+      "id": "060a35088c1e4e5bffd6a4173cf1e8a0",
+      "timestamp": 1761662623199
     }
   ],
   "brands and trade limited": [
@@ -19581,6 +19591,13 @@
       "site": "JobGurus",
       "id": "51b50c0761f92706b21a39427d1c9289",
       "timestamp": 1761660993338
+    }
+  ],
+  "strait sahara microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "17c31c958aa26639bcdfdee0e5de01f7",
+      "timestamp": 1761662623199
     }
   ]
 }
