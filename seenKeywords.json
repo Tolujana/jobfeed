@@ -3812,8 +3812,8 @@
   "the borough lagos": [
     {
       "site": "JobGurus",
-      "id": "b90fec4907199c5ae78d8156298a2b2e",
-      "timestamp": 1760622483278
+      "id": "f79f1c91a5ca3f937c8b2dc6d2458947",
+      "timestamp": 1761648273421
     }
   ],
   "cig motors company limited": [
@@ -5430,8 +5430,13 @@
   "aspom travel agency": [
     {
       "site": "JobGurus",
-      "id": "881c22903193b3bc2beaa725e7f77e97",
-      "timestamp": 1760787346055
+      "id": "982beb3c2eb3fadac81406b8a8ce711e",
+      "timestamp": 1761648273421
+    },
+    {
+      "site": "JobGurus",
+      "id": "7d6c9d222a46fd3b5ccb97a613d6470b",
+      "timestamp": 1761648273421
     }
   ],
   "aspom travels and tours": [
@@ -12799,8 +12804,8 @@
   "pullus": [
     {
       "site": "JobGurus",
-      "id": "8a7092a2f676c59f50e43ee0a2aff3e9",
-      "timestamp": 1760455048778
+      "id": "e4e9e287aad504603d7965536097547a",
+      "timestamp": 1761648273421
     }
   ],
   "syx-brij nigeria limited": [
@@ -19516,6 +19521,13 @@
       "site": "JobGurus",
       "id": "41ffac02fe611a699aa92a3303e0d27d",
       "timestamp": 1761585218400
+    }
+  ],
+  "kamani group": [
+    {
+      "site": "JobGurus",
+      "id": "c0477f8f36be34556728d5f9d336ff03",
+      "timestamp": 1761648273421
     }
   ]
 }
