@@ -140,11 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "ac3191eec11b8fbbd2eea80fcd4403aa",
-      "timestamp": 1761151678296
-    },
-    {
-      "site": "JobGurus",
       "id": "38afebc1b33343a0b63b4f5dbcbd871b",
       "timestamp": 1761316977231
     },
@@ -162,6 +157,11 @@
       "site": "JobGurus",
       "id": "90d0dc7fb6c85aeabf9d9438dc60879e",
       "timestamp": 1761747358081
+    },
+    {
+      "site": "JobGurus",
+      "id": "2dcd46f6c39eb942cbfef1f6b9b90052",
+      "timestamp": 1761758087495
     }
   ],
   "cway group": [
@@ -2295,13 +2295,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "b974ce5d22b45b6bd5f2bfe6f2a15534",
-      "timestamp": 1759765133698
-    },
-    {
-      "site": "JobGurus",
-      "id": "b9912caa21927a5e4b3495d5f40e5f79",
-      "timestamp": 1760185643476
+      "id": "52a679e5e913d109d57a19c8de6b55bb",
+      "timestamp": 1761758087495
     }
   ],
   "fgs limited": [
@@ -3647,8 +3642,8 @@
   "citibank nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "987284a3f2b5bdefa02e63ef3b736e3e",
-      "timestamp": 1750239744883
+      "id": "f18f50332a3ca32c887d7ae2961ecebc",
+      "timestamp": 1761758087495
     }
   ],
   "atlas": [
@@ -6460,8 +6455,8 @@
   "tailored talent": [
     {
       "site": "JobGurus",
-      "id": "6dcfcb75a078d669003de0043b54203f",
-      "timestamp": 1758134758466
+      "id": "312dda18e3f7a1862c88c9051f43f43d",
+      "timestamp": 1761758087495
     }
   ],
   "lopterra services limited": [
@@ -19756,6 +19751,13 @@
       "site": "JobGurus",
       "id": "08db1d0fb2d5abdf34a66fa15b5f8701",
       "timestamp": 1761747358081
+    }
+  ],
+  "vivacity pr": [
+    {
+      "site": "JobGurus",
+      "id": "76a5ab280572a07aaf5bb768b55a051e",
+      "timestamp": 1761758087495
     }
   ]
 }
