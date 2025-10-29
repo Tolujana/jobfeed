@@ -727,6 +727,11 @@
       "site": "JobGurus",
       "id": "5ba857d64d79ba44aef7028825b140b0",
       "timestamp": 1761133032859
+    },
+    {
+      "site": "JobGurus",
+      "id": "385d7a997c260cdbd7fd49385391d3d4",
+      "timestamp": 1761737827779
     }
   ],
   "premier hub innovation center": [
@@ -5912,8 +5917,8 @@
   "nepal energies": [
     {
       "site": "JobGurus",
-      "id": "ae52a1e6334d6775dc3168bd20ac06ad",
-      "timestamp": 1751321746133
+      "id": "1341615651f792b617e7959d9a4d03df",
+      "timestamp": 1761737827779
     }
   ],
   "verus consultants": [
@@ -12842,8 +12847,8 @@
   "sewa assets management limited": [
     {
       "site": "JobGurus",
-      "id": "a5d43e3db1bf9de6628b459e83debe67",
-      "timestamp": 1755893808124
+      "id": "f790ecb9d6f0fa53465344fa81c327ea",
+      "timestamp": 1761737827779
     }
   ],
   "dovers dental clinic": [
@@ -19680,6 +19685,18 @@
       "site": "JobGurus",
       "id": "0c884e58ea618977da67c8723935170a",
       "timestamp": 1761736441845
+    },
+    {
+      "site": "JobGurus",
+      "id": "c8cd8b9475b6d69e40575a746c48e1ae",
+      "timestamp": 1761737827779
+    }
+  ],
+  "frances mcgreg consulting": [
+    {
+      "site": "JobGurus",
+      "id": "68f56f1be754ee5150fd76e905c25688",
+      "timestamp": 1761737827779
     }
   ]
 }
