@@ -1719,8 +1719,8 @@
   "lemfi (yc s21)": [
     {
       "site": "JobGurus",
-      "id": "7d2baa271ba0aac86fafa13f0b3ba518",
-      "timestamp": 1749467637455
+      "id": "298357f24bf6c3c58db97587feac2735",
+      "timestamp": 1761744589323
     }
   ],
   "efezi southsea nigeria limited": [
@@ -2785,8 +2785,8 @@
   "hobark international limited": [
     {
       "site": "JobGurus",
-      "id": "1cf503bcc0e54ab9fe270433db735be4",
-      "timestamp": 1761063616206
+      "id": "b7831270f4ca1eb1d41555c2a578e86e",
+      "timestamp": 1761744589323
     }
   ],
   "elvaridah": [
@@ -14840,6 +14840,11 @@
       "site": "JobGurus",
       "id": "060a35088c1e4e5bffd6a4173cf1e8a0",
       "timestamp": 1761662623199
+    },
+    {
+      "site": "JobGurus",
+      "id": "8e12df9fb6ed3e646b3e44375d9cb9fb",
+      "timestamp": 1761744589323
     }
   ],
   "brands and trade limited": [
@@ -19232,6 +19237,11 @@
       "site": "JobGurus",
       "id": "86ac58b71137fe6882f07e10d0850f39",
       "timestamp": 1761222801923
+    },
+    {
+      "site": "JobGurus",
+      "id": "dacb2762e45b099e5cea2ad251686159",
+      "timestamp": 1761744589323
     }
   ],
   "lesso group": [
@@ -19709,6 +19719,13 @@
       "site": "JobGurus",
       "id": "b00b17ee871c15a8ade463341ff19b8d",
       "timestamp": 1761741234731
+    }
+  ],
+  "russelsmith nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "e738def6b8e82a86ac21852132da65ed",
+      "timestamp": 1761744589323
     }
   ]
 }
