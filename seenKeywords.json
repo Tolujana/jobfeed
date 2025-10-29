@@ -509,6 +509,11 @@
       "site": "JobGurus",
       "id": "b8762fb3933bcd3f4ac7c1df369c96d2",
       "timestamp": 1761763731959
+    },
+    {
+      "site": "JobGurus",
+      "id": "2734bb4a004fabf25bd77ded56fd4273",
+      "timestamp": 1761765135624
     }
   ],
   "above lifestyle": [
@@ -19261,6 +19266,11 @@
       "site": "JobGurus",
       "id": "d966940e956f8c441f197a4d0af0746c",
       "timestamp": 1761226130656
+    },
+    {
+      "site": "JobGurus",
+      "id": "707e28f5ae4d83c99494e9cb7fca0792",
+      "timestamp": 1761765135624
     }
   ],
   "lily college of nursing sciences": [
@@ -19773,6 +19783,11 @@
       "site": "JobGurus",
       "id": "76a5ab280572a07aaf5bb768b55a051e",
       "timestamp": 1761758087495
+    },
+    {
+      "site": "JobGurus",
+      "id": "e6b2cb23ef743e444e5aa2628b05ab31",
+      "timestamp": 1761765135624
     }
   ],
   "the bridge hotel": [
@@ -19808,6 +19823,13 @@
       "site": "JobGurus",
       "id": "4e48f820753d769bd5d52724f3dfbb0d",
       "timestamp": 1761763731959
+    }
+  ],
+  "universal human resource consult limited": [
+    {
+      "site": "JobGurus",
+      "id": "c6c3b5e280ad47622c5adc1d74cb258b",
+      "timestamp": 1761765135624
     }
   ]
 }
