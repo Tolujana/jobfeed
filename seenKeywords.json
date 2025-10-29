@@ -162,6 +162,11 @@
       "site": "JobGurus",
       "id": "2dcd46f6c39eb942cbfef1f6b9b90052",
       "timestamp": 1761758087495
+    },
+    {
+      "site": "JobGurus",
+      "id": "386c84b42979a2d1e92c517438ca99af",
+      "timestamp": 1761762213234
     }
   ],
   "cway group": [
@@ -5585,13 +5590,8 @@
   "macden communications limited": [
     {
       "site": "JobGurus",
-      "id": "c3dc33c721a6c1f1737725dfefd9a0f9",
-      "timestamp": 1756757721848
-    },
-    {
-      "site": "JobGurus",
-      "id": "f2ca451efd8e497d9cf0137a97a21773",
-      "timestamp": 1757000350267
+      "id": "987681c79db8384e2b156eb0206f6bb3",
+      "timestamp": 1761762213234
     }
   ],
   "blucon valley limited": [
@@ -8713,6 +8713,11 @@
       "site": "JobGurus",
       "id": "d58d2c7bf10f2d87c788baa38f27c347",
       "timestamp": 1761230606886
+    },
+    {
+      "site": "JobGurus",
+      "id": "b4f17fc325eaafb2e8ed73543e04378d",
+      "timestamp": 1761762213234
     }
   ],
   "la campagne tropicana beach resort": [
@@ -19770,6 +19775,20 @@
       "site": "JobGurus",
       "id": "97a722c6ccbe66fd5b0a891f36a63a65",
       "timestamp": 1761759653967
+    }
+  ],
+  "baobab microfinance bank nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "a51fe8d96b32f5b0d48ed700daeaa47e",
+      "timestamp": 1761762213234
+    }
+  ],
+  "kelsey greene villa": [
+    {
+      "site": "JobGurus",
+      "id": "caebd8ac972184180a1291fa41a4160a",
+      "timestamp": 1761762213234
     }
   ]
 }
