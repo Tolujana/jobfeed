@@ -2297,6 +2297,11 @@
       "site": "JobGurus",
       "id": "52a679e5e913d109d57a19c8de6b55bb",
       "timestamp": 1761758087495
+    },
+    {
+      "site": "JobGurus",
+      "id": "f14618b1810922cf405520603e4d9c97",
+      "timestamp": 1761759653967
     }
   ],
   "fgs limited": [
@@ -12851,8 +12856,8 @@
   "kimberly ryan limited": [
     {
       "site": "JobGurus",
-      "id": "892f79389f8afd66a42682fc25f5dc12",
-      "timestamp": 1760387900481
+      "id": "72bffc706f0a395d708c794f3383d7e5",
+      "timestamp": 1761759653967
     }
   ],
   "air peace limited": [
@@ -16901,8 +16906,8 @@
   "flutterwave": [
     {
       "site": "JobGurus",
-      "id": "448d6ede9b44d9eee0c0cd9517088de2",
-      "timestamp": 1760607633287
+      "id": "2080c3c507f36b65346bda27266a2ec7",
+      "timestamp": 1761759653967
     }
   ],
   "mipraise investment limited": [
@@ -19758,6 +19763,13 @@
       "site": "JobGurus",
       "id": "76a5ab280572a07aaf5bb768b55a051e",
       "timestamp": 1761758087495
+    }
+  ],
+  "the bridge hotel": [
+    {
+      "site": "JobGurus",
+      "id": "97a722c6ccbe66fd5b0a891f36a63a65",
+      "timestamp": 1761759653967
     }
   ]
 }
