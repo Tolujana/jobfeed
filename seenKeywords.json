@@ -6559,6 +6559,11 @@
       "site": "JobGurus",
       "id": "3988c461c0e4062b35e051b44ac61f1e",
       "timestamp": 1761571718343
+    },
+    {
+      "site": "JobGurus",
+      "id": "763b2bdade511da2e822e567d018d25d",
+      "timestamp": 1761745842452
     }
   ],
   "maventeq systems limited": [
@@ -6846,8 +6851,8 @@
   "brilliant performance solutions limited": [
     {
       "site": "JobGurus",
-      "id": "6fb7dc2d3754b6345cc5f6b255dbfc44",
-      "timestamp": 1760035609694
+      "id": "e66ec87e8ba25b0fe57fd7b167d6fea4",
+      "timestamp": 1761745842452
     }
   ],
   "d-degree digital hub limited": [
@@ -19726,6 +19731,27 @@
       "site": "JobGurus",
       "id": "e738def6b8e82a86ac21852132da65ed",
       "timestamp": 1761744589323
+    }
+  ],
+  "bwosh": [
+    {
+      "site": "JobGurus",
+      "id": "7dad48947bb831b602c814eb263c5756",
+      "timestamp": 1761745842452
+    }
+  ],
+  "havilah strategies and consult": [
+    {
+      "site": "JobGurus",
+      "id": "6df31b5f7669cfbac4caff86aad86e46",
+      "timestamp": 1761745842452
+    }
+  ],
+  "erudite consulting": [
+    {
+      "site": "JobGurus",
+      "id": "d6a55927fc83a2de8db8bbcf78e0d6d7",
+      "timestamp": 1761745842452
     }
   ]
 }
