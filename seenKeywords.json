@@ -140,11 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "870fe4dc0f67a94243cae37c73cd5cf1",
-      "timestamp": 1761054692665
-    },
-    {
-      "site": "JobGurus",
       "id": "ac3191eec11b8fbbd2eea80fcd4403aa",
       "timestamp": 1761151678296
     },
@@ -162,6 +157,11 @@
       "site": "JobGurus",
       "id": "5729e3be62629a7de3a5f79388027c69",
       "timestamp": 1761651368533
+    },
+    {
+      "site": "JobGurus",
+      "id": "90d0dc7fb6c85aeabf9d9438dc60879e",
+      "timestamp": 1761747358081
     }
   ],
   "cway group": [
@@ -5780,13 +5780,8 @@
   "eat 'n’ go limited": [
     {
       "site": "JobGurus",
-      "id": "6c6a4ed5a6f310e331ad6cfb5059a925",
-      "timestamp": 1758129162144
-    },
-    {
-      "site": "JobGurus",
-      "id": "48652c5de9f7f0e2a2f85eac8545b855",
-      "timestamp": 1758129162144
+      "id": "b10a5aa651babe4916afcab35713843c",
+      "timestamp": 1761747358081
     }
   ],
   "peridot forte solutions consulting": [
@@ -19752,6 +19747,20 @@
       "site": "JobGurus",
       "id": "d6a55927fc83a2de8db8bbcf78e0d6d7",
       "timestamp": 1761745842452
+    }
+  ],
+  "bigkoko global services limited": [
+    {
+      "site": "JobGurus",
+      "id": "f6e19eab6d664820caf8ff0ce5ec98c0",
+      "timestamp": 1761747358081
+    }
+  ],
+  "numac store": [
+    {
+      "site": "JobGurus",
+      "id": "08db1d0fb2d5abdf34a66fa15b5f8701",
+      "timestamp": 1761747358081
     }
   ]
 }
