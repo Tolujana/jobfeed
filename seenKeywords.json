@@ -7580,8 +7580,8 @@
   "spie oil & gas services": [
     {
       "site": "JobGurus",
-      "id": "833823c645e8cb0f644d871f8ab85d9f",
-      "timestamp": 1760460277139
+      "id": "9b8a648881d900f7f4981e6e011ad46e",
+      "timestamp": 1761833765567
     }
   ],
   "jhpiego": [
@@ -13188,8 +13188,8 @@
   "naji realties": [
     {
       "site": "JobGurus",
-      "id": "03c86f33d1ceb213d1fde5ee112a2634",
-      "timestamp": 1759158949189
+      "id": "043e2adb9e60b3543c9c557060a7d8d3",
+      "timestamp": 1761833765567
     }
   ],
   "emeraldzone business support services": [
@@ -19873,6 +19873,27 @@
       "site": "JobGurus",
       "id": "0affbc6b6939303e5f56589582308e48",
       "timestamp": 1761832071058
+    }
+  ],
+  "yardoak project": [
+    {
+      "site": "JobGurus",
+      "id": "87f917ee2ec58b0dfbee78ce7f1a7149",
+      "timestamp": 1761833765567
+    }
+  ],
+  "cordyrose services": [
+    {
+      "site": "JobGurus",
+      "id": "3928b99f38335d51d81d6ed3918b6c7a",
+      "timestamp": 1761833765567
+    }
+  ],
+  "oinz homes and properties limited": [
+    {
+      "site": "JobGurus",
+      "id": "d9db757d942c679ee32da1c8aa68e429",
+      "timestamp": 1761833765567
     }
   ]
 }
