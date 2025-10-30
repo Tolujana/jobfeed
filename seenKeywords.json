@@ -593,33 +593,13 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "5533be4ba5769dfb9be2c925698424fc",
-      "timestamp": 1760721191742
-    },
-    {
-      "site": "JobGurus",
-      "id": "0a86c151f8680c20d980a2e034f160d0",
-      "timestamp": 1760967924955
-    },
-    {
-      "site": "JobGurus",
-      "id": "da17fbc2ae8da078e43f52083963de4e",
-      "timestamp": 1760969680907
-    },
-    {
-      "site": "JobGurus",
-      "id": "a8fef034ebfb95e8db13a650ee3988f6",
-      "timestamp": 1760969680907
-    },
-    {
-      "site": "JobGurus",
-      "id": "8f5d474ede9cc366e17061b602737522",
-      "timestamp": 1761154645463
-    },
-    {
-      "site": "JobGurus",
       "id": "83f4f82d13f4cc33736766b99b7eae36",
       "timestamp": 1761320383578
+    },
+    {
+      "site": "JobGurus",
+      "id": "744ac3dc1ad74b627f0d8d8a9734d5b5",
+      "timestamp": 1761832071058
     }
   ],
   "food concepts plc": [
@@ -12770,13 +12750,8 @@
   "brit properties nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "2936a1ed84090dac126b830b2bf7258c",
-      "timestamp": 1757698579218
-    },
-    {
-      "site": "JobGurus",
-      "id": "6413c86d4be5c43b881b1b6f9f0a5a7d",
-      "timestamp": 1757704277827
+      "id": "289eab8df6e6aa9a39cac385eb4e37ea",
+      "timestamp": 1761832071058
     }
   ],
   "novella africa limited": [
@@ -12911,8 +12886,8 @@
   "moc consulting limited": [
     {
       "site": "JobGurus",
-      "id": "93fe3abebe162f8ad4742946e285eaee",
-      "timestamp": 1755954065823
+      "id": "44c7f35b4165544ac3cc2016fec42ea4",
+      "timestamp": 1761832071058
     }
   ],
   "detail and avedia consulting": [
@@ -19884,6 +19859,20 @@
       "site": "JobGurus",
       "id": "be6b19dfff22e1c09323e19c6d8bf2a6",
       "timestamp": 1761830872652
+    }
+  ],
+  "risingstar recruitment agency": [
+    {
+      "site": "JobGurus",
+      "id": "48ea1436073a7d7787888b7aed249747",
+      "timestamp": 1761832071058
+    }
+  ],
+  "quest employment": [
+    {
+      "site": "JobGurus",
+      "id": "0affbc6b6939303e5f56589582308e48",
+      "timestamp": 1761832071058
     }
   ]
 }
