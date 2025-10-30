@@ -5142,8 +5142,8 @@
   "max drive": [
     {
       "site": "JobGurus",
-      "id": "00f87a068da5c4c5fd1a7f7a310975bc",
-      "timestamp": 1758288230253
+      "id": "4c99c79462ef3650c864bb9b8c1f1094",
+      "timestamp": 1761827537631
     }
   ],
   "opay": [
@@ -19837,6 +19837,27 @@
       "site": "JobGurus",
       "id": "7b0e5faebe797dfa0f5178b8a70b8d50",
       "timestamp": 1761824180920
+    }
+  ],
+  "ab microfinance bank nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "998c8c13f24160363cd3e1a7189d6630",
+      "timestamp": 1761827537631
+    }
+  ],
+  "outsource point limited": [
+    {
+      "site": "JobGurus",
+      "id": "63d882f6b05851e6cb1d79d42907bb35",
+      "timestamp": 1761827537631
+    }
+  ],
+  "cim logistics international": [
+    {
+      "site": "JobGurus",
+      "id": "18458033826b81f5f10c22c9be628007",
+      "timestamp": 1761827537631
     }
   ]
 }
