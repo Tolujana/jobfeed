@@ -6109,6 +6109,11 @@
       "site": "JobGurus",
       "id": "66b7ef0c426c544a1bb7690caaac2870",
       "timestamp": 1761330112186
+    },
+    {
+      "site": "JobGurus",
+      "id": "da469f614a4e307d1bec04d0b5a7ca5d",
+      "timestamp": 1761900302310
     }
   ],
   "integrated software services limited": [
@@ -6419,8 +6424,8 @@
   "zim integrated shipping services limited": [
     {
       "site": "JobGurus",
-      "id": "afa4df44ec2295e53e6eccc68f7f0891",
-      "timestamp": 1757412955555
+      "id": "4ef3f1de243a728c9dc9cd7dc6f6add8",
+      "timestamp": 1761900302310
     }
   ],
   "youverify": [
@@ -19959,6 +19964,13 @@
       "site": "JobGurus",
       "id": "62b02362d62d6b0e202c8f4e764e016c",
       "timestamp": 1761851550367
+    }
+  ],
+  "harvest feed & agro processing": [
+    {
+      "site": "JobGurus",
+      "id": "62a2fb438c9ba4d21c6fb92ecd33b5f6",
+      "timestamp": 1761900302310
     }
   ]
 }
