@@ -3910,8 +3910,8 @@
   "bureau veritas": [
     {
       "site": "JobGurus",
-      "id": "5da51371194b30324b63739cb0b1fb18",
-      "timestamp": 1750272555405
+      "id": "1a735fcdd24b236e6697c7e8c89266ee",
+      "timestamp": 1761905805679
     }
   ],
   "givo africa": [
@@ -6636,6 +6636,11 @@
       "site": "JobGurus",
       "id": "e58a5ae8379e811613db94f559c7d44f",
       "timestamp": 1761903615160
+    },
+    {
+      "site": "JobGurus",
+      "id": "37ddbda0902672e687c3ba35bf17e816",
+      "timestamp": 1761905805679
     }
   ],
   "vector cube outsourcing limited": [
@@ -19958,6 +19963,20 @@
       "site": "JobGurus",
       "id": "73abfa255d785bd7bda27fe89835a3c9",
       "timestamp": 1761903615160
+    }
+  ],
+  "edo state college of education": [
+    {
+      "site": "JobGurus",
+      "id": "b9938d1f302a5c534272429130ffd530",
+      "timestamp": 1761905805679
+    }
+  ],
+  "talento global consultants": [
+    {
+      "site": "JobGurus",
+      "id": "34915d16399fcee02772cc70167205ed",
+      "timestamp": 1761905805679
     }
   ]
 }
