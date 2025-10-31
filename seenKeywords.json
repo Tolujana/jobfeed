@@ -6184,8 +6184,8 @@
   "redswitch collections": [
     {
       "site": "JobGurus",
-      "id": "68106e43dce11fa5b1512b1d463697db",
-      "timestamp": 1760967924955
+      "id": "71d58efdfd78150cff92a948fb7569bd",
+      "timestamp": 1761937886513
     }
   ],
   "hoop telecoms limited": [
@@ -7161,6 +7161,11 @@
       "site": "JobGurus",
       "id": "3fb373020c1f3b708b65efa115436b06",
       "timestamp": 1761927558155
+    },
+    {
+      "site": "JobGurus",
+      "id": "11dc07a89fe7e3197a31c13e080cceaf",
+      "timestamp": 1761937886513
     }
   ],
   "quicky chillis": [
@@ -17396,8 +17401,8 @@
   "shogxypro outsourcing": [
     {
       "site": "JobGurus",
-      "id": "8fb57f652dfc7463626a32874040fb58",
-      "timestamp": 1760384158357
+      "id": "b980acf339517c85a60a51d398d5d829",
+      "timestamp": 1761937886513
     }
   ],
   "ericsson": [
@@ -20067,6 +20072,13 @@
       "site": "JobGurus",
       "id": "db6212d5dd6cff8224e8e6dfb3bbf6e4",
       "timestamp": 1761934977974
+    }
+  ],
+  "kanselor business innovation campus limited": [
+    {
+      "site": "JobGurus",
+      "id": "eb7a0fea92584b0495741bac0ea2c647",
+      "timestamp": 1761937886513
     }
   ]
 }
