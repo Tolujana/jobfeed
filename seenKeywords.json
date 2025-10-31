@@ -172,6 +172,11 @@
       "site": "JobGurus",
       "id": "ce6df639ca95067916c8a08114d3d99a",
       "timestamp": 1761830872652
+    },
+    {
+      "site": "JobGurus",
+      "id": "f60254bab19a49e8568390d593bd8ceb",
+      "timestamp": 1761917237640
     }
   ],
   "cway group": [
@@ -312,8 +317,8 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "6552d34accf0595d6a210bb7240d3ce4",
-      "timestamp": 1760721191742
+      "id": "4ff7fcc147ddee74762860f60b6f5df1",
+      "timestamp": 1761917237640
     }
   ],
   "jamub group": [
@@ -6099,6 +6104,11 @@
       "site": "JobGurus",
       "id": "da469f614a4e307d1bec04d0b5a7ca5d",
       "timestamp": 1761900302310
+    },
+    {
+      "site": "JobGurus",
+      "id": "9ddcba2424e7ce91e6f5bf5455fb8c1e",
+      "timestamp": 1761917237640
     }
   ],
   "integrated software services limited": [
@@ -7850,6 +7860,11 @@
       "site": "JobGurus",
       "id": "ce2218e683917663d18ddfe005e2781e",
       "timestamp": 1761907349544
+    },
+    {
+      "site": "JobGurus",
+      "id": "59e58c41f6cdb8495ab958f799a10dbb",
+      "timestamp": 1761917237640
     }
   ],
   "mindas petroleum limited": [
@@ -19976,6 +19991,13 @@
       "site": "JobGurus",
       "id": "108d59cbc6b53a0717c456a2a75ac1e2",
       "timestamp": 1761910571250
+    }
+  ],
+  "forti foods": [
+    {
+      "site": "JobGurus",
+      "id": "ba32401f7a3d87b906a8da55920e016e",
+      "timestamp": 1761917237640
     }
   ]
 }
