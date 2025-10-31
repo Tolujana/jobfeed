@@ -19955,6 +19955,11 @@
       "site": "JobGurus",
       "id": "b9938d1f302a5c534272429130ffd530",
       "timestamp": 1761905805679
+    },
+    {
+      "site": "JobGurus",
+      "id": "018be4506c0ee1ac34f3263904569dc6",
+      "timestamp": 1761910571250
     }
   ],
   "talento global consultants": [
@@ -19962,6 +19967,20 @@
       "site": "JobGurus",
       "id": "34915d16399fcee02772cc70167205ed",
       "timestamp": 1761905805679
+    }
+  ],
+  "leky mills": [
+    {
+      "site": "JobGurus",
+      "id": "311cbece12d2967578edf50f0cd41023",
+      "timestamp": 1761910571250
+    }
+  ],
+  "aptech computer education": [
+    {
+      "site": "JobGurus",
+      "id": "108d59cbc6b53a0717c456a2a75ac1e2",
+      "timestamp": 1761910571250
     }
   ]
 }
