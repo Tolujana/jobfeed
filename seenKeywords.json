@@ -1116,13 +1116,8 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "ab2017474f807b8af33568c5cf88d583",
-      "timestamp": 1760531609558
-    },
-    {
-      "site": "JobGurus",
-      "id": "0cbc5ef3a0668c34e626b630e52554de",
-      "timestamp": 1760714134983
+      "id": "20c9da7790bf40399ac1e587a26e6c5e",
+      "timestamp": 1761918331809
     }
   ],
   "elizabeth maddeux limited": [
@@ -1394,13 +1389,13 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "803b23b893a6e76059614893b5cc58e0",
-      "timestamp": 1761228949606
+      "id": "4deb3a94bb58623f954044a41798b933",
+      "timestamp": 1761662623199
     },
     {
       "site": "JobGurus",
-      "id": "4deb3a94bb58623f954044a41798b933",
-      "timestamp": 1761662623199
+      "id": "d4f661962c4782f842eac4b72a89ee36",
+      "timestamp": 1761918331809
     }
   ],
   "jtech global resources limited": [
@@ -3668,6 +3663,11 @@
       "site": "JobGurus",
       "id": "4309dfe458a0cc5c6233d9b92bb862c7",
       "timestamp": 1761903615160
+    },
+    {
+      "site": "JobGurus",
+      "id": "5a2ca8543c0cff52501d3fd56ffffbc8",
+      "timestamp": 1761918331809
     }
   ],
   "secom limited": [
@@ -5372,8 +5372,8 @@
   "paga limited": [
     {
       "site": "JobGurus",
-      "id": "4c98c9ea1884fcd29c9f7a07b77b06a9",
-      "timestamp": 1760700956348
+      "id": "9d4f85697e74187c893f2abe1d54fd37",
+      "timestamp": 1761918331809
     }
   ],
   "blue wave new energy technology nigeria company limited": [
@@ -19998,6 +19998,13 @@
       "site": "JobGurus",
       "id": "ba32401f7a3d87b906a8da55920e016e",
       "timestamp": 1761917237640
+    }
+  ],
+  "kantar": [
+    {
+      "site": "JobGurus",
+      "id": "4d4334a2194bc1120e72a44e8d87a876",
+      "timestamp": 1761918331809
     }
   ]
 }
