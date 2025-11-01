@@ -2489,13 +2489,13 @@
   "hilton worldwide": [
     {
       "site": "JobGurus",
-      "id": "59d8649c489941e5b5d03cf16746a7a0",
-      "timestamp": 1760105695718
+      "id": "ece7c5c4c0a618cd45e265bb48e48df6",
+      "timestamp": 1761974049555
     },
     {
       "site": "JobGurus",
-      "id": "12e3876be8a509fa947f36b5a44b0517",
-      "timestamp": 1760537773173
+      "id": "729f697b88f64e8d74b52aaa18d64e90",
+      "timestamp": 1761974049555
     }
   ],
   "bss consulting limited": [
@@ -12171,8 +12171,8 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "f09713b8b7877cc8bc021fa71d14f53b",
-      "timestamp": 1760992869610
+      "id": "b7e23093a3ba80ca3692543fa49acf9b",
+      "timestamp": 1761974049555
     }
   ],
   "saro agro-allied": [
@@ -20084,6 +20084,18 @@
       "site": "JobGurus",
       "id": "eb7a0fea92584b0495741bac0ea2c647",
       "timestamp": 1761937886513
+    }
+  ],
+  "ignite africa": [
+    {
+      "site": "JobGurus",
+      "id": "fc65b26bb0b0646aff408942ee875707",
+      "timestamp": 1761974049555
+    },
+    {
+      "site": "JobGurus",
+      "id": "98144194401f5f2dc41bccfd5b257cfc",
+      "timestamp": 1761974049555
     }
   ]
 }
