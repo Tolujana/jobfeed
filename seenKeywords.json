@@ -17152,11 +17152,6 @@
   "echo-scan services limited": [
     {
       "site": "JobGurus",
-      "id": "1c7f53129934c0399ef0b2c86d54c00c",
-      "timestamp": 1761333163135
-    },
-    {
-      "site": "JobGurus",
       "id": "ffc2c3334816c8873a76558826c71fed",
       "timestamp": 1761850127985
     },
@@ -17164,6 +17159,16 @@
       "site": "JobGurus",
       "id": "df1e12d6a2cc92f2a621b02b1d8c5f4a",
       "timestamp": 1761850127985
+    },
+    {
+      "site": "JobGurus",
+      "id": "de97add6ebae689adc35adb101a3d58b",
+      "timestamp": 1762024217597
+    },
+    {
+      "site": "JobGurus",
+      "id": "5b98068cd231e9c95fbbb96184132dd6",
+      "timestamp": 1762024217597
     }
   ],
   "the vault recruitment": [
@@ -19984,6 +19989,16 @@
       "site": "JobGurus",
       "id": "62b02362d62d6b0e202c8f4e764e016c",
       "timestamp": 1761851550367
+    },
+    {
+      "site": "JobGurus",
+      "id": "e05ad70c6c60e0801330cf17f2d98411",
+      "timestamp": 1762024217597
+    },
+    {
+      "site": "JobGurus",
+      "id": "edcc8c4b235d6464ec344ffcadc87c71",
+      "timestamp": 1762024217597
     }
   ],
   "harvest feed & agro processing": [
