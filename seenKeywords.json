@@ -1875,8 +1875,8 @@
   "espritsor enterprises": [
     {
       "site": "JobGurus",
-      "id": "12e0ea9fd30c7d6fad731141d4f01440",
-      "timestamp": 1760377051235
+      "id": "a069d3985deb882edca164ea826bf64b",
+      "timestamp": 1762025744463
     }
   ],
   "express resource connect": [
@@ -9267,8 +9267,8 @@
   "nettetal nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "04ad0d3d6d599413f2971d078b4eb78b",
-      "timestamp": 1761146124618
+      "id": "b2b838a53f4b36fc5993ac1243eaae79",
+      "timestamp": 1762025744463
     }
   ],
   "kings guards nigeria limited": [
@@ -20173,6 +20173,13 @@
       "site": "JobGurus",
       "id": "599ab0051041491c3db9275d2d8eeb67",
       "timestamp": 1762021176936
+    }
+  ],
+  "stateside microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "2661d1e667539e678814fe11391bf654",
+      "timestamp": 1762025744463
     }
   ]
 }
