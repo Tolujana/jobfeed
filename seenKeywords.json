@@ -10975,8 +10975,8 @@
   "fairmoney nigeria": [
     {
       "site": "JobGurus",
-      "id": "3f6467882a36fa739654c25311fe39d0",
-      "timestamp": 1754477322680
+      "id": "d93b4d59cfa6d0f3b0f0b8b118dcacd3",
+      "timestamp": 1762198554802
     }
   ],
   "crown interactive": [
@@ -19035,6 +19035,16 @@
       "site": "JobGurus",
       "id": "5cc10ec247658a4d01bff1be6f1eacef",
       "timestamp": 1762195489886
+    },
+    {
+      "site": "JobGurus",
+      "id": "f4b2e0f2f19872150a7b0273476ae496",
+      "timestamp": 1762198554802
+    },
+    {
+      "site": "JobGurus",
+      "id": "602a1a21420f5559e343f43f78f7669e",
+      "timestamp": 1762198554802
     }
   ],
   "pyfinest resource": [
@@ -20245,6 +20255,11 @@
       "site": "JobGurus",
       "id": "7cc2a492f2ef6338570942eae9be8fd1",
       "timestamp": 1762197146231
+    },
+    {
+      "site": "JobGurus",
+      "id": "c81f1ec84e94f12baf0457c14ee02bc2",
+      "timestamp": 1762198554802
     }
   ],
   "growth in value alliance": [
@@ -20252,6 +20267,13 @@
       "site": "JobGurus",
       "id": "388e20142b54fae3b7b67a7ef17e8b82",
       "timestamp": 1762197146231
+    }
+  ],
+  "mabest academy": [
+    {
+      "site": "JobGurus",
+      "id": "f2c29db23f1263d75964e4853105c44d",
+      "timestamp": 1762198554802
     }
   ]
 }
