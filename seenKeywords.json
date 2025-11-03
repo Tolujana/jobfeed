@@ -3536,8 +3536,8 @@
   "glovo nigeria": [
     {
       "site": "JobGurus",
-      "id": "abe826cfa5cb4fb419a72dcc80a13c73",
-      "timestamp": 1760024917106
+      "id": "95608e2659d8dd211a79df9ee07a692b",
+      "timestamp": 1762201090369
     }
   ],
   "mikano international": [
@@ -17390,8 +17390,8 @@
   "royal power and energy limited": [
     {
       "site": "JobGurus",
-      "id": "974003c7d9b1a92135aaaf5935387681",
-      "timestamp": 1759595986593
+      "id": "773321fa543c183ed1f86cd63ab820f4",
+      "timestamp": 1762201090369
     }
   ],
   "kydal office point (kop)": [
@@ -20274,6 +20274,20 @@
       "site": "JobGurus",
       "id": "f2c29db23f1263d75964e4853105c44d",
       "timestamp": 1762198554802
+    }
+  ],
+  "talent management alliance": [
+    {
+      "site": "JobGurus",
+      "id": "f5e296e5b6ebcd7edafd0fd499cf1811",
+      "timestamp": 1762201090369
+    }
+  ],
+  "bluepeak hr services": [
+    {
+      "site": "JobGurus",
+      "id": "e8909ee5481913f0ec170278910a2782",
+      "timestamp": 1762201090369
     }
   ]
 }
