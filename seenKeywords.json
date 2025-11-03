@@ -3330,8 +3330,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "aa8080b5c504d3b2c582bc5144cc9bbd",
-      "timestamp": 1759921959018
+      "id": "913f40f776356a004311753a8ab8e731",
+      "timestamp": 1762191588772
     }
   ],
   "smartcity plc": [
@@ -4581,6 +4581,11 @@
       "site": "JobGurus",
       "id": "1e83bc2762c61967e49d2ec3b2dcf263",
       "timestamp": 1762188386597
+    },
+    {
+      "site": "JobGurus",
+      "id": "ff2d76fe68b20c28c5fc3ac4bb61565b",
+      "timestamp": 1762191588772
     }
   ],
   "skipper eye-q super specialty eye hospital": [
@@ -20189,6 +20194,20 @@
       "site": "JobGurus",
       "id": "ef0657bfc3f169e4af640e78a9de28a1",
       "timestamp": 1762190061352
+    }
+  ],
+  "wellness healthcare limited": [
+    {
+      "site": "JobGurus",
+      "id": "82c79ba56021365b403cdc56cbf0cbba",
+      "timestamp": 1762191588772
+    }
+  ],
+  "cool microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "847e876a6eca2af3d1ab84bec0a59ee4",
+      "timestamp": 1762191588772
     }
   ]
 }
