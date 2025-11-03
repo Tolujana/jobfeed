@@ -658,6 +658,11 @@
       "site": "JobGurus",
       "id": "45d28f45b6ed5d984c17f8dc6f406a0d",
       "timestamp": 1761932365444
+    },
+    {
+      "site": "JobGurus",
+      "id": "e8b188975ee6ca51597e1432613833a1",
+      "timestamp": 1762190061352
     }
   ],
   "private sector health alliance of nigeria": [
@@ -9526,8 +9531,8 @@
   "mattoris supermarket": [
     {
       "site": "JobGurus",
-      "id": "6f9304cb24305f0d5a15c15ecd482fb4",
-      "timestamp": 1755888420172
+      "id": "97459c3121110802a7e539bfd4fd23ec",
+      "timestamp": 1762190061352
     }
   ],
   "austine & partners international limited": [
@@ -12962,13 +12967,8 @@
   "mmt consults": [
     {
       "site": "JobGurus",
-      "id": "2fb40df5bb1dfae24174d4c69ccc5a74",
-      "timestamp": 1759941874238
-    },
-    {
-      "site": "JobGurus",
-      "id": "69ebf132acdaa8f9a146d9089571b175",
-      "timestamp": 1759941874238
+      "id": "c445ddfcdd14ff1bb9bd2e42aa8ca439",
+      "timestamp": 1762190061352
     }
   ],
   "elsadave consulting limited": [
@@ -20175,6 +20175,20 @@
       "site": "JobGurus",
       "id": "2661d1e667539e678814fe11391bf654",
       "timestamp": 1762025744463
+    }
+  ],
+  "blingsetal": [
+    {
+      "site": "JobGurus",
+      "id": "edcacff561970af0bb1e3355d5af8030",
+      "timestamp": 1762190061352
+    }
+  ],
+  "geoaudits": [
+    {
+      "site": "JobGurus",
+      "id": "ef0657bfc3f169e4af640e78a9de28a1",
+      "timestamp": 1762190061352
     }
   ]
 }
