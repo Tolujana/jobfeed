@@ -7822,8 +7822,8 @@
   "assets microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "2d0826158c1b0b932d2aa66051002472",
-      "timestamp": 1755256416612
+      "id": "c24f8f6392c04f6e91cbc067d1e98e8b",
+      "timestamp": 1762251514899
     }
   ],
   "revenstrat cnsulting": [
@@ -20307,6 +20307,23 @@
       "site": "JobGurus",
       "id": "0970d9a2ce077b9d5f7510a30b2002c9",
       "timestamp": 1762249332069
+    },
+    {
+      "site": "JobGurus",
+      "id": "033458bb2e5a1afe825f444f60b06c09",
+      "timestamp": 1762251514899
+    },
+    {
+      "site": "JobGurus",
+      "id": "c2120a930642040d372f101a2fa2479d",
+      "timestamp": 1762251514899
+    }
+  ],
+  "lead for good africa": [
+    {
+      "site": "JobGurus",
+      "id": "3b1a34f37ebd456d1cf6244ce9a203cd",
+      "timestamp": 1762251514899
     }
   ]
 }
