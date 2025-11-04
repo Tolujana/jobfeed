@@ -5571,8 +5571,8 @@
   "eric kayser nigeria": [
     {
       "site": "JobGurus",
-      "id": "e5f4e0bd823c89803da538a5917db462",
-      "timestamp": 1761230606886
+      "id": "c728f8507f85c6fbcef02d9961af31f5",
+      "timestamp": 1762265779974
     }
   ],
   "updeal resources": [
@@ -20354,6 +20354,11 @@
       "site": "JobGurus",
       "id": "4527dd12922a22a1c955c5a77e746140",
       "timestamp": 1762256270946
+    },
+    {
+      "site": "JobGurus",
+      "id": "7af12d54a991a666d034d03eec4287e1",
+      "timestamp": 1762265779974
     }
   ],
   "pharmacy plus limited": [
@@ -20361,6 +20366,11 @@
       "site": "JobGurus",
       "id": "cee31df3085333284917a8e6cabf2a82",
       "timestamp": 1762256270946
+    },
+    {
+      "site": "JobGurus",
+      "id": "0d718643a3fefc3e683e07cb895904b8",
+      "timestamp": 1762265779974
     }
   ],
   "axelle education consult": [
@@ -20375,6 +20385,13 @@
       "site": "JobGurus",
       "id": "712688348572e5bba300ab64a71512e4",
       "timestamp": 1762263043854
+    }
+  ],
+  "eduteller": [
+    {
+      "site": "JobGurus",
+      "id": "34b482730532a4d83f49fe755eeb066e",
+      "timestamp": 1762265779974
     }
   ]
 }
