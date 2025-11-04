@@ -10212,8 +10212,8 @@
   "gti microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "194503e223bb027b7c63f67b5fabf507",
-      "timestamp": 1759149130910
+      "id": "edc4b0e512e0d00d698b5ea92a3b9650",
+      "timestamp": 1762249332069
     }
   ],
   "anabel apartment and suites": [
@@ -20300,6 +20300,13 @@
       "site": "JobGurus",
       "id": "0701297fd5aa04fa5ed950e0f2ed0ff4",
       "timestamp": 1762204464892
+    }
+  ],
+  "trusoft limited": [
+    {
+      "site": "JobGurus",
+      "id": "0970d9a2ce077b9d5f7510a30b2002c9",
+      "timestamp": 1762249332069
     }
   ]
 }
