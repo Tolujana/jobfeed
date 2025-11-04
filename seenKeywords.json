@@ -7591,8 +7591,8 @@
   "viju industries nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "d7213412b50582e16eb79454e49b4292",
-      "timestamp": 1752225476960
+      "id": "57c820147446fe27575f5e3c0911682b",
+      "timestamp": 1762254842846
     }
   ],
   "dovichi worldwide technology company limited": [
@@ -14419,8 +14419,8 @@
   "healthrite pharmaceutical supermarket": [
     {
       "site": "JobGurus",
-      "id": "9f0a9dbd8aa7bf4696b961cec3f57f62",
-      "timestamp": 1757349856176
+      "id": "4d5400371140ba7ee7d09a63911244f0",
+      "timestamp": 1762254842846
     }
   ],
   "new heights pharmaceuticals limited": [
@@ -14581,13 +14581,8 @@
   "eco fleet services": [
     {
       "site": "JobGurus",
-      "id": "f5ab78843bf9d87c58923cdf36499c2f",
-      "timestamp": 1758893051740
-    },
-    {
-      "site": "JobGurus",
-      "id": "ee2203d469bf21d7742490da3e991329",
-      "timestamp": 1759158949189
+      "id": "098300ab97113f23ca56cae82d58fd12",
+      "timestamp": 1762254842846
     }
   ],
   "ayekooto": [
@@ -20314,6 +20309,20 @@
       "site": "JobGurus",
       "id": "3b1a34f37ebd456d1cf6244ce9a203cd",
       "timestamp": 1762251514899
+    }
+  ],
+  "shelter setters": [
+    {
+      "site": "JobGurus",
+      "id": "87b814f32eb00f868f7cb1477cd783a4",
+      "timestamp": 1762254842846
+    }
+  ],
+  "transnet": [
+    {
+      "site": "JobGurus",
+      "id": "6ad7524bd1534066c99dbf2d52710a85",
+      "timestamp": 1762254842846
     }
   ]
 }
