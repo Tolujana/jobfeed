@@ -3683,8 +3683,8 @@
   "secom limited": [
     {
       "site": "JobGurus",
-      "id": "018faa5e4a36ddb36f52732b00531314",
-      "timestamp": 1757768183796
+      "id": "dfb814ce3d8813fddcb19c10dca56495",
+      "timestamp": 1762274794040
     }
   ],
   "confederated facilitators limited": [
@@ -4481,8 +4481,8 @@
   "factbase consulting limited": [
     {
       "site": "JobGurus",
-      "id": "798e8e67958db9552740d8f3fa3d5c74",
-      "timestamp": 1753193869422
+      "id": "61d34e15d7698c077b0496491b0a69dc",
+      "timestamp": 1762274794040
     }
   ],
   "bonzee consulting": [
@@ -19594,8 +19594,8 @@
   "prime university": [
     {
       "site": "JobGurus",
-      "id": "41ffac02fe611a699aa92a3303e0d27d",
-      "timestamp": 1761585218400
+      "id": "dd60df337709013e437eadd7a0334164",
+      "timestamp": 1762274794040
     }
   ],
   "kamani group": [
@@ -20397,6 +20397,13 @@
       "site": "JobGurus",
       "id": "34b482730532a4d83f49fe755eeb066e",
       "timestamp": 1762265779974
+    }
+  ],
+  "fitness and sports solutions": [
+    {
+      "site": "JobGurus",
+      "id": "c0ca6d5a55fad0a64dc4b0d4c20f26c1",
+      "timestamp": 1762274794040
     }
   ]
 }
