@@ -140,16 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "38afebc1b33343a0b63b4f5dbcbd871b",
-      "timestamp": 1761316977231
-    },
-    {
-      "site": "JobGurus",
-      "id": "918d02c70983f352bd598352a5c01c04",
-      "timestamp": 1761320383578
-    },
-    {
-      "site": "JobGurus",
       "id": "5729e3be62629a7de3a5f79388027c69",
       "timestamp": 1761651368533
     },
@@ -177,6 +167,11 @@
       "site": "JobGurus",
       "id": "f60254bab19a49e8568390d593bd8ceb",
       "timestamp": 1761917237640
+    },
+    {
+      "site": "JobGurus",
+      "id": "3462619b63c497051b6b4e1bbc91ab43",
+      "timestamp": 1762253148511
     }
   ],
   "cway group": [
@@ -1555,13 +1550,8 @@
   "unified payment services limited": [
     {
       "site": "JobGurus",
-      "id": "cc6156f19a759169d84224cce7402010",
-      "timestamp": 1761579504979
-    },
-    {
-      "site": "JobGurus",
-      "id": "83ad6612792dc26e72186b5e6ed1943b",
-      "timestamp": 1761579504979
+      "id": "6d47f68d56307d8067babc054287cdc8",
+      "timestamp": 1762253148511
     }
   ],
   "straitpay": [
