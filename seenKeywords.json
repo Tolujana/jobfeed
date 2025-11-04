@@ -12201,6 +12201,11 @@
       "site": "JobGurus",
       "id": "c39bacc75c551c366ce9190775d8e17d",
       "timestamp": 1761670099661
+    },
+    {
+      "site": "JobGurus",
+      "id": "584814deb29cf8b18fb4221bee5e4633",
+      "timestamp": 1762256270946
     }
   ],
   "ramos realty": [
@@ -20323,6 +20328,34 @@
       "site": "JobGurus",
       "id": "6ad7524bd1534066c99dbf2d52710a85",
       "timestamp": 1762254842846
+    }
+  ],
+  "yeenx diner": [
+    {
+      "site": "JobGurus",
+      "id": "ac77481b1cdf48021e664dd75856516c",
+      "timestamp": 1762256270946
+    }
+  ],
+  "otsuka nigeria nutraceutical company limited": [
+    {
+      "site": "JobGurus",
+      "id": "8694710eed3ca5bff8ab5f48d025748e",
+      "timestamp": 1762256270946
+    }
+  ],
+  "i-swipe tech": [
+    {
+      "site": "JobGurus",
+      "id": "4527dd12922a22a1c955c5a77e746140",
+      "timestamp": 1762256270946
+    }
+  ],
+  "pharmacy plus limited": [
+    {
+      "site": "JobGurus",
+      "id": "cee31df3085333284917a8e6cabf2a82",
+      "timestamp": 1762256270946
     }
   ]
 }
