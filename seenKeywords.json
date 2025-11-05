@@ -10522,8 +10522,8 @@
   "multipro consumer products limited": [
     {
       "site": "JobGurus",
-      "id": "c8d71c1f5336da11bb6ac42e28a1b9b4",
-      "timestamp": 1754923619602
+      "id": "09f3b62adee9737497ab9578e3dfbe48",
+      "timestamp": 1762353825083
     }
   ],
   "allied food and confectionery services": [
@@ -14888,13 +14888,8 @@
   "kels global ventures": [
     {
       "site": "JobGurus",
-      "id": "cb64c5e9e2387d55f38c47991b352752",
-      "timestamp": 1757604994542
-    },
-    {
-      "site": "JobGurus",
-      "id": "01a199b003d4f8a8b3a6be972a180dbc",
-      "timestamp": 1757604994542
+      "id": "111a7ab6543fdbd00ea1ded52d68953e",
+      "timestamp": 1762353825083
     }
   ],
   "khadasha innovations africa": [
@@ -20462,6 +20457,11 @@
       "site": "JobGurus",
       "id": "b35c34d352fbbf01122cf1d3cc17fa2d",
       "timestamp": 1762349327582
+    },
+    {
+      "site": "JobGurus",
+      "id": "29056798ba080bfcdd99fbfa5f85df74",
+      "timestamp": 1762353825083
     }
   ],
   "stella maris school": [
@@ -20490,6 +20490,20 @@
       "site": "JobGurus",
       "id": "8b9d3e894bcc66c423ef2452de81b4fe",
       "timestamp": 1762352159072
+    }
+  ],
+  "animal care services konsult": [
+    {
+      "site": "JobGurus",
+      "id": "d197255b3c333b4f60da1c112c605844",
+      "timestamp": 1762353825083
+    }
+  ],
+  "givaudan": [
+    {
+      "site": "JobGurus",
+      "id": "3a365be21d04227ab9e8f25e2e9d57dd",
+      "timestamp": 1762353825083
     }
   ]
 }
