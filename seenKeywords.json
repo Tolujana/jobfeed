@@ -7925,8 +7925,8 @@
   "chemo-pharma laboratories limited": [
     {
       "site": "JobGurus",
-      "id": "b8c98d6884643ad367577a7c75b66ffd",
-      "timestamp": 1752520390828
+      "id": "ce69b74ea80a939f76cb35d6d4bb3a7f",
+      "timestamp": 1762349327582
     }
   ],
   "revolutionplus property development company limited": [
@@ -10593,8 +10593,8 @@
   "discovering talents academy": [
     {
       "site": "JobGurus",
-      "id": "84e8e2c3af76cb46374f7f8a25c975ea",
-      "timestamp": 1754299663963
+      "id": "a642c2f716816cdceb4ffdfd71702495",
+      "timestamp": 1762349327582
     }
   ],
   "ledgerly": [
@@ -20451,6 +20451,27 @@
       "site": "JobGurus",
       "id": "093b2ee0d53a9bc4de3422c1fc01f4ad",
       "timestamp": 1762345990372
+    }
+  ],
+  "montaigne limited": [
+    {
+      "site": "JobGurus",
+      "id": "35a674e280b3535246a45cd6433250b9",
+      "timestamp": 1762349327582
+    }
+  ],
+  "citimobile media limited": [
+    {
+      "site": "JobGurus",
+      "id": "3635ee78c2f4fe5d26404d3713bdbad2",
+      "timestamp": 1762349327582
+    }
+  ],
+  "skyline university nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "b35c34d352fbbf01122cf1d3cc17fa2d",
+      "timestamp": 1762349327582
     }
   ]
 }
