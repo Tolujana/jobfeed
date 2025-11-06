@@ -477,6 +477,11 @@
       "site": "JobGurus",
       "id": "33f43b6e02eab118a295db633bbd96e1",
       "timestamp": 1762263043854
+    },
+    {
+      "site": "JobGurus",
+      "id": "c8231468428ac8fe3f56ae00d34f97d2",
+      "timestamp": 1762422118909
     }
   ],
   "dgic international business services limited": [
@@ -2179,6 +2184,11 @@
       "site": "JobGurus",
       "id": "5bdab7c9d7ee727e0cd35fad1c127ec9",
       "timestamp": 1762420640870
+    },
+    {
+      "site": "JobGurus",
+      "id": "91a13c6a46413d82ddcd0f4ab307670b",
+      "timestamp": 1762422118909
     }
   ],
   "speedaf express": [
@@ -10180,8 +10190,13 @@
   "mobonike hospital and maternity": [
     {
       "site": "JobGurus",
-      "id": "01db80925fc3821d6ac0a9f70dc52368",
-      "timestamp": 1753872470842
+      "id": "a4c70076e4e9a6cbcbb38cde36bc3cd8",
+      "timestamp": 1762422118909
+    },
+    {
+      "site": "JobGurus",
+      "id": "b926155a8c4dfdee01e728ac1cf49ec6",
+      "timestamp": 1762422118909
     }
   ],
   "gti microfinance bank": [
