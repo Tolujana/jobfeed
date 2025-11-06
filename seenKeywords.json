@@ -140,31 +140,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "5729e3be62629a7de3a5f79388027c69",
-      "timestamp": 1761651368533
-    },
-    {
-      "site": "JobGurus",
-      "id": "90d0dc7fb6c85aeabf9d9438dc60879e",
-      "timestamp": 1761747358081
-    },
-    {
-      "site": "JobGurus",
-      "id": "2dcd46f6c39eb942cbfef1f6b9b90052",
-      "timestamp": 1761758087495
-    },
-    {
-      "site": "JobGurus",
-      "id": "386c84b42979a2d1e92c517438ca99af",
-      "timestamp": 1761762213234
-    },
-    {
-      "site": "JobGurus",
-      "id": "ce6df639ca95067916c8a08114d3d99a",
-      "timestamp": 1761830872652
-    },
-    {
-      "site": "JobGurus",
       "id": "f60254bab19a49e8568390d593bd8ceb",
       "timestamp": 1761917237640
     },
@@ -172,6 +147,11 @@
       "site": "JobGurus",
       "id": "3462619b63c497051b6b4e1bbc91ab43",
       "timestamp": 1762253148511
+    },
+    {
+      "site": "JobGurus",
+      "id": "1bb1c958fd89f825b4e6323b4dfa5c1d",
+      "timestamp": 1762440204590
     }
   ],
   "cway group": [
@@ -5110,8 +5090,8 @@
   "brands optimal limited": [
     {
       "site": "JobGurus",
-      "id": "fa9933cf08f33dcc08362b5eee572369",
-      "timestamp": 1761219397487
+      "id": "65968f47eb3e092389d37c70042f65ce",
+      "timestamp": 1762440204590
     }
   ],
   "max drive": [
@@ -20655,6 +20635,13 @@
       "site": "JobGurus",
       "id": "6e301420b39fabf0b129274709cf39f9",
       "timestamp": 1762436941520
+    }
+  ],
+  "wiz consults": [
+    {
+      "site": "JobGurus",
+      "id": "8c7271947dbd671481fad7a72a89296d",
+      "timestamp": 1762440204590
     }
   ]
 }
