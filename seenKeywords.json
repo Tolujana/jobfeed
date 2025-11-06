@@ -3042,8 +3042,8 @@
   "erisco foods limited": [
     {
       "site": "JobGurus",
-      "id": "e792a54175bba24d89c37b1425fa949d",
-      "timestamp": 1760452991240
+      "id": "0ccd0fa0d714fb51d5254dee31fcea1a",
+      "timestamp": 1762432368945
     }
   ],
   "lauvee beauty salon": [
@@ -20625,6 +20625,32 @@
       "site": "JobGurus",
       "id": "b6b9bde0b56a21e24cc2a949df402315",
       "timestamp": 1762427652170
+    }
+  ],
+  "design union limited": [
+    {
+      "site": "JobGurus",
+      "id": "0b9e7a815e6a2d38d99a7fee5a3b677c",
+      "timestamp": 1762432368945
+    }
+  ],
+  "estakem ventures": [
+    {
+      "site": "JobGurus",
+      "id": "5f251ee35ce3696d87702f23df4e1382",
+      "timestamp": 1762432368945
+    }
+  ],
+  "a27 global services limited": [
+    {
+      "site": "JobGurus",
+      "id": "f7fdf661b71411310bffe59542315739",
+      "timestamp": 1762432368945
+    },
+    {
+      "site": "JobGurus",
+      "id": "c84c40a5d60979db02ea8cc15e999e43",
+      "timestamp": 1762432368945
     }
   ]
 }
