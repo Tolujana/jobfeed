@@ -2177,8 +2177,8 @@
   "duob recruitment": [
     {
       "site": "JobGurus",
-      "id": "71efcd4b0acf93c04c18c2746e0bac6c",
-      "timestamp": 1760719459931
+      "id": "5bdab7c9d7ee727e0cd35fad1c127ec9",
+      "timestamp": 1762420640870
     }
   ],
   "speedaf express": [
@@ -3304,13 +3304,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "d85b51dcdcfcc7d7bc791e2b685c63d9",
-      "timestamp": 1761222801923
-    },
-    {
-      "site": "JobGurus",
-      "id": "d081600209b5e0b8e900bcdbf2cf5598",
-      "timestamp": 1761646664162
+      "id": "5d3683f03abda024af4deb36860cfe51",
+      "timestamp": 1762420640870
     }
   ],
   "abnl limited": [
@@ -3753,8 +3748,8 @@
   "technoserve": [
     {
       "site": "JobGurus",
-      "id": "7623394c63ecebd2251e66492a6687a3",
-      "timestamp": 1755543106865
+      "id": "239535cbfa20bae85c6ca7e4ffef850b",
+      "timestamp": 1762420640870
     }
   ],
   "polaris bank limited": [
@@ -9681,8 +9676,8 @@
   "hrleverage africa consulting limited": [
     {
       "site": "JobGurus",
-      "id": "95ea6a07d47011977a3fd5a94eeb5378",
-      "timestamp": 1760107265508
+      "id": "081dfc76ee13f8d9facd987f45b6495b",
+      "timestamp": 1762420640870
     }
   ],
   "nairametrics financial advocates limited": [
@@ -20580,6 +20575,13 @@
       "site": "JobGurus",
       "id": "353f59d2a8d077aff3615d74845f1959",
       "timestamp": 1762369983931
+    }
+  ],
+  "lagos": [
+    {
+      "site": "JobGurus",
+      "id": "f0c76546897b9061d5b0d733c5fc6c6e",
+      "timestamp": 1762420640870
     }
   ]
 }
