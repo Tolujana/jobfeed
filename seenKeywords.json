@@ -22,8 +22,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "3caaa72d5cebef600f916a3478c63a37",
-      "timestamp": 1761664653281
+      "id": "0e5830f7b3cf3e35dc9363ee588ba3ca",
+      "timestamp": 1762523000249
     }
   ],
   "amecron nigeria limited": [
@@ -6147,8 +6147,8 @@
   "fibre hub": [
     {
       "site": "JobGurus",
-      "id": "16e37f364ea0ab4260bef0f4e6ab448e",
-      "timestamp": 1760614572374
+      "id": "ab2c665bb0a7cc12b80eaa9a3c3dc9e8",
+      "timestamp": 1762523000249
     }
   ],
   "ama zuma group": [
@@ -17839,8 +17839,8 @@
   "lead enterprise support company limited": [
     {
       "site": "JobGurus",
-      "id": "101fbf9dc1b6b5f61a490f1858aa077e",
-      "timestamp": 1760030007943
+      "id": "c9e0d51daf3a379101e397a79070aefc",
+      "timestamp": 1762523000249
     }
   ],
   "el-shaddai covenant ministries": [
@@ -20746,6 +20746,11 @@
       "site": "JobGurus",
       "id": "1736dd75c21e6d4b2925bfc134311314",
       "timestamp": 1762521900087
+    },
+    {
+      "site": "JobGurus",
+      "id": "7b4a364de77c87bc7720f805169d8ac9",
+      "timestamp": 1762523000249
     }
   ],
   "solidarités international (si)": [
@@ -20760,6 +20765,13 @@
       "site": "JobGurus",
       "id": "40a2ec831d9eb95113ce6a83d48deb17",
       "timestamp": 1762521900087
+    }
+  ],
+  "international golden edge trading limited": [
+    {
+      "site": "JobGurus",
+      "id": "022a43caf201823c8c69624112ce049a",
+      "timestamp": 1762523000249
     }
   ]
 }
