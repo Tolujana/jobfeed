@@ -1706,8 +1706,8 @@
   "efezi southsea nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "2b4df9c1b331d9ccaf48d84f1a65f82a",
-      "timestamp": 1758885146912
+      "id": "3703dd1f504a40e72c9256a52e2c11c3",
+      "timestamp": 1762506993307
     }
   ],
   "styaks legal": [
@@ -2608,13 +2608,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "516fb093a99f2f9a71ec6f7a57bf2ba8",
-      "timestamp": 1761063616206
-    },
-    {
-      "site": "JobGurus",
-      "id": "0eb67a0fbbc0bdfaed42599918dee089",
-      "timestamp": 1761331525836
+      "id": "a5856091b295ab3b96be17c516ee594a",
+      "timestamp": 1762506993307
     }
   ],
   "international fertilizer development center": [
@@ -20642,6 +20637,27 @@
       "site": "JobGurus",
       "id": "8c7271947dbd671481fad7a72a89296d",
       "timestamp": 1762440204590
+    }
+  ],
+  "unicaf nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "2d77613c4117c0c95cdde2ffc732d9f8",
+      "timestamp": 1762506993307
+    }
+  ],
+  "adforte consult limited": [
+    {
+      "site": "JobGurus",
+      "id": "65345b9997ae311b19ba54092db94181",
+      "timestamp": 1762506993307
+    }
+  ],
+  "achieving health nigeria initiative (ahni)": [
+    {
+      "site": "JobGurus",
+      "id": "e8e92f6949b19fc3db60523f4bdd3621",
+      "timestamp": 1762506993307
     }
   ]
 }
