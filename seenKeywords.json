@@ -2610,6 +2610,11 @@
       "site": "JobGurus",
       "id": "a5856091b295ab3b96be17c516ee594a",
       "timestamp": 1762506993307
+    },
+    {
+      "site": "JobGurus",
+      "id": "dcdb839f1bac06025b3ba0cb982a5d0c",
+      "timestamp": 1762512161075
     }
   ],
   "international fertilizer development center": [
@@ -20677,6 +20682,25 @@
       "site": "JobGurus",
       "id": "69752c40eca3a63596f26ff966c35441",
       "timestamp": 1762508363298
+    }
+  ],
+  "care first community initiative (cfci)": [
+    {
+      "site": "JobGurus",
+      "id": "94c34a7ea2dcc625c6812e3c9c6adadd",
+      "timestamp": 1762512161075
+    },
+    {
+      "site": "JobGurus",
+      "id": "2352bad86aa96fa2695dbc6fce79a628",
+      "timestamp": 1762512161075
+    }
+  ],
+  "wisdom kwati smart city": [
+    {
+      "site": "JobGurus",
+      "id": "1492c2958c0a7e5d2bbcf96ea9dadfed",
+      "timestamp": 1762512161075
     }
   ]
 }
