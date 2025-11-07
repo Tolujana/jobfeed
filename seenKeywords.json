@@ -797,8 +797,13 @@
   "tivana workforce": [
     {
       "site": "JobGurus",
-      "id": "24b58d790c883e5cd0bac954023abcb5",
-      "timestamp": 1761837428702
+      "id": "aa4d716ea832271dd9bddf72b36d9398",
+      "timestamp": 1762528560685
+    },
+    {
+      "site": "JobGurus",
+      "id": "20c3c0c8be826a7c49960bde6adce656",
+      "timestamp": 1762528560685
     }
   ],
   "pennek nigeria limited": [
@@ -20737,6 +20742,11 @@
       "site": "JobGurus",
       "id": "783ad6231a0ebbab92985e2b66f5573b",
       "timestamp": 1762518709082
+    },
+    {
+      "site": "JobGurus",
+      "id": "493318ce4d5f421e0f74cf0d2483bf0b",
+      "timestamp": 1762528560685
     }
   ],
   "opticka vision": [
