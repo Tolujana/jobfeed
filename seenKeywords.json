@@ -2627,13 +2627,8 @@
   "marriott international": [
     {
       "site": "JobGurus",
-      "id": "59d66d59684fde83fd5c204118cefb14",
-      "timestamp": 1760614572374
-    },
-    {
-      "site": "JobGurus",
-      "id": "4c65891391b7bde4b775d2316e04f5b5",
-      "timestamp": 1760991466221
+      "id": "6717560c66f8d90528f593b5c4ec17d9",
+      "timestamp": 1762518709082
     }
   ],
   "well fluid services limited": [
@@ -4634,8 +4629,8 @@
   "lafarge africa plc": [
     {
       "site": "JobGurus",
-      "id": "e4927fa93ccfc7efb10f37ddbcdbf096",
-      "timestamp": 1757766383200
+      "id": "f13754efaf0e0b9293616d6d8c98dd5d",
+      "timestamp": 1762518709082
     }
   ],
   "human capital partners": [
@@ -14132,8 +14127,8 @@
   "digital virgo group": [
     {
       "site": "JobGurus",
-      "id": "798d0a3013b76cdc547b76f331d347e9",
-      "timestamp": 1760099475999
+      "id": "968da083ca773c2b6a3b9a3fe37c7251",
+      "timestamp": 1762518709082
     }
   ],
   "bons industries limited": [
@@ -20720,6 +20715,20 @@
       "site": "JobGurus",
       "id": "25374e70b7965654575a2f194bbac4fc",
       "timestamp": 1762515398996
+    }
+  ],
+  "kay global limited": [
+    {
+      "site": "JobGurus",
+      "id": "783ad6231a0ebbab92985e2b66f5573b",
+      "timestamp": 1762518709082
+    }
+  ],
+  "opticka vision": [
+    {
+      "site": "JobGurus",
+      "id": "056f0b864da7e79cb7dfa0fac427d82e",
+      "timestamp": 1762518709082
     }
   ]
 }
