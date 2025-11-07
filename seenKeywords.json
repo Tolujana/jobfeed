@@ -9478,6 +9478,11 @@
       "site": "JobGurus",
       "id": "97459c3121110802a7e539bfd4fd23ec",
       "timestamp": 1762190061352
+    },
+    {
+      "site": "JobGurus",
+      "id": "181d168a51fac0b6ab2c6bc2bcd7457d",
+      "timestamp": 1762521900087
     }
   ],
   "austine & partners international limited": [
@@ -12934,6 +12939,11 @@
       "site": "JobGurus",
       "id": "c445ddfcdd14ff1bb9bd2e42aa8ca439",
       "timestamp": 1762190061352
+    },
+    {
+      "site": "JobGurus",
+      "id": "ff863f7419454ccd58b5adfa6c9a091f",
+      "timestamp": 1762521900087
     }
   ],
   "elsadave consulting limited": [
@@ -20729,6 +20739,27 @@
       "site": "JobGurus",
       "id": "056f0b864da7e79cb7dfa0fac427d82e",
       "timestamp": 1762518709082
+    }
+  ],
+  "wema bank plc": [
+    {
+      "site": "JobGurus",
+      "id": "1736dd75c21e6d4b2925bfc134311314",
+      "timestamp": 1762521900087
+    }
+  ],
+  "solidarités international (si)": [
+    {
+      "site": "JobGurus",
+      "id": "abfb7baca70bd82ab6e84093ffced469",
+      "timestamp": 1762521900087
+    }
+  ],
+  "banodex group": [
+    {
+      "site": "JobGurus",
+      "id": "40a2ec831d9eb95113ce6a83d48deb17",
+      "timestamp": 1762521900087
     }
   ]
 }
