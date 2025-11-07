@@ -969,8 +969,8 @@
   "dp world": [
     {
       "site": "JobGurus",
-      "id": "9ea4cbb8de8bf9efc66b3971185e4915",
-      "timestamp": 1754921902384
+      "id": "3794e4cc3871f52a2799a8bcd677eab1",
+      "timestamp": 1762515398996
     }
   ],
   "powered by health initiative": [
@@ -5109,8 +5109,8 @@
   "opay": [
     {
       "site": "JobGurus",
-      "id": "9bffea8907318d801468d6c14e982ab2",
-      "timestamp": 1753285527482
+      "id": "d03c2a3212956f7be27b7574700390bf",
+      "timestamp": 1762515398996
     }
   ],
   "congenital heart disease foundation of nigeria": [
@@ -7562,8 +7562,8 @@
   "jhpiego": [
     {
       "site": "JobGurus",
-      "id": "a6e05f43404ed04a58af917c70db4a1b",
-      "timestamp": 1761320383578
+      "id": "92112df1001a55c6918d22e75bc3596f",
+      "timestamp": 1762515398996
     }
   ],
   "abuja clinics": [
@@ -20694,6 +20694,11 @@
       "site": "JobGurus",
       "id": "2352bad86aa96fa2695dbc6fce79a628",
       "timestamp": 1762512161075
+    },
+    {
+      "site": "JobGurus",
+      "id": "69eb1538dd45acad473ea179efb3041c",
+      "timestamp": 1762515398996
     }
   ],
   "wisdom kwati smart city": [
@@ -20708,6 +20713,13 @@
       "site": "JobGurus",
       "id": "b3adc1a88b412c00eace40419486abfa",
       "timestamp": 1762514005524
+    }
+  ],
+  "the king collective merchants": [
+    {
+      "site": "JobGurus",
+      "id": "25374e70b7965654575a2f194bbac4fc",
+      "timestamp": 1762515398996
     }
   ]
 }
