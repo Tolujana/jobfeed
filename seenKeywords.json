@@ -126,8 +126,8 @@
   "african industries group": [
     {
       "site": "JobGurus",
-      "id": "7f14d4484e59d56ae980557d9e26f0dd",
-      "timestamp": 1760707485897
+      "id": "9c5a9ef0eb9d7ff632885121233cb232",
+      "timestamp": 1762526483381
     }
   ],
   "residency hotel limited": [
@@ -5613,8 +5613,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "8f8a6fa93988350ed91f07c78ef626bf",
-      "timestamp": 1761387261529
+      "id": "a452da8cdfb21ddf58689cde20bd6a02",
+      "timestamp": 1762526483381
     }
   ],
   "boing pinnacle limited": [
@@ -20784,6 +20784,20 @@
       "site": "JobGurus",
       "id": "9716e077bf359bc832973424153f272f",
       "timestamp": 1762524942793
+    }
+  ],
+  "the way it fits clothing": [
+    {
+      "site": "JobGurus",
+      "id": "4b5c143ee3464152ccf9cd915ec65525",
+      "timestamp": 1762526483381
+    }
+  ],
+  "deloitte nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "56bf48e8f2420f009abd88e04f5b8ac2",
+      "timestamp": 1762526483381
     }
   ]
 }
