@@ -645,8 +645,8 @@
   "jijedapt human resources consult limited": [
     {
       "site": "JobGurus",
-      "id": "726fabf85d2361f239a38c2bdf8afe50",
-      "timestamp": 1753885053965
+      "id": "a63da1c5fe1ec153c3f8a41eb546ab2f",
+      "timestamp": 1762600302886
     }
   ],
   "lisse africa": [
@@ -6442,8 +6442,8 @@
   "lopterra services limited": [
     {
       "site": "JobGurus",
-      "id": "f6678bad9d47b493a2bb3a91202fd05c",
-      "timestamp": 1761316977231
+      "id": "c327f805908d21b245505eaf6fc310e0",
+      "timestamp": 1762600302886
     }
   ],
   "tizeti network limited": [
@@ -12039,8 +12039,8 @@
   "vestates": [
     {
       "site": "JobGurus",
-      "id": "354ddea014d52650219aeb9045942bd9",
-      "timestamp": 1758140161953
+      "id": "6b7ac193b5fcdd241a02f12c7a4764f6",
+      "timestamp": 1762600302886
     }
   ],
   "the place": [
@@ -16682,8 +16682,8 @@
   "hausstrome limited": [
     {
       "site": "JobGurus",
-      "id": "05fd2ef1290b5b4aa3b95707cb7a3de4",
-      "timestamp": 1760787346055
+      "id": "cd9c4d39785efd6b282729030a6ece6d",
+      "timestamp": 1762600302886
     }
   ],
   "mase contractors nigeria limited": [
@@ -20834,6 +20834,13 @@
       "site": "JobGurus",
       "id": "02f5c070b7050ef0c5273a6845a1088e",
       "timestamp": 1762598313978
+    }
+  ],
+  "defivez hotel": [
+    {
+      "site": "JobGurus",
+      "id": "93aededaaa85eabc7617ae05e5158523",
+      "timestamp": 1762600302886
     }
   ]
 }
