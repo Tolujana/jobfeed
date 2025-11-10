@@ -578,13 +578,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "83f4f82d13f4cc33736766b99b7eae36",
-      "timestamp": 1761320383578
-    },
-    {
-      "site": "JobGurus",
-      "id": "744ac3dc1ad74b627f0d8d8a9734d5b5",
-      "timestamp": 1761832071058
+      "id": "c0d3518cc0db826267c6238d9742a2fb",
+      "timestamp": 1762781301134
     }
   ],
   "food concepts plc": [
@@ -4076,8 +4071,8 @@
   "the place - smackers limited": [
     {
       "site": "JobGurus",
-      "id": "b5e5fea80112016c5eaa68b14e178519",
-      "timestamp": 1761383653292
+      "id": "47c366cb38d85f2552ec7502706a0f26",
+      "timestamp": 1762781301134
     }
   ],
   "bricks mursten mattoni limited": [
@@ -7071,8 +7066,8 @@
   "mastercard foundation": [
     {
       "site": "JobGurus",
-      "id": "0dfc3ee8668440b5cedf21bc4d97a5dd",
-      "timestamp": 1751989331934
+      "id": "c2adc17821f54f241b396033239c5d67",
+      "timestamp": 1762781301134
     }
   ],
   "payinvert": [
@@ -12730,13 +12725,8 @@
   "codelabprojects nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "d8ebcf74420c84814a54f983878e7f86",
-      "timestamp": 1758883246283
-    },
-    {
-      "site": "JobGurus",
-      "id": "946ff0020227f26d63ba5cb54b2dc2ba",
-      "timestamp": 1759318559177
+      "id": "69dab7a5ebddc7aaefc65fa55034ed29",
+      "timestamp": 1762781301134
     }
   ],
   "castel resources consultancy limited": [
@@ -20896,6 +20886,13 @@
       "site": "JobGurus",
       "id": "ee745de3ebd302260269bb91a7da1e3c",
       "timestamp": 1762774647067
+    }
+  ],
+  "eta zuma mining & industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "53420fe5383b60838c97d4eb64ad7061",
+      "timestamp": 1762781301134
     }
   ]
 }
