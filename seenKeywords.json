@@ -1085,13 +1085,8 @@
   "ecobank nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "7b61fedf60f1d1cbcc5487215e66766c",
-      "timestamp": 1759156881919
-    },
-    {
-      "site": "JobGurus",
-      "id": "a961eb07e59ac44601c789a5bd6c1548",
-      "timestamp": 1759425085085
+      "id": "1a57fb231342f07213829a2eedbcf769",
+      "timestamp": 1762773230661
     }
   ],
   "one trust asset management company": [
@@ -10422,8 +10417,8 @@
   "erpsoftapp": [
     {
       "site": "JobGurus",
-      "id": "a325bec4cad19209fcdd6d5498fbd213",
-      "timestamp": 1758705369363
+      "id": "b29732cc5d3f48d914e48ac93a4dc8ba",
+      "timestamp": 1762773230661
     }
   ],
   "flying doctors nigeria": [
@@ -15975,6 +15970,16 @@
       "site": "JobGurus",
       "id": "95771b94500ba9b98d20bd140fa663a4",
       "timestamp": 1762524942793
+    },
+    {
+      "site": "JobGurus",
+      "id": "fa9969e93979c7cc071145e704a9d8a9",
+      "timestamp": 1762773230661
+    },
+    {
+      "site": "JobGurus",
+      "id": "95cb455128f5ecdfa7967a501d2c2e5b",
+      "timestamp": 1762773230661
     }
   ],
   "startimes": [
@@ -20867,6 +20872,13 @@
       "site": "JobGurus",
       "id": "68a3f3cf0f98e171453ad1cd3f9127a0",
       "timestamp": 1762771495571
+    }
+  ],
+  "persianas retail limited": [
+    {
+      "site": "JobGurus",
+      "id": "d8fea855f370d9305ff465958d983548",
+      "timestamp": 1762773230661
     }
   ]
 }
