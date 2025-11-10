@@ -394,8 +394,8 @@
   "raphael group": [
     {
       "site": "JobGurus",
-      "id": "ae895a8acd070d60cf57a773602c8d2a",
-      "timestamp": 1760960145128
+      "id": "5a93a5b4cc5c139f28b7f5105c138bc3",
+      "timestamp": 1762784165392
     }
   ],
   "debmyk consult": [
@@ -1717,8 +1717,8 @@
   "hec recruit": [
     {
       "site": "JobGurus",
-      "id": "33c2b9e29a3a98ee5571812993e18d43",
-      "timestamp": 1761230606886
+      "id": "e4731d0d6b8c0c7c29958e46c831e603",
+      "timestamp": 1762784165392
     }
   ],
   "wendernek consulting limited": [
@@ -12398,8 +12398,8 @@
   "resumesurge": [
     {
       "site": "JobGurus",
-      "id": "e6e876504c5105d508f42014f5d51a21",
-      "timestamp": 1755711574448
+      "id": "c79f0d18d0035207d924c8c340b91bc9",
+      "timestamp": 1762784165392
     }
   ],
   "linkorg networks": [
@@ -12624,43 +12624,8 @@
   "crescita solutions": [
     {
       "site": "JobGurus",
-      "id": "45474295cb57f885731a389bfd7728b8",
-      "timestamp": 1755797001487
-    },
-    {
-      "site": "JobGurus",
-      "id": "3bf329e1ee725da01d727c9287374c51",
-      "timestamp": 1755797001487
-    },
-    {
-      "site": "JobGurus",
-      "id": "261bab92f21cb8275e827e5d12f948e0",
-      "timestamp": 1755797001487
-    },
-    {
-      "site": "JobGurus",
-      "id": "92c3ef2748eb4ac63f01d24ce3371f68",
-      "timestamp": 1755797961296
-    },
-    {
-      "site": "JobGurus",
-      "id": "813924b87deca4b6ed17871184b00c1c",
-      "timestamp": 1755891331006
-    },
-    {
-      "site": "JobGurus",
-      "id": "30218375237f3746c3fe82757dfea107",
-      "timestamp": 1756399472798
-    },
-    {
-      "site": "JobGurus",
-      "id": "17c4ffe272bb6a0c348b4d012c795f88",
-      "timestamp": 1756399472798
-    },
-    {
-      "site": "JobGurus",
-      "id": "53c26d31d05adc8de51cdb4083d49dbc",
-      "timestamp": 1756399472798
+      "id": "6e43bdee9a1a96044036161954251bbf",
+      "timestamp": 1762784165392
     }
   ],
   "hssl technologies": [
@@ -20900,6 +20865,13 @@
       "site": "JobGurus",
       "id": "eb04fd12997fc54707578125380cac8f",
       "timestamp": 1762782501280
+    }
+  ],
+  "bolz grillz": [
+    {
+      "site": "JobGurus",
+      "id": "08632bcdbcb13d615d5e4dd074427739",
+      "timestamp": 1762784165392
     }
   ]
 }
