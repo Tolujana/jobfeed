@@ -2242,8 +2242,8 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "950104c86834b981e6b2223cec2f2e82",
-      "timestamp": 1761646664162
+      "id": "842101d2303099883a7a752e14ca06ac",
+      "timestamp": 1762771495571
     }
   ],
   "flees global services": [
@@ -4972,18 +4972,8 @@
   "smart partners consulting limited": [
     {
       "site": "JobGurus",
-      "id": "5867a3789f09a808549f8ed1e7fdd45d",
-      "timestamp": 1759769023757
-    },
-    {
-      "site": "JobGurus",
-      "id": "dfa486bcb8b2931e1f832d1842a710bd",
-      "timestamp": 1759929970754
-    },
-    {
-      "site": "JobGurus",
-      "id": "2eca27c4b75608360f6b698b9071c5e2",
-      "timestamp": 1759934582710
+      "id": "730edf5bb71ec1abd14aeabd826ae5e3",
+      "timestamp": 1762771495571
     }
   ],
   "felamokhr consulting services limited": [
@@ -20870,6 +20860,13 @@
       "site": "JobGurus",
       "id": "7f8e237c2ed90e525e156889991c5db6",
       "timestamp": 1762769934394
+    }
+  ],
+  "jite projekts limited": [
+    {
+      "site": "JobGurus",
+      "id": "68a3f3cf0f98e171453ad1cd3f9127a0",
+      "timestamp": 1762771495571
     }
   ]
 }
