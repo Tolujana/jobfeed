@@ -1886,6 +1886,11 @@
       "site": "JobGurus",
       "id": "b357307dd2120f9a0d12b2ba3f250475",
       "timestamp": 1762259706905
+    },
+    {
+      "site": "JobGurus",
+      "id": "93c9dd696e65b4c418ba3903768d1449",
+      "timestamp": 1762782501280
     }
   ],
   "momsar financial consulting services": [
@@ -2003,8 +2008,8 @@
   "benmaris limited": [
     {
       "site": "JobGurus",
-      "id": "7e28c3d1d278ba543ab3401bed62f5ad",
-      "timestamp": 1760624146018
+      "id": "4ff936783fce4d7a0a523ad5a24caf7f",
+      "timestamp": 1762782501280
     }
   ],
   "mediflex industries pvt limited": [
@@ -13408,8 +13413,8 @@
   "nemitt pharmaceuticals limited": [
     {
       "site": "JobGurus",
-      "id": "35d3fd94e9f0cfab6463614c0b952ac5",
-      "timestamp": 1757509415363
+      "id": "25af6f50c396627fd1f6200e56b8358d",
+      "timestamp": 1762782501280
     }
   ],
   "fumquench parfaithub": [
@@ -18533,13 +18538,8 @@
   "avocado virtual solutions": [
     {
       "site": "JobGurus",
-      "id": "48be2196181f88004bd3605f804fe7d3",
-      "timestamp": 1761659226919
-    },
-    {
-      "site": "JobGurus",
-      "id": "79eb5bcc24ec9859b421718fe8c47ca0",
-      "timestamp": 1761660993338
+      "id": "1d93e70692d7779e5dca6e4b181cbf42",
+      "timestamp": 1762782501280
     }
   ],
   "krishat pharma industries limited": [
@@ -20893,6 +20893,13 @@
       "site": "JobGurus",
       "id": "53420fe5383b60838c97d4eb64ad7061",
       "timestamp": 1762781301134
+    }
+  ],
+  "care shield pharmaceuticals": [
+    {
+      "site": "JobGurus",
+      "id": "eb04fd12997fc54707578125380cac8f",
+      "timestamp": 1762782501280
     }
   ]
 }
