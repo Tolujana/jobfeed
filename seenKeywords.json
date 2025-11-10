@@ -481,13 +481,8 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "3f6fe952dea846488a0fbf1a30fafb9b",
-      "timestamp": 1761848530535
-    },
-    {
-      "site": "JobGurus",
-      "id": "5913eb8677c6e28c20c937afc805c1d0",
-      "timestamp": 1761852942774
+      "id": "2a3094d4974201d24df3559cbb9cb699",
+      "timestamp": 1762774647067
     }
   ],
   "cig motors co. limited": [
@@ -2239,6 +2234,11 @@
       "site": "JobGurus",
       "id": "842101d2303099883a7a752e14ca06ac",
       "timestamp": 1762771495571
+    },
+    {
+      "site": "JobGurus",
+      "id": "18a4d1c9d1a8f156e5b10a3b09d0894b",
+      "timestamp": 1762774647067
     }
   ],
   "flees global services": [
@@ -2982,8 +2982,8 @@
   "oic partners": [
     {
       "site": "JobGurus",
-      "id": "ae9436cf18e38f22ccb5a2cea4f2203d",
-      "timestamp": 1760714134983
+      "id": "60fd5706b926a6970a8f56817fc3b58b",
+      "timestamp": 1762774647067
     }
   ],
   "mulligan hotel": [
@@ -3928,8 +3928,8 @@
   "kinetic electromechanic nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "42e5663615399f1019aafec15b09d2fe",
-      "timestamp": 1751534271574
+      "id": "07df14218b9b5b7f9eb4142ad72af261",
+      "timestamp": 1762774647067
     }
   ],
   "aiderr project services": [
@@ -20879,6 +20879,13 @@
       "site": "JobGurus",
       "id": "d8fea855f370d9305ff465958d983548",
       "timestamp": 1762773230661
+    }
+  ],
+  "abraham lincoln american academy": [
+    {
+      "site": "JobGurus",
+      "id": "ee745de3ebd302260269bb91a7da1e3c",
+      "timestamp": 1762774647067
     }
   ]
 }
