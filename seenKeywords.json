@@ -5662,8 +5662,8 @@
   "bheerhugz": [
     {
       "site": "JobGurus",
-      "id": "5ef30008c81c0433da445f9403b1c326",
-      "timestamp": 1751282043103
+      "id": "06a1600b266291f09e97a163b8cd7030",
+      "timestamp": 1762769934394
     }
   ],
   "premium human resource solution limited": [
@@ -9384,13 +9384,8 @@
   "pc place nigeria": [
     {
       "site": "JobGurus",
-      "id": "eef57d472fc85ca3b35930e58c75603f",
-      "timestamp": 1761057636283
-    },
-    {
-      "site": "JobGurus",
-      "id": "de8dd9a8d06368d9668f822fd82a6bc2",
-      "timestamp": 1761141055844
+      "id": "bd07ebedb12ce19f0a369cb2d49a80c9",
+      "timestamp": 1762769934394
     }
   ],
   "source microfinance bank": [
@@ -14500,13 +14495,13 @@
   "afconrecruit limited": [
     {
       "site": "JobGurus",
-      "id": "245f2b77bfef7dea43c5c96529634234",
-      "timestamp": 1757360136885
+      "id": "e2b7746dfdb770bec5af744441852788",
+      "timestamp": 1762769934394
     },
     {
       "site": "JobGurus",
-      "id": "d8bbf853d629486c2dc5908eaf4aaae8",
-      "timestamp": 1757360136885
+      "id": "6bfb2efadf17d9a9d28baf9c4a8ca232",
+      "timestamp": 1762769934394
     }
   ],
   "beebeejump": [
@@ -20868,6 +20863,13 @@
       "site": "JobGurus",
       "id": "8682ae669ffb6963c7011be213b46a86",
       "timestamp": 1762601744658
+    }
+  ],
+  "omniretail technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "7f8e237c2ed90e525e156889991c5db6",
+      "timestamp": 1762769934394
     }
   ]
 }
