@@ -3324,8 +3324,8 @@
   "excellent jobs": [
     {
       "site": "JobGurus",
-      "id": "ded4f07e767c5d38886581efc2df4396",
-      "timestamp": 1758030220675
+      "id": "4a5cbdb9da3726381672e9cca14616a2",
+      "timestamp": 1762864364406
     }
   ],
   "yemsays properties and investment limited": [
@@ -5289,8 +5289,8 @@
   "white soul group": [
     {
       "site": "JobGurus",
-      "id": "df8af290f3163f4c776aa8917b20c1c9",
-      "timestamp": 1761851550367
+      "id": "949940016961f8ab077ecfe62744ec8b",
+      "timestamp": 1762864364406
     }
   ],
   "crystal thorpe": [
@@ -9229,8 +9229,8 @@
   "kings guards nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "0231ce07fe1135ba1ef4b4c59c8f2a50",
-      "timestamp": 1753260696254
+      "id": "cd6499f27b9fd765daec9394058b77ed",
+      "timestamp": 1762864364406
     }
   ],
   "karishma": [
@@ -15234,13 +15234,8 @@
   "fortis engineering": [
     {
       "site": "JobGurus",
-      "id": "8fa747b264d0fd2c33ac3a2b562b9fd4",
-      "timestamp": 1759253891210
-    },
-    {
-      "site": "JobGurus",
-      "id": "01c04efc4aca649ddd8a628b75bcac61",
-      "timestamp": 1759253891210
+      "id": "0ffb852981aada1c78cbd141ed76b274",
+      "timestamp": 1762864364406
     }
   ],
   "m-kopa nigeria": [
@@ -20886,6 +20881,13 @@
       "site": "JobGurus",
       "id": "2a09e4178c5f9c945d78c2a2b77e1eeb",
       "timestamp": 1762861013402
+    }
+  ],
+  "worqulture": [
+    {
+      "site": "JobGurus",
+      "id": "f5c6aba2a8e9059f9ce3efc76d123ca5",
+      "timestamp": 1762864364406
     }
   ]
 }
