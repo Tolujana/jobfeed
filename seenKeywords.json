@@ -3092,8 +3092,8 @@
   "pz cussons": [
     {
       "site": "JobGurus",
-      "id": "faaff0ba62b781a6dcc8d977b85f900b",
-      "timestamp": 1758292840718
+      "id": "85ad8f22ecc05d22874a5e3023697876",
+      "timestamp": 1762872194724
     }
   ],
   "associates consulting limited": [
@@ -7652,13 +7652,8 @@
   "trucrete solutions limited": [
     {
       "site": "JobGurus",
-      "id": "e0544efa0d8831d0dbafe0235f042921",
-      "timestamp": 1752241834185
-    },
-    {
-      "site": "JobGurus",
-      "id": "b75b563ec16513aace7321e6c8cc1155",
-      "timestamp": 1752241834185
+      "id": "e3fb303b94d03ccf2e5900fb4ca96e2d",
+      "timestamp": 1762872194724
     }
   ],
   "mopheth nigeria limited": [
@@ -10708,8 +10703,8 @@
   "credpal": [
     {
       "site": "JobGurus",
-      "id": "2951a0a02f1a7cf5d20517ad67df3551",
-      "timestamp": 1754307635153
+      "id": "5afc060d77a7fdc77853eb9f144dc835",
+      "timestamp": 1762872194724
     }
   ],
   "flour mills of nigeria plc": [
@@ -20909,6 +20904,20 @@
       "site": "JobGurus",
       "id": "45865f35639a0494a8026778f84806fd",
       "timestamp": 1762870570072
+    }
+  ],
+  "fibreworld telecommunications network limited": [
+    {
+      "site": "JobGurus",
+      "id": "f39ed33c2ec7e07eafa8cc56cac4b300",
+      "timestamp": 1762872194724
+    }
+  ],
+  "abbey mortgage bank plc": [
+    {
+      "site": "JobGurus",
+      "id": "de04d653f0fa734c46a69b7032dd0342",
+      "timestamp": 1762872194724
     }
   ]
 }
