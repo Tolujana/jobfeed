@@ -9231,6 +9231,11 @@
       "site": "JobGurus",
       "id": "cd6499f27b9fd765daec9394058b77ed",
       "timestamp": 1762864364406
+    },
+    {
+      "site": "JobGurus",
+      "id": "b2763239aeff5beedcedfc97e4007c9e",
+      "timestamp": 1762870570072
     }
   ],
   "karishma": [
@@ -12133,8 +12138,8 @@
   "tolaram group": [
     {
       "site": "JobGurus",
-      "id": "3c187454aafeaee83203f112fe8fd9df",
-      "timestamp": 1755364372058
+      "id": "2741aeebf5232f0d2827efb8cd8934fa",
+      "timestamp": 1762870570072
     }
   ],
   "amplux international company": [
@@ -19072,8 +19077,8 @@
   "software business solutions consulting": [
     {
       "site": "JobGurus",
-      "id": "34346feeae51e618bb52ef6c17ecda3c",
-      "timestamp": 1761142607742
+      "id": "30263ab8eb38b3f93e20cff3ad999a57",
+      "timestamp": 1762870570072
     }
   ],
   "harmony garden & estate development limited": [
@@ -20897,6 +20902,13 @@
       "site": "JobGurus",
       "id": "c82ede62bc4fc8213fc0e0c6f2e7e4ee",
       "timestamp": 1762868814434
+    }
+  ],
+  "fmr agency": [
+    {
+      "site": "JobGurus",
+      "id": "45865f35639a0494a8026778f84806fd",
+      "timestamp": 1762870570072
     }
   ]
 }
