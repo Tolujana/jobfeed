@@ -566,8 +566,8 @@
   "renmoney": [
     {
       "site": "JobGurus",
-      "id": "eb19ee4c32c74bac720667ad00d310a6",
-      "timestamp": 1761387261529
+      "id": "a95e618bb8d2d56b8f5a04e11eae9bb1",
+      "timestamp": 1762940503481
     }
   ],
   "teamace limited": [
@@ -651,13 +651,8 @@
   "allen professional services": [
     {
       "site": "JobGurus",
-      "id": "d0fcb3b68702af7439a4e86fd50582d2",
-      "timestamp": 1749035609906
-    },
-    {
-      "site": "JobGurus",
-      "id": "dcb74c25074c31e01d57bbfc999e6cb8",
-      "timestamp": 1749035609906
+      "id": "960e8e8040639c24f0be3fce50c87605",
+      "timestamp": 1762940503481
     }
   ],
   "julius berger nigeria plc": [
@@ -14539,8 +14534,8 @@
   "redcloud technology": [
     {
       "site": "JobGurus",
-      "id": "5e553cee8bb40630992929876a7b7fa0",
-      "timestamp": 1757414499220
+      "id": "ae6220a17f36c1a1e2790a4dd4a4b120",
+      "timestamp": 1762940503481
     }
   ],
   "eco fleet services": [
@@ -20918,6 +20913,13 @@
       "site": "JobGurus",
       "id": "de04d653f0fa734c46a69b7032dd0342",
       "timestamp": 1762872194724
+    }
+  ],
+  "news central tv": [
+    {
+      "site": "JobGurus",
+      "id": "6f9068db8b41fbf598cb81621972e319",
+      "timestamp": 1762940503481
     }
   ]
 }
