@@ -493,6 +493,11 @@
       "site": "JobGurus",
       "id": "633187af736b6eb38eeb185d250cb02b",
       "timestamp": 1762942680363
+    },
+    {
+      "site": "JobGurus",
+      "id": "6446f8035386f25c9696a8a23d74eefe",
+      "timestamp": 1762944318808
     }
   ],
   "cig motors co. limited": [
@@ -9659,8 +9664,8 @@
   "the eye foundation hospital": [
     {
       "site": "JobGurus",
-      "id": "51dec6e6873a4670aeac2834af02bf51",
-      "timestamp": 1757617860512
+      "id": "becdf9d95508f1756ca840df7fa6f944",
+      "timestamp": 1762944318808
     }
   ],
   "hrleverage africa consulting limited": [
@@ -20925,6 +20930,27 @@
       "site": "JobGurus",
       "id": "6f9068db8b41fbf598cb81621972e319",
       "timestamp": 1762940503481
+    }
+  ],
+  "taeillo furniture": [
+    {
+      "site": "JobGurus",
+      "id": "2f39c01fa12364637117f0d56125d4fe",
+      "timestamp": 1762944318808
+    }
+  ],
+  "peoples democratic party (pdp)": [
+    {
+      "site": "JobGurus",
+      "id": "28fbb717d5a44a1e7b4e03117384a2bb",
+      "timestamp": 1762944318808
+    }
+  ],
+  "eunisell interlinked plc": [
+    {
+      "site": "JobGurus",
+      "id": "5f1fd7be514da4f38b61bb00e87a6db3",
+      "timestamp": 1762944318808
     }
   ]
 }
