@@ -10785,8 +10785,8 @@
   "hiit plc": [
     {
       "site": "JobGurus",
-      "id": "4a800687a4921b5744f72ed0eade1150",
-      "timestamp": 1756402683997
+      "id": "d09f06287ecfbbea9c9bc3b64caf3d60",
+      "timestamp": 1762955432589
     }
   ],
   "lasad ventures": [
@@ -12857,13 +12857,8 @@
   "sewa assets management limited": [
     {
       "site": "JobGurus",
-      "id": "f790ecb9d6f0fa53465344fa81c327ea",
-      "timestamp": 1761737827779
-    },
-    {
-      "site": "JobGurus",
-      "id": "e4d4c13fc65a61e3c5f9512328f899f0",
-      "timestamp": 1761837428702
+      "id": "6c1c5af3481fb520cb0f7251a04df253",
+      "timestamp": 1762955432589
     }
   ],
   "dovers dental clinic": [
@@ -21043,6 +21038,20 @@
       "site": "JobGurus",
       "id": "8fe6ac6d86ea42a7a39f43b1ebf02c61",
       "timestamp": 1762954182115
+    }
+  ],
+  "backbone connectivity network": [
+    {
+      "site": "JobGurus",
+      "id": "0ad7f32f429a44fc6538511fc159ee0d",
+      "timestamp": 1762955432589
+    }
+  ],
+  "new foundation for displaced persons (nfdp)": [
+    {
+      "site": "JobGurus",
+      "id": "d5b2bd12b950b6218dc95a54b2e24bd5",
+      "timestamp": 1762955432589
     }
   ]
 }
