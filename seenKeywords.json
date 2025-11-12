@@ -3233,6 +3233,11 @@
       "site": "JobGurus",
       "id": "ce2b613e0884006555a96fcce8cac137",
       "timestamp": 1762778011555
+    },
+    {
+      "site": "JobGurus",
+      "id": "b3cb5abc7f465a46af55c50603420b78",
+      "timestamp": 1762954182115
     }
   ],
   "doah enterprise": [
@@ -10924,8 +10929,8 @@
   "skyline international tourism & hospitality limited": [
     {
       "site": "JobGurus",
-      "id": "e83b0209d37116aabe19dfe3de693848",
-      "timestamp": 1762197146231
+      "id": "b2a0d4cc61a09eb4a47e1fb2167d188f",
+      "timestamp": 1762954182115
     }
   ],
   "natony limited": [
@@ -21017,6 +21022,27 @@
       "site": "JobGurus",
       "id": "5e8b71d5a9d92ebea02394c700cfdfaf",
       "timestamp": 1762950824842
+    }
+  ],
+  "the residenze apartments": [
+    {
+      "site": "JobGurus",
+      "id": "9d30300f5821f5f11fb529ea71872c86",
+      "timestamp": 1762954182115
+    }
+  ],
+  "my-hrpro consulting": [
+    {
+      "site": "JobGurus",
+      "id": "010ddd856d92a71d316e762d4901a13a",
+      "timestamp": 1762954182115
+    }
+  ],
+  "mozuk healthcare group": [
+    {
+      "site": "JobGurus",
+      "id": "8fe6ac6d86ea42a7a39f43b1ebf02c61",
+      "timestamp": 1762954182115
     }
   ]
 }
