@@ -5087,8 +5087,8 @@
   "tophire africa": [
     {
       "site": "JobGurus",
-      "id": "61c78ee347d69f8ea0f6e0cdbd0b6958",
-      "timestamp": 1761059769546
+      "id": "05f49e28d9b79d4673b22c5d124e51a2",
+      "timestamp": 1762946039559
     }
   ],
   "sao group": [
@@ -5645,6 +5645,11 @@
       "site": "JobGurus",
       "id": "a452da8cdfb21ddf58689cde20bd6a02",
       "timestamp": 1762526483381
+    },
+    {
+      "site": "JobGurus",
+      "id": "1d74a7bca3783935a5701716f996c9e4",
+      "timestamp": 1762946039559
     }
   ],
   "boing pinnacle limited": [
@@ -20951,6 +20956,27 @@
       "site": "JobGurus",
       "id": "5f1fd7be514da4f38b61bb00e87a6db3",
       "timestamp": 1762944318808
+    }
+  ],
+  "ils fleet management services limited": [
+    {
+      "site": "JobGurus",
+      "id": "3314a7fd9dd487971f29b3df6369e11b",
+      "timestamp": 1762946039559
+    }
+  ],
+  "nokia nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "0f7b88329be3b6b6148c0b313658f8f3",
+      "timestamp": 1762946039559
+    }
+  ],
+  "fez integrated services limited": [
+    {
+      "site": "JobGurus",
+      "id": "212b9f8e8b6496e68a26bf3b03607b82",
+      "timestamp": 1762946039559
     }
   ]
 }
