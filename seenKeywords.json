@@ -292,18 +292,18 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "4ff7fcc147ddee74762860f60b6f5df1",
-      "timestamp": 1761917237640
+      "id": "94a0ff2fa8159908c9817cdb9a576354",
+      "timestamp": 1763032487107
     },
     {
       "site": "JobGurus",
-      "id": "b63a8ddb37e2bbdb62cd9a968a664dd0",
-      "timestamp": 1761920147670
+      "id": "8c2af40afd8d493649e8f69c0ee41871",
+      "timestamp": 1763032487107
     },
     {
       "site": "JobGurus",
-      "id": "845c5bdb117fcce14f5213ed439f79f5",
-      "timestamp": 1761920147670
+      "id": "010301bd7e604e90c47bc9e41bc874f7",
+      "timestamp": 1763032487107
     }
   ],
   "jamub group": [
@@ -17183,8 +17183,8 @@
   "mar&mor integrated services limited": [
     {
       "site": "JobGurus",
-      "id": "088a3dd1c38f11bad93f56ab7deb4b14",
-      "timestamp": 1759491337028
+      "id": "2453121811721a63b541e5911b1ede52",
+      "timestamp": 1763032487107
     }
   ],
   "reliable steel and plastic industry limited": [
@@ -21085,6 +21085,11 @@
       "site": "JobGurus",
       "id": "5a28c6f8c93d79aa0d13d0a196bd1df7",
       "timestamp": 1763029082354
+    },
+    {
+      "site": "JobGurus",
+      "id": "4cff1c1eb842dbed160d3f47d34470bd",
+      "timestamp": 1763032487107
     }
   ]
 }
