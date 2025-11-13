@@ -4500,6 +4500,11 @@
       "site": "JobGurus",
       "id": "cac6dd2464871fd986668a5c4ee575b6",
       "timestamp": 1763048420310
+    },
+    {
+      "site": "JobGurus",
+      "id": "f70f94ccdfa01daed82e980cf1f127b0",
+      "timestamp": 1763052430460
     }
   ],
   "kiyix recruitment hub": [
@@ -6854,23 +6859,13 @@
   "5thwall consulting": [
     {
       "site": "JobGurus",
-      "id": "29ca163c060e8d1e583c75b5e16fa165",
-      "timestamp": 1761846010191
+      "id": "d0a588aa9b0cc4aa2233acdebedb9553",
+      "timestamp": 1763052430460
     },
     {
       "site": "JobGurus",
-      "id": "7a168a8766636dc45eef818af6cfcd51",
-      "timestamp": 1761846010191
-    },
-    {
-      "site": "JobGurus",
-      "id": "9f0442c05c217dfedf5d7c7bc0a894e2",
-      "timestamp": 1761848530535
-    },
-    {
-      "site": "JobGurus",
-      "id": "1dce24e111bb68613a03f6ef19cd5efd",
-      "timestamp": 1761850127985
+      "id": "1622e7b8964217b465a3120a27bfa87f",
+      "timestamp": 1763052430460
     }
   ],
   "brilliant performance solutions limited": [
@@ -7055,8 +7050,8 @@
   "perfetti van melle nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "accaa6ee857bd9afcf606ef4861f2a8b",
-      "timestamp": 1756733115101
+      "id": "1a8f8e1f0a5b473d8d8269de5c2c8464",
+      "timestamp": 1763052430460
     }
   ],
   "club concierge africa": [
@@ -21195,6 +21190,13 @@
       "site": "JobGurus",
       "id": "cf09862140df39eb6d11897de2b38932",
       "timestamp": 1763050780685
+    }
+  ],
+  "visionjob247 nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "8800d32db562f7246496dad840d25b48",
+      "timestamp": 1763052430460
     }
   ]
 }
