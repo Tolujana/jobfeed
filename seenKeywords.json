@@ -4495,6 +4495,11 @@
       "site": "JobGurus",
       "id": "04d822795470e5412cd6837800f51a33",
       "timestamp": 1763047108173
+    },
+    {
+      "site": "JobGurus",
+      "id": "cac6dd2464871fd986668a5c4ee575b6",
+      "timestamp": 1763048420310
     }
   ],
   "kiyix recruitment hub": [
@@ -6792,8 +6797,8 @@
   "stratom concept limited": [
     {
       "site": "JobGurus",
-      "id": "24f6aec9b6faa170d6a1d54df7992bdb",
-      "timestamp": 1758562611438
+      "id": "1525ac8f17b8a07dda133c3486eb67f4",
+      "timestamp": 1763048420310
     }
   ],
   "casalavoro limited": [
@@ -20167,8 +20172,8 @@
   "geoaudits": [
     {
       "site": "JobGurus",
-      "id": "ef0657bfc3f169e4af640e78a9de28a1",
-      "timestamp": 1762190061352
+      "id": "103faeadfeccc02945091f55f2a83578",
+      "timestamp": 1763048420310
     }
   ],
   "wellness healthcare limited": [
@@ -21152,6 +21157,20 @@
       "site": "JobGurus",
       "id": "8cdc5318b92fc94e6ad588691186c43b",
       "timestamp": 1763047108173
+    }
+  ],
+  "zandas beauty & fragrance": [
+    {
+      "site": "JobGurus",
+      "id": "fc253e11279e8ab2e64690abd3f14f5a",
+      "timestamp": 1763048420310
+    }
+  ],
+  "smartwork outsourcing limited": [
+    {
+      "site": "JobGurus",
+      "id": "c68572362dd7cba5bfac9067efb2f8f5",
+      "timestamp": 1763048420310
     }
   ]
 }
