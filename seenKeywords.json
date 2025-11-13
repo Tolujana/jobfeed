@@ -513,6 +513,11 @@
       "site": "JobGurus",
       "id": "6446f8035386f25c9696a8a23d74eefe",
       "timestamp": 1762944318808
+    },
+    {
+      "site": "JobGurus",
+      "id": "864a6fd514dfaac1c14fe0cea5ff5739",
+      "timestamp": 1763043357759
     }
   ],
   "cig motors co. limited": [
@@ -1965,8 +1970,8 @@
   "sterling health hmo": [
     {
       "site": "JobGurus",
-      "id": "f9915f9fca58d7e5ed75aee3036e8bec",
-      "timestamp": 1759252394474
+      "id": "5033547e32276e2991e7b74c4de1f78a",
+      "timestamp": 1763043357759
     }
   ],
   "candel fze": [
@@ -4841,8 +4846,8 @@
   "mwanga limited": [
     {
       "site": "JobGurus",
-      "id": "413d3284889957218e3c94e13335c25b",
-      "timestamp": 1750704583672
+      "id": "114ec3082cef55e60d410cef6e04bbb8",
+      "timestamp": 1763043357759
     }
   ],
   "leam consulting": [
@@ -21119,6 +21124,20 @@
       "site": "JobGurus",
       "id": "837f8b2bc8438a691646834fb76bb266",
       "timestamp": 1763041861167
+    }
+  ],
+  "insight plus healthcare": [
+    {
+      "site": "JobGurus",
+      "id": "e5f0d4b32e621c97b2aac1d949f1e168",
+      "timestamp": 1763043357759
+    }
+  ],
+  "fairview nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "a30507bc451bc818268ef24f2d690bab",
+      "timestamp": 1763043357759
     }
   ]
 }
