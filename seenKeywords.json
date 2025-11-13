@@ -4493,8 +4493,8 @@
   "bonzee consulting": [
     {
       "site": "JobGurus",
-      "id": "3987d5d8eb06a7a10d722460faaf64bc",
-      "timestamp": 1761903615160
+      "id": "04d822795470e5412cd6837800f51a33",
+      "timestamp": 1763047108173
     }
   ],
   "kiyix recruitment hub": [
@@ -21138,6 +21138,20 @@
       "site": "JobGurus",
       "id": "a30507bc451bc818268ef24f2d690bab",
       "timestamp": 1763043357759
+    }
+  ],
+  "care best initiative (cbi)": [
+    {
+      "site": "JobGurus",
+      "id": "e9d54b50478cc8f22ef1b2117a5b950d",
+      "timestamp": 1763047108173
+    }
+  ],
+  "intelligent innovations limited": [
+    {
+      "site": "JobGurus",
+      "id": "8cdc5318b92fc94e6ad588691186c43b",
+      "timestamp": 1763047108173
     }
   ]
 }
