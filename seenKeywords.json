@@ -10105,8 +10105,8 @@
   "7treads consults": [
     {
       "site": "JobGurus",
-      "id": "eb3e9c92cd7b0b2260e35beab120ccb3",
-      "timestamp": 1755272469611
+      "id": "5204fadac5a008719e37d417995031c2",
+      "timestamp": 1763029082354
     }
   ],
   "integrated dairies limited": [
@@ -21059,6 +21059,32 @@
       "site": "JobGurus",
       "id": "0b0dab9cb0cbd0d025f0bc02c9ba87d3",
       "timestamp": 1762957024332
+    }
+  ],
+  "talentnova hr": [
+    {
+      "site": "JobGurus",
+      "id": "1f93e1eac1ae316fbb51a19bcca3677c",
+      "timestamp": 1763029082354
+    }
+  ],
+  "wallthorpe consulting": [
+    {
+      "site": "JobGurus",
+      "id": "c1e8308e01c1db4bde50136afbfd1dae",
+      "timestamp": 1763029082354
+    },
+    {
+      "site": "JobGurus",
+      "id": "a0cea5934407ad90c7275bb645b28610",
+      "timestamp": 1763029082354
+    }
+  ],
+  "lagos university teaching hospital (luth)": [
+    {
+      "site": "JobGurus",
+      "id": "5a28c6f8c93d79aa0d13d0a196bd1df7",
+      "timestamp": 1763029082354
     }
   ]
 }
