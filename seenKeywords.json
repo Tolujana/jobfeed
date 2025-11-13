@@ -2782,8 +2782,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "1fa0cc6ee5d850474afab94d16102893",
-      "timestamp": 1762267430951
+      "id": "d04b6a7e3566a5d7c59c53b43beffa3c",
+      "timestamp": 1763050780685
     }
   ],
   "netcom africa": [
@@ -21164,6 +21164,16 @@
       "site": "JobGurus",
       "id": "fc253e11279e8ab2e64690abd3f14f5a",
       "timestamp": 1763048420310
+    },
+    {
+      "site": "JobGurus",
+      "id": "0e19f665ca252cb87ceb1404c2d1dac7",
+      "timestamp": 1763050780685
+    },
+    {
+      "site": "JobGurus",
+      "id": "ce41dbeb6cd9c680cc799b628483fae1",
+      "timestamp": 1763050780685
     }
   ],
   "smartwork outsourcing limited": [
@@ -21171,6 +21181,20 @@
       "site": "JobGurus",
       "id": "c68572362dd7cba5bfac9067efb2f8f5",
       "timestamp": 1763048420310
+    }
+  ],
+  "priority global konnect (pgk) limited": [
+    {
+      "site": "JobGurus",
+      "id": "74d215cc6e7db0fe8c808ce995439da3",
+      "timestamp": 1763050780685
+    }
+  ],
+  "pentfield swl": [
+    {
+      "site": "JobGurus",
+      "id": "cf09862140df39eb6d11897de2b38932",
+      "timestamp": 1763050780685
     }
   ]
 }
