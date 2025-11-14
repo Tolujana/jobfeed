@@ -6868,6 +6868,11 @@
       "site": "JobGurus",
       "id": "9016b7a1380028d432466b38f2279050",
       "timestamp": 1763111826005
+    },
+    {
+      "site": "JobGurus",
+      "id": "0f6d96f59b1d4d478e339e4fa1ca5c5e",
+      "timestamp": 1763116994552
     }
   ],
   "d-degree digital hub limited": [
@@ -18596,8 +18601,8 @@
   "daievom dispenser water": [
     {
       "site": "JobGurus",
-      "id": "0fc2c3215d3a20a3637edd83fbc71676",
-      "timestamp": 1760700956348
+      "id": "c3dfc321bdb51b9ecbba446669fcc465",
+      "timestamp": 1763116994552
     }
   ],
   "coollink limited": [
@@ -19449,13 +19454,8 @@
   "pragmatic technologies limited": [
     {
       "site": "JobGurus",
-      "id": "386e9526a6539390e6a849030043cedf",
-      "timestamp": 1761384951931
-    },
-    {
-      "site": "JobGurus",
-      "id": "a0fc75d6294ef44ba865ba08d3669f43",
-      "timestamp": 1761384951931
+      "id": "370469b945ef1c368670c68e4da9a0a4",
+      "timestamp": 1763116994552
     }
   ],
   "wellnest mindset brand": [
@@ -21208,6 +21208,20 @@
       "site": "JobGurus",
       "id": "5912f1d46c978c20e5dc8394c2b15de8",
       "timestamp": 1763115479356
+    }
+  ],
+  "urban hive nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "9b5984e92fe65dbd6bfc5c4b42e699aa",
+      "timestamp": 1763116994552
+    }
+  ],
+  "vaultiq global solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "173bdd78a1ca9719568e78327e0551bc",
+      "timestamp": 1763116994552
     }
   ]
 }
