@@ -1007,18 +1007,8 @@
   "workforce group": [
     {
       "site": "JobGurus",
-      "id": "b948f2cafcaa4b71d4a99807d85996ab",
-      "timestamp": 1761388694823
-    },
-    {
-      "site": "JobGurus",
-      "id": "d45ff8dfcf2961fee3138b64d282aeca",
-      "timestamp": 1761390681638
-    },
-    {
-      "site": "JobGurus",
-      "id": "71f1c1501ebe3d5e6b8ce6dac03be614",
-      "timestamp": 1761662623199
+      "id": "375e9443ac35ccbd48d3e18e31808048",
+      "timestamp": 1763123562809
     }
   ],
   "zenith carex international limited": [
@@ -7683,8 +7673,8 @@
   "whoosh logistics": [
     {
       "site": "JobGurus",
-      "id": "4c0602edd2b07bfd74521d57a64e8f44",
-      "timestamp": 1761316977231
+      "id": "46a2c12ab90483a97406ca7cbbabef7a",
+      "timestamp": 1763123562809
     }
   ],
   "board of management of fedral medical centre": [
@@ -21222,6 +21212,27 @@
       "site": "JobGurus",
       "id": "173bdd78a1ca9719568e78327e0551bc",
       "timestamp": 1763116994552
+    }
+  ],
+  "alliance hospital and services limited": [
+    {
+      "site": "JobGurus",
+      "id": "47db7b8fefab7c1aba7e38a2f8aaeb1d",
+      "timestamp": 1763123562809
+    }
+  ],
+  "m+azeezco international limited": [
+    {
+      "site": "JobGurus",
+      "id": "406c39197e89daeaae0a232c40841cc1",
+      "timestamp": 1763123562809
+    }
+  ],
+  "trionlife wellness international": [
+    {
+      "site": "JobGurus",
+      "id": "db0834c93053cae5da15dedf38569779",
+      "timestamp": 1763123562809
     }
   ]
 }
