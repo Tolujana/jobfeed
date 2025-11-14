@@ -1410,13 +1410,8 @@
   "techdoctorinnovations": [
     {
       "site": "JobGurus",
-      "id": "b1ba4413e6ecc0eee46d50d9572b18fa",
-      "timestamp": 1759595986593
-    },
-    {
-      "site": "JobGurus",
-      "id": "38ab566a5e4353ab329228b7bee35577",
-      "timestamp": 1760102697668
+      "id": "8d1626e298a538de1612d3b48461e39d",
+      "timestamp": 1763113250616
     }
   ],
   "shomas supply & logistics limited": [
@@ -20240,8 +20235,8 @@
   "growth in value alliance": [
     {
       "site": "JobGurus",
-      "id": "388e20142b54fae3b7b67a7ef17e8b82",
-      "timestamp": 1762197146231
+      "id": "eb86706eba9179273a9780ce03dc1e2e",
+      "timestamp": 1763113250616
     }
   ],
   "mabest academy": [
@@ -21202,6 +21197,20 @@
       "site": "JobGurus",
       "id": "8800d32db562f7246496dad840d25b48",
       "timestamp": 1763052430460
+    }
+  ],
+  "the oleaster recovery and wellbeing centre": [
+    {
+      "site": "JobGurus",
+      "id": "850ac3538afc745a30f41c593776900b",
+      "timestamp": 1763113250616
+    }
+  ],
+  "aggregon foods": [
+    {
+      "site": "JobGurus",
+      "id": "a1dae399153a64152ba269713f27be58",
+      "timestamp": 1763113250616
     }
   ]
 }
