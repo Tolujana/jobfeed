@@ -8767,8 +8767,8 @@
   "springrock group": [
     {
       "site": "JobGurus",
-      "id": "7ed901291dd2f40e6e3bb47eee436ce1",
-      "timestamp": 1752845622402
+      "id": "8cce524b4e29c31ea9e847e6c8c0ec72",
+      "timestamp": 1763115479356
     }
   ],
   "aava brands limited": [
@@ -14150,8 +14150,8 @@
   "asa international": [
     {
       "site": "JobGurus",
-      "id": "8b10f5316e1daa3534114e72bb6628c5",
-      "timestamp": 1757013079766
+      "id": "fd9adebfa29cd80e037c8c9969abccc7",
+      "timestamp": 1763115479356
     }
   ],
   "digital virgo group": [
@@ -18065,18 +18065,8 @@
   "ganfeng lithium industry limited": [
     {
       "site": "JobGurus",
-      "id": "8cdb0ea2708ea62a5ec4f8b97e081cbf",
-      "timestamp": 1760177645817
-    },
-    {
-      "site": "JobGurus",
-      "id": "dfd1aa1ee8bff1f88d43230d045555d2",
-      "timestamp": 1760179060110
-    },
-    {
-      "site": "JobGurus",
-      "id": "bf5e7bb5188afa59d4ad2056b1384c1a",
-      "timestamp": 1760710513736
+      "id": "7888ea7f52d1123d924c28914653441b",
+      "timestamp": 1763115479356
     }
   ],
   "clearpay microfinance bank": [
@@ -21211,6 +21201,13 @@
       "site": "JobGurus",
       "id": "a1dae399153a64152ba269713f27be58",
       "timestamp": 1763113250616
+    }
+  ],
+  "talent hunt solutions": [
+    {
+      "site": "JobGurus",
+      "id": "5912f1d46c978c20e5dc8394c2b15de8",
+      "timestamp": 1763115479356
     }
   ]
 }
