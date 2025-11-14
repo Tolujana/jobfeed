@@ -1023,6 +1023,11 @@
       "site": "JobGurus",
       "id": "0344c86af81e8e81564a240dd4493789",
       "timestamp": 1763129726059
+    },
+    {
+      "site": "JobGurus",
+      "id": "25367c41a56b50f0746c4b2f8bd5d0ec",
+      "timestamp": 1763131212879
     }
   ],
   "beebeejump international limited": [
@@ -1374,13 +1379,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "4deb3a94bb58623f954044a41798b933",
-      "timestamp": 1761662623199
-    },
-    {
-      "site": "JobGurus",
-      "id": "d4f661962c4782f842eac4b72a89ee36",
-      "timestamp": 1761918331809
+      "id": "550538ee4fe3d10a9831f22bb098b273",
+      "timestamp": 1763131212879
     }
   ],
   "jtech global resources limited": [
@@ -9992,13 +9992,8 @@
   "sims nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "67e9da514523a8e3a2e2b19e08dc9692",
-      "timestamp": 1756919557720
-    },
-    {
-      "site": "JobGurus",
-      "id": "743f2e98ceec6bd091aeb490bc8dc0ec",
-      "timestamp": 1756919557720
+      "id": "2d57e85a761d3047fa1051d349b73187",
+      "timestamp": 1763131212879
     }
   ],
   "talent lab limited": [
@@ -10926,6 +10921,11 @@
       "site": "JobGurus",
       "id": "2b1f4ed120483b901d3a5e41b9303ae4",
       "timestamp": 1763127925899
+    },
+    {
+      "site": "JobGurus",
+      "id": "2b597b12e6d390adcd7859e6c854f388",
+      "timestamp": 1763131212879
     }
   ],
   "natony limited": [
@@ -18749,8 +18749,8 @@
   "hr hub nigeria": [
     {
       "site": "JobGurus",
-      "id": "4353dfc3bc6c416fcc18beb7b0ff080e",
-      "timestamp": 1760966765723
+      "id": "99113b19848d10f5cb3d54cad953348b",
+      "timestamp": 1763131212879
     }
   ],
   "deepee industrials limited": [
