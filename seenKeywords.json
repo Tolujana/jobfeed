@@ -140,18 +140,8 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "f60254bab19a49e8568390d593bd8ceb",
-      "timestamp": 1761917237640
-    },
-    {
-      "site": "JobGurus",
-      "id": "3462619b63c497051b6b4e1bbc91ab43",
-      "timestamp": 1762253148511
-    },
-    {
-      "site": "JobGurus",
-      "id": "1bb1c958fd89f825b4e6323b4dfa5c1d",
-      "timestamp": 1762440204590
+      "id": "2f69f27aabeb02fb35080b2e4ae4157c",
+      "timestamp": 1763111826005
     }
   ],
   "cway group": [
@@ -2761,8 +2751,8 @@
   "sales force consulting": [
     {
       "site": "JobGurus",
-      "id": "c0e2cb4cfd7349ba7b273a8c20549a9c",
-      "timestamp": 1756993299371
+      "id": "4992e7fcfdb364f6c412eb5cc9850292",
+      "timestamp": 1763111826005
     }
   ],
   "stridewaves limited": [
@@ -3009,6 +2999,11 @@
       "site": "JobGurus",
       "id": "60fd5706b926a6970a8f56817fc3b58b",
       "timestamp": 1762774647067
+    },
+    {
+      "site": "JobGurus",
+      "id": "041dddd3b9d3a02f1cc9df8ad5e0e233",
+      "timestamp": 1763111826005
     }
   ],
   "mulligan hotel": [
@@ -6871,8 +6866,13 @@
   "brilliant performance solutions limited": [
     {
       "site": "JobGurus",
-      "id": "e66ec87e8ba25b0fe57fd7b167d6fea4",
-      "timestamp": 1761745842452
+      "id": "2119db0829e37739af2edf4058bcdba8",
+      "timestamp": 1763111826005
+    },
+    {
+      "site": "JobGurus",
+      "id": "9016b7a1380028d432466b38f2279050",
+      "timestamp": 1763111826005
     }
   ],
   "d-degree digital hub limited": [
