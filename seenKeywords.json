@@ -19809,8 +19809,13 @@
   "outsource point limited": [
     {
       "site": "JobGurus",
-      "id": "63d882f6b05851e6cb1d79d42907bb35",
-      "timestamp": 1761827537631
+      "id": "3e6943b7a182cab44f630646eead2718",
+      "timestamp": 1763213953644
+    },
+    {
+      "site": "JobGurus",
+      "id": "75fb6762afec1e22561b3e6d5ed4a52f",
+      "timestamp": 1763213953644
     }
   ],
   "cim logistics international": [
@@ -19879,8 +19884,8 @@
   "vivo nigeria": [
     {
       "site": "JobGurus",
-      "id": "5ddf58c559f012b606fc20ad89ef3ac3",
-      "timestamp": 1761835373353
+      "id": "4637010f2615086c8b33fe72bdbd98e9",
+      "timestamp": 1763213953644
     }
   ],
   "breezzz bar & lounge": [
@@ -21229,6 +21234,18 @@
       "site": "JobGurus",
       "id": "9103203dc944f6962076b9075cc810d1",
       "timestamp": 1763137238056
+    }
+  ],
+  "goldplates feast house": [
+    {
+      "site": "JobGurus",
+      "id": "63dc32f3e8aaa1bc01a5680863bcecfd",
+      "timestamp": 1763213953644
+    },
+    {
+      "site": "JobGurus",
+      "id": "e386e834bd19a3cd3ffb33acbd39f050",
+      "timestamp": 1763213953644
     }
   ]
 }
