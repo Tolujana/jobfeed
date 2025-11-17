@@ -1663,8 +1663,8 @@
   "pyfinest resources": [
     {
       "site": "JobGurus",
-      "id": "61e5567ac4eac60d604dd41460c25d26",
-      "timestamp": 1757763346636
+      "id": "9ee6f714b723e683310346408267c630",
+      "timestamp": 1763387340176
     }
   ],
   "outsource nigeria": [
@@ -4123,6 +4123,11 @@
       "site": "JobGurus",
       "id": "63c08612439488e4af18843d46fe25a5",
       "timestamp": 1763217437779
+    },
+    {
+      "site": "JobGurus",
+      "id": "c283f2fa2e43ce8e4e05f8d3d0556ba2",
+      "timestamp": 1763387340176
     }
   ],
   "prixair group": [
