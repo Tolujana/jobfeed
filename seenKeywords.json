@@ -2164,8 +2164,8 @@
   "speedaf express": [
     {
       "site": "JobGurus",
-      "id": "b149b6371d8150a63f9669e233fb60f5",
-      "timestamp": 1760026788649
+      "id": "ced69f0f7b3c3305b942a9f7b2bb2e35",
+      "timestamp": 1763394148048
     }
   ],
   "ujt logistics services limited": [
@@ -17341,13 +17341,8 @@
   "shogxypro outsourcing": [
     {
       "site": "JobGurus",
-      "id": "b980acf339517c85a60a51d398d5d829",
-      "timestamp": 1761937886513
-    },
-    {
-      "site": "JobGurus",
-      "id": "249548af614da61106b4077affcfb7cb",
-      "timestamp": 1761941849451
+      "id": "da8e942c0ccdf7e0f09c25d3ad751385",
+      "timestamp": 1763394148048
     }
   ],
   "ericsson": [
@@ -21363,6 +21358,27 @@
       "site": "JobGurus",
       "id": "8e5e571d494ed19865805b219993c15c",
       "timestamp": 1763392689921
+    }
+  ],
+  "honjek technical limited": [
+    {
+      "site": "JobGurus",
+      "id": "db79adda7a8f6140e32f3482a4f684df",
+      "timestamp": 1763394148048
+    }
+  ],
+  "bridge gap consult limited": [
+    {
+      "site": "JobGurus",
+      "id": "7721ebb5a0fd94bd187d5b24b9753b3c",
+      "timestamp": 1763394148048
+    }
+  ],
+  "speedaf express express": [
+    {
+      "site": "JobGurus",
+      "id": "47a7ed44100806acced544db5d5e22e8",
+      "timestamp": 1763394148048
     }
   ]
 }
