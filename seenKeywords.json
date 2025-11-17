@@ -605,6 +605,11 @@
       "site": "JobGurus",
       "id": "c0d3518cc0db826267c6238d9742a2fb",
       "timestamp": 1762781301134
+    },
+    {
+      "site": "JobGurus",
+      "id": "fadb822d1817da8d05b4dc5911c6fc96",
+      "timestamp": 1763379450689
     }
   ],
   "food concepts plc": [
@@ -19866,6 +19871,11 @@
       "site": "JobGurus",
       "id": "4637010f2615086c8b33fe72bdbd98e9",
       "timestamp": 1763213953644
+    },
+    {
+      "site": "JobGurus",
+      "id": "354fd460a8927de45178d4d9f506d48c",
+      "timestamp": 1763379450689
     }
   ],
   "breezzz bar & lounge": [
@@ -21273,6 +21283,27 @@
       "site": "JobGurus",
       "id": "a52e60b10794a6e3f8f4b15899a32aa5",
       "timestamp": 1763374717420
+    }
+  ],
+  "etcon analytical and environmental systems & services limited": [
+    {
+      "site": "JobGurus",
+      "id": "0af417b24666585170beda19365f3827",
+      "timestamp": 1763379450689
+    }
+  ],
+  "abuja electricity distribution company": [
+    {
+      "site": "JobGurus",
+      "id": "de2af9950926cc69f6f2db88ecbeac0a",
+      "timestamp": 1763379450689
+    }
+  ],
+  "jobmerge": [
+    {
+      "site": "JobGurus",
+      "id": "39dc20e1a6b82f9259a9b900ba05851d",
+      "timestamp": 1763379450689
     }
   ]
 }
