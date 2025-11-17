@@ -6765,8 +6765,8 @@
   "uhy professional services": [
     {
       "site": "JobGurus",
-      "id": "e5cc8b0f3fecd8dde00f0a8919a6b340",
-      "timestamp": 1751670891323
+      "id": "38cf5e1e75aa1888be2f1b5976e6f9bd",
+      "timestamp": 1763392689921
     }
   ],
   "stratom concept limited": [
@@ -7496,8 +7496,8 @@
   "may publishing limited": [
     {
       "site": "JobGurus",
-      "id": "83fd314d82f23246df6f72b02fba9a4b",
-      "timestamp": 1756316289818
+      "id": "9722deca1258d778f2f365599b84ca51",
+      "timestamp": 1763392689921
     }
   ],
   "neat microcredit": [
@@ -12007,13 +12007,8 @@
   "bosak microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "b371e16ed739123ddf9ecdbd866257f8",
-      "timestamp": 1758824527481
-    },
-    {
-      "site": "JobGurus",
-      "id": "4cfca4b0af41483a9acafc9ca6dadeed",
-      "timestamp": 1758824527481
+      "id": "eecf08076564a6be16f0c64374a28682",
+      "timestamp": 1763392689921
     }
   ],
   "first ally capital": [
@@ -21361,6 +21356,13 @@
       "site": "JobGurus",
       "id": "442005442e050a190b14560af20cdab5",
       "timestamp": 1763390619212
+    }
+  ],
+  "aniso specialist medical centre": [
+    {
+      "site": "JobGurus",
+      "id": "8e5e571d494ed19865805b219993c15c",
+      "timestamp": 1763392689921
     }
   ]
 }
