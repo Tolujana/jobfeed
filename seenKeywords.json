@@ -690,8 +690,8 @@
   "estrada international staffing solutions": [
     {
       "site": "JobGurus",
-      "id": "cd35d1f30f80d26db7469c87c56c1766",
-      "timestamp": 1759947750596
+      "id": "18c81586e88518f627b72c5a63677887",
+      "timestamp": 1763374717420
     }
   ],
   "startup soar": [
@@ -1428,8 +1428,8 @@
   "warri wetland hotel": [
     {
       "site": "JobGurus",
-      "id": "8e7933d99dc68072ba4d496873475647",
-      "timestamp": 1760609866275
+      "id": "87b4ec0fd72c384049afe2ab694d4d5f",
+      "timestamp": 1763374717420
     }
   ],
   "laboria limited": [
@@ -8713,8 +8713,8 @@
   "la campagne tropicana beach resort": [
     {
       "site": "JobGurus",
-      "id": "102d41a6562726c4679468b456a614fe",
-      "timestamp": 1759508280363
+      "id": "fb2f76e9745c8312493f9e1240651603",
+      "timestamp": 1763374717420
     }
   ],
   "future one africa network (foan group)": [
@@ -20027,8 +20027,8 @@
   "kanselor business innovation campus limited": [
     {
       "site": "JobGurus",
-      "id": "eb7a0fea92584b0495741bac0ea2c647",
-      "timestamp": 1761937886513
+      "id": "f44e576a61d40c5fac39a6b0b466ce3c",
+      "timestamp": 1763374717420
     }
   ],
   "ignite africa": [
@@ -21271,6 +21271,13 @@
       "site": "JobGurus",
       "id": "8ee6a4123f9f714ec6d3c9176b977c74",
       "timestamp": 1763372623495
+    }
+  ],
+  "zico petroleum and marketing company limited": [
+    {
+      "site": "JobGurus",
+      "id": "a52e60b10794a6e3f8f4b15899a32aa5",
+      "timestamp": 1763374717420
     }
   ]
 }
