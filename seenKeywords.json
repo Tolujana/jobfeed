@@ -24,6 +24,11 @@
       "site": "JobGurus",
       "id": "d4dd2e5c31bfe1a5a8b507d0bd8f7fb9",
       "timestamp": 1763388968499
+    },
+    {
+      "site": "JobGurus",
+      "id": "7ffb119ae34888c3832e40f10993c153",
+      "timestamp": 1763396494015
     }
   ],
   "amecron nigeria limited": [
@@ -6685,8 +6690,8 @@
   "agurate online limited": [
     {
       "site": "JobGurus",
-      "id": "e5834309bbb885e2542011a58aa9110e",
-      "timestamp": 1760026788649
+      "id": "acac4e20ac12161693a2615d4aa24c43",
+      "timestamp": 1763396494015
     }
   ],
   "bakery solutions limited": [
@@ -21358,6 +21363,11 @@
       "site": "JobGurus",
       "id": "8e5e571d494ed19865805b219993c15c",
       "timestamp": 1763392689921
+    },
+    {
+      "site": "JobGurus",
+      "id": "13f52b1051fc37efcf1e0875ef9551ae",
+      "timestamp": 1763396494015
     }
   ],
   "honjek technical limited": [
@@ -21379,6 +21389,13 @@
       "site": "JobGurus",
       "id": "47a7ed44100806acced544db5d5e22e8",
       "timestamp": 1763394148048
+    }
+  ],
+  "fogx resources": [
+    {
+      "site": "JobGurus",
+      "id": "c98b7f7bc18018403700d83c1c4ffc89",
+      "timestamp": 1763396494015
     }
   ]
 }
