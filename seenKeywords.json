@@ -1665,23 +1665,8 @@
   "outsource nigeria": [
     {
       "site": "JobGurus",
-      "id": "2ff19475aa3aad3e310b58cec9bf78b6",
-      "timestamp": 1749658813331
-    },
-    {
-      "site": "JobGurus",
-      "id": "ed16cd4054e76dd32586155fc7aed5c7",
-      "timestamp": 1749660513404
-    },
-    {
-      "site": "JobGurus",
-      "id": "5f8f043437304cc69f0f594631a68df5",
-      "timestamp": 1749666114572
-    },
-    {
-      "site": "JobGurus",
-      "id": "664f91471dee42738b3018a12b5e73f6",
-      "timestamp": 1750171476204
+      "id": "77254e1aad1921cd21f754d994be9caa",
+      "timestamp": 1763484622608
     }
   ],
   "seven-up bottling company limited": [
@@ -2967,13 +2952,13 @@
   "oic partners": [
     {
       "site": "JobGurus",
-      "id": "60fd5706b926a6970a8f56817fc3b58b",
-      "timestamp": 1762774647067
+      "id": "041dddd3b9d3a02f1cc9df8ad5e0e233",
+      "timestamp": 1763111826005
     },
     {
       "site": "JobGurus",
-      "id": "041dddd3b9d3a02f1cc9df8ad5e0e233",
-      "timestamp": 1763111826005
+      "id": "7080dd232c29f1cc216ee26a04280d4f",
+      "timestamp": 1763484622608
     }
   ],
   "mulligan hotel": [
@@ -6176,8 +6161,8 @@
   "hoop telecoms limited": [
     {
       "site": "JobGurus",
-      "id": "8342035acb447c9145c923f2b528b177",
-      "timestamp": 1760541331325
+      "id": "f2ff85f069e51a23ec9c50f996536f47",
+      "timestamp": 1763484622608
     }
   ],
   "ghi assets limited": [
@@ -18931,8 +18916,8 @@
   "reime west africa limited": [
     {
       "site": "JobGurus",
-      "id": "9f4fa321428def6c7a2e8a8a71b8cb51",
-      "timestamp": 1761065049124
+      "id": "1f3805097fb7ac4bb37927b0255850cd",
+      "timestamp": 1763484622608
     }
   ],
   "pem security guard network limited": [
@@ -21478,6 +21463,13 @@
       "site": "JobGurus",
       "id": "7fe82b3679fc0401a228749c16b579ff",
       "timestamp": 1763482934655
+    }
+  ],
+  "crossover microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "fd61a4258688df8a3a0020973a2a2b85",
+      "timestamp": 1763484622608
     }
   ]
 }
