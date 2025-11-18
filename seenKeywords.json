@@ -4045,8 +4045,8 @@
   "ld&d consulting": [
     {
       "site": "JobGurus",
-      "id": "22a81785eeb00ec9e1958ce5feeff832",
-      "timestamp": 1762438586008
+      "id": "6c281bd046943eb65f07f0e7a384a585",
+      "timestamp": 1763475357976
     }
   ],
   "roqqu nigeria limited": [
@@ -12255,8 +12255,8 @@
   "apple and pears limited": [
     {
       "site": "JobGurus",
-      "id": "5ed192639379cc31b8556e92c0aaf0b4",
-      "timestamp": 1762355802597
+      "id": "275ef859ec7f2e8beb59c544e196d565",
+      "timestamp": 1763475357976
     }
   ],
   "shulifang biotechnolog": [
@@ -13383,8 +13383,8 @@
   "nemitt pharmaceuticals limited": [
     {
       "site": "JobGurus",
-      "id": "25af6f50c396627fd1f6200e56b8358d",
-      "timestamp": 1762782501280
+      "id": "d16e1d9d9ac89a4760379afc3311fb05",
+      "timestamp": 1763475357976
     }
   ],
   "fumquench parfaithub": [
@@ -21448,6 +21448,11 @@
       "site": "JobGurus",
       "id": "05583efe033fcfece6f0b69636892cbf",
       "timestamp": 1763473728652
+    },
+    {
+      "site": "JobGurus",
+      "id": "32a2f6d1fc42c89aed168653f6fc66de",
+      "timestamp": 1763475357976
     }
   ],
   "golden six hotel & restaurant": [
@@ -21462,6 +21467,13 @@
       "site": "JobGurus",
       "id": "fd42f7c5628ac2999f5c6fac82c09a99",
       "timestamp": 1763473728652
+    }
+  ],
+  "baker hughes": [
+    {
+      "site": "JobGurus",
+      "id": "86c1c9732000b2c1e841fbdfefaef6ca",
+      "timestamp": 1763475357976
     }
   ]
 }
