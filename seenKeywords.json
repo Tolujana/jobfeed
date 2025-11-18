@@ -7696,6 +7696,11 @@
       "site": "JobGurus",
       "id": "6e6f49fc17379570bad6fccad623ee0a",
       "timestamp": 1763461145168
+    },
+    {
+      "site": "JobGurus",
+      "id": "7db7705155a5104b86d3965b3b7ddbfc",
+      "timestamp": 1763462720241
     }
   ],
   "eha clinics": [
@@ -7953,8 +7958,8 @@
   "r & r recruiting services": [
     {
       "site": "JobGurus",
-      "id": "1322f789f6b32c604728a18927991284",
-      "timestamp": 1762350590683
+      "id": "00631955440584da2e875b6fd515afd0",
+      "timestamp": 1763462720241
     }
   ],
   "troop pharmaceuticals limited": [
@@ -10627,8 +10632,8 @@
   "guinness nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "29213ea991dbc4bcabc766d5f55417df",
-      "timestamp": 1754301260202
+      "id": "cb10df156e19b903d87c04e6dfbf4387",
+      "timestamp": 1763462720241
     }
   ],
   "breezy digital solutions": [
@@ -21408,6 +21413,13 @@
       "site": "JobGurus",
       "id": "68bb4ca99eb072dee81592c5fbf37140",
       "timestamp": 1763461145168
+    }
+  ],
+  "talbabs consulting": [
+    {
+      "site": "JobGurus",
+      "id": "1b1ccf4619d4f27480db61d2038ecfa3",
+      "timestamp": 1763462720241
     }
   ]
 }
