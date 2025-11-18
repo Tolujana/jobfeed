@@ -577,6 +577,11 @@
       "site": "JobGurus",
       "id": "5f53bcbc9d271424f5e4232459c467bd",
       "timestamp": 1763464489967
+    },
+    {
+      "site": "JobGurus",
+      "id": "a442432e4bb59be8706136479ca598c3",
+      "timestamp": 1763473728652
     }
   ],
   "abbfem group": [
@@ -13001,18 +13006,8 @@
   "soft alliance": [
     {
       "site": "JobGurus",
-      "id": "bc0723d7d6ee8477ae7ad87702ffb481",
-      "timestamp": 1757070733044
-    },
-    {
-      "site": "JobGurus",
-      "id": "0ee0496a3af1f8a5423e41ea98bc106e",
-      "timestamp": 1757070733044
-    },
-    {
-      "site": "JobGurus",
-      "id": "bb45fc275b66da66995262d78057f929",
-      "timestamp": 1757077415377
+      "id": "91894bd14a7bf9eb5fed08fc59c4dc2b",
+      "timestamp": 1763473728652
     }
   ],
   "karis concept": [
@@ -21448,6 +21443,11 @@
       "site": "JobGurus",
       "id": "ddb1a7127d5a877d7adece46764d4e00",
       "timestamp": 1763472530714
+    },
+    {
+      "site": "JobGurus",
+      "id": "05583efe033fcfece6f0b69636892cbf",
+      "timestamp": 1763473728652
     }
   ],
   "golden six hotel & restaurant": [
@@ -21455,6 +21455,13 @@
       "site": "JobGurus",
       "id": "5a8962ea04797951168d961570a44612",
       "timestamp": 1763472530714
+    }
+  ],
+  "regus": [
+    {
+      "site": "JobGurus",
+      "id": "fd42f7c5628ac2999f5c6fac82c09a99",
+      "timestamp": 1763473728652
     }
   ]
 }
