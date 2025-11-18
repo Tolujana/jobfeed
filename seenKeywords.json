@@ -5120,8 +5120,13 @@
   "brands optimal limited": [
     {
       "site": "JobGurus",
-      "id": "65968f47eb3e092389d37c70042f65ce",
-      "timestamp": 1762440204590
+      "id": "3cce591172d43e7ba4182233d3d68681",
+      "timestamp": 1763465855347
+    },
+    {
+      "site": "JobGurus",
+      "id": "8e59842db818ae9ce6ca439cdc58dde0",
+      "timestamp": 1763465855347
     }
   ],
   "max drive": [
@@ -12984,13 +12989,8 @@
   "fidelam homes limited": [
     {
       "site": "JobGurus",
-      "id": "c5c070ad875df7f2270e8259054f2109",
-      "timestamp": 1756146166753
-    },
-    {
-      "site": "JobGurus",
-      "id": "cb22bf0b7deef76468b92c004954df82",
-      "timestamp": 1756729908142
+      "id": "e52ccd26d2a77dbad07264c8bd7e00e6",
+      "timestamp": 1763465855347
     }
   ],
   "soft alliance": [
@@ -17332,8 +17332,8 @@
   "kydal office point (kop)": [
     {
       "site": "JobGurus",
-      "id": "43f2ba031e3814da5292bb6e9c731de0",
-      "timestamp": 1759749153369
+      "id": "3fbfbcde376e51055a5fc73e1eed79eb",
+      "timestamp": 1763465855347
     }
   ],
   "wazobia cosmetics": [
@@ -21410,6 +21410,13 @@
       "site": "JobGurus",
       "id": "1b1ccf4619d4f27480db61d2038ecfa3",
       "timestamp": 1763462720241
+    }
+  ],
+  "aiico insurance": [
+    {
+      "site": "JobGurus",
+      "id": "bc5acf0eb0b48d5b1e1fc17070031dd9",
+      "timestamp": 1763465855347
     }
   ]
 }
