@@ -1706,8 +1706,8 @@
   "efezi southsea nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "3703dd1f504a40e72c9256a52e2c11c3",
-      "timestamp": 1762506993307
+      "id": "380e65a025075271dd82f2fc0913dde9",
+      "timestamp": 1763472530714
     }
   ],
   "styaks legal": [
@@ -18859,8 +18859,8 @@
   "tokiye integrated medical service": [
     {
       "site": "JobGurus",
-      "id": "0c536e2c843a32803351f82b9683cb18",
-      "timestamp": 1762263043854
+      "id": "63ce62218d61b87f371157de36ea87fe",
+      "timestamp": 1763472530714
     }
   ],
   "d.i.k international limited": [
@@ -21436,6 +21436,25 @@
       "site": "JobGurus",
       "id": "6a3a225dc8b60c8156cae25bc6333719",
       "timestamp": 1763469243871
+    }
+  ],
+  "uniterm nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "f71c8c7c4e3aa52250989f25fd8de917",
+      "timestamp": 1763472530714
+    },
+    {
+      "site": "JobGurus",
+      "id": "ddb1a7127d5a877d7adece46764d4e00",
+      "timestamp": 1763472530714
+    }
+  ],
+  "golden six hotel & restaurant": [
+    {
+      "site": "JobGurus",
+      "id": "5a8962ea04797951168d961570a44612",
+      "timestamp": 1763472530714
     }
   ]
 }
