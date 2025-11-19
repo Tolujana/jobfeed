@@ -1069,6 +1069,11 @@
       "site": "JobGurus",
       "id": "f4b5898c6712d6dd7acacc8178b576c7",
       "timestamp": 1763572535269
+    },
+    {
+      "site": "JobGurus",
+      "id": "9b37d92b7820552ed0878f1590079ad1",
+      "timestamp": 1763578061275
     }
   ],
   "zipline": [
@@ -21604,6 +21609,32 @@
       "site": "JobGurus",
       "id": "76924cd1453c69d9e1a91a2a7ebcaa62",
       "timestamp": 1763576599362
+    }
+  ],
+  "elite logistics & development services limited": [
+    {
+      "site": "JobGurus",
+      "id": "b6ebed216fc11d6763fd381026ffab12",
+      "timestamp": 1763578061275
+    }
+  ],
+  "nigerian college of agribusiness": [
+    {
+      "site": "JobGurus",
+      "id": "79ffdf6db177e65835cdb3aa069f21dc",
+      "timestamp": 1763578061275
+    }
+  ],
+  "robeck locks limited": [
+    {
+      "site": "JobGurus",
+      "id": "207574ecf0f730968c5e02fc81df772d",
+      "timestamp": 1763578061275
+    },
+    {
+      "site": "JobGurus",
+      "id": "fdd0f63d58b5fa5fd40a47bf048f566e",
+      "timestamp": 1763578061275
     }
   ]
 }
