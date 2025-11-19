@@ -21631,6 +21631,11 @@
       "site": "JobGurus",
       "id": "1ab60bad9da6b40f517d53c66e8b595d",
       "timestamp": 1763579592655
+    },
+    {
+      "site": "JobGurus",
+      "id": "89538c5e330959be8827076b4f767e9f",
+      "timestamp": 1763580982128
     }
   ],
   "nigerian college of agribusiness": [
@@ -21638,6 +21643,11 @@
       "site": "JobGurus",
       "id": "79ffdf6db177e65835cdb3aa069f21dc",
       "timestamp": 1763578061275
+    },
+    {
+      "site": "JobGurus",
+      "id": "8fbe5ced4f860d43d0ee26600af04119",
+      "timestamp": 1763580982128
     }
   ],
   "robeck locks limited": [
@@ -21650,6 +21660,27 @@
       "site": "JobGurus",
       "id": "fdd0f63d58b5fa5fd40a47bf048f566e",
       "timestamp": 1763578061275
+    }
+  ],
+  "nigerian breweries plc": [
+    {
+      "site": "JobGurus",
+      "id": "dd6e6ea39b52cb4d3ad674b1b646e379",
+      "timestamp": 1763580982128
+    }
+  ],
+  "aretecom limited": [
+    {
+      "site": "JobGurus",
+      "id": "42868114f7c38f5e1b80937f1f99590f",
+      "timestamp": 1763580982128
+    }
+  ],
+  "solar nigachem": [
+    {
+      "site": "JobGurus",
+      "id": "116eb1a4432bddec971f0571481a6de2",
+      "timestamp": 1763580982128
     }
   ]
 }
