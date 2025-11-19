@@ -16517,8 +16517,8 @@
   "hr-ex consulting": [
     {
       "site": "JobGurus",
-      "id": "a24b64eccb24cd3636837e94edc0f903",
-      "timestamp": 1760030007943
+      "id": "394a5b05440ea048bb125aeb8585b58c",
+      "timestamp": 1763566745031
     }
   ],
   "defcon alliance": [
@@ -21527,6 +21527,11 @@
       "site": "JobGurus",
       "id": "ea3f7c726765da324b6f4912198f0fb6",
       "timestamp": 1763565461507
+    },
+    {
+      "site": "JobGurus",
+      "id": "c58d09e962b7e218928316db9c8d583d",
+      "timestamp": 1763566745031
     }
   ],
   "ashec consulting": [
