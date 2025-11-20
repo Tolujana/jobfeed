@@ -13324,8 +13324,8 @@
   "9mobile": [
     {
       "site": "JobGurus",
-      "id": "e67a4ac3076a603d371e41ea89e01f47",
-      "timestamp": 1760721191742
+      "id": "ab151d05933b24e42ffc2007713ac70e",
+      "timestamp": 1763660321826
     }
   ],
   "stratahr limited": [
@@ -19420,13 +19420,8 @@
   "beta glass": [
     {
       "site": "JobGurus",
-      "id": "d7f2edafe34a736fd58872ab349eea84",
-      "timestamp": 1761565021750
-    },
-    {
-      "site": "JobGurus",
-      "id": "a083e6543054125faa785969ca1d36f1",
-      "timestamp": 1761565021750
+      "id": "e338b71599a02194cbdc08841ff42eda",
+      "timestamp": 1763660321826
     }
   ],
   "university of uyo": [
@@ -21753,6 +21748,20 @@
       "site": "JobGurus",
       "id": "fbd296ecacb5e2692da4203755419c75",
       "timestamp": 1763658775519
+    }
+  ],
+  "cworth energy": [
+    {
+      "site": "JobGurus",
+      "id": "55ffd6d87d1579454f2a727f628ab2fc",
+      "timestamp": 1763660321826
+    }
+  ],
+  "zaicon digital technologies": [
+    {
+      "site": "JobGurus",
+      "id": "61a64d5db4aacd6f768a980a132f7546",
+      "timestamp": 1763660321826
     }
   ]
 }
