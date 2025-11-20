@@ -11837,8 +11837,8 @@
   "just brand it limited": [
     {
       "site": "JobGurus",
-      "id": "ea2e64141f25a7ca9076d61ebc585e0b",
-      "timestamp": 1761927558155
+      "id": "fe6d100e040ffaaa826e5de58309ac94",
+      "timestamp": 1763651820335
     }
   ],
   "justhr": [
@@ -21688,6 +21688,20 @@
       "site": "JobGurus",
       "id": "d8f9200d5feaf7bd980a88965f5f7b96",
       "timestamp": 1763583357103
+    }
+  ],
+  "charterhouse": [
+    {
+      "site": "JobGurus",
+      "id": "009cd6988ebdc46b2b556d065d9a983f",
+      "timestamp": 1763651820335
+    }
+  ],
+  "dover engineering": [
+    {
+      "site": "JobGurus",
+      "id": "9234b4d65022878b2b55e6f9ad4f12b9",
+      "timestamp": 1763651820335
     }
   ]
 }
