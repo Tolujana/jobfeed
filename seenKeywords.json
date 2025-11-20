@@ -10,13 +10,8 @@
   "ipnx nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "71b95837967c0f5b69859f4634ef3057",
-      "timestamp": 1759767519192
-    },
-    {
-      "site": "JobGurus",
-      "id": "30685a7779359314ad7aa8ce4431b8a8",
-      "timestamp": 1759767519192
+      "id": "ce567ac4a60e5771a6f85259fbd6e565",
+      "timestamp": 1763657322394
     }
   ],
   "excel and grace consulting": [
@@ -21726,6 +21721,27 @@
       "site": "JobGurus",
       "id": "924971907d9f96d56aaf78f8643df6de",
       "timestamp": 1763653334063
+    }
+  ],
+  "rise networks": [
+    {
+      "site": "JobGurus",
+      "id": "0db00d8b4a8a6b5a82d0db497c921520",
+      "timestamp": 1763657322394
+    }
+  ],
+  "addas ultimate limited": [
+    {
+      "site": "JobGurus",
+      "id": "7f03e566afe9bfab7492f870b5d256f3",
+      "timestamp": 1763657322394
+    }
+  ],
+  "eunisell": [
+    {
+      "site": "JobGurus",
+      "id": "b54292aed27018d0a7b9b272c09dc9c7",
+      "timestamp": 1763657322394
     }
   ]
 }
