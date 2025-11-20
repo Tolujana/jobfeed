@@ -7602,8 +7602,13 @@
   "jhpiego": [
     {
       "site": "JobGurus",
-      "id": "92112df1001a55c6918d22e75bc3596f",
-      "timestamp": 1762515398996
+      "id": "c3350d252c217cb5c43e3f5d0c22b8f5",
+      "timestamp": 1763653334063
+    },
+    {
+      "site": "JobGurus",
+      "id": "091a7a1cf666dd6747271c7931498ab2",
+      "timestamp": 1763653334063
     }
   ],
   "abuja clinics": [
@@ -16628,8 +16633,8 @@
   "vaste finance": [
     {
       "site": "JobGurus",
-      "id": "d5e95e424e85791a4b39097dd7fb40b7",
-      "timestamp": 1759223771807
+      "id": "b4aee49edb166da6e00098f73cbac29f",
+      "timestamp": 1763653334063
     }
   ],
   "tejas networks": [
@@ -21702,6 +21707,20 @@
       "site": "JobGurus",
       "id": "9234b4d65022878b2b55e6f9ad4f12b9",
       "timestamp": 1763651820335
+    }
+  ],
+  "bomach group of company": [
+    {
+      "site": "JobGurus",
+      "id": "52b4558aa68daf39e6600d2984a5cc8a",
+      "timestamp": 1763653334063
+    }
+  ],
+  "chrisvirgy apartments": [
+    {
+      "site": "JobGurus",
+      "id": "924971907d9f96d56aaf78f8643df6de",
+      "timestamp": 1763653334063
     }
   ]
 }
