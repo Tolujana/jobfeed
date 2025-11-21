@@ -29,6 +29,11 @@
       "site": "JobGurus",
       "id": "03d438c5d4d1588aa27eb5cea785c31e",
       "timestamp": 1763398168410
+    },
+    {
+      "site": "JobGurus",
+      "id": "67861dde97be2953d44d5a864414fb54",
+      "timestamp": 1763728301908
     }
   ],
   "amecron nigeria limited": [
@@ -14744,8 +14749,8 @@
   "iknorbert communications limited": [
     {
       "site": "JobGurus",
-      "id": "67059ead53f71b07bd14566a07d473ae",
-      "timestamp": 1762188386597
+      "id": "9de6e4f1617b98fb956561e411daee7f",
+      "timestamp": 1763728301908
     }
   ],
   "tailored by maju": [
@@ -21802,6 +21807,13 @@
       "site": "JobGurus",
       "id": "89230271fd7beab14e470bab9abb3e2a",
       "timestamp": 1763724965948
+    }
+  ],
+  "cig motors limited": [
+    {
+      "site": "JobGurus",
+      "id": "aed019a0378baef7bd86063337b22941",
+      "timestamp": 1763728301908
     }
   ]
 }
