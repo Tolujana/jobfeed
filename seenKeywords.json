@@ -2224,6 +2224,11 @@
       "site": "JobGurus",
       "id": "24727116b4061a64f9f7f5229057dc20",
       "timestamp": 1763549070844
+    },
+    {
+      "site": "JobGurus",
+      "id": "827c99e8642860c9b32ea5dbc1c52165",
+      "timestamp": 1763731499116
     }
   ],
   "flees global services": [
@@ -4672,8 +4677,8 @@
   "bretty consultancy services": [
     {
       "site": "JobGurus",
-      "id": "579b5f0dbbddfebb17c699bf98b39ebe",
-      "timestamp": 1752767043107
+      "id": "c18c1e685749ad2a46f7e505b184275b",
+      "timestamp": 1763731499116
     }
   ],
   "neohomes limited": [
@@ -12360,8 +12365,8 @@
   "tribest corporate support limited": [
     {
       "site": "JobGurus",
-      "id": "ad94cbc2d1146ca812e1e275a0e5a467",
-      "timestamp": 1761763731959
+      "id": "43134e24a1b373e2f0eec923b2a848a8",
+      "timestamp": 1763731499116
     }
   ],
   "xuriel resources": [
@@ -21814,6 +21819,13 @@
       "site": "JobGurus",
       "id": "aed019a0378baef7bd86063337b22941",
       "timestamp": 1763728301908
+    }
+  ],
+  "synergy structure and shelters limited": [
+    {
+      "site": "JobGurus",
+      "id": "f5e7853743f33c9f65d736fd2f9bd641",
+      "timestamp": 1763731499116
     }
   ]
 }
