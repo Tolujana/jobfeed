@@ -12243,8 +12243,8 @@
   "sycamore integrated solutions limited": [
     {
       "site": "JobGurus",
-      "id": "7cf0f60f3586841d8db99eb0b4578ff3",
-      "timestamp": 1756822529652
+      "id": "2dc483e292a7dce162a200eef17af30c",
+      "timestamp": 1763724965948
     }
   ],
   "apple and pears limited": [
@@ -14129,13 +14129,8 @@
   "bons industries limited": [
     {
       "site": "JobGurus",
-      "id": "15e674e2e65830ca7643c24ae22bf99c",
-      "timestamp": 1757014546705
-    },
-    {
-      "site": "JobGurus",
-      "id": "56e7842023b36c19495d25239b25c90a",
-      "timestamp": 1757014546705
+      "id": "a9a5ba4117a99c366a6fd5dd51be67a9",
+      "timestamp": 1763724965948
     }
   ],
   "beacongate limited": [
@@ -21800,6 +21795,13 @@
       "site": "JobGurus",
       "id": "9e5bbb0cc21c50775423ac975609deba",
       "timestamp": 1763665954152
+    }
+  ],
+  "fannix limited": [
+    {
+      "site": "JobGurus",
+      "id": "89230271fd7beab14e470bab9abb3e2a",
+      "timestamp": 1763724965948
     }
   ]
 }
