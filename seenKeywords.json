@@ -19630,8 +19630,8 @@
   "frances mcgreg consulting": [
     {
       "site": "JobGurus",
-      "id": "68f56f1be754ee5150fd76e905c25688",
-      "timestamp": 1761737827779
+      "id": "cca2856c998e68fdc524852ffae9c057",
+      "timestamp": 1763745239600
     }
   ],
   "powerex limited": [
@@ -19740,8 +19740,8 @@
   "stellar international company limited": [
     {
       "site": "JobGurus",
-      "id": "7b0e5faebe797dfa0f5178b8a70b8d50",
-      "timestamp": 1761824180920
+      "id": "f0a7ecd717980823802cb2cc3619e1cf",
+      "timestamp": 1763745239600
     }
   ],
   "ab microfinance bank nigeria": [
@@ -21812,6 +21812,11 @@
       "site": "JobGurus",
       "id": "57515c2068a1fc4894f8712107c33e01",
       "timestamp": 1763734550694
+    },
+    {
+      "site": "JobGurus",
+      "id": "21163a1842240325a09cb780cea1e1ae",
+      "timestamp": 1763745239600
     }
   ]
 }
