@@ -6729,8 +6729,8 @@
   "hr hive": [
     {
       "site": "JobGurus",
-      "id": "0c516ade9cf36583afda87501fe95ee8",
-      "timestamp": 1759929970754
+      "id": "6b6e4eccb9439e5c0a73cc7fcb810651",
+      "timestamp": 1763809894653
     }
   ],
   "infinion technologies": [
@@ -13611,8 +13611,13 @@
   "kuddy cosmetics": [
     {
       "site": "JobGurus",
-      "id": "35a5ffd4b279f1bbdead15b085b12346",
-      "timestamp": 1756759043326
+      "id": "a3e23a071f18baf988f5f71a3c148230",
+      "timestamp": 1763809894653
+    },
+    {
+      "site": "JobGurus",
+      "id": "976453a98aff6c7ad6e895565034cddc",
+      "timestamp": 1763809894653
     }
   ],
   "intelics solutions": [
@@ -13883,8 +13888,8 @@
   "jubaili agrotec limited": [
     {
       "site": "JobGurus",
-      "id": "b08f867cccf1a29ed682577dd33cefed",
-      "timestamp": 1758208508587
+      "id": "85177531bbfbcba39369df5809f67519",
+      "timestamp": 1763809894653
     }
   ],
   "wig it and weaves": [
@@ -21822,6 +21827,13 @@
       "site": "JobGurus",
       "id": "21163a1842240325a09cb780cea1e1ae",
       "timestamp": 1763745239600
+    }
+  ],
+  "singa cash": [
+    {
+      "site": "JobGurus",
+      "id": "6db28c2204bff50be44c83d70080def9",
+      "timestamp": 1763809894653
     }
   ]
 }
