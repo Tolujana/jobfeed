@@ -5455,23 +5455,8 @@
   "aspom travel agency": [
     {
       "site": "JobGurus",
-      "id": "982beb3c2eb3fadac81406b8a8ce711e",
-      "timestamp": 1761648273421
-    },
-    {
-      "site": "JobGurus",
-      "id": "7d6c9d222a46fd3b5ccb97a613d6470b",
-      "timestamp": 1761648273421
-    },
-    {
-      "site": "JobGurus",
-      "id": "d5997e0ed8690637c0042a9bbf590281",
-      "timestamp": 1761654738053
-    },
-    {
-      "site": "JobGurus",
-      "id": "29ecff39b36464a4edddbe6df67204d6",
-      "timestamp": 1761654738053
+      "id": "e9a2c82d6df174b07de25f628bfd3034",
+      "timestamp": 1764002624198
     }
   ],
   "aspom travels and tours": [
@@ -13109,8 +13094,8 @@
   "business insider africa": [
     {
       "site": "JobGurus",
-      "id": "2808872e4352ec92f5e4dec09739bdfb",
-      "timestamp": 1757104693045
+      "id": "53181bd490ab6eb75e5d6fbd863eaf5b",
+      "timestamp": 1764002624198
     }
   ],
   "ldd consulting": [
@@ -21972,6 +21957,27 @@
       "site": "JobGurus",
       "id": "51b16490b5242b70b2173ab71cb8a910",
       "timestamp": 1764001107627
+    }
+  ],
+  "sunrise universal integrated supermarket": [
+    {
+      "site": "JobGurus",
+      "id": "0d031b63b8b0686e8d6da39fccfe3fd8",
+      "timestamp": 1764002624198
+    }
+  ],
+  "banksome group": [
+    {
+      "site": "JobGurus",
+      "id": "4f71b9e9eb378781d272b44e7d8bce30",
+      "timestamp": 1764002624198
+    }
+  ],
+  " federal medical centre": [
+    {
+      "site": "JobGurus",
+      "id": "1cafc2aec2769fd8c99114c6ee27ea60",
+      "timestamp": 1764002624198
     }
   ]
 }
