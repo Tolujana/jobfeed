@@ -20669,18 +20669,8 @@
   "wema bank plc": [
     {
       "site": "JobGurus",
-      "id": "1736dd75c21e6d4b2925bfc134311314",
-      "timestamp": 1762521900087
-    },
-    {
-      "site": "JobGurus",
-      "id": "7b4a364de77c87bc7720f805169d8ac9",
-      "timestamp": 1762523000249
-    },
-    {
-      "site": "JobGurus",
-      "id": "80092c6968dc338bed689614407259f7",
-      "timestamp": 1762551359537
+      "id": "3001466cfbde1c9cf65c267654a5eb73",
+      "timestamp": 1764011451876
     }
   ],
   "solidarités international (si)": [
@@ -21291,13 +21281,8 @@
   "sixthlab medical": [
     {
       "site": "JobGurus",
-      "id": "1b280c497ea7300c9e34d6303df459e7",
-      "timestamp": 1763382820359
-    },
-    {
-      "site": "JobGurus",
-      "id": "cce7b1289bd25e4d1a3606ccc7e4f875",
-      "timestamp": 1763386131561
+      "id": "8068242de52723321215a5542979bdef",
+      "timestamp": 1764011451876
     }
   ],
   "abg professional services": [
@@ -21999,6 +21984,20 @@
       "site": "JobGurus",
       "id": "1b075ca346ecd1fedb6bf1f6042ae657",
       "timestamp": 1764010252848
+    }
+  ],
+  "phase3 telecom": [
+    {
+      "site": "JobGurus",
+      "id": "74d8cab43f1745818045eae16c4dc425",
+      "timestamp": 1764011451876
+    }
+  ],
+  "control risks": [
+    {
+      "site": "JobGurus",
+      "id": "c7200f42f727474cb55b4d5dd3a2cc80",
+      "timestamp": 1764011451876
     }
   ]
 }
