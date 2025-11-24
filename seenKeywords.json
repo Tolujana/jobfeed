@@ -382,6 +382,11 @@
       "site": "JobGurus",
       "id": "2e506245ad8560eb75a65e9cae73705a",
       "timestamp": 1763732619722
+    },
+    {
+      "site": "JobGurus",
+      "id": "b593740d082d0c8809108117b4e0329c",
+      "timestamp": 1763987640127
     }
   ],
   "dana group": [
@@ -6642,13 +6647,8 @@
   "etc workforce services limited": [
     {
       "site": "JobGurus",
-      "id": "e54debf4fde73494e5d6dfe60f5a614d",
-      "timestamp": 1761387261529
-    },
-    {
-      "site": "JobGurus",
-      "id": "82ca82b3423a1cf0db25d46e22ecb0f7",
-      "timestamp": 1761388694823
+      "id": "53040e6ced62289b191265c18e394bd7",
+      "timestamp": 1763987640127
     }
   ],
   "jibs-ray nigeria limited": [
@@ -21925,6 +21925,20 @@
       "site": "JobGurus",
       "id": "581759eb7632a7a274eefc8706d01dc1",
       "timestamp": 1763979519682
+    }
+  ],
+  "red star zhongyuan group": [
+    {
+      "site": "JobGurus",
+      "id": "aa319be95eb9d9c62ddb02246c4a5d99",
+      "timestamp": 1763987640127
+    }
+  ],
+  "aims education": [
+    {
+      "site": "JobGurus",
+      "id": "e4fdb8a23e060c8a3159245419bfa697",
+      "timestamp": 1763987640127
     }
   ]
 }
