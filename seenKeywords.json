@@ -560,18 +560,13 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "5f53bcbc9d271424f5e4232459c467bd",
-      "timestamp": 1763464489967
-    },
-    {
-      "site": "JobGurus",
-      "id": "a442432e4bb59be8706136479ca598c3",
-      "timestamp": 1763473728652
-    },
-    {
-      "site": "JobGurus",
       "id": "1de34ac51f34ff2c96fd589c03d94455",
       "timestamp": 1763655633897
+    },
+    {
+      "site": "JobGurus",
+      "id": "e3d2b5b798591bfb7a4d407770f8ac1c",
+      "timestamp": 1764081882075
     }
   ],
   "abbfem group": [
@@ -2712,8 +2707,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "d04b6a7e3566a5d7c59c53b43beffa3c",
-      "timestamp": 1763050780685
+      "id": "bf2fe8c5a412f0b85bf53ac114199391",
+      "timestamp": 1764081882075
     }
   ],
   "netcom africa": [
@@ -11137,8 +11132,8 @@
   "avario digitals": [
     {
       "site": "JobGurus",
-      "id": "032c9c1e80e0cdbf80e264e6f14402b5",
-      "timestamp": 1754561889861
+      "id": "7adc7f74914d5123c84a4df955dea495",
+      "timestamp": 1764081882075
     }
   ],
   "mainstack": [
@@ -18128,8 +18123,8 @@
   "beyond credit limited": [
     {
       "site": "JobGurus",
-      "id": "2f043543589df595fc94269fa1024958",
-      "timestamp": 1761649971785
+      "id": "efb785948019ca6063709c90ecf9bbd2",
+      "timestamp": 1764081882075
     }
   ],
   "o’spaces nigeria limited": [
@@ -22019,6 +22014,13 @@
       "site": "JobGurus",
       "id": "5fed405b2e661ef51c603faf0cb1c138",
       "timestamp": 1764080210466
+    }
+  ],
+  "wayfare travels": [
+    {
+      "site": "JobGurus",
+      "id": "229885747bca3055b31efefc91080646",
+      "timestamp": 1764081882075
     }
   ]
 }
