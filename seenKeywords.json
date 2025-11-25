@@ -5789,8 +5789,8 @@
   "jmk nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "aadf71a1deae68fb3b286f82af766ab4",
-      "timestamp": 1751318087268
+      "id": "33eb7f23a82a29c800ea0dc72024881b",
+      "timestamp": 1764067619817
     }
   ],
   "olusco group": [
@@ -21844,6 +21844,11 @@
       "site": "JobGurus",
       "id": "0d12f8a97cf7b6b1c98dfaf3f8386d4a",
       "timestamp": 1763814493188
+    },
+    {
+      "site": "JobGurus",
+      "id": "4141475a679a293cea3994cf02877953",
+      "timestamp": 1764067619817
     }
   ],
   "daiik engineering limited": [
@@ -22004,6 +22009,13 @@
       "site": "JobGurus",
       "id": "3605969841f2ab690c1704687e01095c",
       "timestamp": 1764012968971
+    }
+  ],
+  "thierry technologies nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "6794237c813783816c5355e731aa8d96",
+      "timestamp": 1764067619817
     }
   ]
 }
