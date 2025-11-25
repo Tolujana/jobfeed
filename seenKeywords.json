@@ -631,18 +631,8 @@
   "vantegral consulting": [
     {
       "site": "JobGurus",
-      "id": "03106cc5960f76549b124edebbc56155",
-      "timestamp": 1761837428702
-    },
-    {
-      "site": "JobGurus",
-      "id": "45d28f45b6ed5d984c17f8dc6f406a0d",
-      "timestamp": 1761932365444
-    },
-    {
-      "site": "JobGurus",
-      "id": "e8b188975ee6ca51597e1432613833a1",
-      "timestamp": 1762190061352
+      "id": "fcd5372e7e9ae16bfcf64d0341da89c9",
+      "timestamp": 1764083892339
     }
   ],
   "private sector health alliance of nigeria": [
@@ -2389,13 +2379,8 @@
   "hilton worldwide": [
     {
       "site": "JobGurus",
-      "id": "ece7c5c4c0a618cd45e265bb48e48df6",
-      "timestamp": 1761974049555
-    },
-    {
-      "site": "JobGurus",
-      "id": "729f697b88f64e8d74b52aaa18d64e90",
-      "timestamp": 1761974049555
+      "id": "cdc6d35ea60826761301810e42ce9178",
+      "timestamp": 1764083892339
     }
   ],
   "bss consulting limited": [
@@ -11723,8 +11708,8 @@
   "atis limited": [
     {
       "site": "JobGurus",
-      "id": "b9313c7832e02ba795208645825491dd",
-      "timestamp": 1755103436863
+      "id": "947e905cf521d2914ab1d2eb48781b37",
+      "timestamp": 1764083892339
     }
   ],
   "sky mall": [
@@ -12302,6 +12287,11 @@
       "site": "JobGurus",
       "id": "43134e24a1b373e2f0eec923b2a848a8",
       "timestamp": 1763731499116
+    },
+    {
+      "site": "JobGurus",
+      "id": "ff492bb5922ba91ea1a7ac37295ab389",
+      "timestamp": 1764083892339
     }
   ],
   "xuriel resources": [
@@ -22021,6 +22011,13 @@
       "site": "JobGurus",
       "id": "229885747bca3055b31efefc91080646",
       "timestamp": 1764081882075
+    }
+  ],
+  "mofmed medical solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "27782b2c25cde436ca364b38f0d7393f",
+      "timestamp": 1764083892339
     }
   ]
 }
