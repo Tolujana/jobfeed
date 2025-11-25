@@ -7241,6 +7241,11 @@
       "site": "JobGurus",
       "id": "d2dbd556a1b8a3f942e15e974262caea",
       "timestamp": 1763743464775
+    },
+    {
+      "site": "JobGurus",
+      "id": "363c85f583082028cf60ed2cc7aafc1a",
+      "timestamp": 1764085407763
     }
   ],
   "firstfruit housing limited": [
@@ -19209,8 +19214,8 @@
   "avetium consult": [
     {
       "site": "JobGurus",
-      "id": "7fa41cdc5b2f9e2a4bf0020174d31bd9",
-      "timestamp": 1761318976858
+      "id": "020849ca7dc57d9e5af8dec2d19323a7",
+      "timestamp": 1764085407763
     }
   ],
   "ai multimedia academy": [
@@ -22018,6 +22023,27 @@
       "site": "JobGurus",
       "id": "27782b2c25cde436ca364b38f0d7393f",
       "timestamp": 1764083892339
+    }
+  ],
+  "transtell ventures nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "4002ec5af28b519476803ebcace0847f",
+      "timestamp": 1764085407763
+    }
+  ],
+  "accret experience": [
+    {
+      "site": "JobGurus",
+      "id": "7e1f217b44af1d8cf4a21e2dcf39550e",
+      "timestamp": 1764085407763
+    }
+  ],
+  "bave design studio": [
+    {
+      "site": "JobGurus",
+      "id": "2c161b6214cae2a8a9ee586ef74c1b9e",
+      "timestamp": 1764085407763
     }
   ]
 }
