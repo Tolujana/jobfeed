@@ -5269,13 +5269,13 @@
   "white soul group": [
     {
       "site": "JobGurus",
-      "id": "949940016961f8ab077ecfe62744ec8b",
-      "timestamp": 1762864364406
+      "id": "6a28f50ce09507760dfa245d994bb27d",
+      "timestamp": 1764166655631
     },
     {
       "site": "JobGurus",
-      "id": "4d6b3506e862f2d48b32b47285b23790",
-      "timestamp": 1762947410112
+      "id": "8e212b459b1c63540ee6e5167286ecd5",
+      "timestamp": 1764166655631
     }
   ],
   "crystal thorpe": [
@@ -22104,6 +22104,20 @@
       "site": "JobGurus",
       "id": "74b23577a818870108a1944a7f01f1a9",
       "timestamp": 1764163894234
+    }
+  ],
+  "mastercard": [
+    {
+      "site": "JobGurus",
+      "id": "d8d8415f3b6835b85f81fefee1a8c012",
+      "timestamp": 1764166655631
+    }
+  ],
+  "hr on wheels": [
+    {
+      "site": "JobGurus",
+      "id": "e73bece70c6548bc24cdc36ac3dc08d2",
+      "timestamp": 1764166655631
     }
   ]
 }
