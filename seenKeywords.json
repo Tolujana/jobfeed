@@ -2553,13 +2553,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "a5856091b295ab3b96be17c516ee594a",
-      "timestamp": 1762506993307
-    },
-    {
-      "site": "JobGurus",
-      "id": "dcdb839f1bac06025b3ba0cb982a5d0c",
-      "timestamp": 1762512161075
+      "id": "6d9f6daf80095494d6452e925c392733",
+      "timestamp": 1764171668151
     }
   ],
   "international fertilizer development center": [
@@ -17495,6 +17490,11 @@
       "site": "JobGurus",
       "id": "3317300ac7e7fc0979737bf3a8ab40bb",
       "timestamp": 1763732619722
+    },
+    {
+      "site": "JobGurus",
+      "id": "37534076d6a2e523ad9ddbe0cfbf453d",
+      "timestamp": 1764171668151
     }
   ],
   "first cardiology consultants (fcc)": [
@@ -18422,8 +18422,8 @@
   "boulevard hotels and resorts": [
     {
       "site": "JobGurus",
-      "id": "ef924c6276289216efab8dd1e9b72c58",
-      "timestamp": 1760614572374
+      "id": "80dfd4ffefc21f6feea84b2a0e60031b",
+      "timestamp": 1764171668151
     }
   ],
   "ignite energy access": [
@@ -22161,6 +22161,20 @@
       "site": "JobGurus",
       "id": "d99ea7db0f8f823ee842839667e0b2cc",
       "timestamp": 1764170117561
+    }
+  ],
+  "talenture group": [
+    {
+      "site": "JobGurus",
+      "id": "161e1bcc9beebf0e787d83f0c0ecdd92",
+      "timestamp": 1764171668151
+    }
+  ],
+  "golden oil industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "2f741b8a84ef99bec0bd4802fb824f36",
+      "timestamp": 1764171668151
     }
   ]
 }
