@@ -13349,8 +13349,8 @@
   "talent towers": [
     {
       "site": "JobGurus",
-      "id": "3fdd65dfa2a20e5fc89b6fcf9bd37738",
-      "timestamp": 1756493057186
+      "id": "4cf749b098d4528bd301e9f71df37267",
+      "timestamp": 1764170117561
     }
   ],
   "elizade nigeria limited": [
@@ -15221,8 +15221,8 @@
   "qatar airways": [
     {
       "site": "JobGurus",
-      "id": "0e2d98acc5b678520bdba8e7110f53c9",
-      "timestamp": 1758032123898
+      "id": "00e527fed841513c046d29c32e8d40d3",
+      "timestamp": 1764170117561
     }
   ],
   "trustlub fluid resources limited": [
@@ -19707,6 +19707,11 @@
       "site": "JobGurus",
       "id": "f0a7ecd717980823802cb2cc3619e1cf",
       "timestamp": 1763745239600
+    },
+    {
+      "site": "JobGurus",
+      "id": "351548ee94f7970e865839e8acadd173",
+      "timestamp": 1764170117561
     }
   ],
   "ab microfinance bank nigeria": [
@@ -22125,6 +22130,11 @@
       "site": "JobGurus",
       "id": "94bbd2e91db2775d70f31b69c25e457e",
       "timestamp": 1764168252137
+    },
+    {
+      "site": "JobGurus",
+      "id": "e2c265675233005d91cab5584eac77b0",
+      "timestamp": 1764170117561
     }
   ],
   "gil automation": [
@@ -22144,6 +22154,13 @@
       "site": "JobGurus",
       "id": "bde28249baad05bffd92be3324a1efba",
       "timestamp": 1764168252137
+    }
+  ],
+  "platinumlist.net": [
+    {
+      "site": "JobGurus",
+      "id": "d99ea7db0f8f823ee842839667e0b2cc",
+      "timestamp": 1764170117561
     }
   ]
 }
