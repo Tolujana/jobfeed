@@ -7973,6 +7973,11 @@
       "site": "JobGurus",
       "id": "9a2740c85d92664deff19e832d6707f2",
       "timestamp": 1764001107627
+    },
+    {
+      "site": "JobGurus",
+      "id": "ecd208a5a0c947ef2d5c0e984c994380",
+      "timestamp": 1764270764105
     }
   ],
   "danish refugee council": [
@@ -9873,8 +9878,8 @@
   "spar market": [
     {
       "site": "JobGurus",
-      "id": "61536fe6eb58ea81957247315a0749c7",
-      "timestamp": 1753715920175
+      "id": "516c68f8661dde781d6c32430f56c6f6",
+      "timestamp": 1764270764105
     }
   ],
   "tezza business solutions limited": [
@@ -15767,8 +15772,8 @@
   "o'la-kleen nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "db20a99e3af0130584d254fa66a3fb38",
-      "timestamp": 1759498852240
+      "id": "87cea646084b15e7fef15ab4f8efef28",
+      "timestamp": 1764270764105
     }
   ],
   "pajuno development company": [
@@ -20394,13 +20399,8 @@
   "carlson hotel": [
     {
       "site": "JobGurus",
-      "id": "cfcd73469a7aaef8de3a332020e3f5da",
-      "timestamp": 1762366960209
-    },
-    {
-      "site": "JobGurus",
-      "id": "889fad981939c18d475dd90dc648340c",
-      "timestamp": 1762368513424
+      "id": "e2028fa6ef48a602ba9e04ead67c53dd",
+      "timestamp": 1764270764105
     }
   ],
   "the chartered institute of directors nigeria": [
@@ -22222,6 +22222,13 @@
       "site": "JobGurus",
       "id": "60e6a26a281f6391e84fbd143a6e844a",
       "timestamp": 1764261937099
+    }
+  ],
+  "animal care service konsult nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "9ef295f95fa6874d5418bfeac0153f69",
+      "timestamp": 1764270764105
     }
   ]
 }
