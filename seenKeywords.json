@@ -6605,8 +6605,8 @@
   "agurate online limited": [
     {
       "site": "JobGurus",
-      "id": "acac4e20ac12161693a2615d4aa24c43",
-      "timestamp": 1763396494015
+      "id": "4f88148c509c95f8cc69e03e7e219372",
+      "timestamp": 1764246875026
     }
   ],
   "bakery solutions limited": [
@@ -8555,13 +8555,8 @@
   "vdsc consulting services": [
     {
       "site": "JobGurus",
-      "id": "49a92827f3ccc279e522695444a56257",
-      "timestamp": 1752767043107
-    },
-    {
-      "site": "JobGurus",
-      "id": "818ef5561828fa1115fe2c1c4669cb52",
-      "timestamp": 1753283912960
+      "id": "79e322d5e60ebc84c449ca053d467e4c",
+      "timestamp": 1764246875026
     }
   ],
   "skld integrated services limited": [
@@ -9690,6 +9685,11 @@
       "site": "JobGurus",
       "id": "b208b3f44ef6526bac64c5c1979c906a",
       "timestamp": 1764080210466
+    },
+    {
+      "site": "JobGurus",
+      "id": "01f4cb03e370e2e9d3d3dcb3880d267f",
+      "timestamp": 1764246875026
     }
   ],
   " esty agro": [
@@ -9962,8 +9962,8 @@
   "sims nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "2d57e85a761d3047fa1051d349b73187",
-      "timestamp": 1763131212879
+      "id": "161408aef68cd7ab683a4ac920d0daa1",
+      "timestamp": 1764246875026
     }
   ],
   "talent lab limited": [
@@ -22175,6 +22175,13 @@
       "site": "JobGurus",
       "id": "2f741b8a84ef99bec0bd4802fb824f36",
       "timestamp": 1764171668151
+    }
+  ],
+  "tuslik realty": [
+    {
+      "site": "JobGurus",
+      "id": "7f77e996ba42b6f4339d99efa88c7e14",
+      "timestamp": 1764246875026
     }
   ]
 }
