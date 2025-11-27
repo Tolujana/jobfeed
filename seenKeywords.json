@@ -3244,13 +3244,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "a3cd5efeeba2448e8ffc1f4c3ba229f3",
-      "timestamp": 1763469243871
-    },
-    {
-      "site": "JobGurus",
-      "id": "3c5bc055a09abe89e91b7e7a28f2d634",
-      "timestamp": 1763549070844
+      "id": "07ebab29294884f7e2b8e411e076da98",
+      "timestamp": 1764252995333
     }
   ],
   "abnl limited": [
@@ -6734,13 +6729,8 @@
   "5thwall consulting": [
     {
       "site": "JobGurus",
-      "id": "d0a588aa9b0cc4aa2233acdebedb9553",
-      "timestamp": 1763052430460
-    },
-    {
-      "site": "JobGurus",
-      "id": "1622e7b8964217b465a3120a27bfa87f",
-      "timestamp": 1763052430460
+      "id": "f438ed988591e93a08ff46ce14ba7166",
+      "timestamp": 1764252995333
     }
   ],
   "brilliant performance solutions limited": [
@@ -16041,8 +16031,8 @@
   "givanas cosmetics nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "945b11c666047e366d9ebf3320b45496",
-      "timestamp": 1758739471022
+      "id": "abd828085c27c985d7f8b12802ed73d1",
+      "timestamp": 1764252995333
     }
   ],
   "de royal drinkables and refreshments limited": [
@@ -22174,6 +22164,11 @@
       "site": "JobGurus",
       "id": "3432e00b9eb23f97f7455c00e00f2702",
       "timestamp": 1764250127851
+    },
+    {
+      "site": "JobGurus",
+      "id": "ee8a330f835693943a1455c29814991f",
+      "timestamp": 1764252995333
     }
   ],
   "e'sorae home stores limited": [
@@ -22195,6 +22190,13 @@
       "site": "JobGurus",
       "id": "3298c2c0aac7149c5983b1006704e499",
       "timestamp": 1764251371291
+    }
+  ],
+  "ajocard limited": [
+    {
+      "site": "JobGurus",
+      "id": "af5c142073abc4ddc88dfdff9aa29cf0",
+      "timestamp": 1764252995333
     }
   ]
 }
