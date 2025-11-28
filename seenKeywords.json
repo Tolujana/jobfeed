@@ -636,6 +636,11 @@
       "site": "JobGurus",
       "id": "b9d77b08000462e83d1b1f1856341cda",
       "timestamp": 1763995446679
+    },
+    {
+      "site": "JobGurus",
+      "id": "fcf371b27920151b4686fef17b0eae8d",
+      "timestamp": 1764336453242
     }
   ],
   "vantegral consulting": [
@@ -16449,6 +16454,11 @@
       "site": "JobGurus",
       "id": "0c1d5fefbe33ae7e6d6c97ab3847e66c",
       "timestamp": 1764333183182
+    },
+    {
+      "site": "JobGurus",
+      "id": "b923145875204004808d73777be61bf8",
+      "timestamp": 1764336453242
     }
   ],
   "defcon alliance": [
@@ -22274,6 +22284,27 @@
       "site": "JobGurus",
       "id": "f26dfa7e0aba6c2cd510263b15142dd6",
       "timestamp": 1764333183182
+    }
+  ],
+  "tedxmaitama": [
+    {
+      "site": "JobGurus",
+      "id": "ffa8e535be7258e907d5af6d12f272c2",
+      "timestamp": 1764336453242
+    }
+  ],
+  "cway otg drinking water": [
+    {
+      "site": "JobGurus",
+      "id": "8dacfdae21e2acb08574253534cad98f",
+      "timestamp": 1764336453242
+    }
+  ],
+  "rosabon financial services limited": [
+    {
+      "site": "JobGurus",
+      "id": "7b6762fce7f1ccce0b0cca7718f0e5da",
+      "timestamp": 1764336453242
     }
   ]
 }
