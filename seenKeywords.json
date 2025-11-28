@@ -527,6 +527,11 @@
       "site": "JobGurus",
       "id": "09bd2c7cba7d0b8a42fa68b724ed2109",
       "timestamp": 1764348316527
+    },
+    {
+      "site": "JobGurus",
+      "id": "52fd2f2d29dfd2a140e5e7d6294acab0",
+      "timestamp": 1764350012206
     }
   ],
   "universal human resource consult": [
@@ -4291,6 +4296,11 @@
       "site": "JobGurus",
       "id": "568b8798b4d9c8ef4e173c2dc0f13cf7",
       "timestamp": 1764346778153
+    },
+    {
+      "site": "JobGurus",
+      "id": "5b5c34eb1aee7d27777b8f5041180fca",
+      "timestamp": 1764350012206
     }
   ],
   "jaykay group": [
@@ -11130,8 +11140,8 @@
   "citi residence": [
     {
       "site": "JobGurus",
-      "id": "7ce73fd2f7d7b3feb7833e2c142f1aee",
-      "timestamp": 1754563684273
+      "id": "7e7a827c28235648c54d7b04d3b0119c",
+      "timestamp": 1764350012206
     }
   ],
   "abl group": [
@@ -15119,8 +15129,8 @@
   "mobile sport limited": [
     {
       "site": "JobGurus",
-      "id": "46a7c64911da88750dd3faa11c7136c7",
-      "timestamp": 1758014189594
+      "id": "331f366f79d446824068e41bdb86933b",
+      "timestamp": 1764350012206
     }
   ],
   "bryxcel homes limited": [
@@ -22344,6 +22354,13 @@
       "site": "JobGurus",
       "id": "bb57589ef0418b32f8ae20de0df4c230",
       "timestamp": 1764346778153
+    }
+  ],
+  "idyha capital": [
+    {
+      "site": "JobGurus",
+      "id": "cebbcc0e10bb328d75c5e226b195ebc5",
+      "timestamp": 1764350012206
     }
   ]
 }
