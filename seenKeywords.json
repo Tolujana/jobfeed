@@ -655,8 +655,8 @@
   "jijedapt human resources consult limited": [
     {
       "site": "JobGurus",
-      "id": "a63da1c5fe1ec153c3f8a41eb546ab2f",
-      "timestamp": 1762600302886
+      "id": "3d02ed4d42086b68d989e5d3eff459f3",
+      "timestamp": 1764333183182
     }
   ],
   "lisse africa": [
@@ -16447,13 +16447,8 @@
   "hr-ex consulting": [
     {
       "site": "JobGurus",
-      "id": "394a5b05440ea048bb125aeb8585b58c",
-      "timestamp": 1763566745031
-    },
-    {
-      "site": "JobGurus",
-      "id": "b50f38c09f4df423580e24365e12e7c8",
-      "timestamp": 1763579592655
+      "id": "0c1d5fefbe33ae7e6d6c97ab3847e66c",
+      "timestamp": 1764333183182
     }
   ],
   "defcon alliance": [
@@ -22262,6 +22257,23 @@
       "site": "JobGurus",
       "id": "f1c38d5439381a5effe32aaaff7fa0f2",
       "timestamp": 1764329787680
+    }
+  ],
+  "samuelson": [
+    {
+      "site": "JobGurus",
+      "id": "36f2401f3255e793b2cf25e754900c50",
+      "timestamp": 1764333183182
+    },
+    {
+      "site": "JobGurus",
+      "id": "cbde968ae91ded545ab085c0a549cfa2",
+      "timestamp": 1764333183182
+    },
+    {
+      "site": "JobGurus",
+      "id": "f26dfa7e0aba6c2cd510263b15142dd6",
+      "timestamp": 1764333183182
     }
   ]
 }
