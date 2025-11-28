@@ -508,6 +508,11 @@
       "site": "JobGurus",
       "id": "4a71a788fe90747156da1e22b4d6d71f",
       "timestamp": 1764012968971
+    },
+    {
+      "site": "JobGurus",
+      "id": "043e651d59aaf2fcd07c5695e7ca29be",
+      "timestamp": 1764355632756
     }
   ],
   "cig motors co. limited": [
@@ -4390,8 +4395,8 @@
   "rishcon digital agency": [
     {
       "site": "JobGurus",
-      "id": "7b5edc894f811b2dcce7b2faa5f2fd3e",
-      "timestamp": 1750441201613
+      "id": "e985eedd942e8db8a0bf1f956582ec78",
+      "timestamp": 1764355632756
     }
   ],
   "international committee of the red cross": [
@@ -22368,6 +22373,13 @@
       "site": "JobGurus",
       "id": "7bc23c974ace96b918494e84c6a3e9e2",
       "timestamp": 1764354151102
+    }
+  ],
+  "fidelity bank plc": [
+    {
+      "site": "JobGurus",
+      "id": "4684b539773033c8368285b8d8e2e1d3",
+      "timestamp": 1764355632756
     }
   ]
 }
