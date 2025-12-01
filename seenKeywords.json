@@ -602,6 +602,11 @@
       "site": "JobGurus",
       "id": "14a16f22505bf4ad8913741a4a18868e",
       "timestamp": 1764348316527
+    },
+    {
+      "site": "JobGurus",
+      "id": "8999a4467526eacb088b1b8e19706126",
+      "timestamp": 1764606200365
     }
   ],
   "abbfem group": [
@@ -14996,6 +15001,11 @@
       "site": "JobGurus",
       "id": "441b534e42ca70116782cff13f3eb4c6",
       "timestamp": 1764603772580
+    },
+    {
+      "site": "JobGurus",
+      "id": "04f6a315cd2e076f91c9e511164cf899",
+      "timestamp": 1764606200365
     }
   ],
   "passnownow": [
@@ -18051,8 +18061,8 @@
   "reverse aesthetics limited": [
     {
       "site": "JobGurus",
-      "id": "ab1596671b45012e85c183901c554224",
-      "timestamp": 1760382713651
+      "id": "bca01edf5a3b8fb672fd710b25874257",
+      "timestamp": 1764606200365
     }
   ],
   "national mathematical centre": [
@@ -22527,6 +22537,20 @@
       "site": "JobGurus",
       "id": "a6537fb32c10a3e3d6eb3cf9bcd11464",
       "timestamp": 1764603772580
+    }
+  ],
+  "federal university gashua": [
+    {
+      "site": "JobGurus",
+      "id": "abae767f5b7bf4c781229e7a83c7f9c9",
+      "timestamp": 1764606200365
+    }
+  ],
+  "cowris technologies": [
+    {
+      "site": "JobGurus",
+      "id": "edfd420b713b29341316382f9e6d0427",
+      "timestamp": 1764606200365
     }
   ]
 }
