@@ -253,8 +253,8 @@
   "choice talents ng": [
     {
       "site": "JobGurus",
-      "id": "c8102ff4d07a5d166c5f253917e01cc7",
-      "timestamp": 1763658775519
+      "id": "8d49952c5ae0fb3ebf06e2d8d8a3529b",
+      "timestamp": 1764595956216
     }
   ],
   "greengrass investment limited": [
@@ -6288,13 +6288,8 @@
   "oppo": [
     {
       "site": "JobGurus",
-      "id": "b527a70a6d481c293fe52f9e327647ee",
-      "timestamp": 1755718545573
-    },
-    {
-      "site": "JobGurus",
-      "id": "401f4bdb4f41e7b57062c8fff5224c31",
-      "timestamp": 1756146166753
+      "id": "b6646d5b0d1bc1ae031eb86ab62e3e96",
+      "timestamp": 1764595956216
     }
   ],
   "agricare std plus limited": [
@@ -17079,8 +17074,8 @@
   "the vault recruitment": [
     {
       "site": "JobGurus",
-      "id": "16b06bf2d0a4b40c4f812aacb0dd753a",
-      "timestamp": 1759440897297
+      "id": "3d1fe2927526315267df023212ede153",
+      "timestamp": 1764595956216
     }
   ],
   "maineflow limited": [
@@ -22483,6 +22478,20 @@
       "site": "JobGurus",
       "id": "16cae03db1af53b8bedf52488dec8c43",
       "timestamp": 1764447431035
+    }
+  ],
+  "rsin": [
+    {
+      "site": "JobGurus",
+      "id": "e5cad3d791d06276eb97b2dcbda7c9ff",
+      "timestamp": 1764595956216
+    }
+  ],
+  "the company": [
+    {
+      "site": "JobGurus",
+      "id": "a7a3b2f14efa08a2c231477329ed98a6",
+      "timestamp": 1764595956216
     }
   ]
 }
