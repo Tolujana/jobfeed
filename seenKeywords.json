@@ -4541,8 +4541,8 @@
   "skipper eye-q super specialty eye hospital": [
     {
       "site": "JobGurus",
-      "id": "247fe8cf669315e9dec12d08aa32d0b7",
-      "timestamp": 1750504399018
+      "id": "add6710890ef2a4fa5edb1b24a7fc520",
+      "timestamp": 1764616855530
     }
   ],
   "eat 'n' go limited": [
@@ -10050,8 +10050,8 @@
   "karsto global resources limited": [
     {
       "site": "JobGurus",
-      "id": "66bc70d244b1c4e44bc404776673abf0",
-      "timestamp": 1753800664882
+      "id": "272c6f0f459a4d6dbe60cbe8ddc1a0f0",
+      "timestamp": 1764616855530
     }
   ],
   "tune afrique": [
@@ -22613,6 +22613,27 @@
       "site": "JobGurus",
       "id": "b4cb7f9d95eb4ce2507b55b78ee6a295",
       "timestamp": 1764615388207
+    }
+  ],
+  "zinnia agency": [
+    {
+      "site": "JobGurus",
+      "id": "4bd335eec34431dc332527417e9e790c",
+      "timestamp": 1764616855530
+    }
+  ],
+  "mofefolt nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "7ca5bf9ed5feec2cc67c689282603e95",
+      "timestamp": 1764616855530
+    }
+  ],
+  "paymentlogue": [
+    {
+      "site": "JobGurus",
+      "id": "80bcbb942b9c2a6721bc8905c11d6fce",
+      "timestamp": 1764616855530
     }
   ]
 }
