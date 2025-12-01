@@ -2320,6 +2320,11 @@
       "site": "JobGurus",
       "id": "43e9036e8ac691013aef3d03a57c4903",
       "timestamp": 1764153918387
+    },
+    {
+      "site": "JobGurus",
+      "id": "ea4b096eecdfd043c1039b30b54a2444",
+      "timestamp": 1764615388207
     }
   ],
   "federal polytechnic, bida.": [
@@ -3653,13 +3658,8 @@
   "secom limited": [
     {
       "site": "JobGurus",
-      "id": "dfb814ce3d8813fddcb19c10dca56495",
-      "timestamp": 1762274794040
-    },
-    {
-      "site": "JobGurus",
-      "id": "90ccafafba846cb000bcbb98271e335f",
-      "timestamp": 1762861013402
+      "id": "c8ecebaa616ad830c0c43ed1984eb12c",
+      "timestamp": 1764615388207
     }
   ],
   "confederated facilitators limited": [
@@ -12161,8 +12161,13 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "d1f4f47328953d387fa3d670bc721404",
-      "timestamp": 1763655633897
+      "id": "468cb5d4b03b8213f3609d64e7f4f2c6",
+      "timestamp": 1764615388207
+    },
+    {
+      "site": "JobGurus",
+      "id": "39ad92025f0983b78bf31189f83b4eff",
+      "timestamp": 1764615388207
     }
   ],
   "saro agro-allied": [
@@ -22601,6 +22606,13 @@
       "site": "JobGurus",
       "id": "8f7e9621fd78996cd7e20b64adee4ba7",
       "timestamp": 1764613615429
+    }
+  ],
+  "palms regalia hotel limited": [
+    {
+      "site": "JobGurus",
+      "id": "b4cb7f9d95eb4ce2507b55b78ee6a295",
+      "timestamp": 1764615388207
     }
   ]
 }
