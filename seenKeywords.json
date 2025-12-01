@@ -10886,8 +10886,8 @@
   "deradelight technologies": [
     {
       "site": "JobGurus",
-      "id": "c2e14daf0bbe0b4f59ed7f6bb4078789",
-      "timestamp": 1754397412893
+      "id": "3941fd637d45cf1c06db582a2120f57a",
+      "timestamp": 1764613615429
     }
   ],
   "vmz engineering": [
@@ -22577,6 +22577,30 @@
       "site": "JobGurus",
       "id": "63def16c74f3091cd41524eba9bed975",
       "timestamp": 1764611233297
+    }
+  ],
+  "tees & essentials": [
+    {
+      "site": "JobGurus",
+      "id": "9826a505ffd6526b32ea4fb4d2f2e20a",
+      "timestamp": 1764613615429
+    },
+    {
+      "site": "JobGurus",
+      "id": "e2d2af95da611d9e5ff64a49ac86a4ed",
+      "timestamp": 1764613615429
+    },
+    {
+      "site": "JobGurus",
+      "id": "d60e6f5a6411ffe91a91339cab368825",
+      "timestamp": 1764613615429
+    }
+  ],
+  "zaron cosmetics": [
+    {
+      "site": "JobGurus",
+      "id": "8f7e9621fd78996cd7e20b64adee4ba7",
+      "timestamp": 1764613615429
     }
   ]
 }
