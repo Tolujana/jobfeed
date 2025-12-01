@@ -523,6 +523,11 @@
       "site": "JobGurus",
       "id": "e64bce5e055ed52b8c6d138331f32b9d",
       "timestamp": 1764448772914
+    },
+    {
+      "site": "JobGurus",
+      "id": "31490a902a45b244c434fe7d4c7e566f",
+      "timestamp": 1764607895215
     }
   ],
   "cig motors co. limited": [
@@ -14156,8 +14161,8 @@
   "elevated hr limited": [
     {
       "site": "JobGurus",
-      "id": "90a9dfedc258fd07140613fd80714e54",
-      "timestamp": 1762267430951
+      "id": "ca0925dd2897a9426edac54507d1cdc8",
+      "timestamp": 1764607895215
     }
   ],
   "borno women development initiative (bowdi)": [
@@ -19615,8 +19620,8 @@
   "frances mcgreg consulting": [
     {
       "site": "JobGurus",
-      "id": "cca2856c998e68fdc524852ffae9c057",
-      "timestamp": 1763745239600
+      "id": "9f6ab2b8baecd5333ad8dbbd53b0aa16",
+      "timestamp": 1764607895215
     }
   ],
   "powerex limited": [
@@ -22551,6 +22556,20 @@
       "site": "JobGurus",
       "id": "edfd420b713b29341316382f9e6d0427",
       "timestamp": 1764606200365
+    }
+  ],
+  "leam consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "6640706887ab240df5bdcac9fa71c415",
+      "timestamp": 1764607895215
+    }
+  ],
+  "tangerine365": [
+    {
+      "site": "JobGurus",
+      "id": "a08f0b7c0cd92e316017c697497d9dea",
+      "timestamp": 1764607895215
     }
   ]
 }
