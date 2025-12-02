@@ -239,8 +239,8 @@
   "outcess solutions nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "c4b94c637a4f15cadbcf2a2971ce3659",
-      "timestamp": 1759480984219
+      "id": "936cf881a2f26c7d5b21784e048759da",
+      "timestamp": 1764688715161
     }
   ],
   "sap nigeria": [
@@ -260,6 +260,11 @@
       "site": "JobGurus",
       "id": "1192d9b45616528091486397f033107d",
       "timestamp": 1764674151206
+    },
+    {
+      "site": "JobGurus",
+      "id": "a39928cf09fa838717576d68a97ea014",
+      "timestamp": 1764688715161
     }
   ],
   "greengrass investment limited": [
@@ -22734,6 +22739,27 @@
       "site": "JobGurus",
       "id": "a292bbcb52706f5c4ebb8ad9c10ff856",
       "timestamp": 1764686834003
+    }
+  ],
+  "ecoscape limited": [
+    {
+      "site": "JobGurus",
+      "id": "c17956955b8c4bb320aa574c243a6579",
+      "timestamp": 1764688715161
+    }
+  ],
+  "brit property nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "fe85c7916762590d89e4875fd74e2352",
+      "timestamp": 1764688715161
+    }
+  ],
+  "blume nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "3e929119d4a26fcb25289d34694f490f",
+      "timestamp": 1764688715161
     }
   ]
 }
