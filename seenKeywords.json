@@ -11257,8 +11257,8 @@
   "domeo resources international (dri)": [
     {
       "site": "JobGurus",
-      "id": "28e45904699a661f7ceb0c095a4aae6c",
-      "timestamp": 1764074060063
+      "id": "26569639ce0738502ec73b23e46bf306",
+      "timestamp": 1764685076717
     }
   ],
   "pulse nigeria": [
@@ -14319,8 +14319,8 @@
   "det consulting limited": [
     {
       "site": "JobGurus",
-      "id": "2941857c8c3b7a3d85a6839487802833",
-      "timestamp": 1761582003465
+      "id": "652037e334c31b22713da478a20c12e3",
+      "timestamp": 1764685076717
     }
   ],
   "power control and appliances limited": [
@@ -22703,6 +22703,13 @@
       "site": "JobGurus",
       "id": "77974cbed50c5ada09a17a0359767821",
       "timestamp": 1764682428516
+    }
+  ],
+  "uniccon group": [
+    {
+      "site": "JobGurus",
+      "id": "78c48952d51aff6c2fb549b0a2da277d",
+      "timestamp": 1764685076717
     }
   ]
 }
