@@ -255,6 +255,11 @@
       "site": "JobGurus",
       "id": "8d49952c5ae0fb3ebf06e2d8d8a3529b",
       "timestamp": 1764595956216
+    },
+    {
+      "site": "JobGurus",
+      "id": "1192d9b45616528091486397f033107d",
+      "timestamp": 1764674151206
     }
   ],
   "greengrass investment limited": [
@@ -12351,8 +12356,8 @@
   "pwan group": [
     {
       "site": "JobGurus",
-      "id": "df5a1c927f886d34982d4c4faab53c72",
-      "timestamp": 1763549070844
+      "id": "bb342b565c5ea3726b64f576d7e50748",
+      "timestamp": 1764674151206
     }
   ],
   "zhuli recruiters": [
@@ -22656,6 +22661,25 @@
       "site": "JobGurus",
       "id": "55fc6467ca993422483577442d7b2b1a",
       "timestamp": 1764618010636
+    }
+  ],
+  "compass power solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "ce6cad94720e80c2066a5b0e3f2b605c",
+      "timestamp": 1764674151206
+    },
+    {
+      "site": "JobGurus",
+      "id": "b808fda96afc69f935548117eb74a6d4",
+      "timestamp": 1764674151206
+    }
+  ],
+  "crossover microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "5968933d7e4cd5fef5b0490f05276a71",
+      "timestamp": 1764674151206
     }
   ]
 }
