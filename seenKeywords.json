@@ -2922,13 +2922,8 @@
   "eko maintenance limited": [
     {
       "site": "JobGurus",
-      "id": "8619e1be2278ec3489d80f039b2b52b0",
-      "timestamp": 1762427652170
-    },
-    {
-      "site": "JobGurus",
-      "id": "28be9a60b0e0e0ec202fb1ba7ba14f80",
-      "timestamp": 1762510649027
+      "id": "8c7ac3c994f33353934cb9ad7f56162e",
+      "timestamp": 1764675504056
     }
   ],
   "hellofresh fast food": [
@@ -3379,8 +3374,8 @@
   "first bank of nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "268ddc6aa5761a2eb605508d58db1bbe",
-      "timestamp": 1761139794658
+      "id": "eb6abc4d43560ddb9127ad96d3962e82",
+      "timestamp": 1764675504056
     }
   ],
   "daytona peoples pharmacy and supermarket": [
@@ -22680,6 +22675,25 @@
       "site": "JobGurus",
       "id": "5968933d7e4cd5fef5b0490f05276a71",
       "timestamp": 1764674151206
+    },
+    {
+      "site": "JobGurus",
+      "id": "7f4685dc6a028130ac881f34a9c66462",
+      "timestamp": 1764675504056
+    }
+  ],
+  "nigeria markt": [
+    {
+      "site": "JobGurus",
+      "id": "09060e065eba9aea837cf4343046d7f1",
+      "timestamp": 1764675504056
+    }
+  ],
+  "zaqaid energy": [
+    {
+      "site": "JobGurus",
+      "id": "0d18a97a9fe21cae2b9f254134a7b9e1",
+      "timestamp": 1764675504056
     }
   ]
 }
