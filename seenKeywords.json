@@ -4451,8 +4451,8 @@
   "factbase consulting limited": [
     {
       "site": "JobGurus",
-      "id": "4fd14240f79da8390b54dab715c3ba8b",
-      "timestamp": 1763041861167
+      "id": "4d8926f21ce8d016ed17512322aa15f4",
+      "timestamp": 1764778980711
     }
   ],
   "bonzee consulting": [
@@ -13443,8 +13443,8 @@
   "the lamb medical center": [
     {
       "site": "JobGurus",
-      "id": "b13e0b1b3d020dd2c18f7b3c4c5fff11",
-      "timestamp": 1763378040814
+      "id": "bad6f1f28e725604e7a027aade46a51a",
+      "timestamp": 1764778980711
     }
   ],
   "solevo group": [
@@ -22513,6 +22513,11 @@
       "site": "JobGurus",
       "id": "16cae03db1af53b8bedf52488dec8c43",
       "timestamp": 1764447431035
+    },
+    {
+      "site": "JobGurus",
+      "id": "48e0a647199b1e04460e72944c7220a5",
+      "timestamp": 1764778980711
     }
   ],
   "rsin": [
@@ -22810,6 +22815,13 @@
       "site": "JobGurus",
       "id": "9a0209ed40f17737ee625128f4856a3d",
       "timestamp": 1764776692011
+    }
+  ],
+  "adkan service nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "0007fb9e25e39126e635019790d110eb",
+      "timestamp": 1764778980711
     }
   ]
 }
