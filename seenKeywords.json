@@ -7608,8 +7608,8 @@
   "whoosh logistics": [
     {
       "site": "JobGurus",
-      "id": "46a2c12ab90483a97406ca7cbbabef7a",
-      "timestamp": 1763123562809
+      "id": "566a6cc93f92749f8021697ac27125fd",
+      "timestamp": 1764757147371
     }
   ],
   "board of management of fedral medical centre": [
@@ -17900,6 +17900,11 @@
       "site": "JobGurus",
       "id": "72e08f9baa389af58349a86c695db5d3",
       "timestamp": 1764163894234
+    },
+    {
+      "site": "JobGurus",
+      "id": "a769c43e372e5cbbbc58bdd2a060d92b",
+      "timestamp": 1764757147371
     }
   ],
   "human-aware real-time solutions limited": [
