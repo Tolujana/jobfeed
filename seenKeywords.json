@@ -4903,8 +4903,8 @@
   "agiville industries limited": [
     {
       "site": "JobGurus",
-      "id": "272ca7c8a40da2b2279ae458a90ed657",
-      "timestamp": 1757164705939
+      "id": "b8e93822b37577596d3800ded323ff53",
+      "timestamp": 1764870246589
     }
   ],
   "productheights consulting": [
@@ -15196,8 +15196,8 @@
   "m-kopa nigeria": [
     {
       "site": "JobGurus",
-      "id": "0f5a30ca3232a65adfc647ba77da8c81",
-      "timestamp": 1764258016577
+      "id": "9fdc5e947d4177573b36576e66f57fe9",
+      "timestamp": 1764870246589
     }
   ],
   "olam international limited": [
@@ -22860,6 +22860,16 @@
       "site": "JobGurus",
       "id": "0553cb6b00f5a0444dc50fd16dc3a5bd",
       "timestamp": 1764868739204
+    },
+    {
+      "site": "JobGurus",
+      "id": "e0b4b06a796a1588844ae1edaea7e9f7",
+      "timestamp": 1764870246589
+    },
+    {
+      "site": "JobGurus",
+      "id": "b1dcdcd7d8292814124b2a072589f5aa",
+      "timestamp": 1764870246589
     }
   ],
   "aldreda fields limited": [
@@ -22867,6 +22877,13 @@
       "site": "JobGurus",
       "id": "3509d5fd249bcd218992e7f0e2c57795",
       "timestamp": 1764868739204
+    }
+  ],
+  "nlightin": [
+    {
+      "site": "JobGurus",
+      "id": "1db37479009a5d9f1002af58a8690268",
+      "timestamp": 1764870246589
     }
   ]
 }
