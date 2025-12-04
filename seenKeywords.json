@@ -3148,8 +3148,8 @@
   "staff-recruit": [
     {
       "site": "JobGurus",
-      "id": "43d7a5957ac807c2be84f605c6c8f072",
-      "timestamp": 1755891331006
+      "id": "7be4a0c826ea24c805057fc1294b3a4b",
+      "timestamp": 1764875746992
     }
   ],
   "willers solutions limited": [
@@ -7451,8 +7451,8 @@
   "nautilus nigeria engineering and construction limited": [
     {
       "site": "JobGurus",
-      "id": "fbb2f96abe4079ee5e81d498f41e955c",
-      "timestamp": 1761334556968
+      "id": "334d89c20c34f25a7dbb9c62fd9026a8",
+      "timestamp": 1764875746992
     }
   ],
   "the deutsche gesellschaft fur internationale zusammenarbeit (giz)": [
@@ -7866,8 +7866,8 @@
   "neveah limited": [
     {
       "site": "JobGurus",
-      "id": "823bc88d9b7ed21536e935c019354e96",
-      "timestamp": 1759772243867
+      "id": "bac4d26a484527f73efc6ed906c26894",
+      "timestamp": 1764875746992
     }
   ],
   "r & r recruiting services": [
@@ -22919,6 +22919,18 @@
       "site": "JobGurus",
       "id": "a1d1f8089d0c5474c156b07aea79ba88",
       "timestamp": 1764874449227
+    }
+  ],
+  "jewels leading lights academy": [
+    {
+      "site": "JobGurus",
+      "id": "183f2eece9302041a12fdbb2f5457f09",
+      "timestamp": 1764875746992
+    },
+    {
+      "site": "JobGurus",
+      "id": "dc26112bb33b0b4283699b240c096d27",
+      "timestamp": 1764875746992
     }
   ]
 }
