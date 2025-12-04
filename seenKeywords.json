@@ -1560,8 +1560,8 @@
   "unified payment services limited": [
     {
       "site": "JobGurus",
-      "id": "6d47f68d56307d8067babc054287cdc8",
-      "timestamp": 1762253148511
+      "id": "0ef8b1a834c90fa7718a1ed915b36f6c",
+      "timestamp": 1764868739204
     }
   ],
   "straitpay": [
@@ -5887,8 +5887,8 @@
   "nosagie holdings": [
     {
       "site": "JobGurus",
-      "id": "f6ddf123a56604cf09e80f1ba6a724fe",
-      "timestamp": 1751365065849
+      "id": "0185b8e13f3f882db50cd1f9f3ea29c0",
+      "timestamp": 1764868739204
     }
   ],
   "henosis international": [
@@ -7614,23 +7614,8 @@
   "mopheth nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6e6f49fc17379570bad6fccad623ee0a",
-      "timestamp": 1763461145168
-    },
-    {
-      "site": "JobGurus",
-      "id": "7db7705155a5104b86d3965b3b7ddbfc",
-      "timestamp": 1763462720241
-    },
-    {
-      "site": "JobGurus",
-      "id": "8ec2aa1077d6745ea4618c94a231b2c0",
-      "timestamp": 1763997516038
-    },
-    {
-      "site": "JobGurus",
-      "id": "b51fbb3450339164e1c6a8d7073d0217",
-      "timestamp": 1764004538492
+      "id": "94af768b3c67acde9732eeb6e9270712",
+      "timestamp": 1764868739204
     }
   ],
   "eha clinics": [
@@ -22868,6 +22853,20 @@
       "site": "JobGurus",
       "id": "1fdd95a92e2dc5b53c42aed9fea4a6de",
       "timestamp": 1764865349400
+    }
+  ],
+  "kabsa facility managers limited": [
+    {
+      "site": "JobGurus",
+      "id": "0553cb6b00f5a0444dc50fd16dc3a5bd",
+      "timestamp": 1764868739204
+    }
+  ],
+  "aldreda fields limited": [
+    {
+      "site": "JobGurus",
+      "id": "3509d5fd249bcd218992e7f0e2c57795",
+      "timestamp": 1764868739204
     }
   ]
 }
