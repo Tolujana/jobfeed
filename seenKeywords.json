@@ -9160,8 +9160,8 @@
   "trends ventures": [
     {
       "site": "JobGurus",
-      "id": "35daecaa9b6e71ffb3fabd71fa7de7b1",
-      "timestamp": 1753187697250
+      "id": "343fcb93810d8d3d0ae26603d0cd892e",
+      "timestamp": 1764865349400
     }
   ],
   "sky capital and financial allied international limited": [
@@ -13316,6 +13316,11 @@
       "site": "JobGurus",
       "id": "2fe9ef2d777aee9dc6b7189dd40d948f",
       "timestamp": 1764447431035
+    },
+    {
+      "site": "JobGurus",
+      "id": "61e93242fe6619fff2374dd515de40a2",
+      "timestamp": 1764865349400
     }
   ],
   "stratahr limited": [
@@ -14136,8 +14141,8 @@
   "beacongate limited": [
     {
       "site": "JobGurus",
-      "id": "37eca1663ad9399ac4b9a3355d98eaec",
-      "timestamp": 1761131631452
+      "id": "e6c21723b3e8461225a1d2bfaad63667",
+      "timestamp": 1764865349400
     }
   ],
   "faith digital consulting": [
@@ -21002,8 +21007,8 @@
   "tnl pharmaceuticals": [
     {
       "site": "JobGurus",
-      "id": "965f4a263ece45d061c7f47594d98205",
-      "timestamp": 1764250127851
+      "id": "6b376f767b8e5f6678c8c7aa66f30ecc",
+      "timestamp": 1764865349400
     }
   ],
   "insight plus healthcare": [
@@ -22871,6 +22876,13 @@
       "site": "JobGurus",
       "id": "8d2766ecc63c00db2683ca2c7c6194f4",
       "timestamp": 1764790662583
+    }
+  ],
+  "thyaura limited": [
+    {
+      "site": "JobGurus",
+      "id": "1fdd95a92e2dc5b53c42aed9fea4a6de",
+      "timestamp": 1764865349400
     }
   ]
 }
