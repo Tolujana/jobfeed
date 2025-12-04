@@ -10296,8 +10296,8 @@
   "digitvant microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "6bfb6d2146e8e344e5f2be38042cc2ee",
-      "timestamp": 1754929261348
+      "id": "dbe74569f8e9c552b44ad6de0ea6555a",
+      "timestamp": 1764872797547
     }
   ],
   "quest realtor & consulting services": [
@@ -14366,8 +14366,8 @@
   "new heights pharmaceuticals limited": [
     {
       "site": "JobGurus",
-      "id": "30a654606e620d3a2c47be5d6c71c86a",
-      "timestamp": 1757351593430
+      "id": "4836b528462dcc2818854d29f4f762a4",
+      "timestamp": 1764872797547
     }
   ],
   "resq-x limited": [
@@ -22884,6 +22884,27 @@
       "site": "JobGurus",
       "id": "1db37479009a5d9f1002af58a8690268",
       "timestamp": 1764870246589
+    }
+  ],
+  "critters veterinary centre": [
+    {
+      "site": "JobGurus",
+      "id": "71e55307b7deee2734195350710af57a",
+      "timestamp": 1764872797547
+    }
+  ],
+  "amala sky (ose olorun food canteen)": [
+    {
+      "site": "JobGurus",
+      "id": "02b3e43834baaa2bdeb8bbe23214ab01",
+      "timestamp": 1764872797547
+    }
+  ],
+  "moneyfield microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "b950220852a388217564643f5c308aa7",
+      "timestamp": 1764872797547
     }
   ]
 }
