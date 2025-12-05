@@ -3317,8 +3317,13 @@
   "prestigious homes limited": [
     {
       "site": "JobGurus",
-      "id": "e460ba6a3f7cde7f96c15b387e057a9a",
-      "timestamp": 1755080285374
+      "id": "c100be9e1d44d08b79f2f62e13eee98a",
+      "timestamp": 1764941355373
+    },
+    {
+      "site": "JobGurus",
+      "id": "31722ce7ecb3f3345318e5e5d2e07055",
+      "timestamp": 1764941355373
     }
   ],
   "excellent jobs": [
@@ -11974,13 +11979,8 @@
   "first ally capital": [
     {
       "site": "JobGurus",
-      "id": "aae34384d5caaaa7c08431b3f17d4229",
-      "timestamp": 1760618014631
-    },
-    {
-      "site": "JobGurus",
-      "id": "a705e000a4ca54a57dfcead88a3a0243",
-      "timestamp": 1760621254709
+      "id": "b93fb976763a1a36ac0ddd63424e5914",
+      "timestamp": 1764941355373
     }
   ],
   "light heights global services limited": [
@@ -22965,6 +22965,20 @@
       "site": "JobGurus",
       "id": "8ffbf159277167dd86530cba00546e04",
       "timestamp": 1764938061881
+    }
+  ],
+  "qefas": [
+    {
+      "site": "JobGurus",
+      "id": "80db5da092680250cd480feab314ade7",
+      "timestamp": 1764941355373
+    }
+  ],
+  "mishra global resources": [
+    {
+      "site": "JobGurus",
+      "id": "d3d7d39f82c533ec845cdadc3b18b246",
+      "timestamp": 1764941355373
     }
   ]
 }
