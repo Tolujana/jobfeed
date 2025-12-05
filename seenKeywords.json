@@ -1269,8 +1269,8 @@
   "g-shoppers": [
     {
       "site": "JobGurus",
-      "id": "7b138780d682a3b125194f55e0a74d4a",
-      "timestamp": 1758644323506
+      "id": "ce207d27ff602b0257f39d6965e028dd",
+      "timestamp": 1764953339144
     }
   ],
   "c recruite": [
@@ -2183,8 +2183,8 @@
   "helean global limited": [
     {
       "site": "JobGurus",
-      "id": "f38e1f89d343f3b1439a2150e3b980b7",
-      "timestamp": 1759926727928
+      "id": "fdccf4776d50e9572e55aeaadb86b684",
+      "timestamp": 1764953339144
     }
   ],
   "maisha meds": [
@@ -4589,8 +4589,8 @@
   "blowfish group": [
     {
       "site": "JobGurus",
-      "id": "0197ca88c96f3c168046453843e6ad1f",
-      "timestamp": 1750513322461
+      "id": "394582d38ebf73938a8ee11cad3f26bb",
+      "timestamp": 1764953339144
     }
   ],
   "al-treuhand better design limited": [
@@ -8225,8 +8225,8 @@
   "shalina healthcare": [
     {
       "site": "JobGurus",
-      "id": "6001ceabe37db1f9368d2a7d42487923",
-      "timestamp": 1762778011555
+      "id": "ff597e67f6bf13442c7527fdbd523fac",
+      "timestamp": 1764953339144
     }
   ],
   "aluko & oyebode": [
@@ -23018,6 +23018,13 @@
       "site": "JobGurus",
       "id": "33b4e2832de9c23c9d41fcd2e0f574ef",
       "timestamp": 1764951641147
+    }
+  ],
+  "shalina diagnostics": [
+    {
+      "site": "JobGurus",
+      "id": "8d2b80f1f73a8dfb098a7e589eb1a870",
+      "timestamp": 1764953339144
     }
   ]
 }
