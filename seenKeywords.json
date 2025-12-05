@@ -10631,6 +10631,11 @@
       "site": "JobGurus",
       "id": "bfe8fcb5c1d9b9a767a2350ba9b066b5",
       "timestamp": 1764609471232
+    },
+    {
+      "site": "JobGurus",
+      "id": "3212b080305b1d98ddab84fb2f4b8950",
+      "timestamp": 1764938061881
     }
   ],
   "mcpeniel consultancy": [
@@ -16472,13 +16477,13 @@
   "hr-ex consulting": [
     {
       "site": "JobGurus",
-      "id": "0c1d5fefbe33ae7e6d6c97ab3847e66c",
-      "timestamp": 1764333183182
+      "id": "b923145875204004808d73777be61bf8",
+      "timestamp": 1764336453242
     },
     {
       "site": "JobGurus",
-      "id": "b923145875204004808d73777be61bf8",
-      "timestamp": 1764336453242
+      "id": "bf61969fc51ebbce3c865336ab5ff254",
+      "timestamp": 1764938061881
     }
   ],
   "defcon alliance": [
@@ -22941,6 +22946,25 @@
       "site": "JobGurus",
       "id": "dc26112bb33b0b4283699b240c096d27",
       "timestamp": 1764875746992
+    }
+  ],
+  "venus67 foundation": [
+    {
+      "site": "JobGurus",
+      "id": "060a703fea4fc29d2b7e102e8b47a7f6",
+      "timestamp": 1764938061881
+    },
+    {
+      "site": "JobGurus",
+      "id": "ce887df6184103f91a253f0830aecc82",
+      "timestamp": 1764938061881
+    }
+  ],
+  "mebik pharmacy": [
+    {
+      "site": "JobGurus",
+      "id": "8ffbf159277167dd86530cba00546e04",
+      "timestamp": 1764938061881
     }
   ]
 }
