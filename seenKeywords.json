@@ -7380,8 +7380,8 @@
   "international energy services limited": [
     {
       "site": "JobGurus",
-      "id": "64ee5deba05559b0bfb48a672cb36d40",
-      "timestamp": 1752158762081
+      "id": "ebc7f192e4302f8df66dfb66f0c418b6",
+      "timestamp": 1764933343694
     }
   ],
   "pge travels and education consulting": [
@@ -9940,8 +9940,13 @@
   "geoplex drillteq limited": [
     {
       "site": "JobGurus",
-      "id": "b79670c03ff4c49a29aaaa9c3368582b",
-      "timestamp": 1762438586008
+      "id": "96261e5cc30bdf1875f775ade43ee223",
+      "timestamp": 1764933343694
+    },
+    {
+      "site": "JobGurus",
+      "id": "b95b4c04a8bfaf70d23b355c48bc8cad",
+      "timestamp": 1764933343694
     }
   ],
   "sims nigeria limited": [
@@ -12096,8 +12101,8 @@
   "bemil nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "5e7e26790f5347bb68f76adbc84c754f",
-      "timestamp": 1755364372058
+      "id": "1631ad69f0fdf34c5ff41848ae610a35",
+      "timestamp": 1764933343694
     }
   ],
   "tolaram group": [
