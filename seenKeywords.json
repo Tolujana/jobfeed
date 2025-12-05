@@ -68,8 +68,8 @@
   "compovine technologies limited": [
     {
       "site": "JobGurus",
-      "id": "40fb080ef3bde839e5ab7df7c8c96c88",
-      "timestamp": 1759155315865
+      "id": "2a30c5eb2f513461ce4a89c557dd78a0",
+      "timestamp": 1764944220333
     }
   ],
   "the concept group": [
@@ -622,6 +622,11 @@
       "site": "JobGurus",
       "id": "8bdfb4389694f328fe9b5ad7ea9b6cd9",
       "timestamp": 1764753614959
+    },
+    {
+      "site": "JobGurus",
+      "id": "6f5b313d9f6ee03b083f801521a08563",
+      "timestamp": 1764944220333
     }
   ],
   "abbfem group": [
@@ -20727,13 +20732,8 @@
   "persianas retail limited": [
     {
       "site": "JobGurus",
-      "id": "d8fea855f370d9305ff465958d983548",
-      "timestamp": 1762773230661
-    },
-    {
-      "site": "JobGurus",
-      "id": "0d877d5bf2307f440ff2d04b45a01839",
-      "timestamp": 1762778011555
+      "id": "59800982b38133873d9c4d472660a883",
+      "timestamp": 1764944220333
     }
   ],
   "abraham lincoln american academy": [
@@ -22991,6 +22991,11 @@
       "site": "JobGurus",
       "id": "da3cc76ab4707ced11d9d66581421aad",
       "timestamp": 1764942595844
+    },
+    {
+      "site": "JobGurus",
+      "id": "976d8631b28a08d74f45739b68562339",
+      "timestamp": 1764944220333
     }
   ],
   "al-ihsan oil & gas nigeria limited": [
@@ -22998,6 +23003,13 @@
       "site": "JobGurus",
       "id": "7a5985b1d10f344001d7ec25539f3aeb",
       "timestamp": 1764942595844
+    }
+  ],
+  "fast recruiters consulting services": [
+    {
+      "site": "JobGurus",
+      "id": "a6b98e82cca4a324c572abec9ff801cb",
+      "timestamp": 1764944220333
     }
   ]
 }
