@@ -12340,13 +12340,8 @@
   "tribest corporate support limited": [
     {
       "site": "JobGurus",
-      "id": "43134e24a1b373e2f0eec923b2a848a8",
-      "timestamp": 1763731499116
-    },
-    {
-      "site": "JobGurus",
-      "id": "ff492bb5922ba91ea1a7ac37295ab389",
-      "timestamp": 1764083892339
+      "id": "c144c65964db7bcc05b63167ef372706",
+      "timestamp": 1765045265604
     }
   ],
   "xuriel resources": [
@@ -17572,8 +17567,8 @@
   "lexshield properties limited": [
     {
       "site": "JobGurus",
-      "id": "275dce6928eccd017f084f748fa5c437",
-      "timestamp": 1759920067970
+      "id": "69abb0b4518828c56f4105bd920a4f21",
+      "timestamp": 1765045265604
     }
   ],
   "fan milk plc.": [
@@ -18542,8 +18537,8 @@
   "campus technologies limited": [
     {
       "site": "JobGurus",
-      "id": "d6c7014b9b5d3ae7ae19a8a7f817425f",
-      "timestamp": 1761846010191
+      "id": "60ad3f1357448abd76c54a3accf6c7ec",
+      "timestamp": 1765045265604
     }
   ],
   "kada bistro": [
@@ -23105,6 +23100,18 @@
       "site": "JobGurus",
       "id": "a9047e50ce3ba1d1efc4a210face8c01",
       "timestamp": 1765027388514
+    }
+  ],
+  "cme engineering limited": [
+    {
+      "site": "JobGurus",
+      "id": "e4dd18b61dd2df709af5a1d557be539b",
+      "timestamp": 1765045265604
+    },
+    {
+      "site": "JobGurus",
+      "id": "0dd223660acc9f917cbc8c9f7236759f",
+      "timestamp": 1765045265604
     }
   ]
 }
