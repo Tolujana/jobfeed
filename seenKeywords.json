@@ -735,6 +735,11 @@
       "site": "JobGurus",
       "id": "d4b3c083f0982be6f4e96e9138afa98b",
       "timestamp": 1764998129154
+    },
+    {
+      "site": "JobGurus",
+      "id": "685d2c0b7e6901472eb94f15c93e10e0",
+      "timestamp": 1764999604414
     }
   ],
   "estrada international staffing solutions": [
@@ -23057,6 +23062,13 @@
       "site": "JobGurus",
       "id": "7c21ac4890c11a7d18df14d43fef75a8",
       "timestamp": 1764967349043
+    }
+  ],
+  "collins american international academy": [
+    {
+      "site": "JobGurus",
+      "id": "4811a4c318e9cbecb8d227d7816408ba",
+      "timestamp": 1764999604414
     }
   ]
 }
