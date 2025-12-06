@@ -136,8 +136,13 @@
   "african industries group": [
     {
       "site": "JobGurus",
-      "id": "9c5a9ef0eb9d7ff632885121233cb232",
-      "timestamp": 1762526483381
+      "id": "3fe362c8e96563c5320e87b122f4178c",
+      "timestamp": 1765046749369
+    },
+    {
+      "site": "JobGurus",
+      "id": "83574f0c89669c12b512111fd01da93c",
+      "timestamp": 1765046749369
     }
   ],
   "residency hotel limited": [
@@ -12342,6 +12347,11 @@
       "site": "JobGurus",
       "id": "c144c65964db7bcc05b63167ef372706",
       "timestamp": 1765045265604
+    },
+    {
+      "site": "JobGurus",
+      "id": "9db6e784d2a7a43535843c4897253072",
+      "timestamp": 1765046749369
     }
   ],
   "xuriel resources": [
@@ -20524,13 +20534,8 @@
   "a27 global services limited": [
     {
       "site": "JobGurus",
-      "id": "f7fdf661b71411310bffe59542315739",
-      "timestamp": 1762432368945
-    },
-    {
-      "site": "JobGurus",
-      "id": "c84c40a5d60979db02ea8cc15e999e43",
-      "timestamp": 1762432368945
+      "id": "8d979c7dfca844b6ab6918efabae6049",
+      "timestamp": 1765046749369
     }
   ],
   "fumquench": [
@@ -23112,6 +23117,13 @@
       "site": "JobGurus",
       "id": "0dd223660acc9f917cbc8c9f7236759f",
       "timestamp": 1765045265604
+    }
+  ],
+  "aldelano farms": [
+    {
+      "site": "JobGurus",
+      "id": "628ae99c6813253e1b3bafe24ed27060",
+      "timestamp": 1765046749369
     }
   ]
 }
