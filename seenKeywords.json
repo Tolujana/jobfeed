@@ -145,28 +145,8 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "2fc039eb691285c79da76905079182c5",
-      "timestamp": 1764157037095
-    },
-    {
-      "site": "JobGurus",
-      "id": "89d77a13b029d97e6b482ff64d2dc99f",
-      "timestamp": 1764160492484
-    },
-    {
-      "site": "JobGurus",
-      "id": "8df30aee80f9d40b01d8039be0e6a5ae",
-      "timestamp": 1764160492484
-    },
-    {
-      "site": "JobGurus",
-      "id": "8f8dab384ef3a3c6fa8709c944a6d4cf",
-      "timestamp": 1764160492484
-    },
-    {
-      "site": "JobGurus",
-      "id": "9c2775f7255969827f0ec1a7da5cee1f",
-      "timestamp": 1764447431035
+      "id": "a664cb824ba5aba65591f5667cecce04",
+      "timestamp": 1765208535794
     }
   ],
   "cway group": [
@@ -8953,8 +8933,8 @@
   "bukka hut restaurant": [
     {
       "site": "JobGurus",
-      "id": "ba0ebec3c1b77f34f3e8134f2066fb23",
-      "timestamp": 1762867643236
+      "id": "7301c5245e014df19d9d82bc8e03bedd",
+      "timestamp": 1765208535794
     }
   ],
   "seflam sgl limited": [
@@ -10758,8 +10738,8 @@
   "taidob college": [
     {
       "site": "JobGurus",
-      "id": "74dac3e1732e26682cdf1177badd0161",
-      "timestamp": 1761387261529
+      "id": "01787d7a3f3303e99b5423cc469654df",
+      "timestamp": 1765208535794
     }
   ],
   "hiit plc": [
@@ -17044,6 +17024,11 @@
       "site": "JobGurus",
       "id": "b45d1ab8f7153e845f4c59d7fe5abe7d",
       "timestamp": 1765207123521
+    },
+    {
+      "site": "JobGurus",
+      "id": "5151976fb988c7bb281262faa172fd63",
+      "timestamp": 1765208535794
     }
   ],
   "the vault recruitment": [
@@ -23086,6 +23071,13 @@
       "site": "JobGurus",
       "id": "2277e58b6d2347cc1bccbc9b8466540f",
       "timestamp": 1765203477244
+    }
+  ],
+  "fortics lifecare limited": [
+    {
+      "site": "JobGurus",
+      "id": "014cf4ff090871fafde692a30106509b",
+      "timestamp": 1765208535794
     }
   ]
 }
