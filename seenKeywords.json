@@ -919,6 +919,11 @@
       "site": "JobGurus",
       "id": "24735a0c5358b195f60e0cc6b01f4195",
       "timestamp": 1765205142539
+    },
+    {
+      "site": "JobGurus",
+      "id": "b5b8010ce34a5b3fbf40fd32fc6d9f94",
+      "timestamp": 1765210924724
     }
   ],
   "bat computer technologies limited": [
@@ -1046,8 +1051,8 @@
   "canonical nigeria": [
     {
       "site": "JobGurus",
-      "id": "dfd6e1b5019a7228032c8031455ef869",
-      "timestamp": 1763979519682
+      "id": "ce567d1dd6042306ce2d9535031a0070",
+      "timestamp": 1765210924724
     }
   ],
   "beebeejump international limited": [
@@ -16584,8 +16589,8 @@
   "mase contractors nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6d76bca7753b3fdd27a93dc27112108f",
-      "timestamp": 1759228905188
+      "id": "991e24e4befbc088df962a3a3ed6ea31",
+      "timestamp": 1765210924724
     }
   ],
   "alaba shonibare & co.": [
@@ -19283,8 +19288,8 @@
   "cadsync consults limited": [
     {
       "site": "JobGurus",
-      "id": "6c4b92e3ce48d9ab0cb41a9a2d03ba23",
-      "timestamp": 1761333163135
+      "id": "3382b313e54ce7bfac0b8db7f50fd5d4",
+      "timestamp": 1765210924724
     }
   ],
   "african steel mills nigeria limited": [
@@ -23078,6 +23083,13 @@
       "site": "JobGurus",
       "id": "014cf4ff090871fafde692a30106509b",
       "timestamp": 1765208535794
+    }
+  ],
+  "positivia consult": [
+    {
+      "site": "JobGurus",
+      "id": "cfe18c36d9c7d6b159f0859309332544",
+      "timestamp": 1765210924724
     }
   ]
 }
