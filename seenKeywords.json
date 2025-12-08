@@ -4936,13 +4936,8 @@
   "uleval technology": [
     {
       "site": "JobGurus",
-      "id": "d69b2b7777e27ae24d5794853450d176",
-      "timestamp": 1761574604866
-    },
-    {
-      "site": "JobGurus",
-      "id": "02f94f8e2c70bd03695400bb298412a6",
-      "timestamp": 1761576354913
+      "id": "e9d7dd2688492f08771a9663e8808281",
+      "timestamp": 1765207123521
     }
   ],
   "joseph robotics lab and tech": [
@@ -8104,8 +8099,8 @@
   "dsl pharma": [
     {
       "site": "JobGurus",
-      "id": "c05f3ee8bec825f3408b9aa9563f5967",
-      "timestamp": 1758886533809
+      "id": "47722580c48f43ee94390c5b3dc6e148",
+      "timestamp": 1765207123521
     }
   ],
   "emmix global limited": [
@@ -9345,6 +9340,11 @@
       "site": "JobGurus",
       "id": "ee6171beeafa5f6e5d4395bd1814df0c",
       "timestamp": 1765205142539
+    },
+    {
+      "site": "JobGurus",
+      "id": "a86c1f0aa2db1300bdc55b3e4986133d",
+      "timestamp": 1765207123521
     }
   ],
   "arco worldwide services limited": [
@@ -13601,18 +13601,8 @@
   "kuddy cosmetics": [
     {
       "site": "JobGurus",
-      "id": "a3e23a071f18baf988f5f71a3c148230",
-      "timestamp": 1763809894653
-    },
-    {
-      "site": "JobGurus",
-      "id": "976453a98aff6c7ad6e895565034cddc",
-      "timestamp": 1763809894653
-    },
-    {
-      "site": "JobGurus",
-      "id": "810844d9a71b98f84e6a97efb05d2d60",
-      "timestamp": 1763818126917
+      "id": "b8e6aadf57a1376f31a20eeab1581dc3",
+      "timestamp": 1765207123521
     }
   ],
   "intelics solutions": [
@@ -17052,23 +17042,8 @@
   "echo-scan services limited": [
     {
       "site": "JobGurus",
-      "id": "ffc2c3334816c8873a76558826c71fed",
-      "timestamp": 1761850127985
-    },
-    {
-      "site": "JobGurus",
-      "id": "df1e12d6a2cc92f2a621b02b1d8c5f4a",
-      "timestamp": 1761850127985
-    },
-    {
-      "site": "JobGurus",
-      "id": "de97add6ebae689adc35adb101a3d58b",
-      "timestamp": 1762024217597
-    },
-    {
-      "site": "JobGurus",
-      "id": "5b98068cd231e9c95fbbb96184132dd6",
-      "timestamp": 1762024217597
+      "id": "b45d1ab8f7153e845f4c59d7fe5abe7d",
+      "timestamp": 1765207123521
     }
   ],
   "the vault recruitment": [
