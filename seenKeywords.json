@@ -582,6 +582,11 @@
       "site": "JobGurus",
       "id": "8c194d810eee357cefd1fcf72ad8425c",
       "timestamp": 1765218325364
+    },
+    {
+      "site": "JobGurus",
+      "id": "7063e6729a7b489f1526928f967ed5b2",
+      "timestamp": 1765219869879
     }
   ],
   "abbfem group": [
@@ -1657,6 +1662,11 @@
       "site": "JobGurus",
       "id": "1b8a68bb4732388946956850e224253a",
       "timestamp": 1764879537256
+    },
+    {
+      "site": "JobGurus",
+      "id": "9228defdd193782440dc493b350705ad",
+      "timestamp": 1765219869879
     }
   ],
   "innov8 hub": [
@@ -16666,13 +16676,8 @@
   "ab microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "68b215e5c3a72acbd3fa86a8fd7d16ef",
-      "timestamp": 1761841226884
-    },
-    {
-      "site": "JobGurus",
-      "id": "58384e00be9d59fcc329823e55e53bb2",
-      "timestamp": 1762436941520
+      "id": "f5768d1ad1724630794fe4e840b719d0",
+      "timestamp": 1765219869879
     }
   ],
   "benin asaba expressway": [
@@ -23085,6 +23090,20 @@
       "site": "JobGurus",
       "id": "cfe18c36d9c7d6b159f0859309332544",
       "timestamp": 1765210924724
+    }
+  ],
+  "gotni leadership centre": [
+    {
+      "site": "JobGurus",
+      "id": "423897a61b07908546825d304872d714",
+      "timestamp": 1765219869879
+    }
+  ],
+  "emmittex agro industry limited": [
+    {
+      "site": "JobGurus",
+      "id": "30dd491c764ef94c255d1183b55c8aef",
+      "timestamp": 1765219869879
     }
   ]
 }
