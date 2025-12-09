@@ -10284,8 +10284,8 @@
   "coca-cola hellenic bottling company": [
     {
       "site": "JobGurus",
-      "id": "2702ae3cad3b097b5b4233435356b8aa",
-      "timestamp": 1753951917621
+      "id": "45fd91c1032d32f7ba72d4de77f7cb69",
+      "timestamp": 1765270277155
     }
   ],
   "digitvant microfinance bank": [
@@ -12383,13 +12383,8 @@
   "resumesurge": [
     {
       "site": "JobGurus",
-      "id": "c79f0d18d0035207d924c8c340b91bc9",
-      "timestamp": 1762784165392
-    },
-    {
-      "site": "JobGurus",
-      "id": "825624b4f852fb79dc3b59f6a1efbe9f",
-      "timestamp": 1762785766554
+      "id": "fb998c0da662e14d39e67b856d4304f2",
+      "timestamp": 1765270277155
     }
   ],
   "linkorg networks": [
@@ -23104,6 +23099,20 @@
       "site": "JobGurus",
       "id": "30dd491c764ef94c255d1183b55c8aef",
       "timestamp": 1765219869879
+    }
+  ],
+  "mentally aware nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "072bb78b9a654128f9f32ee48c41eea7",
+      "timestamp": 1765270277155
+    }
+  ],
+  "everyone hr": [
+    {
+      "site": "JobGurus",
+      "id": "bb0fb4d21d361269fd87c943dd1ecb72",
+      "timestamp": 1765270277155
     }
   ]
 }
