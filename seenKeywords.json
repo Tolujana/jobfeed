@@ -2039,8 +2039,8 @@
   "krystal digital solutions limited": [
     {
       "site": "JobGurus",
-      "id": "c1f74d84eff6ee9ddd7fe807c70f4bed",
-      "timestamp": 1756820706442
+      "id": "4e0c1f256027f6be8a6c5098a85144eb",
+      "timestamp": 1765280291418
     }
   ],
   "traydah global resources limited": [
@@ -22081,8 +22081,8 @@
   "hr on wheels": [
     {
       "site": "JobGurus",
-      "id": "e73bece70c6548bc24cdc36ac3dc08d2",
-      "timestamp": 1764166655631
+      "id": "50858714db5dfa74017797da501b58c8",
+      "timestamp": 1765280291418
     }
   ],
   "property brokers international magazine limited": [
@@ -23137,6 +23137,27 @@
       "site": "JobGurus",
       "id": "f5596f5165e85422b6488e33e5163bf2",
       "timestamp": 1765273436240
+    }
+  ],
+  "zorabridge consulting": [
+    {
+      "site": "JobGurus",
+      "id": "9ccc3d6b34a7cfd657cbe6805d9c7d72",
+      "timestamp": 1765280291418
+    }
+  ],
+  "pillarcraft accounting": [
+    {
+      "site": "JobGurus",
+      "id": "9cc3868f852059b773f7e40a1e026d5d",
+      "timestamp": 1765280291418
+    }
+  ],
+  "lance trend limited": [
+    {
+      "site": "JobGurus",
+      "id": "718a26dc39bcf5a00935f732a9319a9d",
+      "timestamp": 1765280291418
     }
   ]
 }
