@@ -1904,8 +1904,8 @@
   "phillips outsourcing limited": [
     {
       "site": "JobGurus",
-      "id": "1cbd1d7b200de50503a84c0b339db838",
-      "timestamp": 1764348316527
+      "id": "5e28fbd22f0368b42d7b4fe797df125c",
+      "timestamp": 1765380017978
     }
   ],
   "momsar financial consulting services": [
@@ -6446,8 +6446,8 @@
   "obsidian capital": [
     {
       "site": "JobGurus",
-      "id": "4defa85f0bc404387af64fac4436bb52",
-      "timestamp": 1756493057186
+      "id": "510f02adb5ad920195c4d1f0ce5113e2",
+      "timestamp": 1765380017978
     }
   ],
   "global windsor group": [
@@ -23217,6 +23217,27 @@
       "site": "JobGurus",
       "id": "63f61d20084a176a31d8cc91de5f1b62",
       "timestamp": 1765378069292
+    }
+  ],
+  "hospital for trauma and surgery (hts)": [
+    {
+      "site": "JobGurus",
+      "id": "9c0e6dd7ad4ac1a01853e95cdb9ee310",
+      "timestamp": 1765380017978
+    }
+  ],
+  "zandas beauty and fragrance international limited": [
+    {
+      "site": "JobGurus",
+      "id": "2915c0ff8a3c89fa2bcb836146ccb29a",
+      "timestamp": 1765380017978
+    }
+  ],
+  "frandek international consulting": [
+    {
+      "site": "JobGurus",
+      "id": "77309d9571b68f13392da61be21bcb55",
+      "timestamp": 1765380017978
     }
   ]
 }
