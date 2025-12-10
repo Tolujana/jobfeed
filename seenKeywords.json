@@ -7504,8 +7504,8 @@
   "abuja clinics": [
     {
       "site": "JobGurus",
-      "id": "5843f65fd511c005f1e949553965f024",
-      "timestamp": 1752229039343
+      "id": "be6d9c112414070a2c3b5e46c434190d",
+      "timestamp": 1765376332682
     }
   ],
   "schneider electric": [
@@ -23170,6 +23170,27 @@
       "site": "JobGurus",
       "id": "dc6db6d97978eb7ad560d2d98af9c2b2",
       "timestamp": 1765370165254
+    }
+  ],
+  "owens and xley": [
+    {
+      "site": "JobGurus",
+      "id": "f197d68f60c9a1d851e3d1076fdb59d2",
+      "timestamp": 1765376332682
+    }
+  ],
+  "flexi microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "35543921ac77c71fdfb1a83fba599ac7",
+      "timestamp": 1765376332682
+    }
+  ],
+  "value seeds limited": [
+    {
+      "site": "JobGurus",
+      "id": "1d676f189fd1b6fd3b9222525257a8df",
+      "timestamp": 1765376332682
     }
   ]
 }
