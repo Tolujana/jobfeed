@@ -5234,6 +5234,11 @@
       "site": "JobGurus",
       "id": "71cd3f4c32d5c1ef5a0b7b2757bad3ab",
       "timestamp": 1764782378552
+    },
+    {
+      "site": "JobGurus",
+      "id": "4b45105f2574cd3690d11c1a66648516",
+      "timestamp": 1765383776127
     }
   ],
   "field intelligence": [
@@ -7403,6 +7408,11 @@
       "site": "JobGurus",
       "id": "6f95fdebcd082354bf4e74d1be61c4ea",
       "timestamp": 1764942595844
+    },
+    {
+      "site": "JobGurus",
+      "id": "0d1914044e66c72b9b485af2e5d9bfa8",
+      "timestamp": 1765383776127
     }
   ],
   "neat microcredit": [
@@ -23262,6 +23272,27 @@
       "site": "JobGurus",
       "id": "12e319d0a87b5b674ca3ad6c052a5e77",
       "timestamp": 1765381451149
+    }
+  ],
+  "winnys meals on the move nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "813f6d7f6e26cab5752ed66d2f5f2b22",
+      "timestamp": 1765383776127
+    }
+  ],
+  " foodhub by cwc": [
+    {
+      "site": "JobGurus",
+      "id": "255b0178ab6197c88d3c16a7a2d20be1",
+      "timestamp": 1765383776127
+    }
+  ],
+  "eon global telecom limited": [
+    {
+      "site": "JobGurus",
+      "id": "a121a48eddc06b5b27dc7c87559a2eb7",
+      "timestamp": 1765383776127
     }
   ]
 }
