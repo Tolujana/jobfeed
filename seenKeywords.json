@@ -855,18 +855,13 @@
   "optimus bank": [
     {
       "site": "JobGurus",
-      "id": "415d4873bf429ee03f8dde3d277f5205",
-      "timestamp": 1758133271610
+      "id": "a27b1123a7fad3e517f7d7b5a0e781e8",
+      "timestamp": 1765460132600
     },
     {
       "site": "JobGurus",
-      "id": "326db280881052aa8394707c58bcc31c",
-      "timestamp": 1758730780224
-    },
-    {
-      "site": "JobGurus",
-      "id": "02fc6a05ef355203d7c2caead81ff1b0",
-      "timestamp": 1758732316453
+      "id": "f720ec30ca49285956416173b91f476f",
+      "timestamp": 1765460132600
     }
   ],
   "mkh properties limited": [
@@ -2603,8 +2598,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "6d9f6daf80095494d6452e925c392733",
-      "timestamp": 1764171668151
+      "id": "a6c8f704a79a697f8cfd9c5e7b19a2bf",
+      "timestamp": 1765460132600
     }
   ],
   "international fertilizer development center": [
@@ -23325,6 +23320,13 @@
       "site": "JobGurus",
       "id": "d5136d4c2fe47009837615166f0f3c33",
       "timestamp": 1765456617057
+    }
+  ],
+  "spo designs limited": [
+    {
+      "site": "JobGurus",
+      "id": "25f0fe4fc0466cbbb1fea8b92e5b77c0",
+      "timestamp": 1765460132600
     }
   ]
 }
