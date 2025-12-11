@@ -3206,13 +3206,8 @@
   "invealth partners limited": [
     {
       "site": "JobGurus",
-      "id": "ce2b613e0884006555a96fcce8cac137",
-      "timestamp": 1762778011555
-    },
-    {
-      "site": "JobGurus",
-      "id": "b3cb5abc7f465a46af55c50603420b78",
-      "timestamp": 1762954182115
+      "id": "b5eabbad6cd7f67f0ddf969b7839a23b",
+      "timestamp": 1765462763220
     }
   ],
   "doah enterprise": [
@@ -3627,8 +3622,8 @@
   "citibank nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "f18f50332a3ca32c887d7ae2961ecebc",
-      "timestamp": 1761758087495
+      "id": "bdceeb76aecf08257f07b265876fa226",
+      "timestamp": 1765462763220
     }
   ],
   "atlas": [
@@ -23327,6 +23322,20 @@
       "site": "JobGurus",
       "id": "25f0fe4fc0466cbbb1fea8b92e5b77c0",
       "timestamp": 1765460132600
+    }
+  ],
+  "picckr": [
+    {
+      "site": "JobGurus",
+      "id": "ad3bfb2b26c4279f0fe2fe4490316fcd",
+      "timestamp": 1765462763220
+    }
+  ],
+  "tempkers limited": [
+    {
+      "site": "JobGurus",
+      "id": "775b8a7b0762b2256d1047a749557dbd",
+      "timestamp": 1765462763220
     }
   ]
 }
