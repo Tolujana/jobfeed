@@ -5598,13 +5598,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "a452da8cdfb21ddf58689cde20bd6a02",
-      "timestamp": 1762526483381
-    },
-    {
-      "site": "JobGurus",
-      "id": "1d74a7bca3783935a5701716f996c9e4",
-      "timestamp": 1762946039559
+      "id": "133448be0971e27d3a74ba60cd54a87d",
+      "timestamp": 1765451718121
     }
   ],
   "boing pinnacle limited": [
@@ -19670,13 +19665,8 @@
   "stellar international company limited": [
     {
       "site": "JobGurus",
-      "id": "351548ee94f7970e865839e8acadd173",
-      "timestamp": 1764170117561
-    },
-    {
-      "site": "JobGurus",
-      "id": "18ca9db5f17afdb8c1bae50bfc48e58a",
-      "timestamp": 1764423693391
+      "id": "e9661bfba9d3f5f4aeec42758a2db14a",
+      "timestamp": 1765451718121
     }
   ],
   "ab microfinance bank nigeria": [
@@ -23290,6 +23280,20 @@
       "site": "JobGurus",
       "id": "0962e1a90fc8290e2c5e7caef5997f4e",
       "timestamp": 1765391110219
+    }
+  ],
+  "akroyal biotech limited": [
+    {
+      "site": "JobGurus",
+      "id": "73a3df52ca3a807b8967dbd14b738d1d",
+      "timestamp": 1765451718121
+    }
+  ],
+  "empire trust microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "3e4c200fc36640351bd2953330427a24",
+      "timestamp": 1765451718121
     }
   ]
 }
