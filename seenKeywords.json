@@ -2254,6 +2254,11 @@
       "site": "JobGurus",
       "id": "481afd379202f6cc81b9b8416197b6f9",
       "timestamp": 1764867143751
+    },
+    {
+      "site": "JobGurus",
+      "id": "c4e19080e2402900bbe6f82c26ac053a",
+      "timestamp": 1765464221925
     }
   ],
   "flees global services": [
@@ -2742,13 +2747,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "bf2fe8c5a412f0b85bf53ac114199391",
-      "timestamp": 1764081882075
-    },
-    {
-      "site": "JobGurus",
-      "id": "528ee41f1bb1d0555b5f0008d4f25280",
-      "timestamp": 1764258016577
+      "id": "efef6d0824248be56b404c57538d4cb3",
+      "timestamp": 1765464221925
     }
   ],
   "netcom africa": [
@@ -5773,13 +5773,8 @@
   "mecer consulting limited": [
     {
       "site": "JobGurus",
-      "id": "e4c84eb7e6e0c9d6a368bcfa284f4412",
-      "timestamp": 1764074060063
-    },
-    {
-      "site": "JobGurus",
-      "id": "f4904fa427ad481997394ca1916f5ac5",
-      "timestamp": 1764087712398
+      "id": "5bb535c03e71a2d005a9d6cac4b7ad54",
+      "timestamp": 1765464221925
     }
   ],
   "lotus capital limited": [
@@ -15841,8 +15836,8 @@
   "vitafoam nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "932e5b644fb0d8e65abfd42d780830ff",
-      "timestamp": 1760441754806
+      "id": "46d54bce6d6cd9bb5a9f7eb8c8fe9dbb",
+      "timestamp": 1765464221925
     }
   ],
   "teknowledge": [
@@ -23336,6 +23331,13 @@
       "site": "JobGurus",
       "id": "775b8a7b0762b2256d1047a749557dbd",
       "timestamp": 1765462763220
+    }
+  ],
+  "you centred consulting": [
+    {
+      "site": "JobGurus",
+      "id": "f90a5573a70f1847dbffef33d51dd67e",
+      "timestamp": 1765464221925
     }
   ]
 }
