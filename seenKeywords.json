@@ -560,11 +560,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "8bdfb4389694f328fe9b5ad7ea9b6cd9",
-      "timestamp": 1764753614959
-    },
-    {
-      "site": "JobGurus",
       "id": "6f5b313d9f6ee03b083f801521a08563",
       "timestamp": 1764944220333
     },
@@ -577,6 +572,11 @@
       "site": "JobGurus",
       "id": "7063e6729a7b489f1526928f967ed5b2",
       "timestamp": 1765219869879
+    },
+    {
+      "site": "JobGurus",
+      "id": "ae8c2de313353ea61fdaa4742daa1fc7",
+      "timestamp": 1765542918439
     }
   ],
   "abbfem group": [
@@ -3374,8 +3374,8 @@
   "first bank of nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "eb6abc4d43560ddb9127ad96d3962e82",
-      "timestamp": 1764675504056
+      "id": "0066c4cba6b38e5b27c49077f540279d",
+      "timestamp": 1765542918439
     }
   ],
   "daytona peoples pharmacy and supermarket": [
@@ -4629,8 +4629,8 @@
   "lafarge africa plc": [
     {
       "site": "JobGurus",
-      "id": "cb14b8f857222eb4a66ea2b258b258c9",
-      "timestamp": 1763655633897
+      "id": "86addb1b9ab3c76943c4f40e97c9e24b",
+      "timestamp": 1765542918439
     }
   ],
   "human capital partners": [
@@ -23374,6 +23374,18 @@
       "site": "JobGurus",
       "id": "ec3ca56bcfd22f8f003cabc4f362bbc3",
       "timestamp": 1765472109804
+    }
+  ],
+  "shecluded": [
+    {
+      "site": "JobGurus",
+      "id": "5ed79dd90814b24d54bb12f6375a262c",
+      "timestamp": 1765542918439
+    },
+    {
+      "site": "JobGurus",
+      "id": "c767365212c503f2be421866a97dc112",
+      "timestamp": 1765542918439
     }
   ]
 }
