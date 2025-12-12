@@ -3281,13 +3281,8 @@
   "abnl limited": [
     {
       "site": "JobGurus",
-      "id": "3aaa4132aea54e2cc7d31ecc2299d702",
-      "timestamp": 1764267753161
-    },
-    {
-      "site": "JobGurus",
-      "id": "b0588320e618cfe99afaf2ec3540533f",
-      "timestamp": 1764423693391
+      "id": "3fd01d1115b5e2194d6309a056ac0e97",
+      "timestamp": 1765552708611
     }
   ],
   "daily need distributors limited": [
@@ -4984,8 +4979,8 @@
   "mtn nigeria": [
     {
       "site": "JobGurus",
-      "id": "fc962be70fdcfa36dbc1776058434908",
-      "timestamp": 1763033821311
+      "id": "ad56334afa762d2ff4cd1a3c91b50cd7",
+      "timestamp": 1765552708611
     }
   ],
   "koins microfinance bank limited": [
@@ -12032,18 +12027,8 @@
   "itex integrated services limited": [
     {
       "site": "JobGurus",
-      "id": "e7e7513aa901b2cdd7fa021430132f9d",
-      "timestamp": 1755349534294
-    },
-    {
-      "site": "JobGurus",
-      "id": "8513621dc2a895067bf1614ed702ad74",
-      "timestamp": 1755349534294
-    },
-    {
-      "site": "JobGurus",
-      "id": "e5a64733f4035acf765718a50cccc31a",
-      "timestamp": 1755355159243
+      "id": "334109d7ec8f0397a61118db31a36641",
+      "timestamp": 1765552708611
     }
   ],
   "cravecity mega limited": [
@@ -23395,6 +23380,20 @@
       "site": "JobGurus",
       "id": "ff0bfbf2b45f2adef2f6958bcc52accd",
       "timestamp": 1765550401087
+    }
+  ],
+  "cove real estate and constructions": [
+    {
+      "site": "JobGurus",
+      "id": "423c99211de388a9c7519680117b5193",
+      "timestamp": 1765552708611
+    }
+  ],
+  "cafechocolat": [
+    {
+      "site": "JobGurus",
+      "id": "4cbfee061a68155b9d176fd968667f00",
+      "timestamp": 1765552708611
     }
   ]
 }
