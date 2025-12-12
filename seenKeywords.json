@@ -620,8 +620,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "1af361a003eaa84e14618fc9defcf3b5",
-      "timestamp": 1760445217435
+      "id": "342fc0563583b21850842184159d3d72",
+      "timestamp": 1765557974221
     }
   ],
   "divine infinity college": [
@@ -1038,6 +1038,11 @@
       "site": "JobGurus",
       "id": "a678e267c67428099da3e3d6ea0aa4d4",
       "timestamp": 1765550401087
+    },
+    {
+      "site": "JobGurus",
+      "id": "cef18c5c2480a8a98f014090874ffcd2",
+      "timestamp": 1765557974221
     }
   ],
   "beebeejump international limited": [
@@ -1410,13 +1415,8 @@
   "techdoctorinnovations": [
     {
       "site": "JobGurus",
-      "id": "489c3049009f21f5a21557f6f6380fc8",
-      "timestamp": 1764339379177
-    },
-    {
-      "site": "JobGurus",
-      "id": "f4158bb7b33ba0178af97db2ed991829",
-      "timestamp": 1764598665844
+      "id": "183e13988c73924a1d94f4c9329e8913",
+      "timestamp": 1765557974221
     }
   ],
   "shomas supply & logistics limited": [
@@ -3288,6 +3288,11 @@
       "site": "JobGurus",
       "id": "3fd01d1115b5e2194d6309a056ac0e97",
       "timestamp": 1765552708611
+    },
+    {
+      "site": "JobGurus",
+      "id": "1e29bc5e25eda575d960ce0a09bd2810",
+      "timestamp": 1765557974221
     }
   ],
   "daily need distributors limited": [
