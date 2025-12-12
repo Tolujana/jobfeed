@@ -2205,6 +2205,11 @@
       "site": "JobGurus",
       "id": "fdccf4776d50e9572e55aeaadb86b684",
       "timestamp": 1764953339144
+    },
+    {
+      "site": "JobGurus",
+      "id": "8186bd3ee1aa35d36e9df623d360a99a",
+      "timestamp": 1765554199148
     }
   ],
   "maisha meds": [
@@ -16167,8 +16172,8 @@
   "interrand homes & properties limited": [
     {
       "site": "JobGurus",
-      "id": "0422a5db82d4494f6ae8b01faa9829ea",
-      "timestamp": 1764782378552
+      "id": "857fc9cbba6d8cbda9683a4aab5439e1",
+      "timestamp": 1765554199148
     }
   ],
   "naira567": [
@@ -19642,6 +19647,11 @@
       "site": "JobGurus",
       "id": "e9661bfba9d3f5f4aeec42758a2db14a",
       "timestamp": 1765451718121
+    },
+    {
+      "site": "JobGurus",
+      "id": "21196517d4ee65fd781b139a2138bf0c",
+      "timestamp": 1765554199148
     }
   ],
   "ab microfinance bank nigeria": [
@@ -23394,6 +23404,20 @@
       "site": "JobGurus",
       "id": "4cbfee061a68155b9d176fd968667f00",
       "timestamp": 1765552708611
+    }
+  ],
+  " candel fze": [
+    {
+      "site": "JobGurus",
+      "id": "30a248d38aaf5242565ba59e7340401c",
+      "timestamp": 1765554199148
+    }
+  ],
+  "birchwood montessori academy": [
+    {
+      "site": "JobGurus",
+      "id": "047d1d289ffab802b344063c87c49299",
+      "timestamp": 1765554199148
     }
   ]
 }
