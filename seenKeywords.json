@@ -6834,8 +6834,18 @@
   "chilis restaurant": [
     {
       "site": "JobGurus",
-      "id": "304f4f38f7f17ea44824d342608cbd61",
-      "timestamp": 1761568409309
+      "id": "3a642582837a22231a5bd4efee27c37b",
+      "timestamp": 1765546316608
+    },
+    {
+      "site": "JobGurus",
+      "id": "21885e3fa3ee9402fd3f9569c4e35415",
+      "timestamp": 1765546316608
+    },
+    {
+      "site": "JobGurus",
+      "id": "f4d39ef4f97e9d2ff87e6cd3a77c6b55",
+      "timestamp": 1765546316608
     }
   ],
   "lendha technology limited": [
@@ -23386,6 +23396,13 @@
       "site": "JobGurus",
       "id": "c767365212c503f2be421866a97dc112",
       "timestamp": 1765542918439
+    }
+  ],
+  "maven technicals nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "09bac4293f177d370af81d726e83175b",
+      "timestamp": 1765546316608
     }
   ]
 }
