@@ -8215,8 +8215,8 @@
   "shalina healthcare": [
     {
       "site": "JobGurus",
-      "id": "ff597e67f6bf13442c7527fdbd523fac",
-      "timestamp": 1764953339144
+      "id": "629d3ab1717b8a6b92b66238438bae47",
+      "timestamp": 1765607043541
     }
   ],
   "aluko & oyebode": [
@@ -12209,8 +12209,8 @@
   "trade lenda": [
     {
       "site": "JobGurus",
-      "id": "4c12353bb7d1071d11f76f7f74921839",
-      "timestamp": 1761063616206
+      "id": "9b307c483f6b87c102c3bbe2ef5260c2",
+      "timestamp": 1765607043541
     }
   ],
   "sendvoy limited": [
@@ -18383,8 +18383,8 @@
   "avocado virtual solutions": [
     {
       "site": "JobGurus",
-      "id": "1d93e70692d7779e5dca6e4b181cbf42",
-      "timestamp": 1762782501280
+      "id": "d26ae8b64c42a9678d9a6f2d61dba728",
+      "timestamp": 1765607043541
     }
   ],
   "krishat pharma industries limited": [
@@ -23445,6 +23445,18 @@
       "site": "JobGurus",
       "id": "19e10c7dd37a384f503457a8a942f9e3",
       "timestamp": 1765556422842
+    }
+  ],
+  "kloudopp limited": [
+    {
+      "site": "JobGurus",
+      "id": "436c78a3ec6dfefc6ad2fe8ea258bdfc",
+      "timestamp": 1765607043541
+    },
+    {
+      "site": "JobGurus",
+      "id": "35f8a8f1e0801190bb49f4cd0564cf70",
+      "timestamp": 1765607043541
     }
   ]
 }
