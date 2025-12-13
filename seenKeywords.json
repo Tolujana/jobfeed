@@ -6689,8 +6689,18 @@
   "casalavoro limited": [
     {
       "site": "JobGurus",
-      "id": "839e9e1d460335484d712018cd2eb555",
-      "timestamp": 1764790662583
+      "id": "51fc4b21d21dca5292e5f52c6a9a3a30",
+      "timestamp": 1765610175265
+    },
+    {
+      "site": "JobGurus",
+      "id": "4440052c81cc77edec9736c6e3c0cca2",
+      "timestamp": 1765610175265
+    },
+    {
+      "site": "JobGurus",
+      "id": "b64af649629f83bda552a46502c4f38c",
+      "timestamp": 1765610175265
     }
   ],
   "bedmate furniture": [
@@ -23481,6 +23491,11 @@
       "site": "JobGurus",
       "id": "50d5c8a5ebfebb4d28d1971135929833",
       "timestamp": 1765608642300
+    },
+    {
+      "site": "JobGurus",
+      "id": "b00cc20795f5185d6cc6badf5585452c",
+      "timestamp": 1765610175265
     }
   ]
 }
