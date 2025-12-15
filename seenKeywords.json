@@ -9940,18 +9940,8 @@
   "geoplex drillteq limited": [
     {
       "site": "JobGurus",
-      "id": "96261e5cc30bdf1875f775ade43ee223",
-      "timestamp": 1764933343694
-    },
-    {
-      "site": "JobGurus",
-      "id": "b95b4c04a8bfaf70d23b355c48bc8cad",
-      "timestamp": 1764933343694
-    },
-    {
-      "site": "JobGurus",
-      "id": "9f2ae99d335c4cd583863451b6852b71",
-      "timestamp": 1764942595844
+      "id": "4d3f86575e9658554aa360f82e588b7c",
+      "timestamp": 1765808446370
     }
   ],
   "sims nigeria limited": [
@@ -14516,8 +14506,8 @@
   "eco fleet services": [
     {
       "site": "JobGurus",
-      "id": "c3fcb973fefd3fed008b104a956cc6a5",
-      "timestamp": 1764755061183
+      "id": "052242fe3e4e6efbd0cdd967b4941d4f",
+      "timestamp": 1765808446370
     }
   ],
   "ayekooto": [
@@ -15442,8 +15432,8 @@
   "tranter it infrastructure services limited": [
     {
       "site": "JobGurus",
-      "id": "6d545c66a71916f203abf17a594dbe44",
-      "timestamp": 1758204923491
+      "id": "3477ab9bfe5f84f6cdca0894c859b976",
+      "timestamp": 1765808446370
     }
   ],
   "lytup power systems incorporated": [
@@ -23500,6 +23490,20 @@
       "site": "JobGurus",
       "id": "cdcd07987a15fdfa364d1ed6965e49e9",
       "timestamp": 1765805855613
+    }
+  ],
+  "gemameg company nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "b4da471ecb1a07ab38282995df041f86",
+      "timestamp": 1765808446370
+    }
+  ],
+  "picadailys": [
+    {
+      "site": "JobGurus",
+      "id": "3936b2fae5fcebfaf93496aa424651ec",
+      "timestamp": 1765808446370
     }
   ]
 }
