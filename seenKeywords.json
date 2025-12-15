@@ -560,11 +560,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "6f5b313d9f6ee03b083f801521a08563",
-      "timestamp": 1764944220333
-    },
-    {
-      "site": "JobGurus",
       "id": "8c194d810eee357cefd1fcf72ad8425c",
       "timestamp": 1765218325364
     },
@@ -577,6 +572,11 @@
       "site": "JobGurus",
       "id": "ae8c2de313353ea61fdaa4742daa1fc7",
       "timestamp": 1765542918439
+    },
+    {
+      "site": "JobGurus",
+      "id": "b8d1c5b0b21f0cba5e93e9a9cac61365",
+      "timestamp": 1765810304997
     }
   ],
   "abbfem group": [
@@ -1043,6 +1043,11 @@
       "site": "JobGurus",
       "id": "cef18c5c2480a8a98f014090874ffcd2",
       "timestamp": 1765557974221
+    },
+    {
+      "site": "JobGurus",
+      "id": "83544ae7bf227b9985d81da265c64502",
+      "timestamp": 1765810304997
     }
   ],
   "beebeejump international limited": [
@@ -3265,8 +3270,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "95b97e553c570b7c1389dd974fa7194b",
-      "timestamp": 1764788015603
+      "id": "4cfc1bc88db34469baef1891f8e1d686",
+      "timestamp": 1765810304997
     }
   ],
   "smartcity plc": [
@@ -21378,8 +21383,8 @@
   "cedarcrest hospitals limited": [
     {
       "site": "JobGurus",
-      "id": "d331a9ef6762d441dff46e076cea392a",
-      "timestamp": 1763549070844
+      "id": "a82c00e028503a73620ddda04599bc51",
+      "timestamp": 1765810304997
     }
   ],
   "fecleshost": [
@@ -23504,6 +23509,13 @@
       "site": "JobGurus",
       "id": "3936b2fae5fcebfaf93496aa424651ec",
       "timestamp": 1765808446370
+    }
+  ],
+  "bu power limited": [
+    {
+      "site": "JobGurus",
+      "id": "8a2140cdc9e96691895676e1b3fb567c",
+      "timestamp": 1765810304997
     }
   ]
 }
