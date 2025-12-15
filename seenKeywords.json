@@ -1157,8 +1157,8 @@
   "cobranet limited": [
     {
       "site": "JobGurus",
-      "id": "0de12e2b3e3975614f42b241b814a380",
-      "timestamp": 1763482934655
+      "id": "5f7f00a9e5e68fe34d4682014c1b6961",
+      "timestamp": 1765813611899
     }
   ],
   "habaripay limited": [
@@ -2582,6 +2582,11 @@
       "site": "JobGurus",
       "id": "db0cd05182cb2f5ad48eebf578f8f980",
       "timestamp": 1765812035743
+    },
+    {
+      "site": "JobGurus",
+      "id": "b936e76108b05af7c2e1957b23d9e73e",
+      "timestamp": 1765813611899
     }
   ],
   "prime pharmacy": [
@@ -3129,13 +3134,8 @@
   "devien consult limited": [
     {
       "site": "JobGurus",
-      "id": "c7ea42feaecfb62200a03b119cd7fd51",
-      "timestamp": 1750070732493
-    },
-    {
-      "site": "JobGurus",
-      "id": "091d76d159f7d24029f839155af292df",
-      "timestamp": 1750070732493
+      "id": "97108cc219f0efdbb87ae2306cde5e72",
+      "timestamp": 1765813611899
     }
   ],
   "soft nigeria": [
@@ -23514,6 +23514,11 @@
       "site": "JobGurus",
       "id": "3936b2fae5fcebfaf93496aa424651ec",
       "timestamp": 1765808446370
+    },
+    {
+      "site": "JobGurus",
+      "id": "37a473d05423c8c861d9ae9e11bb6e10",
+      "timestamp": 1765813611899
     }
   ],
   "bu power limited": [
@@ -23521,6 +23526,13 @@
       "site": "JobGurus",
       "id": "8a2140cdc9e96691895676e1b3fb567c",
       "timestamp": 1765810304997
+    }
+  ],
+  "jmax entertainment limited": [
+    {
+      "site": "JobGurus",
+      "id": "78120822e221ba79a37c8500a89fd810",
+      "timestamp": 1765813611899
     }
   ]
 }
