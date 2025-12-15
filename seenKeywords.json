@@ -1327,8 +1327,8 @@
   "esporta suites hotel and resorts limited": [
     {
       "site": "JobGurus",
-      "id": "0cd10a900e6504eb2f3e938ac22872ec",
-      "timestamp": 1761063616206
+      "id": "6d075d6a79c895dd08f11841825a1bec",
+      "timestamp": 1765823183579
     }
   ],
   "bic nigeria": [
@@ -2859,8 +2859,8 @@
   "hotel capitol": [
     {
       "site": "JobGurus",
-      "id": "513583c0ca3f94b816ca73188e3dd9c7",
-      "timestamp": 1759828605238
+      "id": "f90bbbffe624badd6c5e4e3b1c4aa556",
+      "timestamp": 1765823183579
     }
   ],
   "total secure nigeria limited": [
@@ -23550,6 +23550,11 @@
       "site": "JobGurus",
       "id": "b695ad4380a765d6a5d521cf90d7b8c2",
       "timestamp": 1765820813011
+    },
+    {
+      "site": "JobGurus",
+      "id": "8a576813ce9d86e39812e0dbd058a2a2",
+      "timestamp": 1765823183579
     }
   ],
   "positive care and development foundation": [
@@ -23564,6 +23569,13 @@
       "site": "JobGurus",
       "id": "5f9a231ea38c79e8e7693c1def587d3e",
       "timestamp": 1765820813011
+    }
+  ],
+  "chutel technology": [
+    {
+      "site": "JobGurus",
+      "id": "9214b1163661dfe2f8fde58a9f56f2f5",
+      "timestamp": 1765823183579
     }
   ]
 }
