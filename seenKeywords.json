@@ -8003,6 +8003,11 @@
       "site": "JobGurus",
       "id": "e970813aec25e0c7dd5e2840659cce72",
       "timestamp": 1765819376779
+    },
+    {
+      "site": "JobGurus",
+      "id": "3f983840c6b312f536ae1be67607d6b6",
+      "timestamp": 1765824869600
     }
   ],
   "danish refugee council": [
@@ -13561,8 +13566,8 @@
   "key retail group": [
     {
       "site": "JobGurus",
-      "id": "804273940b7f672f74844803823d07ac",
-      "timestamp": 1758566710374
+      "id": "6da65182d0a848fa7fddb14d74f14099",
+      "timestamp": 1765824869600
     }
   ],
   "golden line global services limited": [
@@ -23555,6 +23560,11 @@
       "site": "JobGurus",
       "id": "8a576813ce9d86e39812e0dbd058a2a2",
       "timestamp": 1765823183579
+    },
+    {
+      "site": "JobGurus",
+      "id": "cd7058d7968df4be514422db55344d94",
+      "timestamp": 1765824869600
     }
   ],
   "positive care and development foundation": [
@@ -23576,6 +23586,13 @@
       "site": "JobGurus",
       "id": "9214b1163661dfe2f8fde58a9f56f2f5",
       "timestamp": 1765823183579
+    }
+  ],
+  "federal college of education ((technical)": [
+    {
+      "site": "JobGurus",
+      "id": "fd399e047645b2473ccc75d62e50d952",
+      "timestamp": 1765824869600
     }
   ]
 }
