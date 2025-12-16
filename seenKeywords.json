@@ -377,8 +377,8 @@
   "dana group": [
     {
       "site": "JobGurus",
-      "id": "0eb511294ea8c6d094a4be2cb1bb0f63",
-      "timestamp": 1757705752979
+      "id": "5b15d456441203747e68e78630e08059",
+      "timestamp": 1765917824055
     }
   ],
   "raphael group": [
@@ -23479,6 +23479,11 @@
       "site": "JobGurus",
       "id": "67cde315c1cc94ae4ffc44a2e8c36a7d",
       "timestamp": 1765608642300
+    },
+    {
+      "site": "JobGurus",
+      "id": "6818f53d6a973e85efea12766a120709",
+      "timestamp": 1765917824055
     }
   ],
   "quest employment limited": [
@@ -23676,6 +23681,11 @@
       "site": "JobGurus",
       "id": "5aadd230f06fe5dd96c84a40727eaa6f",
       "timestamp": 1765916374524
+    },
+    {
+      "site": "JobGurus",
+      "id": "6af67fb9b88e90d219193549961ea633",
+      "timestamp": 1765917824055
     }
   ]
 }
