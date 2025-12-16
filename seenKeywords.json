@@ -644,13 +644,8 @@
   "alan & grant": [
     {
       "site": "JobGurus",
-      "id": "b9d77b08000462e83d1b1f1856341cda",
-      "timestamp": 1763995446679
-    },
-    {
-      "site": "JobGurus",
-      "id": "fcf371b27920151b4686fef17b0eae8d",
-      "timestamp": 1764336453242
+      "id": "77040da18ef07ac06b27c2888718ad66",
+      "timestamp": 1765894791077
     }
   ],
   "vantegral consulting": [
@@ -13309,18 +13304,8 @@
   "9mobile": [
     {
       "site": "JobGurus",
-      "id": "168126fa57141a49e5c4880e86cdfde8",
-      "timestamp": 1764447431035
-    },
-    {
-      "site": "JobGurus",
-      "id": "2fe9ef2d777aee9dc6b7189dd40d948f",
-      "timestamp": 1764447431035
-    },
-    {
-      "site": "JobGurus",
-      "id": "61e93242fe6619fff2374dd515de40a2",
-      "timestamp": 1764865349400
+      "id": "1f7f49d660f16211beb65ca70be9e4cd",
+      "timestamp": 1765894791077
     }
   ],
   "stratahr limited": [
@@ -23639,6 +23624,27 @@
       "site": "JobGurus",
       "id": "8ea6c77b113baf0f100aefbd345a1791",
       "timestamp": 1765888601051
+    }
+  ],
+  "delta state university": [
+    {
+      "site": "JobGurus",
+      "id": "b5815edabd0e32adfe6c00876340bb41",
+      "timestamp": 1765894791077
+    }
+  ],
+  " s&p global commodity insights": [
+    {
+      "site": "JobGurus",
+      "id": "0d177868c61a380c3e91a44493b044f7",
+      "timestamp": 1765894791077
+    }
+  ],
+  " mkobo microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "16d38fbd67437b816b3941514432b2d5",
+      "timestamp": 1765894791077
     }
   ]
 }
