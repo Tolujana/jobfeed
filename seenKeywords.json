@@ -4151,18 +4151,8 @@
   "wts energy": [
     {
       "site": "JobGurus",
-      "id": "e4c27427937901ee3530bf70e3f18aae",
-      "timestamp": 1763206542983
-    },
-    {
-      "site": "JobGurus",
-      "id": "63c08612439488e4af18843d46fe25a5",
-      "timestamp": 1763217437779
-    },
-    {
-      "site": "JobGurus",
-      "id": "c283f2fa2e43ce8e4e05f8d3d0556ba2",
-      "timestamp": 1763387340176
+      "id": "82fdbb62f81989eafb7826fd846fe044",
+      "timestamp": 1765916374524
     }
   ],
   "prixair group": [
@@ -13276,8 +13266,8 @@
   "natural girl wigs": [
     {
       "site": "JobGurus",
-      "id": "88157bf7baab941613414d7dc3177b1d",
-      "timestamp": 1756395549078
+      "id": "012930010c24811f545519b840419b8a",
+      "timestamp": 1765916374524
     }
   ],
   "impact investors foundation": [
@@ -23679,6 +23669,13 @@
       "site": "JobGurus",
       "id": "2031ad092173eceaa25b2536917c047b",
       "timestamp": 1765904015417
+    }
+  ],
+  "lvtopsun new energy company limited": [
+    {
+      "site": "JobGurus",
+      "id": "5aadd230f06fe5dd96c84a40727eaa6f",
+      "timestamp": 1765916374524
     }
   ]
 }
