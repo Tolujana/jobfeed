@@ -1564,8 +1564,8 @@
   "dunn and braxton limited": [
     {
       "site": "JobGurus",
-      "id": "959df41737d3bbc14c4d80315b569d03",
-      "timestamp": 1754648284843
+      "id": "289b0777d3b1737ac000cd4dc9012828",
+      "timestamp": 1765982861747
     }
   ],
   "felton energy services limited": [
@@ -2159,8 +2159,8 @@
   "idyllic technologies limited": [
     {
       "site": "JobGurus",
-      "id": "0f4674d93b69f037816b243360d2aceb",
-      "timestamp": 1757600111964
+      "id": "1fcd9ab8053037a1caca4deb22209a72",
+      "timestamp": 1765982861747
     }
   ],
   "pennylender": [
@@ -3543,8 +3543,8 @@
   "mikano international": [
     {
       "site": "JobGurus",
-      "id": "693f17ed30b3ff33048c04376a7632eb",
-      "timestamp": 1764089439407
+      "id": "60eaa10f62411957b9b7e59f9bc9406a",
+      "timestamp": 1765982861747
     }
   ],
   "vurin group": [
@@ -3653,13 +3653,8 @@
   "integrated warehousing services limited": [
     {
       "site": "JobGurus",
-      "id": "a4dcff89f2d4562a5c59b7dc5791f9c2",
-      "timestamp": 1750238248224
-    },
-    {
-      "site": "JobGurus",
-      "id": "d4a4c48e987bb0cb12a9f4968cb08617",
-      "timestamp": 1750241822004
+      "id": "3c64e22485cf6bbb0c0b35d0a15dc352",
+      "timestamp": 1765982861747
     }
   ],
   "consolidated movers nigeria limited": [
@@ -23731,6 +23726,13 @@
       "site": "JobGurus",
       "id": "da86af72f7416b41a1197439e16e302b",
       "timestamp": 1765981090601
+    }
+  ],
+  "outcess solution limited": [
+    {
+      "site": "JobGurus",
+      "id": "457358bdec6105b7b22ccb01bd30c53b",
+      "timestamp": 1765982861747
     }
   ]
 }
