@@ -2881,6 +2881,11 @@
       "site": "JobGurus",
       "id": "f90bbbffe624badd6c5e4e3b1c4aa556",
       "timestamp": 1765823183579
+    },
+    {
+      "site": "JobGurus",
+      "id": "1e643e7704d60e63d4b3c6c8ddef56f2",
+      "timestamp": 1765963434444
     }
   ],
   "total secure nigeria limited": [
@@ -17440,8 +17445,8 @@
   "apm terminals": [
     {
       "site": "JobGurus",
-      "id": "5af9d6cab82e9f6d51b79d58b8d9771b",
-      "timestamp": 1762868814434
+      "id": "e3f6a7df89a085520448ddf16b084c8d",
+      "timestamp": 1765963434444
     }
   ],
   "wildreams agency": [
@@ -23686,6 +23691,20 @@
       "site": "JobGurus",
       "id": "6af67fb9b88e90d219193549961ea633",
       "timestamp": 1765917824055
+    }
+  ],
+  "trucksoft logistics": [
+    {
+      "site": "JobGurus",
+      "id": "45af9aa40c8f8743cc2f9ff20087f2be",
+      "timestamp": 1765963434444
+    }
+  ],
+  "edu lounge": [
+    {
+      "site": "JobGurus",
+      "id": "92db8385c87acfd97252778d11b0f57b",
+      "timestamp": 1765963434444
     }
   ]
 }
