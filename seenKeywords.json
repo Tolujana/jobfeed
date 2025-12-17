@@ -17281,8 +17281,8 @@
   "shogxypro outsourcing": [
     {
       "site": "JobGurus",
-      "id": "da8e942c0ccdf7e0f09c25d3ad751385",
-      "timestamp": 1763394148048
+      "id": "fb2a024a73cc91097afd82c062e378b4",
+      "timestamp": 1765964844827
     }
   ],
   "ericsson": [
@@ -23705,6 +23705,20 @@
       "site": "JobGurus",
       "id": "92db8385c87acfd97252778d11b0f57b",
       "timestamp": 1765963434444
+    }
+  ],
+  "advansio interactive limited": [
+    {
+      "site": "JobGurus",
+      "id": "f3a86acf6624c9d2aa764ae1e0401cec",
+      "timestamp": 1765964844827
+    }
+  ],
+  "deloxe": [
+    {
+      "site": "JobGurus",
+      "id": "c64cb2e05ae3962804f5bc1d1df8286e",
+      "timestamp": 1765964844827
     }
   ]
 }
