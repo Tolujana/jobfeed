@@ -570,16 +570,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "8c194d810eee357cefd1fcf72ad8425c",
-      "timestamp": 1765218325364
-    },
-    {
-      "site": "JobGurus",
-      "id": "7063e6729a7b489f1526928f967ed5b2",
-      "timestamp": 1765219869879
-    },
-    {
-      "site": "JobGurus",
       "id": "ae8c2de313353ea61fdaa4742daa1fc7",
       "timestamp": 1765542918439
     },
@@ -592,6 +582,11 @@
       "site": "JobGurus",
       "id": "1c41ad1b0fe0f4b455fe3fd689938104",
       "timestamp": 1765819376779
+    },
+    {
+      "site": "JobGurus",
+      "id": "d77d65c85e8b362dd38767457f20f7f8",
+      "timestamp": 1765974998886
     }
   ],
   "abbfem group": [
@@ -1036,11 +1031,6 @@
   "canonical nigeria": [
     {
       "site": "JobGurus",
-      "id": "ce567d1dd6042306ce2d9535031a0070",
-      "timestamp": 1765210924724
-    },
-    {
-      "site": "JobGurus",
       "id": "98cb450c6a3328801d96e01272cdbb16",
       "timestamp": 1765472109804
     },
@@ -1058,6 +1048,11 @@
       "site": "JobGurus",
       "id": "83544ae7bf227b9985d81da265c64502",
       "timestamp": 1765810304997
+    },
+    {
+      "site": "JobGurus",
+      "id": "d8a269594d35b0abb04873db380c3e22",
+      "timestamp": 1765974998886
     }
   ],
   "beebeejump international limited": [
@@ -5026,8 +5021,8 @@
   "koins microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "6b57dd6098040f3a6883c16a7e14bbfe",
-      "timestamp": 1762596877086
+      "id": "a885a74d2eccfd962a34fae28b7fed64",
+      "timestamp": 1765974998886
     }
   ],
   "lifted horizon nigeria limited": [
@@ -23705,6 +23700,20 @@
       "site": "JobGurus",
       "id": "494fddd176e215c608286bf65f6e4342",
       "timestamp": 1765971558255
+    }
+  ],
+  "acceler8ed marketing services": [
+    {
+      "site": "JobGurus",
+      "id": "1fc8a119d5ab24b1d982b33ed3598516",
+      "timestamp": 1765974998886
+    }
+  ],
+  "leadvent group": [
+    {
+      "site": "JobGurus",
+      "id": "c32b85a3c3dde3fb33cd665c8053c623",
+      "timestamp": 1765974998886
     }
   ]
 }
