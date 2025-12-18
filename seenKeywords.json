@@ -684,6 +684,11 @@
       "site": "JobGurus",
       "id": "96d0356b7e4eb996cf6db8d7fdc67f6a",
       "timestamp": 1765550401087
+    },
+    {
+      "site": "JobGurus",
+      "id": "a9deee78b00c69b9e3d0971b223a8e0b",
+      "timestamp": 1766054786147
     }
   ],
   "guo transport company": [
@@ -3312,6 +3317,11 @@
       "site": "JobGurus",
       "id": "85ef3df729ad723c49cce6edc5b79487",
       "timestamp": 1765819376779
+    },
+    {
+      "site": "JobGurus",
+      "id": "fdf9bd0b9822a653d393ffc07e228c47",
+      "timestamp": 1766054786147
     }
   ],
   "smartcity plc": [
@@ -5112,6 +5122,11 @@
       "site": "JobGurus",
       "id": "14bcc16262e619635aec8c514a5c16b8",
       "timestamp": 1766053188210
+    },
+    {
+      "site": "JobGurus",
+      "id": "963e2138c86fe6ff908a9232f705518f",
+      "timestamp": 1766054786147
     }
   ],
   "max drive": [
@@ -5731,8 +5746,8 @@
   "rosabon financial services": [
     {
       "site": "JobGurus",
-      "id": "59523c9fb2b886f104bcb3f55854e46d",
-      "timestamp": 1765289888544
+      "id": "aacfff78677b09da4c78c5e7c8baf73d",
+      "timestamp": 1766054786147
     }
   ],
   "mfs financial services limited": [
@@ -12043,8 +12058,8 @@
   "ambiance cafeteria": [
     {
       "site": "JobGurus",
-      "id": "dc17f8c125e1c2e8588bfab6a6004d9f",
-      "timestamp": 1755274774076
+      "id": "5dd50af7ad23fc724116f7a866bec5b6",
+      "timestamp": 1766054786147
     }
   ],
   "yassir": [
