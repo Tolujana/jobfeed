@@ -1414,8 +1414,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "723c3567f8728103da7f30ad54b53d3c",
-      "timestamp": 1763742001752
+      "id": "63ec240def610c816494c35d17ee85cd",
+      "timestamp": 1766064805079
     }
   ],
   "jtech global resources limited": [
@@ -2325,13 +2325,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "52a679e5e913d109d57a19c8de6b55bb",
-      "timestamp": 1761758087495
-    },
-    {
-      "site": "JobGurus",
-      "id": "f14618b1810922cf405520603e4d9c97",
-      "timestamp": 1761759653967
+      "id": "0203761e0c0aaf92dced6ffc9bdef822",
+      "timestamp": 1766064805079
     }
   ],
   "fgs limited": [
@@ -3075,13 +3070,8 @@
   "tybtitx services international limited": [
     {
       "site": "JobGurus",
-      "id": "8c329cb640e779abeac53e6fe45263ae",
-      "timestamp": 1762589917614
-    },
-    {
-      "site": "JobGurus",
-      "id": "d93316fe1fbcdac2ba314c689f66c817",
-      "timestamp": 1762589917614
+      "id": "935d6af49dd1cdc00ef568f379cc0392",
+      "timestamp": 1766064805079
     }
   ],
   "entourage integrated trust limited": [
@@ -23777,6 +23767,20 @@
       "site": "JobGurus",
       "id": "c7d89d00e71aa142a1a3ff53c7da92f1",
       "timestamp": 1766057906013
+    }
+  ],
+  "gig logistics": [
+    {
+      "site": "JobGurus",
+      "id": "802a883f5245f166800dd22c83330150",
+      "timestamp": 1766064805079
+    }
+  ],
+  "kindred path fertility centre": [
+    {
+      "site": "JobGurus",
+      "id": "57793e3852da25d65f7db8226d98fb4c",
+      "timestamp": 1766064805079
     }
   ]
 }
