@@ -2652,8 +2652,8 @@
   "marriott international": [
     {
       "site": "JobGurus",
-      "id": "192a3cd1898e65ee6b9747f6758f9aaf",
-      "timestamp": 1763464489967
+      "id": "11fae0f9586c3f622d4e12a5d632f2cc",
+      "timestamp": 1766057906013
     }
   ],
   "well fluid services limited": [
@@ -20129,8 +20129,8 @@
   "shelter setters": [
     {
       "site": "JobGurus",
-      "id": "87b814f32eb00f868f7cb1477cd783a4",
-      "timestamp": 1762254842846
+      "id": "4db023c04f3c57aa2075f12c984145fe",
+      "timestamp": 1766057906013
     }
   ],
   "transnet": [
@@ -23758,6 +23758,25 @@
       "site": "JobGurus",
       "id": "457358bdec6105b7b22ccb01bd30c53b",
       "timestamp": 1765982861747
+    }
+  ],
+  "rexobe consult": [
+    {
+      "site": "JobGurus",
+      "id": "67abe7de02bb1ff12a80e02ba99e3d81",
+      "timestamp": 1766057906013
+    },
+    {
+      "site": "JobGurus",
+      "id": "02df75a9add8c6d21ab7c547f2ef939c",
+      "timestamp": 1766057906013
+    }
+  ],
+  "proforce intelligence systems limited": [
+    {
+      "site": "JobGurus",
+      "id": "c7d89d00e71aa142a1a3ff53c7da92f1",
+      "timestamp": 1766057906013
     }
   ]
 }
