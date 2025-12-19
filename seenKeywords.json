@@ -389,18 +389,8 @@
   "raphael group": [
     {
       "site": "JobGurus",
-      "id": "5a93a5b4cc5c139f28b7f5105c138bc3",
-      "timestamp": 1762784165392
-    },
-    {
-      "site": "JobGurus",
-      "id": "505d3ba6470c0395eb49582869e957d5",
-      "timestamp": 1763040582238
-    },
-    {
-      "site": "JobGurus",
-      "id": "c6dd3806062bc2587aece75f3fd799a2",
-      "timestamp": 1763040582238
+      "id": "a31b07c76550f2ece34a824381d9c124",
+      "timestamp": 1766144281089
     }
   ],
   "debmyk consult": [
@@ -3721,13 +3711,8 @@
   "sujimoto construction limited": [
     {
       "site": "JobGurus",
-      "id": "db958df839e9c2474edc6637cfdc9399",
-      "timestamp": 1764678945964
-    },
-    {
-      "site": "JobGurus",
-      "id": "475f013d08fd92c66a653288c0cbae81",
-      "timestamp": 1764678945964
+      "id": "fa8bd5ced8414dd2593e4dd5ddb62260",
+      "timestamp": 1766144281089
     }
   ],
   "covenant microfinance bank limited": [
@@ -5841,8 +5826,8 @@
   "lucky fibres limited": [
     {
       "site": "JobGurus",
-      "id": "9f3d4c0810f5089e7e47b8ad39a2233f",
-      "timestamp": 1751319507251
+      "id": "4c8ca2934b9a5d60ad5dcd170f20f9b5",
+      "timestamp": 1766144281089
     }
   ],
   "bon hotels sunshine": [
@@ -12205,8 +12190,8 @@
   "apple and pears limited": [
     {
       "site": "JobGurus",
-      "id": "5ac450213420e07074671e479e18c763",
-      "timestamp": 1764609471232
+      "id": "672f012d79327a0fe8ec29ac771e4a99",
+      "timestamp": 1766144281089
     }
   ],
   "shulifang biotechnolog": [
@@ -23870,6 +23855,13 @@
       "site": "JobGurus",
       "id": "a4793c1d93376008400aaf31eb107701",
       "timestamp": 1766142904527
+    }
+  ],
+  "mota-engil nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "5921b7c4bbb3a43c9a0106ff1c8304f8",
+      "timestamp": 1766144281089
     }
   ]
 }
