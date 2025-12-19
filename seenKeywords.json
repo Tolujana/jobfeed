@@ -486,23 +486,8 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "4a71a788fe90747156da1e22b4d6d71f",
-      "timestamp": 1764012968971
-    },
-    {
-      "site": "JobGurus",
-      "id": "043e651d59aaf2fcd07c5695e7ca29be",
-      "timestamp": 1764355632756
-    },
-    {
-      "site": "JobGurus",
-      "id": "e64bce5e055ed52b8c6d138331f32b9d",
-      "timestamp": 1764448772914
-    },
-    {
-      "site": "JobGurus",
-      "id": "31490a902a45b244c434fe7d4c7e566f",
-      "timestamp": 1764607895215
+      "id": "d6621387d07880519dd58087dc780317",
+      "timestamp": 1766141109374
     }
   ],
   "cig motors co. limited": [
@@ -587,6 +572,11 @@
       "site": "JobGurus",
       "id": "d77d65c85e8b362dd38767457f20f7f8",
       "timestamp": 1765974998886
+    },
+    {
+      "site": "JobGurus",
+      "id": "fe47fee9dd1239558d87e3fb15699d2e",
+      "timestamp": 1766141109374
     }
   ],
   "abbfem group": [
@@ -2959,6 +2949,11 @@
       "site": "JobGurus",
       "id": "f6f15adbc9d66ed8383857c4d819689a",
       "timestamp": 1766139492986
+    },
+    {
+      "site": "JobGurus",
+      "id": "8ea342e1b2b28367d8d41a8f71a63282",
+      "timestamp": 1766141109374
     }
   ],
   "hellofresh fast food": [
@@ -20151,6 +20146,11 @@
       "site": "JobGurus",
       "id": "4db023c04f3c57aa2075f12c984145fe",
       "timestamp": 1766057906013
+    },
+    {
+      "site": "JobGurus",
+      "id": "bb57973849c31270eb6fd23158375438",
+      "timestamp": 1766141109374
     }
   ],
   "transnet": [
