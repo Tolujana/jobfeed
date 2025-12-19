@@ -12111,8 +12111,8 @@
   "bemil nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "1631ad69f0fdf34c5ff41848ae610a35",
-      "timestamp": 1764933343694
+      "id": "dc751163fdd6cfcf9c74f82cfebc531c",
+      "timestamp": 1766155501560
     }
   ],
   "tolaram group": [
@@ -23886,6 +23886,13 @@
       "site": "JobGurus",
       "id": "7c3dd80b91222540a314c9d581221ac5",
       "timestamp": 1766147654507
+    }
+  ],
+  "vixa healthcare": [
+    {
+      "site": "JobGurus",
+      "id": "34aac85ab6917f0642067a7667ca0937",
+      "timestamp": 1766155501560
     }
   ]
 }
