@@ -10267,8 +10267,8 @@
   "survival agricultural hub limited": [
     {
       "site": "JobGurus",
-      "id": "783245cfcb611cf56d091f265bb4b86c",
-      "timestamp": 1759840308589
+      "id": "5d0670072c3a6b326002d65287cb6338",
+      "timestamp": 1766147654507
     }
   ],
   "coca-cola hellenic bottling company": [
@@ -18404,8 +18404,8 @@
   "ignite energy access": [
     {
       "site": "JobGurus",
-      "id": "ef39ed36e9a4c709adcc6de2a109f2bb",
-      "timestamp": 1760618014631
+      "id": "aa718c465d1ecd77574daa7433ddda57",
+      "timestamp": 1766147654507
     }
   ],
   "nivafer engineering and construction limited": [
@@ -23862,6 +23862,20 @@
       "site": "JobGurus",
       "id": "5921b7c4bbb3a43c9a0106ff1c8304f8",
       "timestamp": 1766144281089
+    }
+  ],
+  "bible society of nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "6ba322edad19a60aa589c76edd251275",
+      "timestamp": 1766147654507
+    }
+  ],
+  "apple & pears limited": [
+    {
+      "site": "JobGurus",
+      "id": "7c3dd80b91222540a314c9d581221ac5",
+      "timestamp": 1766147654507
     }
   ]
 }
