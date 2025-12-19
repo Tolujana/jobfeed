@@ -5743,6 +5743,11 @@
       "site": "JobGurus",
       "id": "aacfff78677b09da4c78c5e7c8baf73d",
       "timestamp": 1766054786147
+    },
+    {
+      "site": "JobGurus",
+      "id": "688e88542796ccee724e0e8c18326d02",
+      "timestamp": 1766137469777
     }
   ],
   "mfs financial services limited": [
@@ -10744,8 +10749,8 @@
   "kingrock international nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "5d9c7997ed8bb933375da2e8c56edbd0",
-      "timestamp": 1754314727578
+      "id": "6ea06a0e91b5ae7ffcc80d710ead81eb",
+      "timestamp": 1766137469777
     }
   ],
   "cng career-touch services": [
@@ -23839,6 +23844,18 @@
       "site": "JobGurus",
       "id": "e38ad22038baf7ca1ceb9cbc63849c60",
       "timestamp": 1766084013388
+    }
+  ],
+  "iota group": [
+    {
+      "site": "JobGurus",
+      "id": "d7665a041b3e4cc5a6946d280538c718",
+      "timestamp": 1766137469777
+    },
+    {
+      "site": "JobGurus",
+      "id": "9a1de76e206b9aceca886add8f31aac3",
+      "timestamp": 1766137469777
     }
   ]
 }
