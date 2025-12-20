@@ -1169,6 +1169,11 @@
       "site": "JobGurus",
       "id": "70dfb74b03d782192bc82f2d1c9d9677",
       "timestamp": 1766158987476
+    },
+    {
+      "site": "JobGurus",
+      "id": "af22a1486aae8fcce2e3d88c45a09e9b",
+      "timestamp": 1766230556255
     }
   ],
   "habaripay limited": [
@@ -2883,8 +2888,8 @@
   "resource intermediaries limited": [
     {
       "site": "JobGurus",
-      "id": "dc4f0c35fbf809a81e296dfdf55ce3a6",
-      "timestamp": 1764874449227
+      "id": "fbaeb13fbdb041b4433822437c7571a3",
+      "timestamp": 1766230556255
     }
   ],
   "oisedotcom limited": [
@@ -5019,8 +5024,8 @@
   "mtn nigeria": [
     {
       "site": "JobGurus",
-      "id": "ad56334afa762d2ff4cd1a3c91b50cd7",
-      "timestamp": 1765552708611
+      "id": "1803617f5abd1edaeef6ca9b23d1aa09",
+      "timestamp": 1766230556255
     }
   ],
   "koins microfinance bank limited": [
@@ -23936,6 +23941,13 @@
       "site": "JobGurus",
       "id": "4630c6a43da4ac196525d233e660afaf",
       "timestamp": 1766229171862
+    }
+  ],
+  "rand merchant bank (rmb)": [
+    {
+      "site": "JobGurus",
+      "id": "0400a4391f1d7dc882441cc1cd52a2ec",
+      "timestamp": 1766230556255
     }
   ]
 }
