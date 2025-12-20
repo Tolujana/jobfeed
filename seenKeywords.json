@@ -5663,8 +5663,8 @@
   "olam agri": [
     {
       "site": "JobGurus",
-      "id": "3ba0465f6230eb506b464da34a7cfb2f",
-      "timestamp": 1761333163135
+      "id": "c2303a503b33098e3efc89b3fad82e05",
+      "timestamp": 1766229171862
     }
   ],
   "oneland africa": [
@@ -6422,8 +6422,13 @@
   "lopterra services limited": [
     {
       "site": "JobGurus",
-      "id": "c327f805908d21b245505eaf6fc310e0",
-      "timestamp": 1762600302886
+      "id": "d8686721f4fa92f4e99eaf26a10e40fa",
+      "timestamp": 1766229171862
+    },
+    {
+      "site": "JobGurus",
+      "id": "543d164124a0b21a26e0e553bd2aeca2",
+      "timestamp": 1766229171862
     }
   ],
   "tizeti network limited": [
@@ -6796,18 +6801,8 @@
   "brilliant performance solutions limited": [
     {
       "site": "JobGurus",
-      "id": "2119db0829e37739af2edf4058bcdba8",
-      "timestamp": 1763111826005
-    },
-    {
-      "site": "JobGurus",
-      "id": "9016b7a1380028d432466b38f2279050",
-      "timestamp": 1763111826005
-    },
-    {
-      "site": "JobGurus",
-      "id": "0f6d96f59b1d4d478e339e4fa1ca5c5e",
-      "timestamp": 1763116994552
+      "id": "871fbc8f9201387d3b7dc7c936305468",
+      "timestamp": 1766229171862
     }
   ],
   "d-degree digital hub limited": [
@@ -23934,6 +23929,13 @@
       "site": "JobGurus",
       "id": "ef27cec1c99f929b614a4b3809f88c58",
       "timestamp": 1766157497597
+    }
+  ],
+  "velox holding company limited": [
+    {
+      "site": "JobGurus",
+      "id": "4630c6a43da4ac196525d233e660afaf",
+      "timestamp": 1766229171862
     }
   ]
 }
