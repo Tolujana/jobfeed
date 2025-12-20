@@ -157,6 +157,11 @@
       "site": "JobGurus",
       "id": "0305a4ee08e0d574934a92142c5207d9",
       "timestamp": 1765970174790
+    },
+    {
+      "site": "JobGurus",
+      "id": "cceff4869858503a2c884db9f9b07970",
+      "timestamp": 1766233844997
     }
   ],
   "cway group": [
@@ -555,11 +560,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "ae8c2de313353ea61fdaa4742daa1fc7",
-      "timestamp": 1765542918439
-    },
-    {
-      "site": "JobGurus",
       "id": "b8d1c5b0b21f0cba5e93e9a9cac61365",
       "timestamp": 1765810304997
     },
@@ -577,6 +577,11 @@
       "site": "JobGurus",
       "id": "fe47fee9dd1239558d87e3fb15699d2e",
       "timestamp": 1766141109374
+    },
+    {
+      "site": "JobGurus",
+      "id": "6110693652bee00b668dcf16960efa6f",
+      "timestamp": 1766233844997
     }
   ],
   "abbfem group": [
@@ -6579,6 +6584,11 @@
       "site": "JobGurus",
       "id": "bf847f62b829567f55f81231f6475e12",
       "timestamp": 1766227284533
+    },
+    {
+      "site": "JobGurus",
+      "id": "3ed81cd3a6c8b263bca3687e2538f589",
+      "timestamp": 1766233844997
     }
   ],
   "equity specialist hospital": [
@@ -22390,8 +22400,8 @@
   "intavalto nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "edb7d319cbe3c40d9e2f0cd0f262f9c6",
-      "timestamp": 1765468000692
+      "id": "f4f94e798dab6982432594e1d85aebe6",
+      "timestamp": 1766233844997
     }
   ],
   "first city monument bank": [
@@ -23948,6 +23958,13 @@
       "site": "JobGurus",
       "id": "0400a4391f1d7dc882441cc1cd52a2ec",
       "timestamp": 1766230556255
+    }
+  ],
+  "metro bakery & restaurant": [
+    {
+      "site": "JobGurus",
+      "id": "756ba8e4287120b086b4e19ea124bfd6",
+      "timestamp": 1766233844997
     }
   ]
 }
