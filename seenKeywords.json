@@ -162,6 +162,11 @@
       "site": "JobGurus",
       "id": "cceff4869858503a2c884db9f9b07970",
       "timestamp": 1766233844997
+    },
+    {
+      "site": "JobGurus",
+      "id": "c9df21c0404db4e2f6ddcde145380c09",
+      "timestamp": 1766422145072
     }
   ],
   "cway group": [
@@ -7184,8 +7189,8 @@
   "international facilities services limited": [
     {
       "site": "JobGurus",
-      "id": "cdfbc5f8f83ae2a5f5f21dea4b620687",
-      "timestamp": 1752050957713
+      "id": "a64daa400a2bcec516642167258afa0b",
+      "timestamp": 1766422145072
     }
   ],
   "rome business school nigeria": [
@@ -24093,6 +24098,25 @@
       "site": "JobGurus",
       "id": "cd891c3792d310515e1f1e880a188284",
       "timestamp": 1766420439714
+    }
+  ],
+  "mosra energy limited": [
+    {
+      "site": "JobGurus",
+      "id": "0cfbb73dacd76fe5448b1c3a9bfc6f21",
+      "timestamp": 1766422145072
+    },
+    {
+      "site": "JobGurus",
+      "id": "79b65d20bde0cc111a941a41daa8b12b",
+      "timestamp": 1766422145072
+    }
+  ],
+  "ifs group": [
+    {
+      "site": "JobGurus",
+      "id": "0b249f01fc24d4000307e97dfcff2371",
+      "timestamp": 1766422145072
     }
   ]
 }
