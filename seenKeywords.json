@@ -730,8 +730,8 @@
   "estrada international staffing solutions": [
     {
       "site": "JobGurus",
-      "id": "18c81586e88518f627b72c5a63677887",
-      "timestamp": 1763374717420
+      "id": "157ebca75ca21255ba54ee7efefdeb36",
+      "timestamp": 1766414627766
     }
   ],
   "startup soar": [
@@ -7126,6 +7126,11 @@
       "site": "JobGurus",
       "id": "2760274282c3f8e030163e0261b633df",
       "timestamp": 1766413041650
+    },
+    {
+      "site": "JobGurus",
+      "id": "3bcf5eac26cd52ff904fc5dd96f42c15",
+      "timestamp": 1766414627766
     }
   ],
   "quicky chillis": [
@@ -14990,6 +14995,11 @@
       "site": "JobGurus",
       "id": "8fea02d08883066e8a00ab433b5e799e",
       "timestamp": 1766413041650
+    },
+    {
+      "site": "JobGurus",
+      "id": "299740082a93cca1eba1166d1e636364",
+      "timestamp": 1766414627766
     }
   ],
   "kashterk limited": [
@@ -24018,6 +24028,18 @@
       "site": "JobGurus",
       "id": "27fa8f0240bf534a6a68aaf97bb90135",
       "timestamp": 1766413041650
+    },
+    {
+      "site": "JobGurus",
+      "id": "6a7f9421156d29fdac1bd51acedd6aee",
+      "timestamp": 1766414627766
+    }
+  ],
+  "prospera finance": [
+    {
+      "site": "JobGurus",
+      "id": "7ede12291352804c14027c6c48d9ebcd",
+      "timestamp": 1766414627766
     }
   ]
 }
