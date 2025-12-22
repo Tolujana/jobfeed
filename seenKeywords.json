@@ -5260,8 +5260,13 @@
   "zael business management & consulting": [
     {
       "site": "JobGurus",
-      "id": "42027fd78eb5c50d564aabaa66fb48ba",
-      "timestamp": 1760721191742
+      "id": "09d4f0d59ebec636a4e606c70782e2f9",
+      "timestamp": 1766413041650
+    },
+    {
+      "site": "JobGurus",
+      "id": "06fb89ea285d476c64c6be9b7121032a",
+      "timestamp": 1766413041650
     }
   ],
   "the changeroom": [
@@ -7119,8 +7124,8 @@
   "prestigious consulting": [
     {
       "site": "JobGurus",
-      "id": "ea130ade48d276b93915fb798cc1b76c",
-      "timestamp": 1764339379177
+      "id": "2760274282c3f8e030163e0261b633df",
+      "timestamp": 1766413041650
     }
   ],
   "quicky chillis": [
@@ -14980,6 +14985,11 @@
       "site": "JobGurus",
       "id": "bd4a70eddaaeaae3c7966f0938fb0142",
       "timestamp": 1765820813011
+    },
+    {
+      "site": "JobGurus",
+      "id": "8fea02d08883066e8a00ab433b5e799e",
+      "timestamp": 1766413041650
     }
   ],
   "kashterk limited": [
@@ -24001,6 +24011,13 @@
       "site": "JobGurus",
       "id": "c3ff3bea999602cb4fc84b408ebc8407",
       "timestamp": 1766406916413
+    }
+  ],
+  "the lamb academy": [
+    {
+      "site": "JobGurus",
+      "id": "27fa8f0240bf534a6a68aaf97bb90135",
+      "timestamp": 1766413041650
     }
   ]
 }
