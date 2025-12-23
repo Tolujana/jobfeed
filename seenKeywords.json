@@ -167,6 +167,16 @@
       "site": "JobGurus",
       "id": "c9df21c0404db4e2f6ddcde145380c09",
       "timestamp": 1766422145072
+    },
+    {
+      "site": "JobGurus",
+      "id": "304ebf15784db78c03c60625a6e29608",
+      "timestamp": 1766493348891
+    },
+    {
+      "site": "JobGurus",
+      "id": "f250e6d5c62d9065ecc2f21f3ada5002",
+      "timestamp": 1766493348891
     }
   ],
   "cway group": [
@@ -1085,8 +1095,8 @@
   "elizabeth maddeux": [
     {
       "site": "JobGurus",
-      "id": "9a7f23e2d00332d7ad56e71d446e7f19",
-      "timestamp": 1765812035743
+      "id": "b09926cba2eeea81315c1ddb2a368186",
+      "timestamp": 1766493348891
     }
   ],
   "brenhazy limited": [
@@ -12144,6 +12154,11 @@
       "site": "JobGurus",
       "id": "c2d8343fd8e993d5fa06f3f13a727db7",
       "timestamp": 1766489922046
+    },
+    {
+      "site": "JobGurus",
+      "id": "9aca15e964e048b7fe0455530b68c381",
+      "timestamp": 1766493348891
     }
   ],
   "cravecity mega limited": [
@@ -24177,6 +24192,13 @@
       "site": "JobGurus",
       "id": "2bc53cb3b1d2266ed56c865af18d893f",
       "timestamp": 1766488514588
+    }
+  ],
+  "nigerian electricity supply corporation (nigeria) limited": [
+    {
+      "site": "JobGurus",
+      "id": "a69544a92e3524c0f09e3507bb38d077",
+      "timestamp": 1766493348891
     }
   ]
 }
