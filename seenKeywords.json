@@ -633,13 +633,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "7fad587066e64e7d6aa60a6088e661cb",
-      "timestamp": 1765365312819
-    },
-    {
-      "site": "JobGurus",
-      "id": "37e38bdf3f00848a49c62bbf150b9d2b",
-      "timestamp": 1765892134298
+      "id": "2eabcaa9741543301d7eb9362c887783",
+      "timestamp": 1766503067913
     }
   ],
   "food concepts plc": [
@@ -3286,8 +3281,8 @@
   "invealth partners limited": [
     {
       "site": "JobGurus",
-      "id": "b5eabbad6cd7f67f0ddf969b7839a23b",
-      "timestamp": 1765462763220
+      "id": "d4b0eaad2a458db00f00a2021085cb53",
+      "timestamp": 1766503067913
     }
   ],
   "doah enterprise": [
@@ -5703,8 +5698,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "133448be0971e27d3a74ba60cd54a87d",
-      "timestamp": 1765451718121
+      "id": "99a88154d8ba3b67061837efb23d3cf2",
+      "timestamp": 1766503067913
     }
   ],
   "boing pinnacle limited": [
@@ -21943,8 +21938,8 @@
   "blue earth properties": [
     {
       "site": "JobGurus",
-      "id": "581759eb7632a7a274eefc8706d01dc1",
-      "timestamp": 1763979519682
+      "id": "05db437c06ef9895233aafa552342ec8",
+      "timestamp": 1766503067913
     }
   ],
   "red star zhongyuan group": [
@@ -24276,6 +24271,13 @@
       "site": "JobGurus",
       "id": "3dbba437dd9eb6425a5205fbebd35f60",
       "timestamp": 1766501106502
+    }
+  ],
+  "y.m.a multiventures concept": [
+    {
+      "site": "JobGurus",
+      "id": "84c250ead5c6c64e03ca4e386b9f5ad5",
+      "timestamp": 1766503067913
     }
   ]
 }
