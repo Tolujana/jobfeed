@@ -6338,8 +6338,13 @@
   "oppo": [
     {
       "site": "JobGurus",
-      "id": "b6646d5b0d1bc1ae031eb86ab62e3e96",
-      "timestamp": 1764595956216
+      "id": "2e3d8e73a9a0dc193fe5b1f31c6e813a",
+      "timestamp": 1766486798671
+    },
+    {
+      "site": "JobGurus",
+      "id": "3ab9e9892752f31806ec2c37572da4a1",
+      "timestamp": 1766486798671
     }
   ],
   "agricare std plus limited": [
@@ -12117,8 +12122,8 @@
   "itex integrated services limited": [
     {
       "site": "JobGurus",
-      "id": "334109d7ec8f0397a61118db31a36641",
-      "timestamp": 1765552708611
+      "id": "74282f9d1601a23abdef7bbe614b69bd",
+      "timestamp": 1766486798671
     }
   ],
   "cravecity mega limited": [
@@ -24124,6 +24129,13 @@
       "site": "JobGurus",
       "id": "50d34793eb2998afcecd864169eec696",
       "timestamp": 1766423723572
+    }
+  ],
+  "isglo hotels limited": [
+    {
+      "site": "JobGurus",
+      "id": "f465dee3affa97e67355ef7c03000576",
+      "timestamp": 1766486798671
     }
   ]
 }
