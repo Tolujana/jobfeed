@@ -2939,13 +2939,8 @@
   "afripoint group limited": [
     {
       "site": "JobGurus",
-      "id": "204b04a0891110306429fd2ecc7a2715",
-      "timestamp": 1760182545334
-    },
-    {
-      "site": "JobGurus",
-      "id": "e58bd1f8dc158ddd33838d58246b0c74",
-      "timestamp": 1760700956348
+      "id": "48bf0efdc1de8f2dc2c41e4e941f035d",
+      "timestamp": 1766852372302
     }
   ],
   "the plug entertainment limited": [
@@ -9840,6 +9835,11 @@
       "site": "JobGurus",
       "id": "a528b21323f132f9464cb878b28cb16a",
       "timestamp": 1766849907282
+    },
+    {
+      "site": "JobGurus",
+      "id": "cb7803706d52992e8bbf95a98af69d3d",
+      "timestamp": 1766852372302
     }
   ],
   " esty agro": [
@@ -24426,6 +24426,27 @@
       "site": "JobGurus",
       "id": "dbd974f56f15f774db04a576ba8f9934",
       "timestamp": 1766849907282
+    }
+  ],
+  "clear vantage limited": [
+    {
+      "site": "JobGurus",
+      "id": "dbd4f5022eaf68b40d7705339064ecd7",
+      "timestamp": 1766852372302
+    }
+  ],
+  "st. luke's hospital": [
+    {
+      "site": "JobGurus",
+      "id": "47da388f19fdc929d01e31bbadcdf0a4",
+      "timestamp": 1766852372302
+    }
+  ],
+  "chrisvirgy group limited": [
+    {
+      "site": "JobGurus",
+      "id": "449fee91884052664ef81dfbeaebb924",
+      "timestamp": 1766852372302
     }
   ]
 }
