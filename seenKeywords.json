@@ -10112,18 +10112,8 @@
   "sims nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "161408aef68cd7ab683a4ac920d0daa1",
-      "timestamp": 1764246875026
-    },
-    {
-      "site": "JobGurus",
-      "id": "0e0cebd049c74d6861eda6746a0267b6",
-      "timestamp": 1764758862770
-    },
-    {
-      "site": "JobGurus",
-      "id": "8db610f34085938bf1db6403c0a0b157",
-      "timestamp": 1764758862770
+      "id": "d5d1b55947eb0d0a78cf2f824f57c1c5",
+      "timestamp": 1766853932992
     }
   ],
   "talent lab limited": [
@@ -15010,8 +15000,13 @@
   "khadasha innovations africa": [
     {
       "site": "JobGurus",
-      "id": "520b6e9a4e8cecb4f53a7146728a2bb6",
-      "timestamp": 1757607496122
+      "id": "e891fbecc3023560049447bf8752477a",
+      "timestamp": 1766853932992
+    },
+    {
+      "site": "JobGurus",
+      "id": "15741378a6bcd029738169d1d7885d87",
+      "timestamp": 1766853932992
     }
   ],
   "lifestyle centre": [
@@ -24447,6 +24442,13 @@
       "site": "JobGurus",
       "id": "449fee91884052664ef81dfbeaebb924",
       "timestamp": 1766852372302
+    }
+  ],
+  "chilis restaurants": [
+    {
+      "site": "JobGurus",
+      "id": "2833141afb6d87ec789a03d1e4967ee7",
+      "timestamp": 1766853932992
     }
   ]
 }
