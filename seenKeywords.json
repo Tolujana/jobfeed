@@ -3923,6 +3923,11 @@
       "site": "JobGurus",
       "id": "cd66d49b5129a59ab32fe2adb0b764e6",
       "timestamp": 1766848530567
+    },
+    {
+      "site": "JobGurus",
+      "id": "635cecdd4e8d943fbb1dfc81ecab129d",
+      "timestamp": 1766849907282
     }
   ],
   "changeroom": [
@@ -9522,8 +9527,8 @@
   "talentpool nigeria": [
     {
       "site": "JobGurus",
-      "id": "dae85548d67d06cb537cd199e6c6f307",
-      "timestamp": 1753283912960
+      "id": "926dfa96cfad84d256655b4bbd9b1f61",
+      "timestamp": 1766849907282
     }
   ],
   "livestock feeds plc": [
@@ -9833,13 +9838,8 @@
   "kpmg": [
     {
       "site": "JobGurus",
-      "id": "01f4cb03e370e2e9d3d3dcb3880d267f",
-      "timestamp": 1764246875026
-    },
-    {
-      "site": "JobGurus",
-      "id": "a7580a29441f2313e8b0170989f4d2b3",
-      "timestamp": 1764788015603
+      "id": "a528b21323f132f9464cb878b28cb16a",
+      "timestamp": 1766849907282
     }
   ],
   " esty agro": [
@@ -24419,6 +24419,13 @@
       "site": "JobGurus",
       "id": "a90f2eee8f65bc2949c51bdfb39f27c7",
       "timestamp": 1766846427275
+    }
+  ],
+  "ikeja electricity distribution company plc (ikedc)": [
+    {
+      "site": "JobGurus",
+      "id": "dbd974f56f15f774db04a576ba8f9934",
+      "timestamp": 1766849907282
     }
   ]
 }
