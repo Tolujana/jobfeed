@@ -65,13 +65,8 @@
   "the concept group": [
     {
       "site": "JobGurus",
-      "id": "c5800dd9a9d5438a6d3cc52c58dfd747",
-      "timestamp": 1765966770729
-    },
-    {
-      "site": "JobGurus",
-      "id": "60bad4544526471c5e3987c9afe1f3c1",
-      "timestamp": 1766227284533
+      "id": "e528d45876179d3b455bb62bd00701d0",
+      "timestamp": 1767017875317
     }
   ],
   "triple x environmental health consult": [
@@ -14306,13 +14301,8 @@
   "elevated hr limited": [
     {
       "site": "JobGurus",
-      "id": "ca0925dd2897a9426edac54507d1cdc8",
-      "timestamp": 1764607895215
-    },
-    {
-      "site": "JobGurus",
-      "id": "1f9ae03a78508d60efc685c27fa79e85",
-      "timestamp": 1765205142539
+      "id": "5bbed67be63724f3ee16acb83c9bc9f9",
+      "timestamp": 1767017875317
     }
   ],
   "borno women development initiative (bowdi)": [
@@ -20579,13 +20569,8 @@
   "carlson hotel": [
     {
       "site": "JobGurus",
-      "id": "e2028fa6ef48a602ba9e04ead67c53dd",
-      "timestamp": 1764270764105
-    },
-    {
-      "site": "JobGurus",
-      "id": "489b5b6e46436913533bdc472b85334e",
-      "timestamp": 1764272129723
+      "id": "969bcb2fad306ae9a2055581dbd90b27",
+      "timestamp": 1767017875317
     }
   ],
   "the chartered institute of directors nigeria": [
@@ -22049,8 +22034,8 @@
   "banksome group": [
     {
       "site": "JobGurus",
-      "id": "4f71b9e9eb378781d272b44e7d8bce30",
-      "timestamp": 1764002624198
+      "id": "ae70a6a67fe58428b18b9f59f0a04655",
+      "timestamp": 1767017875317
     }
   ],
   " federal medical centre": [
@@ -24449,6 +24434,13 @@
       "site": "JobGurus",
       "id": "2833141afb6d87ec789a03d1e4967ee7",
       "timestamp": 1766853932992
+    }
+  ],
+  "lynspeed": [
+    {
+      "site": "JobGurus",
+      "id": "1e4adf54bce93ba0d4fc891a7ed4da47",
+      "timestamp": 1767017875317
     }
   ]
 }
