@@ -1439,13 +1439,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "63ec240def610c816494c35d17ee85cd",
-      "timestamp": 1766064805079
-    },
-    {
-      "site": "JobGurus",
-      "id": "71147ac1f4edeb863b8c62dca05988d2",
-      "timestamp": 1766152234658
+      "id": "d18ba0827aecd2da3ba563823e771ffe",
+      "timestamp": 1767019546979
     }
   ],
   "jtech global resources limited": [
@@ -20571,6 +20566,11 @@
       "site": "JobGurus",
       "id": "969bcb2fad306ae9a2055581dbd90b27",
       "timestamp": 1767017875317
+    },
+    {
+      "site": "JobGurus",
+      "id": "d10b8acc95ac2b77cfe2778bdaea726b",
+      "timestamp": 1767019546979
     }
   ],
   "the chartered institute of directors nigeria": [
@@ -24441,6 +24441,25 @@
       "site": "JobGurus",
       "id": "1e4adf54bce93ba0d4fc891a7ed4da47",
       "timestamp": 1767017875317
+    }
+  ],
+  "house of gold foundation": [
+    {
+      "site": "JobGurus",
+      "id": "152b280c2f820c4c9b863ed09bea8511",
+      "timestamp": 1767019546979
+    }
+  ],
+  "datavance llc": [
+    {
+      "site": "JobGurus",
+      "id": "c1bcc17bd7166407b27edb24261b291f",
+      "timestamp": 1767019546979
+    },
+    {
+      "site": "JobGurus",
+      "id": "02a9217914c1cbb4b5c114866b0eb268",
+      "timestamp": 1767019546979
     }
   ]
 }
