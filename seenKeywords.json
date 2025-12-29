@@ -19429,8 +19429,13 @@
   "genesis group": [
     {
       "site": "JobGurus",
-      "id": "61fd043519dc2ae4d5308abc6eba11e0",
-      "timestamp": 1763461145168
+      "id": "8b5639594a3a9dc219612b47474270eb",
+      "timestamp": 1767034257355
+    },
+    {
+      "site": "JobGurus",
+      "id": "d0861fd9d2e75f6ccd7b93df8f1e54ff",
+      "timestamp": 1767034257355
     }
   ],
   "international committee of the red cross (icrc)": [
@@ -24479,6 +24484,11 @@
       "site": "JobGurus",
       "id": "fc26fb812e723d75bbbcd10767bd5fd5",
       "timestamp": 1767021468992
+    },
+    {
+      "site": "JobGurus",
+      "id": "22313b89cc404e6ce3e12e8b57f80ea3",
+      "timestamp": 1767034257355
     }
   ],
   "topgy systems & management consultant": [
@@ -24486,6 +24496,13 @@
       "site": "JobGurus",
       "id": "f58bca5b89067968ef911693181c5464",
       "timestamp": 1767021468992
+    }
+  ],
+  "yehgs uk limited": [
+    {
+      "site": "JobGurus",
+      "id": "a8151dccb9a0e77680c20c17f4493044",
+      "timestamp": 1767034257355
     }
   ]
 }
