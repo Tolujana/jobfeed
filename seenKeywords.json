@@ -21317,8 +21317,8 @@
   "gamma mobility": [
     {
       "site": "JobGurus",
-      "id": "4144c31f87f9be0510307432c71c23c7",
-      "timestamp": 1763372623495
+      "id": "183fa32d76b8796bf0bb4e806d470cb7",
+      "timestamp": 1767021468992
     }
   ],
   "the lion king capital limited": [
@@ -24460,6 +24460,32 @@
       "site": "JobGurus",
       "id": "02a9217914c1cbb4b5c114866b0eb268",
       "timestamp": 1767019546979
+    },
+    {
+      "site": "JobGurus",
+      "id": "e7921e8361549805d6b46e27b97ff894",
+      "timestamp": 1767021468992
+    }
+  ],
+  "bridgehedge limited": [
+    {
+      "site": "JobGurus",
+      "id": "732ded1e0fe2d83b217785d4757686b1",
+      "timestamp": 1767021468992
+    }
+  ],
+  "omenka industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "fc26fb812e723d75bbbcd10767bd5fd5",
+      "timestamp": 1767021468992
+    }
+  ],
+  "topgy systems & management consultant": [
+    {
+      "site": "JobGurus",
+      "id": "f58bca5b89067968ef911693181c5464",
+      "timestamp": 1767021468992
     }
   ]
 }
