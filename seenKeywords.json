@@ -14524,8 +14524,8 @@
   "hope and rural aid foundation": [
     {
       "site": "JobGurus",
-      "id": "dc8d8ab5a31602d4d445d7943c39197b",
-      "timestamp": 1757357129601
+      "id": "e53f9f210d7c3f2e260ce3ab107556eb",
+      "timestamp": 1767093344549
     }
   ],
   "marcforte business consulting limited": [
@@ -24511,6 +24511,13 @@
       "site": "JobGurus",
       "id": "3ad10ff21964c7a2be0e2d89c4e529ed",
       "timestamp": 1767091578544
+    }
+  ],
+  "emirates group": [
+    {
+      "site": "JobGurus",
+      "id": "ec7a06f7c8369b592da5c6ffb427904a",
+      "timestamp": 1767093344549
     }
   ]
 }
