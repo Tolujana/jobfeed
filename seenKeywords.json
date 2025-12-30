@@ -145,26 +145,6 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "35d5403f79a78bf4fc0ef3e85dbd8e4d",
-      "timestamp": 1765905637833
-    },
-    {
-      "site": "JobGurus",
-      "id": "0305a4ee08e0d574934a92142c5207d9",
-      "timestamp": 1765970174790
-    },
-    {
-      "site": "JobGurus",
-      "id": "cceff4869858503a2c884db9f9b07970",
-      "timestamp": 1766233844997
-    },
-    {
-      "site": "JobGurus",
-      "id": "c9df21c0404db4e2f6ddcde145380c09",
-      "timestamp": 1766422145072
-    },
-    {
-      "site": "JobGurus",
       "id": "304ebf15784db78c03c60625a6e29608",
       "timestamp": 1766493348891
     },
@@ -172,6 +152,11 @@
       "site": "JobGurus",
       "id": "f250e6d5c62d9065ecc2f21f3ada5002",
       "timestamp": 1766493348891
+    },
+    {
+      "site": "JobGurus",
+      "id": "a0a84acb4af91e51ba779577cc72ee15",
+      "timestamp": 1767094719722
     }
   ],
   "cway group": [
@@ -19163,23 +19148,8 @@
   "greywood hotels & apartments": [
     {
       "site": "JobGurus",
-      "id": "609cc8882dc9061b1bebf4f2262fdf13",
-      "timestamp": 1761216148555
-    },
-    {
-      "site": "JobGurus",
-      "id": "b21eee21fc141a6ac3bc12efbb29e2b8",
-      "timestamp": 1761218005121
-    },
-    {
-      "site": "JobGurus",
-      "id": "2c98e5789096e8c852fd070899a5bdc3",
-      "timestamp": 1761218005121
-    },
-    {
-      "site": "JobGurus",
-      "id": "820eed1539893d42536f020e38bff0c5",
-      "timestamp": 1761226130656
+      "id": "fd45440b096c4260cb0264c66f693be1",
+      "timestamp": 1767094719722
     }
   ],
   "premidis nigeria limited": [
@@ -24518,6 +24488,13 @@
       "site": "JobGurus",
       "id": "ec7a06f7c8369b592da5c6ffb427904a",
       "timestamp": 1767093344549
+    }
+  ],
+  "sunday omojuyigbe & co": [
+    {
+      "site": "JobGurus",
+      "id": "3c1f7036aab607e8a592426018a7485d",
+      "timestamp": 1767094719722
     }
   ]
 }
