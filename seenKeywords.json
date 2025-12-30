@@ -307,23 +307,8 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "94a0ff2fa8159908c9817cdb9a576354",
-      "timestamp": 1763032487107
-    },
-    {
-      "site": "JobGurus",
-      "id": "8c2af40afd8d493649e8f69c0ee41871",
-      "timestamp": 1763032487107
-    },
-    {
-      "site": "JobGurus",
-      "id": "010301bd7e604e90c47bc9e41bc874f7",
-      "timestamp": 1763032487107
-    },
-    {
-      "site": "JobGurus",
-      "id": "7ead5d0a96ceb7b7adb5142fbafc19a0",
-      "timestamp": 1763033821311
+      "id": "711ab2f14492d0357147b9f1864c6a76",
+      "timestamp": 1767091578544
     }
   ],
   "jamub group": [
@@ -22488,8 +22473,8 @@
   "fidelity bank plc": [
     {
       "site": "JobGurus",
-      "id": "4684b539773033c8368285b8d8e2e1d3",
-      "timestamp": 1764355632756
+      "id": "5b58c6932e3e359c7ccf359c1ba41eac",
+      "timestamp": 1767091578544
     }
   ],
   "milestone boutique apartments": [
@@ -24505,6 +24490,27 @@
       "site": "JobGurus",
       "id": "5a5e3ff8e1942271b4a9b571a6cef004",
       "timestamp": 1767035579741
+    }
+  ],
+  "learning gate limited": [
+    {
+      "site": "JobGurus",
+      "id": "2199b5926e3045af6183415582df991c",
+      "timestamp": 1767091578544
+    }
+  ],
+  "inspire her afrika": [
+    {
+      "site": "JobGurus",
+      "id": "ccb5d5608b77015b41bf933d91d135ca",
+      "timestamp": 1767091578544
+    }
+  ],
+  "blooms academy": [
+    {
+      "site": "JobGurus",
+      "id": "3ad10ff21964c7a2be0e2d89c4e529ed",
+      "timestamp": 1767091578544
     }
   ]
 }
