@@ -9451,6 +9451,11 @@
       "site": "JobGurus",
       "id": "bce82dcc67b68439f67e24ebe303a4dc",
       "timestamp": 1766938789668
+    },
+    {
+      "site": "JobGurus",
+      "id": "aea26597522b7fafe4e95b4dcc8016d2",
+      "timestamp": 1767184480887
     }
   ],
   "source microfinance bank": [
@@ -18523,8 +18528,8 @@
   "avocado virtual solutions": [
     {
       "site": "JobGurus",
-      "id": "d26ae8b64c42a9678d9a6f2d61dba728",
-      "timestamp": 1765607043541
+      "id": "b8418117d061821cdfd20456552430d2",
+      "timestamp": 1767184480887
     }
   ],
   "krishat pharma industries limited": [
@@ -24510,6 +24515,20 @@
       "site": "JobGurus",
       "id": "3c1f7036aab607e8a592426018a7485d",
       "timestamp": 1767094719722
+    }
+  ],
+  "avia mart and food": [
+    {
+      "site": "JobGurus",
+      "id": "6063f4d2bea0d446ddbed329335dc099",
+      "timestamp": 1767184480887
+    }
+  ],
+  "prodigy microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "6d0c0dc6fd247cb455ba4b67fa4923a0",
+      "timestamp": 1767184480887
     }
   ]
 }
