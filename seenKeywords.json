@@ -6716,15 +6716,15 @@
   "de talents": [
     {
       "site": "JobGurus",
-      "id": "4dca62d5d8c2bd06564564075de2b8cd",
-      "timestamp": 1761578200609
+      "id": "8b367d30d70bd2e42dba66d6365c257d",
+      "timestamp": 1767368509434
     }
   ],
   "firewood rice nigeria": [
     {
       "site": "JobGurus",
-      "id": "486fd5b0e459618ff56ebd2805766491",
-      "timestamp": 1765548981670
+      "id": "1a0547c6c97609e3ac0badcc0aae9b6b",
+      "timestamp": 1767368509434
     }
   ],
   "eden solution and resources limited": [
@@ -9058,8 +9058,13 @@
   "bukka hut restaurant": [
     {
       "site": "JobGurus",
-      "id": "f5c7568397f3898676814a8a860c55eb",
-      "timestamp": 1766152234658
+      "id": "7b1dbd7ac0949992c17a3f8f0c5e5e76",
+      "timestamp": 1767368509434
+    },
+    {
+      "site": "JobGurus",
+      "id": "195bd8d8389eddb5a748ea3910685f46",
+      "timestamp": 1767368509434
     }
   ],
   "seflam sgl limited": [
@@ -12084,6 +12089,11 @@
       "site": "JobGurus",
       "id": "f08be855695d383ba056ee7f04e3d1e8",
       "timestamp": 1767367072396
+    },
+    {
+      "site": "JobGurus",
+      "id": "133dbc47039005d12bae9a72f30dc5ae",
+      "timestamp": 1767368509434
     }
   ],
   "first ally capital": [
