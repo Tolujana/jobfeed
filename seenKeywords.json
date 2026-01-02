@@ -2937,13 +2937,8 @@
   "eko maintenance limited": [
     {
       "site": "JobGurus",
-      "id": "f6f15adbc9d66ed8383857c4d819689a",
-      "timestamp": 1766139492986
-    },
-    {
-      "site": "JobGurus",
-      "id": "8ea342e1b2b28367d8d41a8f71a63282",
-      "timestamp": 1766141109374
+      "id": "efef5d14f8314ee50e79819aa0ce2edc",
+      "timestamp": 1767367072396
     }
   ],
   "hellofresh fast food": [
@@ -5776,13 +5771,8 @@
   "rosabon financial services": [
     {
       "site": "JobGurus",
-      "id": "aacfff78677b09da4c78c5e7c8baf73d",
-      "timestamp": 1766054786147
-    },
-    {
-      "site": "JobGurus",
-      "id": "688e88542796ccee724e0e8c18326d02",
-      "timestamp": 1766137469777
+      "id": "43c5abe6bf0bc12734d2f55820775c63",
+      "timestamp": 1767367072396
     }
   ],
   "mfs financial services limited": [
@@ -12092,8 +12082,8 @@
   "bosak microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "eecf08076564a6be16f0c64374a28682",
-      "timestamp": 1763392689921
+      "id": "f08be855695d383ba056ee7f04e3d1e8",
+      "timestamp": 1767367072396
     }
   ],
   "first ally capital": [
@@ -23911,8 +23901,8 @@
   "outcess solution limited": [
     {
       "site": "JobGurus",
-      "id": "457358bdec6105b7b22ccb01bd30c53b",
-      "timestamp": 1765982861747
+      "id": "258eed58cb0f4aadca91e2d2c670aa9c",
+      "timestamp": 1767367072396
     }
   ],
   "rexobe consult": [
@@ -24562,6 +24552,13 @@
       "site": "JobGurus",
       "id": "23e5c055ca864e5d87be58f9e51b05f6",
       "timestamp": 1767363401403
+    }
+  ],
+  "prime sources limited": [
+    {
+      "site": "JobGurus",
+      "id": "79afbeac33a71b24de9291d89267eb15",
+      "timestamp": 1767367072396
     }
   ]
 }
