@@ -5385,8 +5385,8 @@
   "recruit with adenike": [
     {
       "site": "JobGurus",
-      "id": "9f65a0323e016900da57acaeef500b6a",
-      "timestamp": 1765892134298
+      "id": "56d79592dd2e4ea8717b5f2ba56e046f",
+      "timestamp": 1767458750090
     }
   ],
   "ak entertainment": [
@@ -8247,8 +8247,8 @@
   "ajoke group": [
     {
       "site": "JobGurus",
-      "id": "5d230307a930d7420263a25108f58882",
-      "timestamp": 1764443514416
+      "id": "78fb998856dacdf6bf50f0b8744faf41",
+      "timestamp": 1767458750090
     }
   ],
   "united airlines": [
@@ -24665,6 +24665,25 @@
       "site": "JobGurus",
       "id": "a084d186dc1ed23591f597849a51a0c2",
       "timestamp": 1767457182620
+    }
+  ],
+  "dynamic edge business venture": [
+    {
+      "site": "JobGurus",
+      "id": "74b969ed4a84d677dd6a744822cc9095",
+      "timestamp": 1767458750090
+    },
+    {
+      "site": "JobGurus",
+      "id": "a011614ee8eecd58d70f270739248d2d",
+      "timestamp": 1767458750090
+    }
+  ],
+  "detail and avedia": [
+    {
+      "site": "JobGurus",
+      "id": "adb7adacb600dbb61b0f470e97388a7c",
+      "timestamp": 1767458750090
     }
   ]
 }
