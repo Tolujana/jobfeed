@@ -600,6 +600,11 @@
       "site": "JobGurus",
       "id": "1dc395244d8eba997907ccc1b313a574",
       "timestamp": 1767365023598
+    },
+    {
+      "site": "JobGurus",
+      "id": "93e78b62db860d4a189635bc01d1fde7",
+      "timestamp": 1767431790126
     }
   ],
   "food concepts plc": [
@@ -5482,6 +5487,11 @@
       "site": "JobGurus",
       "id": "d72b6a4f427149c0ce220d0ae889484a",
       "timestamp": 1767430075607
+    },
+    {
+      "site": "JobGurus",
+      "id": "b99b3a7f39ea7fcd55b9a2ed02ca1370",
+      "timestamp": 1767431790126
     }
   ],
   "aspom travels and tours": [
@@ -24593,6 +24603,13 @@
       "site": "JobGurus",
       "id": "bbc5c985eeccbebc863d099d984d5d9a",
       "timestamp": 1767430075607
+    }
+  ],
+  "modern lottery": [
+    {
+      "site": "JobGurus",
+      "id": "e5d567c829690271c8ffd0cdc9dcc283",
+      "timestamp": 1767431790126
     }
   ]
 }
