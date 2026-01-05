@@ -487,6 +487,11 @@
       "site": "JobGurus",
       "id": "190cd0eb676323728617daa98c38ca78",
       "timestamp": 1767631857771
+    },
+    {
+      "site": "JobGurus",
+      "id": "ca5a6f5d3d46a64c66ab5a7664b05c27",
+      "timestamp": 1767639319585
     }
   ],
   "universal human resource consult": [
@@ -1406,6 +1411,11 @@
       "site": "JobGurus",
       "id": "2a6b639868278de1dec6aa4ddf4dbdaf",
       "timestamp": 1767637622512
+    },
+    {
+      "site": "JobGurus",
+      "id": "e95ce34f5750d2a0c52e55ba4d1c1624",
+      "timestamp": 1767639319585
     }
   ],
   "jtech global resources limited": [
@@ -5768,6 +5778,16 @@
       "site": "JobGurus",
       "id": "43c5abe6bf0bc12734d2f55820775c63",
       "timestamp": 1767367072396
+    },
+    {
+      "site": "JobGurus",
+      "id": "990aa704fddff3dd81b85ccfad595aa2",
+      "timestamp": 1767639319585
+    },
+    {
+      "site": "JobGurus",
+      "id": "57ea231411e0a55add84e08bc7ef3c3a",
+      "timestamp": 1767639319585
     }
   ],
   "mfs financial services limited": [
@@ -19383,8 +19403,8 @@
   "cadsync consults limited": [
     {
       "site": "JobGurus",
-      "id": "3382b313e54ce7bfac0b8db7f50fd5d4",
-      "timestamp": 1765210924724
+      "id": "67b955111f7f3cfb1fbfd81a5e8ea348",
+      "timestamp": 1767639319585
     }
   ],
   "african steel mills nigeria limited": [
