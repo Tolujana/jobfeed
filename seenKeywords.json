@@ -12037,8 +12037,8 @@
   "staffora global limited": [
     {
       "site": "JobGurus",
-      "id": "4f7b5f2086d480bbed14858558c67747",
-      "timestamp": 1762778011555
+      "id": "be26ecb86a9f174815d547724c8a2f6c",
+      "timestamp": 1767626386301
     }
   ],
   "kafu consult associates": [
@@ -14399,23 +14399,13 @@
   "det consulting limited": [
     {
       "site": "JobGurus",
-      "id": "a711cf31ccc4db42a2eacd4ddb9d39dd",
-      "timestamp": 1766067503546
+      "id": "1d5bb883937a8676636a1486f10fa0cd",
+      "timestamp": 1767626386301
     },
     {
       "site": "JobGurus",
-      "id": "40e192a68f4e7251eebe38fad6904cc2",
-      "timestamp": 1766067503546
-    },
-    {
-      "site": "JobGurus",
-      "id": "6245311486a790326516462f595cf579",
-      "timestamp": 1766067503546
-    },
-    {
-      "site": "JobGurus",
-      "id": "9cb50029a51fadfac8a0336e096dc40c",
-      "timestamp": 1766069205658
+      "id": "75b9a9118f659d802cbdad4d527c0c60",
+      "timestamp": 1767626386301
     }
   ],
   "power control and appliances limited": [
@@ -24697,6 +24687,18 @@
       "site": "JobGurus",
       "id": "d7cfc268edd05436eaf5d85f757aafea",
       "timestamp": 1767624591810
+    }
+  ],
+  "grace moni limited": [
+    {
+      "site": "JobGurus",
+      "id": "3d883f58a2cd4bfd9c1b91ef866c8dd3",
+      "timestamp": 1767626386301
+    },
+    {
+      "site": "JobGurus",
+      "id": "9466b5bddaf121ad6a70d1223d54e35d",
+      "timestamp": 1767626386301
     }
   ]
 }
