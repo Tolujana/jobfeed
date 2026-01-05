@@ -2101,8 +2101,8 @@
   "traydah global resources limited": [
     {
       "site": "JobGurus",
-      "id": "5344d96d73134999d1b93e168cdc8598",
-      "timestamp": 1749563476808
+      "id": "72986e0684789a661b4dc3b89283cb67",
+      "timestamp": 1767620265256
     }
   ],
   "garment care limited": [
@@ -2586,8 +2586,8 @@
   "mai shayi coffee roasters limited": [
     {
       "site": "JobGurus",
-      "id": "462feff06434172a435c6ac339caa1e4",
-      "timestamp": 1749728232526
+      "id": "c1aa9a1fd28f5dda4c7831fa19a3b5a1",
+      "timestamp": 1767620265256
     }
   ],
   "splantom technolgies": [
@@ -8673,33 +8673,8 @@
   "grand oak limited": [
     {
       "site": "JobGurus",
-      "id": "9a9000a8068360cae8a8de32dd6ae476",
-      "timestamp": 1766747712185
-    },
-    {
-      "site": "JobGurus",
-      "id": "a5709cce89460407b2d604fd577dc9f2",
-      "timestamp": 1766747712185
-    },
-    {
-      "site": "JobGurus",
-      "id": "1fd85a10638aa8479a77d9e5a282f6e0",
-      "timestamp": 1766747712185
-    },
-    {
-      "site": "JobGurus",
-      "id": "945b97083f75754a6f00c99021c6e75b",
-      "timestamp": 1766747712185
-    },
-    {
-      "site": "JobGurus",
-      "id": "ac821ccf870e2181584fe4697309c985",
-      "timestamp": 1766846427275
-    },
-    {
-      "site": "JobGurus",
-      "id": "68d206b16cc88fbac3ea036888aea932",
-      "timestamp": 1766846427275
+      "id": "2fa38bff5024454b5c0fe8adab0ccf6a",
+      "timestamp": 1767620265256
     }
   ],
   "cornelli and mosh consults limited": [
@@ -9935,13 +9910,8 @@
   "bmillz nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "2b5c818f2784ed0907626fa0e2cc7cac",
-      "timestamp": 1763818126917
-    },
-    {
-      "site": "JobGurus",
-      "id": "df7ed22eea9f87d3593449a4a972ab5d",
-      "timestamp": 1763818126917
+      "id": "650158d01c6ac561abefe3ba318a1335",
+      "timestamp": 1767620265256
     }
   ],
   "inevent": [
@@ -24684,6 +24654,13 @@
       "site": "JobGurus",
       "id": "adb7adacb600dbb61b0f470e97388a7c",
       "timestamp": 1767458750090
+    }
+  ],
+  "beaumont luxe interiors": [
+    {
+      "site": "JobGurus",
+      "id": "decf76af408896e99fecd682411071bb",
+      "timestamp": 1767620265256
     }
   ]
 }
