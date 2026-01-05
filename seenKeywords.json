@@ -1164,6 +1164,11 @@
       "site": "JobGurus",
       "id": "08cfa3b4d88627bf9c7b073a063cd490",
       "timestamp": 1767627940723
+    },
+    {
+      "site": "JobGurus",
+      "id": "58dd560e18daea95c340b8b042510f47",
+      "timestamp": 1767630131708
     }
   ],
   "habaripay limited": [
@@ -5471,8 +5476,8 @@
   "ht-limited": [
     {
       "site": "JobGurus",
-      "id": "6ec91323179c72cd3a442b65b5ae5457",
-      "timestamp": 1761219397487
+      "id": "8cf1a277721ecfd1ca2c133e8c63e2fd",
+      "timestamp": 1767630131708
     }
   ],
   "elyon global shipping limited": [
@@ -13449,8 +13454,8 @@
   "talent towers": [
     {
       "site": "JobGurus",
-      "id": "4cf749b098d4528bd301e9f71df37267",
-      "timestamp": 1764170117561
+      "id": "be22217cacd580187d9196d049f3fd7b",
+      "timestamp": 1767630131708
     }
   ],
   "elizade nigeria limited": [
@@ -24710,6 +24715,18 @@
       "site": "JobGurus",
       "id": "e7915fdfd3f19c65f0128cf3293d72d1",
       "timestamp": 1767627940723
+    }
+  ],
+  "custom gifts & designs": [
+    {
+      "site": "JobGurus",
+      "id": "20ee29d92234f1be0887d789f2af3b2e",
+      "timestamp": 1767630131708
+    },
+    {
+      "site": "JobGurus",
+      "id": "2ba5bc901b37ecd7a601337ee1e9ef75",
+      "timestamp": 1767630131708
     }
   ]
 }
