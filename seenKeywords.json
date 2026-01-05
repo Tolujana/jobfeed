@@ -2358,13 +2358,8 @@
   "lily hospitals limited": [
     {
       "site": "JobGurus",
-      "id": "43e9036e8ac691013aef3d03a57c4903",
-      "timestamp": 1764153918387
-    },
-    {
-      "site": "JobGurus",
-      "id": "ea4b096eecdfd043c1039b30b54a2444",
-      "timestamp": 1764615388207
+      "id": "a8a4d9d1dd353f5fda9d8d8f75fad4ca",
+      "timestamp": 1767633543535
     }
   ],
   "federal polytechnic, bida.": [
@@ -12029,6 +12024,11 @@
       "site": "JobGurus",
       "id": "be26ecb86a9f174815d547724c8a2f6c",
       "timestamp": 1767626386301
+    },
+    {
+      "site": "JobGurus",
+      "id": "cc163d31da4a551f3d5150401b6da577",
+      "timestamp": 1767633543535
     }
   ],
   "kafu consult associates": [
@@ -24729,6 +24729,27 @@
       "site": "JobGurus",
       "id": "e63d440b3b8b340077a148a8d158f909",
       "timestamp": 1767631857771
+    }
+  ],
+  "beginners base": [
+    {
+      "site": "JobGurus",
+      "id": "4ebd52648d835b72bf3b85fa76336d51",
+      "timestamp": 1767633543535
+    }
+  ],
+  "fresh2go smoothie & co.": [
+    {
+      "site": "JobGurus",
+      "id": "975baa2a146ece50f73282bb83f0f2d4",
+      "timestamp": 1767633543535
+    }
+  ],
+  "salve consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "a21f51dfd51b0d3057d40cd5dba2fd8d",
+      "timestamp": 1767633543535
     }
   ]
 }
