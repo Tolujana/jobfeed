@@ -485,13 +485,8 @@
   "first excelsia professional services limited": [
     {
       "site": "JobGurus",
-      "id": "b051c05b9642509864083db28dc194f9",
-      "timestamp": 1765885138489
-    },
-    {
-      "site": "JobGurus",
-      "id": "a5c92b6df2fe1e8723d621ead386f255",
-      "timestamp": 1765885138489
+      "id": "190cd0eb676323728617daa98c38ca78",
+      "timestamp": 1767631857771
     }
   ],
   "universal human resource consult": [
@@ -3006,8 +3001,8 @@
   "domino stores limited": [
     {
       "site": "JobGurus",
-      "id": "6949d549547d21636b92cca89cc26127",
-      "timestamp": 1756750823756
+      "id": "7ec8e8a9ff78827e4bed40a6ddb8aa4f",
+      "timestamp": 1767631857771
     }
   ],
   "crescent rice mill limited": [
@@ -3309,13 +3304,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "9212a47c0d04a38d381ed3f79a801321",
-      "timestamp": 1766152234658
-    },
-    {
-      "site": "JobGurus",
-      "id": "5cbff9b8939a3e5b3dbd22705bee52d4",
-      "timestamp": 1766488514588
+      "id": "5a4f0d83ef3f07bab878669787c377cd",
+      "timestamp": 1767631857771
     }
   ],
   "abnl limited": [
@@ -9907,6 +9897,11 @@
       "site": "JobGurus",
       "id": "650158d01c6ac561abefe3ba318a1335",
       "timestamp": 1767620265256
+    },
+    {
+      "site": "JobGurus",
+      "id": "0b3d7064e9575cb1bfd0eaf75718fac6",
+      "timestamp": 1767631857771
     }
   ],
   "inevent": [
@@ -24727,6 +24722,13 @@
       "site": "JobGurus",
       "id": "2ba5bc901b37ecd7a601337ee1e9ef75",
       "timestamp": 1767630131708
+    }
+  ],
+  "jokeapart global techmedia limited": [
+    {
+      "site": "JobGurus",
+      "id": "e63d440b3b8b340077a148a8d158f909",
+      "timestamp": 1767631857771
     }
   ]
 }
