@@ -16691,8 +16691,13 @@
   "beaumont woods and furnitures": [
     {
       "site": "JobGurus",
-      "id": "19a2d412958ed279f391668b25a1bb1b",
-      "timestamp": 1759222004637
+      "id": "3777a45e0abbd105ebe41fcbc88d74b8",
+      "timestamp": 1767624591810
+    },
+    {
+      "site": "JobGurus",
+      "id": "db33622b2434155f8ff8e4109c16268d",
+      "timestamp": 1767624591810
     }
   ],
   "vaste finance": [
@@ -20441,6 +20446,16 @@
       "site": "JobGurus",
       "id": "82af391ab6d2c65c05ceb998496038bf",
       "timestamp": 1767622816404
+    },
+    {
+      "site": "JobGurus",
+      "id": "961acb24084c53cf781650919847d781",
+      "timestamp": 1767624591810
+    },
+    {
+      "site": "JobGurus",
+      "id": "9649a2566868cbb2c6a0580ffb3c5b7b",
+      "timestamp": 1767624591810
     }
   ],
   "global air u": [
@@ -24675,6 +24690,13 @@
       "site": "JobGurus",
       "id": "931a3f57145a67af38f0edd59753a7f2",
       "timestamp": 1767622816404
+    }
+  ],
+  "thyaura partners and concept limited": [
+    {
+      "site": "JobGurus",
+      "id": "d7cfc268edd05436eaf5d85f757aafea",
+      "timestamp": 1767624591810
     }
   ]
 }
