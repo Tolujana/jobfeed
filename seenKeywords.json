@@ -3297,6 +3297,11 @@
       "site": "JobGurus",
       "id": "ea29ff969e9fb14d2339c85fb447416f",
       "timestamp": 1767365023598
+    },
+    {
+      "site": "JobGurus",
+      "id": "80f368417654f95580bf1b49b9a236a8",
+      "timestamp": 1767640671629
     }
   ],
   "smartcity plc": [
@@ -18889,8 +18894,8 @@
   "tokiye integrated medical service": [
     {
       "site": "JobGurus",
-      "id": "63ce62218d61b87f371157de36ea87fe",
-      "timestamp": 1763472530714
+      "id": "7ddfa83962ad9f0f28d8dfe5125bd016",
+      "timestamp": 1767640671629
     }
   ],
   "d.i.k international limited": [
@@ -24784,6 +24789,20 @@
       "site": "JobGurus",
       "id": "65d598d5cdf56fcd916cd484fc3dfc9b",
       "timestamp": 1767637622512
+    }
+  ],
+  "esca sanitary": [
+    {
+      "site": "JobGurus",
+      "id": "05f2096d51a380018abe8d46ce8801b3",
+      "timestamp": 1767640671629
+    }
+  ],
+  "redeemer’s health village": [
+    {
+      "site": "JobGurus",
+      "id": "3175523ac90a79e6a1f74a8cb14367e5",
+      "timestamp": 1767640671629
     }
   ]
 }
