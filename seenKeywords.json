@@ -3514,8 +3514,8 @@
   "evas security corps & equipment limited": [
     {
       "site": "JobGurus",
-      "id": "61e27f3e68277712d76e4deb2ba36280",
-      "timestamp": 1750166953881
+      "id": "b06349bc543c413b2f04922710943697",
+      "timestamp": 1767712703357
     }
   ],
   "glovo nigeria": [
@@ -24878,6 +24878,11 @@
       "site": "JobGurus",
       "id": "8d9182ea7ddc960a7e471a5a4d9eb130",
       "timestamp": 1767710854962
+    },
+    {
+      "site": "JobGurus",
+      "id": "57a0b63a15f38ac2917945810fd66f0e",
+      "timestamp": 1767712703357
     }
   ]
 }
