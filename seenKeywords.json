@@ -10876,8 +10876,8 @@
   "asa security": [
     {
       "site": "JobGurus",
-      "id": "474a3eac4f8abc90a1ff821e692b0f2b",
-      "timestamp": 1754387341741
+      "id": "40865e208c537486d598ce67a9f7bdbe",
+      "timestamp": 1767714266825
     }
   ],
   "japan tobacco international (jti)": [
@@ -24883,6 +24883,13 @@
       "site": "JobGurus",
       "id": "57a0b63a15f38ac2917945810fd66f0e",
       "timestamp": 1767712703357
+    }
+  ],
+  "amyblooms nutri-land": [
+    {
+      "site": "JobGurus",
+      "id": "f42883772df824808830165febaf9f4b",
+      "timestamp": 1767714266825
     }
   ]
 }
