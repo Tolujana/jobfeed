@@ -1136,8 +1136,13 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "8eabfda8e6d4c09f872fbeb3c02bb200",
-      "timestamp": 1766142904527
+      "id": "4dae28ee0ce6d3ff37514350f74fe2bc",
+      "timestamp": 1767696505537
+    },
+    {
+      "site": "JobGurus",
+      "id": "54b46312d891af59a2a0809acad6fc51",
+      "timestamp": 1767696505537
     }
   ],
   "elizabeth maddeux limited": [
@@ -2094,8 +2099,8 @@
   "krystal digital solutions limited": [
     {
       "site": "JobGurus",
-      "id": "4e0c1f256027f6be8a6c5098a85144eb",
-      "timestamp": 1765280291418
+      "id": "a4e4974bbb24da606718a47f2abb6097",
+      "timestamp": 1767696505537
     }
   ],
   "traydah global resources limited": [
@@ -3126,8 +3131,8 @@
   "lendha": [
     {
       "site": "JobGurus",
-      "id": "0e02872c918831c91bd46ebf7677426e",
-      "timestamp": 1750069062307
+      "id": "bdef88da4422a65256918d20c76c1fbc",
+      "timestamp": 1767696505537
     }
   ],
   "springfield agro limited": [
@@ -24827,6 +24832,13 @@
       "site": "JobGurus",
       "id": "f691ca871d480b231a2a9c4888740e51",
       "timestamp": 1767694755427
+    }
+  ],
+  "norrenberger asset management limited": [
+    {
+      "site": "JobGurus",
+      "id": "4010757c00e24f9fc12dd1dd7e8081a7",
+      "timestamp": 1767696505537
     }
   ]
 }
