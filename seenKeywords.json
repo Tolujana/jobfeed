@@ -17,18 +17,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "25a95ca6b9a8bc982868ac8b318e49dd",
-      "timestamp": 1766744270436
-    },
-    {
-      "site": "JobGurus",
-      "id": "1a0870ab9cb8200aac88036833afa71a",
-      "timestamp": 1766744270436
-    },
-    {
-      "site": "JobGurus",
-      "id": "44d3ef758ed564123f93188ab9fdddd7",
-      "timestamp": 1766745856425
+      "id": "a0a5e4a15d57b7e0b7f8da6278067962",
+      "timestamp": 1767709118745
     }
   ],
   "amecron nigeria limited": [
@@ -1767,13 +1757,8 @@
   "hec recruit": [
     {
       "site": "JobGurus",
-      "id": "418a0b10e5834eb1dc4a919eb25d4f49",
-      "timestamp": 1765470257561
-    },
-    {
-      "site": "JobGurus",
-      "id": "520a8f451471f8c7c268cb329a604d40",
-      "timestamp": 1765470257561
+      "id": "df347be53203e2e908a82dd50b543143",
+      "timestamp": 1767709118745
     }
   ],
   "wendernek consulting limited": [
@@ -4219,8 +4204,8 @@
   "saywheels auto": [
     {
       "site": "JobGurus",
-      "id": "f1c6d5fc2e2fdd85003754651e02e362",
-      "timestamp": 1760613205851
+      "id": "61314b8a26a625a1302832d4fe117808",
+      "timestamp": 1767709118745
     }
   ],
   "timeless telecoms": [
@@ -7103,8 +7088,8 @@
   "gabs cooperative": [
     {
       "site": "JobGurus",
-      "id": "5e8063dbc922c4108524969686d21271",
-      "timestamp": 1758014189594
+      "id": "c2ec68e7419f194024604a55dbe1a074",
+      "timestamp": 1767709118745
     }
   ],
   "oracle": [
@@ -24862,6 +24847,11 @@
       "site": "JobGurus",
       "id": "9cd2c5f09418f9862b8e886758c73311",
       "timestamp": 1767706465484
+    },
+    {
+      "site": "JobGurus",
+      "id": "70885589fc0678168e87e2c06be685df",
+      "timestamp": 1767709118745
     }
   ]
 }
