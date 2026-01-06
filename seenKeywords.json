@@ -5140,23 +5140,13 @@
   "brands optimal limited": [
     {
       "site": "JobGurus",
-      "id": "14bcc16262e619635aec8c514a5c16b8",
-      "timestamp": 1766053188210
+      "id": "31e65b542ccbb37dc740dce74f6a1952",
+      "timestamp": 1767698137032
     },
     {
       "site": "JobGurus",
-      "id": "963e2138c86fe6ff908a9232f705518f",
-      "timestamp": 1766054786147
-    },
-    {
-      "site": "JobGurus",
-      "id": "cf4f6729c555b4a7cef1252355819e2b",
-      "timestamp": 1766496783549
-    },
-    {
-      "site": "JobGurus",
-      "id": "b2f21341414b676d6fc7a65f49aa8957",
-      "timestamp": 1766504557969
+      "id": "8cdb6632ba28f182f507145e0bfe6323",
+      "timestamp": 1767698137032
     }
   ],
   "max drive": [
@@ -19040,8 +19030,8 @@
   "consol limited": [
     {
       "site": "JobGurus",
-      "id": "a5f779e227932791cbfdc9aefc4d615a",
-      "timestamp": 1765212638063
+      "id": "b406fb33041dc74027b64c1ba8403a0c",
+      "timestamp": 1767698137032
     }
   ],
   "seedbuilders innovation hub": [
@@ -24839,6 +24829,20 @@
       "site": "JobGurus",
       "id": "4010757c00e24f9fc12dd1dd7e8081a7",
       "timestamp": 1767696505537
+    }
+  ],
+  "estacy travels": [
+    {
+      "site": "JobGurus",
+      "id": "a14061fe204c01773fa9058cfe30f5db",
+      "timestamp": 1767698137032
+    }
+  ],
+  "fmg platform": [
+    {
+      "site": "JobGurus",
+      "id": "59c435888ff1290a46d24dd7b19906c9",
+      "timestamp": 1767698137032
     }
   ]
 }
