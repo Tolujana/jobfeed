@@ -1484,8 +1484,8 @@
   "fairmoney": [
     {
       "site": "JobGurus",
-      "id": "8eda376eba33c44cad40d55a42abca5b",
-      "timestamp": 1758795375962
+      "id": "db5d3eb30f02e0d1f6913eff0452a823",
+      "timestamp": 1767784597411
     }
   ],
   "starich recycling technology limited": [
@@ -3589,8 +3589,8 @@
   "layer3": [
     {
       "site": "JobGurus",
-      "id": "99674b7c177d607f751ccb1ed4c335fd",
-      "timestamp": 1764755061183
+      "id": "d702fec59dc96bf9a6dd907586fc261d",
+      "timestamp": 1767784597411
     }
   ],
   "runola nigeria limited": [
@@ -16368,8 +16368,8 @@
   "olam sanyo foods limited": [
     {
       "site": "JobGurus",
-      "id": "7610a33262594f3526679e34694549b8",
-      "timestamp": 1758893051740
+      "id": "e403aa9f6ababfc69023409edef5d848",
+      "timestamp": 1767784597411
     }
   ],
   "weston-charis microfinance bank": [
@@ -16800,8 +16800,8 @@
   "ojatee consulting": [
     {
       "site": "JobGurus",
-      "id": "bcb49d0e9a0aad936d3c198f289638d3",
-      "timestamp": 1759252394474
+      "id": "f4d24c36880dd220cfd56146230a0195",
+      "timestamp": 1767784597411
     }
   ],
   "internopay": [
@@ -24882,6 +24882,13 @@
       "site": "JobGurus",
       "id": "b6f20cb7bfb2e51f051f7945a9529c96",
       "timestamp": 1767782871852
+    }
+  ],
+  "lenco": [
+    {
+      "site": "JobGurus",
+      "id": "2232e48a990aad81cbe230c121e7035e",
+      "timestamp": 1767784597411
     }
   ]
 }
