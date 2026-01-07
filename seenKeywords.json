@@ -1995,8 +1995,8 @@
   "sterling health hmo": [
     {
       "site": "JobGurus",
-      "id": "e5bcd01c686e1adab69240a457b034fc",
-      "timestamp": 1764004538492
+      "id": "1b7bd2f9630e7a86bd7e64bc62099bab",
+      "timestamp": 1767789447384
     }
   ],
   "candel fze": [
@@ -6659,8 +6659,8 @@
   "jibs-ray nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "ec9090ca063b751feca2438eeceef692",
-      "timestamp": 1765277221351
+      "id": "33c5d64d6a4a2d27928317661b0693dc",
+      "timestamp": 1767789447384
     }
   ],
   "vector cube outsourcing limited": [
@@ -24884,6 +24884,20 @@
       "site": "JobGurus",
       "id": "2232e48a990aad81cbe230c121e7035e",
       "timestamp": 1767784597411
+    }
+  ],
+  " neovarsity africa": [
+    {
+      "site": "JobGurus",
+      "id": "2a46abd8dc9c70ed2fa2bd3cbebddde1",
+      "timestamp": 1767789447384
+    }
+  ],
+  "charles ardor & company": [
+    {
+      "site": "JobGurus",
+      "id": "fef742d6883a35036a403ff7698af586",
+      "timestamp": 1767789447384
     }
   ]
 }
