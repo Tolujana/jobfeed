@@ -5112,8 +5112,8 @@
   "max drive": [
     {
       "site": "JobGurus",
-      "id": "d817752b893087788205eee36e8fb706",
-      "timestamp": 1765970174790
+      "id": "c1ded5951cfefeb088446bfc3c958bc1",
+      "timestamp": 1767867610851
     }
   ],
   "opay": [
@@ -5668,13 +5668,8 @@
   "olam agri": [
     {
       "site": "JobGurus",
-      "id": "c2303a503b33098e3efc89b3fad82e05",
-      "timestamp": 1766229171862
-    },
-    {
-      "site": "JobGurus",
-      "id": "f93a6115cd4ce47dc525f441c2fe83f0",
-      "timestamp": 1766418175793
+      "id": "6da17cd95d34d88b65578ff0c2f88731",
+      "timestamp": 1767867610851
     }
   ],
   "oneland africa": [
@@ -18493,13 +18488,8 @@
   "avocado virtual solutions": [
     {
       "site": "JobGurus",
-      "id": "b8418117d061821cdfd20456552430d2",
-      "timestamp": 1767184480887
-    },
-    {
-      "site": "JobGurus",
-      "id": "9b668ddd0848305f9c26eb38a7dc01c5",
-      "timestamp": 1767187797424
+      "id": "0fb7abc7e7f3a81b5be5aa8eeeedec79",
+      "timestamp": 1767867610851
     }
   ],
   "krishat pharma industries limited": [
@@ -24897,6 +24887,13 @@
       "site": "JobGurus",
       "id": "53c8059e1ba2ebbffd7f735762aecdda",
       "timestamp": 1767795604888
+    }
+  ],
+  "cecure intelligence limited": [
+    {
+      "site": "JobGurus",
+      "id": "94eccefc04fa83ffb2e40bda3501f314",
+      "timestamp": 1767867610851
     }
   ]
 }
