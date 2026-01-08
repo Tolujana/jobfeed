@@ -11262,13 +11262,13 @@
   "hogan guards limited": [
     {
       "site": "JobGurus",
-      "id": "fa159fd777765594a37c9749647ae3aa",
-      "timestamp": 1754573853119
+      "id": "a4ae2fa70e4beea239e82c6489aa5d71",
+      "timestamp": 1767871037691
     },
     {
       "site": "JobGurus",
-      "id": "060db61f8f6e1edc92fddf98ed62932f",
-      "timestamp": 1754573853119
+      "id": "21e0a82e3c08cb06ec70fb49b8e98c08",
+      "timestamp": 1767871037691
     }
   ],
   "slvr wlf digitale limited": [
@@ -19462,8 +19462,8 @@
   "basscomm nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "c00569fcc9dce920c54e80f42087aab6",
-      "timestamp": 1761582003465
+      "id": "ed34e0f0d780aeba775fa8e40516cb53",
+      "timestamp": 1767871037691
     }
   ],
   "lovebeams educational centre": [
@@ -24911,6 +24911,20 @@
       "site": "JobGurus",
       "id": "c56abe8ece407e4383798c15010f5f77",
       "timestamp": 1767869336740
+    }
+  ],
+  "international alert": [
+    {
+      "site": "JobGurus",
+      "id": "75dd27810a636277d27fb7961c00946c",
+      "timestamp": 1767871037691
+    }
+  ],
+  "midela luxury homes limited": [
+    {
+      "site": "JobGurus",
+      "id": "bf974104eb41a8f96a18a1f324fce5fd",
+      "timestamp": 1767871037691
     }
   ]
 }
