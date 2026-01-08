@@ -701,8 +701,8 @@
   "salpha energy limited": [
     {
       "site": "JobGurus",
-      "id": "c0d000828e03dff0c79be4925cbde75b",
-      "timestamp": 1758143544669
+      "id": "422c92f20de7c5f69f9e6da69f69ef1e",
+      "timestamp": 1767875840493
     }
   ],
   "greensprings school": [
@@ -9384,13 +9384,8 @@
   "pc place nigeria": [
     {
       "site": "JobGurus",
-      "id": "bce82dcc67b68439f67e24ebe303a4dc",
-      "timestamp": 1766938789668
-    },
-    {
-      "site": "JobGurus",
-      "id": "aea26597522b7fafe4e95b4dcc8016d2",
-      "timestamp": 1767184480887
+      "id": "4dd0babf60670bb968bb412d1eef78ff",
+      "timestamp": 1767875840493
     }
   ],
   "source microfinance bank": [
@@ -12161,8 +12156,8 @@
   "welcome u shopping centre": [
     {
       "site": "JobGurus",
-      "id": "11cfa1757153647d84bffa1fa3edbcf4",
-      "timestamp": 1762355802597
+      "id": "380bc52aea14b6cbcad78e2d597d2379",
+      "timestamp": 1767875840493
     }
   ],
   "skipper eye-q super speciality eye hospital": [
@@ -19674,8 +19669,8 @@
   "russelsmith nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "e738def6b8e82a86ac21852132da65ed",
-      "timestamp": 1761744589323
+      "id": "8ecb7a70a327ec560e856fb1928095de",
+      "timestamp": 1767875840493
     }
   ],
   "bwosh": [
@@ -24945,6 +24940,13 @@
       "site": "JobGurus",
       "id": "bf974104eb41a8f96a18a1f324fce5fd",
       "timestamp": 1767871037691
+    }
+  ],
+  "the nigerian army": [
+    {
+      "site": "JobGurus",
+      "id": "97185529b7a3417b90912e08db64c6f7",
+      "timestamp": 1767875840493
     }
   ]
 }
