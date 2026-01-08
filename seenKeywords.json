@@ -715,8 +715,8 @@
   "equinix": [
     {
       "site": "JobGurus",
-      "id": "b214c4d2c35d53a765f5350dc541d4a0",
-      "timestamp": 1765468000692
+      "id": "b0fd37595a0cfe46a285d8f60ff534c4",
+      "timestamp": 1767869336740
     }
   ],
   "premier hub innovation center": [
@@ -15211,6 +15211,11 @@
       "site": "JobGurus",
       "id": "97e46f9652d36532ef32e835ac022df7",
       "timestamp": 1767365023598
+    },
+    {
+      "site": "JobGurus",
+      "id": "00f3a41a5e9761beb01f80097bda4385",
+      "timestamp": 1767869336740
     }
   ],
   "greenswealth corporate services limited": [
@@ -16097,8 +16102,8 @@
   "pricewaterhousecoopers": [
     {
       "site": "JobGurus",
-      "id": "48cce2337caeecdc2147015c4d4ddc18",
-      "timestamp": 1758726918870
+      "id": "6f3ae493e2ef0047368e065e71dc9c88",
+      "timestamp": 1767869336740
     }
   ],
   "dynambyte solar energy": [
@@ -24560,6 +24565,11 @@
       "site": "JobGurus",
       "id": "e5d567c829690271c8ffd0cdc9dcc283",
       "timestamp": 1767431790126
+    },
+    {
+      "site": "JobGurus",
+      "id": "172c92a5719d3d3259c1867e61e1a471",
+      "timestamp": 1767869336740
     }
   ],
   "smartflow technologies limited": [
@@ -24894,6 +24904,13 @@
       "site": "JobGurus",
       "id": "94eccefc04fa83ffb2e40bda3501f314",
       "timestamp": 1767867610851
+    }
+  ],
+  "people2profit nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "c56abe8ece407e4383798c15010f5f77",
+      "timestamp": 1767869336740
     }
   ]
 }
