@@ -9555,8 +9555,8 @@
   "growth partner intermediaries limited": [
     {
       "site": "JobGurus",
-      "id": "ae877fec80fbfd53f45e2b7e89802049",
-      "timestamp": 1761053418007
+      "id": "9084f5129033f8d43e01369f984c147e",
+      "timestamp": 1767979196468
     }
   ],
   "union maritime": [
@@ -17597,8 +17597,8 @@
   "team manager": [
     {
       "site": "JobGurus",
-      "id": "344d701728272ec2eae3bcabccb13093",
-      "timestamp": 1759848156892
+      "id": "38a1a5195946953de525c2d7f772187e",
+      "timestamp": 1767979196468
     }
   ],
   "blaque swann brand": [
@@ -22090,6 +22090,11 @@
       "site": "JobGurus",
       "id": "c6fc963c612f1cda5070c5341c6417a0",
       "timestamp": 1767971964623
+    },
+    {
+      "site": "JobGurus",
+      "id": "8bfff22e76c029cf43358eb2f534d5b7",
+      "timestamp": 1767979196468
     }
   ],
   "strengths africa limited": [
@@ -25088,6 +25093,11 @@
       "site": "JobGurus",
       "id": "b54b56a76013a861413cbb58d13d0614",
       "timestamp": 1767975709627
+    },
+    {
+      "site": "JobGurus",
+      "id": "289854691a5152bc4ca28933e3d30ef3",
+      "timestamp": 1767979196468
     }
   ],
   "owens & xley consults": [
@@ -25102,6 +25112,13 @@
       "site": "JobGurus",
       "id": "58e57a5057a9b48f0ca88048b2d3b5e6",
       "timestamp": 1767977541893
+    }
+  ],
+  "polo - cico farms and estate limited": [
+    {
+      "site": "JobGurus",
+      "id": "258d81445217914866fa0a24274a0e69",
+      "timestamp": 1767979196468
     }
   ]
 }
