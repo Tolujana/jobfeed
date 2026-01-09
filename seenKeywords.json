@@ -4855,6 +4855,11 @@
       "site": "JobGurus",
       "id": "3cdbbbfbb9ec95ce73e5a14e330c528c",
       "timestamp": 1767957356842
+    },
+    {
+      "site": "JobGurus",
+      "id": "f31a5c010b84cbf870ca9e59ec1457af",
+      "timestamp": 1767971964623
     }
   ],
   "amy consulting": [
@@ -16862,23 +16867,8 @@
   "west african ceramics limited": [
     {
       "site": "JobGurus",
-      "id": "4d3a4a4dc600b7d062939984a8782532",
-      "timestamp": 1759317195999
-    },
-    {
-      "site": "JobGurus",
-      "id": "130061dece0d82fea6508b1add374b82",
-      "timestamp": 1759321990341
-    },
-    {
-      "site": "JobGurus",
-      "id": "d5c5ad20fb25decfbd8f40e0e06e562d",
-      "timestamp": 1759321990341
-    },
-    {
-      "site": "JobGurus",
-      "id": "13f95b2e35fe75f5d77be0ac79604b2e",
-      "timestamp": 1759770840557
+      "id": "d8365309b4f595caaf5d7622bcb6c656",
+      "timestamp": 1767971964623
     }
   ],
   "ginos ventures limited": [
@@ -22088,13 +22078,13 @@
   "watolex crown integrated service": [
     {
       "site": "JobGurus",
-      "id": "5f91891032a449ec7aa29ac4f7e739c1",
-      "timestamp": 1764077445549
+      "id": "fe7914513f7189aa14629035644df03a",
+      "timestamp": 1767971964623
     },
     {
       "site": "JobGurus",
-      "id": "fc605548502cc55c115d570b5c5fc450",
-      "timestamp": 1764077445549
+      "id": "c6fc963c612f1cda5070c5341c6417a0",
+      "timestamp": 1767971964623
     }
   ],
   "strengths africa limited": [
@@ -25038,6 +25028,13 @@
       "site": "JobGurus",
       "id": "67d683f180d380ecd9d8026a2236b393",
       "timestamp": 1767958765392
+    }
+  ],
+  "hrchi consulting": [
+    {
+      "site": "JobGurus",
+      "id": "7a5c8104cc6cf32f2463ab54710deb24",
+      "timestamp": 1767971964623
     }
   ]
 }
