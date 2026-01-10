@@ -11240,8 +11240,8 @@
   "citi residence": [
     {
       "site": "JobGurus",
-      "id": "7e7a827c28235648c54d7b04d3b0119c",
-      "timestamp": 1764350012206
+      "id": "c5d34e46c905165bf3cda83eb6bbe25f",
+      "timestamp": 1768051557733
     }
   ],
   "abl group": [
@@ -12150,8 +12150,8 @@
   "yassir": [
     {
       "site": "JobGurus",
-      "id": "c3e5ee0504cc556798d6dc8ced517202",
-      "timestamp": 1760721191742
+      "id": "15f7e01bdb4a30d8ab3543b97df166ed",
+      "timestamp": 1768051557733
     }
   ],
   "itex integrated services limited": [
@@ -25189,6 +25189,27 @@
       "site": "JobGurus",
       "id": "6006090640883b48d36a506efad39e4a",
       "timestamp": 1768048329196
+    }
+  ],
+  "kaaf specialist hospital": [
+    {
+      "site": "JobGurus",
+      "id": "757736942cd849c820c9a815e1ccd436",
+      "timestamp": 1768051557733
+    }
+  ],
+  "norwegian church aid (nca)": [
+    {
+      "site": "JobGurus",
+      "id": "dc000a1b3233b940d86fa4d5c27c3750",
+      "timestamp": 1768051557733
+    }
+  ],
+  "felton energy services limited (fesl)": [
+    {
+      "site": "JobGurus",
+      "id": "314f6f90938193c275444e6ffc16c2e0",
+      "timestamp": 1768051557733
     }
   ]
 }
