@@ -34,6 +34,11 @@
       "site": "JobGurus",
       "id": "0e018e24d7a3cb2f56f7b4355bf565f3",
       "timestamp": 1768242432351
+    },
+    {
+      "site": "JobGurus",
+      "id": "fff26d18d267ce34a1bb5f49ed4ef41e",
+      "timestamp": 1768245560971
     }
   ],
   "amecron nigeria limited": [
@@ -992,8 +997,8 @@
   "workforce group": [
     {
       "site": "JobGurus",
-      "id": "22889d9253c67ee1bfd552c9827cbe29",
-      "timestamp": 1765548981670
+      "id": "57d738aa0b6aa1f62c14e035b19eb058",
+      "timestamp": 1768245560971
     }
   ],
   "zenith carex international limited": [
@@ -8025,8 +8030,8 @@
   "snapnet limited": [
     {
       "site": "JobGurus",
-      "id": "4cd512166bbbb346a97b62ad4bf98793",
-      "timestamp": 1757604994542
+      "id": "f79cc80deb35759abf16d9aaf19c64a8",
+      "timestamp": 1768245560971
     }
   ],
   "bluenix paint manufacturing limited": [
@@ -17799,8 +17804,8 @@
   "lead enterprise support company limited": [
     {
       "site": "JobGurus",
-      "id": "c9e0d51daf3a379101e397a79070aefc",
-      "timestamp": 1762523000249
+      "id": "2bc897cfc72d2997b961da12668cce2a",
+      "timestamp": 1768245560971
     }
   ],
   "el-shaddai covenant ministries": [
@@ -25240,6 +25245,13 @@
       "site": "JobGurus",
       "id": "524077f32a4cdc9258c0bde5ee666fb4",
       "timestamp": 1768244169534
+    }
+  ],
+  "media style concept": [
+    {
+      "site": "JobGurus",
+      "id": "2aae2e6a4f82769c7860cf36881dcdec",
+      "timestamp": 1768245560971
     }
   ]
 }
