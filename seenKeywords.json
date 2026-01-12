@@ -6875,8 +6875,8 @@
   "uncle stan's foods": [
     {
       "site": "JobGurus",
-      "id": "1667ef950c7c3270af315c0636aa6635",
-      "timestamp": 1765278943019
+      "id": "cfe3d872bf60ea84adcac90e9d34bb30",
+      "timestamp": 1768244169534
     }
   ],
   "mn global ventures": [
@@ -8726,13 +8726,8 @@
   "xpedient services": [
     {
       "site": "JobGurus",
-      "id": "d58d2c7bf10f2d87c788baa38f27c347",
-      "timestamp": 1761230606886
-    },
-    {
-      "site": "JobGurus",
-      "id": "b4f17fc325eaafb2e8ed73543e04378d",
-      "timestamp": 1761762213234
+      "id": "d085cbd4db5dbfd4155d84882ea9a31b",
+      "timestamp": 1768244169534
     }
   ],
   "la campagne tropicana beach resort": [
@@ -18314,8 +18309,8 @@
   "ralds & agate (r&a)": [
     {
       "site": "JobGurus",
-      "id": "126ff6fb08762a7be199b7d9d72207b6",
-      "timestamp": 1761585218400
+      "id": "29255011f7fcee395f98d4a4a0b9bd8a",
+      "timestamp": 1768244169534
     }
   ],
   "puff and glaze limited": [
@@ -25231,6 +25226,20 @@
       "site": "JobGurus",
       "id": "2a3a36c0a7ae8681cdf55be1b8694914",
       "timestamp": 1768242432351
+    }
+  ],
+  "e-doc": [
+    {
+      "site": "JobGurus",
+      "id": "574d2db8070a0808dcca12282715668a",
+      "timestamp": 1768244169534
+    }
+  ],
+  "nxg-hub digital technologies ltd": [
+    {
+      "site": "JobGurus",
+      "id": "524077f32a4cdc9258c0bde5ee666fb4",
+      "timestamp": 1768244169534
     }
   ]
 }
