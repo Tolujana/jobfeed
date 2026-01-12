@@ -2460,6 +2460,11 @@
       "site": "JobGurus",
       "id": "47191c5f6aaa2151ade05bf75d17f15f",
       "timestamp": 1768227683813
+    },
+    {
+      "site": "JobGurus",
+      "id": "909bd7807cafd57229d4a32c9c7ebf96",
+      "timestamp": 1768236759720
     }
   ],
   "medbury pharmaceuticals": [
@@ -2769,8 +2774,8 @@
   "netcom africa": [
     {
       "site": "JobGurus",
-      "id": "926113fb6ec28e6d55ba8ad52fc5b936",
-      "timestamp": 1749814652019
+      "id": "5f0fa3381b1e442fd1487dc53a1b44e8",
+      "timestamp": 1768236759720
     }
   ],
   "camelot ballrooms": [
@@ -4891,8 +4896,8 @@
   "cormart nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "56b188ddebd8586ab2ab448a1455683b",
-      "timestamp": 1750705954046
+      "id": "6de27d109fef01ba043f3110ff183b93",
+      "timestamp": 1768236759720
     }
   ],
   "pc planet limited": [
@@ -19996,8 +20001,8 @@
   "perfection motors": [
     {
       "site": "JobGurus",
-      "id": "1aaa2f5e63da02956ce02c40add0384a",
-      "timestamp": 1761934977974
+      "id": "df7c1927d097f271271d6659e8c1aa6f",
+      "timestamp": 1768236759720
     }
   ],
   "primeguage solutions limited": [
@@ -25210,6 +25215,13 @@
       "site": "JobGurus",
       "id": "303c455c20aaa107593f2feb4ddb6569",
       "timestamp": 1768232933214
+    }
+  ],
+  "ftb talents": [
+    {
+      "site": "JobGurus",
+      "id": "215885ecbe861f555eec5f97324a28c9",
+      "timestamp": 1768236759720
     }
   ]
 }
