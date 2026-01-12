@@ -6430,8 +6430,8 @@
   "myafrimall logistics limited": [
     {
       "site": "JobGurus",
-      "id": "efffda1141251ce10e60ec92a8547604",
-      "timestamp": 1754734543834
+      "id": "e94b469932ff3212ce53708ffec297c9",
+      "timestamp": 1768238406723
     }
   ],
   "chellarams nigeria plc": [
@@ -25222,6 +25222,13 @@
       "site": "JobGurus",
       "id": "215885ecbe861f555eec5f97324a28c9",
       "timestamp": 1768236759720
+    }
+  ],
+  "nuturapimp": [
+    {
+      "site": "JobGurus",
+      "id": "5a354d7d97e6f754f1a2459f89e28579",
+      "timestamp": 1768238406723
     }
   ]
 }
