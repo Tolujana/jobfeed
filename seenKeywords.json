@@ -8032,6 +8032,11 @@
       "site": "JobGurus",
       "id": "f79cc80deb35759abf16d9aaf19c64a8",
       "timestamp": 1768245560971
+    },
+    {
+      "site": "JobGurus",
+      "id": "1665521936b1dd8e11fd290b307546f8",
+      "timestamp": 1768246780738
     }
   ],
   "bluenix paint manufacturing limited": [
@@ -10042,8 +10047,8 @@
   "sims nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "d5d1b55947eb0d0a78cf2f824f57c1c5",
-      "timestamp": 1766853932992
+      "id": "11de0074ada8e5fdad9f1aab6a190bb9",
+      "timestamp": 1768246780738
     }
   ],
   "talent lab limited": [
@@ -25231,6 +25236,11 @@
       "site": "JobGurus",
       "id": "2a3a36c0a7ae8681cdf55be1b8694914",
       "timestamp": 1768242432351
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7b9f86095b89e55920c006e34889208",
+      "timestamp": 1768246780738
     }
   ],
   "e-doc": [
@@ -25252,6 +25262,13 @@
       "site": "JobGurus",
       "id": "2aae2e6a4f82769c7860cf36881dcdec",
       "timestamp": 1768245560971
+    }
+  ],
+  "mediastyle concept": [
+    {
+      "site": "JobGurus",
+      "id": "db868d96837b2371c0f16fe7d207f294",
+      "timestamp": 1768246780738
     }
   ]
 }
