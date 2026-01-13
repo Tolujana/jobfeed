@@ -875,8 +875,8 @@
   "boctrust microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "2ec78b2cf5ed8105978589da6a9924ec",
-      "timestamp": 1749052478703
+      "id": "078d1e39c9848424e27107ea6b35ec9e",
+      "timestamp": 1768314067527
     }
   ],
   "zigma limited": [
@@ -2767,8 +2767,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "6299a179a37eb4c4ab98c284c22e9a48",
-      "timestamp": 1766406916413
+      "id": "3024b194d2e827577bacb3a1e8d3ddb5",
+      "timestamp": 1768314067527
     }
   ],
   "netcom africa": [
@@ -18863,8 +18863,13 @@
   "carlcare development nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "96307ac8720d0dc487e538918326682d",
-      "timestamp": 1761054692665
+      "id": "c2b7e0383c4c88a252e72cf3b4ffb6e9",
+      "timestamp": 1768314067527
+    },
+    {
+      "site": "JobGurus",
+      "id": "4be0615b22ea289daefc335ccea14423",
+      "timestamp": 1768314067527
     }
   ],
   "chi life assurance limited": [
@@ -25254,6 +25259,13 @@
       "site": "JobGurus",
       "id": "db868d96837b2371c0f16fe7d207f294",
       "timestamp": 1768246780738
+    }
+  ],
+  "musada hotels and luxury suites": [
+    {
+      "site": "JobGurus",
+      "id": "7287b4649e703d372b52a8af7556dcb7",
+      "timestamp": 1768314067527
     }
   ]
 }
