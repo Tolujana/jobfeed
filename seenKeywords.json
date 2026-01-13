@@ -10059,6 +10059,11 @@
       "site": "JobGurus",
       "id": "11de0074ada8e5fdad9f1aab6a190bb9",
       "timestamp": 1768246780738
+    },
+    {
+      "site": "JobGurus",
+      "id": "f88236ebccece058b5111a39e42060f2",
+      "timestamp": 1768317642344
     }
   ],
   "talent lab limited": [
@@ -25276,6 +25281,34 @@
       "site": "JobGurus",
       "id": "7287b4649e703d372b52a8af7556dcb7",
       "timestamp": 1768314067527
+    }
+  ],
+  "wherelse.ng nigieria limited": [
+    {
+      "site": "JobGurus",
+      "id": "9dfc042c51d06908ebef23e7f03a8eb0",
+      "timestamp": 1768317642344
+    }
+  ],
+  "sonia foods industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "ca40779f4f1f521d43e5182d6ff72843",
+      "timestamp": 1768317642344
+    }
+  ],
+  "afari travels & tours limited": [
+    {
+      "site": "JobGurus",
+      "id": "b2715497b62df056e8c3005e7781ce91",
+      "timestamp": 1768317642344
+    }
+  ],
+  "ers nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "ab1e21c25f54d33d24e996f774c1e7bb",
+      "timestamp": 1768317642344
     }
   ]
 }
