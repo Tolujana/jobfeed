@@ -23071,6 +23071,11 @@
       "site": "JobGurus",
       "id": "6a897eb8922db8a03f2cfaadbfcccaab",
       "timestamp": 1768390927958
+    },
+    {
+      "site": "JobGurus",
+      "id": "a10e11e9986ab5f2007fdfa7ae71d023",
+      "timestamp": 1768397832148
     }
   ],
   "al-ihsan oil & gas nigeria limited": [
@@ -25384,6 +25389,25 @@
       "site": "JobGurus",
       "id": "e8a9c870b097cfc9c4d719c2387f5fbc",
       "timestamp": 1768394258715
+    }
+  ],
+  "ocean deep drilling esv nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "ecd42d4fd3530542e7c179e0244fb749",
+      "timestamp": 1768397832148
+    }
+  ],
+  "mainland group limited": [
+    {
+      "site": "JobGurus",
+      "id": "e4abef8c702cb8bee8721513651c03b0",
+      "timestamp": 1768397832148
+    },
+    {
+      "site": "JobGurus",
+      "id": "c07b64b80a9d573bbffc4cbc7b5e57c0",
+      "timestamp": 1768397832148
     }
   ]
 }
