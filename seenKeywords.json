@@ -923,8 +923,8 @@
   "mephalti technologies limited": [
     {
       "site": "JobGurus",
-      "id": "f1467a45b7db0ac74e5622da6518652b",
-      "timestamp": 1749118659769
+      "id": "75f77cca164d0099aedd854f528a4b95",
+      "timestamp": 1768404077489
     }
   ],
   "pause factory resources limited": [
@@ -1970,6 +1970,11 @@
       "site": "JobGurus",
       "id": "6484726261fb3159ce1a453605bbc104",
       "timestamp": 1768400473522
+    },
+    {
+      "site": "JobGurus",
+      "id": "c95cf0de8095358bdfc19cd420c53da3",
+      "timestamp": 1768404077489
     }
   ],
   "across global travels & tours limited": [
@@ -2962,8 +2967,8 @@
   "eko maintenance limited": [
     {
       "site": "JobGurus",
-      "id": "efef5d14f8314ee50e79819aa0ce2edc",
-      "timestamp": 1767367072396
+      "id": "d8ce9e9470b6cfe0cc8c56e4428e9087",
+      "timestamp": 1768404077489
     }
   ],
   "hellofresh fast food": [
@@ -21503,8 +21508,8 @@
   "crossover microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "fd61a4258688df8a3a0020973a2a2b85",
-      "timestamp": 1763484622608
+      "id": "3b1d1060809a91c9834419409b0ef05f",
+      "timestamp": 1768404077489
     }
   ],
   "laborhack": [
@@ -25437,6 +25442,13 @@
       "site": "JobGurus",
       "id": "00a7b8618ba7c244e24da1db9200cf92",
       "timestamp": 1768402244441
+    }
+  ],
+  "sunchi integrated farms limited": [
+    {
+      "site": "JobGurus",
+      "id": "7c4e09a3308309f7aee54a44ce8b4519",
+      "timestamp": 1768404077489
     }
   ]
 }
