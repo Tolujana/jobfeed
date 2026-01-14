@@ -557,6 +557,11 @@
       "site": "JobGurus",
       "id": "7cf8850685704b64ef2ee2ce891272a9",
       "timestamp": 1768234954376
+    },
+    {
+      "site": "JobGurus",
+      "id": "6c8c440d3db145b276d4ba05cef1037a",
+      "timestamp": 1768394258715
     }
   ],
   "abbfem group": [
@@ -676,8 +681,8 @@
   "allen professional services": [
     {
       "site": "JobGurus",
-      "id": "960e8e8040639c24f0be3fce50c87605",
-      "timestamp": 1762940503481
+      "id": "c0ecedf02223ba45bbcc63e4627e52f7",
+      "timestamp": 1768394258715
     }
   ],
   "julius berger nigeria plc": [
@@ -1624,6 +1629,11 @@
       "site": "JobGurus",
       "id": "62ed8b6162b9b23fd7dbee3c4a30238b",
       "timestamp": 1767975709627
+    },
+    {
+      "site": "JobGurus",
+      "id": "f26041fa16283f6abca88bab81126ee9",
+      "timestamp": 1768394258715
     }
   ],
   "derive communications systems & engr. ltd": [
@@ -12792,8 +12802,8 @@
   "castel resources consultancy limited": [
     {
       "site": "JobGurus",
-      "id": "259c47242d864a3b93761db1272801bf",
-      "timestamp": 1763126813498
+      "id": "48fa4d9b1636adc51f48b8358d80ca6d",
+      "timestamp": 1768394258715
     }
   ],
   "fidson healthcare plc": [
@@ -25367,6 +25377,13 @@
       "site": "JobGurus",
       "id": "9a0f518f2ac2927707dc056a7cfdaa1e",
       "timestamp": 1768387804157
+    }
+  ],
+  "sigma consulting group": [
+    {
+      "site": "JobGurus",
+      "id": "e8a9c870b097cfc9c4d719c2387f5fbc",
+      "timestamp": 1768394258715
     }
   ]
 }
