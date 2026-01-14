@@ -18838,8 +18838,13 @@
   "lavita group": [
     {
       "site": "JobGurus",
-      "id": "7402baa13d5583b5fc3823cf0b9d2bb3",
-      "timestamp": 1760996277670
+      "id": "5e9b3ceda810e6fab14d82f0d795f305",
+      "timestamp": 1768380824123
+    },
+    {
+      "site": "JobGurus",
+      "id": "47b121fbf30f5168f2e8fdf72fe24bf9",
+      "timestamp": 1768380824123
     }
   ],
   "development exchange centre (dec)": [
@@ -25336,6 +25341,13 @@
       "site": "JobGurus",
       "id": "4be44806f5b555244c5e12bbfba1adec",
       "timestamp": 1768319300759
+    }
+  ],
+  "redline auto mobile": [
+    {
+      "site": "JobGurus",
+      "id": "5982faed7aaf964773588afa1b34deb5",
+      "timestamp": 1768380824123
     }
   ]
 }
