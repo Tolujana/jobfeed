@@ -7713,8 +7713,8 @@
   "whoosh logistics": [
     {
       "site": "JobGurus",
-      "id": "566a6cc93f92749f8021697ac27125fd",
-      "timestamp": 1764757147371
+      "id": "e5cbc452f5ca897dd0083b99ad5546d8",
+      "timestamp": 1768402244441
     }
   ],
   "board of management of fedral medical centre": [
@@ -11124,8 +11124,13 @@
   "daytona 247 people's pharmacy and supermarket": [
     {
       "site": "JobGurus",
-      "id": "d9acbc5220b92a04c7f5a9902cbf85d0",
-      "timestamp": 1767699527420
+      "id": "b1f5585279967ae855b673e919199b0f",
+      "timestamp": 1768402244441
+    },
+    {
+      "site": "JobGurus",
+      "id": "0a0884eb73f357194ed507d3cf9e28bb",
+      "timestamp": 1768402244441
     }
   ],
   "beeex hr consulting": [
@@ -25401,6 +25406,11 @@
       "site": "JobGurus",
       "id": "ecd42d4fd3530542e7c179e0244fb749",
       "timestamp": 1768397832148
+    },
+    {
+      "site": "JobGurus",
+      "id": "bf0b13e5d3e0577b8a0da7fdadc87269",
+      "timestamp": 1768402244441
     }
   ],
   "mainland group limited": [
@@ -25420,6 +25430,13 @@
       "site": "JobGurus",
       "id": "7b57b441015170f6671a2b5dff49d059",
       "timestamp": 1768400473522
+    }
+  ],
+  "mobos fashion": [
+    {
+      "site": "JobGurus",
+      "id": "00a7b8618ba7c244e24da1db9200cf92",
+      "timestamp": 1768402244441
     }
   ]
 }
