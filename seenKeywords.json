@@ -6866,8 +6866,8 @@
   "brilliant performance solutions limited": [
     {
       "site": "JobGurus",
-      "id": "871fbc8f9201387d3b7dc7c936305468",
-      "timestamp": 1766229171862
+      "id": "7b889aa1d34ed9e8d7afaf448a8e421a",
+      "timestamp": 1768387804157
     }
   ],
   "d-degree digital hub limited": [
@@ -12441,8 +12441,8 @@
   "pwan group": [
     {
       "site": "JobGurus",
-      "id": "bb342b565c5ea3726b64f576d7e50748",
-      "timestamp": 1764674151206
+      "id": "864106090c9ceb3b12a1ddb7871e7d76",
+      "timestamp": 1768387804157
     }
   ],
   "zhuli recruiters": [
@@ -14670,8 +14670,8 @@
   "wells carlton hotel & apartments": [
     {
       "site": "JobGurus",
-      "id": "494bb63378b5598ba4df0a9cfdc2af09",
-      "timestamp": 1757436303720
+      "id": "e2994645333c9c155a21d31e62cb0b6d",
+      "timestamp": 1768387804157
     }
   ],
   "msmacnord limited": [
@@ -19770,8 +19770,8 @@
   "stellar international company limited": [
     {
       "site": "JobGurus",
-      "id": "23e7067a0c3a94923ea95a5e51ed5bb9",
-      "timestamp": 1767015273693
+      "id": "d64f8f3b1038f9c6633e3f786e679eaf",
+      "timestamp": 1768387804157
     }
   ],
   "ab microfinance bank nigeria": [
@@ -25362,6 +25362,11 @@
       "site": "JobGurus",
       "id": "f995af62245ae53bac96b129f3eee411",
       "timestamp": 1768386015096
+    },
+    {
+      "site": "JobGurus",
+      "id": "9a0f518f2ac2927707dc056a7cfdaa1e",
+      "timestamp": 1768387804157
     }
   ]
 }
