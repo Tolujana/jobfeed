@@ -1968,8 +1968,8 @@
   "the vault recruitment (tvr)": [
     {
       "site": "JobGurus",
-      "id": "a8d81bb049ea6f5548595ed71a252389",
-      "timestamp": 1763030695353
+      "id": "6484726261fb3159ce1a453605bbc104",
+      "timestamp": 1768400473522
     }
   ],
   "across global travels & tours limited": [
@@ -5686,6 +5686,11 @@
       "site": "JobGurus",
       "id": "c3ecb77f68037d2df452248f100e0f76",
       "timestamp": 1768390927958
+    },
+    {
+      "site": "JobGurus",
+      "id": "a3e36bb6cf68fc024fc5bcdc8c314547",
+      "timestamp": 1768400473522
     }
   ],
   "co creation hub": [
@@ -7027,8 +7032,8 @@
   "farm katsina limited": [
     {
       "site": "JobGurus",
-      "id": "90f49a5a09ce464e602e02ed94bd9935",
-      "timestamp": 1751905230628
+      "id": "941daad277654b5283f864867b29e879",
+      "timestamp": 1768400473522
     }
   ],
   "médecins sans frontières/doctor without borders": [
@@ -8093,8 +8098,8 @@
   "interswstik nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "68d2b522fbe01e2f2e3f1c2c796dd5eb",
-      "timestamp": 1760026788649
+      "id": "f47790c5d39883e9cc2ea6a119fbe06f",
+      "timestamp": 1768400473522
     }
   ],
   "health and development support programme": [
@@ -25408,6 +25413,13 @@
       "site": "JobGurus",
       "id": "c07b64b80a9d573bbffc4cbc7b5e57c0",
       "timestamp": 1768397832148
+    }
+  ],
+  "kemslis pragmatic limited": [
+    {
+      "site": "JobGurus",
+      "id": "7b57b441015170f6671a2b5dff49d059",
+      "timestamp": 1768400473522
     }
   ]
 }
