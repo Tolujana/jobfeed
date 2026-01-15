@@ -6041,6 +6041,11 @@
       "site": "JobGurus",
       "id": "134b3d23f42a428b789d6a1d827d967e",
       "timestamp": 1768229519122
+    },
+    {
+      "site": "JobGurus",
+      "id": "a415fbfdc6d0460a30c01cd2f094febc",
+      "timestamp": 1768484192673
     }
   ],
   "health connect 24x7": [
@@ -10694,8 +10699,8 @@
   "breezy digital solutions": [
     {
       "site": "JobGurus",
-      "id": "a2c5e01db673242525da901e1260b3a4",
-      "timestamp": 1754301260202
+      "id": "f5c9e00ea0cf04d16249e7c9166157f0",
+      "timestamp": 1768484192673
     }
   ],
   "95 slide": [
@@ -22208,6 +22213,11 @@
       "site": "JobGurus",
       "id": "85f75a730a5ae9be9add93bde18ee12c",
       "timestamp": 1768229519122
+    },
+    {
+      "site": "JobGurus",
+      "id": "f6e93d98af5a4ba8a495375b97a1eccc",
+      "timestamp": 1768484192673
     }
   ],
   "property brokers international magazine limited": [
@@ -25452,6 +25462,20 @@
       "site": "JobGurus",
       "id": "7dcd049ca0dcc5b8ee1b473ede21828b",
       "timestamp": 1768477241898
+    }
+  ],
+  "zuma coffee": [
+    {
+      "site": "JobGurus",
+      "id": "9d7cb2ced9f97f6422c71112acf8b3b2",
+      "timestamp": 1768484192673
+    }
+  ],
+  "golden alpine hotel and resort": [
+    {
+      "site": "JobGurus",
+      "id": "149fbb4078a1cbd1905b9f212a0e7890",
+      "timestamp": 1768484192673
     }
   ]
 }
