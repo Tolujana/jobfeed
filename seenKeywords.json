@@ -3866,38 +3866,8 @@
   "odixcity consulting": [
     {
       "site": "JobGurus",
-      "id": "feb4d87290843007f78636fd28a08454",
-      "timestamp": 1766496783549
-    },
-    {
-      "site": "JobGurus",
-      "id": "c9441f059cb416df50e294e06ec01363",
-      "timestamp": 1766501106502
-    },
-    {
-      "site": "JobGurus",
-      "id": "4359f8b7cb1124543253b79068ab3c95",
-      "timestamp": 1766501106502
-    },
-    {
-      "site": "JobGurus",
-      "id": "6e53e9f24b4d280aa0516b6116f59ea1",
-      "timestamp": 1766848530567
-    },
-    {
-      "site": "JobGurus",
-      "id": "c1c3e495059e8947e1c514896ac71562",
-      "timestamp": 1766848530567
-    },
-    {
-      "site": "JobGurus",
-      "id": "cd66d49b5129a59ab32fe2adb0b764e6",
-      "timestamp": 1766848530567
-    },
-    {
-      "site": "JobGurus",
-      "id": "635cecdd4e8d943fbb1dfc81ecab129d",
-      "timestamp": 1766849907282
+      "id": "35c02787f489eb4f5d04c08338f0acdd",
+      "timestamp": 1768477241898
     }
   ],
   "changeroom": [
@@ -6132,8 +6102,8 @@
   "aa rescue limited": [
     {
       "site": "JobGurus",
-      "id": "a5670b18fe7a83c2803b24c8052e7985",
-      "timestamp": 1751384514171
+      "id": "5a9c45d926b412521af308b71f058bb0",
+      "timestamp": 1768477241898
     }
   ],
   "prosperity microfinance bank nigeria limited": [
@@ -21994,13 +21964,13 @@
   "flyboku group": [
     {
       "site": "JobGurus",
-      "id": "8f3514edcf47529647dc9ed66c61de65",
-      "timestamp": 1763995446679
+      "id": "7c75746893c05560772c16e8c3b57794",
+      "timestamp": 1768477241898
     },
     {
       "site": "JobGurus",
-      "id": "54d05817227f5f3268159dd3f2c61351",
-      "timestamp": 1763995446679
+      "id": "10e4878e89b0ac8adddfb0d229ea4e7c",
+      "timestamp": 1768477241898
     }
   ],
   "respected solutions & investment": [
@@ -25480,6 +25450,13 @@
       "site": "JobGurus",
       "id": "3277a58549b0a928f04b41588e742c6b",
       "timestamp": 1768475801393
+    }
+  ],
+  "coleman technical industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "7dcd049ca0dcc5b8ee1b473ede21828b",
+      "timestamp": 1768477241898
     }
   ]
 }
