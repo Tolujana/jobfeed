@@ -8468,8 +8468,8 @@
   "don quester consulting": [
     {
       "site": "JobGurus",
-      "id": "7862e75c739d3fb84404eb79d120c25f",
-      "timestamp": 1765971558255
+      "id": "7206904116feb9478c07cd4032f825af",
+      "timestamp": 1768475801393
     }
   ],
   "stella maris high school": [
@@ -21309,6 +21309,11 @@
       "site": "JobGurus",
       "id": "e6613d5f658c788de832bf4ed1670950",
       "timestamp": 1768472379875
+    },
+    {
+      "site": "JobGurus",
+      "id": "8ca2d1391ccb3b78cde2d29e51ce74ad",
+      "timestamp": 1768475801393
     }
   ],
   "the lion king capital limited": [
@@ -25454,6 +25459,27 @@
       "site": "JobGurus",
       "id": "7c4e09a3308309f7aee54a44ce8b4519",
       "timestamp": 1768404077489
+    }
+  ],
+  "uncle stans food": [
+    {
+      "site": "JobGurus",
+      "id": "4974b3aa1f1b1e67c243d165bd0d5867",
+      "timestamp": 1768475801393
+    }
+  ],
+  "guufs international ltd": [
+    {
+      "site": "JobGurus",
+      "id": "2416941a5c0e0f7286060902ed806588",
+      "timestamp": 1768475801393
+    }
+  ],
+  "african natural resources & mines limited (anrml)": [
+    {
+      "site": "JobGurus",
+      "id": "3277a58549b0a928f04b41588e742c6b",
+      "timestamp": 1768475801393
     }
   ]
 }
