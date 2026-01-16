@@ -1530,6 +1530,11 @@
       "site": "JobGurus",
       "id": "a13a2e90f197c2e306ebe14f12d9d5f5",
       "timestamp": 1768405473655
+    },
+    {
+      "site": "JobGurus",
+      "id": "c6084a4063eb617a97ab2a17719bf96d",
+      "timestamp": 1768570490812
     }
   ],
   "sttrutt integrated services limited": [
@@ -1724,8 +1729,8 @@
   "tyonex nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "b98f49c65ccdeb822af01bd5b01f4c21",
-      "timestamp": 1749465915168
+      "id": "2b723b0bc4a52b5c22d39fd629bdb65e",
+      "timestamp": 1768570490812
     }
   ],
   "allflavors supreme foods": [
@@ -3197,8 +3202,8 @@
   "wiocc nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "365d6a1571f59dc70795bb2222f95191",
-      "timestamp": 1760531609558
+      "id": "0da0836845d7741bc515797e54b63e40",
+      "timestamp": 1768570490812
     }
   ],
   "husk power energy systems nigeria limited": [
@@ -25536,6 +25541,18 @@
       "site": "JobGurus",
       "id": "2265a57f4ce122e33fab192ce9238d26",
       "timestamp": 1768566973265
+    }
+  ],
+  "kursi group": [
+    {
+      "site": "JobGurus",
+      "id": "3e15c4a5a356f91904b6acdd6ffa76b3",
+      "timestamp": 1768570490812
+    },
+    {
+      "site": "JobGurus",
+      "id": "1fdee4a62c883726bc25b4ef1b8c1407",
+      "timestamp": 1768570490812
     }
   ]
 }
