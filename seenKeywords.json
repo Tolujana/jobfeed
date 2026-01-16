@@ -2643,8 +2643,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "a6c8f704a79a697f8cfd9c5e7b19a2bf",
-      "timestamp": 1765460132600
+      "id": "7b05675f2bdb5576e4dc23db41ac257b",
+      "timestamp": 1768563605203
     }
   ],
   "international fertilizer development center": [
@@ -9471,8 +9471,8 @@
   "ikeja electricity distribution company plc": [
     {
       "site": "JobGurus",
-      "id": "a2b31b552e7e8357a46ec5ddba376361",
-      "timestamp": 1758806751684
+      "id": "1fb7400e65df40d17d617ea653c0ca40",
+      "timestamp": 1768563605203
     }
   ],
   "desicon engineering limited": [
@@ -9572,6 +9572,11 @@
       "site": "JobGurus",
       "id": "9084f5129033f8d43e01369f984c147e",
       "timestamp": 1767979196468
+    },
+    {
+      "site": "JobGurus",
+      "id": "dbef3f0cff43953c986cc8d7601196b7",
+      "timestamp": 1768563605203
     }
   ],
   "union maritime": [
@@ -15187,8 +15192,8 @@
   "mao-oak resources limited": [
     {
       "site": "JobGurus",
-      "id": "7ba8aa59a4af9a6d364dc287905cc93a",
-      "timestamp": 1757945740386
+      "id": "22847e61c0ffe8f88e99ca7ea4d95798",
+      "timestamp": 1768563605203
     }
   ],
   "casfod": [
@@ -25512,6 +25517,13 @@
       "site": "JobGurus",
       "id": "75bd68e8cdb0edf6132889a064e645b3",
       "timestamp": 1768555343195
+    }
+  ],
+  "ikeja electric": [
+    {
+      "site": "JobGurus",
+      "id": "6a208ab1448bc7dcd314c1dbfee8a2a0",
+      "timestamp": 1768563605203
     }
   ]
 }
