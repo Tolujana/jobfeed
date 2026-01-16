@@ -2819,6 +2819,11 @@
       "site": "JobGurus",
       "id": "b7eb4442a2cd9d9b507118b3bc675285",
       "timestamp": 1768315890574
+    },
+    {
+      "site": "JobGurus",
+      "id": "100bc2b994cfc40c2e0c239e8dc33e90",
+      "timestamp": 1768578294084
     }
   ],
   "netcom africa": [
@@ -13474,8 +13479,8 @@
   "talent towers": [
     {
       "site": "JobGurus",
-      "id": "be22217cacd580187d9196d049f3fd7b",
-      "timestamp": 1767630131708
+      "id": "4c5cfc8770eae5dbfa2a4aec4f84df80",
+      "timestamp": 1768578294084
     }
   ],
   "elizade nigeria limited": [
@@ -25563,6 +25568,27 @@
       "site": "JobGurus",
       "id": "1fdee4a62c883726bc25b4ef1b8c1407",
       "timestamp": 1768570490812
+    }
+  ],
+  "officemakers international limited": [
+    {
+      "site": "JobGurus",
+      "id": "12a2447250fc682c33578b4a6d143d85",
+      "timestamp": 1768578294084
+    }
+  ],
+  "saroafrica international limited": [
+    {
+      "site": "JobGurus",
+      "id": "9e7407e8275e67eb90e634f5ff0a8857",
+      "timestamp": 1768578294084
+    }
+  ],
+  "datalex nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "843692a342c01d58baf42db88c17429c",
+      "timestamp": 1768578294084
     }
   ]
 }
