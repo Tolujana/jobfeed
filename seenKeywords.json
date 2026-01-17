@@ -5442,8 +5442,8 @@
   "paga limited": [
     {
       "site": "JobGurus",
-      "id": "9d4f85697e74187c893f2abe1d54fd37",
-      "timestamp": 1761918331809
+      "id": "2fbdf42409494900ccac08924d644f67",
+      "timestamp": 1768660858964
     }
   ],
   "blue wave new energy technology nigeria company limited": [
@@ -6211,8 +6211,13 @@
   "hoop telecoms limited": [
     {
       "site": "JobGurus",
-      "id": "32edef1a47e9c5ffc307b3e53b417432",
-      "timestamp": 1764789273974
+      "id": "ea864fe1b04469f9bf750c760e336ee7",
+      "timestamp": 1768660858964
+    },
+    {
+      "site": "JobGurus",
+      "id": "ddd056de7e2caac171239fa80a3b5ea0",
+      "timestamp": 1768660858964
     }
   ],
   "ghi assets limited": [
@@ -22666,8 +22671,8 @@
   "leam consulting limited": [
     {
       "site": "JobGurus",
-      "id": "6640706887ab240df5bdcac9fa71c415",
-      "timestamp": 1764607895215
+      "id": "520be4bd2ec57ee2d2a949ec38b258f1",
+      "timestamp": 1768660858964
     }
   ],
   "tangerine365": [
@@ -25604,6 +25609,13 @@
       "site": "JobGurus",
       "id": "843692a342c01d58baf42db88c17429c",
       "timestamp": 1768578294084
+    }
+  ],
+  "apex pharmalabs": [
+    {
+      "site": "JobGurus",
+      "id": "e5a7e2e19c01f82afdb7fd42bdb0abcd",
+      "timestamp": 1768660858964
     }
   ]
 }
