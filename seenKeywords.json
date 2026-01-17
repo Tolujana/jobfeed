@@ -160,6 +160,16 @@
       "site": "JobGurus",
       "id": "b4c5ea6ee01066a49c9dc45bfbfa5d60",
       "timestamp": 1768480650628
+    },
+    {
+      "site": "JobGurus",
+      "id": "6d1c1dd3ae66bda09eb363af673bf048",
+      "timestamp": 1768662953965
+    },
+    {
+      "site": "JobGurus",
+      "id": "88023023b598ea3330d6672ed6d4778e",
+      "timestamp": 1768662953965
     }
   ],
   "dangote group": [
@@ -1471,13 +1481,13 @@
   "amaiden energy nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "51e460bf9dce079b20cb9877fcad7425",
-      "timestamp": 1765028483756
+      "id": "6daf0949587f1133f934b0bf355063ab",
+      "timestamp": 1768662953965
     },
     {
       "site": "JobGurus",
-      "id": "dd50090bcf42fe9577c85205598067e1",
-      "timestamp": 1765028483756
+      "id": "17ca4b9008608b1657e1e89c332e2f0c",
+      "timestamp": 1768662953965
     }
   ],
   "warri wetland hotel": [
@@ -25616,6 +25626,13 @@
       "site": "JobGurus",
       "id": "e5a7e2e19c01f82afdb7fd42bdb0abcd",
       "timestamp": 1768660858964
+    }
+  ],
+  "timeless telecoms limited": [
+    {
+      "site": "JobGurus",
+      "id": "8be20955a2751fdee9634301de386633",
+      "timestamp": 1768662953965
     }
   ]
 }
