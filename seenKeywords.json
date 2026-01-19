@@ -3384,8 +3384,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "5a4f0d83ef3f07bab878669787c377cd",
-      "timestamp": 1767631857771
+      "id": "0308514681c401c152e84301c1ad691f",
+      "timestamp": 1768839819566
     }
   ],
   "abnl limited": [
@@ -4419,8 +4419,8 @@
   "comatrix collection service": [
     {
       "site": "JobGurus",
-      "id": "bcb8db2d62c4775873646ed8e22aa5ce",
-      "timestamp": 1768231283504
+      "id": "a44a58a6b7cbaa158ac92acc73694778",
+      "timestamp": 1768839819566
     }
   ],
   "jaykay group": [
@@ -14493,13 +14493,8 @@
   "rotawn energy & logistics services limited": [
     {
       "site": "JobGurus",
-      "id": "8619e0fbe371387813696216088f587b",
-      "timestamp": 1761129859063
-    },
-    {
-      "site": "JobGurus",
-      "id": "55ec6299bdacae4c5ddd310e28ae077f",
-      "timestamp": 1761142607742
+      "id": "1a24c9ca03dedc2b9ae0f46cd8da5c38",
+      "timestamp": 1768839819566
     }
   ],
   "flex finance": [
@@ -25754,6 +25749,20 @@
       "site": "JobGurus",
       "id": "3daaa626711670cf99a7d0debf70762c",
       "timestamp": 1768836098751
+    }
+  ],
+  "buildings and more limited": [
+    {
+      "site": "JobGurus",
+      "id": "24d5545fd199058e4a372c0e635cc83e",
+      "timestamp": 1768839819566
+    }
+  ],
+  "nidigit": [
+    {
+      "site": "JobGurus",
+      "id": "1c862668210c8b64f2f16f4bc2a01b0d",
+      "timestamp": 1768839819566
     }
   ]
 }
