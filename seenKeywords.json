@@ -608,11 +608,6 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "e5ee7282aafa416703706870df5bf83a",
-      "timestamp": 1767957356842
-    },
-    {
-      "site": "JobGurus",
       "id": "f43fce596016355d2253f5a2899e95c9",
       "timestamp": 1768389458391
     },
@@ -620,13 +615,18 @@
       "site": "JobGurus",
       "id": "61362ba5d8b6aae56eecf03f91577cf8",
       "timestamp": 1768390927958
+    },
+    {
+      "site": "JobGurus",
+      "id": "c83d06f640dbab3bed266c815ee8cfb0",
+      "timestamp": 1768819996688
     }
   ],
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "342fc0563583b21850842184159d3d72",
-      "timestamp": 1765557974221
+      "id": "602403c30a99fe88eb24f19fd4ce1f27",
+      "timestamp": 1768819996688
     }
   ],
   "divine infinity college": [
@@ -8837,8 +8837,13 @@
   "springrock group": [
     {
       "site": "JobGurus",
-      "id": "8cce524b4e29c31ea9e847e6c8c0ec72",
-      "timestamp": 1763115479356
+      "id": "6ca4bb7306865b1b7a3392c3ad906e1d",
+      "timestamp": 1768819996688
+    },
+    {
+      "site": "JobGurus",
+      "id": "7cd27dbf5472f70010032b8d99044bc1",
+      "timestamp": 1768819996688
     }
   ],
   "aava brands limited": [
@@ -25658,6 +25663,13 @@
       "site": "JobGurus",
       "id": "8be20955a2751fdee9634301de386633",
       "timestamp": 1768662953965
+    }
+  ],
+  "life edge nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "082bdda561a8f17fb282eef6914b455a",
+      "timestamp": 1768819996688
     }
   ]
 }
