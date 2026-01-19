@@ -3751,13 +3751,8 @@
   "cavista": [
     {
       "site": "JobGurus",
-      "id": "4309dfe458a0cc5c6233d9b92bb862c7",
-      "timestamp": 1761903615160
-    },
-    {
-      "site": "JobGurus",
-      "id": "5a2ca8543c0cff52501d3fd56ffffbc8",
-      "timestamp": 1761918331809
+      "id": "e8d4cefef9fa2492b4de4a832b17827c",
+      "timestamp": 1768837692533
     }
   ],
   "secom limited": [
@@ -25740,6 +25735,11 @@
       "site": "JobGurus",
       "id": "9107c9b03f50ef28a2ae28ac06d2048f",
       "timestamp": 1768834331836
+    },
+    {
+      "site": "JobGurus",
+      "id": "4774849cf65e5ca7124607c8112d8b87",
+      "timestamp": 1768837692533
     }
   ],
   "teachly": [
