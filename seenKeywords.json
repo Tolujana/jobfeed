@@ -17,11 +17,6 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "a0a5e4a15d57b7e0b7f8da6278067962",
-      "timestamp": 1767709118745
-    },
-    {
-      "site": "JobGurus",
       "id": "b88067393dcace3c98e8beca3998bd88",
       "timestamp": 1768242432351
     },
@@ -39,6 +34,11 @@
       "site": "JobGurus",
       "id": "fff26d18d267ce34a1bb5f49ed4ef41e",
       "timestamp": 1768245560971
+    },
+    {
+      "site": "JobGurus",
+      "id": "5c64eba9267010f7df520a1ab0017533",
+      "timestamp": 1768826431888
     }
   ],
   "amecron nigeria limited": [
@@ -5063,8 +5063,8 @@
   "future moves recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "9bb33dc42c3c93a979d7f38f5abbfd2c",
-      "timestamp": 1765028483756
+      "id": "63473b47082fb8476c55e5f0aa1c1640",
+      "timestamp": 1768826431888
     }
   ],
   "renda limited": [
@@ -25677,6 +25677,27 @@
       "site": "JobGurus",
       "id": "c53afbae2f5297b1a82377e42912e6c6",
       "timestamp": 1768821503960
+    }
+  ],
+  "parizzo rideshare": [
+    {
+      "site": "JobGurus",
+      "id": "ad247af06d35edc1a47c73accfd66094",
+      "timestamp": 1768826431888
+    }
+  ],
+  "flex films africa pvt limited": [
+    {
+      "site": "JobGurus",
+      "id": "c57988a61169cc96a749df4a85f36b00",
+      "timestamp": 1768826431888
+    }
+  ],
+  "nuvelle consulting": [
+    {
+      "site": "JobGurus",
+      "id": "f8b3b94c4e546a9a6907cae85b71bc1f",
+      "timestamp": 1768826431888
     }
   ]
 }
