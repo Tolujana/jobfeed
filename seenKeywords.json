@@ -620,6 +620,11 @@
       "site": "JobGurus",
       "id": "c83d06f640dbab3bed266c815ee8cfb0",
       "timestamp": 1768819996688
+    },
+    {
+      "site": "JobGurus",
+      "id": "2bb2f225bdf594a1f58e3348b4ad389a",
+      "timestamp": 1768899460607
     }
   ],
   "food concepts plc": [
@@ -8692,13 +8697,8 @@
   "skld integrated services limited": [
     {
       "site": "JobGurus",
-      "id": "537758d7333bf6c59b68a215141e448c",
-      "timestamp": 1752769243664
-    },
-    {
-      "site": "JobGurus",
-      "id": "64b946f1c002bc650799d76d4a57f746",
-      "timestamp": 1753364131617
+      "id": "c9c79a26aed461f6765a10a8c2396478",
+      "timestamp": 1768899460607
     }
   ],
   "polaris digitech limited": [
@@ -18302,8 +18302,8 @@
   "dynamicplus advisory": [
     {
       "site": "JobGurus",
-      "id": "37cd7cb87a62310349f91264a05c1dbb",
-      "timestamp": 1766488514588
+      "id": "939f849ed27b66ff67eec869acb97a94",
+      "timestamp": 1768899460607
     }
   ],
   "first choice international consulting & financial solutions limited": [
@@ -25772,6 +25772,20 @@
       "site": "JobGurus",
       "id": "725e14597d7416c1598183e500ae1fca",
       "timestamp": 1768841676082
+    }
+  ],
+  "bamboo": [
+    {
+      "site": "JobGurus",
+      "id": "25df42c3f5686f40051f75e1cb2c07a2",
+      "timestamp": 1768899460607
+    }
+  ],
+  "gabs financial services limited": [
+    {
+      "site": "JobGurus",
+      "id": "935993014fa2c7f0bd604a8a15bb9cf3",
+      "timestamp": 1768899460607
     }
   ]
 }
