@@ -5714,8 +5714,8 @@
   "premium human resource solution limited": [
     {
       "site": "JobGurus",
-      "id": "86b6811155840e7c9c65a404e582aa8e",
-      "timestamp": 1764618010636
+      "id": "6bc49cba47a743e614acc7297b1ed07b",
+      "timestamp": 1768916556574
     }
   ],
   "d2h services limited": [
@@ -8230,8 +8230,8 @@
   "adexen recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "a815955a162c2bcbb81d61cbdfec630f",
-      "timestamp": 1763732619722
+      "id": "15ad65717db37756e68ce8d205b8ebc3",
+      "timestamp": 1768916556574
     }
   ],
   "xend finance": [
@@ -8819,6 +8819,11 @@
       "site": "JobGurus",
       "id": "b2ddc68846615e4392ddce593576e6a4",
       "timestamp": 1768821503960
+    },
+    {
+      "site": "JobGurus",
+      "id": "a4be2fca28b3bafda8d3fe26e72cc301",
+      "timestamp": 1768916556574
     }
   ],
   "aava brands limited": [
@@ -11413,8 +11418,8 @@
   "green africa airways limited": [
     {
       "site": "JobGurus",
-      "id": "f678320875709bef8ff530dd33a8556b",
-      "timestamp": 1757608848342
+      "id": "0c7934ffa0ce6d46d03db3059706234c",
+      "timestamp": 1768916556574
     }
   ],
   "l12 secrets": [
@@ -20087,13 +20092,8 @@
   "kanselor business innovation campus limited": [
     {
       "site": "JobGurus",
-      "id": "ae469fcb4b232375858e07dc973978f3",
-      "timestamp": 1764152318979
-    },
-    {
-      "site": "JobGurus",
-      "id": "3db8b3aaa24a5d044d829c0d7de09322",
-      "timestamp": 1764153918387
+      "id": "0cef52008d541afb869f5ae3322c276d",
+      "timestamp": 1768916556574
     }
   ],
   "ignite africa": [
