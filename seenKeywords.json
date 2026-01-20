@@ -567,6 +567,11 @@
       "site": "JobGurus",
       "id": "3afdfe25ffb560cf908aefcf09f64851",
       "timestamp": 1768908004196
+    },
+    {
+      "site": "JobGurus",
+      "id": "7cd4fa430eb821498c7b5bf391263a6b",
+      "timestamp": 1768909398975
     }
   ],
   "abbfem group": [
@@ -12072,23 +12077,8 @@
   "staffora global limited": [
     {
       "site": "JobGurus",
-      "id": "be26ecb86a9f174815d547724c8a2f6c",
-      "timestamp": 1767626386301
-    },
-    {
-      "site": "JobGurus",
-      "id": "cc163d31da4a551f3d5150401b6da577",
-      "timestamp": 1767633543535
-    },
-    {
-      "site": "JobGurus",
-      "id": "1123ffdbc5c979c99454b67736cd4b4f",
-      "timestamp": 1767692836564
-    },
-    {
-      "site": "JobGurus",
-      "id": "90eedcc4eb2e29ec255e996e4c60382e",
-      "timestamp": 1767883853633
+      "id": "5c1ca5c690e289b4951e9aef3f263f55",
+      "timestamp": 1768909398975
     }
   ],
   "kafu consult associates": [
@@ -13700,8 +13690,8 @@
   "global oneword healthcare limited": [
     {
       "site": "JobGurus",
-      "id": "db9b2db46ea50d943410863e0456d0d7",
-      "timestamp": 1756757721848
+      "id": "3e7d191e1e9d8ffa1a89277d01acd3fc",
+      "timestamp": 1768909398975
     }
   ],
   "agm global partners limited": [
@@ -25815,6 +25805,20 @@
       "site": "JobGurus",
       "id": "bf64d49cb6d3494b5d2d7faed262b02a",
       "timestamp": 1768908004196
+    }
+  ],
+  "jott industries nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "389ec213af09fed33c77bee28664e9e4",
+      "timestamp": 1768909398975
+    }
+  ],
+  "doxix consults": [
+    {
+      "site": "JobGurus",
+      "id": "5c7bd3571e9b4aa33a0b1670ff6819c4",
+      "timestamp": 1768909398975
     }
   ]
 }
