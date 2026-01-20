@@ -2010,6 +2010,11 @@
       "site": "JobGurus",
       "id": "c95cf0de8095358bdfc19cd420c53da3",
       "timestamp": 1768404077489
+    },
+    {
+      "site": "JobGurus",
+      "id": "96bb229e66b3bf49fa9460a9ab72fddf",
+      "timestamp": 1768906379609
     }
   ],
   "across global travels & tours limited": [
@@ -3434,18 +3439,8 @@
   "excellent jobs": [
     {
       "site": "JobGurus",
-      "id": "b1103d60d70854fd38031f3487d12aed",
-      "timestamp": 1764351507762
-    },
-    {
-      "site": "JobGurus",
-      "id": "21ddac5a4ce19fa07c20688672404c59",
-      "timestamp": 1764351507762
-    },
-    {
-      "site": "JobGurus",
-      "id": "9577dd21d04e6996fe3fd55540c1116d",
-      "timestamp": 1764351507762
+      "id": "68b7ab90fde89aeaddcab3973d4e3179",
+      "timestamp": 1768906379609
     }
   ],
   "yemsays properties and investment limited": [
@@ -3883,8 +3878,8 @@
   "emdam strategies limited": [
     {
       "site": "JobGurus",
-      "id": "d95c1624abaf78a6945463a3c2989ef1",
-      "timestamp": 1750253426706
+      "id": "0207f22a8bf6e13b8802fa9fca9a5536",
+      "timestamp": 1768906379609
     }
   ],
   "rainoil limited": [
@@ -25814,6 +25809,20 @@
       "site": "JobGurus",
       "id": "23ac277fc197ce44b4e6bd77cd3c3572",
       "timestamp": 1768904587211
+    }
+  ],
+  "sylvastar group": [
+    {
+      "site": "JobGurus",
+      "id": "22e7ee4275990e784597eaa1d47bd5f4",
+      "timestamp": 1768906379609
+    }
+  ],
+  "trinity financials": [
+    {
+      "site": "JobGurus",
+      "id": "65fd5c75b5f81256eade1719ea5936f2",
+      "timestamp": 1768906379609
     }
   ]
 }
