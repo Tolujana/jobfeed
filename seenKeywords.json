@@ -175,8 +175,13 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "7e8aac2b05b137f256708e156b3bb7f3",
-      "timestamp": 1767785996517
+      "id": "bd48bed0fe6d3fe932ba2a61eeb836cb",
+      "timestamp": 1768904587211
+    },
+    {
+      "site": "JobGurus",
+      "id": "8ea4055fe6786f04b34f0cbc32472af0",
+      "timestamp": 1768904587211
     }
   ],
   "cway group": [
@@ -3474,13 +3479,8 @@
   "first bank of nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "b06099518dd3fe56f880c7d34e2e030d",
-      "timestamp": 1767797323181
-    },
-    {
-      "site": "JobGurus",
-      "id": "fbbaf6be638143194b528842349027f7",
-      "timestamp": 1767797323181
+      "id": "360987ec74b9d1ebec2f539f340632af",
+      "timestamp": 1768904587211
     }
   ],
   "daytona peoples pharmacy and supermarket": [
@@ -24770,8 +24770,8 @@
   "thyaura partners and concept limited": [
     {
       "site": "JobGurus",
-      "id": "d7cfc268edd05436eaf5d85f757aafea",
-      "timestamp": 1767624591810
+      "id": "543b441721b9a4ec6d0906557e5cc3ee",
+      "timestamp": 1768904587211
     }
   ],
   "grace moni limited": [
@@ -25807,6 +25807,13 @@
       "site": "JobGurus",
       "id": "5647231f37a1209be4021edf74e26679",
       "timestamp": 1768901726947
+    }
+  ],
+  "ichr! limited": [
+    {
+      "site": "JobGurus",
+      "id": "23ac277fc197ce44b4e6bd77cd3c3572",
+      "timestamp": 1768904587211
     }
   ]
 }
