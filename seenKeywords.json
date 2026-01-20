@@ -2542,8 +2542,8 @@
   "oilserv limited": [
     {
       "site": "JobGurus",
-      "id": "2359cd1574586965cae652f93030b05e",
-      "timestamp": 1765815890039
+      "id": "5a150d65ff50ec21ac2cd70740da987c",
+      "timestamp": 1768919207013
     }
   ],
   "greenfield consulting": [
@@ -6261,8 +6261,8 @@
   "médecins sans frontières": [
     {
       "site": "JobGurus",
-      "id": "4811f59e565995114e79a47ba49b3c36",
-      "timestamp": 1755101799023
+      "id": "92a617befae1940422ebeaa90cd2f534",
+      "timestamp": 1768919207013
     }
   ],
   "distritech distribution": [
@@ -23361,8 +23361,8 @@
   "wonderhr consult": [
     {
       "site": "JobGurus",
-      "id": "25885962ca32bd8022f8bd0efb9054f4",
-      "timestamp": 1765370165254
+      "id": "59451ad043512c21811e60df6700f8cd",
+      "timestamp": 1768919207013
     }
   ],
   "hased human resources and business consultants limited": [
@@ -23653,8 +23653,8 @@
   "apex imperium": [
     {
       "site": "JobGurus",
-      "id": "19e10c7dd37a384f503457a8a942f9e3",
-      "timestamp": 1765556422842
+      "id": "ecf6bcab721cb31da930f13da2e780cf",
+      "timestamp": 1768919207013
     }
   ],
   "kloudopp limited": [
@@ -25838,6 +25838,13 @@
       "site": "JobGurus",
       "id": "683da0ba4d24c1dc5c63e054026fb791",
       "timestamp": 1768912840156
+    }
+  ],
+  "ebonyi state university microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "5af6ab5c17b7e16c6745d9818883ca9e",
+      "timestamp": 1768919207013
     }
   ]
 }
