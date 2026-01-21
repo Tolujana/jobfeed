@@ -496,8 +496,8 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "d6621387d07880519dd58087dc780317",
-      "timestamp": 1766141109374
+      "id": "6cf01e1c6fb047e73f82bcb59d00049a",
+      "timestamp": 1769020598718
     }
   ],
   "cig motors co. limited": [
@@ -2149,8 +2149,8 @@
   "ace recruiters limited": [
     {
       "site": "JobGurus",
-      "id": "3adf6c0d8412d95aa38dcbe0330a3d98",
-      "timestamp": 1764152318979
+      "id": "bf5d3d1649143adaf44c1e8785b939d1",
+      "timestamp": 1769020598718
     }
   ],
   "at limited": [
@@ -25921,6 +25921,11 @@
       "site": "JobGurus",
       "id": "629e9cbf2f8e983e427fad132d474511",
       "timestamp": 1769009475767
+    },
+    {
+      "site": "JobGurus",
+      "id": "d246d6670352dce7139ec623f9efcab9",
+      "timestamp": 1769020598718
     }
   ],
   "zaventra solutions": [
@@ -25942,6 +25947,18 @@
       "site": "JobGurus",
       "id": "798996b9a69db3cabe02c3f53e1ff591",
       "timestamp": 1769017859584
+    }
+  ],
+  "jxworx software and automation limited": [
+    {
+      "site": "JobGurus",
+      "id": "bef2d673ecd8908374b083c16b957a4f",
+      "timestamp": 1769020598718
+    },
+    {
+      "site": "JobGurus",
+      "id": "0edc974533e6525ab362ecc5ecf09d3d",
+      "timestamp": 1769020598718
     }
   ]
 }
