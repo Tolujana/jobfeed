@@ -675,8 +675,8 @@
   "jijedapt human resources consult limited": [
     {
       "site": "JobGurus",
-      "id": "f7f9afdb37884695c87d251aa31ab865",
-      "timestamp": 1765892134298
+      "id": "ffc52a9c091a263e321e0c27a96b3cb3",
+      "timestamp": 1769017859584
     }
   ],
   "lisse africa": [
@@ -4169,18 +4169,8 @@
   "kayode obembe properties limited": [
     {
       "site": "JobGurus",
-      "id": "a8be7b678ef762e23cf6d1bd6e525c60",
-      "timestamp": 1752837258076
-    },
-    {
-      "site": "JobGurus",
-      "id": "0d657723cf0258d86bb136154d30b223",
-      "timestamp": 1752838761934
-    },
-    {
-      "site": "JobGurus",
-      "id": "e6fc906f7c5badcbc3dc062b58e0b839",
-      "timestamp": 1752849908290
+      "id": "23dbc0f8dc4d856a121d8a230ac108c2",
+      "timestamp": 1769017859584
     }
   ],
   "wts energy": [
@@ -4909,8 +4899,8 @@
   "african natural resources & mines limited": [
     {
       "site": "JobGurus",
-      "id": "908447c8ab1fb08b9770fb222d421948",
-      "timestamp": 1750705954046
+      "id": "bb167f660dbb0d515c8899fbdc27decb",
+      "timestamp": 1769017859584
     }
   ],
   "cormart nigeria limited": [
@@ -16946,8 +16936,8 @@
   "flutterwave": [
     {
       "site": "JobGurus",
-      "id": "2080c3c507f36b65346bda27266a2ec7",
-      "timestamp": 1761759653967
+      "id": "139f8e5c3f64930d21c1eaec8336dfe4",
+      "timestamp": 1769017859584
     }
   ],
   "mipraise investment limited": [
@@ -25945,6 +25935,13 @@
       "site": "JobGurus",
       "id": "347a7a2e495da8fb6d220d1e03e7853b",
       "timestamp": 1769013575575
+    }
+  ],
+  "mr ice global limited": [
+    {
+      "site": "JobGurus",
+      "id": "798996b9a69db3cabe02c3f53e1ff591",
+      "timestamp": 1769017859584
     }
   ]
 }
