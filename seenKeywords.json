@@ -23931,8 +23931,8 @@
   "outcess solution limited": [
     {
       "site": "JobGurus",
-      "id": "258eed58cb0f4aadca91e2d2c670aa9c",
-      "timestamp": 1767367072396
+      "id": "42f36597fc511045d84c198a0a270b9f",
+      "timestamp": 1769009475767
     }
   ],
   "rexobe consult": [
@@ -25900,6 +25900,32 @@
       "site": "JobGurus",
       "id": "032c3eaefed5d9b666e1f2513996c118",
       "timestamp": 1769007385424
+    }
+  ],
+  "doheney services limited": [
+    {
+      "site": "JobGurus",
+      "id": "f34928128ad4ffb5f28823b8e2a477cc",
+      "timestamp": 1769009475767
+    }
+  ],
+  "luxsit integration": [
+    {
+      "site": "JobGurus",
+      "id": "259f47632df2e01c6c12c4939e34e6ad",
+      "timestamp": 1769009475767
+    },
+    {
+      "site": "JobGurus",
+      "id": "eb463ca12c254999a7f3b639c2f58b1b",
+      "timestamp": 1769009475767
+    }
+  ],
+  "ritman university": [
+    {
+      "site": "JobGurus",
+      "id": "629e9cbf2f8e983e427fad132d474511",
+      "timestamp": 1769009475767
     }
   ]
 }
