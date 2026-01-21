@@ -9667,13 +9667,18 @@
   "kredete": [
     {
       "site": "JobGurus",
-      "id": "aff94e98644b5bcff11648a49325ec22",
-      "timestamp": 1759440897297
+      "id": "149fd23cb62e71b889f5f0b09794a3c1",
+      "timestamp": 1769013575575
     },
     {
       "site": "JobGurus",
-      "id": "6222604b00b0abbf6abcee12510074e6",
-      "timestamp": 1759749153369
+      "id": "8a443b6e059bbafcea12da150e10dce5",
+      "timestamp": 1769013575575
+    },
+    {
+      "site": "JobGurus",
+      "id": "aefca62c29cb33e235824b3245bd42a4",
+      "timestamp": 1769013575575
     }
   ],
   "mitiget": [
@@ -25926,6 +25931,20 @@
       "site": "JobGurus",
       "id": "629e9cbf2f8e983e427fad132d474511",
       "timestamp": 1769009475767
+    }
+  ],
+  "zaventra solutions": [
+    {
+      "site": "JobGurus",
+      "id": "a29a6f1063fb8b37d8272fb0f9c69a8e",
+      "timestamp": 1769013575575
+    }
+  ],
+  "digitekhub.io": [
+    {
+      "site": "JobGurus",
+      "id": "347a7a2e495da8fb6d220d1e03e7853b",
+      "timestamp": 1769013575575
     }
   ]
 }
