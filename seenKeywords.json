@@ -1041,33 +1041,8 @@
   "canonical nigeria": [
     {
       "site": "JobGurus",
-      "id": "98cb450c6a3328801d96e01272cdbb16",
-      "timestamp": 1765472109804
-    },
-    {
-      "site": "JobGurus",
-      "id": "a678e267c67428099da3e3d6ea0aa4d4",
-      "timestamp": 1765550401087
-    },
-    {
-      "site": "JobGurus",
-      "id": "cef18c5c2480a8a98f014090874ffcd2",
-      "timestamp": 1765557974221
-    },
-    {
-      "site": "JobGurus",
-      "id": "83544ae7bf227b9985d81da265c64502",
-      "timestamp": 1765810304997
-    },
-    {
-      "site": "JobGurus",
-      "id": "d8a269594d35b0abb04873db380c3e22",
-      "timestamp": 1765974998886
-    },
-    {
-      "site": "JobGurus",
-      "id": "c179cabf5a515c15c7a944090f0580a0",
-      "timestamp": 1765984725472
+      "id": "554fbefbf8f09f6adfb0252bf3443b1c",
+      "timestamp": 1769005577024
     }
   ],
   "beebeejump international limited": [
@@ -17864,8 +17839,8 @@
   "lead enterprise support company limited": [
     {
       "site": "JobGurus",
-      "id": "2bc897cfc72d2997b961da12668cce2a",
-      "timestamp": 1768245560971
+      "id": "c9c65521e4b6a5730c49a9c9cf4ba239",
+      "timestamp": 1769005577024
     }
   ],
   "el-shaddai covenant ministries": [
@@ -25895,6 +25870,27 @@
       "site": "JobGurus",
       "id": "7e2d87f9ef294c6bfe75e9d1b630bfd5",
       "timestamp": 1769002889770
+    }
+  ],
+  "endpoint laboratories and equipment limited": [
+    {
+      "site": "JobGurus",
+      "id": "a32c1eba2cc6556ddea46f1a1b32f92e",
+      "timestamp": 1769005577024
+    }
+  ],
+  "samsung heavy industries nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "57b9a01234a393551d60f3ffc08e7e3f",
+      "timestamp": 1769005577024
+    }
+  ],
+  "thirstify.ng": [
+    {
+      "site": "JobGurus",
+      "id": "d6ed1d1fe47bb56d9e80f5c54d84af5b",
+      "timestamp": 1769005577024
     }
   ]
 }
