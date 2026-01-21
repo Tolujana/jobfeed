@@ -5049,13 +5049,8 @@
   "mtn nigeria": [
     {
       "site": "JobGurus",
-      "id": "1d75a707e8b4a1173a5056764862a1b5",
-      "timestamp": 1768043614774
-    },
-    {
-      "site": "JobGurus",
-      "id": "b751913ba5e902768ed6d11cd13ab3ac",
-      "timestamp": 1768043614774
+      "id": "197ae1faeca4101f34315a41f9d12993",
+      "timestamp": 1769007385424
     }
   ],
   "koins microfinance bank limited": [
@@ -25891,6 +25886,20 @@
       "site": "JobGurus",
       "id": "d6ed1d1fe47bb56d9e80f5c54d84af5b",
       "timestamp": 1769005577024
+    }
+  ],
+  "gradely": [
+    {
+      "site": "JobGurus",
+      "id": "89334d1cf82b550dc09763ca00409be8",
+      "timestamp": 1769007385424
+    }
+  ],
+  "charis consultant": [
+    {
+      "site": "JobGurus",
+      "id": "032c3eaefed5d9b666e1f2513996c118",
+      "timestamp": 1769007385424
     }
   ]
 }
