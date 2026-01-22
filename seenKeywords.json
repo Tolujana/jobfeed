@@ -7961,13 +7961,8 @@
   "neveah limited": [
     {
       "site": "JobGurus",
-      "id": "5448fb15ffb19ae9135e8120241467e9",
-      "timestamp": 1767779322119
-    },
-    {
-      "site": "JobGurus",
-      "id": "95397fdcd36cfd53666e114f79773a83",
-      "timestamp": 1767799234422
+      "id": "f5e886dfa930fbd4e4431ad00f79db09",
+      "timestamp": 1769089346779
     }
   ],
   "r & r recruiting services": [
@@ -13590,8 +13585,8 @@
   "greenlight planet": [
     {
       "site": "JobGurus",
-      "id": "756006f5c3bf459be80190b974816d4d",
-      "timestamp": 1760787346055
+      "id": "65e4a1e4c57b047fce1be4f55c752c30",
+      "timestamp": 1769089346779
     }
   ],
   "jami al hakeem foundation": [
@@ -20797,8 +20792,8 @@
   "joje hospital limited": [
     {
       "site": "JobGurus",
-      "id": "02f5c070b7050ef0c5273a6845a1088e",
-      "timestamp": 1762598313978
+      "id": "14c48be95dfea603ada9aa9bf65a99f1",
+      "timestamp": 1769089346779
     }
   ],
   "defivez hotel": [
@@ -24933,8 +24928,8 @@
   "deloxe hr": [
     {
       "site": "JobGurus",
-      "id": "08dae4bec927ceb60647da1fa1ee9c55",
-      "timestamp": 1767795604888
+      "id": "a533725378775bb0ecdf3c4c4aa56021",
+      "timestamp": 1769089346779
     }
   ],
   "vitalvida": [
@@ -26023,6 +26018,13 @@
       "site": "JobGurus",
       "id": "a3eaa79fcb313b7b17fc970f4a167226",
       "timestamp": 1769085599506
+    }
+  ],
+  "konstructum contracting company": [
+    {
+      "site": "JobGurus",
+      "id": "5854eb0edb952369b3a54238d96a2839",
+      "timestamp": 1769089346779
     }
   ]
 }
