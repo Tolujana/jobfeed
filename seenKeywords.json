@@ -2163,13 +2163,13 @@
   "the startup place limited": [
     {
       "site": "JobGurus",
-      "id": "5af18f39ed07c50227d4a1336abbd1dc",
-      "timestamp": 1760987552855
+      "id": "75d08f9d51b7d58fbb9f15a7dd64db43",
+      "timestamp": 1769082222237
     },
     {
       "site": "JobGurus",
-      "id": "065b1d4352ff588f7dba42ea2e88ed22",
-      "timestamp": 1761061157554
+      "id": "ea3c89bf53f08ffcb0d1556ef92fd42c",
+      "timestamp": 1769082222237
     }
   ],
   "cometstar industrial gases limited": [
@@ -6477,13 +6477,13 @@
   "lopterra services limited": [
     {
       "site": "JobGurus",
-      "id": "d8686721f4fa92f4e99eaf26a10e40fa",
-      "timestamp": 1766229171862
+      "id": "f81d0a21b50610a1add2bb1a5c486011",
+      "timestamp": 1769082222237
     },
     {
       "site": "JobGurus",
-      "id": "543d164124a0b21a26e0e553bd2aeca2",
-      "timestamp": 1766229171862
+      "id": "e60f52e84d67b57f0d2c11e304947820",
+      "timestamp": 1769082222237
     }
   ],
   "tizeti network limited": [
@@ -26004,6 +26004,13 @@
       "site": "JobGurus",
       "id": "bf251a67484ed449b7d00f71affc8663",
       "timestamp": 1769080800451
+    }
+  ],
+  "baobab microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "7c773859fba29b8ccba9f83a73931dd5",
+      "timestamp": 1769082222237
     }
   ]
 }
