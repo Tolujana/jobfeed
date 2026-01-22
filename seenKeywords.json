@@ -2710,13 +2710,8 @@
   "apex forte professionals": [
     {
       "site": "JobGurus",
-      "id": "60c2af1ae8fd905b94aaefd281f2cd1d",
-      "timestamp": 1761390681638
-    },
-    {
-      "site": "JobGurus",
-      "id": "47236b67ce7052f69b23bd5be36927cd",
-      "timestamp": 1761390681638
+      "id": "ec85a074c5bed06fe748e6aa7dcfee47",
+      "timestamp": 1769080800451
     }
   ],
   " hrd solutions": [
@@ -3827,8 +3822,8 @@
   "spacefinish": [
     {
       "site": "JobGurus",
-      "id": "120a8534e1f225f5906e87ba149aa69a",
-      "timestamp": 1754478928857
+      "id": "677d1bd30e1feb1ca8b2d3a841fe1269",
+      "timestamp": 1769080800451
     }
   ],
   "moove": [
@@ -4880,8 +4875,8 @@
   "amy consulting": [
     {
       "site": "JobGurus",
-      "id": "da9b55d0b06efa30363246a93b0198e6",
-      "timestamp": 1754664427650
+      "id": "908b22aa3b20e9371fd67f01f7f11ec0",
+      "timestamp": 1769080800451
     }
   ],
   "kennedia consulting limited": [
@@ -22888,8 +22883,8 @@
   "jv management consulting": [
     {
       "site": "JobGurus",
-      "id": "aee213e6861d16b4c2a1d0f9b34fc180",
-      "timestamp": 1764783864269
+      "id": "0f7e0d53a50a8607f89028063c265511",
+      "timestamp": 1769080800451
     }
   ],
   "doii design limited": [
@@ -26002,6 +25997,13 @@
       "site": "JobGurus",
       "id": "5af413de5956fea757e6372b78822684",
       "timestamp": 1769079163258
+    }
+  ],
+  "sophia erp limited": [
+    {
+      "site": "JobGurus",
+      "id": "bf251a67484ed449b7d00f71affc8663",
+      "timestamp": 1769080800451
     }
   ]
 }
