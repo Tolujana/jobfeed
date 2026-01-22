@@ -10,8 +10,8 @@
   "ipnx nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "a639afc4d14ecd2e71894528483eed92",
-      "timestamp": 1767797323181
+      "id": "bf73fe85c9d3d575c37523c88a2cf826",
+      "timestamp": 1769095606897
     }
   ],
   "excel and grace consulting": [
@@ -26050,6 +26050,30 @@
       "site": "JobGurus",
       "id": "5854eb0edb952369b3a54238d96a2839",
       "timestamp": 1769089346779
+    }
+  ],
+  "bristol scientific": [
+    {
+      "site": "JobGurus",
+      "id": "14bd095ee2b5fbbad74d8bf66e94d7b0",
+      "timestamp": 1769095606897
+    },
+    {
+      "site": "JobGurus",
+      "id": "81cb33dbca186ed52916003eee282c2d",
+      "timestamp": 1769095606897
+    }
+  ],
+  "jet motor company electric vehicles": [
+    {
+      "site": "JobGurus",
+      "id": "9ed560a9e9d2c24560af8172df743cba",
+      "timestamp": 1769095606897
+    },
+    {
+      "site": "JobGurus",
+      "id": "8274058e48e73cea51445881f3777a43",
+      "timestamp": 1769095606897
     }
   ]
 }
