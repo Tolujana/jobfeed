@@ -1813,6 +1813,11 @@
       "site": "JobGurus",
       "id": "109677c96df4ee7f5c4ce748ddc36bda",
       "timestamp": 1769179865182
+    },
+    {
+      "site": "JobGurus",
+      "id": "fdedb6c7b0fddb16d3ed80a8c8e8f9b5",
+      "timestamp": 1769181667484
     }
   ],
   "rolad properties": [
@@ -5365,6 +5370,11 @@
       "site": "JobGurus",
       "id": "8b6fd14256640a789349e112d3108f62",
       "timestamp": 1769179865182
+    },
+    {
+      "site": "JobGurus",
+      "id": "05c55e4edee5c5d829728148436ebe45",
+      "timestamp": 1769181667484
     }
   ],
   "recruit with adenike": [
@@ -26169,6 +26179,13 @@
       "site": "JobGurus",
       "id": "58f344c6f231431a13705bbf2fc268d7",
       "timestamp": 1769179865182
+    }
+  ],
+  "puffin agro-allied and general services (paags)": [
+    {
+      "site": "JobGurus",
+      "id": "9eacceaa1aadeb0d78e7d03f53b2fc67",
+      "timestamp": 1769181667484
     }
   ]
 }
