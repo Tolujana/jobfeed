@@ -245,8 +245,8 @@
   "pg consulting limited": [
     {
       "site": "JobGurus",
-      "id": "50d93ad64dee43dde6f9537e2b7d6e7a",
-      "timestamp": 1764155680884
+      "id": "1e93b8e72cdc4262511350469109cd79",
+      "timestamp": 1769168509624
     }
   ],
   "xora technologies limited": [
@@ -15192,8 +15192,8 @@
   "mao-oak resources limited": [
     {
       "site": "JobGurus",
-      "id": "22847e61c0ffe8f88e99ca7ea4d95798",
-      "timestamp": 1768563605203
+      "id": "d0a28b23b2957ff9cc1b4e4f2ab580e5",
+      "timestamp": 1769168509624
     }
   ],
   "casfod": [
@@ -16251,6 +16251,11 @@
       "site": "JobGurus",
       "id": "2caba9af6de260563aced2fefb1e0ce3",
       "timestamp": 1768566973265
+    },
+    {
+      "site": "JobGurus",
+      "id": "de13d4d2463b3d274c42bd44e9356cee",
+      "timestamp": 1769168509624
     }
   ],
   "fast fix consult": [
@@ -26087,6 +26092,20 @@
       "site": "JobGurus",
       "id": "90f45b10325bd0264fc9ccf9430e8e6b",
       "timestamp": 1769165408469
+    }
+  ],
+  "team nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "df0f4c49dad4b904f8e05c44c84f0dc9",
+      "timestamp": 1769168509624
+    }
+  ],
+  "3rycetech": [
+    {
+      "site": "JobGurus",
+      "id": "f120a8dc90a15ec2d4704dcc238f94ab",
+      "timestamp": 1769168509624
     }
   ]
 }
