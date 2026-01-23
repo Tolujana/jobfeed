@@ -3227,13 +3227,13 @@
   "wiocc nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "0da0836845d7741bc515797e54b63e40",
-      "timestamp": 1768570490812
+      "id": "552998522febc27ae6302c78559a4360",
+      "timestamp": 1768573177565
     },
     {
       "site": "JobGurus",
-      "id": "552998522febc27ae6302c78559a4360",
-      "timestamp": 1768573177565
+      "id": "8a998037ac9c1fa15e0f9294a2394d2d",
+      "timestamp": 1769175560414
     }
   ],
   "husk power energy systems nigeria limited": [
@@ -5348,8 +5348,8 @@
   "emzor pharmaceutical industries limited": [
     {
       "site": "JobGurus",
-      "id": "5644c7274809bbf035654bab5c3587f2",
-      "timestamp": 1750959655629
+      "id": "831bc38b6584a8adf80c657b3228cb5d",
+      "timestamp": 1769175560414
     }
   ],
   "recruit with adenike": [
@@ -5838,8 +5838,8 @@
   "mecer consulting limited": [
     {
       "site": "JobGurus",
-      "id": "5bb535c03e71a2d005a9d6cac4b7ad54",
-      "timestamp": 1765464221925
+      "id": "ed3660af7fe6d1b65886ddc645c32c39",
+      "timestamp": 1769175560414
     }
   ],
   "lotus capital limited": [
@@ -21014,8 +21014,8 @@
   "my-hrpro consulting": [
     {
       "site": "JobGurus",
-      "id": "d4aa76b4aa3c86c59ad51daebb373c32",
-      "timestamp": 1767986236432
+      "id": "8dbc980d26b3b6e11b5c1afc1b603b07",
+      "timestamp": 1769175560414
     }
   ],
   "mozuk healthcare group": [
@@ -26111,6 +26111,13 @@
       "site": "JobGurus",
       "id": "f120a8dc90a15ec2d4704dcc238f94ab",
       "timestamp": 1769168509624
+    }
+  ],
+  "satl freight nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "b4b520082bb47272d891514801844f03",
+      "timestamp": 1769175560414
     }
   ]
 }
