@@ -5658,8 +5658,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "99a88154d8ba3b67061837efb23d3cf2",
-      "timestamp": 1766503067913
+      "id": "a8e58debaa515bafae8016a581cf9cf7",
+      "timestamp": 1769171908586
     }
   ],
   "boing pinnacle limited": [
@@ -15164,8 +15164,8 @@
   "agary pharmaceutical limited": [
     {
       "site": "JobGurus",
-      "id": "81acf869520802a900317b9e7f3691cd",
-      "timestamp": 1764786373095
+      "id": "4b3c892b9ca92b6b5d286cf4e1e411dc",
+      "timestamp": 1769171908586
     }
   ],
   "sim impacting lives foundation": [
@@ -26092,6 +26092,11 @@
       "site": "JobGurus",
       "id": "90f45b10325bd0264fc9ccf9430e8e6b",
       "timestamp": 1769165408469
+    },
+    {
+      "site": "JobGurus",
+      "id": "b5597f9530cca268d78b7d5a2a17214b",
+      "timestamp": 1769171908586
     }
   ],
   "team nigeria": [
