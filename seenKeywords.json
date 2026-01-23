@@ -4371,6 +4371,11 @@
       "site": "JobGurus",
       "id": "a44a58a6b7cbaa158ac92acc73694778",
       "timestamp": 1768839819566
+    },
+    {
+      "site": "JobGurus",
+      "id": "e3b6af58f1483a12c5abafd1ddb5e7cc",
+      "timestamp": 1769178073494
     }
   ],
   "jaykay group": [
@@ -18055,8 +18060,13 @@
   "ganfeng lithium industry limited": [
     {
       "site": "JobGurus",
-      "id": "0c97b4d751e2df118b9c37ce82213ad6",
-      "timestamp": 1764609471232
+      "id": "730d6542f3732216f98def73ad390a82",
+      "timestamp": 1769178073494
+    },
+    {
+      "site": "JobGurus",
+      "id": "c66162c5a73f2a86d72d13ebad7ae795",
+      "timestamp": 1769178073494
     }
   ],
   "clearpay microfinance bank": [
@@ -26118,6 +26128,18 @@
       "site": "JobGurus",
       "id": "b4b520082bb47272d891514801844f03",
       "timestamp": 1769175560414
+    },
+    {
+      "site": "JobGurus",
+      "id": "cb45067b9fbc0ca5bfe9fc1479497bb4",
+      "timestamp": 1769178073494
+    }
+  ],
+  "global oneword limited": [
+    {
+      "site": "JobGurus",
+      "id": "dc1c4d5ac29cd176dce0ca456e8ab29d",
+      "timestamp": 1769178073494
     }
   ]
 }
