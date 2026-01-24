@@ -3966,6 +3966,16 @@
       "site": "JobGurus",
       "id": "3129d571f73ad2e566d0b2abecf51fc4",
       "timestamp": 1769261280906
+    },
+    {
+      "site": "JobGurus",
+      "id": "efb7551fb31fd9f96fad4ea25283087b",
+      "timestamp": 1769262472415
+    },
+    {
+      "site": "JobGurus",
+      "id": "9b7bc86e301f1d90af3d3095e533c053",
+      "timestamp": 1769262472415
     }
   ],
   "nigeria society of engineers (nse)": [
@@ -13692,6 +13702,11 @@
       "site": "JobGurus",
       "id": "c329e7e314bae0e1b882de3744776e2b",
       "timestamp": 1769261280906
+    },
+    {
+      "site": "JobGurus",
+      "id": "d5ebdde7e16feaff18b9d374f45c90d8",
+      "timestamp": 1769262472415
     }
   ],
   "agm global partners limited": [
@@ -25554,8 +25569,8 @@
   "elkris foods limited": [
     {
       "site": "JobGurus",
-      "id": "2265a57f4ce122e33fab192ce9238d26",
-      "timestamp": 1768566973265
+      "id": "184091e530fbd9678d57231be57715df",
+      "timestamp": 1769262472415
     }
   ],
   "kursi group": [
@@ -26196,6 +26211,13 @@
       "site": "JobGurus",
       "id": "9eacceaa1aadeb0d78e7d03f53b2fc67",
       "timestamp": 1769181667484
+    }
+  ],
+  "grundtvig international secondary school": [
+    {
+      "site": "JobGurus",
+      "id": "8dfbd7eaeb6e89d8873e65e5bffa9f9d",
+      "timestamp": 1769262472415
     }
   ]
 }
