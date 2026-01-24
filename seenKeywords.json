@@ -1424,13 +1424,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "2a6b639868278de1dec6aa4ddf4dbdaf",
-      "timestamp": 1767637622512
-    },
-    {
-      "site": "JobGurus",
-      "id": "e95ce34f5750d2a0c52e55ba4d1c1624",
-      "timestamp": 1767639319585
+      "id": "65ac6092f56048eb486442adfe38a341",
+      "timestamp": 1769267770498
     }
   ],
   "jtech global resources limited": [
@@ -9419,6 +9414,16 @@
       "site": "JobGurus",
       "id": "f730ea0bb32f22829589244f040eb5ca",
       "timestamp": 1769265721850
+    },
+    {
+      "site": "JobGurus",
+      "id": "b7b69c434dfbe0121fec571de9201611",
+      "timestamp": 1769267770498
+    },
+    {
+      "site": "JobGurus",
+      "id": "aa5ceb5117b6ac14ec377cfa9f05c715",
+      "timestamp": 1769267770498
     }
   ],
   "ant-shopping": [
@@ -26250,6 +26255,16 @@
       "site": "JobGurus",
       "id": "f7648277a454651a2457a839ca59910a",
       "timestamp": 1769264162723
+    },
+    {
+      "site": "JobGurus",
+      "id": "92dcad3f904aba078ab395750ea396c4",
+      "timestamp": 1769267770498
+    },
+    {
+      "site": "JobGurus",
+      "id": "b9396506ca8994cd6936513a3e86e42a",
+      "timestamp": 1769267770498
     }
   ]
 }
