@@ -2494,8 +2494,8 @@
   "hilton worldwide": [
     {
       "site": "JobGurus",
-      "id": "cdc6d35ea60826761301810e42ce9178",
-      "timestamp": 1764083892339
+      "id": "468072c2e70e0f700432c24ff0c7fc1e",
+      "timestamp": 1769441097580
     }
   ],
   "bss consulting limited": [
@@ -4135,8 +4135,8 @@
   "ld&d consulting": [
     {
       "site": "JobGurus",
-      "id": "cde7688d999e09bc336e87c59ed68d59",
-      "timestamp": 1768405473655
+      "id": "76f55776e15ebaf1cffa1f2ac94dd577",
+      "timestamp": 1769441097580
     }
   ],
   "roqqu nigeria limited": [
@@ -9959,8 +9959,8 @@
   "farifaiz investment limited": [
     {
       "site": "JobGurus",
-      "id": "12b18a9afce1e7f9c48415794674ebf6",
-      "timestamp": 1753702781271
+      "id": "28b5eb36088ab9c2dc2a0113b715de7c",
+      "timestamp": 1769441097580
     }
   ],
   "gem hr consulting": [
@@ -10431,8 +10431,8 @@
   "trovest capital partners": [
     {
       "site": "JobGurus",
-      "id": "4fe31c18748fb28e6746b84c7ddab27c",
-      "timestamp": 1753886821669
+      "id": "4db379037670fb5121898b8793ac5327",
+      "timestamp": 1769441097580
     }
   ],
   "residence 541": [
@@ -26066,6 +26066,11 @@
       "site": "JobGurus",
       "id": "f573c4d8cb331b146f3f2690c29ccd6d",
       "timestamp": 1769077372864
+    },
+    {
+      "site": "JobGurus",
+      "id": "1b4ebbc55d8c93e0be8bfdbd5552babb",
+      "timestamp": 1769441097580
     }
   ],
   "wearing cloud ng": [
