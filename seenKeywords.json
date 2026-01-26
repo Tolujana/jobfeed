@@ -85,11 +85,6 @@
   "the concept group": [
     {
       "site": "JobGurus",
-      "id": "5a64c24cb1b2397f4aa09548ad043a3e",
-      "timestamp": 1768566973265
-    },
-    {
-      "site": "JobGurus",
       "id": "13e8102ea3ad84bf179fab9563f6c35e",
       "timestamp": 1768999243724
     },
@@ -97,6 +92,11 @@
       "site": "JobGurus",
       "id": "e05f671754e373919c5a0ad56244c0e2",
       "timestamp": 1769160363390
+    },
+    {
+      "site": "JobGurus",
+      "id": "aea1b04d4fd4232ea2b03a3782f2933f",
+      "timestamp": 1769434840402
     }
   ],
   "triple x environmental health consult": [
@@ -16473,8 +16473,8 @@
   "olam sanyo foods limited": [
     {
       "site": "JobGurus",
-      "id": "e403aa9f6ababfc69023409edef5d848",
-      "timestamp": 1767784597411
+      "id": "51f9420f55dd4c9db4e6b157e0280807",
+      "timestamp": 1769434840402
     }
   ],
   "weston-charis microfinance bank": [
@@ -26290,6 +26290,25 @@
       "site": "JobGurus",
       "id": "215ab4fa3d5e46324c1bba369aaeb933",
       "timestamp": 1769269196801
+    }
+  ],
+  "financial institutions training centre": [
+    {
+      "site": "JobGurus",
+      "id": "f293937cfe1cf92daaf3851bc24b0c1f",
+      "timestamp": 1769434840402
+    }
+  ],
+  "black pelican limited": [
+    {
+      "site": "JobGurus",
+      "id": "b5baac7be6a0a7c4cf47b51e5eaa5be4",
+      "timestamp": 1769434840402
+    },
+    {
+      "site": "JobGurus",
+      "id": "77e302933fa90b32f63c189b25daa7b8",
+      "timestamp": 1769434840402
     }
   ]
 }
