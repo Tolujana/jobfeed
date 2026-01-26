@@ -2317,18 +2317,13 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "5e4b957da87e230982c9551388e56d97",
-      "timestamp": 1768659330483
+      "id": "ac4ef6ca708c6c6e82aeee2a47a8d015",
+      "timestamp": 1769442667332
     },
     {
       "site": "JobGurus",
-      "id": "40eacfc9fd3a57907d80cb9ae78af19d",
-      "timestamp": 1768659330483
-    },
-    {
-      "site": "JobGurus",
-      "id": "0e14b2e5c0782a3461e41303eb2499a8",
-      "timestamp": 1768666713567
+      "id": "3f3541c383975a41e719a813a791a02b",
+      "timestamp": 1769442667332
     }
   ],
   "flees global services": [
@@ -11427,8 +11422,8 @@
   "domeo resources international (dri)": [
     {
       "site": "JobGurus",
-      "id": "cd27c73a049ec90ed1bc3b679bf6e0d7",
-      "timestamp": 1768229519122
+      "id": "fea953a4bc1c75a70fc4fa89063961bd",
+      "timestamp": 1769442667332
     }
   ],
   "pulse nigeria": [
@@ -20931,8 +20926,8 @@
   "eta zuma mining & industries limited": [
     {
       "site": "JobGurus",
-      "id": "53420fe5383b60838c97d4eb64ad7061",
-      "timestamp": 1762781301134
+      "id": "fd6944c4fc1c867d84ad717300494e09",
+      "timestamp": 1769442667332
     }
   ],
   "care shield pharmaceuticals": [
@@ -26347,6 +26342,13 @@
       "site": "JobGurus",
       "id": "2044ef43c32ab718d1cb6ac7f1735f54",
       "timestamp": 1769439232981
+    }
+  ],
+  "neoliving limited": [
+    {
+      "site": "JobGurus",
+      "id": "88ea3e3ca65dba36a8654d8c94246561",
+      "timestamp": 1769442667332
     }
   ]
 }
