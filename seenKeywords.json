@@ -575,11 +575,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "6c8c440d3db145b276d4ba05cef1037a",
-      "timestamp": 1768394258715
-    },
-    {
-      "site": "JobGurus",
       "id": "3afdfe25ffb560cf908aefcf09f64851",
       "timestamp": 1768908004196
     },
@@ -587,6 +582,11 @@
       "site": "JobGurus",
       "id": "7cd4fa430eb821498c7b5bf391263a6b",
       "timestamp": 1768909398975
+    },
+    {
+      "site": "JobGurus",
+      "id": "79dcf6315dd2572719f2eee85e766977",
+      "timestamp": 1769437504450
     }
   ],
   "abbfem group": [
@@ -1900,8 +1900,8 @@
   "espritsor enterprises": [
     {
       "site": "JobGurus",
-      "id": "a069d3985deb882edca164ea826bf64b",
-      "timestamp": 1762025744463
+      "id": "cc65c40a7380743e694321201b889627",
+      "timestamp": 1769437504450
     }
   ],
   "express resource connect": [
@@ -23914,8 +23914,8 @@
   "lvtopsun new energy company limited": [
     {
       "site": "JobGurus",
-      "id": "7900bb149c5d132702cf433d057d0f23",
-      "timestamp": 1768830107985
+      "id": "2e05547b2558222a93b54c6557236972",
+      "timestamp": 1769437504450
     }
   ],
   "trucksoft logistics": [
@@ -26309,6 +26309,20 @@
       "site": "JobGurus",
       "id": "77e302933fa90b32f63c189b25daa7b8",
       "timestamp": 1769434840402
+    }
+  ],
+  "illaj holdings": [
+    {
+      "site": "JobGurus",
+      "id": "31c1646adbb74c81b667b098fd5bcd25",
+      "timestamp": 1769437504450
+    }
+  ],
+  "elkris foods": [
+    {
+      "site": "JobGurus",
+      "id": "6e4d899cd1a37fc6979588061bcc3fc2",
+      "timestamp": 1769437504450
     }
   ]
 }
