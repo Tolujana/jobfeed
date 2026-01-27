@@ -6981,6 +6981,11 @@
       "site": "JobGurus",
       "id": "69e0216f7e7549429b6c48b4c773d159",
       "timestamp": 1769511243617
+    },
+    {
+      "site": "JobGurus",
+      "id": "11873912721d299abac955c0ea35f17d",
+      "timestamp": 1769514223624
     }
   ],
   "lendha technology limited": [
@@ -26396,6 +26401,27 @@
       "site": "JobGurus",
       "id": "9bf32cbd6b2b56ee0cb8a29f12acfa1d",
       "timestamp": 1769511243617
+    }
+  ],
+  "health assur limited": [
+    {
+      "site": "JobGurus",
+      "id": "681422fe2c0de7b5e9198566cb53dc29",
+      "timestamp": 1769514223624
+    }
+  ],
+  "umera farms limited": [
+    {
+      "site": "JobGurus",
+      "id": "d55e8f43544287172684e1e0f44c67ce",
+      "timestamp": 1769514223624
+    }
+  ],
+  "trigus solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "e7bfc0fcb0e790a21a70174c52678e95",
+      "timestamp": 1769514223624
     }
   ]
 }
