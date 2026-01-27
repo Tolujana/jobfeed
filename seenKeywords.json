@@ -2805,13 +2805,8 @@
   "hobark international limited": [
     {
       "site": "JobGurus",
-      "id": "22f161932208131b6b9501a6957413b9",
-      "timestamp": 1765817754652
-    },
-    {
-      "site": "JobGurus",
-      "id": "684349e0535d8bed04afe95b6135a35e",
-      "timestamp": 1765817754652
+      "id": "81594dd1fb08e8a2a6f50626b1636dfc",
+      "timestamp": 1769525803804
     }
   ],
   "elvaridah": [
@@ -3786,13 +3781,8 @@
   "cen global services limited": [
     {
       "site": "JobGurus",
-      "id": "bf70749e0f07195ec9fe08b95d7deab0",
-      "timestamp": 1760700956348
-    },
-    {
-      "site": "JobGurus",
-      "id": "0db023c31ea2980dcbf3954aa24b39df",
-      "timestamp": 1760710513736
+      "id": "53b45b10bfc8dbffda9cc06cc854dbb2",
+      "timestamp": 1769525803804
     }
   ],
   "technoserve": [
@@ -23599,8 +23589,8 @@
   "tempkers limited": [
     {
       "site": "JobGurus",
-      "id": "775b8a7b0762b2256d1047a749557dbd",
-      "timestamp": 1765462763220
+      "id": "ae4b24d7d4c7ecff05bc7c44f9fe49dd",
+      "timestamp": 1769525803804
     }
   ],
   "you centred consulting": [
@@ -26470,6 +26460,20 @@
       "site": "JobGurus",
       "id": "199624289a8bc9cf722609546bd15fcd",
       "timestamp": 1769521363862
+    }
+  ],
+  "gestpoint nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "f896e270504dc6c9b00df471b7a9af5e",
+      "timestamp": 1769525803804
+    }
+  ],
+  "talentforge solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "e58a3917885cbccf05c4e80326ef24cf",
+      "timestamp": 1769525803804
     }
   ]
 }
