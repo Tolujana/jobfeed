@@ -1135,8 +1135,8 @@
   "ecobank nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "1a57fb231342f07213829a2eedbcf769",
-      "timestamp": 1762773230661
+      "id": "2be11e9aea6d32b3a4173937f9f9ec62",
+      "timestamp": 1769511243617
     }
   ],
   "one trust asset management company": [
@@ -4191,8 +4191,8 @@
   "wts energy": [
     {
       "site": "JobGurus",
-      "id": "82fdbb62f81989eafb7826fd846fe044",
-      "timestamp": 1765916374524
+      "id": "50ec5b4c02ab89eff098f0e6cceaa460",
+      "timestamp": 1769511243617
     }
   ],
   "prixair group": [
@@ -6969,18 +6969,8 @@
   "chilis restaurant": [
     {
       "site": "JobGurus",
-      "id": "3a642582837a22231a5bd4efee27c37b",
-      "timestamp": 1765546316608
-    },
-    {
-      "site": "JobGurus",
-      "id": "21885e3fa3ee9402fd3f9569c4e35415",
-      "timestamp": 1765546316608
-    },
-    {
-      "site": "JobGurus",
-      "id": "f4d39ef4f97e9d2ff87e6cd3a77c6b55",
-      "timestamp": 1765546316608
+      "id": "69e0216f7e7549429b6c48b4c773d159",
+      "timestamp": 1769511243617
     }
   ],
   "lendha technology limited": [
@@ -24487,8 +24477,8 @@
   "chilis restaurants": [
     {
       "site": "JobGurus",
-      "id": "2833141afb6d87ec789a03d1e4967ee7",
-      "timestamp": 1766853932992
+      "id": "bde550d95f29d844b4293a6b67637568",
+      "timestamp": 1769511243617
     }
   ],
   "lynspeed": [
@@ -26384,6 +26374,13 @@
       "site": "JobGurus",
       "id": "37ad227b1ba04cd1380c1953de2818b3",
       "timestamp": 1769509379837
+    }
+  ],
+  "latins security limited": [
+    {
+      "site": "JobGurus",
+      "id": "9bf32cbd6b2b56ee0cb8a29f12acfa1d",
+      "timestamp": 1769511243617
     }
   ]
 }
