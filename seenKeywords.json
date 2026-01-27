@@ -2807,28 +2807,18 @@
       "site": "JobGurus",
       "id": "81594dd1fb08e8a2a6f50626b1636dfc",
       "timestamp": 1769525803804
+    },
+    {
+      "site": "JobGurus",
+      "id": "acdbda41b407d4077156a16ad22a2e48",
+      "timestamp": 1769527829640
     }
   ],
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "3024b194d2e827577bacb3a1e8d3ddb5",
-      "timestamp": 1768314067527
-    },
-    {
-      "site": "JobGurus",
-      "id": "e6edcf152d52f97138a2cda42033ec28",
-      "timestamp": 1768315890574
-    },
-    {
-      "site": "JobGurus",
-      "id": "b7eb4442a2cd9d9b507118b3bc675285",
-      "timestamp": 1768315890574
-    },
-    {
-      "site": "JobGurus",
-      "id": "100bc2b994cfc40c2e0c239e8dc33e90",
-      "timestamp": 1768578294084
+      "id": "71f8aa69eb49695d0b5145f0250020b1",
+      "timestamp": 1769527829640
     }
   ],
   "netcom africa": [
@@ -2914,13 +2904,8 @@
   "hotel capitol": [
     {
       "site": "JobGurus",
-      "id": "f90bbbffe624badd6c5e4e3b1c4aa556",
-      "timestamp": 1765823183579
-    },
-    {
-      "site": "JobGurus",
-      "id": "1e643e7704d60e63d4b3c6c8ddef56f2",
-      "timestamp": 1765963434444
+      "id": "ab4da6d2d170aeac369c7037d6b4d87d",
+      "timestamp": 1769527829640
     }
   ],
   "total secure nigeria limited": [
@@ -26460,6 +26445,11 @@
       "site": "JobGurus",
       "id": "199624289a8bc9cf722609546bd15fcd",
       "timestamp": 1769521363862
+    },
+    {
+      "site": "JobGurus",
+      "id": "05ea60819e7885823a07ca5ae697eead",
+      "timestamp": 1769527829640
     }
   ],
   "gestpoint nigeria limited": [
