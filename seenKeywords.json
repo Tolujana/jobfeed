@@ -185,18 +185,13 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "bd48bed0fe6d3fe932ba2a61eeb836cb",
-      "timestamp": 1768904587211
-    },
-    {
-      "site": "JobGurus",
-      "id": "8ea4055fe6786f04b34f0cbc32472af0",
-      "timestamp": 1768904587211
-    },
-    {
-      "site": "JobGurus",
       "id": "53837fd21b407f7fe861f6d5ff1c8437",
       "timestamp": 1769091957308
+    },
+    {
+      "site": "JobGurus",
+      "id": "e671ebfcfda86d75a52544792d35db6c",
+      "timestamp": 1769521363862
     }
   ],
   "cway group": [
@@ -4999,8 +4994,8 @@
   "egbin power plc": [
     {
       "site": "JobGurus",
-      "id": "f81b9df932f78ddc683e38f7bb2f6fea",
-      "timestamp": 1768041760040
+      "id": "6ff0816e014f2bfd07cb6fea3906d38b",
+      "timestamp": 1769521363862
     }
   ],
   "uleval technology": [
@@ -25643,8 +25638,13 @@
   "officemakers international limited": [
     {
       "site": "JobGurus",
-      "id": "12a2447250fc682c33578b4a6d143d85",
-      "timestamp": 1768578294084
+      "id": "8d927a9060ee96b75be2cb4ef7612b24",
+      "timestamp": 1769521363862
+    },
+    {
+      "site": "JobGurus",
+      "id": "b7b5721ebcc7ea551945bcaa879261e2",
+      "timestamp": 1769521363862
     }
   ],
   "saroafrica international limited": [
@@ -26453,6 +26453,13 @@
       "site": "JobGurus",
       "id": "7f69e2c5829f7266d5bf74364e0a95c7",
       "timestamp": 1769517584681
+    }
+  ],
+  "wale university": [
+    {
+      "site": "JobGurus",
+      "id": "199624289a8bc9cf722609546bd15fcd",
+      "timestamp": 1769521363862
     }
   ]
 }
