@@ -3531,8 +3531,8 @@
   "citygate global investment limited": [
     {
       "site": "JobGurus",
-      "id": "bdb2478f52b9b0d0d76c3bd6198f1110",
-      "timestamp": 1750163594193
+      "id": "8b80a111f04b76fd755d0b268d549dcd",
+      "timestamp": 1769512798290
     }
   ],
   "fruitylife": [
@@ -3723,8 +3723,8 @@
   "secom limited": [
     {
       "site": "JobGurus",
-      "id": "c8ecebaa616ad830c0c43ed1984eb12c",
-      "timestamp": 1764615388207
+      "id": "b431e1b45751f7621b82ed4ad30678ee",
+      "timestamp": 1769512798290
     }
   ],
   "confederated facilitators limited": [
@@ -4193,6 +4193,16 @@
       "site": "JobGurus",
       "id": "50ec5b4c02ab89eff098f0e6cceaa460",
       "timestamp": 1769511243617
+    },
+    {
+      "site": "JobGurus",
+      "id": "42e2aeb6382211b78644b886aaa4b345",
+      "timestamp": 1769512798290
+    },
+    {
+      "site": "JobGurus",
+      "id": "5b16912273f24c372cde5257fbc28c00",
+      "timestamp": 1769512798290
     }
   ],
   "prixair group": [
@@ -10993,6 +11003,11 @@
       "site": "JobGurus",
       "id": "c5aa2daa8f2d7b302a2477295cc93b66",
       "timestamp": 1769509379837
+    },
+    {
+      "site": "JobGurus",
+      "id": "8b19de7865301fca3adee995a149385b",
+      "timestamp": 1769512798290
     }
   ],
   "wemy industries limited": [
