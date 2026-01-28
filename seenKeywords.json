@@ -6899,8 +6899,13 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "a15b3758da0ce8c78a5200afd8bdd4c7",
-      "timestamp": 1765896548458
+      "id": "67fb7239968c6243d0b084cbee4e0779",
+      "timestamp": 1769600597032
+    },
+    {
+      "site": "JobGurus",
+      "id": "a871158d6ad75ad479ce56d42762f03f",
+      "timestamp": 1769600597032
     }
   ],
   "dansol": [
@@ -25484,8 +25489,8 @@
   "uncle stans food": [
     {
       "site": "JobGurus",
-      "id": "4974b3aa1f1b1e67c243d165bd0d5867",
-      "timestamp": 1768475801393
+      "id": "c1357811784f3aea613eec588b8b1550",
+      "timestamp": 1769600597032
     }
   ],
   "guufs international ltd": [
@@ -26449,6 +26454,18 @@
       "site": "JobGurus",
       "id": "e58a3917885cbccf05c4e80326ef24cf",
       "timestamp": 1769525803804
+    }
+  ],
+  "w.else nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "a5d7e0a69e32eb5d33fda870b2049578",
+      "timestamp": 1769600597032
+    },
+    {
+      "site": "JobGurus",
+      "id": "c1d64240a36bae5179a73a484f44a333",
+      "timestamp": 1769600597032
     }
   ]
 }
