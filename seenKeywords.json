@@ -562,6 +562,11 @@
       "site": "JobGurus",
       "id": "860d0b9cdd80d42f715ac0721c3d6d83",
       "timestamp": 1769523924047
+    },
+    {
+      "site": "JobGurus",
+      "id": "165fb7882482b798225a37a586d1004b",
+      "timestamp": 1769610324482
     }
   ],
   "abbfem group": [
@@ -3280,13 +3285,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "ea29ff969e9fb14d2339c85fb447416f",
-      "timestamp": 1767365023598
-    },
-    {
-      "site": "JobGurus",
-      "id": "80f368417654f95580bf1b49b9a236a8",
-      "timestamp": 1767640671629
+      "id": "c459bbea1c8fdcb8689840ffa34e9c35",
+      "timestamp": 1769610324482
     }
   ],
   "smartcity plc": [
@@ -7595,8 +7595,8 @@
   "spie oil & gas services": [
     {
       "site": "JobGurus",
-      "id": "6d9a24b01ef5399fc167afa98781b136",
-      "timestamp": 1763129726059
+      "id": "b83ff3b8c078a1b5481cf4ed72af55cb",
+      "timestamp": 1769610324482
     }
   ],
   "jhpiego": [
@@ -24960,6 +24960,11 @@
       "site": "JobGurus",
       "id": "a533725378775bb0ecdf3c4c4aa56021",
       "timestamp": 1769089346779
+    },
+    {
+      "site": "JobGurus",
+      "id": "512a17bdadc925443f10e4ea3fa7e148",
+      "timestamp": 1769610324482
     }
   ],
   "vitalvida": [
@@ -26484,6 +26489,13 @@
       "site": "JobGurus",
       "id": "f7e4893704ad0d61c4da1ed1d33b56a1",
       "timestamp": 1769607849975
+    }
+  ],
+  "a.g. leventis": [
+    {
+      "site": "JobGurus",
+      "id": "9ecceb4de78341ff6ff4f56cf5acb421",
+      "timestamp": 1769610324482
     }
   ]
 }
