@@ -17,28 +17,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "b88067393dcace3c98e8beca3998bd88",
-      "timestamp": 1768242432351
-    },
-    {
-      "site": "JobGurus",
-      "id": "7d177ccc85f2aa33f0129d781849498f",
-      "timestamp": 1768242432351
-    },
-    {
-      "site": "JobGurus",
-      "id": "0e018e24d7a3cb2f56f7b4355bf565f3",
-      "timestamp": 1768242432351
-    },
-    {
-      "site": "JobGurus",
-      "id": "fff26d18d267ce34a1bb5f49ed4ef41e",
-      "timestamp": 1768245560971
-    },
-    {
-      "site": "JobGurus",
-      "id": "5c64eba9267010f7df520a1ab0017533",
-      "timestamp": 1768826431888
+      "id": "09d74eabea5bd61c288e4559cb71bb20",
+      "timestamp": 1769607849975
     }
   ],
   "amecron nigeria limited": [
@@ -1155,8 +1135,8 @@
   "cashxpress nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "78e3c1a3983ce9e1f1d86b055cf42a2e",
-      "timestamp": 1753260696254
+      "id": "97c5510fd5475149d5d862e2f384f8dd",
+      "timestamp": 1769607849975
     }
   ],
   "cobranet limited": [
@@ -12462,6 +12442,11 @@
       "site": "JobGurus",
       "id": "366e0d39f3c5f92e53373bbb961b1053",
       "timestamp": 1769509379837
+    },
+    {
+      "site": "JobGurus",
+      "id": "3cfdadcb318a6f5cc741ccd3a93366bb",
+      "timestamp": 1769607849975
     }
   ],
   "xuriel resources": [
@@ -26492,6 +26477,13 @@
       "site": "JobGurus",
       "id": "a517330578d47498e178a13a3b48d6b1",
       "timestamp": 1769604035177
+    }
+  ],
+  "gbenga badejo & co.": [
+    {
+      "site": "JobGurus",
+      "id": "f7e4893704ad0d61c4da1ed1d33b56a1",
+      "timestamp": 1769607849975
     }
   ]
 }
