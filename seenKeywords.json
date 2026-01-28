@@ -5997,8 +5997,8 @@
   "reelfruit": [
     {
       "site": "JobGurus",
-      "id": "1221e9d5fe4897f582d6cf0035026994",
-      "timestamp": 1755641685167
+      "id": "0cb6f3d1051cd48d13a5ce0d01a9bd14",
+      "timestamp": 1769614151313
     }
   ],
   "westfield consulting limited": [
@@ -6695,8 +6695,8 @@
   "agurate online limited": [
     {
       "site": "JobGurus",
-      "id": "4f88148c509c95f8cc69e03e7e219372",
-      "timestamp": 1764246875026
+      "id": "5eb8a62aacaac86cce077a02ebd29ffa",
+      "timestamp": 1769614151313
     }
   ],
   "bakery solutions limited": [
@@ -10531,8 +10531,8 @@
   "zest payments limited": [
     {
       "site": "JobGurus",
-      "id": "9cad9ce41aab95b4fc741f50e7ac9cca",
-      "timestamp": 1753976681912
+      "id": "81aebaa25ec83f25fa0ae7feeeab1187",
+      "timestamp": 1769614151313
     }
   ],
   "tyeeli new energy company limited": [
@@ -17769,13 +17769,8 @@
   "appzone limited": [
     {
       "site": "JobGurus",
-      "id": "fbd4e6f792448c6de02d6d41ad3e27c4",
-      "timestamp": 1759940337368
-    },
-    {
-      "site": "JobGurus",
-      "id": "60ea84c322ab4efdf1a956164999656e",
-      "timestamp": 1759940337368
+      "id": "f79e7d2a6ae99ff6f186b8d25ea103d3",
+      "timestamp": 1769614151313
     }
   ],
   "tuteria limited": [
@@ -26513,6 +26508,13 @@
       "site": "JobGurus",
       "id": "48b7aeb7e41b39bf1aa4734a9b554de4",
       "timestamp": 1769612139440
+    }
+  ],
+  "fadac resources and services": [
+    {
+      "site": "JobGurus",
+      "id": "43842c4988bae8e8e3dea105063aa4f4",
+      "timestamp": 1769614151313
     }
   ]
 }
