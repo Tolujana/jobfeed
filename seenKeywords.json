@@ -3287,6 +3287,11 @@
       "site": "JobGurus",
       "id": "c459bbea1c8fdcb8689840ffa34e9c35",
       "timestamp": 1769610324482
+    },
+    {
+      "site": "JobGurus",
+      "id": "d7aa419096cdf570269f65301b895de5",
+      "timestamp": 1769612139440
     }
   ],
   "smartcity plc": [
@@ -3379,8 +3384,8 @@
   "first bank of nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "360987ec74b9d1ebec2f539f340632af",
-      "timestamp": 1768904587211
+      "id": "8aa187bdb1a412096357429341e7c0b5",
+      "timestamp": 1769612139440
     }
   ],
   "daytona peoples pharmacy and supermarket": [
@@ -13422,8 +13427,8 @@
   "siemens": [
     {
       "site": "JobGurus",
-      "id": "1c47abadba1fa9f37e731a46efbcb37e",
-      "timestamp": 1756406817337
+      "id": "55bdaaa68ad1096abfcb23340f3d0f58",
+      "timestamp": 1769612139440
     }
   ],
   "do-ii designs": [
@@ -24965,6 +24970,11 @@
       "site": "JobGurus",
       "id": "512a17bdadc925443f10e4ea3fa7e148",
       "timestamp": 1769610324482
+    },
+    {
+      "site": "JobGurus",
+      "id": "2ef0e2d1fb4c44225bdbeb674c029c77",
+      "timestamp": 1769612139440
     }
   ],
   "vitalvida": [
@@ -26496,6 +26506,13 @@
       "site": "JobGurus",
       "id": "9ecceb4de78341ff6ff4f56cf5acb421",
       "timestamp": 1769610324482
+    }
+  ],
+  "berit global limited": [
+    {
+      "site": "JobGurus",
+      "id": "48b7aeb7e41b39bf1aa4734a9b554de4",
+      "timestamp": 1769612139440
     }
   ]
 }
