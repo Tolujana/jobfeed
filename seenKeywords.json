@@ -304,8 +304,13 @@
   "jamub group": [
     {
       "site": "JobGurus",
-      "id": "90390a1cedcfba72aa30712048794483",
-      "timestamp": 1760109308918
+      "id": "745623b3855ec7bf3890fc5cf7cef0d0",
+      "timestamp": 1769695003872
+    },
+    {
+      "site": "JobGurus",
+      "id": "4e44966715dadc481e691278071dfe6f",
+      "timestamp": 1769695003872
     }
   ],
   "ziba consulting": [
@@ -1106,13 +1111,8 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "15646fe828db0771305edd5b3b825a72",
-      "timestamp": 1768901726947
-    },
-    {
-      "site": "JobGurus",
-      "id": "8b3ab3c5936058aab5d1e003e28e295b",
-      "timestamp": 1768901726947
+      "id": "2bb5fdcc2e1ba6730054c5dc5b382187",
+      "timestamp": 1769695003872
     }
   ],
   "elizabeth maddeux limited": [
@@ -26528,6 +26528,18 @@
       "site": "JobGurus",
       "id": "4df2c5da2bddb28a51dadfdace48b320",
       "timestamp": 1769690897793
+    }
+  ],
+  "marketsquare": [
+    {
+      "site": "JobGurus",
+      "id": "b74c436ba6a72cc1c94e55342ee1dd05",
+      "timestamp": 1769695003872
+    },
+    {
+      "site": "JobGurus",
+      "id": "c9e1e6e22101cd451ad96e1c85bbde3a",
+      "timestamp": 1769695003872
     }
   ]
 }
