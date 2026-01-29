@@ -600,8 +600,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "602403c30a99fe88eb24f19fd4ce1f27",
-      "timestamp": 1768819996688
+      "id": "66ca8acdcce6db560cbe4e58e67a9ebe",
+      "timestamp": 1769682733653
     }
   ],
   "divine infinity college": [
@@ -619,23 +619,8 @@
   "alan & grant": [
     {
       "site": "JobGurus",
-      "id": "77040da18ef07ac06b27c2888718ad66",
-      "timestamp": 1765894791077
-    },
-    {
-      "site": "JobGurus",
-      "id": "c2e1fbbc98c9e90235427b38f0495533",
-      "timestamp": 1765896548458
-    },
-    {
-      "site": "JobGurus",
-      "id": "6e147e5a22497cbf7da68d0084f1b818",
-      "timestamp": 1765896548458
-    },
-    {
-      "site": "JobGurus",
-      "id": "9771f3ca5aff0b13f5d80b3f5bb08947",
-      "timestamp": 1765896548458
+      "id": "c7f5d3dda3c930ed7224d1c7b3ec1576",
+      "timestamp": 1769682733653
     }
   ],
   "vantegral consulting": [
@@ -9683,6 +9668,16 @@
       "site": "JobGurus",
       "id": "57dc65112ab3da6d004e9019f7d466d7",
       "timestamp": 1769509379837
+    },
+    {
+      "site": "JobGurus",
+      "id": "332bca1cba37438ff0bbc0223fbab453",
+      "timestamp": 1769682733653
+    },
+    {
+      "site": "JobGurus",
+      "id": "91863affbfca8d3f9cea19dc5e069a8e",
+      "timestamp": 1769682733653
     }
   ],
   "central securities clearing system plc": [
@@ -25950,11 +25945,6 @@
   "doheney services limited": [
     {
       "site": "JobGurus",
-      "id": "f34928128ad4ffb5f28823b8e2a477cc",
-      "timestamp": 1769009475767
-    },
-    {
-      "site": "JobGurus",
       "id": "8e9d5942f389bb632d7c99ea3a8eb8fe",
       "timestamp": 1769261280906
     },
@@ -25967,6 +25957,11 @@
       "site": "JobGurus",
       "id": "fb6b9d9eba8ad905beb0fcf81d3d6bc3",
       "timestamp": 1769264162723
+    },
+    {
+      "site": "JobGurus",
+      "id": "5ee9122094564d3b767e92037951f991",
+      "timestamp": 1769682733653
     }
   ],
   "luxsit integration": [
