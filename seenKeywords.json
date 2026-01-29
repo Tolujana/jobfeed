@@ -6052,8 +6052,8 @@
   "aa rescue limited": [
     {
       "site": "JobGurus",
-      "id": "5a9c45d926b412521af308b71f058bb0",
-      "timestamp": 1768477241898
+      "id": "14685685824f5d6f38fd67c15cf51095",
+      "timestamp": 1769687549886
     }
   ],
   "prosperity microfinance bank nigeria limited": [
@@ -12804,6 +12804,11 @@
       "site": "JobGurus",
       "id": "bc128473634071bbc584dbc7f2f586f0",
       "timestamp": 1769686044475
+    },
+    {
+      "site": "JobGurus",
+      "id": "2b6a5941a8d950d40722355f2b3ee3a0",
+      "timestamp": 1769687549886
     }
   ],
   "fidson healthcare plc": [
@@ -26500,6 +26505,25 @@
       "site": "JobGurus",
       "id": "43842c4988bae8e8e3dea105063aa4f4",
       "timestamp": 1769614151313
+    }
+  ],
+  "ehealth africa": [
+    {
+      "site": "JobGurus",
+      "id": "7f68d7830b8b479642a92224c7de4d1c",
+      "timestamp": 1769687549886
+    },
+    {
+      "site": "JobGurus",
+      "id": "3fe3c95997ed633f96d4c66b4116bab2",
+      "timestamp": 1769687549886
+    }
+  ],
+  "lifemate nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "d616838a40a532bb0e88ea97405c60f7",
+      "timestamp": 1769687549886
     }
   ]
 }
