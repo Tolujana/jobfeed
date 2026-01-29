@@ -7129,13 +7129,8 @@
   "prestigious consulting": [
     {
       "site": "JobGurus",
-      "id": "2760274282c3f8e030163e0261b633df",
-      "timestamp": 1766413041650
-    },
-    {
-      "site": "JobGurus",
-      "id": "3bcf5eac26cd52ff904fc5dd96f42c15",
-      "timestamp": 1766414627766
+      "id": "a8c4cab4fcf7f181cc266579301de901",
+      "timestamp": 1769690897793
     }
   ],
   "quicky chillis": [
@@ -10015,18 +10010,8 @@
   "tezza business solutions limited": [
     {
       "site": "JobGurus",
-      "id": "c3a72b3bd7b1a1c5639002be8e6c1f25",
-      "timestamp": 1767795604888
-    },
-    {
-      "site": "JobGurus",
-      "id": "e8d5001def718ec3212235fc246eb9ac",
-      "timestamp": 1767797323181
-    },
-    {
-      "site": "JobGurus",
-      "id": "f3d88ef43b12eee656cd780eb3b16747",
-      "timestamp": 1767797323181
+      "id": "8d9d52f5560b5448a832bb6e7b19f876",
+      "timestamp": 1769690897793
     }
   ],
   "regent microfinance bank limited": [
@@ -26524,6 +26509,25 @@
       "site": "JobGurus",
       "id": "d616838a40a532bb0e88ea97405c60f7",
       "timestamp": 1769687549886
+    }
+  ],
+  "team ace limited": [
+    {
+      "site": "JobGurus",
+      "id": "b7e2f7ed3c23e896d23cd87c0b53566e",
+      "timestamp": 1769690897793
+    }
+  ],
+  "zeeq tech hub": [
+    {
+      "site": "JobGurus",
+      "id": "bace7f7655a38d6c242ebe4d403bea55",
+      "timestamp": 1769690897793
+    },
+    {
+      "site": "JobGurus",
+      "id": "4df2c5da2bddb28a51dadfdace48b320",
+      "timestamp": 1769690897793
     }
   ]
 }
