@@ -311,6 +311,11 @@
       "site": "JobGurus",
       "id": "4e44966715dadc481e691278071dfe6f",
       "timestamp": 1769695003872
+    },
+    {
+      "site": "JobGurus",
+      "id": "42d163b2294479cc423729b923d0f551",
+      "timestamp": 1769704699409
     }
   ],
   "ziba consulting": [
@@ -10831,6 +10836,11 @@
       "site": "JobGurus",
       "id": "e4264e26d255e9d00c3d8f792bcd8fe5",
       "timestamp": 1769697445106
+    },
+    {
+      "site": "JobGurus",
+      "id": "feafefce4b47fb253aa3eea2d572880f",
+      "timestamp": 1769704699409
     }
   ],
   "cng career-touch services": [
@@ -17986,8 +17996,8 @@
   "palladium group": [
     {
       "site": "JobGurus",
-      "id": "7954c1eb4c3e8e02b8dc516de30dcf79",
-      "timestamp": 1760105695718
+      "id": "2b105c6c0f69ba8a3ed396d06a85034e",
+      "timestamp": 1769704699409
     }
   ],
   "unicaf": [
@@ -26547,6 +26557,20 @@
       "site": "JobGurus",
       "id": "65561458864d704201ab73d94bd07a39",
       "timestamp": 1769700662628
+    }
+  ],
+  "rainbow college": [
+    {
+      "site": "JobGurus",
+      "id": "beee09272ea4e5d4595df7b972a43b94",
+      "timestamp": 1769704699409
+    }
+  ],
+  "pivotage consulting": [
+    {
+      "site": "JobGurus",
+      "id": "e1bf30d744600cfb6f53f704c81568e5",
+      "timestamp": 1769704699409
     }
   ]
 }
