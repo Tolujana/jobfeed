@@ -4811,8 +4811,8 @@
   "mwanga limited": [
     {
       "site": "JobGurus",
-      "id": "114ec3082cef55e60d410cef6e04bbb8",
-      "timestamp": 1763043357759
+      "id": "b25451a8d9a75d7e14d6ab7ab2fa6127",
+      "timestamp": 1769781145603
     }
   ],
   "leam consulting": [
@@ -20841,8 +20841,8 @@
   "alphabait realty": [
     {
       "site": "JobGurus",
-      "id": "8682ae669ffb6963c7011be213b46a86",
-      "timestamp": 1762601744658
+      "id": "02b203b4f5343d3c8efd12cd56ecfc42",
+      "timestamp": 1769781145603
     }
   ],
   "omniretail technology limited": [
@@ -22923,8 +22923,8 @@
   "jv management consulting": [
     {
       "site": "JobGurus",
-      "id": "0f7e0d53a50a8607f89028063c265511",
-      "timestamp": 1769080800451
+      "id": "743727976de8a2c16edbb694c68df4b0",
+      "timestamp": 1769781145603
     }
   ],
   "doii design limited": [
@@ -22958,8 +22958,8 @@
   "arab space nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "67fa0aa11357f05cbcda7bdacf60dd14",
-      "timestamp": 1764788015603
+      "id": "127327db1f346ca5f5f087f4ba217a0e",
+      "timestamp": 1769781145603
     }
   ],
   "cbm international": [
@@ -26629,6 +26629,13 @@
       "site": "JobGurus",
       "id": "a18a94681e69ce1b1de6f00c3fa17760",
       "timestamp": 1769777036043
+    }
+  ],
+  "promise land building & construction limited": [
+    {
+      "site": "JobGurus",
+      "id": "fe559df472b279407eee6da8df7e4536",
+      "timestamp": 1769781145603
     }
   ]
 }
