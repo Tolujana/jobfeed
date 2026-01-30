@@ -707,8 +707,8 @@
   "startup soar": [
     {
       "site": "JobGurus",
-      "id": "4767975c982f221aa1a1804f00f46425",
-      "timestamp": 1768580578746
+      "id": "2cbde780de68462f7dbc75317ca06ece",
+      "timestamp": 1769788801978
     }
   ],
   "ouranos technologies (ouranos)": [
@@ -9800,6 +9800,11 @@
       "site": "JobGurus",
       "id": "c95d806327febceb58ab3115dd89b2f3",
       "timestamp": 1769599206016
+    },
+    {
+      "site": "JobGurus",
+      "id": "d8225aca63542d4d4440f4c0822376b7",
+      "timestamp": 1769788801978
     }
   ],
   " esty agro": [
@@ -22950,6 +22955,11 @@
       "site": "JobGurus",
       "id": "127327db1f346ca5f5f087f4ba217a0e",
       "timestamp": 1769781145603
+    },
+    {
+      "site": "JobGurus",
+      "id": "d9d4274e1eb64560d86ace22af550019",
+      "timestamp": 1769788801978
     }
   ],
   "cbm international": [
@@ -26640,6 +26650,13 @@
       "site": "JobGurus",
       "id": "6a1a782774cb80813b2b746e2bf63aae",
       "timestamp": 1769786938339
+    }
+  ],
+  "hermes oil services limited": [
+    {
+      "site": "JobGurus",
+      "id": "46e1fb49746d1fa87723e492d6f4497c",
+      "timestamp": 1769788801978
     }
   ]
 }
