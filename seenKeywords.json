@@ -11972,6 +11972,11 @@
       "site": "JobGurus",
       "id": "67e678df674fea16823cd6dd218e098b",
       "timestamp": 1769697445106
+    },
+    {
+      "site": "JobGurus",
+      "id": "aa0e12553ae76ed0e9142759cd1b7bb5",
+      "timestamp": 1769870927807
     }
   ],
   "inspire polytechnic": [
@@ -17598,8 +17603,8 @@
   "hr-on-wheels": [
     {
       "site": "JobGurus",
-      "id": "534a593fb435ef9ad3aa60325066567a",
-      "timestamp": 1769163617325
+      "id": "d8e999d2e00f2990d602be6fc280d6f0",
+      "timestamp": 1769870927807
     }
   ],
   "first cardiology consultants (fcc)": [
@@ -26680,6 +26685,27 @@
       "site": "JobGurus",
       "id": "88c51691d65da3cc70b0b6aa777790cc",
       "timestamp": 1769869242698
+    }
+  ],
+  "base jobs": [
+    {
+      "site": "JobGurus",
+      "id": "4cb3911a258ce71c497738d24d7246b7",
+      "timestamp": 1769870927807
+    }
+  ],
+  "cursor erp solution": [
+    {
+      "site": "JobGurus",
+      "id": "ed162fd5d75fb3f7c17bd4a6ded6f8f4",
+      "timestamp": 1769870927807
+    }
+  ],
+  "nigerian public health network (nphn)": [
+    {
+      "site": "JobGurus",
+      "id": "29945377182a57b9a8b9b95dfb58dc93",
+      "timestamp": 1769870927807
     }
   ]
 }
