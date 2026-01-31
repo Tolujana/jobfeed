@@ -2482,8 +2482,8 @@
   "oilserv limited": [
     {
       "site": "JobGurus",
-      "id": "5a150d65ff50ec21ac2cd70740da987c",
-      "timestamp": 1768919207013
+      "id": "273872572f9ed3d7d58fddd3c7722120",
+      "timestamp": 1769869242698
     }
   ],
   "greenfield consulting": [
@@ -14718,8 +14718,8 @@
   "ruth and roots": [
     {
       "site": "JobGurus",
-      "id": "44b92eff450896c4ef5043fd6f2a5439",
-      "timestamp": 1768405473655
+      "id": "19ac912b726852c2390344afc5ce14fe",
+      "timestamp": 1769869242698
     }
   ],
   "nigerian newsdirect": [
@@ -26659,6 +26659,27 @@
       "site": "JobGurus",
       "id": "33f47718b5501164b09dfd4ec6c2457b",
       "timestamp": 1769866682815
+    }
+  ],
+  "grand oak limited (gol)": [
+    {
+      "site": "JobGurus",
+      "id": "abd1b568617e3c43676a7f31d80105a2",
+      "timestamp": 1769869242698
+    }
+  ],
+  "abc logistics": [
+    {
+      "site": "JobGurus",
+      "id": "00ac679d641fdc2160672e5690258965",
+      "timestamp": 1769869242698
+    }
+  ],
+  "olite manufacturing company limited": [
+    {
+      "site": "JobGurus",
+      "id": "88c51691d65da3cc70b0b6aa777790cc",
+      "timestamp": 1769869242698
     }
   ]
 }
