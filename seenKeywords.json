@@ -2104,8 +2104,8 @@
   "ace recruiters limited": [
     {
       "site": "JobGurus",
-      "id": "bf5d3d1649143adaf44c1e8785b939d1",
-      "timestamp": 1769020598718
+      "id": "04c3c5e24c0d325f68af8aea9c7a5e68",
+      "timestamp": 1770053660044
     }
   ],
   "at limited": [
@@ -4481,6 +4481,11 @@
       "site": "JobGurus",
       "id": "957559b2ca58d3150fe91ab8d19ce2f5",
       "timestamp": 1769599206016
+    },
+    {
+      "site": "JobGurus",
+      "id": "801a4da661561b207c28cad4acae3ec1",
+      "timestamp": 1770053660044
     }
   ],
   "human capital group": [
@@ -16451,6 +16456,11 @@
       "site": "JobGurus",
       "id": "82ffa0a615147ab70c152bb311c348b6",
       "timestamp": 1770050053268
+    },
+    {
+      "site": "JobGurus",
+      "id": "4bf29337f8e26d9d10d92355de8d493d",
+      "timestamp": 1770053660044
     }
   ],
   "virtual media network limited": [
@@ -22094,8 +22104,8 @@
   "phase3 telecom": [
     {
       "site": "JobGurus",
-      "id": "74d8cab43f1745818045eae16c4dc425",
-      "timestamp": 1764011451876
+      "id": "e25cfe0f200d6f39c0b3626d4211da2b",
+      "timestamp": 1770053660044
     }
   ],
   "control risks": [
@@ -26786,6 +26796,13 @@
       "site": "JobGurus",
       "id": "6f9111597901a4c1cecf5e09b79ac03d",
       "timestamp": 1770050053268
+    }
+  ],
+  "citadel center for hr research & consulting (cchrc)": [
+    {
+      "site": "JobGurus",
+      "id": "ecd386ac2890adec1e4fd300609daf21",
+      "timestamp": 1770053660044
     }
   ]
 }
