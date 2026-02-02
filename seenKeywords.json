@@ -8648,8 +8648,8 @@
   "grand oak limited": [
     {
       "site": "JobGurus",
-      "id": "2fa38bff5024454b5c0fe8adab0ccf6a",
-      "timestamp": 1767620265256
+      "id": "73ef49d905010ae4bb3ed164ef6988fe",
+      "timestamp": 1770074626214
     }
   ],
   "cornelli and mosh consults limited": [
@@ -20652,8 +20652,8 @@
   "estakem ventures": [
     {
       "site": "JobGurus",
-      "id": "5f251ee35ce3696d87702f23df4e1382",
-      "timestamp": 1762432368945
+      "id": "d91ca1742bc90ea9cdb38f59fb1c3618",
+      "timestamp": 1770074626214
     }
   ],
   "a27 global services limited": [
@@ -26829,6 +26829,25 @@
       "site": "JobGurus",
       "id": "ec90d903fe5a133fdcde962ff0775cd5",
       "timestamp": 1770057434318
+    },
+    {
+      "site": "JobGurus",
+      "id": "aff8e79866e535df72ab29b12da3aa6f",
+      "timestamp": 1770074626214
+    }
+  ],
+  "the startup resources": [
+    {
+      "site": "JobGurus",
+      "id": "5f75da4ae1dbe3f58448c510fba43fb3",
+      "timestamp": 1770074626214
+    }
+  ],
+  "korapay": [
+    {
+      "site": "JobGurus",
+      "id": "218b2d86e3e3d2dac939e05b613d8522",
+      "timestamp": 1770074626214
     }
   ]
 }
