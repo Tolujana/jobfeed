@@ -8076,8 +8076,8 @@
   "swift consulting limited": [
     {
       "site": "JobGurus",
-      "id": "b1e22237281a2910741f0be9a32f5e4f",
-      "timestamp": 1769265721850
+      "id": "17a9101fa66a7d04f4ad103bb574f60a",
+      "timestamp": 1770040750156
     }
   ],
   "danish refugee council": [
@@ -8823,8 +8823,13 @@
   "gig mobility": [
     {
       "site": "JobGurus",
-      "id": "993fb79adc9da04a60b35bce4601c0ec",
-      "timestamp": 1765904015417
+      "id": "a9c3a87eb3afcb8e73bf4c1c9e45848a",
+      "timestamp": 1770040750156
+    },
+    {
+      "site": "JobGurus",
+      "id": "07caf588bea7e491c39a7bee00f1d8b6",
+      "timestamp": 1770040750156
     }
   ],
   "visionspring": [
@@ -26730,6 +26735,20 @@
       "site": "JobGurus",
       "id": "7075c91d24c67214a7d0de3aea245589",
       "timestamp": 1770036667277
+    }
+  ],
+  "gig mobility (gigm)": [
+    {
+      "site": "JobGurus",
+      "id": "0c3c227f474108c329917af73b068227",
+      "timestamp": 1770040750156
+    }
+  ],
+  "o.peenice adio global enterprise": [
+    {
+      "site": "JobGurus",
+      "id": "96827a146a4784acda406f0d9413c576",
+      "timestamp": 1770040750156
     }
   ]
 }
