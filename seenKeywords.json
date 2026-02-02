@@ -6881,6 +6881,11 @@
       "site": "JobGurus",
       "id": "a871158d6ad75ad479ce56d42762f03f",
       "timestamp": 1769600597032
+    },
+    {
+      "site": "JobGurus",
+      "id": "783208375770074c02d01b0618f06de1",
+      "timestamp": 1770057434318
     }
   ],
   "dansol": [
@@ -7913,8 +7918,8 @@
   "kaplo africa": [
     {
       "site": "JobGurus",
-      "id": "f0809f4e8f04ac7383bbe46398d1b8c9",
-      "timestamp": 1768488542489
+      "id": "7acd89f61cfc0385938d2c8f23a4676a",
+      "timestamp": 1770057434318
     }
   ],
   "chemo-pharma laboratories limited": [
@@ -26803,6 +26808,27 @@
       "site": "JobGurus",
       "id": "ecd386ac2890adec1e4fd300609daf21",
       "timestamp": 1770053660044
+    }
+  ],
+  "updc plc": [
+    {
+      "site": "JobGurus",
+      "id": "ab7fa05f4f05482df95ef02ed350ab7c",
+      "timestamp": 1770057434318
+    }
+  ],
+  "bespoke urban luxury limited": [
+    {
+      "site": "JobGurus",
+      "id": "076c5560467b21a87a55bfc9733dba64",
+      "timestamp": 1770057434318
+    }
+  ],
+  "nigeriamarkt": [
+    {
+      "site": "JobGurus",
+      "id": "ec90d903fe5a133fdcde962ff0775cd5",
+      "timestamp": 1770057434318
     }
   ]
 }
