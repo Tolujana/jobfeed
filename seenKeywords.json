@@ -3322,13 +3322,8 @@
   "prestigious homes limited": [
     {
       "site": "JobGurus",
-      "id": "c100be9e1d44d08b79f2f62e13eee98a",
-      "timestamp": 1764941355373
-    },
-    {
-      "site": "JobGurus",
-      "id": "31722ce7ecb3f3345318e5e5d2e07055",
-      "timestamp": 1764941355373
+      "id": "82cb14e70647299dd7fe4fab56f4365d",
+      "timestamp": 1770135032519
     }
   ],
   "excellent jobs": [
@@ -4620,8 +4615,8 @@
   "kelina hospital": [
     {
       "site": "JobGurus",
-      "id": "74a6a333c439460273b7c7ee54dee435",
-      "timestamp": 1753433383390
+      "id": "3a72c47b0f1acad325c5a0d2b427ec3e",
+      "timestamp": 1770135032519
     }
   ],
   "kaelot gift shop": [
@@ -26875,6 +26870,25 @@
       "site": "JobGurus",
       "id": "c6eaf094df3c2e5b5c12d06194bd4ec3",
       "timestamp": 1770131321557
+    }
+  ],
+  "afripoint group": [
+    {
+      "site": "JobGurus",
+      "id": "db3a05664f592b9f9d7f8300fa58b98e",
+      "timestamp": 1770135032519
+    },
+    {
+      "site": "JobGurus",
+      "id": "db33e9e9a00393beaca0d38f4d7b9b8d",
+      "timestamp": 1770135032519
+    }
+  ],
+  "good food avenue": [
+    {
+      "site": "JobGurus",
+      "id": "a5e66d2b3fc80741e2e5e4a7bd7079b6",
+      "timestamp": 1770135032519
     }
   ]
 }
