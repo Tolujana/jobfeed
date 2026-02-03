@@ -3289,8 +3289,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "0308514681c401c152e84301c1ad691f",
-      "timestamp": 1768839819566
+      "id": "d7f6177a9ca50d0c20fd9a2939592142",
+      "timestamp": 1770131321557
     }
   ],
   "abnl limited": [
@@ -4662,8 +4662,8 @@
   "bretty consultancy services": [
     {
       "site": "JobGurus",
-      "id": "c18c1e685749ad2a46f7e505b184275b",
-      "timestamp": 1763731499116
+      "id": "e43d59739ae4eeb005d85c7aa2deaebb",
+      "timestamp": 1770131321557
     }
   ],
   "neohomes limited": [
@@ -26863,6 +26863,18 @@
       "site": "JobGurus",
       "id": "218b2d86e3e3d2dac939e05b613d8522",
       "timestamp": 1770074626214
+    }
+  ],
+  "watt renewable nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "cd51602f678ce387bf40adfe2eaf7fe1",
+      "timestamp": 1770131321557
+    },
+    {
+      "site": "JobGurus",
+      "id": "c6eaf094df3c2e5b5c12d06194bd4ec3",
+      "timestamp": 1770131321557
     }
   ]
 }
