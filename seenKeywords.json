@@ -2772,8 +2772,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "71f8aa69eb49695d0b5145f0250020b1",
-      "timestamp": 1769527829640
+      "id": "658be1dce08616d6ad5c381ae5d66349",
+      "timestamp": 1770146680814
     }
   ],
   "netcom africa": [
@@ -19385,8 +19385,8 @@
   "xfp productions": [
     {
       "site": "JobGurus",
-      "id": "f75ce0c11a5303d93678c1b5d3ab4e69",
-      "timestamp": 1761322757170
+      "id": "b2c6ae861aeb71f9b42309b60b8ef474",
+      "timestamp": 1770146680814
     }
   ],
   "learners burg limited": [
@@ -22950,6 +22950,11 @@
       "site": "JobGurus",
       "id": "743727976de8a2c16edbb694c68df4b0",
       "timestamp": 1769781145603
+    },
+    {
+      "site": "JobGurus",
+      "id": "a3d59e300208469d6584190eb91ca155",
+      "timestamp": 1770146680814
     }
   ],
   "doii design limited": [
@@ -26915,6 +26920,20 @@
       "site": "JobGurus",
       "id": "9b893c278635a3d81de6d7fa77ccda8a",
       "timestamp": 1770142236794
+    }
+  ],
+  "jocaro nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "53e0965446dcdd05d522f78a1db7e92a",
+      "timestamp": 1770146680814
+    }
+  ],
+  "matna foods limited": [
+    {
+      "site": "JobGurus",
+      "id": "14a4d9e2e846e761a22448b19feff6d7",
+      "timestamp": 1770146680814
     }
   ]
 }
