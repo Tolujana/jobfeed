@@ -6452,18 +6452,13 @@
   "lopterra services limited": [
     {
       "site": "JobGurus",
-      "id": "f81d0a21b50610a1add2bb1a5c486011",
-      "timestamp": 1769082222237
+      "id": "24304a204a5e4ab063647b88bb7fea84",
+      "timestamp": 1770205963800
     },
     {
       "site": "JobGurus",
-      "id": "e60f52e84d67b57f0d2c11e304947820",
-      "timestamp": 1769082222237
-    },
-    {
-      "site": "JobGurus",
-      "id": "4f4e2e31fae478f2f3aa4257219aef86",
-      "timestamp": 1769093719484
+      "id": "585f326d43923b6c3e902b6a3cdb347a",
+      "timestamp": 1770205963800
     }
   ],
   "tizeti network limited": [
@@ -26960,6 +26955,20 @@
       "site": "JobGurus",
       "id": "4d65b009e73409ef2bce2f288c19ca2e",
       "timestamp": 1770148665885
+    }
+  ],
+  "archin unity": [
+    {
+      "site": "JobGurus",
+      "id": "9ec732584128f8d93c9cd1c7e7924453",
+      "timestamp": 1770205963800
+    }
+  ],
+  "packs\"n\"balloons": [
+    {
+      "site": "JobGurus",
+      "id": "74bdce6507cbd9664e6cdd038aa0a43c",
+      "timestamp": 1770205963800
     }
   ]
 }
