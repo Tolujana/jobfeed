@@ -3157,13 +3157,8 @@
   "wiocc nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "552998522febc27ae6302c78559a4360",
-      "timestamp": 1768573177565
-    },
-    {
-      "site": "JobGurus",
-      "id": "8a998037ac9c1fa15e0f9294a2394d2d",
-      "timestamp": 1769175560414
+      "id": "3fee12e0572182722456d4c124f16340",
+      "timestamp": 1770221172743
     }
   ],
   "husk power energy systems nigeria limited": [
@@ -4474,13 +4469,13 @@
   "interswitch": [
     {
       "site": "JobGurus",
-      "id": "957559b2ca58d3150fe91ab8d19ce2f5",
-      "timestamp": 1769599206016
+      "id": "801a4da661561b207c28cad4acae3ec1",
+      "timestamp": 1770053660044
     },
     {
       "site": "JobGurus",
-      "id": "801a4da661561b207c28cad4acae3ec1",
-      "timestamp": 1770053660044
+      "id": "a84d19bf7db21fb7605b143bf4ed0a6e",
+      "timestamp": 1770221172743
     }
   ],
   "human capital group": [
@@ -11672,8 +11667,8 @@
   "rentachef ng": [
     {
       "site": "JobGurus",
-      "id": "52bd7387ea11ffb8c551927c74c3eee8",
-      "timestamp": 1757949409995
+      "id": "f8c1a4fc00598c7d46bff47fd35ff516",
+      "timestamp": 1770221172743
     }
   ],
   "broadlog support services limited": [
@@ -27012,6 +27007,13 @@
       "site": "JobGurus",
       "id": "39a3684c8c9e05a818c68e28fef24fd2",
       "timestamp": 1770217586391
+    }
+  ],
+  "conclase consulting": [
+    {
+      "site": "JobGurus",
+      "id": "121110cbe670e6ec9167431e845808bd",
+      "timestamp": 1770221172743
     }
   ]
 }
