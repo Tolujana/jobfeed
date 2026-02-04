@@ -2267,13 +2267,8 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "ac4ef6ca708c6c6e82aeee2a47a8d015",
-      "timestamp": 1769442667332
-    },
-    {
-      "site": "JobGurus",
-      "id": "3f3541c383975a41e719a813a791a02b",
-      "timestamp": 1769442667332
+      "id": "9b6777d0072841e284233d17d334ea58",
+      "timestamp": 1770209453710
     }
   ],
   "flees global services": [
@@ -6459,6 +6454,16 @@
       "site": "JobGurus",
       "id": "585f326d43923b6c3e902b6a3cdb347a",
       "timestamp": 1770205963800
+    },
+    {
+      "site": "JobGurus",
+      "id": "b75f0b6e7ae963ea42fa132c0bcbe741",
+      "timestamp": 1770209453710
+    },
+    {
+      "site": "JobGurus",
+      "id": "80cad47519ee51c0b9f2ecdc8ce00ea2",
+      "timestamp": 1770209453710
     }
   ],
   "tizeti network limited": [
@@ -19845,13 +19850,13 @@
   "stellar international company limited": [
     {
       "site": "JobGurus",
-      "id": "b07ccf42f62291fd37e4bb4f3d476b46",
-      "timestamp": 1769595835825
+      "id": "2f523be5afcbb43e5e0245e086a184c5",
+      "timestamp": 1769777036043
     },
     {
       "site": "JobGurus",
-      "id": "2f523be5afcbb43e5e0245e086a184c5",
-      "timestamp": 1769777036043
+      "id": "47c2bcbaa82a16dc9414ef2d28dc0a7f",
+      "timestamp": 1770209453710
     }
   ],
   "ab microfinance bank nigeria": [
@@ -26969,6 +26974,13 @@
       "site": "JobGurus",
       "id": "74bdce6507cbd9664e6cdd038aa0a43c",
       "timestamp": 1770205963800
+    }
+  ],
+  "cubenox": [
+    {
+      "site": "JobGurus",
+      "id": "cbb31b50ffc9c219ad2b838e383fb9e3",
+      "timestamp": 1770209453710
     }
   ]
 }
