@@ -560,23 +560,8 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "79dcf6315dd2572719f2eee85e766977",
-      "timestamp": 1769437504450
-    },
-    {
-      "site": "JobGurus",
-      "id": "3f1e8f294348ac6969ea84b1e3034f0a",
-      "timestamp": 1769506629113
-    },
-    {
-      "site": "JobGurus",
-      "id": "860d0b9cdd80d42f715ac0721c3d6d83",
-      "timestamp": 1769523924047
-    },
-    {
-      "site": "JobGurus",
-      "id": "165fb7882482b798225a37a586d1004b",
-      "timestamp": 1769610324482
+      "id": "4751f191f652a5b1c4cabf1856730ac2",
+      "timestamp": 1770296007886
     }
   ],
   "abbfem group": [
@@ -946,13 +931,8 @@
   "petrogap oil and gas limited": [
     {
       "site": "JobGurus",
-      "id": "d6e9b6ed9bcac265d7d88540cc779d23",
-      "timestamp": 1755548190789
-    },
-    {
-      "site": "JobGurus",
-      "id": "91d071cf63a5d0845b6ee5e69b31b322",
-      "timestamp": 1756147722163
+      "id": "0ee3e6460bf946985c5c6768c18d24f2",
+      "timestamp": 1770296007886
     }
   ],
   "jameda concepts": [
@@ -2343,13 +2323,8 @@
   "lily hospitals limited": [
     {
       "site": "JobGurus",
-      "id": "a8a4d9d1dd353f5fda9d8d8f75fad4ca",
-      "timestamp": 1767633543535
-    },
-    {
-      "site": "JobGurus",
-      "id": "d314aedf7d254c744492ece3c5813ead",
-      "timestamp": 1768231283504
+      "id": "1362c0155f1d6ecee3925f71a6c80703",
+      "timestamp": 1770296007886
     }
   ],
   "federal polytechnic, bida.": [
@@ -27073,6 +27048,13 @@
       "site": "JobGurus",
       "id": "776fa25bed2c59d0c2376fd136eb8da6",
       "timestamp": 1770291106243
+    }
+  ],
+  "lamlan digital solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "d87d3c7d3bc16337c8af49f08d71fd60",
+      "timestamp": 1770296007886
     }
   ]
 }
