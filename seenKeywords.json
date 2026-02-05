@@ -2454,6 +2454,11 @@
       "site": "JobGurus",
       "id": "273872572f9ed3d7d58fddd3c7722120",
       "timestamp": 1769869242698
+    },
+    {
+      "site": "JobGurus",
+      "id": "b677c09b9f9997752b7d7244312c2c1d",
+      "timestamp": 1770300174500
     }
   ],
   "greenfield consulting": [
@@ -10144,8 +10149,8 @@
   "firstexcelsia professional services": [
     {
       "site": "JobGurus",
-      "id": "2f970fef3c1b46eeb504e6726ad4f09e",
-      "timestamp": 1755109314978
+      "id": "ebb37dd9440d86987830105039fb1e42",
+      "timestamp": 1770300174500
     }
   ],
   "pem security services": [
@@ -17397,8 +17402,8 @@
   "kydal office point (kop)": [
     {
       "site": "JobGurus",
-      "id": "3fbfbcde376e51055a5fc73e1eed79eb",
-      "timestamp": 1763465855347
+      "id": "b4d37b18bac65b26c35a36744882350b",
+      "timestamp": 1770300174500
     }
   ],
   "wazobia cosmetics": [
@@ -27055,6 +27060,20 @@
       "site": "JobGurus",
       "id": "d87d3c7d3bc16337c8af49f08d71fd60",
       "timestamp": 1770296007886
+    }
+  ],
+  "tenn microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "8b2817d6e5e542a05f9fa11095f21830",
+      "timestamp": 1770300174500
+    }
+  ],
+  "pistis firm": [
+    {
+      "site": "JobGurus",
+      "id": "a63c4ac692a27bdf0fb7609592f2a9f0",
+      "timestamp": 1770300174500
     }
   ]
 }
