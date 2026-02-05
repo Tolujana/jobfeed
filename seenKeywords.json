@@ -610,8 +610,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "66ca8acdcce6db560cbe4e58e67a9ebe",
-      "timestamp": 1769682733653
+      "id": "addf87de28a6fe0fffff448bd29709f8",
+      "timestamp": 1770291106243
     }
   ],
   "divine infinity college": [
@@ -7399,8 +7399,8 @@
   "noemdek limited": [
     {
       "site": "JobGurus",
-      "id": "e56f937b52dd7f1192c0b922c5010223",
-      "timestamp": 1764337583883
+      "id": "dc69f0237e0675327292c37d6a73b48c",
+      "timestamp": 1770291106243
     }
   ],
   "nordica fertility clinic": [
@@ -20276,8 +20276,8 @@
   "bluepeak hr services": [
     {
       "site": "JobGurus",
-      "id": "f5988ef6d30b5a0ae5c8115f0e16e258",
-      "timestamp": 1768562167988
+      "id": "fba0ae6ccf2b8d9095a004edb70cad4c",
+      "timestamp": 1770291106243
     }
   ],
   "dtech centrix plus limited": [
@@ -27059,6 +27059,20 @@
       "site": "JobGurus",
       "id": "e5ed76e91356441865a7b79a58562c17",
       "timestamp": 1770287774938
+    }
+  ],
+  "lily college of nursing sciences (lcns)": [
+    {
+      "site": "JobGurus",
+      "id": "852fef86fd59cc47bbd1ae417752b27c",
+      "timestamp": 1770291106243
+    }
+  ],
+  "mkobo microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "776fa25bed2c59d0c2376fd136eb8da6",
+      "timestamp": 1770291106243
     }
   ]
 }
