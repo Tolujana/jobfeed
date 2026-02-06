@@ -4432,6 +4432,11 @@
       "site": "JobGurus",
       "id": "454d9ce89744bff06373705498f482e7",
       "timestamp": 1769872732134
+    },
+    {
+      "site": "JobGurus",
+      "id": "d77e4c38029ee53198df7094435eafd5",
+      "timestamp": 1770393744163
     }
   ],
   "mediplan healthcare limited": [
@@ -4599,8 +4604,8 @@
   "lafarge africa plc": [
     {
       "site": "JobGurus",
-      "id": "ba0bfa959814c229774772cae9bb4d54",
-      "timestamp": 1768834331836
+      "id": "22bea39da4e2fba0b0488b940aed7f03",
+      "timestamp": 1770393744163
     }
   ],
   "human capital partners": [
@@ -17415,8 +17420,8 @@
   "royal power and energy limited": [
     {
       "site": "JobGurus",
-      "id": "773321fa543c183ed1f86cd63ab820f4",
-      "timestamp": 1762201090369
+      "id": "0d801bdfd6beab0580b27b453311e147",
+      "timestamp": 1770393744163
     }
   ],
   "kydal office point (kop)": [
@@ -27187,6 +27192,20 @@
       "site": "JobGurus",
       "id": "4f4d65922a1f532de85a9c5931ee26e1",
       "timestamp": 1770390371768
+    }
+  ],
+  "newedge finance limited": [
+    {
+      "site": "JobGurus",
+      "id": "ac29a437ba79f549c8b0a522a69900bc",
+      "timestamp": 1770393744163
+    }
+  ],
+  "skyline international tourism & hospitality ltd": [
+    {
+      "site": "JobGurus",
+      "id": "611bfd7ada3c93fa57b8e22db833458e",
+      "timestamp": 1770393744163
     }
   ]
 }
