@@ -3555,8 +3555,8 @@
   "ge (nyse:ge)": [
     {
       "site": "JobGurus",
-      "id": "8c94d224e753bc0c6f54c40d92c2128d",
-      "timestamp": 1750174966432
+      "id": "a1c98ba7f671d893b321d0fa2ca4271f",
+      "timestamp": 1770386585274
     }
   ],
   "abuja’s favourite supermarket": [
@@ -6698,8 +6698,8 @@
   "firewood rice nigeria": [
     {
       "site": "JobGurus",
-      "id": "1a0547c6c97609e3ac0badcc0aae9b6b",
-      "timestamp": 1767368509434
+      "id": "13b216b7c653737aa8eda342809f1e55",
+      "timestamp": 1770386585274
     }
   ],
   "eden solution and resources limited": [
@@ -24670,13 +24670,18 @@
   "smartflow technologies limited": [
     {
       "site": "JobGurus",
-      "id": "8839287af3b1e32105ff68cc8e530139",
-      "timestamp": 1767453354834
+      "id": "ba847ab5d07f196e76a5ca780c6889f9",
+      "timestamp": 1770386585274
     },
     {
       "site": "JobGurus",
-      "id": "d40391d42b8a10852374b8412d82493a",
-      "timestamp": 1767454735062
+      "id": "98c0d7f0ff5d9c8cac436be05b22aeb4",
+      "timestamp": 1770386585274
+    },
+    {
+      "site": "JobGurus",
+      "id": "64535fef696b4c9cb5b446a5088dcf13",
+      "timestamp": 1770386585274
     }
   ],
   " enoella consultis": [
