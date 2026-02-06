@@ -2590,6 +2590,11 @@
       "site": "JobGurus",
       "id": "090920cbd74a8bd1543a5cf64058897f",
       "timestamp": 1770287774938
+    },
+    {
+      "site": "JobGurus",
+      "id": "ea43acc3d863140b45421766b8296f12",
+      "timestamp": 1770377392914
     }
   ],
   "international fertilizer development center": [
@@ -8625,6 +8630,11 @@
       "site": "JobGurus",
       "id": "73ef49d905010ae4bb3ed164ef6988fe",
       "timestamp": 1770074626214
+    },
+    {
+      "site": "JobGurus",
+      "id": "87b807835ad3fb60261fe6f9192e4ed8",
+      "timestamp": 1770377392914
     }
   ],
   "cornelli and mosh consults limited": [
@@ -26914,6 +26924,11 @@
       "site": "JobGurus",
       "id": "94e8e26e49f806be8ff572cd1a82ecdc",
       "timestamp": 1770148665885
+    },
+    {
+      "site": "JobGurus",
+      "id": "a08f0c15d4ae9c7e257c59bee7a7f07b",
+      "timestamp": 1770377392914
     }
   ],
   "soft intelligent machines limited": [
@@ -27110,6 +27125,20 @@
       "site": "JobGurus",
       "id": "1576901cef4414bba11ad47f69833c4c",
       "timestamp": 1770314938500
+    }
+  ],
+  "grado konnects": [
+    {
+      "site": "JobGurus",
+      "id": "7cefd4b4d3feac9878959380f5bf1e60",
+      "timestamp": 1770377392914
+    }
+  ],
+  "amsco": [
+    {
+      "site": "JobGurus",
+      "id": "aa15175bd5e7bbb84054c2d2ab8c52c0",
+      "timestamp": 1770377392914
     }
   ]
 }
