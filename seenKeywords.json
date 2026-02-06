@@ -2977,8 +2977,13 @@
   "erisco foods limited": [
     {
       "site": "JobGurus",
-      "id": "069f0271f70821f9f790f7bb3b7e0d6c",
-      "timestamp": 1763044786773
+      "id": "23126185a00a05f26ea93d72c0ed8087",
+      "timestamp": 1770378997543
+    },
+    {
+      "site": "JobGurus",
+      "id": "54e9c2df7a87b605adbb7635ef211f19",
+      "timestamp": 1770378997543
     }
   ],
   "lauvee beauty salon": [
@@ -4933,8 +4938,8 @@
   "future moves recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "63473b47082fb8476c55e5f0aa1c1640",
-      "timestamp": 1768826431888
+      "id": "f6409ea1e134219cac284d46a882afab",
+      "timestamp": 1770378997543
     }
   ],
   "renda limited": [
@@ -11503,8 +11508,8 @@
   "jiji.ng": [
     {
       "site": "JobGurus",
-      "id": "39b6dd3cb99cabf19a194f708979828c",
-      "timestamp": 1764155680884
+      "id": "5a01546bb9a64f943e94553c45784999",
+      "timestamp": 1770378997543
     }
   ],
   "global peace development": [
@@ -27139,6 +27144,13 @@
       "site": "JobGurus",
       "id": "aa15175bd5e7bbb84054c2d2ab8c52c0",
       "timestamp": 1770377392914
+    }
+  ],
+  "multinational technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "9ec272abb5298c81e41ce37becb9ce7d",
+      "timestamp": 1770378997543
     }
   ]
 }
