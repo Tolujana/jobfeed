@@ -1522,6 +1522,11 @@
       "site": "JobGurus",
       "id": "2ac420e51a107597627b6948714e25ec",
       "timestamp": 1770454511367
+    },
+    {
+      "site": "JobGurus",
+      "id": "8f76d5573f0198c8278200b00dfcc374",
+      "timestamp": 1770459652598
     }
   ],
   "straitpay": [
@@ -17717,6 +17722,11 @@
       "site": "JobGurus",
       "id": "3bfed061e91548e95776652abaec3d23",
       "timestamp": 1770452739280
+    },
+    {
+      "site": "JobGurus",
+      "id": "7efb41a223948682bb5720a791b7170f",
+      "timestamp": 1770459652598
     }
   ],
   "mamacass restaurants limited": [
@@ -21572,8 +21582,13 @@
   "gravitas lands and homes limited": [
     {
       "site": "JobGurus",
-      "id": "f12282c163b944885009b9895e5c9043",
-      "timestamp": 1765968441165
+      "id": "c9d8b5affdebe69d4c9948046b4fb817",
+      "timestamp": 1770459652598
+    },
+    {
+      "site": "JobGurus",
+      "id": "f9ce85b0b2844ac5418b2151cac96874",
+      "timestamp": 1770459652598
     }
   ],
   "energy people africa": [
@@ -27232,6 +27247,13 @@
       "site": "JobGurus",
       "id": "f29fb696cc6e39efe84fa5313e464337",
       "timestamp": 1770457986874
+    }
+  ],
+  "adereal technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "499bfec7da65f4bffb21fc8e700dbac9",
+      "timestamp": 1770459652598
     }
   ]
 }
