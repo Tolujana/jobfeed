@@ -7712,8 +7712,8 @@
   "gbenga badejo & co": [
     {
       "site": "JobGurus",
-      "id": "0e2cc74676a1869e7a7f38e1511ccbc5",
-      "timestamp": 1752247038655
+      "id": "87d5279e7da56159e1f54a82915e15ea",
+      "timestamp": 1770456396069
     }
   ],
   "standard group": [
@@ -27211,6 +27211,20 @@
       "site": "JobGurus",
       "id": "611bfd7ada3c93fa57b8e22db833458e",
       "timestamp": 1770393744163
+    }
+  ],
+  "fina trust microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "65d459f0e4b837ade0be2d0b5afe6ffa",
+      "timestamp": 1770456396069
+    }
+  ],
+  "arq studios": [
+    {
+      "site": "JobGurus",
+      "id": "02af02701b83a44a2a695c5bcf549594",
+      "timestamp": 1770456396069
     }
   ]
 }
