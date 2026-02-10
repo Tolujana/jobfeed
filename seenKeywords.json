@@ -22813,13 +22813,8 @@
   "crossover microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "5968933d7e4cd5fef5b0490f05276a71",
-      "timestamp": 1764674151206
-    },
-    {
-      "site": "JobGurus",
-      "id": "7f4685dc6a028130ac881f34a9c66462",
-      "timestamp": 1764675504056
+      "id": "788e2301daef2e80abac6666c1acd203",
+      "timestamp": 1770764792457
     }
   ],
   "nigeria markt": [
@@ -26895,13 +26890,8 @@
   "afripoint group": [
     {
       "site": "JobGurus",
-      "id": "db3a05664f592b9f9d7f8300fa58b98e",
-      "timestamp": 1770135032519
-    },
-    {
-      "site": "JobGurus",
-      "id": "db33e9e9a00393beaca0d38f4d7b9b8d",
-      "timestamp": 1770135032519
+      "id": "300ef7fbaefa6723f6132d0afa62e260",
+      "timestamp": 1770764792457
     }
   ],
   "good food avenue": [
@@ -27254,6 +27244,13 @@
       "site": "JobGurus",
       "id": "499bfec7da65f4bffb21fc8e700dbac9",
       "timestamp": 1770459652598
+    }
+  ],
+  "aryville homes": [
+    {
+      "site": "JobGurus",
+      "id": "264f48fde89584c21e85d1b63ac628b5",
+      "timestamp": 1770764792457
     }
   ]
 }
