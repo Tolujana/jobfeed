@@ -3196,8 +3196,13 @@
   "invealth partners limited": [
     {
       "site": "JobGurus",
-      "id": "d4b0eaad2a458db00f00a2021085cb53",
-      "timestamp": 1766503067913
+      "id": "16f6728fdfa04965b0f0a06f44b972be",
+      "timestamp": 1770768019430
+    },
+    {
+      "site": "JobGurus",
+      "id": "cb2b57bbb24d3be0e015bb1c96db1be9",
+      "timestamp": 1770768019430
     }
   ],
   "doah enterprise": [
@@ -27251,6 +27256,23 @@
       "site": "JobGurus",
       "id": "264f48fde89584c21e85d1b63ac628b5",
       "timestamp": 1770764792457
+    },
+    {
+      "site": "JobGurus",
+      "id": "eaa8602dc2fdf2b9b8f0db5894a41193",
+      "timestamp": 1770768019430
+    },
+    {
+      "site": "JobGurus",
+      "id": "f3b5135b3ee571df139f051f20339f70",
+      "timestamp": 1770768019430
+    }
+  ],
+  "nirvana synergy": [
+    {
+      "site": "JobGurus",
+      "id": "d1e3e6d3b171bfb0258679f51310926c",
+      "timestamp": 1770768019430
     }
   ]
 }
