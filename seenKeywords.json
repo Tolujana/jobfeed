@@ -1056,8 +1056,8 @@
   "fave consulting": [
     {
       "site": "JobGurus",
-      "id": "9d8c6757245bab78eefd174e3158c4b0",
-      "timestamp": 1764775109913
+      "id": "475a1dec3573a15eaa8795a8ec2cab3d",
+      "timestamp": 1770823934926
     }
   ],
   "revent technologies limited": [
@@ -2907,8 +2907,8 @@
   "eko maintenance limited": [
     {
       "site": "JobGurus",
-      "id": "5e38428580648f4f76f6b60512d6b085",
-      "timestamp": 1770139579313
+      "id": "24951bf06573aa88715132e9e7a07a0b",
+      "timestamp": 1770823934926
     }
   ],
   "hellofresh fast food": [
@@ -5042,8 +5042,8 @@
   "tophire africa": [
     {
       "site": "JobGurus",
-      "id": "67d8c1d90c545f4dcd3b6132f7864380",
-      "timestamp": 1769783533574
+      "id": "e91e06164ab56a39b932721383032e0a",
+      "timestamp": 1770823934926
     }
   ],
   "sao group": [
@@ -27282,6 +27282,13 @@
       "site": "JobGurus",
       "id": "8952652f18a6142a15ab2befa0193188",
       "timestamp": 1770787446777
+    }
+  ],
+  "choice hospitality": [
+    {
+      "site": "JobGurus",
+      "id": "f87e1f7d21baa73bd20d9a0393136a4e",
+      "timestamp": 1770823934926
     }
   ]
 }
