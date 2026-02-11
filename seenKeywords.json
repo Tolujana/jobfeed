@@ -4930,8 +4930,8 @@
   "monmartt": [
     {
       "site": "JobGurus",
-      "id": "9a6e4fbbc00856a72eed25292dda34f4",
-      "timestamp": 1756917811932
+      "id": "ba8c740cd5e7d56de14b1dc13a9241c4",
+      "timestamp": 1770829225017
     }
   ],
   "smart partners consulting limited": [
@@ -9141,8 +9141,8 @@
   "logisoft solutions": [
     {
       "site": "JobGurus",
-      "id": "d3c1beac359a7f067904f49c148b4fa4",
-      "timestamp": 1759250645066
+      "id": "110274a968dcbb093c997e3f1a2fe83a",
+      "timestamp": 1770829225017
     }
   ],
   "tamak logistics": [
@@ -10050,8 +10050,8 @@
   "tezza business solutions limited": [
     {
       "site": "JobGurus",
-      "id": "8d9d52f5560b5448a832bb6e7b19f876",
-      "timestamp": 1769690897793
+      "id": "ec4401f7fd6e7a0cbacf57f777e21d30",
+      "timestamp": 1770829225017
     }
   ],
   "regent microfinance bank limited": [
@@ -27289,6 +27289,13 @@
       "site": "JobGurus",
       "id": "f87e1f7d21baa73bd20d9a0393136a4e",
       "timestamp": 1770823934926
+    }
+  ],
+  "sageto limited": [
+    {
+      "site": "JobGurus",
+      "id": "501ef2ae927f7313422f30ae208ca3ae",
+      "timestamp": 1770829225017
     }
   ]
 }
