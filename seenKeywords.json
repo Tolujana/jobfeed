@@ -598,6 +598,11 @@
       "site": "JobGurus",
       "id": "de6a7bdf83434b8df2be32c81c0c094a",
       "timestamp": 1770382718770
+    },
+    {
+      "site": "JobGurus",
+      "id": "a42ab2735bb6e7c2c6fbd3b28653bdbb",
+      "timestamp": 1770909170399
     }
   ],
   "teamace limited": [
@@ -12857,13 +12862,8 @@
   "castel resources consultancy limited": [
     {
       "site": "JobGurus",
-      "id": "bc128473634071bbc584dbc7f2f586f0",
-      "timestamp": 1769686044475
-    },
-    {
-      "site": "JobGurus",
-      "id": "2b6a5941a8d950d40722355f2b3ee3a0",
-      "timestamp": 1769687549886
+      "id": "6a88eb445dc9335eec063475ee3e6807",
+      "timestamp": 1770909170399
     }
   ],
   "fidson healthcare plc": [
@@ -18928,13 +18928,8 @@
   "lavita group": [
     {
       "site": "JobGurus",
-      "id": "5e9b3ceda810e6fab14d82f0d795f305",
-      "timestamp": 1768380824123
-    },
-    {
-      "site": "JobGurus",
-      "id": "47b121fbf30f5168f2e8fdf72fe24bf9",
-      "timestamp": 1768380824123
+      "id": "bb3e339a1387ed9a944ea12a3499d229",
+      "timestamp": 1770909170399
     }
   ],
   "development exchange centre (dec)": [
@@ -23914,8 +23909,8 @@
   "lvtopsun new energy company limited": [
     {
       "site": "JobGurus",
-      "id": "2e05547b2558222a93b54c6557236972",
-      "timestamp": 1769437504450
+      "id": "fd9e41264c9d8094a4d8ab6d0b4f589e",
+      "timestamp": 1770909170399
     }
   ],
   "trucksoft logistics": [
@@ -27370,6 +27365,13 @@
       "site": "JobGurus",
       "id": "f4b62c217623b2ddcf8c42ef89b1b688",
       "timestamp": 1770905531332
+    }
+  ],
+  "manufacturers association of nigeria (man)": [
+    {
+      "site": "JobGurus",
+      "id": "ec6a67459b830d67907b07993d8d6f07",
+      "timestamp": 1770909170399
     }
   ]
 }
