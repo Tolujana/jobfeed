@@ -603,8 +603,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "5280c96f0fe04781b3a8dcb4268daba8",
-      "timestamp": 1769595835825
+      "id": "2961ad964b470c5c49c8cbc2150b93f2",
+      "timestamp": 1770901096548
     }
   ],
   "food concepts plc": [
@@ -2849,8 +2849,13 @@
   "hotel capitol": [
     {
       "site": "JobGurus",
-      "id": "ab4da6d2d170aeac369c7037d6b4d87d",
-      "timestamp": 1769527829640
+      "id": "962d8b4b1681ad1b1b49ad8547db91c0",
+      "timestamp": 1770901096548
+    },
+    {
+      "site": "JobGurus",
+      "id": "d7cff8776d31b9e5d8d38ed48f6a79c1",
+      "timestamp": 1770901096548
     }
   ],
   "total secure nigeria limited": [
@@ -10735,8 +10740,8 @@
   "ledgerly": [
     {
       "site": "JobGurus",
-      "id": "c458e58729ebb341c51eee2ded13ba68",
-      "timestamp": 1754299663963
+      "id": "cfc42c15f492c9a03538f81cf31d514c",
+      "timestamp": 1770901096548
     }
   ],
   "guinness nigeria plc": [
@@ -27337,6 +27342,13 @@
       "site": "JobGurus",
       "id": "d955dbe8d9a413e4e6e4742d88a4ea95",
       "timestamp": 1770833591662
+    }
+  ],
+  "fronthill limited": [
+    {
+      "site": "JobGurus",
+      "id": "b5ea11afde8a36f23e89a5edae35af9f",
+      "timestamp": 1770901096548
     }
   ]
 }
