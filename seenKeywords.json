@@ -5095,8 +5095,8 @@
   "brands optimal limited": [
     {
       "site": "JobGurus",
-      "id": "622df380d7e90dbfd17f07651f59b174",
-      "timestamp": 1769686044475
+      "id": "13580fdc06c7f9d618afda8bf4a4ebb6",
+      "timestamp": 1770991390988
     }
   ],
   "max drive": [
@@ -23094,13 +23094,8 @@
   "jewels leading lights academy": [
     {
       "site": "JobGurus",
-      "id": "183f2eece9302041a12fdbb2f5457f09",
-      "timestamp": 1764875746992
-    },
-    {
-      "site": "JobGurus",
-      "id": "dc26112bb33b0b4283699b240c096d27",
-      "timestamp": 1764875746992
+      "id": "b59090581fabe7e55a666a2735cae206",
+      "timestamp": 1770991390988
     }
   ],
   "venus67 foundation": [
@@ -26741,8 +26736,8 @@
   "marbleclear limited": [
     {
       "site": "JobGurus",
-      "id": "49cf8b5369d1e9f0faa18868dadd8206",
-      "timestamp": 1769872732134
+      "id": "87213d2ba03fb0df9f9a55294a9c91d7",
+      "timestamp": 1770991390988
     }
   ],
   "bedum estate management and development (bemd)": [
@@ -27379,6 +27374,20 @@
       "site": "JobGurus",
       "id": "db1b65710425889841134673d4cf39b0",
       "timestamp": 1770987028845
+    }
+  ],
+  "kraks media limited": [
+    {
+      "site": "JobGurus",
+      "id": "fdb4fb06e35661b01d877ce0ace02c89",
+      "timestamp": 1770991390988
+    }
+  ],
+  "fernhill digital consulting": [
+    {
+      "site": "JobGurus",
+      "id": "561c99d9d4a13aa874807dcd8999b8db",
+      "timestamp": 1770991390988
     }
   ]
 }
