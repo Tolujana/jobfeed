@@ -610,6 +610,11 @@
       "site": "JobGurus",
       "id": "2961ad964b470c5c49c8cbc2150b93f2",
       "timestamp": 1770901096548
+    },
+    {
+      "site": "JobGurus",
+      "id": "6b9910b414b640f8f074abfff421319c",
+      "timestamp": 1770983669777
     }
   ],
   "food concepts plc": [
@@ -6929,13 +6934,8 @@
   "chilis restaurant": [
     {
       "site": "JobGurus",
-      "id": "69e0216f7e7549429b6c48b4c773d159",
-      "timestamp": 1769511243617
-    },
-    {
-      "site": "JobGurus",
-      "id": "11873912721d299abac955c0ea35f17d",
-      "timestamp": 1769514223624
+      "id": "4205910a4a6d67316185b5767d395dbb",
+      "timestamp": 1770983669777
     }
   ],
   "lendha technology limited": [
@@ -22331,8 +22331,13 @@
   "talenture group": [
     {
       "site": "JobGurus",
-      "id": "161e1bcc9beebf0e787d83f0c0ecdd92",
-      "timestamp": 1764171668151
+      "id": "bcb268b974a750bbf45e973dd814dbd0",
+      "timestamp": 1770983669777
+    },
+    {
+      "site": "JobGurus",
+      "id": "5a6df91c0499c18fb998dcfac0823854",
+      "timestamp": 1770983669777
     }
   ],
   "golden oil industries limited": [
@@ -27375,6 +27380,13 @@
       "site": "JobGurus",
       "id": "ae136a17b5452bfd870f0b41f79b2270",
       "timestamp": 1770922641852
+    }
+  ],
+  "african medical centre of excellence abuja(amce)": [
+    {
+      "site": "JobGurus",
+      "id": "07f356f45c1c79ab8c447d2663250550",
+      "timestamp": 1770983669777
     }
   ]
 }
