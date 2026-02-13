@@ -651,8 +651,8 @@
   "vantegral consulting": [
     {
       "site": "JobGurus",
-      "id": "b147b6573e806c789135520442f54d68",
-      "timestamp": 1770142236794
+      "id": "f105d2b3c8ccfb5a8edc91be6876a874",
+      "timestamp": 1770987028845
     }
   ],
   "private sector health alliance of nigeria": [
@@ -5868,6 +5868,11 @@
       "site": "JobGurus",
       "id": "f6d40f2ea7eb3756e2dc46e4f202af79",
       "timestamp": 1770922641852
+    },
+    {
+      "site": "JobGurus",
+      "id": "ff51030d070d17de1b7a2f0a8b5d3b16",
+      "timestamp": 1770987028845
     }
   ],
   "bon hotels sunshine": [
@@ -7496,13 +7501,8 @@
   "may publishing limited": [
     {
       "site": "JobGurus",
-      "id": "6f95fdebcd082354bf4e74d1be61c4ea",
-      "timestamp": 1764942595844
-    },
-    {
-      "site": "JobGurus",
-      "id": "0d1914044e66c72b9b485af2e5d9bfa8",
-      "timestamp": 1765383776127
+      "id": "29144a5ef2393cc57f60d5fd94f6d065",
+      "timestamp": 1770987028845
     }
   ],
   "neat microcredit": [
@@ -8782,23 +8782,8 @@
   "springrock group": [
     {
       "site": "JobGurus",
-      "id": "6ca4bb7306865b1b7a3392c3ad906e1d",
-      "timestamp": 1768819996688
-    },
-    {
-      "site": "JobGurus",
-      "id": "7cd27dbf5472f70010032b8d99044bc1",
-      "timestamp": 1768819996688
-    },
-    {
-      "site": "JobGurus",
-      "id": "b2ddc68846615e4392ddce593576e6a4",
-      "timestamp": 1768821503960
-    },
-    {
-      "site": "JobGurus",
-      "id": "a4be2fca28b3bafda8d3fe26e72cc301",
-      "timestamp": 1768916556574
+      "id": "d263dac35a474f9bcdfe811248e42021",
+      "timestamp": 1770987028845
     }
   ],
   "aava brands limited": [
@@ -27387,6 +27372,13 @@
       "site": "JobGurus",
       "id": "07f356f45c1c79ab8c447d2663250550",
       "timestamp": 1770983669777
+    }
+  ],
+  "sevic recruit": [
+    {
+      "site": "JobGurus",
+      "id": "db1b65710425889841134673d4cf39b0",
+      "timestamp": 1770987028845
     }
   ]
 }
