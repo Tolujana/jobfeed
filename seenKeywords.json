@@ -6220,8 +6220,8 @@
   "nigeria sinotruck limited": [
     {
       "site": "JobGurus",
-      "id": "4d9bc54d89bafa6a9f1f599e06442183",
-      "timestamp": 1758717082820
+      "id": "8860888fd7ea3f5e2554634aa5b023b9",
+      "timestamp": 1770995228024
     }
   ],
   "lington & bernie consulting limited": [
@@ -19435,8 +19435,13 @@
   "african steel mills nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6cdb4f7c7945f31fad63f8126179491d",
-      "timestamp": 1769700662628
+      "id": "e223dc969a153038ffcd3e7fb8b6dff4",
+      "timestamp": 1770995228024
+    },
+    {
+      "site": "JobGurus",
+      "id": "052e91a3d9b0e15ace46696717dacd72",
+      "timestamp": 1770995228024
     }
   ],
   "schlumberger limited": [
@@ -26479,13 +26484,8 @@
   "w.else nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "a5d7e0a69e32eb5d33fda870b2049578",
-      "timestamp": 1769600597032
-    },
-    {
-      "site": "JobGurus",
-      "id": "c1d64240a36bae5179a73a484f44a333",
-      "timestamp": 1769600597032
+      "id": "42d00319ec0203a22b81ff10be24b9fe",
+      "timestamp": 1770995228024
     }
   ],
   "pc place nigeria limited": [
@@ -27388,6 +27388,13 @@
       "site": "JobGurus",
       "id": "561c99d9d4a13aa874807dcd8999b8db",
       "timestamp": 1770991390988
+    }
+  ],
+  "estrada international staffing solutions (eiss)": [
+    {
+      "site": "JobGurus",
+      "id": "596a8519deba0dc336d7a7e60ef099d3",
+      "timestamp": 1770995228024
     }
   ]
 }
