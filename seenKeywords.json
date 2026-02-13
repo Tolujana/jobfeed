@@ -8799,6 +8799,16 @@
       "site": "JobGurus",
       "id": "d263dac35a474f9bcdfe811248e42021",
       "timestamp": 1770987028845
+    },
+    {
+      "site": "JobGurus",
+      "id": "4b21e3ab51599c97f47d8186f5ab988c",
+      "timestamp": 1771002704356
+    },
+    {
+      "site": "JobGurus",
+      "id": "12c396b6e9e69ccf9bf43f4c51a5972a",
+      "timestamp": 1771002704356
     }
   ],
   "aava brands limited": [
@@ -27410,6 +27420,13 @@
       "site": "JobGurus",
       "id": "596a8519deba0dc336d7a7e60ef099d3",
       "timestamp": 1770995228024
+    }
+  ],
+  "cruxstone development and investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "28a9d8278ea17963b72799e653a5b669",
+      "timestamp": 1771002704356
     }
   ]
 }
