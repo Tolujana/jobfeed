@@ -7933,8 +7933,8 @@
   "kaplo africa": [
     {
       "site": "JobGurus",
-      "id": "7acd89f61cfc0385938d2c8f23a4676a",
-      "timestamp": 1770057434318
+      "id": "156ad6e9a74eb87723233124983c93ba",
+      "timestamp": 1771102142900
     }
   ],
   "chemo-pharma laboratories limited": [
@@ -9665,6 +9665,11 @@
       "site": "JobGurus",
       "id": "3ba62b288e3f885028a297a0b54aa67f",
       "timestamp": 1771095616327
+    },
+    {
+      "site": "JobGurus",
+      "id": "c96964e284a86ba89f6b6fad13b561d6",
+      "timestamp": 1771102142900
     }
   ],
   "slum2school africa": [
@@ -19584,8 +19589,8 @@
   "prime university": [
     {
       "site": "JobGurus",
-      "id": "dd60df337709013e437eadd7a0334164",
-      "timestamp": 1762274794040
+      "id": "c92ce290a86787676a25822720ef6f06",
+      "timestamp": 1771102142900
     }
   ],
   "kamani group": [
@@ -27438,6 +27443,13 @@
       "site": "JobGurus",
       "id": "613486c922501cab22ffa6761e8b230b",
       "timestamp": 1771098210754
+    }
+  ],
+  "the centre for communication and social impact (ccsi)": [
+    {
+      "site": "JobGurus",
+      "id": "850491c951415f1b0d9f0c228691aad3",
+      "timestamp": 1771102142900
     }
   ]
 }
