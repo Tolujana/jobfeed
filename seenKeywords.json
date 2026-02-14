@@ -9668,13 +9668,13 @@
   "paras energy": [
     {
       "site": "JobGurus",
-      "id": "2328410cba5b1d8598ede5127f6d9405",
-      "timestamp": 1753433383390
+      "id": "f5369d68e9c2a4933aa715418d164052",
+      "timestamp": 1771095616327
     },
     {
       "site": "JobGurus",
-      "id": "3e39e0c26767d985e9506117b73dde98",
-      "timestamp": 1753438704035
+      "id": "3ba62b288e3f885028a297a0b54aa67f",
+      "timestamp": 1771095616327
     }
   ],
   "slum2school africa": [
@@ -17454,6 +17454,11 @@
       "site": "JobGurus",
       "id": "3e3b9a036259f107b6fb79d59d554cf0",
       "timestamp": 1771093680733
+    },
+    {
+      "site": "JobGurus",
+      "id": "724877ef2fa4e3cccc379a792c1786af",
+      "timestamp": 1771095616327
     }
   ],
   "wazobia cosmetics": [
@@ -24787,13 +24792,8 @@
   "grace moni limited": [
     {
       "site": "JobGurus",
-      "id": "3d883f58a2cd4bfd9c1b91ef866c8dd3",
-      "timestamp": 1767626386301
-    },
-    {
-      "site": "JobGurus",
-      "id": "9466b5bddaf121ad6a70d1223d54e35d",
-      "timestamp": 1767626386301
+      "id": "0a4d4d9e318eb5e93c1e1d5ee93e35fb",
+      "timestamp": 1771095616327
     }
   ],
   "prisdav consulting": [
@@ -27422,6 +27422,13 @@
       "site": "JobGurus",
       "id": "28a9d8278ea17963b72799e653a5b669",
       "timestamp": 1771002704356
+    }
+  ],
+  "gladiator systems limited": [
+    {
+      "site": "JobGurus",
+      "id": "27e90752e502160da87667066b56e65f",
+      "timestamp": 1771095616327
     }
   ]
 }
