@@ -3248,6 +3248,11 @@
       "site": "JobGurus",
       "id": "cb2b57bbb24d3be0e015bb1c96db1be9",
       "timestamp": 1770768019430
+    },
+    {
+      "site": "JobGurus",
+      "id": "0708b0bca56e0e309aee79389cdf5ba8",
+      "timestamp": 1771321382155
     }
   ],
   "doah enterprise": [
@@ -25020,8 +25025,8 @@
   "vitalvida": [
     {
       "site": "JobGurus",
-      "id": "53c8059e1ba2ebbffd7f735762aecdda",
-      "timestamp": 1767795604888
+      "id": "3c9d7f68fb1a334a99f0439d794d465d",
+      "timestamp": 1771321382155
     }
   ],
   "cecure intelligence limited": [
@@ -25434,13 +25439,13 @@
   "dillon consultant nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "d73703def7d21374eaf8d2ef762eb56f",
-      "timestamp": 1768319300759
+      "id": "bf78189567a8f3e69a01d399cadcdff9",
+      "timestamp": 1771321382155
     },
     {
       "site": "JobGurus",
-      "id": "4be44806f5b555244c5e12bbfba1adec",
-      "timestamp": 1768319300759
+      "id": "090ec3c7a2a82ef11b39aff3340da55a",
+      "timestamp": 1771321382155
     }
   ],
   "redline auto mobile": [
@@ -27471,6 +27476,13 @@
       "site": "JobGurus",
       "id": "5fe7568f5139304962d262ff42edfcae",
       "timestamp": 1771317565041
+    }
+  ],
+  "lagos executive cardiovascular clinic": [
+    {
+      "site": "JobGurus",
+      "id": "f7ef6fd2792cc036b771a90717439dae",
+      "timestamp": 1771321382155
     }
   ]
 }
