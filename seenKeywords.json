@@ -235,8 +235,8 @@
   "pg consulting limited": [
     {
       "site": "JobGurus",
-      "id": "1e93b8e72cdc4262511350469109cd79",
-      "timestamp": 1769168509624
+      "id": "05e5e3da91c9e93ef5b4c545ee890205",
+      "timestamp": 1771317565041
     }
   ],
   "xora technologies limited": [
@@ -23913,8 +23913,8 @@
   "edu lounge": [
     {
       "site": "JobGurus",
-      "id": "92db8385c87acfd97252778d11b0f57b",
-      "timestamp": 1765963434444
+      "id": "1e84c8bff7049fa90252564c5d585c80",
+      "timestamp": 1771317565041
     }
   ],
   "advansio interactive limited": [
@@ -27457,6 +27457,20 @@
       "site": "JobGurus",
       "id": "cfef19578b1c27992d8b1d0dbfa18d7d",
       "timestamp": 1771314488495
+    }
+  ],
+  "arit of africa limited": [
+    {
+      "site": "JobGurus",
+      "id": "d32e975f7f9d8a18016d2f45625f4139",
+      "timestamp": 1771317565041
+    }
+  ],
+  "simmer restaurant": [
+    {
+      "site": "JobGurus",
+      "id": "5fe7568f5139304962d262ff42edfcae",
+      "timestamp": 1771317565041
     }
   ]
 }
