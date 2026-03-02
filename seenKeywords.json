@@ -3149,8 +3149,13 @@
   "devien consult limited": [
     {
       "site": "JobGurus",
-      "id": "329994720123fdc86edab73bde7c6e8e",
-      "timestamp": 1767882060991
+      "id": "f363703e59fa3f95ebfa504e94500898",
+      "timestamp": 1772480041472
+    },
+    {
+      "site": "JobGurus",
+      "id": "92fe76a1a3c8388259479f91c10ce5b0",
+      "timestamp": 1772480041472
     }
   ],
   "soft nigeria": [
@@ -7516,13 +7521,8 @@
   "nautilus nigeria engineering and construction limited": [
     {
       "site": "JobGurus",
-      "id": "f55694919b94cba3649ca208a29fba99",
-      "timestamp": 1770390371768
-    },
-    {
-      "site": "JobGurus",
-      "id": "b58fa1cf15a41b8e546579e41a99eeac",
-      "timestamp": 1770397805226
+      "id": "f65cc0a7dbed15bd0a50a129e945cc22",
+      "timestamp": 1772480041472
     }
   ],
   "the deutsche gesellschaft fur internationale zusammenarbeit (giz)": [
@@ -27559,6 +27559,20 @@
       "site": "JobGurus",
       "id": "38b0cfa54062ba1fcf39ff9bba19f5f1",
       "timestamp": 1772476782518
+    }
+  ],
+  "ablaze consultancy": [
+    {
+      "site": "JobGurus",
+      "id": "9c8b66a630cdd89d95ea9fddccd9f17d",
+      "timestamp": 1772480041472
+    }
+  ],
+  "adventure capital group": [
+    {
+      "site": "JobGurus",
+      "id": "d8ec1eed02c339ebd56b0e256a66d215",
+      "timestamp": 1772480041472
     }
   ]
 }
