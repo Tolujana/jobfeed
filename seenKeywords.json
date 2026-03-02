@@ -2346,8 +2346,13 @@
   "maurice xandra solutions limited": [
     {
       "site": "JobGurus",
-      "id": "2f9ea27992f1fd3cbc635e5f6e4c0ed6",
-      "timestamp": 1764351507762
+      "id": "9c4f5777a2a080b065cd5eec20a7aafc",
+      "timestamp": 1772483526367
+    },
+    {
+      "site": "JobGurus",
+      "id": "fa1f030a3c0093f9a0a7f417aae47fed",
+      "timestamp": 1772483526367
     }
   ],
   "lily hospitals limited": [
@@ -3601,8 +3606,8 @@
   "runola nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "2e9797bb6676c56447feb6b8d263b32e",
-      "timestamp": 1757070733044
+      "id": "609dda0d35260c0d5471a819cc769a8c",
+      "timestamp": 1772483526367
     }
   ],
   "eclat human resources consulting limited": [
@@ -27573,6 +27578,13 @@
       "site": "JobGurus",
       "id": "d8ec1eed02c339ebd56b0e256a66d215",
       "timestamp": 1772480041472
+    }
+  ],
+  "sweet sensations confectionery limited": [
+    {
+      "site": "JobGurus",
+      "id": "7ea55c437b0e8d8baf6b937d725586bf",
+      "timestamp": 1772483526367
     }
   ]
 }
