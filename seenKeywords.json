@@ -1708,8 +1708,8 @@
   "pyfinest resources": [
     {
       "site": "JobGurus",
-      "id": "9ee6f714b723e683310346408267c630",
-      "timestamp": 1763387340176
+      "id": "8d457c998c7053c40cd8277eec5a9070",
+      "timestamp": 1772450939083
     }
   ],
   "outsource nigeria": [
@@ -10675,8 +10675,8 @@
   "bourbon interoil nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "158cc895a7674e06f6c7f0dad0ec3275",
-      "timestamp": 1763576599362
+      "id": "5d53e0a013a93adbe59501f6190430e1",
+      "timestamp": 1772450939083
     }
   ],
   "multipro consumer products limited": [
@@ -16267,8 +16267,8 @@
   "bell oil and gas limited": [
     {
       "site": "JobGurus",
-      "id": "2d08213fd653455e2cce471b6465053b",
-      "timestamp": 1764339379177
+      "id": "5f7b4d3e91994568cb1cc885a53b12c7",
+      "timestamp": 1772450939083
     }
   ],
   "giftitng": [
@@ -27516,6 +27516,20 @@
       "site": "JobGurus",
       "id": "66b49b894b5656f3f5360719cca2ab60",
       "timestamp": 1771332876516
+    }
+  ],
+  "careerhive management": [
+    {
+      "site": "JobGurus",
+      "id": "69aaec321410cd9908048e461f5614fc",
+      "timestamp": 1772450939083
+    }
+  ],
+  "casa 45 enterprises limited": [
+    {
+      "site": "JobGurus",
+      "id": "7f410ab16d2269854041dd5b57195ff7",
+      "timestamp": 1772450939083
     }
   ]
 }
