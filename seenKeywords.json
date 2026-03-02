@@ -4972,8 +4972,8 @@
   "smart partners consulting limited": [
     {
       "site": "JobGurus",
-      "id": "730edf5bb71ec1abd14aeabd826ae5e3",
-      "timestamp": 1762771495571
+      "id": "f0612f6a21de5454029abb32a6e8e551",
+      "timestamp": 1772473240108
     }
   ],
   "felamokhr consulting services limited": [
@@ -27517,6 +27517,11 @@
       "site": "JobGurus",
       "id": "3676d71ea4c50ae375b21405ae3cc1e0",
       "timestamp": 1772465873745
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7d4eed1788c005f280268283d3c0784",
+      "timestamp": 1772473240108
     }
   ],
   "seven-up bottling company ltd": [
@@ -27531,6 +27536,20 @@
       "site": "JobGurus",
       "id": "df69f18495e7e16273b9fbcc31c66b7a",
       "timestamp": 1772469553407
+    }
+  ],
+  "bolin mining company limited": [
+    {
+      "site": "JobGurus",
+      "id": "c86fef92528fe051d093abec6abc2d68",
+      "timestamp": 1772473240108
+    }
+  ],
+  "buena sante confectionaries": [
+    {
+      "site": "JobGurus",
+      "id": "bc93e3fd302b3f960091106ead7e20d5",
+      "timestamp": 1772473240108
     }
   ]
 }
