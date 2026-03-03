@@ -15782,13 +15782,8 @@
   "tastee fried chicken": [
     {
       "site": "JobGurus",
-      "id": "809eaf0ad2b1ff91b0f318c0f9d6d203",
-      "timestamp": 1759760098547
-    },
-    {
-      "site": "JobGurus",
-      "id": "af2c5bc6bed93b446eed66c39501d5b0",
-      "timestamp": 1760110633361
+      "id": "02b1d07ce1bfd496318032b954f6c1a3",
+      "timestamp": 1772552540148
     }
   ],
   "transparency scape insurance brokers": [
@@ -26412,8 +26407,8 @@
   "talentforge solutions limited": [
     {
       "site": "JobGurus",
-      "id": "e58a3917885cbccf05c4e80326ef24cf",
-      "timestamp": 1769525803804
+      "id": "ad16bdc62dc1f69a654c38bb510cd4f5",
+      "timestamp": 1772552540148
     }
   ],
   "w.else nigeria limited": [
@@ -27569,6 +27564,18 @@
       "site": "JobGurus",
       "id": "34eb6b82245f42514e7acf718f8a0b44",
       "timestamp": 1772546207642
+    }
+  ],
+  "1app": [
+    {
+      "site": "JobGurus",
+      "id": "07e34616c2855ffff93c42d894e88015",
+      "timestamp": 1772552540148
+    },
+    {
+      "site": "JobGurus",
+      "id": "90f58305c51c357ba628a3e1ca042931",
+      "timestamp": 1772552540148
     }
   ]
 }
