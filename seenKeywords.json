@@ -8521,6 +8521,11 @@
       "site": "JobGurus",
       "id": "aa5d402dd48dca9c65abf6f6d2a940fc",
       "timestamp": 1772476782518
+    },
+    {
+      "site": "JobGurus",
+      "id": "a478d3720c994fde98eef893b0548eb7",
+      "timestamp": 1772563265389
     }
   ],
   "lextorah education group": [
@@ -14229,8 +14234,18 @@
   "ipt powertech group": [
     {
       "site": "JobGurus",
-      "id": "d4f2a555e8c28b48631dc062370dc447",
-      "timestamp": 1757943668658
+      "id": "8748e9eb9d53962cd344891d0f7d6f05",
+      "timestamp": 1772563265389
+    },
+    {
+      "site": "JobGurus",
+      "id": "22724948bc4bae8b8f7c2b9fffb1e877",
+      "timestamp": 1772563265389
+    },
+    {
+      "site": "JobGurus",
+      "id": "7b6c58b60fa361f5978d27530d2d07b9",
+      "timestamp": 1772563265389
     }
   ],
   "elevated hr limited": [
@@ -27597,6 +27612,11 @@
       "site": "JobGurus",
       "id": "7034be51e26f7e96144500d298b68c89",
       "timestamp": 1772559582515
+    },
+    {
+      "site": "JobGurus",
+      "id": "6e11a275acf6c7b04a8b2dbbff3f41fd",
+      "timestamp": 1772563265389
     }
   ]
 }
