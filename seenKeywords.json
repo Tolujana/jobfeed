@@ -832,8 +832,8 @@
   "tivana workforce": [
     {
       "site": "JobGurus",
-      "id": "46d417703daf0e3a6400d91d18f7802b",
-      "timestamp": 1765970174790
+      "id": "3199b632102352c12553725678a61b23",
+      "timestamp": 1772556048966
     }
   ],
   "pennek nigeria limited": [
@@ -4047,8 +4047,8 @@
   "biomedical limited": [
     {
       "site": "JobGurus",
-      "id": "5b5bd47065c90cebcb3cdf19bed567f6",
-      "timestamp": 1750331637991
+      "id": "be928565d49b124f038b0856cae9aae1",
+      "timestamp": 1772556048966
     }
   ],
   "edgewood consulting limited": [
@@ -15981,8 +15981,8 @@
   "vitafoam nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "46d54bce6d6cd9bb5a9f7eb8c8fe9dbb",
-      "timestamp": 1765464221925
+      "id": "76c30bba4bef142711c91fd891e5087b",
+      "timestamp": 1772556048966
     }
   ],
   "teknowledge": [
@@ -27576,6 +27576,13 @@
       "site": "JobGurus",
       "id": "90f58305c51c357ba628a3e1ca042931",
       "timestamp": 1772552540148
+    }
+  ],
+  "marconi": [
+    {
+      "site": "JobGurus",
+      "id": "24d07dbe2980a6f1843aa423b4a5de68",
+      "timestamp": 1772556048966
     }
   ]
 }
