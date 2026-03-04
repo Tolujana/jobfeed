@@ -239,8 +239,8 @@
   "outcess solutions nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "936cf881a2f26c7d5b21784e048759da",
-      "timestamp": 1764688715161
+      "id": "327dd49bf844d0931dd057b882941fa5",
+      "timestamp": 1772638535952
     }
   ],
   "sap nigeria": [
@@ -24435,8 +24435,8 @@
   "bridgehedge limited": [
     {
       "site": "JobGurus",
-      "id": "cbfc4303ba7bd9ddac7e6cd5eea56b98",
-      "timestamp": 1767795604888
+      "id": "b8f86102d03c87a1d27d3ed83741b643",
+      "timestamp": 1772638535952
     }
   ],
   "omenka industries limited": [
@@ -27331,8 +27331,8 @@
   "fernhill digital consulting": [
     {
       "site": "JobGurus",
-      "id": "561c99d9d4a13aa874807dcd8999b8db",
-      "timestamp": 1770991390988
+      "id": "845e45583afc50d3c7018020d0f99adb",
+      "timestamp": 1772638535952
     }
   ],
   "estrada international staffing solutions (eiss)": [
@@ -27638,6 +27638,20 @@
       "site": "JobGurus",
       "id": "555e9f0a67d8479fca64172b29009d67",
       "timestamp": 1772634933519
+    }
+  ],
+  "egatee online ng": [
+    {
+      "site": "JobGurus",
+      "id": "6fad937ddd2300598aa3be1f8e2cd0a8",
+      "timestamp": 1772638535952
+    }
+  ],
+  "veridion advisory partners": [
+    {
+      "site": "JobGurus",
+      "id": "6b390d1e51126fa6f3eb299255ab7ae0",
+      "timestamp": 1772638535952
     }
   ]
 }
