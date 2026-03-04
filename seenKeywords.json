@@ -4792,8 +4792,8 @@
   "united nigeria airlines": [
     {
       "site": "JobGurus",
-      "id": "01e0598b85006c17f45eeb5f9e221b04",
-      "timestamp": 1758622537733
+      "id": "b4a4e77acf53d2bf97836ab15a2d6dfa",
+      "timestamp": 1772642295966
     }
   ],
   "greystone consulting limited": [
@@ -10734,13 +10734,8 @@
   "ellasot consulting": [
     {
       "site": "JobGurus",
-      "id": "bfe8fcb5c1d9b9a767a2350ba9b066b5",
-      "timestamp": 1764609471232
-    },
-    {
-      "site": "JobGurus",
-      "id": "3212b080305b1d98ddab84fb2f4b8950",
-      "timestamp": 1764938061881
+      "id": "cf627e80b8aa8a5b17f0c3673cd5c844",
+      "timestamp": 1772642295966
     }
   ],
   "mcpeniel consultancy": [
@@ -27652,6 +27647,13 @@
       "site": "JobGurus",
       "id": "6b390d1e51126fa6f3eb299255ab7ae0",
       "timestamp": 1772638535952
+    }
+  ],
+  "dragnet solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "bbd58fc439ca1e811bf33121b6b74aba",
+      "timestamp": 1772642295966
     }
   ]
 }
