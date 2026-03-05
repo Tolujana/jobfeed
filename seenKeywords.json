@@ -22636,8 +22636,8 @@
   "leam consulting limited": [
     {
       "site": "JobGurus",
-      "id": "520be4bd2ec57ee2d2a949ec38b258f1",
-      "timestamp": 1768660858964
+      "id": "f106f485d35f0cac6ea74483e35a6d88",
+      "timestamp": 1772715813448
     }
   ],
   "tangerine365": [
@@ -27689,6 +27689,20 @@
       "site": "JobGurus",
       "id": "4e4d3630c68ed496a1cd6f1f383fecb6",
       "timestamp": 1772710211685
+    }
+  ],
+  "career breedge consultancy limited": [
+    {
+      "site": "JobGurus",
+      "id": "b0cb81cfe822db52e7b6434fed27b9e3",
+      "timestamp": 1772715813448
+    }
+  ],
+  "siperco nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "b195baa38678cbbbe41509452b901a66",
+      "timestamp": 1772715813448
     }
   ]
 }
