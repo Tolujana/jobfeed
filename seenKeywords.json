@@ -13068,8 +13068,8 @@
   "karis concept": [
     {
       "site": "JobGurus",
-      "id": "458a53b79a216f17a36462d1ed915701",
-      "timestamp": 1765381451149
+      "id": "8a182aa30b480cf89dec56f95b27dda1",
+      "timestamp": 1772703481874
     }
   ],
   "glybridge schools": [
@@ -22017,8 +22017,8 @@
   "sunrise universal integrated supermarket": [
     {
       "site": "JobGurus",
-      "id": "671caed5b6d106807d07c3032f24029b",
-      "timestamp": 1767980722652
+      "id": "6706a50b33d8ff2ea5b18a15e819442b",
+      "timestamp": 1772703481874
     }
   ],
   "banksome group": [
@@ -27664,6 +27664,27 @@
       "site": "JobGurus",
       "id": "bbd58fc439ca1e811bf33121b6b74aba",
       "timestamp": 1772642295966
+    }
+  ],
+  "hotel neben limited": [
+    {
+      "site": "JobGurus",
+      "id": "4d0ac030a51bb959f4c90c3ad5b7a9ce",
+      "timestamp": 1772703481874
+    }
+  ],
+  "ren san & co.": [
+    {
+      "site": "JobGurus",
+      "id": "bf161d8e559e3260e687cfd7ff176e89",
+      "timestamp": 1772703481874
+    }
+  ],
+  "jami engineering": [
+    {
+      "site": "JobGurus",
+      "id": "f45eafa647dbe0a408047b65ca98c12e",
+      "timestamp": 1772703481874
     }
   ]
 }
