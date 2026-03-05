@@ -333,8 +333,8 @@
   "castville solutions": [
     {
       "site": "JobGurus",
-      "id": "0f54801a1a3392af294e82c714561dfe",
-      "timestamp": 1770311634823
+      "id": "48ae74ba0490a66671964952966cdaf4",
+      "timestamp": 1772710211685
     }
   ],
   "lacare staffing solutions": [
@@ -22367,8 +22367,8 @@
   "animal care service konsult nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "9ef295f95fa6874d5418bfeac0153f69",
-      "timestamp": 1764270764105
+      "id": "7602d8f34f267740a4e130574a54f2f4",
+      "timestamp": 1772710211685
     }
   ],
   "veldove realties limited": [
@@ -27258,8 +27258,8 @@
   "anas atiantic services limited": [
     {
       "site": "JobGurus",
-      "id": "f4b62c217623b2ddcf8c42ef89b1b688",
-      "timestamp": 1770905531332
+      "id": "e65a39273a4537c3fce2d48b2d16e122",
+      "timestamp": 1772710211685
     }
   ],
   "manufacturers association of nigeria (man)": [
@@ -27682,6 +27682,13 @@
       "site": "JobGurus",
       "id": "eb7a04f097508addb4eafaed095ded8f",
       "timestamp": 1772706867219
+    }
+  ],
+  "doo havilah medspa": [
+    {
+      "site": "JobGurus",
+      "id": "4e4d3630c68ed496a1cd6f1f383fecb6",
+      "timestamp": 1772710211685
     }
   ]
 }
