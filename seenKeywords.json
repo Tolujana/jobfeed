@@ -7332,8 +7332,8 @@
   "mdoc healthcare": [
     {
       "site": "JobGurus",
-      "id": "77d7e83f9c7ba62afac144b4ec7d4201",
-      "timestamp": 1758212284996
+      "id": "8add604256dcf5dc03df61b5e225fa0c",
+      "timestamp": 1772719841543
     }
   ],
   "finlab nigeria limited": [
@@ -27588,6 +27588,11 @@
       "site": "JobGurus",
       "id": "24d07dbe2980a6f1843aa423b4a5de68",
       "timestamp": 1772556048966
+    },
+    {
+      "site": "JobGurus",
+      "id": "a2813e84af480ca24d02111e83d487ad",
+      "timestamp": 1772719841543
     }
   ],
   "finda logistics services limited": [
@@ -27703,6 +27708,25 @@
       "site": "JobGurus",
       "id": "b195baa38678cbbbe41509452b901a66",
       "timestamp": 1772715813448
+    }
+  ],
+  "chowad food": [
+    {
+      "site": "JobGurus",
+      "id": "d31a6a7fa171155e2b2696819c450690",
+      "timestamp": 1772719841543
+    }
+  ],
+  "cowrywise financial technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "b587708e15bfbc1cfd763f9857bfde4f",
+      "timestamp": 1772719841543
+    },
+    {
+      "site": "JobGurus",
+      "id": "11a6330957385713aada6dd375cc5b18",
+      "timestamp": 1772719841543
     }
   ]
 }
