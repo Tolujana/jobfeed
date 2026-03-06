@@ -3290,13 +3290,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "c459bbea1c8fdcb8689840ffa34e9c35",
-      "timestamp": 1769610324482
-    },
-    {
-      "site": "JobGurus",
-      "id": "d7aa419096cdf570269f65301b895de5",
-      "timestamp": 1769612139440
+      "id": "05c1f9ce34098d656dbb278b83f67429",
+      "timestamp": 1772797787728
     }
   ],
   "smartcity plc": [
@@ -11015,13 +11010,8 @@
   "qupee consult": [
     {
       "site": "JobGurus",
-      "id": "a34fc17bc50a73666d8190463c46a9e5",
-      "timestamp": 1760554077782
-    },
-    {
-      "site": "JobGurus",
-      "id": "3824558e1972b8aa828336b916042862",
-      "timestamp": 1760555543435
+      "id": "d0ba72f8a3b24bb8024f03dfa6d5bd70",
+      "timestamp": 1772797787728
     }
   ],
   "amitouch global concepts limited": [
@@ -26951,8 +26941,8 @@
   "beem farm foods": [
     {
       "site": "JobGurus",
-      "id": "03b91fd4880bc33f4d8eb06d6a6bb871",
-      "timestamp": 1770234947479
+      "id": "09ea97dcf70a4a7293f4397bfe7977fe",
+      "timestamp": 1772797787728
     }
   ],
   "jodazen integrated services": [
@@ -27785,6 +27775,20 @@
       "site": "JobGurus",
       "id": "656ed63ac6f44e50cb4f07d0856809f0",
       "timestamp": 1772794989432
+    }
+  ],
+  "transport services limited": [
+    {
+      "site": "JobGurus",
+      "id": "1207b8ebc55f154c792b56fb9337ebd5",
+      "timestamp": 1772797787728
+    }
+  ],
+  "solid rock hospital": [
+    {
+      "site": "JobGurus",
+      "id": "01d3369b615a6fe1a52ff97b9448c581",
+      "timestamp": 1772797787728
     }
   ]
 }
