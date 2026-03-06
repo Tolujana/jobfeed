@@ -19022,8 +19022,8 @@
   "software business solutions consulting": [
     {
       "site": "JobGurus",
-      "id": "56b650ebee05a0ef0d8be81bcaf00741",
-      "timestamp": 1770390371768
+      "id": "2a9377e0df64f6ad02cd17bb00046f85",
+      "timestamp": 1772807615556
     }
   ],
   "harmony garden & estate development limited": [
@@ -27001,8 +27001,8 @@
   "premium human resources solution limited": [
     {
       "site": "JobGurus",
-      "id": "a00523f7856662fff14d919541af8dae",
-      "timestamp": 1770314938500
+      "id": "41ce89380c4084a6605e1efe617fb6e1",
+      "timestamp": 1772807615556
     }
   ],
   "strickland services limited": [
@@ -27783,6 +27783,27 @@
       "site": "JobGurus",
       "id": "7b3ee7dc7122a9e488cb60731d62aab9",
       "timestamp": 1772801075336
+    }
+  ],
+  "kursi trades services limited": [
+    {
+      "site": "JobGurus",
+      "id": "7651398fb792d5f32bab0efc4009e37e",
+      "timestamp": 1772807615556
+    }
+  ],
+  "bt health and diagnostic centre (bthdc)": [
+    {
+      "site": "JobGurus",
+      "id": "522d824014af6ee1371a2ad6a3b67564",
+      "timestamp": 1772807615556
+    }
+  ],
+  "ebenco group limited": [
+    {
+      "site": "JobGurus",
+      "id": "0a71bd45a30566df3617bdbd8df26ccc",
+      "timestamp": 1772807615556
     }
   ]
 }
