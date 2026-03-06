@@ -11049,8 +11049,23 @@
   "zamiva transnational services": [
     {
       "site": "JobGurus",
-      "id": "12b0f6dcceafe7fac73f8a81230581c2",
-      "timestamp": 1757409395808
+      "id": "44ac053c593e6042432e22ba01c3389f",
+      "timestamp": 1772811168817
+    },
+    {
+      "site": "JobGurus",
+      "id": "9269139870e3fe31c9c065cd430f4d57",
+      "timestamp": 1772811168817
+    },
+    {
+      "site": "JobGurus",
+      "id": "536d01063fc883b058ba3e44100ef4ad",
+      "timestamp": 1772811168817
+    },
+    {
+      "site": "JobGurus",
+      "id": "eb6402b2631002194b8ce3e5c92073bf",
+      "timestamp": 1772811168817
     }
   ],
   "one": [
@@ -27804,6 +27819,13 @@
       "site": "JobGurus",
       "id": "0a71bd45a30566df3617bdbd8df26ccc",
       "timestamp": 1772807615556
+    }
+  ],
+  "consulting dcc": [
+    {
+      "site": "JobGurus",
+      "id": "8f5e9bc0eb837b83b5b4de7ea0222853",
+      "timestamp": 1772811168817
     }
   ]
 }
