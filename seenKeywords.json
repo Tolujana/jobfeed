@@ -18498,8 +18498,8 @@
   "avocado virtual solutions": [
     {
       "site": "JobGurus",
-      "id": "0fb7abc7e7f3a81b5be5aa8eeeedec79",
-      "timestamp": 1767867610851
+      "id": "3f74cb9215039ec7c8ceda71cdebd135",
+      "timestamp": 1772793000136
     }
   ],
   "krishat pharma industries limited": [
@@ -27764,6 +27764,13 @@
       "site": "JobGurus",
       "id": "633313b23f59209e77843d749cb824a8",
       "timestamp": 1772739635201
+    }
+  ],
+  "torilo": [
+    {
+      "site": "JobGurus",
+      "id": "f0ecb54ec6a6c01ac634f18ab276edde",
+      "timestamp": 1772793000136
     }
   ]
 }
