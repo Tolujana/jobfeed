@@ -1108,13 +1108,8 @@
   "elizabeth maddeux limited": [
     {
       "site": "JobGurus",
-      "id": "df9f639a19a27f2d27e9d8ca25461e04",
-      "timestamp": 1769686044475
-    },
-    {
-      "site": "JobGurus",
-      "id": "ae8bcc358f98a3e039f3eb5df6575dfe",
-      "timestamp": 1770213619153
+      "id": "145f04b4f5a8a1e3fe64fde5a3ea7a36",
+      "timestamp": 1772818256160
     }
   ],
   "cashxpress nigeria limited": [
@@ -13792,8 +13787,8 @@
   "duplo": [
     {
       "site": "JobGurus",
-      "id": "c8deab4c09f516b4c7cf838f131ca9ff",
-      "timestamp": 1768488542489
+      "id": "729d4cc6762f3f399aa3b9be0dfd1372",
+      "timestamp": 1772818256160
     }
   ],
   "dcsl corporate service limited": [
@@ -25199,8 +25194,8 @@
   "aideplanet consulting limited": [
     {
       "site": "JobGurus",
-      "id": "c5ff2a4a10de3d9f03d823dfb76c76e9",
-      "timestamp": 1768225134162
+      "id": "879c62e236c7ef38cf4ab6a87ecc19b7",
+      "timestamp": 1772818256160
     }
   ],
   "blunet internet solutions limited": [
@@ -27838,6 +27833,20 @@
       "site": "JobGurus",
       "id": "e85894cbdf32890df903a928cd6b9f7f",
       "timestamp": 1772814921815
+    }
+  ],
+  "liquor loft lounge": [
+    {
+      "site": "JobGurus",
+      "id": "cfb2fc25908a9c95b1cffe0f21a0b215",
+      "timestamp": 1772818256160
+    }
+  ],
+  "d'ethniks foods": [
+    {
+      "site": "JobGurus",
+      "id": "69987ab6c2b193e18a50a502d4ef3f2a",
+      "timestamp": 1772818256160
     }
   ]
 }
