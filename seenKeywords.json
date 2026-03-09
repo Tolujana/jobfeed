@@ -3157,8 +3157,8 @@
   "wiocc nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "3fee12e0572182722456d4c124f16340",
-      "timestamp": 1770221172743
+      "id": "7b84d3114688d119353aac93d3b4d52a",
+      "timestamp": 1773092410356
     }
   ],
   "husk power energy systems nigeria limited": [
@@ -12072,13 +12072,8 @@
   "bosak microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "f08be855695d383ba056ee7f04e3d1e8",
-      "timestamp": 1767367072396
-    },
-    {
-      "site": "JobGurus",
-      "id": "133dbc47039005d12bae9a72f30dc5ae",
-      "timestamp": 1767368509434
+      "id": "f6f350a2bbb7f2ff00b8955dd0929f58",
+      "timestamp": 1773092410356
     }
   ],
   "first ally capital": [
@@ -24831,6 +24826,11 @@
       "site": "JobGurus",
       "id": "adac64acad3813a7ea9d9be51c3a0058",
       "timestamp": 1772794989432
+    },
+    {
+      "site": "JobGurus",
+      "id": "787386fabbd7b6b4daacef663037039b",
+      "timestamp": 1773092410356
     }
   ],
   "nirvana synergy company limited": [
@@ -25123,8 +25123,8 @@
   "courierplus": [
     {
       "site": "JobGurus",
-      "id": "a0cac703d6b3ec4f782c1cd3d2d432ec",
-      "timestamp": 1767984892482
+      "id": "1c2126bf80aaed660edd9f2ae769e213",
+      "timestamp": 1773092410356
     }
   ],
   "food health systems advisory": [
@@ -28022,6 +28022,13 @@
       "site": "JobGurus",
       "id": "b17569ee0fb45005371634ede342b28d",
       "timestamp": 1773089975054
+    }
+  ],
+  "eromedix technologies": [
+    {
+      "site": "JobGurus",
+      "id": "df7198d2e73658a479ebfdf1d766761d",
+      "timestamp": 1773092410356
     }
   ]
 }
