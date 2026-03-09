@@ -10237,8 +10237,8 @@
   "gti microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "edc4b0e512e0d00d698b5ea92a3b9650",
-      "timestamp": 1762249332069
+      "id": "93a545bd48cd7338d37611f62a6e302e",
+      "timestamp": 1773088119139
     }
   ],
   "anabel apartment and suites": [
@@ -21199,13 +21199,8 @@
   "goldplates feast house": [
     {
       "site": "JobGurus",
-      "id": "63dc32f3e8aaa1bc01a5680863bcecfd",
-      "timestamp": 1763213953644
-    },
-    {
-      "site": "JobGurus",
-      "id": "e386e834bd19a3cd3ffb33acbd39f050",
-      "timestamp": 1763213953644
+      "id": "a5823bc4dfa44db1d00817d68cfa6d19",
+      "timestamp": 1773088119139
     }
   ],
   "r.t. briscoe nigeria plc": [
@@ -27989,6 +27984,27 @@
       "site": "JobGurus",
       "id": "c659018744cf17115db9614f34b13d9b",
       "timestamp": 1773085047631
+    }
+  ],
+  "solapower limited": [
+    {
+      "site": "JobGurus",
+      "id": "4d322d2ff03d09d0adf561f4239a6151",
+      "timestamp": 1773088119139
+    }
+  ],
+  "o.k. isokariari nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "0dbac7f3a3179ff8f1ec5d66928e3595",
+      "timestamp": 1773088119139
+    }
+  ],
+  "konvert talent global concept": [
+    {
+      "site": "JobGurus",
+      "id": "0a9b5275a26d66e040074a9d257761ad",
+      "timestamp": 1773088119139
     }
   ]
 }
