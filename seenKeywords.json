@@ -20389,18 +20389,8 @@
   "silverado properties": [
     {
       "site": "JobGurus",
-      "id": "82af391ab6d2c65c05ceb998496038bf",
-      "timestamp": 1767622816404
-    },
-    {
-      "site": "JobGurus",
-      "id": "961acb24084c53cf781650919847d781",
-      "timestamp": 1767624591810
-    },
-    {
-      "site": "JobGurus",
-      "id": "9649a2566868cbb2c6a0580ffb3c5b7b",
-      "timestamp": 1767624591810
+      "id": "982c2baf99e5c6a2a8c87666e7052f28",
+      "timestamp": 1773064990687
     }
   ],
   "global air u": [
@@ -27940,6 +27930,27 @@
       "site": "JobGurus",
       "id": "f8e37b8efdf32160dc38d5e053f215cf",
       "timestamp": 1773060824136
+    }
+  ],
+  "isaacsam lounge & lodging limited": [
+    {
+      "site": "JobGurus",
+      "id": "418c776847f887e7b90ffb15e9e63409",
+      "timestamp": 1773064990687
+    }
+  ],
+  "karferry limited": [
+    {
+      "site": "JobGurus",
+      "id": "217a87943422cc38cbd03f7f6eba0e58",
+      "timestamp": 1773064990687
+    }
+  ],
+  "elin mining": [
+    {
+      "site": "JobGurus",
+      "id": "d6ce1c214b39de5cec54bf43f8725bfa",
+      "timestamp": 1773064990687
     }
   ]
 }
