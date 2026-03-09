@@ -2077,8 +2077,8 @@
   "oando plc": [
     {
       "site": "JobGurus",
-      "id": "3c3a35e955a79759e68e14614e037965",
-      "timestamp": 1760534910866
+      "id": "c78ca22e06874bef55d6682bd5208531",
+      "timestamp": 1773085047631
     }
   ],
   "ace recruiters limited": [
@@ -5159,8 +5159,8 @@
   "hrhub.ng limited": [
     {
       "site": "JobGurus",
-      "id": "7eb1d5f081789ba1d17d83b698756d6e",
-      "timestamp": 1768232933214
+      "id": "40ac5371c099c83228d40d089ef91c09",
+      "timestamp": 1773085047631
     }
   ],
   "federal college of education": [
@@ -25018,8 +25018,8 @@
   "hrchi consulting": [
     {
       "site": "JobGurus",
-      "id": "7a5c8104cc6cf32f2463ab54710deb24",
-      "timestamp": 1767971964623
+      "id": "2f03512179c5d6fbf18b6d523249b4d4",
+      "timestamp": 1773085047631
     }
   ],
   "path": [
@@ -27975,6 +27975,20 @@
       "site": "JobGurus",
       "id": "652bb5f153c34133d28b4d4218ae7909",
       "timestamp": 1773073948821
+    }
+  ],
+  "bridgemead consulting": [
+    {
+      "site": "JobGurus",
+      "id": "75a7b5e252063f9c498bc651c4878cfa",
+      "timestamp": 1773085047631
+    }
+  ],
+  "easy buy limited": [
+    {
+      "site": "JobGurus",
+      "id": "c659018744cf17115db9614f34b13d9b",
+      "timestamp": 1773085047631
     }
   ]
 }
