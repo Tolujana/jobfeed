@@ -17,23 +17,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "aca85bfa107324de1c2959a2700b6908",
-      "timestamp": 1770390371768
-    },
-    {
-      "site": "JobGurus",
-      "id": "64255d4bb0f1c2cbbb6d6c9c5cde5f53",
-      "timestamp": 1770401052672
-    },
-    {
-      "site": "JobGurus",
-      "id": "ca63f322d3433f6dcb722201a6a9818d",
-      "timestamp": 1770401052672
-    },
-    {
-      "site": "JobGurus",
-      "id": "f3cbcd2b58888ac8ba0c16760fc52af0",
-      "timestamp": 1770401052672
+      "id": "2972dfa53cf7c8274e1249c3a1a2bcaf",
+      "timestamp": 1773060824136
     }
   ],
   "amecron nigeria limited": [
@@ -56,8 +41,8 @@
   "dag industries nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "bdce7c6ba3c06038ae25873e76c3bd29",
-      "timestamp": 1764678945964
+      "id": "47f0e681d17d5aeeaeb6968b7f7cb398",
+      "timestamp": 1773060824136
     }
   ],
   "compovine technologies limited": [
@@ -20705,8 +20690,8 @@
   "international golden edge trading limited": [
     {
       "site": "JobGurus",
-      "id": "40136760c5ca18931c39433938349cfe",
-      "timestamp": 1771098210754
+      "id": "a5b2acd0b2093b9665291ba3483d00dd",
+      "timestamp": 1773060824136
     }
   ],
   "wholesome foods limited": [
@@ -27948,6 +27933,13 @@
       "site": "JobGurus",
       "id": "28b98ef968e9a80d9df90675f5ddd31f",
       "timestamp": 1772893197022
+    }
+  ],
+  "training hub limited": [
+    {
+      "site": "JobGurus",
+      "id": "f8e37b8efdf32160dc38d5e053f215cf",
+      "timestamp": 1773060824136
     }
   ]
 }
