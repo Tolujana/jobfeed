@@ -1354,8 +1354,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "65ac6092f56048eb486442adfe38a341",
-      "timestamp": 1769267770498
+      "id": "9914ab8a60677a8a9ece6f4c41aacd1a",
+      "timestamp": 1773070163644
     }
   ],
   "jtech global resources limited": [
@@ -8739,8 +8739,8 @@
   "providus bank plc": [
     {
       "site": "JobGurus",
-      "id": "3c4a5adff691d89d95fbf22f16970b6f",
-      "timestamp": 1752849908290
+      "id": "32e03dd683a2be28249f3ae9a77ed982",
+      "timestamp": 1773070163644
     }
   ],
   "excellium": [
@@ -22728,8 +22728,8 @@
   "uniccon group": [
     {
       "site": "JobGurus",
-      "id": "ac327957885144dfa6e78a2157b54f4d",
-      "timestamp": 1769097254901
+      "id": "e157b03dde70eb484bd591afbda4477e",
+      "timestamp": 1773070163644
     }
   ],
   "best nigerian schools": [
@@ -26421,8 +26421,8 @@
   "berit global limited": [
     {
       "site": "JobGurus",
-      "id": "48b7aeb7e41b39bf1aa4734a9b554de4",
-      "timestamp": 1769612139440
+      "id": "8cdea0ac24b8de4d140d00fb1794a308",
+      "timestamp": 1773070163644
     }
   ],
   "fadac resources and services": [
@@ -27951,6 +27951,13 @@
       "site": "JobGurus",
       "id": "d6ce1c214b39de5cec54bf43f8725bfa",
       "timestamp": 1773064990687
+    }
+  ],
+  "gabsdan ventures": [
+    {
+      "site": "JobGurus",
+      "id": "98362c02ef08d4b4b91229a269e3a07f",
+      "timestamp": 1773070163644
     }
   ]
 }
