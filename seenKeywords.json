@@ -2242,8 +2242,13 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "9b6777d0072841e284233d17d334ea58",
-      "timestamp": 1770209453710
+      "id": "e0c6b985418b6f69a6af23a20b416f9d",
+      "timestamp": 1773073948821
+    },
+    {
+      "site": "JobGurus",
+      "id": "1ba830b2bc8ac995f3ca4b54d751f712",
+      "timestamp": 1773073948821
     }
   ],
   "flees global services": [
@@ -9778,8 +9783,8 @@
   "careers verified": [
     {
       "site": "JobGurus",
-      "id": "c102e8923459a24a46b0f48d872e3c5f",
-      "timestamp": 1758723164552
+      "id": "553205961d643e65d9165bcdfd448167",
+      "timestamp": 1773073948821
     }
   ],
   "sygnite power and energy solutions ltd": [
@@ -16167,8 +16172,8 @@
   "bell oil and gas limited": [
     {
       "site": "JobGurus",
-      "id": "5f7b4d3e91994568cb1cc885a53b12c7",
-      "timestamp": 1772450939083
+      "id": "8ed2f4a1478e22de4100e0234f3cbd68",
+      "timestamp": 1773073948821
     }
   ],
   "giftitng": [
@@ -27958,6 +27963,13 @@
       "site": "JobGurus",
       "id": "98362c02ef08d4b4b91229a269e3a07f",
       "timestamp": 1773070163644
+    }
+  ],
+  "path4aipocus project": [
+    {
+      "site": "JobGurus",
+      "id": "652bb5f153c34133d28b4d4218ae7909",
+      "timestamp": 1773073948821
     }
   ]
 }
