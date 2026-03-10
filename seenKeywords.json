@@ -2610,6 +2610,11 @@
       "site": "JobGurus",
       "id": "9ef477aee3855c1ae7698dc8a3a3c5d2",
       "timestamp": 1772735118243
+    },
+    {
+      "site": "JobGurus",
+      "id": "73b4dcf771849273faf5c1d76c90071e",
+      "timestamp": 1773169922627
     }
   ],
   "international fertilizer development center": [
@@ -6756,8 +6761,8 @@
   "bedmate furniture": [
     {
       "site": "JobGurus",
-      "id": "cfeb1baa3c871d2101986a80a9ba1a52",
-      "timestamp": 1751732265966
+      "id": "dba8e71501fb27d3eb06807406618ece",
+      "timestamp": 1773169922627
     }
   ],
   "bedmate furniture nigeria": [
@@ -27941,6 +27946,11 @@
       "site": "JobGurus",
       "id": "cacdcb9b5f5dce8362f7f8d86f08fbf3",
       "timestamp": 1772890532354
+    },
+    {
+      "site": "JobGurus",
+      "id": "8a65320cea86315119ae84838e845406",
+      "timestamp": 1773169922627
     }
   ],
   "rotation and precision machines limited": [
@@ -28093,6 +28103,20 @@
       "site": "JobGurus",
       "id": "b5a05e0ffbbf801b94eeadd82e2eae79",
       "timestamp": 1773165955457
+    }
+  ],
+  "vdt communications limited": [
+    {
+      "site": "JobGurus",
+      "id": "24dd762f24224f43b268f27875efc0a0",
+      "timestamp": 1773169922627
+    }
+  ],
+  "madobi microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "c6b4ce01780f46d14b22780e073f9d87",
+      "timestamp": 1773169922627
     }
   ]
 }
