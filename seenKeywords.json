@@ -10196,8 +10196,8 @@
   "tetra maritime": [
     {
       "site": "JobGurus",
-      "id": "8b9b80a60a43c59fd205dcfd0e3f5d0d",
-      "timestamp": 1762435694166
+      "id": "574076580f6fa97f8f17fc06431ac3b0",
+      "timestamp": 1773158678503
     }
   ],
   "terminal africa incorporated": [
@@ -22843,13 +22843,8 @@
   "jv management consulting": [
     {
       "site": "JobGurus",
-      "id": "743727976de8a2c16edbb694c68df4b0",
-      "timestamp": 1769781145603
-    },
-    {
-      "site": "JobGurus",
-      "id": "a3d59e300208469d6584190eb91ca155",
-      "timestamp": 1770146680814
+      "id": "53ef19435e0e0fb1294dc780a29e470a",
+      "timestamp": 1773158678503
     }
   ],
   "doii design limited": [
@@ -28055,6 +28050,27 @@
       "site": "JobGurus",
       "id": "fbb8a9fbc0fdc6aa28d53fc665be9763",
       "timestamp": 1773151183349
+    }
+  ],
+  "velox real estate and investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "4583bcbd521d221add9832a89e31c3de",
+      "timestamp": 1773158678503
+    }
+  ],
+  "uni technology nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "820be8086fc019f7078f549750a68140",
+      "timestamp": 1773158678503
+    }
+  ],
+  "alfred and victoria associates": [
+    {
+      "site": "JobGurus",
+      "id": "10c7355d3bfa9f42e3ce2248ac197172",
+      "timestamp": 1773158678503
     }
   ]
 }
