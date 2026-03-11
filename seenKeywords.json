@@ -3176,8 +3176,8 @@
   "buckler systems": [
     {
       "site": "JobGurus",
-      "id": "71128ab10d757fadc8dc01f515833247",
-      "timestamp": 1761053418007
+      "id": "5cef3d9eada81f024596e60e2c7b8d0e",
+      "timestamp": 1773252504277
     }
   ],
   "arkounting business concepts limited": [
@@ -13793,8 +13793,8 @@
   "across global travel & tours limited": [
     {
       "site": "JobGurus",
-      "id": "5bf3426ad37c80294f1debd1850c3bfb",
-      "timestamp": 1756827628518
+      "id": "ec984e0f7b5e9a27c0fb44b8e75452ec",
+      "timestamp": 1773252504277
     }
   ],
   "s&p global commodity insights": [
@@ -26227,13 +26227,8 @@
   "black pelican limited": [
     {
       "site": "JobGurus",
-      "id": "b5baac7be6a0a7c4cf47b51e5eaa5be4",
-      "timestamp": 1769434840402
-    },
-    {
-      "site": "JobGurus",
-      "id": "77e302933fa90b32f63c189b25daa7b8",
-      "timestamp": 1769434840402
+      "id": "a782be5d9c33fb1623dcf35ec3fcb30d",
+      "timestamp": 1773252504277
     }
   ],
   "illaj holdings": [
@@ -28143,6 +28138,13 @@
       "site": "JobGurus",
       "id": "93d1c2ab0838279c5b9ca3b1696f0259",
       "timestamp": 1773249912936
+    }
+  ],
+  "codebyte": [
+    {
+      "site": "JobGurus",
+      "id": "892d1ef1e47ae9eec6864f4e30ec8e76",
+      "timestamp": 1773252504277
     }
   ]
 }
