@@ -552,6 +552,11 @@
       "site": "JobGurus",
       "id": "185cced45c4379d8d7cc185eca166a17",
       "timestamp": 1772814921815
+    },
+    {
+      "site": "JobGurus",
+      "id": "b53a82fe7f263eb8d9b3e56faeef2bf9",
+      "timestamp": 1773258947748
     }
   ],
   "abbfem group": [
@@ -6612,8 +6617,8 @@
   "etc workforce services limited": [
     {
       "site": "JobGurus",
-      "id": "d112efb36c427e4d08d9a9a6545dba0d",
-      "timestamp": 1769093719484
+      "id": "3fb5d99149a5c0e3d026a1b7eb3693bb",
+      "timestamp": 1773258947748
     }
   ],
   "jibs-ray nigeria limited": [
@@ -12266,8 +12271,8 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "30dc637979ad2821555567a9b7ea407d",
-      "timestamp": 1772462583957
+      "id": "bdfe7b5d14326e5c336e920a0e344260",
+      "timestamp": 1773258947748
     }
   ],
   "saro agro-allied": [
@@ -25726,8 +25731,8 @@
   "trinity financials": [
     {
       "site": "JobGurus",
-      "id": "65fd5c75b5f81256eade1719ea5936f2",
-      "timestamp": 1768906379609
+      "id": "f1ad95dc966d024c212882a6d57c02c6",
+      "timestamp": 1773258947748
     }
   ],
   "swiftsync consulting": [
@@ -28137,6 +28142,13 @@
       "site": "JobGurus",
       "id": "caae349e7e103475428e8413ced2566c",
       "timestamp": 1773256436720
+    }
+  ],
+  "ucalux": [
+    {
+      "site": "JobGurus",
+      "id": "ec3522ce65d73e8a050fc69b4fb3d9fd",
+      "timestamp": 1773258947748
     }
   ]
 }
