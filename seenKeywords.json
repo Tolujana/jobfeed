@@ -3284,8 +3284,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "d7f6177a9ca50d0c20fd9a2939592142",
-      "timestamp": 1770131321557
+      "id": "17f38012021d0e069a8c23eb4f5db74c",
+      "timestamp": 1773249912936
     }
   ],
   "abnl limited": [
@@ -5974,13 +5974,8 @@
   "westfield consulting limited": [
     {
       "site": "JobGurus",
-      "id": "007f7e6148e0f158d2709cd117d919aa",
-      "timestamp": 1770046439810
-    },
-    {
-      "site": "JobGurus",
-      "id": "6b1731629c918b7bfc25e574c7287000",
-      "timestamp": 1770046439810
+      "id": "0ccb8ff5096fedbd7f8e4f46bf04669a",
+      "timestamp": 1773249912936
     }
   ],
   "health connect 24x7": [
@@ -22293,8 +22288,8 @@
   "bbc nigeria": [
     {
       "site": "JobGurus",
-      "id": "3298c2c0aac7149c5983b1006704e499",
-      "timestamp": 1764251371291
+      "id": "96a2809f6f04e6634fe8d8f469b1a803",
+      "timestamp": 1773249912936
     }
   ],
   "ajocard limited": [
@@ -28108,6 +28103,11 @@
       "site": "JobGurus",
       "id": "b5a05e0ffbbf801b94eeadd82e2eae79",
       "timestamp": 1773165955457
+    },
+    {
+      "site": "JobGurus",
+      "id": "444acdf2574917fbeb95e62a4cd1fcd1",
+      "timestamp": 1773249912936
     }
   ],
   "vdt communications limited": [
@@ -28136,6 +28136,13 @@
       "site": "JobGurus",
       "id": "18f8c663eef62716195567855c810e79",
       "timestamp": 1773245325887
+    }
+  ],
+  "jaba hr partners": [
+    {
+      "site": "JobGurus",
+      "id": "93d1c2ab0838279c5b9ca3b1696f0259",
+      "timestamp": 1773249912936
     }
   ]
 }
