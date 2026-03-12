@@ -3716,8 +3716,8 @@
   "cen global services limited": [
     {
       "site": "JobGurus",
-      "id": "53b45b10bfc8dbffda9cc06cc854dbb2",
-      "timestamp": 1769525803804
+      "id": "63b3e5976b0e3b7b77d758bc98f2a8e3",
+      "timestamp": 1773316216593
     }
   ],
   "technoserve": [
@@ -4996,6 +4996,11 @@
       "site": "JobGurus",
       "id": "399188589fd3a31298cd04c3a80e6976",
       "timestamp": 1773314913325
+    },
+    {
+      "site": "JobGurus",
+      "id": "f793f707a6bc07f9963be63f3abf6360",
+      "timestamp": 1773316216593
     }
   ],
   "koins microfinance bank limited": [
@@ -6894,8 +6899,8 @@
   "chilis restaurant": [
     {
       "site": "JobGurus",
-      "id": "9e0791d5155aeccd4e179fb1cd71112e",
-      "timestamp": 1772546207642
+      "id": "b8d1a875ed4043206b41548b7ff9ffa2",
+      "timestamp": 1773316216593
     }
   ],
   "lendha technology limited": [
@@ -28195,6 +28200,20 @@
       "site": "JobGurus",
       "id": "45582ae83c37fd037f142b155b8a4133",
       "timestamp": 1773314913325
+    }
+  ],
+  "cfao yamaha motor nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "329a7d724c1fd251add04d7a9601adc3",
+      "timestamp": 1773316216593
+    }
+  ],
+  "champion breweries plc": [
+    {
+      "site": "JobGurus",
+      "id": "375e0ba340679a1536c1560b8483f261",
+      "timestamp": 1773316216593
     }
   ]
 }
