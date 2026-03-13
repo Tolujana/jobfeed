@@ -9096,8 +9096,8 @@
   "logisoft solutions": [
     {
       "site": "JobGurus",
-      "id": "110274a968dcbb093c997e3f1a2fe83a",
-      "timestamp": 1770829225017
+      "id": "3080e71012a74e8a04982252481ab199",
+      "timestamp": 1773433793229
     }
   ],
   "tamak logistics": [
@@ -21442,8 +21442,8 @@
   "baker hughes": [
     {
       "site": "JobGurus",
-      "id": "049254ac278a6c8eef2e2373ab0f220c",
-      "timestamp": 1769077372864
+      "id": "9c97e5b9b231d840d8ae826c8824bc97",
+      "timestamp": 1773433793229
     }
   ],
   "noble hall leadership academy for girls": [
@@ -28305,6 +28305,20 @@
       "site": "JobGurus",
       "id": "d66007ccb37c03915ce7e592dd54501c",
       "timestamp": 1773431715836
+    }
+  ],
+  "forth urban limited": [
+    {
+      "site": "JobGurus",
+      "id": "499cb271ccc65e23706f9a6939fdf290",
+      "timestamp": 1773433793229
+    }
+  ],
+  "dreamcity capital": [
+    {
+      "site": "JobGurus",
+      "id": "50c640aa86df9bcaf3a4467339414a8b",
+      "timestamp": 1773433793229
     }
   ]
 }
