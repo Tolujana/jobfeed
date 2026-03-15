@@ -598,13 +598,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "2961ad964b470c5c49c8cbc2150b93f2",
-      "timestamp": 1770901096548
-    },
-    {
-      "site": "JobGurus",
-      "id": "6b9910b414b640f8f074abfff421319c",
-      "timestamp": 1770983669777
+      "id": "19dfac9f04a8e28dcafaf129321b13be",
+      "timestamp": 1773588320077
     }
   ],
   "food concepts plc": [
@@ -28336,6 +28331,27 @@
       "site": "JobGurus",
       "id": "5c1dbe31efab73b93ba403c85b0aadaa",
       "timestamp": 1773586501049
+    }
+  ],
+  "nordic hotels": [
+    {
+      "site": "JobGurus",
+      "id": "44487980f7facfac892b96cc26bfc810",
+      "timestamp": 1773588320077
+    }
+  ],
+  "national agency for science and engineering infrastructure (naseni)": [
+    {
+      "site": "JobGurus",
+      "id": "b11804a2d00bece2e41582b3f1ec1f59",
+      "timestamp": 1773588320077
+    }
+  ],
+  "snappycx": [
+    {
+      "site": "JobGurus",
+      "id": "5cb5b99d3235dfb4715787b6d9736c42",
+      "timestamp": 1773588320077
     }
   ]
 }
