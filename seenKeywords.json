@@ -3017,13 +3017,8 @@
   "erisco foods limited": [
     {
       "site": "JobGurus",
-      "id": "23126185a00a05f26ea93d72c0ed8087",
-      "timestamp": 1770378997543
-    },
-    {
-      "site": "JobGurus",
-      "id": "54e9c2df7a87b605adbb7635ef211f19",
-      "timestamp": 1770378997543
+      "id": "622033f6cfc1d59a1e7708699d340d5d",
+      "timestamp": 1773672133958
     }
   ],
   "lauvee beauty salon": [
@@ -11084,23 +11079,8 @@
   "zamiva transnational services": [
     {
       "site": "JobGurus",
-      "id": "44ac053c593e6042432e22ba01c3389f",
-      "timestamp": 1772811168817
-    },
-    {
-      "site": "JobGurus",
-      "id": "9269139870e3fe31c9c065cd430f4d57",
-      "timestamp": 1772811168817
-    },
-    {
-      "site": "JobGurus",
-      "id": "536d01063fc883b058ba3e44100ef4ad",
-      "timestamp": 1772811168817
-    },
-    {
-      "site": "JobGurus",
-      "id": "eb6402b2631002194b8ce3e5c92073bf",
-      "timestamp": 1772811168817
+      "id": "75f7f0dbc8af35cddc5d21e3adb3ca48",
+      "timestamp": 1773672133958
     }
   ],
   "one": [
@@ -28461,6 +28441,13 @@
       "site": "JobGurus",
       "id": "1caddc86cbafe93ae8cba38b734d70aa",
       "timestamp": 1773666103678
+    }
+  ],
+  "del-york group": [
+    {
+      "site": "JobGurus",
+      "id": "fcfc7f590eef9585cdd7d516c519a7f2",
+      "timestamp": 1773672133958
     }
   ]
 }
