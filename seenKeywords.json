@@ -6313,13 +6313,8 @@
   "oppo": [
     {
       "site": "JobGurus",
-      "id": "131de6b6de4a6ca9b61db0179c836bca",
-      "timestamp": 1772469553407
-    },
-    {
-      "site": "JobGurus",
-      "id": "d7b7a4d1e8ee2bb9d3cfe34e3cc4febe",
-      "timestamp": 1772739635201
+      "id": "7e6c3d9f3de90ff5f7a1713ac5627e9f",
+      "timestamp": 1773676893091
     }
   ],
   "agricare std plus limited": [
@@ -13444,8 +13439,8 @@
   "talent towers": [
     {
       "site": "JobGurus",
-      "id": "4c5cfc8770eae5dbfa2a4aec4f84df80",
-      "timestamp": 1768578294084
+      "id": "fbf8132b70e333556ec0a95ca94b357f",
+      "timestamp": 1773676893091
     }
   ],
   "elizade nigeria limited": [
@@ -23223,8 +23218,8 @@
   "fort hermon limited": [
     {
       "site": "JobGurus",
-      "id": "497053482a6ecdfd4ea1aa0490d8f707",
-      "timestamp": 1765273436240
+      "id": "16cadef7295516f5f10e0f961a673301",
+      "timestamp": 1773676893091
     }
   ],
   "kingsfield diagnostic": [
@@ -26589,8 +26584,8 @@
   "grand oak limited (gol)": [
     {
       "site": "JobGurus",
-      "id": "abd1b568617e3c43676a7f31d80105a2",
-      "timestamp": 1769869242698
+      "id": "7223625fa4617fa98fe73ba78c5c250b",
+      "timestamp": 1773676893091
     }
   ],
   "abc logistics": [
@@ -28448,6 +28443,13 @@
       "site": "JobGurus",
       "id": "fcfc7f590eef9585cdd7d516c519a7f2",
       "timestamp": 1773672133958
+    }
+  ],
+  "retrust microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "e4e6cf23a9406cec57262239dc113fc8",
+      "timestamp": 1773676893091
     }
   ]
 }
