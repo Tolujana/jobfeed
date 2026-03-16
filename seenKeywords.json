@@ -1094,8 +1094,8 @@
   "trident microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "31a28ed4ede1272a4dc30a4c5fb80f73",
-      "timestamp": 1749131423315
+      "id": "68d44177f08969e9e32b5b6124dca39a",
+      "timestamp": 1773653865250
     }
   ],
   "palmpay": [
@@ -28398,6 +28398,20 @@
       "site": "JobGurus",
       "id": "d8ccaa3adb568d95bd302f74c02e5344",
       "timestamp": 1773589861446
+    }
+  ],
+  "tojan technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "a993fafa5d146fd9850f8502eb51d098",
+      "timestamp": 1773653865250
+    }
+  ],
+  "weatherford": [
+    {
+      "site": "JobGurus",
+      "id": "4fa6d3c3a811336f0fcc13b8cd636cd2",
+      "timestamp": 1773653865250
     }
   ]
 }
