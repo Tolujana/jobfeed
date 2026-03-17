@@ -17,8 +17,13 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "2972dfa53cf7c8274e1249c3a1a2bcaf",
-      "timestamp": 1773060824136
+      "id": "0ced9240101cc5f901227e231c21cf52",
+      "timestamp": 1773786509644
+    },
+    {
+      "site": "JobGurus",
+      "id": "e3c6a16167ec622662c033f205547e1b",
+      "timestamp": 1773786509644
     }
   ],
   "amecron nigeria limited": [
@@ -2197,13 +2202,8 @@
   "duob recruitment": [
     {
       "site": "JobGurus",
-      "id": "b7d6cb2fece79b303c4abb40e9c04c85",
-      "timestamp": 1768231283504
-    },
-    {
-      "site": "JobGurus",
-      "id": "f8ee22e44430c50eff31ac43968e59c7",
-      "timestamp": 1768664358794
+      "id": "8e8f9876966a5136f9140924594079ca",
+      "timestamp": 1773786509644
     }
   ],
   "speedaf express": [
@@ -5429,8 +5429,8 @@
   "sundry foods": [
     {
       "site": "JobGurus",
-      "id": "f102b10cf133f5c5cd57318f7acda2e4",
-      "timestamp": 1769161863750
+      "id": "6ca47789c920415e71a6465e3343ac2b",
+      "timestamp": 1773786509644
     }
   ],
   "ht-limited": [
@@ -28503,6 +28503,13 @@
       "site": "JobGurus",
       "id": "f6689dc64c5fdcf012f9ab0a118b7359",
       "timestamp": 1773783198615
+    }
+  ],
+  "smart nuel communications limited": [
+    {
+      "site": "JobGurus",
+      "id": "550303418e607de79263115171585571",
+      "timestamp": 1773786509644
     }
   ]
 }
