@@ -5070,8 +5070,8 @@
   "lheon consulting limited": [
     {
       "site": "JobGurus",
-      "id": "432e1ec05f1a2d6c1664965943732dae",
-      "timestamp": 1760712082793
+      "id": "da3936f63c0046e12868468333b516f7",
+      "timestamp": 1773768814498
     }
   ],
   "tophire africa": [
@@ -15540,8 +15540,8 @@
   "structured resource business limited": [
     {
       "site": "JobGurus",
-      "id": "e0e5cb51be61adaea7adfb7b47264b46",
-      "timestamp": 1758202910339
+      "id": "30e0bcd0bc47075b47a0e65fbe7c1e0d",
+      "timestamp": 1773768814498
     }
   ],
   "tranter it infrastructure services limited": [
@@ -28452,6 +28452,20 @@
       "site": "JobGurus",
       "id": "9426acff75e98d12f13fb6baff523192",
       "timestamp": 1773763261997
+    }
+  ],
+  "johngate industrial company limited": [
+    {
+      "site": "JobGurus",
+      "id": "e012ae24d22bfbaaff31539108977f55",
+      "timestamp": 1773768814498
+    }
+  ],
+  "luxsit integration limited": [
+    {
+      "site": "JobGurus",
+      "id": "bd280ac055b4f5b96232fd778a262d43",
+      "timestamp": 1773768814498
     }
   ]
 }
