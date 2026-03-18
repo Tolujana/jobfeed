@@ -10,8 +10,13 @@
   "ipnx nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "bf73fe85c9d3d575c37523c88a2cf826",
-      "timestamp": 1769095606897
+      "id": "abf741e8b01567d3e5928b3de09a4156",
+      "timestamp": 1773860009405
+    },
+    {
+      "site": "JobGurus",
+      "id": "2099ea0a9679b400d1991debc6542efe",
+      "timestamp": 1773860009405
     }
   ],
   "excel and grace consulting": [
@@ -15598,8 +15603,8 @@
   "hugo": [
     {
       "site": "JobGurus",
-      "id": "10934df399473ac4bb4bc539970c6e12",
-      "timestamp": 1770780612850
+      "id": "0b8ca04e32d273458bd6ce427cd9f32e",
+      "timestamp": 1773860009405
     }
   ],
   "ocean marine solutions limited": [
@@ -28466,6 +28471,11 @@
       "site": "JobGurus",
       "id": "bd280ac055b4f5b96232fd778a262d43",
       "timestamp": 1773768814498
+    },
+    {
+      "site": "JobGurus",
+      "id": "08085b20976e7129c65473b797c4b0de",
+      "timestamp": 1773860009405
     }
   ],
   "hilton worldwidde": [
@@ -28548,6 +28558,13 @@
       "site": "JobGurus",
       "id": "d3f88ebcd355953163b47fc3d6e991e6",
       "timestamp": 1773855270008
+    }
+  ],
+  "strategic outsourcing limited (sol)": [
+    {
+      "site": "JobGurus",
+      "id": "c05c5a157794912d85f4185f3977e11c",
+      "timestamp": 1773860009405
     }
   ]
 }
