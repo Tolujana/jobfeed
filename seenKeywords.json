@@ -24151,8 +24151,8 @@
   "koolboks": [
     {
       "site": "JobGurus",
-      "id": "4ca230ca446d9a2d55f869303f660359",
-      "timestamp": 1770304110941
+      "id": "61c66dbd1ee43f590b2ac267b68ab8ea",
+      "timestamp": 1773865852154
     }
   ],
   " british council": [
@@ -27819,8 +27819,8 @@
   "consulting dcc": [
     {
       "site": "JobGurus",
-      "id": "8f5e9bc0eb837b83b5b4de7ea0222853",
-      "timestamp": 1772811168817
+      "id": "3bf1f21e57c9b6314bfb56e43520d78b",
+      "timestamp": 1773865852154
     }
   ],
   "teco group": [
@@ -28575,6 +28575,27 @@
       "site": "JobGurus",
       "id": "c05c5a157794912d85f4185f3977e11c",
       "timestamp": 1773860009405
+    }
+  ],
+  "smart partners consulting limited (spcl)": [
+    {
+      "site": "JobGurus",
+      "id": "c1d2860dfd099e19a88c7fd96e08d82a",
+      "timestamp": 1773865852154
+    }
+  ],
+  "law and visas": [
+    {
+      "site": "JobGurus",
+      "id": "3b748eb7c2a687f7177e8ae37660f952",
+      "timestamp": 1773865852154
+    }
+  ],
+  "teach for all": [
+    {
+      "site": "JobGurus",
+      "id": "2bd80a4974b34305346bd47350030bff",
+      "timestamp": 1773865852154
     }
   ]
 }
