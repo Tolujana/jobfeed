@@ -10188,6 +10188,16 @@
       "site": "JobGurus",
       "id": "c86944f6f48ec1a476f71075d9c968a5",
       "timestamp": 1773936838883
+    },
+    {
+      "site": "JobGurus",
+      "id": "6624d96637a17d8a83cc1026f4eed94f",
+      "timestamp": 1773941456612
+    },
+    {
+      "site": "JobGurus",
+      "id": "6a950835e683e99f78b5d9043d292ad9",
+      "timestamp": 1773941456612
     }
   ],
   "terminal africa incorporated": [
@@ -16357,13 +16367,8 @@
   "jeroid limited": [
     {
       "site": "JobGurus",
-      "id": "e3583e366d3d4ba3131eec162c074adc",
-      "timestamp": 1765385485206
-    },
-    {
-      "site": "JobGurus",
-      "id": "3534735ccc8aeb9d61cb38999f8f76e4",
-      "timestamp": 1765385485206
+      "id": "91f228a80e98a79eae68b125ff5fb3ea",
+      "timestamp": 1773941456612
     }
   ],
   "temploy limited": [
@@ -27376,8 +27381,8 @@
   "careerhive management": [
     {
       "site": "JobGurus",
-      "id": "69aaec321410cd9908048e461f5614fc",
-      "timestamp": 1772450939083
+      "id": "5e3ef081ba287b31d35c5d839682cadf",
+      "timestamp": 1773941456612
     }
   ],
   "casa 45 enterprises limited": [
@@ -28635,6 +28640,13 @@
       "site": "JobGurus",
       "id": "2cd278bac2b1e8b5ada33b63aa07f8d7",
       "timestamp": 1773936838883
+    }
+  ],
+  "banseke production limited": [
+    {
+      "site": "JobGurus",
+      "id": "50af7780538a6d45a19c6ae86646585c",
+      "timestamp": 1773941456612
     }
   ]
 }
