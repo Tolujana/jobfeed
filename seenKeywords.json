@@ -3294,13 +3294,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "17f38012021d0e069a8c23eb4f5db74c",
-      "timestamp": 1773249912936
-    },
-    {
-      "site": "JobGurus",
-      "id": "9fb46e345161f18c010c74dba593b6ce",
-      "timestamp": 1773333167096
+      "id": "4e8fe9aae710cc01dc10e86265e5fd99",
+      "timestamp": 1774011081894
     }
   ],
   "abnl limited": [
@@ -7501,8 +7496,8 @@
   "viju industries nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "9c49ee8fba85c49e3053af4f392267c7",
-      "timestamp": 1764422582592
+      "id": "eeeacd4a783c65f66f1e1b990e6cd6f6",
+      "timestamp": 1774011081894
     }
   ],
   "dovichi worldwide technology company limited": [
@@ -28489,6 +28484,11 @@
       "site": "JobGurus",
       "id": "e012ae24d22bfbaaff31539108977f55",
       "timestamp": 1773768814498
+    },
+    {
+      "site": "JobGurus",
+      "id": "22c9c48550c9ffa78c4c0faf17455506",
+      "timestamp": 1774011081894
     }
   ],
   "luxsit integration limited": [
@@ -28714,6 +28714,20 @@
       "site": "JobGurus",
       "id": "63eb49d4ed5f4070eba27c01cfe69022",
       "timestamp": 1774007588054
+    }
+  ],
+  " open hospital limited": [
+    {
+      "site": "JobGurus",
+      "id": "df4961c121bad6f417b4e0e0454ab000",
+      "timestamp": 1774011081894
+    }
+  ],
+  "real strikers security services limited": [
+    {
+      "site": "JobGurus",
+      "id": "62904d1456eb26cf1dc10712f05f7eb6",
+      "timestamp": 1774011081894
     }
   ]
 }
