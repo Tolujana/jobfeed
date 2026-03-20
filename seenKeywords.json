@@ -20303,8 +20303,8 @@
   "applicant recruiters limited": [
     {
       "site": "JobGurus",
-      "id": "712688348572e5bba300ab64a71512e4",
-      "timestamp": 1762263043854
+      "id": "5582977b803f6a15162cbe8c582840ee",
+      "timestamp": 1774021094379
     }
   ],
   "eduteller": [
@@ -27443,6 +27443,21 @@
       "site": "JobGurus",
       "id": "77973230fe9da27df9dc4d6953ce570c",
       "timestamp": 1773924917474
+    },
+    {
+      "site": "JobGurus",
+      "id": "1d376f410a1acdeac65a12681eed52c5",
+      "timestamp": 1774021094379
+    },
+    {
+      "site": "JobGurus",
+      "id": "f05c97d6592251dcafda16e6d06b550e",
+      "timestamp": 1774021094379
+    },
+    {
+      "site": "JobGurus",
+      "id": "5cabe92b7a821818a7e3ba52759f1b49",
+      "timestamp": 1774021094379
     }
   ],
   "peachy talent solutions": [
@@ -28760,6 +28775,13 @@
       "site": "JobGurus",
       "id": "d7487986d17b78c0c5889828dbe12eeb",
       "timestamp": 1774015119342
+    }
+  ],
+  "new manchester resort and bar": [
+    {
+      "site": "JobGurus",
+      "id": "2ff80c05c8933a368960939265f59885",
+      "timestamp": 1774021094379
     }
   ]
 }
