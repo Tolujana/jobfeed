@@ -14156,8 +14156,8 @@
   "beacongate limited": [
     {
       "site": "JobGurus",
-      "id": "b34dcd6b6122b1be557f4e181e1583a5",
-      "timestamp": 1769167040834
+      "id": "ed81c46835be46e43e44b53f33983c57",
+      "timestamp": 1774007588054
     }
   ],
   "faith digital consulting": [
@@ -20226,8 +20226,8 @@
   "transnet": [
     {
       "site": "JobGurus",
-      "id": "6ad7524bd1534066c99dbf2d52710a85",
-      "timestamp": 1762254842846
+      "id": "d7b36c5d9f1cfa4f96652eac101a8a98",
+      "timestamp": 1774007588054
     }
   ],
   "yeenx diner": [
@@ -27826,6 +27826,11 @@
       "site": "JobGurus",
       "id": "bfa149a5fac30e886e5ca2f3b1ece987",
       "timestamp": 1773869388793
+    },
+    {
+      "site": "JobGurus",
+      "id": "07126fa51de76192979c22316b8c404e",
+      "timestamp": 1774007588054
     }
   ],
   "teco group": [
@@ -28695,6 +28700,20 @@
       "site": "JobGurus",
       "id": "5941415277babf185a98a8a5c73b9aa5",
       "timestamp": 1774006072728
+    }
+  ],
+  "open hospital limited": [
+    {
+      "site": "JobGurus",
+      "id": "25d9107da3f943a57bff73c66dbfcae9",
+      "timestamp": 1774007588054
+    }
+  ],
+  " lagos chamber of commerce and industry (lcci)": [
+    {
+      "site": "JobGurus",
+      "id": "63eb49d4ed5f4070eba27c01cfe69022",
+      "timestamp": 1774007588054
     }
   ]
 }
