@@ -3437,13 +3437,8 @@
   "auldon limited": [
     {
       "site": "JobGurus",
-      "id": "1d44a78bde2beb7988d37a6650a041b8",
-      "timestamp": 1757164705939
-    },
-    {
-      "site": "JobGurus",
-      "id": "578eb41322424f05648e7095786dd2ef",
-      "timestamp": 1757416393918
+      "id": "c538c8a62aa26c8f95508d9637213c31",
+      "timestamp": 1774015119342
     }
   ],
   "prixair": [
@@ -19254,8 +19249,8 @@
   "avetium consult": [
     {
       "site": "JobGurus",
-      "id": "020849ca7dc57d9e5af8dec2d19323a7",
-      "timestamp": 1764085407763
+      "id": "d6a1d34d866b52d29edea41b6ec9c1d9",
+      "timestamp": 1774015119342
     }
   ],
   "ai multimedia academy": [
@@ -28707,6 +28702,11 @@
       "site": "JobGurus",
       "id": "25d9107da3f943a57bff73c66dbfcae9",
       "timestamp": 1774007588054
+    },
+    {
+      "site": "JobGurus",
+      "id": "c824ff7adabe2bc852d6a26930fd75d1",
+      "timestamp": 1774015119342
     }
   ],
   " lagos chamber of commerce and industry (lcci)": [
@@ -28728,6 +28728,13 @@
       "site": "JobGurus",
       "id": "62904d1456eb26cf1dc10712f05f7eb6",
       "timestamp": 1774011081894
+    }
+  ],
+  "zagus power systems limited": [
+    {
+      "site": "JobGurus",
+      "id": "d7487986d17b78c0c5889828dbe12eeb",
+      "timestamp": 1774015119342
     }
   ]
 }
