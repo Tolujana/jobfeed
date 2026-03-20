@@ -192,6 +192,11 @@
       "site": "JobGurus",
       "id": "e9265b6f0c18d4a2d96de75ec66bc025",
       "timestamp": 1774018167939
+    },
+    {
+      "site": "JobGurus",
+      "id": "9358e350199beb5d19d317a9da84ec8b",
+      "timestamp": 1774024676520
     }
   ],
   "cway group": [
@@ -3311,6 +3316,11 @@
       "site": "JobGurus",
       "id": "4e8fe9aae710cc01dc10e86265e5fd99",
       "timestamp": 1774011081894
+    },
+    {
+      "site": "JobGurus",
+      "id": "f6134032013e6efb1957fd4ffc7ce348",
+      "timestamp": 1774024676520
     }
   ],
   "abnl limited": [
@@ -3454,6 +3464,11 @@
       "site": "JobGurus",
       "id": "c538c8a62aa26c8f95508d9637213c31",
       "timestamp": 1774015119342
+    },
+    {
+      "site": "JobGurus",
+      "id": "46bd20a30af32a9b37cbad7cb1b3a009",
+      "timestamp": 1774024676520
     }
   ],
   "prixair": [
@@ -12120,6 +12135,11 @@
       "site": "JobGurus",
       "id": "cf59b582dcda20d82e9e8396050e8a6c",
       "timestamp": 1774002817168
+    },
+    {
+      "site": "JobGurus",
+      "id": "ebe99c1fa25c68dd82a5987fa29caaa9",
+      "timestamp": 1774024676520
     }
   ],
   "yassir": [
@@ -28782,6 +28802,13 @@
       "site": "JobGurus",
       "id": "2ff80c05c8933a368960939265f59885",
       "timestamp": 1774021094379
+    }
+  ],
+  "al-tinez pharmaceuticals limited": [
+    {
+      "site": "JobGurus",
+      "id": "08f458ebd9d2392acd1421b753c012d0",
+      "timestamp": 1774024676520
     }
   ]
 }
