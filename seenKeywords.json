@@ -18990,6 +18990,11 @@
       "site": "JobGurus",
       "id": "d2a3e3ae8eec1636115bc6f372e7ccca",
       "timestamp": 1774100336606
+    },
+    {
+      "site": "JobGurus",
+      "id": "29a2abbce80aebfa157112459ccbcc25",
+      "timestamp": 1774106480528
     }
   ],
   "pyfinest resource": [
@@ -20823,6 +20828,11 @@
       "site": "JobGurus",
       "id": "2289c49d6b9493ffaf63908f2fdc5ceb",
       "timestamp": 1774100336606
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7d858c97c0b1f1187de9cf5dbd4fe5b",
+      "timestamp": 1774106480528
     }
   ],
   "care shield pharmaceuticals": [
@@ -28855,6 +28865,23 @@
       "site": "JobGurus",
       "id": "84c50474dadc8be2053ba281f51b12e7",
       "timestamp": 1774104670327
+    }
+  ],
+  "quadri advisory hr services limited": [
+    {
+      "site": "JobGurus",
+      "id": "231dcdaf3e5cbbb7926db5b92aa32f55",
+      "timestamp": 1774106480528
+    },
+    {
+      "site": "JobGurus",
+      "id": "ca7a90e3a5a7ab2b488b7f2d6ef34541",
+      "timestamp": 1774106480528
+    },
+    {
+      "site": "JobGurus",
+      "id": "86faca5598d67f5dc67caf817e274857",
+      "timestamp": 1774106480528
     }
   ]
 }
