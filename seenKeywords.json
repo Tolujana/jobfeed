@@ -14913,6 +14913,11 @@
       "site": "JobGurus",
       "id": "176414a8a2192a6cf0e433ec822fb332",
       "timestamp": 1774027940935
+    },
+    {
+      "site": "JobGurus",
+      "id": "a0fdc6cba5a06e7597ea945f9f819b56",
+      "timestamp": 1774100336606
     }
   ],
   "kels global ventures": [
@@ -18978,8 +18983,8 @@
   "pem security guard network limited": [
     {
       "site": "JobGurus",
-      "id": "41b865ab2e4124875214e804ea83fee2",
-      "timestamp": 1765548981670
+      "id": "d2a3e3ae8eec1636115bc6f372e7ccca",
+      "timestamp": 1774100336606
     }
   ],
   "pyfinest resource": [
@@ -20811,13 +20816,8 @@
   "eta zuma mining & industries limited": [
     {
       "site": "JobGurus",
-      "id": "fd6944c4fc1c867d84ad717300494e09",
-      "timestamp": 1769442667332
-    },
-    {
-      "site": "JobGurus",
-      "id": "2a41653475f8667b8203240f63a984d4",
-      "timestamp": 1769446870802
+      "id": "2289c49d6b9493ffaf63908f2fdc5ceb",
+      "timestamp": 1774100336606
     }
   ],
   "care shield pharmaceuticals": [
@@ -28539,6 +28539,16 @@
       "site": "JobGurus",
       "id": "22c9c48550c9ffa78c4c0faf17455506",
       "timestamp": 1774011081894
+    },
+    {
+      "site": "JobGurus",
+      "id": "2c1406334ae8eb7046ae0953ceb06a3f",
+      "timestamp": 1774100336606
+    },
+    {
+      "site": "JobGurus",
+      "id": "f13e437b53e00abf301d83b19f4dc317",
+      "timestamp": 1774100336606
     }
   ],
   "luxsit integration limited": [
