@@ -4958,8 +4958,8 @@
   "future moves recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "f6409ea1e134219cac284d46a882afab",
-      "timestamp": 1770378997543
+      "id": "f0ab7c58199060d0822e4bbf9f6d59bf",
+      "timestamp": 1774295077635
     }
   ],
   "renda limited": [
@@ -6791,8 +6791,8 @@
   "brilliant performance solutions limited": [
     {
       "site": "JobGurus",
-      "id": "7b889aa1d34ed9e8d7afaf448a8e421a",
-      "timestamp": 1768387804157
+      "id": "ed24aa071cc1b62498769730d3d0ff33",
+      "timestamp": 1774295077635
     }
   ],
   "d-degree digital hub limited": [
@@ -23246,8 +23246,8 @@
   "lance trend limited": [
     {
       "site": "JobGurus",
-      "id": "718a26dc39bcf5a00935f732a9319a9d",
-      "timestamp": 1765280291418
+      "id": "1d9e08e472e53355d858cdc3163e0ae6",
+      "timestamp": 1774295077635
     }
   ],
   "triton international company limited": [
@@ -25383,8 +25383,8 @@
   "kemslis pragmatic limited": [
     {
       "site": "JobGurus",
-      "id": "c3bffc4ec4fdfc5578a1961321560c0d",
-      "timestamp": 1770917687948
+      "id": "3031817b67472e32eb13016745235135",
+      "timestamp": 1774295077635
     }
   ],
   "mobos fashion": [
@@ -28940,6 +28940,13 @@
       "site": "JobGurus",
       "id": "208a5494e1096b444d4efa1cccd312bf",
       "timestamp": 1774291678580
+    }
+  ],
+  "fusion group nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "4309938c48c4f8c406c789fa6ac525c8",
+      "timestamp": 1774295077635
     }
   ]
 }
