@@ -28394,8 +28394,8 @@
   "ekris bio health foods nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "456c1a2006c9eb4417b9ae25b6e37c5b",
-      "timestamp": 1773589861446
+      "id": "2d01c8cc2db8b2e32561f7104d24de8c",
+      "timestamp": 1774280020366
     }
   ],
   "africa metals & minerals (ammc)": [
@@ -28867,6 +28867,27 @@
       "site": "JobGurus",
       "id": "06fc1a38c171e3bf214688531af06dff",
       "timestamp": 1774275368003
+    }
+  ],
+  "king solomon hospital": [
+    {
+      "site": "JobGurus",
+      "id": "8bbe82d66bbf83602eb253bcbf3b62af",
+      "timestamp": 1774280020366
+    }
+  ],
+  "testify limited": [
+    {
+      "site": "JobGurus",
+      "id": "f3b220ceee922bf9d6e448e0fb58dfc5",
+      "timestamp": 1774280020366
+    }
+  ],
+  "pause factory": [
+    {
+      "site": "JobGurus",
+      "id": "9461ceac080a17fbe89c9fa1d714a56c",
+      "timestamp": 1774280020366
     }
   ]
 }
