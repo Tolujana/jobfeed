@@ -2648,13 +2648,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "9ef477aee3855c1ae7698dc8a3a3c5d2",
-      "timestamp": 1772735118243
-    },
-    {
-      "site": "JobGurus",
-      "id": "73b4dcf771849273faf5c1d76c90071e",
-      "timestamp": 1773169922627
+      "id": "66891897f3bcc5cec1923281215f3745",
+      "timestamp": 1774288112919
     }
   ],
   "international fertilizer development center": [
@@ -21004,8 +20999,8 @@
   "talentnova hr": [
     {
       "site": "JobGurus",
-      "id": "1f93e1eac1ae316fbb51a19bcca3677c",
-      "timestamp": 1763029082354
+      "id": "42903462a5fc62bb1275f5cca89605b4",
+      "timestamp": 1774288112919
     }
   ],
   "wallthorpe consulting": [
@@ -26621,8 +26616,8 @@
   "marbleclear limited": [
     {
       "site": "JobGurus",
-      "id": "87213d2ba03fb0df9f9a55294a9c91d7",
-      "timestamp": 1770991390988
+      "id": "8b5212ec1bcefaf67fd275bcffccfa26",
+      "timestamp": 1774288112919
     }
   ],
   "bedum estate management and development (bemd)": [
@@ -28912,6 +28907,11 @@
       "site": "JobGurus",
       "id": "c4209e3f8641aa67cd2b6cdcda3ca46c",
       "timestamp": 1774284802570
+    },
+    {
+      "site": "JobGurus",
+      "id": "174d43208e68b5852fb77952f47ac96f",
+      "timestamp": 1774288112919
     }
   ],
   "mark calthers consulting": [
@@ -28919,6 +28919,13 @@
       "site": "JobGurus",
       "id": "7161dacab4c970ff85d0e84f582e83ed",
       "timestamp": 1774284802570
+    }
+  ],
+  "arabesque living": [
+    {
+      "site": "JobGurus",
+      "id": "332eb3c86e568dac009eb4d2e59a0248",
+      "timestamp": 1774288112919
     }
   ]
 }
