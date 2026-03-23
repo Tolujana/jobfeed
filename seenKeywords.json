@@ -9368,13 +9368,8 @@
   "j3 foods and store international": [
     {
       "site": "JobGurus",
-      "id": "9ba2496ca717daee5700231e1b385a93",
-      "timestamp": 1772628391359
-    },
-    {
-      "site": "JobGurus",
-      "id": "ba17a573d6e517cb9ceaf4a898bcbf29",
-      "timestamp": 1772628391359
+      "id": "19473e313b54cf98a3f9f9a56771e2ab",
+      "timestamp": 1774275368003
     }
   ],
   "arco worldwide services limited": [
@@ -17938,13 +17933,8 @@
   "contec global group": [
     {
       "site": "JobGurus",
-      "id": "72e08f9baa389af58349a86c695db5d3",
-      "timestamp": 1764163894234
-    },
-    {
-      "site": "JobGurus",
-      "id": "a769c43e372e5cbbbc58bdd2a060d92b",
-      "timestamp": 1764757147371
+      "id": "02b0fa9995d6cf505f0c865634bd6b0d",
+      "timestamp": 1774275368003
     }
   ],
   "human-aware real-time solutions limited": [
@@ -25885,23 +25875,8 @@
   "doheney services limited": [
     {
       "site": "JobGurus",
-      "id": "8e9d5942f389bb632d7c99ea3a8eb8fe",
-      "timestamp": 1769261280906
-    },
-    {
-      "site": "JobGurus",
-      "id": "e91263a6aef66dbc10e701054ba358ca",
-      "timestamp": 1769261280906
-    },
-    {
-      "site": "JobGurus",
-      "id": "fb6b9d9eba8ad905beb0fcf81d3d6bc3",
-      "timestamp": 1769264162723
-    },
-    {
-      "site": "JobGurus",
-      "id": "5ee9122094564d3b767e92037951f991",
-      "timestamp": 1769682733653
+      "id": "860af780b8f7ffbd4aff408539724169",
+      "timestamp": 1774275368003
     }
   ],
   "luxsit integration": [
@@ -28880,6 +28855,18 @@
       "site": "JobGurus",
       "id": "0f9bdab7c52628b2ed01426a60ca4258",
       "timestamp": 1774270671787
+    }
+  ],
+  "j.a.k group": [
+    {
+      "site": "JobGurus",
+      "id": "fe5e175b8776139fb49a7a21814c40bd",
+      "timestamp": 1774275368003
+    },
+    {
+      "site": "JobGurus",
+      "id": "06fc1a38c171e3bf214688531af06dff",
+      "timestamp": 1774275368003
     }
   ]
 }
