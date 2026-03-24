@@ -1446,13 +1446,8 @@
   "amaiden energy nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6daf0949587f1133f934b0bf355063ab",
-      "timestamp": 1768662953965
-    },
-    {
-      "site": "JobGurus",
-      "id": "17ca4b9008608b1657e1e89c332e2f0c",
-      "timestamp": 1768662953965
+      "id": "cda3c97f2d32d90f6a45ec9af5efc68c",
+      "timestamp": 1774342388351
     }
   ],
   "warri wetland hotel": [
@@ -20188,8 +20183,8 @@
   "dtech centrix plus limited": [
     {
       "site": "JobGurus",
-      "id": "b87dee23e57ac4b9301ec10ab8336a9a",
-      "timestamp": 1765968441165
+      "id": "9ae265a28f15f950db6432625a3ffd96",
+      "timestamp": 1774342388351
     }
   ],
   "trusoft limited": [
@@ -28655,6 +28650,11 @@
       "site": "JobGurus",
       "id": "6ec2fb25f0299b6e0f806561419674d4",
       "timestamp": 1773936838883
+    },
+    {
+      "site": "JobGurus",
+      "id": "0e931401a9ffd5c01a5f9117d6707de9",
+      "timestamp": 1774342388351
     }
   ],
   "meridiem eye clinic": [
@@ -28947,6 +28947,13 @@
       "site": "JobGurus",
       "id": "4309938c48c4f8c406c789fa6ac525c8",
       "timestamp": 1774295077635
+    }
+  ],
+  "smart wealth": [
+    {
+      "site": "JobGurus",
+      "id": "47be9256851dddf77e4aceda255fb359",
+      "timestamp": 1774342388351
     }
   ]
 }
