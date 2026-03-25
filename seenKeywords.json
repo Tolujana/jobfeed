@@ -12765,8 +12765,8 @@
   "brit properties nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "89495715ed9dd9685450b755ad84ef08",
-      "timestamp": 1763545296297
+      "id": "a0ef70b77cb6072f5fa8acfda0f4d714",
+      "timestamp": 1774465588898
     }
   ],
   "novella africa limited": [
@@ -29028,6 +29028,30 @@
       "site": "JobGurus",
       "id": "ac0b0a159335c5be1807624e0fe5fa8a",
       "timestamp": 1774461601498
+    }
+  ],
+  "delta state ministry of health": [
+    {
+      "site": "JobGurus",
+      "id": "0cd985574431c7d8df78b32790662b77",
+      "timestamp": 1774465588898
+    },
+    {
+      "site": "JobGurus",
+      "id": "720da03a2398d58d440fcff18f6d61a6",
+      "timestamp": 1774465588898
+    }
+  ],
+  "union bank plc": [
+    {
+      "site": "JobGurus",
+      "id": "e722108f5fbc0bfbfd1933fc9702ef8a",
+      "timestamp": 1774465588898
+    },
+    {
+      "site": "JobGurus",
+      "id": "6465e035a998d1ebafbe78c5ba2d2242",
+      "timestamp": 1774465588898
     }
   ]
 }
