@@ -3290,8 +3290,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "05c1f9ce34098d656dbb278b83f67429",
-      "timestamp": 1772797787728
+      "id": "1b818deb0be65e45a8fc90d539584ac4",
+      "timestamp": 1774448417224
     }
   ],
   "smartcity plc": [
@@ -11626,8 +11626,8 @@
   "kennedia consulting": [
     {
       "site": "JobGurus",
-      "id": "a6131902005a589b7e3bb4e6a05ca5e4",
-      "timestamp": 1759149130910
+      "id": "46173d8115d42b38d51fb2165674643d",
+      "timestamp": 1774448417224
     }
   ],
   "turaco logistics": [
@@ -19745,8 +19745,8 @@
   "enoella consult": [
     {
       "site": "JobGurus",
-      "id": "f4c086fc83e43738ebf67b3767e1ee2f",
-      "timestamp": 1761830872652
+      "id": "a90cf1d0ea1b3728865c7000cc4eeada",
+      "timestamp": 1774448417224
     }
   ],
   "brooks advisory services limited": [
@@ -28985,6 +28985,20 @@
       "site": "JobGurus",
       "id": "0117f12bc376cb9034d70eec0c0b593f",
       "timestamp": 1774381871121
+    }
+  ],
+  "cynosure realty limited": [
+    {
+      "site": "JobGurus",
+      "id": "62bbd4fd3d1ec2452887849249d54e20",
+      "timestamp": 1774448417224
+    }
+  ],
+  "kadvoc apartment": [
+    {
+      "site": "JobGurus",
+      "id": "6da166763c1350576672274f92a1bd6d",
+      "timestamp": 1774448417224
     }
   ]
 }
