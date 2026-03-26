@@ -4491,6 +4491,11 @@
       "site": "JobGurus",
       "id": "1f3015f5fee0aa802e721e8d82cf5ecf",
       "timestamp": 1774522168170
+    },
+    {
+      "site": "JobGurus",
+      "id": "01144af63746d2539270f6a1ad16a54b",
+      "timestamp": 1774525577528
     }
   ],
   "skipper eye-q super specialty eye hospital": [
@@ -7838,8 +7843,8 @@
   "r & r recruiting services": [
     {
       "site": "JobGurus",
-      "id": "a16bc745c253eb6f1de827fc57536cbf",
-      "timestamp": 1772706867219
+      "id": "8e91f7dd9b8d68576aa44ef923f6b348",
+      "timestamp": 1774525577528
     }
   ],
   "troop pharmaceuticals limited": [
@@ -9633,6 +9638,11 @@
       "site": "JobGurus",
       "id": "cefa85752cc9c8eda801938e4c16d96b",
       "timestamp": 1774474463248
+    },
+    {
+      "site": "JobGurus",
+      "id": "d743e5ebfe78578994e148205762497c",
+      "timestamp": 1774525577528
     }
   ],
   "nairametrics financial advocates limited": [
@@ -13170,6 +13180,11 @@
       "site": "JobGurus",
       "id": "808d8b4e998dda7a20b6c96c9076657a",
       "timestamp": 1774522168170
+    },
+    {
+      "site": "JobGurus",
+      "id": "75af47bb834c8b19839a0ea33a633200",
+      "timestamp": 1774525577528
     }
   ],
   "emeraldzone business support services": [
@@ -29071,6 +29086,13 @@
       "site": "JobGurus",
       "id": "bdbaf36de245c51ff46b081f672f254d",
       "timestamp": 1774522168170
+    }
+  ],
+  "halliburton energy services nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "bd907b84c9b9ec8fa5b2c3e90e4c146d",
+      "timestamp": 1774525577528
     }
   ]
 }
