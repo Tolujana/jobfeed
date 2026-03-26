@@ -13163,8 +13163,8 @@
   "naji realties": [
     {
       "site": "JobGurus",
-      "id": "25a14879561fbc969a3d92f516ff4895",
-      "timestamp": 1772801075336
+      "id": "a81b553a28d3717e9ccc4d9fe5891bd3",
+      "timestamp": 1774517537396
     }
   ],
   "emeraldzone business support services": [
@@ -26573,6 +26573,11 @@
       "site": "JobGurus",
       "id": "490c3084673df7ae915ada25ae2c67bb",
       "timestamp": 1774461601498
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7bc27871e045f44528390f8a956d98e",
+      "timestamp": 1774517537396
     }
   ],
   "bedum estate management and development (bemd)": [
@@ -29047,6 +29052,13 @@
       "site": "JobGurus",
       "id": "b908388a8417253270ee249c7b858bff",
       "timestamp": 1774474463248
+    }
+  ],
+  "lagos state cooperative federation limited": [
+    {
+      "site": "JobGurus",
+      "id": "a3f0c2436c18314d8659f3d8d5652584",
+      "timestamp": 1774517537396
     }
   ]
 }
