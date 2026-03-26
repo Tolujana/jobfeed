@@ -1405,8 +1405,8 @@
   "techdoctorinnovations": [
     {
       "site": "JobGurus",
-      "id": "1b5d9092caf25db29cb42347ce10106d",
-      "timestamp": 1767699527420
+      "id": "4c696ccf0140fe9a07b146e8dc1d0973",
+      "timestamp": 1774554932276
     }
   ],
   "shomas supply & logistics limited": [
@@ -1596,8 +1596,8 @@
   "maxitech global investment limited": [
     {
       "site": "JobGurus",
-      "id": "79061cf4e46593c651b68bbda24469b1",
-      "timestamp": 1760035609694
+      "id": "dd329dbbda74ba14b969471c13579c92",
+      "timestamp": 1774554932276
     }
   ],
   "dreamworks global logistics limited": [
@@ -1671,8 +1671,8 @@
   "allflavors supreme foods": [
     {
       "site": "JobGurus",
-      "id": "aa10d5b31df1a7275127630e6c31951b",
-      "timestamp": 1764780750945
+      "id": "f541015c232d58517ea01486e7d7c502",
+      "timestamp": 1774554932276
     }
   ],
   "pyfinest resources": [
@@ -10017,6 +10017,11 @@
       "site": "JobGurus",
       "id": "4f86066efbc4c616e77140d15c461fbf",
       "timestamp": 1774551547856
+    },
+    {
+      "site": "JobGurus",
+      "id": "7d336fa3072c2c8cd37c51fa01a2c82a",
+      "timestamp": 1774554932276
     }
   ],
   "tune afrique": [
@@ -29108,6 +29113,13 @@
       "site": "JobGurus",
       "id": "0b5c63bcaf7117827dd574493fe82017",
       "timestamp": 1774551547856
+    }
+  ],
+  "alcatraz technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "af051efa751d9e521d167eae16897a27",
+      "timestamp": 1774554932276
     }
   ]
 }
