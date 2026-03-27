@@ -17775,8 +17775,13 @@
   "opticom finance limited": [
     {
       "site": "JobGurus",
-      "id": "ba8e61b0b6a3fc2684da34fd310f60ac",
-      "timestamp": 1765275581143
+      "id": "a897b83436984b4f8f1dfabe7dfd72af",
+      "timestamp": 1774616213336
+    },
+    {
+      "site": "JobGurus",
+      "id": "80fb874741d0bea5eee00f25a9d9ed71",
+      "timestamp": 1774616213336
     }
   ],
   "ardova plc": [
@@ -18654,8 +18659,8 @@
   "elan orris real estate limited": [
     {
       "site": "JobGurus",
-      "id": "1df3a2a91fa79ccac400d9831bdd9d44",
-      "timestamp": 1760792371814
+      "id": "50aa2d45a8bfcc06c8e17eb5e8dc9ffb",
+      "timestamp": 1774616213336
     }
   ],
   "tippytoes kidcare nursery and daycare": [
@@ -29131,6 +29136,13 @@
       "site": "JobGurus",
       "id": "a174b4455be52825fe2c25fac562da37",
       "timestamp": 1774557136007
+    }
+  ],
+  "kedi healthcare industries (nigeria) limited": [
+    {
+      "site": "JobGurus",
+      "id": "d7b27183e4d5b9cda529444a88a303e3",
+      "timestamp": 1774616213336
     }
   ]
 }
