@@ -22,13 +22,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "0ced9240101cc5f901227e231c21cf52",
-      "timestamp": 1773786509644
-    },
-    {
-      "site": "JobGurus",
-      "id": "e3c6a16167ec622662c033f205547e1b",
-      "timestamp": 1773786509644
+      "id": "c4eb5f1f971eda32ea14179a7de708e7",
+      "timestamp": 1774648702961
     }
   ],
   "amecron nigeria limited": [
@@ -3242,6 +3237,11 @@
       "site": "JobGurus",
       "id": "1b818deb0be65e45a8fc90d539584ac4",
       "timestamp": 1774448417224
+    },
+    {
+      "site": "JobGurus",
+      "id": "321a65525410d0959e6b4541d0e6757d",
+      "timestamp": 1774648702961
     }
   ],
   "smartcity plc": [
@@ -16851,8 +16851,8 @@
   "flutterwave": [
     {
       "site": "JobGurus",
-      "id": "139f8e5c3f64930d21c1eaec8336dfe4",
-      "timestamp": 1769017859584
+      "id": "a4e0f7025e4a097d0d901b60346667f9",
+      "timestamp": 1774648702961
     }
   ],
   "mipraise investment limited": [
@@ -29157,6 +29157,13 @@
       "site": "JobGurus",
       "id": "7766e014fd93613d8fb5893aef716601",
       "timestamp": 1774639334108
+    }
+  ],
+  "confidence microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "9bb3db9176dd7e7f764e9d5768ed0643",
+      "timestamp": 1774648702961
     }
   ]
 }
