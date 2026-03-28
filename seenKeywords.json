@@ -397,8 +397,8 @@
   "dana group": [
     {
       "site": "JobGurus",
-      "id": "5b15d456441203747e68e78630e08059",
-      "timestamp": 1765917824055
+      "id": "7bcbcd9675a67f6e5ee8dd2dac68e353",
+      "timestamp": 1774708079144
     }
   ],
   "raphael group": [
@@ -19943,8 +19943,8 @@
   "primeguage solutions limited": [
     {
       "site": "JobGurus",
-      "id": "d41a260965c155d2be4975c0689b83c1",
-      "timestamp": 1761934977974
+      "id": "d0e9a1950a42340679310d1058243d16",
+      "timestamp": 1774708079144
     }
   ],
   "green habitat initiative (ghi)": [
@@ -29210,6 +29210,27 @@
       "site": "JobGurus",
       "id": "1252385984b9501b3a210e8d421b29ce",
       "timestamp": 1774705673200
+    }
+  ],
+  "feratto industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "63383f8140bcb914fcb11df4985933d5",
+      "timestamp": 1774708079144
+    }
+  ],
+  "stim digital": [
+    {
+      "site": "JobGurus",
+      "id": "7aa6f78f501f94714b508b4852ee94e2",
+      "timestamp": 1774708079144
+    }
+  ],
+  "dualcore careers": [
+    {
+      "site": "JobGurus",
+      "id": "fcaecc399da3bb4323b3105f89d43ed6",
+      "timestamp": 1774708079144
     }
   ]
 }
