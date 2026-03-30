@@ -323,8 +323,8 @@
   "castville solutions": [
     {
       "site": "JobGurus",
-      "id": "d179210a79d7dfeb3d8bb10730fc4a31",
-      "timestamp": 1773661344183
+      "id": "07a5658dce08a296544b87acadde4158",
+      "timestamp": 1774886552079
     }
   ],
   "lacare staffing solutions": [
@@ -23729,8 +23729,8 @@
   "lvtopsun new energy company limited": [
     {
       "site": "JobGurus",
-      "id": "fd9e41264c9d8094a4d8ab6d0b4f589e",
-      "timestamp": 1770909170399
+      "id": "47e5fa447e75b7ee01f4d3920df6189f",
+      "timestamp": 1774886552079
     }
   ],
   "trucksoft logistics": [
@@ -29259,6 +29259,27 @@
       "site": "JobGurus",
       "id": "bebe748e06c5f03281c0a38800ddb0ae",
       "timestamp": 1774882065674
+    }
+  ],
+  "hilton garden hotel": [
+    {
+      "site": "JobGurus",
+      "id": "60c87c1a39e25d225428367935003796",
+      "timestamp": 1774886552079
+    }
+  ],
+  "elysian": [
+    {
+      "site": "JobGurus",
+      "id": "72ee02536e102863827230174c301cc9",
+      "timestamp": 1774886552079
+    }
+  ],
+  "wephco technologies": [
+    {
+      "site": "JobGurus",
+      "id": "e803508b6a2aa4ad86c35894461abe56",
+      "timestamp": 1774886552079
     }
   ]
 }
