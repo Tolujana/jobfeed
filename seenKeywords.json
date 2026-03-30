@@ -2742,8 +2742,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "b9897e62bfdc235bbd38f99e4a9227a8",
-      "timestamp": 1772634933519
+      "id": "6991ed1cc274657773ed34dfea6fcff4",
+      "timestamp": 1774899155851
     }
   ],
   "netcom africa": [
@@ -9925,8 +9925,8 @@
   "geoplex drillteq limited": [
     {
       "site": "JobGurus",
-      "id": "4d3f86575e9658554aa360f82e588b7c",
-      "timestamp": 1765808446370
+      "id": "913b6d49f0ae6bcd7271d6263a1351a1",
+      "timestamp": 1774899155851
     }
   ],
   "sims nigeria limited": [
@@ -29305,6 +29305,11 @@
       "site": "JobGurus",
       "id": "e803508b6a2aa4ad86c35894461abe56",
       "timestamp": 1774886552079
+    },
+    {
+      "site": "JobGurus",
+      "id": "6036683966302ca8811929b5eaed101a",
+      "timestamp": 1774899155851
     }
   ],
   "salesplat technologies": [
@@ -29312,6 +29317,20 @@
       "site": "JobGurus",
       "id": "78295dba768c7acee3053d4b0edadf6b",
       "timestamp": 1774894292058
+    }
+  ],
+  "kmt solar": [
+    {
+      "site": "JobGurus",
+      "id": "3d1aeee5aba10f64b883607f904fcd2d",
+      "timestamp": 1774899155851
+    }
+  ],
+  "mojec international": [
+    {
+      "site": "JobGurus",
+      "id": "7080bf2bee1edf2c2a159fa7ea79cc55",
+      "timestamp": 1774899155851
     }
   ]
 }
