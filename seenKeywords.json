@@ -1124,6 +1124,11 @@
       "site": "JobGurus",
       "id": "5daed0a0fc36ab99a5c6e8c1cdd2635f",
       "timestamp": 1774624435427
+    },
+    {
+      "site": "JobGurus",
+      "id": "436b44eb8c8337562054febfb9e2dc9d",
+      "timestamp": 1774894292058
     }
   ],
   "habaripay limited": [
@@ -1844,8 +1849,8 @@
   "uptitek limited": [
     {
       "site": "JobGurus",
-      "id": "1c18421cafffb8317fa79532a35b88c0",
-      "timestamp": 1749483692113
+      "id": "f35602b495503063ebae714d3c2444cb",
+      "timestamp": 1774894292058
     }
   ],
   "flavours master restaurant": [
@@ -23736,6 +23741,16 @@
       "site": "JobGurus",
       "id": "47e5fa447e75b7ee01f4d3920df6189f",
       "timestamp": 1774886552079
+    },
+    {
+      "site": "JobGurus",
+      "id": "dd8c985695a623a11886fe317f191b84",
+      "timestamp": 1774894292058
+    },
+    {
+      "site": "JobGurus",
+      "id": "9ccf8ce96c6093dc08350d24069667bb",
+      "timestamp": 1774894292058
     }
   ],
   "trucksoft logistics": [
@@ -29290,6 +29305,13 @@
       "site": "JobGurus",
       "id": "e803508b6a2aa4ad86c35894461abe56",
       "timestamp": 1774886552079
+    }
+  ],
+  "salesplat technologies": [
+    {
+      "site": "JobGurus",
+      "id": "78295dba768c7acee3053d4b0edadf6b",
+      "timestamp": 1774894292058
     }
   ]
 }
