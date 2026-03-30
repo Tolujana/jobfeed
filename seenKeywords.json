@@ -1015,6 +1015,11 @@
       "site": "JobGurus",
       "id": "ea49d423b99c793eef01eee9e9bb8f7f",
       "timestamp": 1774373336345
+    },
+    {
+      "site": "JobGurus",
+      "id": "9f191dc51ea8d6bf76bca0b83186566f",
+      "timestamp": 1774882065674
     }
   ],
   "elizabeth maddeux": [
@@ -4296,8 +4301,8 @@
   "home bargains nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "40c6aefd98ff84bb946a0b060554bc3e",
-      "timestamp": 1752601371095
+      "id": "c06176fcb9f8d62c8400457e43049f78",
+      "timestamp": 1774882065674
     }
   ],
   "revenstrat consulting": [
@@ -12161,13 +12166,8 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "bdfe7b5d14326e5c336e920a0e344260",
-      "timestamp": 1773258947748
-    },
-    {
-      "site": "JobGurus",
-      "id": "7accb2c0600828c8545b48256a83d261",
-      "timestamp": 1773264511779
+      "id": "2df26b2f32cbae956a2bcd9a5596bf27",
+      "timestamp": 1774882065674
     }
   ],
   "saro agro-allied": [
@@ -29245,6 +29245,20 @@
       "site": "JobGurus",
       "id": "071ac9a22c9016a7195ad20f388e8679",
       "timestamp": 1774709882284
+    }
+  ],
+  "payment access system limited (paysys)": [
+    {
+      "site": "JobGurus",
+      "id": "1bf1591f43815f9eef29ff29fad5dcdd",
+      "timestamp": 1774882065674
+    }
+  ],
+  "da beauty": [
+    {
+      "site": "JobGurus",
+      "id": "bebe748e06c5f03281c0a38800ddb0ae",
+      "timestamp": 1774882065674
     }
   ]
 }
