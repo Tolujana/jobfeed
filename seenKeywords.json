@@ -475,13 +475,8 @@
   "clinix healthcare": [
     {
       "site": "JobGurus",
-      "id": "33f43b6e02eab118a295db633bbd96e1",
-      "timestamp": 1762263043854
-    },
-    {
-      "site": "JobGurus",
-      "id": "c8231468428ac8fe3f56ae00d34f97d2",
-      "timestamp": 1762422118909
+      "id": "faeb9a6dffbbe02010501bb5eb807015",
+      "timestamp": 1774996217808
     }
   ],
   "dgic international business services limited": [
@@ -2561,8 +2556,8 @@
   "mai shayi coffee roasters limited": [
     {
       "site": "JobGurus",
-      "id": "c1aa9a1fd28f5dda4c7831fa19a3b5a1",
-      "timestamp": 1767620265256
+      "id": "fe7468abb95400c1d40d5ae1377e142b",
+      "timestamp": 1774996217808
     }
   ],
   "splantom technolgies": [
@@ -5354,8 +5349,8 @@
   "sundry foods": [
     {
       "site": "JobGurus",
-      "id": "6ca47789c920415e71a6465e3343ac2b",
-      "timestamp": 1773786509644
+      "id": "53d8881158fa7cf93b7129e565abb9dd",
+      "timestamp": 1774996217808
     }
   ],
   "ht-limited": [
@@ -12327,6 +12322,11 @@
       "site": "JobGurus",
       "id": "a8c854898e38b9fa254ace45c70597e2",
       "timestamp": 1774557136007
+    },
+    {
+      "site": "JobGurus",
+      "id": "c8e52a88922dc0f3c6dade612883a003",
+      "timestamp": 1774996217808
     }
   ],
   "xuriel resources": [
@@ -29350,6 +29350,13 @@
       "site": "JobGurus",
       "id": "81fcf00d31aecc12f5981060148c9049",
       "timestamp": 1774986822955
+    }
+  ],
+  "hoganguards limited": [
+    {
+      "site": "JobGurus",
+      "id": "e920f234bbc6ec1c9317fa48054dca44",
+      "timestamp": 1774996217808
     }
   ]
 }
