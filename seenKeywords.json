@@ -6943,8 +6943,8 @@
   "gabs cooperative": [
     {
       "site": "JobGurus",
-      "id": "70b80e35431349b17f4ba5ae0cefd198",
-      "timestamp": 1770913743084
+      "id": "04037d2978c20df14067084968e7f214",
+      "timestamp": 1774979559316
     }
   ],
   "oracle": [
@@ -9110,8 +9110,8 @@
   "tag energy": [
     {
       "site": "JobGurus",
-      "id": "9c21a08309b2068eaad86c71f3761009",
-      "timestamp": 1765978249138
+      "id": "fcad8f006a185ea14e676967568a44ae",
+      "timestamp": 1774979559316
     }
   ],
   "nettetal nigeria limited": [
@@ -13145,8 +13145,8 @@
   "emeraldzone business support services": [
     {
       "site": "JobGurus",
-      "id": "051174c74b547e69247f8ca4bbcdf117",
-      "timestamp": 1761131631452
+      "id": "1712a4bf200375b91cf80cb22460dc76",
+      "timestamp": 1774979559316
     }
   ],
   "un arena by lvg lifestyle": [
@@ -17976,6 +17976,11 @@
       "site": "JobGurus",
       "id": "8750325fc6bad7c5204090e0315a7049",
       "timestamp": 1774956323975
+    },
+    {
+      "site": "JobGurus",
+      "id": "de68d5e01a13585ff9079790f1393a60",
+      "timestamp": 1774979559316
     }
   ],
   "nexcore advisory services limited": [
@@ -29312,6 +29317,13 @@
       "site": "JobGurus",
       "id": "62fde0972ee788dbc6b582a8eca8cc14",
       "timestamp": 1774975972383
+    }
+  ],
+  "emobella engineering nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "b6dbf5b6af6f3073df4f52f63933007a",
+      "timestamp": 1774979559316
     }
   ]
 }
