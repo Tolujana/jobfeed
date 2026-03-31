@@ -129,8 +129,8 @@
   "carrot-top drugs limited": [
     {
       "site": "JobGurus",
-      "id": "34cd7b05afad916fc62f87ae1c08674e",
-      "timestamp": 1754737972506
+      "id": "733482219fd2c0e067470d361c180ae8",
+      "timestamp": 1774975972383
     }
   ],
   "african industries group": [
@@ -5919,8 +5919,8 @@
   "westfield consulting limited": [
     {
       "site": "JobGurus",
-      "id": "0ccb8ff5096fedbd7f8e4f46bf04669a",
-      "timestamp": 1773249912936
+      "id": "d405b8d7fec9a42182004e2d13898b50",
+      "timestamp": 1774975972383
     }
   ],
   "health connect 24x7": [
@@ -27011,8 +27011,8 @@
   "fina trust microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "65d459f0e4b837ade0be2d0b5afe6ffa",
-      "timestamp": 1770456396069
+      "id": "1ea58b891b97abbdfa33c3a3552fba9f",
+      "timestamp": 1774975972383
     }
   ],
   "arq studios": [
@@ -28471,6 +28471,11 @@
       "site": "JobGurus",
       "id": "004fae1000b938b3f2e27485649bd694",
       "timestamp": 1774624435427
+    },
+    {
+      "site": "JobGurus",
+      "id": "ac3d9042849760e92b2f68848c380c18",
+      "timestamp": 1774975972383
     }
   ],
   "hilton worldwidde": [
@@ -29300,6 +29305,13 @@
       "site": "JobGurus",
       "id": "e0d4780a5609f8daef52de98d0492f49",
       "timestamp": 1774971827341
+    }
+  ],
+  "?quadri advisory hr services limited": [
+    {
+      "site": "JobGurus",
+      "id": "62fde0972ee788dbc6b582a8eca8cc14",
+      "timestamp": 1774975972383
     }
   ]
 }
