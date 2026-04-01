@@ -4767,13 +4767,8 @@
   "kennedia consulting limited": [
     {
       "site": "JobGurus",
-      "id": "fc4dc3baf76ce24df74971b6000f6d14",
-      "timestamp": 1761129859063
-    },
-    {
-      "site": "JobGurus",
-      "id": "ac8bc4cb0f868f8fc9661c1dc5a9d874",
-      "timestamp": 1761129859063
+      "id": "868107a617f2a0d9c6d3f07289dc43a2",
+      "timestamp": 1775059429355
     }
   ],
   "african natural resources & mines limited": [
@@ -5743,8 +5738,8 @@
   "mecer consulting limited": [
     {
       "site": "JobGurus",
-      "id": "ed3660af7fe6d1b65886ddc645c32c39",
-      "timestamp": 1769175560414
+      "id": "73fe09765ce714fa1b06375f5b79615e",
+      "timestamp": 1775059429355
     }
   ],
   "lotus capital limited": [
@@ -10492,8 +10487,8 @@
   "multipro consumer products limited": [
     {
       "site": "JobGurus",
-      "id": "98192352f3dc672a62f2d1adb004e91a",
-      "timestamp": 1768307915123
+      "id": "d2666e3f959770103e167ff47530d27a",
+      "timestamp": 1775059429355
     }
   ],
   "allied food and confectionery services": [
@@ -29378,6 +29373,13 @@
       "site": "JobGurus",
       "id": "79a68f84e5b78e12275fa8769a1fd96b",
       "timestamp": 1775054856259
+    }
+  ],
+  "first marina trust limited": [
+    {
+      "site": "JobGurus",
+      "id": "d3ad8337fd5ae9fbc27705a12fb0553e",
+      "timestamp": 1775059429355
     }
   ]
 }
