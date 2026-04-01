@@ -1374,8 +1374,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "9914ab8a60677a8a9ece6f4c41aacd1a",
-      "timestamp": 1773070163644
+      "id": "866f8a59587e08520018b818dda4734f",
+      "timestamp": 1775064423934
     }
   ],
   "jtech global resources limited": [
@@ -5740,6 +5740,16 @@
       "site": "JobGurus",
       "id": "73fe09765ce714fa1b06375f5b79615e",
       "timestamp": 1775059429355
+    },
+    {
+      "site": "JobGurus",
+      "id": "b444105c611a44f48708326032b266ef",
+      "timestamp": 1775064423934
+    },
+    {
+      "site": "JobGurus",
+      "id": "7043e81d569fc9763c2b3c4ccf14d96a",
+      "timestamp": 1775064423934
     }
   ],
   "lotus capital limited": [
@@ -22230,8 +22240,8 @@
   "good neighbours microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "60e6a26a281f6391e84fbd143a6e844a",
-      "timestamp": 1764261937099
+      "id": "42980f9c7a2222051addaa73e01e9263",
+      "timestamp": 1775064423934
     }
   ],
   "animal care service konsult nigeria limited": [
@@ -29380,6 +29390,13 @@
       "site": "JobGurus",
       "id": "d3ad8337fd5ae9fbc27705a12fb0553e",
       "timestamp": 1775059429355
+    }
+  ],
+  "safety consultants solutions provider limited": [
+    {
+      "site": "JobGurus",
+      "id": "be3ed4e7396bddb7115c2b3cdff5e26e",
+      "timestamp": 1775064423934
     }
   ]
 }
