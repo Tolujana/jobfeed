@@ -14151,8 +14151,8 @@
   "elevated hr limited": [
     {
       "site": "JobGurus",
-      "id": "80fa6985e6ec56ec852c492b2ff2e07e",
-      "timestamp": 1769265721850
+      "id": "edf899bb7af822271c813bfb08889626",
+      "timestamp": 1775072112011
     }
   ],
   "borno women development initiative (bowdi)": [
@@ -22739,8 +22739,8 @@
   "eudora & aegle group": [
     {
       "site": "JobGurus",
-      "id": "14053b232f5e2cc8e919f9d4b5a85532",
-      "timestamp": 1764775109913
+      "id": "3c7c5070b3f4cc54e64a06512edc00cf",
+      "timestamp": 1775072112011
     }
   ],
   "razley prints limited": [
@@ -24033,8 +24033,8 @@
   "prospera finance": [
     {
       "site": "JobGurus",
-      "id": "7ede12291352804c14027c6c48d9ebcd",
-      "timestamp": 1766414627766
+      "id": "9b4d28e35d9b99c9a404d0ced5c6e5a0",
+      "timestamp": 1775072112011
     }
   ],
   "supra investment nigeria limited": [
@@ -29409,6 +29409,20 @@
       "site": "JobGurus",
       "id": "6d24976f267357a29698ee28bddcda7c",
       "timestamp": 1775066914137
+    }
+  ],
+  "x-force engineering limited": [
+    {
+      "site": "JobGurus",
+      "id": "5d6def8ed64c7c51e9fd6a399558080d",
+      "timestamp": 1775072112011
+    }
+  ],
+  "karbak ven limited": [
+    {
+      "site": "JobGurus",
+      "id": "c7b3be8e56bf38816e063accce10ae68",
+      "timestamp": 1775072112011
     }
   ]
 }
