@@ -3118,8 +3118,8 @@
   "staff-recruit": [
     {
       "site": "JobGurus",
-      "id": "7be4a0c826ea24c805057fc1294b3a4b",
-      "timestamp": 1764875746992
+      "id": "9d551b570647302506251a905d50b2ae",
+      "timestamp": 1775066914137
     }
   ],
   "willers solutions limited": [
@@ -6689,8 +6689,13 @@
   "casalavoro limited": [
     {
       "site": "JobGurus",
-      "id": "bb9c4faa92ee5a17c73db2698c5e598d",
-      "timestamp": 1769449903920
+      "id": "1cccfe17cbf2279bd78eef7c68338f88",
+      "timestamp": 1775066914137
+    },
+    {
+      "site": "JobGurus",
+      "id": "99a9cc47b806928227c4d5efe795f0ea",
+      "timestamp": 1775066914137
     }
   ],
   "bedmate furniture": [
@@ -9311,8 +9316,8 @@
   "ikeja electricity distribution company plc": [
     {
       "site": "JobGurus",
-      "id": "bf659f87ff217bc8daec05fbabac8abb",
-      "timestamp": 1770217586391
+      "id": "1d805645c0c077fc4eb4eaf631d4479e",
+      "timestamp": 1775066914137
     }
   ],
   "desicon engineering limited": [
@@ -29397,6 +29402,13 @@
       "site": "JobGurus",
       "id": "be3ed4e7396bddb7115c2b3cdff5e26e",
       "timestamp": 1775064423934
+    }
+  ],
+  "bedrock residences": [
+    {
+      "site": "JobGurus",
+      "id": "6d24976f267357a29698ee28bddcda7c",
+      "timestamp": 1775066914137
     }
   ]
 }
