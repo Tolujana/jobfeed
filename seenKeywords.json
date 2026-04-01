@@ -21347,8 +21347,8 @@
   "baker hughes": [
     {
       "site": "JobGurus",
-      "id": "9c97e5b9b231d840d8ae826c8824bc97",
-      "timestamp": 1773433793229
+      "id": "be4d8e2a356c41688fae959884f560a5",
+      "timestamp": 1775054856259
     }
   ],
   "noble hall leadership academy for girls": [
@@ -23517,13 +23517,8 @@
   "uncle stan's food": [
     {
       "site": "JobGurus",
-      "id": "447ad496aa14eead6238984b4664af5e",
-      "timestamp": 1773666103678
-    },
-    {
-      "site": "JobGurus",
-      "id": "ef77f8efb2a39a62c943865045d4665d",
-      "timestamp": 1773855270008
+      "id": "4b48b09bc0e1a63d60b1c681a272bdaa",
+      "timestamp": 1775054856259
     }
   ],
   "quest employment limited": [
@@ -29376,6 +29371,13 @@
       "site": "JobGurus",
       "id": "67742c7034a1a2c058071d70ff09a8ac",
       "timestamp": 1774999827009
+    }
+  ],
+  "cybercollect limited": [
+    {
+      "site": "JobGurus",
+      "id": "79a68f84e5b78e12275fa8769a1fd96b",
+      "timestamp": 1775054856259
     }
   ]
 }
