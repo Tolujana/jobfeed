@@ -3151,8 +3151,8 @@
   "buckler systems": [
     {
       "site": "JobGurus",
-      "id": "5cef3d9eada81f024596e60e2c7b8d0e",
-      "timestamp": 1773252504277
+      "id": "6cd43c85968a83057d97e30fd42c0c7a",
+      "timestamp": 1775148941548
     }
   ],
   "arkounting business concepts limited": [
@@ -5097,8 +5097,8 @@
   "medbury medical services": [
     {
       "site": "JobGurus",
-      "id": "793ae36a1dc93ae50df67083deee02a9",
-      "timestamp": 1750864651300
+      "id": "6b4d9bec36c61b35fa9ccef23e70dfed",
+      "timestamp": 1775148941548
     }
   ],
   "hrhub.ng limited": [
@@ -29439,6 +29439,20 @@
       "site": "JobGurus",
       "id": "01e3135db10470c8fe69d54cde928c32",
       "timestamp": 1775079454000
+    }
+  ],
+  "mobile screens and sound limited": [
+    {
+      "site": "JobGurus",
+      "id": "c8c9f93c816ccb834ad24ea5287ccb54",
+      "timestamp": 1775148941548
+    }
+  ],
+  "doctors lounge limited": [
+    {
+      "site": "JobGurus",
+      "id": "89f4c36cbb17e1851821a57dd2a707c2",
+      "timestamp": 1775148941548
     }
   ]
 }
