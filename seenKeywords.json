@@ -11095,8 +11095,8 @@
   "coca-cola company": [
     {
       "site": "JobGurus",
-      "id": "c387937c763d7258366b49b5e7141404",
-      "timestamp": 1754560077496
+      "id": "2acf4f50c9d894ead0f2ddd1eb287779",
+      "timestamp": 1775161830170
     }
   ],
   "avario digitals": [
@@ -29464,6 +29464,13 @@
       "site": "JobGurus",
       "id": "a5da2d17198aff3c1a49740fe3a47812",
       "timestamp": 1775155892448
+    }
+  ],
+  "vagan oil and gas limited": [
+    {
+      "site": "JobGurus",
+      "id": "794d2724cc678e516fe58bdbb6de5340",
+      "timestamp": 1775161830170
     }
   ]
 }
