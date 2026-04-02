@@ -2032,8 +2032,8 @@
   "international rescue committee": [
     {
       "site": "JobGurus",
-      "id": "ca0524f19d8885e43ae9088f7235f120",
-      "timestamp": 1774530289129
+      "id": "f47c740b078770a682b99502a7d7b8f5",
+      "timestamp": 1775152037962
     }
   ],
   "krystal digital solutions limited": [
@@ -20198,13 +20198,8 @@
   "applicant recruiters limited": [
     {
       "site": "JobGurus",
-      "id": "5582977b803f6a15162cbe8c582840ee",
-      "timestamp": 1774021094379
-    },
-    {
-      "site": "JobGurus",
-      "id": "9197ad9f70b91db70d35d7a6ec85450f",
-      "timestamp": 1774284802570
+      "id": "12cc987ddf1ad54862db4191214efefc",
+      "timestamp": 1775152037962
     }
   ],
   "eduteller": [
@@ -27797,13 +27792,8 @@
   "bradfield consulting": [
     {
       "site": "JobGurus",
-      "id": "1ffe714a4f2364adee84ef42a86edbcc",
-      "timestamp": 1772880426412
-    },
-    {
-      "site": "JobGurus",
-      "id": "1e9372fb40fd72b3419f7dd7fbd26ea1",
-      "timestamp": 1772880426412
+      "id": "6cd549bc3c0d803f0a6fef22afe979c1",
+      "timestamp": 1775152037962
     }
   ],
   "walex biz nigeria limited": [
@@ -29453,6 +29443,20 @@
       "site": "JobGurus",
       "id": "89f4c36cbb17e1851821a57dd2a707c2",
       "timestamp": 1775148941548
+    }
+  ],
+  "urban shelter limited": [
+    {
+      "site": "JobGurus",
+      "id": "d3279c018196daa318989028560b7915",
+      "timestamp": 1775152037962
+    }
+  ],
+  "e-clinic & diagnostic limited": [
+    {
+      "site": "JobGurus",
+      "id": "3f2079da9dac6e380af5461cfd28145e",
+      "timestamp": 1775152037962
     }
   ]
 }
