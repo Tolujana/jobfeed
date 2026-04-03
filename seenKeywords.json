@@ -6716,8 +6716,13 @@
   "brilliant performance solutions limited": [
     {
       "site": "JobGurus",
-      "id": "ed24aa071cc1b62498769730d3d0ff33",
-      "timestamp": 1774295077635
+      "id": "db8c8fefd2a516c7c4045b50e712a15f",
+      "timestamp": 1775224796480
+    },
+    {
+      "site": "JobGurus",
+      "id": "388f291dd44863531be44f7eb0d81b66",
+      "timestamp": 1775224796480
     }
   ],
   "d-degree digital hub limited": [
@@ -11333,8 +11338,8 @@
   "jiji.ng": [
     {
       "site": "JobGurus",
-      "id": "0404a8ed8502558a1c4998009a922b2a",
-      "timestamp": 1772706867219
+      "id": "2a7ef12557c2be8a858c4e49c3149af1",
+      "timestamp": 1775224796480
     }
   ],
   "global peace development": [
@@ -29480,6 +29485,20 @@
       "site": "JobGurus",
       "id": "8d0cebfbd33f78a77cc9bf4712f8cc80",
       "timestamp": 1775220890146
+    }
+  ],
+  "mama cass": [
+    {
+      "site": "JobGurus",
+      "id": "be5fccc48eb5009228c376d432c02486",
+      "timestamp": 1775224796480
+    }
+  ],
+  "acabado": [
+    {
+      "site": "JobGurus",
+      "id": "42c0c83b1d25a3c10e341f285b1a1763",
+      "timestamp": 1775224796480
     }
   ]
 }
