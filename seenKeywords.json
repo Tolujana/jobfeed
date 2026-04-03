@@ -5636,8 +5636,8 @@
   "rosabon financial services": [
     {
       "site": "JobGurus",
-      "id": "c19c098c8e1f09c23a0aa7c872f456aa",
-      "timestamp": 1769165408469
+      "id": "3455f642fe482a999a4debd3a635650a",
+      "timestamp": 1775230553261
     }
   ],
   "mfs financial services limited": [
@@ -7250,8 +7250,8 @@
   "tonia pharmacy limited": [
     {
       "site": "JobGurus",
-      "id": "fc6ba80672dfcfd23e3807a20108f692",
-      "timestamp": 1752087048167
+      "id": "8f050d976c16b146df08084baee2ade8",
+      "timestamp": 1775230553261
     }
   ],
   "ifeanhealth nigeria limited": [
@@ -29518,6 +29518,27 @@
       "site": "JobGurus",
       "id": "74a204dc6c9098e1cc8e366b3b690df9",
       "timestamp": 1775228055465
+    }
+  ],
+  "adkan group and services limited": [
+    {
+      "site": "JobGurus",
+      "id": "dedff7706f9d5640a1785301ce8d0b55",
+      "timestamp": 1775230553261
+    }
+  ],
+  "iboj consult": [
+    {
+      "site": "JobGurus",
+      "id": "4d59b0b7b350f8cf8b07f309630d95b7",
+      "timestamp": 1775230553261
+    }
+  ],
+  "imperial homes mortgage bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "5fb872edd6c30fafa3a5a7bcf628224b",
+      "timestamp": 1775230553261
     }
   ]
 }
