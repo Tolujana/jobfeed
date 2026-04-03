@@ -1376,6 +1376,11 @@
       "site": "JobGurus",
       "id": "866f8a59587e08520018b818dda4734f",
       "timestamp": 1775064423934
+    },
+    {
+      "site": "JobGurus",
+      "id": "b9254cf76255051eeb6bd95b32780774",
+      "timestamp": 1775234088449
     }
   ],
   "jtech global resources limited": [
@@ -6723,6 +6728,11 @@
       "site": "JobGurus",
       "id": "388f291dd44863531be44f7eb0d81b66",
       "timestamp": 1775224796480
+    },
+    {
+      "site": "JobGurus",
+      "id": "0e7e7bfa06e539003535478339e36062",
+      "timestamp": 1775234088449
     }
   ],
   "d-degree digital hub limited": [
@@ -28081,8 +28091,8 @@
   "jaba hr partners": [
     {
       "site": "JobGurus",
-      "id": "93d1c2ab0838279c5b9ca3b1696f0259",
-      "timestamp": 1773249912936
+      "id": "dcdd537cd29f244c70b470f6782ec33f",
+      "timestamp": 1775234088449
     }
   ],
   "codebyte": [
@@ -29539,6 +29549,13 @@
       "site": "JobGurus",
       "id": "5fb872edd6c30fafa3a5a7bcf628224b",
       "timestamp": 1775230553261
+    }
+  ],
+  "sejour international": [
+    {
+      "site": "JobGurus",
+      "id": "3bb8f5f3010f8f0bc85c0babd721ccc0",
+      "timestamp": 1775234088449
     }
   ]
 }
