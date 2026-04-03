@@ -6211,8 +6211,8 @@
   "recore limited": [
     {
       "site": "JobGurus",
-      "id": "f0430b10819a53bc9f406ef15d240d60",
-      "timestamp": 1774457872119
+      "id": "e4e28510379ae2088c0327d694d8f89b",
+      "timestamp": 1775237394717
     }
   ],
   "oppo": [
@@ -7262,6 +7262,11 @@
       "site": "JobGurus",
       "id": "8f050d976c16b146df08084baee2ade8",
       "timestamp": 1775230553261
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7d9e777e78097b3c58e3364ec0a569b",
+      "timestamp": 1775237394717
     }
   ],
   "ifeanhealth nigeria limited": [
@@ -10727,6 +10732,11 @@
       "site": "JobGurus",
       "id": "38af3d047310e95115068e8691b12479",
       "timestamp": 1775228055465
+    },
+    {
+      "site": "JobGurus",
+      "id": "393b2a768bc418e3652e0de9535d3c3f",
+      "timestamp": 1775237394717
     }
   ],
   "lasad ventures": [
@@ -29528,6 +29538,11 @@
       "site": "JobGurus",
       "id": "74a204dc6c9098e1cc8e366b3b690df9",
       "timestamp": 1775228055465
+    },
+    {
+      "site": "JobGurus",
+      "id": "ceae4e7467e8330f24bcca08b2abf076",
+      "timestamp": 1775237394717
     }
   ],
   "adkan group and services limited": [
@@ -29556,6 +29571,13 @@
       "site": "JobGurus",
       "id": "3bb8f5f3010f8f0bc85c0babd721ccc0",
       "timestamp": 1775234088449
+    }
+  ],
+  "queens clinic abuja": [
+    {
+      "site": "JobGurus",
+      "id": "0da8b85b40782553db841b7f6e349506",
+      "timestamp": 1775237394717
     }
   ]
 }
