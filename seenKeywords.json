@@ -390,13 +390,8 @@
   "mshel homes limited": [
     {
       "site": "JobGurus",
-      "id": "8e90f279ff0cfeccb475f2621fc50f68",
-      "timestamp": 1773245325887
-    },
-    {
-      "site": "JobGurus",
-      "id": "75c5a5d4076e4d44d1d16b13082d034a",
-      "timestamp": 1773435709697
+      "id": "dde60316d0cf37d31e8bae5428ac62b4",
+      "timestamp": 1775298534000
     }
   ],
   "dana group": [
@@ -1108,8 +1103,8 @@
   "elizabeth maddeux limited": [
     {
       "site": "JobGurus",
-      "id": "15d02b8dd1b2911e66c53c954cb7ba91",
-      "timestamp": 1773845079177
+      "id": "f944654664a9b27b270c840f1959a6fb",
+      "timestamp": 1775298534000
     }
   ],
   "cashxpress nigeria limited": [
@@ -29507,6 +29502,11 @@
       "site": "JobGurus",
       "id": "be5fccc48eb5009228c376d432c02486",
       "timestamp": 1775224796480
+    },
+    {
+      "site": "JobGurus",
+      "id": "e99c2f3812cef024639dfc239719e0cc",
+      "timestamp": 1775298534000
     }
   ],
   "acabado": [
@@ -29568,6 +29568,20 @@
       "site": "JobGurus",
       "id": "0da8b85b40782553db841b7f6e349506",
       "timestamp": 1775237394717
+    }
+  ],
+  "maple kitchen & confectionery": [
+    {
+      "site": "JobGurus",
+      "id": "b2a400de0f38781465fa5c332d457b57",
+      "timestamp": 1775298534000
+    }
+  ],
+  "thebridgerecruiter": [
+    {
+      "site": "JobGurus",
+      "id": "4097490b8d445fea69f6f01d0c47cdc9",
+      "timestamp": 1775298534000
     }
   ]
 }
