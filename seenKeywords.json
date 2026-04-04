@@ -2977,8 +2977,8 @@
   "erisco foods limited": [
     {
       "site": "JobGurus",
-      "id": "622033f6cfc1d59a1e7708699d340d5d",
-      "timestamp": 1773672133958
+      "id": "c747cbd9861d1ecd007e6057b14189a0",
+      "timestamp": 1775303444196
     }
   ],
   "lauvee beauty salon": [
@@ -29584,6 +29584,28 @@
       "site": "JobGurus",
       "id": "fc20e1116d813666895ee6cc4e4c60a2",
       "timestamp": 1775300470225
+    }
+  ],
+  "itel energy": [
+    {
+      "site": "JobGurus",
+      "id": "44ff9b143c03c364a8424880bd3bacc4",
+      "timestamp": 1775303444196
+    },
+    {
+      "site": "JobGurus",
+      "id": "9d7fb957dee720276c38f3baac98af42",
+      "timestamp": 1775303444196
+    },
+    {
+      "site": "JobGurus",
+      "id": "e2fcb72f3bbd0df67b68aad52a5fa325",
+      "timestamp": 1775303444196
+    },
+    {
+      "site": "JobGurus",
+      "id": "75fd65dd7beb6bb3cd9e57af47ad9baa",
+      "timestamp": 1775303444196
     }
   ]
 }
