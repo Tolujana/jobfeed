@@ -9271,8 +9271,8 @@
   "source microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "9109c257c18b4fbd1ccad959a37a8242",
-      "timestamp": 1774876184890
+      "id": "01f0755fb9eca1bf8f9c08f506630945",
+      "timestamp": 1775490077743
     }
   ],
   "j3 foods and store international": [
@@ -11462,13 +11462,8 @@
   "euracare": [
     {
       "site": "JobGurus",
-      "id": "47502b9b6ea0891120fe2a4a1bb08166",
-      "timestamp": 1754934252281
-    },
-    {
-      "site": "JobGurus",
-      "id": "cdb2b45a681092b50995eee71822234c",
-      "timestamp": 1755261115054
+      "id": "e5eb24a5f9f5cb517ca71c100163bf09",
+      "timestamp": 1775490077743
     }
   ],
   "kartel energy": [
@@ -16069,8 +16064,8 @@
   "caring habitat": [
     {
       "site": "JobGurus",
-      "id": "60608f324973a10de4f9f3f33740b8ad",
-      "timestamp": 1760384158357
+      "id": "6db4f4301ef211e274b7ecba5b07196e",
+      "timestamp": 1775490077743
     }
   ],
   "givanas cosmetics nigeria limited": [
@@ -23519,6 +23514,11 @@
       "site": "JobGurus",
       "id": "4b48b09bc0e1a63d60b1c681a272bdaa",
       "timestamp": 1775054856259
+    },
+    {
+      "site": "JobGurus",
+      "id": "aa3ece38a7c1225210831b8465d32f2d",
+      "timestamp": 1775490077743
     }
   ],
   "quest employment limited": [
@@ -29654,6 +29654,13 @@
       "site": "JobGurus",
       "id": "69f6a40ee1121ca0f8606e867a96bc3b",
       "timestamp": 1775486509160
+    }
+  ],
+  "lamlan digital limited": [
+    {
+      "site": "JobGurus",
+      "id": "4f6982b2c35350e8ada522350bca0c1c",
+      "timestamp": 1775490077743
     }
   ]
 }
