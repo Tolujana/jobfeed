@@ -9268,6 +9268,11 @@
       "site": "JobGurus",
       "id": "01f0755fb9eca1bf8f9c08f506630945",
       "timestamp": 1775490077743
+    },
+    {
+      "site": "JobGurus",
+      "id": "2323f132edf7a2e63e947024dcda7a0b",
+      "timestamp": 1775501554067
     }
   ],
   "j3 foods and store international": [
@@ -28359,8 +28364,8 @@
   "equinoxx power engineering limited": [
     {
       "site": "JobGurus",
-      "id": "5536286e036b319744a546256293f6be",
-      "timestamp": 1774291678580
+      "id": "db2b5b80c78a5971b5b99623b6de005b",
+      "timestamp": 1775501554067
     }
   ],
   "everland hotel & suites": [
@@ -29667,6 +29672,27 @@
       "site": "JobGurus",
       "id": "0e274fb73106f543f29caf86d1750903",
       "timestamp": 1775497230838
+    }
+  ],
+  "geoinfotech": [
+    {
+      "site": "JobGurus",
+      "id": "b42f36b2a403e4fca345fb35bd86ee6e",
+      "timestamp": 1775501554067
+    }
+  ],
+  "pillars realty limited": [
+    {
+      "site": "JobGurus",
+      "id": "e60350a6531bc6e033f583a7351701c7",
+      "timestamp": 1775501554067
+    }
+  ],
+  "cogent properties limited": [
+    {
+      "site": "JobGurus",
+      "id": "f1b229f5398b788ae69daf8abd87f600",
+      "timestamp": 1775501554067
     }
   ]
 }
