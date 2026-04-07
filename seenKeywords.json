@@ -2400,8 +2400,8 @@
   "dreamcity property & investment limited": [
     {
       "site": "JobGurus",
-      "id": "2b728f6574bba5a84218cd40cfb644d6",
-      "timestamp": 1765365312819
+      "id": "eb3f7b737ec37f0c626197c47d33ac2a",
+      "timestamp": 1775595070261
     }
   ],
   "sifax group": [
@@ -5953,8 +5953,8 @@
   "bridgemead hr. and advisory": [
     {
       "site": "JobGurus",
-      "id": "39a78f24d2682cf2c6a25c8e470b6b6b",
-      "timestamp": 1768576786646
+      "id": "d21ddb27f7085be4f6e8d41eb070a908",
+      "timestamp": 1775595070261
     }
   ],
   "taybuwtah international": [
@@ -7566,6 +7566,11 @@
       "site": "JobGurus",
       "id": "96976386d9a58e29f016ca51814e57cb",
       "timestamp": 1775220890146
+    },
+    {
+      "site": "JobGurus",
+      "id": "0e1c0dbff6375a3eda258e4bca721c3b",
+      "timestamp": 1775595070261
     }
   ],
   "eha clinics": [
@@ -29785,6 +29790,20 @@
       "site": "JobGurus",
       "id": "bfbe5e6c832ed5100fb246a359da643e",
       "timestamp": 1775588281797
+    }
+  ],
+  "infostrategy technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "a361c01441b0ba112515ea9ce0864b22",
+      "timestamp": 1775595070261
+    }
+  ],
+  "resurgir consulting": [
+    {
+      "site": "JobGurus",
+      "id": "03979a8d322fdebe9b0eef6483a0be17",
+      "timestamp": 1775595070261
     }
   ]
 }
