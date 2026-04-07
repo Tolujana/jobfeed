@@ -590,8 +590,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "addf87de28a6fe0fffff448bd29709f8",
-      "timestamp": 1770291106243
+      "id": "40011774ffc8e26f84840a9d7757d5de",
+      "timestamp": 1775563651131
     }
   ],
   "divine infinity college": [
@@ -3623,8 +3623,8 @@
   "secom limited": [
     {
       "site": "JobGurus",
-      "id": "7724873b28a3fc02b648a293a13e48fb",
-      "timestamp": 1772632475796
+      "id": "5f54e8a7c8dfea12c23d9b4eb5351b78",
+      "timestamp": 1775563651131
     }
   ],
   "confederated facilitators limited": [
@@ -20091,8 +20091,8 @@
   "bluepeak hr services": [
     {
       "site": "JobGurus",
-      "id": "fba0ae6ccf2b8d9095a004edb70cad4c",
-      "timestamp": 1770291106243
+      "id": "7afd4bb560704849183b7d4a375abb70",
+      "timestamp": 1775563651131
     }
   ],
   "dtech centrix plus limited": [
@@ -21220,8 +21220,8 @@
   "magodo specialist hospital": [
     {
       "site": "JobGurus",
-      "id": "12856f3bcf5db985f17ce3840ab7cae4",
-      "timestamp": 1763390619212
+      "id": "d9369006c36c6c4b3c31af29d8459e88",
+      "timestamp": 1775563651131
     }
   ],
   "nutrivitas limited": [
@@ -29703,6 +29703,13 @@
       "site": "JobGurus",
       "id": "f1b229f5398b788ae69daf8abd87f600",
       "timestamp": 1775501554067
+    }
+  ],
+  "landmall.ng": [
+    {
+      "site": "JobGurus",
+      "id": "2973852f92681b1d922fa40b996d97f7",
+      "timestamp": 1775563651131
     }
   ]
 }
