@@ -19295,8 +19295,8 @@
   "african steel mills nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "765d3634a7bf2d00a331d04fd6a9282c",
-      "timestamp": 1774624435427
+      "id": "6a6364d279f82f83f829dd25d7247c7d",
+      "timestamp": 1775580745444
     }
   ],
   "schlumberger limited": [
@@ -27007,8 +27007,8 @@
   "newedge finance limited": [
     {
       "site": "JobGurus",
-      "id": "ac29a437ba79f549c8b0a522a69900bc",
-      "timestamp": 1770393744163
+      "id": "34ca60893c1eab8ed2253c0d0a5ef9bd",
+      "timestamp": 1775580745444
     }
   ],
   "skyline international tourism & hospitality ltd": [
@@ -27099,8 +27099,8 @@
   "sageto limited": [
     {
       "site": "JobGurus",
-      "id": "501ef2ae927f7313422f30ae208ca3ae",
-      "timestamp": 1770829225017
+      "id": "5eb6d607262c6fbd2c9ea7a72039a8d3",
+      "timestamp": 1775580745444
     }
   ],
   "wellington college": [
@@ -29732,6 +29732,20 @@
       "site": "JobGurus",
       "id": "0805c8250bf413fbc7c82d7ea6a98bf0",
       "timestamp": 1775570762337
+    }
+  ],
+  "sia global healthcare limited": [
+    {
+      "site": "JobGurus",
+      "id": "ab33b71a1b5d178cf6dfc7d89a7fad47",
+      "timestamp": 1775580745444
+    }
+  ],
+  "bible davids ministries (bdm)": [
+    {
+      "site": "JobGurus",
+      "id": "e8f898b7f466bd0e9b66ebcca610e47b",
+      "timestamp": 1775580745444
     }
   ]
 }
