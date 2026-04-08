@@ -2721,13 +2721,8 @@
   "sales force consulting": [
     {
       "site": "JobGurus",
-      "id": "c97aff2aa47be86af40dbec1c03a0225",
-      "timestamp": 1768659330483
-    },
-    {
-      "site": "JobGurus",
-      "id": "9718cebad1fde35255f58560e895ad1f",
-      "timestamp": 1768659330483
+      "id": "6be13ac1b8afe94d0cff0ecebfbe1f06",
+      "timestamp": 1775678817768
     }
   ],
   "stridewaves limited": [
@@ -3060,13 +3055,8 @@
   "stretch-it concepts limited": [
     {
       "site": "JobGurus",
-      "id": "534c52e5da084180edbf6bd9f2051334",
-      "timestamp": 1760034089635
-    },
-    {
-      "site": "JobGurus",
-      "id": "dfa1a9dd837d5e24e6c3e5ed7d5db833",
-      "timestamp": 1760034089635
+      "id": "a7b0b616c3303f576b2256e2499dcaed",
+      "timestamp": 1775678817768
     }
   ],
   "pz cussons": [
@@ -26971,13 +26961,8 @@
   "premium human resources solution limited": [
     {
       "site": "JobGurus",
-      "id": "05237357569300ed3b577b64a0873097",
-      "timestamp": 1773658182006
-    },
-    {
-      "site": "JobGurus",
-      "id": "9445633a7f64adb8dd8b2ceed776035b",
-      "timestamp": 1773658182006
+      "id": "97f3ca57fe691bdb6dcc349adc888c19",
+      "timestamp": 1775678817768
     }
   ],
   "strickland services limited": [
@@ -28577,8 +28562,8 @@
   "multixept associates limited": [
     {
       "site": "JobGurus",
-      "id": "db5d9b0bc1d30277725faff5a429b97d",
-      "timestamp": 1773849912103
+      "id": "bda946f2c701ed27a43dd8f082ccab6d",
+      "timestamp": 1775678817768
     }
   ],
   "house unlimited": [
@@ -29866,6 +29851,13 @@
       "site": "JobGurus",
       "id": "0e1921fb0679d5dd6a62f44a76bfacff",
       "timestamp": 1775675409006
+    }
+  ],
+  "ruach networks": [
+    {
+      "site": "JobGurus",
+      "id": "6fd2939413489741cba3b1bb29c2c586",
+      "timestamp": 1775678817768
     }
   ]
 }
