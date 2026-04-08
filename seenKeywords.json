@@ -1101,8 +1101,8 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "ba297a7d01eab7ade50741eb31a1f676",
-      "timestamp": 1773266129968
+      "id": "46c5c9b9fa1e89bbd9142bc9d2efb5d0",
+      "timestamp": 1775664704812
     }
   ],
   "elizabeth maddeux limited": [
@@ -6038,8 +6038,8 @@
   "kloverharris limited": [
     {
       "site": "JobGurus",
-      "id": "1353d14cdfc6c033793323aa294bee4d",
-      "timestamp": 1773147353272
+      "id": "ecd001801396dc5ecb06a9933afe4719",
+      "timestamp": 1775664704812
     }
   ],
   "awake to power communications": [
@@ -13019,8 +13019,8 @@
   "rite foods limited": [
     {
       "site": "JobGurus",
-      "id": "649281dc5bef17778948be7e57d2f785",
-      "timestamp": 1756203392828
+      "id": "426ee89d315e8fc3190591ffa0f73415",
+      "timestamp": 1775664704812
     }
   ],
   "carrillion construction": [
@@ -23211,8 +23211,8 @@
   "lance trend limited": [
     {
       "site": "JobGurus",
-      "id": "1d9e08e472e53355d858cdc3163e0ae6",
-      "timestamp": 1774295077635
+      "id": "adf48c24871460c96d31602d7414bebc",
+      "timestamp": 1775664704812
     }
   ],
   "triton international company limited": [
@@ -29821,6 +29821,13 @@
       "site": "JobGurus",
       "id": "ce1253d2154bdd9f3bfe57c68054a4c3",
       "timestamp": 1775659888487
+    }
+  ],
+  "jaypecstar academy": [
+    {
+      "site": "JobGurus",
+      "id": "8230f73dc53a4d61d22ef042bec9b967",
+      "timestamp": 1775664704812
     }
   ]
 }
