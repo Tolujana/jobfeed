@@ -9140,8 +9140,8 @@
   "tag energy": [
     {
       "site": "JobGurus",
-      "id": "fcad8f006a185ea14e676967568a44ae",
-      "timestamp": 1774979559316
+      "id": "4c1a54952cbea9c01dcb6a7016fff884",
+      "timestamp": 1775761213550
     }
   ],
   "nettetal nigeria limited": [
@@ -14349,18 +14349,8 @@
   "det consulting limited": [
     {
       "site": "JobGurus",
-      "id": "1d5bb883937a8676636a1486f10fa0cd",
-      "timestamp": 1767626386301
-    },
-    {
-      "site": "JobGurus",
-      "id": "75b9a9118f659d802cbdad4d527c0c60",
-      "timestamp": 1767626386301
-    },
-    {
-      "site": "JobGurus",
-      "id": "155938b1e2337a8fdf8a67de1e1e2c49",
-      "timestamp": 1767872444740
+      "id": "8fa1ed11c799059ec68bb28c4ee67605",
+      "timestamp": 1775761213550
     }
   ],
   "power control and appliances limited": [
@@ -29920,6 +29910,25 @@
       "site": "JobGurus",
       "id": "707a51b5601b4e229f0f53d1d8aec04b",
       "timestamp": 1775757334189
+    }
+  ],
+  "zee recruits": [
+    {
+      "site": "JobGurus",
+      "id": "f67f21f5357bfd174fe20d101b996de4",
+      "timestamp": 1775761213550
+    }
+  ],
+  "gift imagination": [
+    {
+      "site": "JobGurus",
+      "id": "942d1e6cf59cbbf609cb58943770a23a",
+      "timestamp": 1775761213550
+    },
+    {
+      "site": "JobGurus",
+      "id": "81f8ae117097f466ea15991bb9505509",
+      "timestamp": 1775761213550
     }
   ]
 }
