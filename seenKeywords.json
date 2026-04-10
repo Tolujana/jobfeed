@@ -7793,8 +7793,13 @@
   "kaplo africa": [
     {
       "site": "JobGurus",
-      "id": "156ad6e9a74eb87723233124983c93ba",
-      "timestamp": 1771102142900
+      "id": "9608e7b6d3265078ac7cee82821f7081",
+      "timestamp": 1775839490700
+    },
+    {
+      "site": "JobGurus",
+      "id": "f8599c64f1d633d35e5154900e410698",
+      "timestamp": 1775839490700
     }
   ],
   "chemo-pharma laboratories limited": [
@@ -8663,8 +8668,8 @@
   "greenlife hospital limited": [
     {
       "site": "JobGurus",
-      "id": "8075e501c4d4b84d6ac65cae21a73a70",
-      "timestamp": 1770978910973
+      "id": "a73f253a495eab6037d23ef8101b02b3",
+      "timestamp": 1775839490700
     }
   ],
   "charlesmaris international company": [
@@ -30006,6 +30011,20 @@
       "site": "JobGurus",
       "id": "51d00c8919a6cc31a0a0b823c5d6f894",
       "timestamp": 1775835984124
+    }
+  ],
+  "so&p": [
+    {
+      "site": "JobGurus",
+      "id": "419aed4719530d7a5a638c9b5b887679",
+      "timestamp": 1775839490700
+    }
+  ],
+  "dag industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "cfd9ca3ccf7e5805bd630092465114ec",
+      "timestamp": 1775839490700
     }
   ]
 }
