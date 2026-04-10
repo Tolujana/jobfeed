@@ -4224,8 +4224,8 @@
   "mogtech group limited": [
     {
       "site": "JobGurus",
-      "id": "d4f908f2ff8e962242e695e266d9acfc",
-      "timestamp": 1750418010079
+      "id": "b39a36740ca03766c2fe2842168ce7aa",
+      "timestamp": 1775846655412
     }
   ],
   "buildspace technology hub": [
@@ -9913,8 +9913,8 @@
   "spar market": [
     {
       "site": "JobGurus",
-      "id": "516c68f8661dde781d6c32430f56c6f6",
-      "timestamp": 1764270764105
+      "id": "5e62e60147db956c47c8b0dd09721542",
+      "timestamp": 1775846655412
     }
   ],
   "tezza business solutions limited": [
@@ -19316,6 +19316,11 @@
       "site": "JobGurus",
       "id": "3025f5a3a21dfaed733429ddf1324944",
       "timestamp": 1775832182137
+    },
+    {
+      "site": "JobGurus",
+      "id": "360761c6fc830c0ae30cc74499b767f8",
+      "timestamp": 1775846655412
     }
   ],
   "international committee of the red cross (icrc)": [
@@ -30030,6 +30035,13 @@
       "site": "JobGurus",
       "id": "cfd9ca3ccf7e5805bd630092465114ec",
       "timestamp": 1775839490700
+    }
+  ],
+  "begi clean nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "7f040d2e84dea886299203920fdf55e5",
+      "timestamp": 1775846655412
     }
   ]
 }
