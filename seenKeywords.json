@@ -13424,13 +13424,8 @@
   "talent towers": [
     {
       "site": "JobGurus",
-      "id": "fbf8132b70e333556ec0a95ca94b357f",
-      "timestamp": 1773676893091
-    },
-    {
-      "site": "JobGurus",
-      "id": "661e75808245c580abb7fabf50bb9c27",
-      "timestamp": 1773924917474
+      "id": "63d69065e956f2a5ddb5c6860f42bd23",
+      "timestamp": 1775860348426
     }
   ],
   "elizade nigeria limited": [
@@ -30047,6 +30042,20 @@
       "site": "JobGurus",
       "id": "7f040d2e84dea886299203920fdf55e5",
       "timestamp": 1775846655412
+    }
+  ],
+  "qthr services": [
+    {
+      "site": "JobGurus",
+      "id": "3938d06851d368184d0cce1ef03d4d0e",
+      "timestamp": 1775860348426
+    }
+  ],
+  "viya health nigeria ltd": [
+    {
+      "site": "JobGurus",
+      "id": "a8a039c93759d638ecd8655a2c8c755e",
+      "timestamp": 1775860348426
     }
   ]
 }
