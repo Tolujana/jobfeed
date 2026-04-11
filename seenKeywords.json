@@ -851,6 +851,11 @@
       "site": "JobGurus",
       "id": "519981ac95a747ff86c1658c39a4c5f1",
       "timestamp": 1775842991865
+    },
+    {
+      "site": "JobGurus",
+      "id": "3a292797358200400c98a6705d12d219",
+      "timestamp": 1775921364528
     }
   ],
   "elvaridah limited": [
@@ -7190,8 +7195,8 @@
   "7eleven consultancy services": [
     {
       "site": "JobGurus",
-      "id": "7b0dcdf4cf47af672b2cd258fdeb1afc",
-      "timestamp": 1767035579741
+      "id": "16a69d812c77426506518be36641de81",
+      "timestamp": 1775921364528
     }
   ],
   "emel hospital": [
@@ -9306,6 +9311,11 @@
       "site": "JobGurus",
       "id": "f9f99c618d7936aee148ca169082063d",
       "timestamp": 1775856774179
+    },
+    {
+      "site": "JobGurus",
+      "id": "1af878e8078949c48e3445e3cf56a61d",
+      "timestamp": 1775921364528
     }
   ],
   "source microfinance bank": [
@@ -30061,6 +30071,20 @@
       "site": "JobGurus",
       "id": "a8a039c93759d638ecd8655a2c8c755e",
       "timestamp": 1775860348426
+    }
+  ],
+  "university of maiduguri": [
+    {
+      "site": "JobGurus",
+      "id": "1144bcd3a77383eb493644fee9517d51",
+      "timestamp": 1775921364528
+    }
+  ],
+  "naturapimp": [
+    {
+      "site": "JobGurus",
+      "id": "91ff96a3c6bd5033b1451eb1998f46bd",
+      "timestamp": 1775921364528
     }
   ]
 }
