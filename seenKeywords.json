@@ -856,6 +856,16 @@
       "site": "JobGurus",
       "id": "3a292797358200400c98a6705d12d219",
       "timestamp": 1775921364528
+    },
+    {
+      "site": "JobGurus",
+      "id": "6c56447832022ebb1fcc4063a60fce65",
+      "timestamp": 1775923057261
+    },
+    {
+      "site": "JobGurus",
+      "id": "dfcdce235360ebf0621ee8165644ff38",
+      "timestamp": 1775923057261
     }
   ],
   "elvaridah limited": [
@@ -30078,6 +30088,11 @@
       "site": "JobGurus",
       "id": "1144bcd3a77383eb493644fee9517d51",
       "timestamp": 1775921364528
+    },
+    {
+      "site": "JobGurus",
+      "id": "1a63ed1b2e69ce33983e15ea8c595d27",
+      "timestamp": 1775923057261
     }
   ],
   "naturapimp": [
@@ -30085,6 +30100,20 @@
       "site": "JobGurus",
       "id": "91ff96a3c6bd5033b1451eb1998f46bd",
       "timestamp": 1775921364528
+    }
+  ],
+  "sanni, sanni, ojo & partners consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "ddb5230ae7c05a1ca6c886fbaf241fa9",
+      "timestamp": 1775923057261
+    }
+  ],
+  "pathfinder consulting": [
+    {
+      "site": "JobGurus",
+      "id": "ca7c4d08082144878519a611bdb97099",
+      "timestamp": 1775923057261
     }
   ]
 }
