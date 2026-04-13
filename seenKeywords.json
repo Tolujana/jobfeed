@@ -18776,8 +18776,8 @@
   "lagos food bank": [
     {
       "site": "JobGurus",
-      "id": "cfd36147f273e49f816127c9bfba5728",
-      "timestamp": 1765218325364
+      "id": "961c0ba8767f2e096eeda48f4394e56e",
+      "timestamp": 1776086249714
     }
   ],
   "access realty": [
@@ -23597,13 +23597,13 @@
   "uncle stan's food": [
     {
       "site": "JobGurus",
-      "id": "4b48b09bc0e1a63d60b1c681a272bdaa",
-      "timestamp": 1775054856259
+      "id": "aa3ece38a7c1225210831b8465d32f2d",
+      "timestamp": 1775490077743
     },
     {
       "site": "JobGurus",
-      "id": "aa3ece38a7c1225210831b8465d32f2d",
-      "timestamp": 1775490077743
+      "id": "ff1754155e383cc7f7455125a660c32a",
+      "timestamp": 1776086249714
     }
   ],
   "quest employment limited": [
@@ -30134,6 +30134,27 @@
       "site": "JobGurus",
       "id": "ca7c4d08082144878519a611bdb97099",
       "timestamp": 1775923057261
+    }
+  ],
+  "xprs cadres": [
+    {
+      "site": "JobGurus",
+      "id": "fc3bbeadd0c6fccb34cd684901626fb7",
+      "timestamp": 1776086249714
+    }
+  ],
+  "axion global engineering company limited": [
+    {
+      "site": "JobGurus",
+      "id": "8a11a0f84b51a1de3df7227de44cce84",
+      "timestamp": 1776086249714
+    }
+  ],
+  "the nigerian capital development fund (ncdf) group": [
+    {
+      "site": "JobGurus",
+      "id": "319a6c8edc5309b068f02898d0788cdb",
+      "timestamp": 1776086249714
     }
   ]
 }
