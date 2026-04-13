@@ -4078,6 +4078,11 @@
       "site": "JobGurus",
       "id": "b2bb45e46e850d56bced1cc18bb96f70",
       "timestamp": 1775835984124
+    },
+    {
+      "site": "JobGurus",
+      "id": "ec463c8b89d05d8acd58576c7ffab571",
+      "timestamp": 1776101782431
     }
   ],
   "prixair group": [
@@ -4410,8 +4415,8 @@
   "kiyix recruitment hub": [
     {
       "site": "JobGurus",
-      "id": "ab7036aeb8ec3d65bfb6a64319edc8f6",
-      "timestamp": 1774705673200
+      "id": "afcbd99d7edca517f3e47111c778ee6f",
+      "timestamp": 1776101782431
     }
   ],
   "mediplan healthcare limited": [
@@ -30176,6 +30181,27 @@
       "site": "JobGurus",
       "id": "b50ca4b27ae22276ccdecad57a81b2fe",
       "timestamp": 1776097072243
+    }
+  ],
+  "fortafric energy limited": [
+    {
+      "site": "JobGurus",
+      "id": "0dbf5c6ad6a5df93ed59dd8e521ac92d",
+      "timestamp": 1776101782431
+    }
+  ],
+  "a4&t power solution": [
+    {
+      "site": "JobGurus",
+      "id": "2e397739edd02605e927cf5dce71b8d5",
+      "timestamp": 1776101782431
+    }
+  ],
+  "fluff and stars": [
+    {
+      "site": "JobGurus",
+      "id": "82f6880a9d628b61f739cce385b159b3",
+      "timestamp": 1776101782431
     }
   ]
 }
