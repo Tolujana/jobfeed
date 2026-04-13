@@ -10495,8 +10495,8 @@
   "mikano international limited": [
     {
       "site": "JobGurus",
-      "id": "69c2e1dbbaf8f6f203dbc2bc15d3ed5c",
-      "timestamp": 1773763261997
+      "id": "6e090ee89398382fdddcf8411f5c6ac7",
+      "timestamp": 1776112216298
     }
   ],
   "growth in value alliance (gv alliance) partners": [
@@ -12942,8 +12942,8 @@
   "straight-gate publishers limited": [
     {
       "site": "JobGurus",
-      "id": "2da67bc38beeeccd385e21945382a896",
-      "timestamp": 1755948941580
+      "id": "bd9f1560198b08c5de6c4f554f20b888",
+      "timestamp": 1776112216298
     }
   ],
   "punch group": [
@@ -30199,6 +30199,11 @@
       "site": "JobGurus",
       "id": "536d49d94f1c1c6c10487fe4b6b7aa48",
       "timestamp": 1776107324590
+    },
+    {
+      "site": "JobGurus",
+      "id": "750b65e00a591ed48a8705a1fce52293",
+      "timestamp": 1776112216298
     }
   ],
   "zeedlabs": [
@@ -30206,6 +30211,20 @@
       "site": "JobGurus",
       "id": "60a36ffa4d90b70001bec437de7bd307",
       "timestamp": 1776107324590
+    }
+  ],
+  "buffalo group nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "dbf59c221590ab5185196ff51c393348",
+      "timestamp": 1776112216298
+    }
+  ],
+  "sage grey finance limited": [
+    {
+      "site": "JobGurus",
+      "id": "40409f48759d6fabacc7521630f792ef",
+      "timestamp": 1776112216298
     }
   ]
 }
