@@ -11840,8 +11840,8 @@
   "montaigne place": [
     {
       "site": "JobGurus",
-      "id": "0f3652858b6be74b3f31121b5382ccf6",
-      "timestamp": 1757004260137
+      "id": "2b4cef58ac259a9e22535f3dcb1a3c27",
+      "timestamp": 1776193643208
     }
   ],
   "just brand it limited": [
@@ -14802,8 +14802,18 @@
   "lovonus microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "2b3402446bab6c1837955aedbe2bfeba",
-      "timestamp": 1757531504306
+      "id": "65fd73c22fb0b219486076484ddf45f8",
+      "timestamp": 1776193643208
+    },
+    {
+      "site": "JobGurus",
+      "id": "419aeba19adcfcc8cb5d14514c9b3ac3",
+      "timestamp": 1776193643208
+    },
+    {
+      "site": "JobGurus",
+      "id": "7485381d5a631863807089889b8eafe8",
+      "timestamp": 1776193643208
     }
   ],
   "iknorbert communications limited": [
@@ -30214,6 +30224,13 @@
       "site": "JobGurus",
       "id": "8eb675188e396a6ee0f200d49575930d",
       "timestamp": 1776188459937
+    }
+  ],
+  "little sprouts international school": [
+    {
+      "site": "JobGurus",
+      "id": "fd3ce2084703edae9be3dc38a68de1be",
+      "timestamp": 1776193643208
     }
   ]
 }
