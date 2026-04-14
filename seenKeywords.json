@@ -53,8 +53,8 @@
   "compovine technologies limited": [
     {
       "site": "JobGurus",
-      "id": "e4ef0c0025e4834d3c74d27473166c00",
-      "timestamp": 1774620675026
+      "id": "3b52c54791976db517a6b90b36d04db5",
+      "timestamp": 1776198534395
     }
   ],
   "the concept group": [
@@ -8327,8 +8327,8 @@
   "havana group": [
     {
       "site": "JobGurus",
-      "id": "10d4205530e26222984d5ff8563bfb94",
-      "timestamp": 1763482934655
+      "id": "aa1a63e9bd6fd34e1695bffe2c92094f",
+      "timestamp": 1776198534395
     }
   ],
   "ics outsourcing limited": [
@@ -30231,6 +30231,27 @@
       "site": "JobGurus",
       "id": "fd3ce2084703edae9be3dc38a68de1be",
       "timestamp": 1776193643208
+    }
+  ],
+  "doxa educational consult": [
+    {
+      "site": "JobGurus",
+      "id": "1e71d5fd74d56e8853d00867f2123782",
+      "timestamp": 1776198534395
+    }
+  ],
+  "paragon corporate enterprises": [
+    {
+      "site": "JobGurus",
+      "id": "555ae178cd5de2bafbef787f955a6aee",
+      "timestamp": 1776198534395
+    }
+  ],
+  "celeb laser aesthetics clinic": [
+    {
+      "site": "JobGurus",
+      "id": "b7c022e4f38eab06b82d0468c6df8dd5",
+      "timestamp": 1776198534395
     }
   ]
 }
