@@ -4083,8 +4083,8 @@
   "prixair group": [
     {
       "site": "JobGurus",
-      "id": "24ce91397f24a29754fb3d9f254e2cd0",
-      "timestamp": 1773266129968
+      "id": "aa0313a49825cf025b8a7eb9b0b5379b",
+      "timestamp": 1776352252494
     }
   ],
   "bottleking limited": [
@@ -5124,8 +5124,8 @@
   "hrhub.ng limited": [
     {
       "site": "JobGurus",
-      "id": "40ac5371c099c83228d40d089ef91c09",
-      "timestamp": 1773085047631
+      "id": "bf46e9fd3f158d4b23266e538170e43c",
+      "timestamp": 1776352252494
     }
   ],
   "federal college of education": [
@@ -30404,6 +30404,13 @@
       "site": "JobGurus",
       "id": "140e651e03c34e812eeb87b62ea1d35b",
       "timestamp": 1776345796069
+    }
+  ],
+  "dash microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "c6616f157ee15732ba7fc90675611a7e",
+      "timestamp": 1776352252494
     }
   ]
 }
