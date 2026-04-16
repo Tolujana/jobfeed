@@ -6222,18 +6222,8 @@
   "proforce galaxies limited": [
     {
       "site": "JobGurus",
-      "id": "fa550b9fc2be3280e654c06c4301764b",
-      "timestamp": 1775577168102
-    },
-    {
-      "site": "JobGurus",
-      "id": "c82bbbbde84c5000077b00abe445f8a5",
-      "timestamp": 1775577168102
-    },
-    {
-      "site": "JobGurus",
-      "id": "dce43375f911ed17e9f40a1cd0e5d696",
-      "timestamp": 1775588281797
+      "id": "f37e8c49f4bae92a2e6802edc1590bb1",
+      "timestamp": 1776362679775
     }
   ],
   "htsf global nigeria limited": [
@@ -13938,8 +13928,8 @@
   "jubaili agrotec limited": [
     {
       "site": "JobGurus",
-      "id": "85177531bbfbcba39369df5809f67519",
-      "timestamp": 1763809894653
+      "id": "2b1c5f9f18dcab1a2744bb58c3567df4",
+      "timestamp": 1776362679775
     }
   ],
   "wig it and weaves": [
@@ -26788,13 +26778,8 @@
   "greenville lng company limited": [
     {
       "site": "JobGurus",
-      "id": "2d265c417f60f9576eec5183b2155454",
-      "timestamp": 1770142236794
-    },
-    {
-      "site": "JobGurus",
-      "id": "9b893c278635a3d81de6d7fa77ccda8a",
-      "timestamp": 1770142236794
+      "id": "4012bc34e158f38a262d20ad8737d038",
+      "timestamp": 1776362679775
     }
   ],
   "jocaro nigeria limited": [
@@ -30425,6 +30410,20 @@
       "site": "JobGurus",
       "id": "94bf0d2bf820e97397f3fa3369a7c11d",
       "timestamp": 1776358394717
+    }
+  ],
+  "ecosuspro": [
+    {
+      "site": "JobGurus",
+      "id": "8e9715607b1ca38d0a1331e3fbe2f32b",
+      "timestamp": 1776362679775
+    }
+  ],
+  "fina trust microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "1e89d8a3ebd70f58c01441947611cda6",
+      "timestamp": 1776362679775
     }
   ]
 }
