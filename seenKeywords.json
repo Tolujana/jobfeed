@@ -7866,8 +7866,8 @@
   "neveah limited": [
     {
       "site": "JobGurus",
-      "id": "b2eed34e590148f8e295fd724de145e4",
-      "timestamp": 1773929180310
+      "id": "e61411f3bb98ef5ab52b46540328c5ba",
+      "timestamp": 1776358394717
     }
   ],
   "r & r recruiting services": [
@@ -11075,8 +11075,8 @@
   "paystack": [
     {
       "site": "JobGurus",
-      "id": "2b5d3411afb01ec5c21b20d032c64b9f",
-      "timestamp": 1756491627287
+      "id": "f2e3da94a617a6e075df39a5a1ace9fa",
+      "timestamp": 1776358394717
     }
   ],
   "c.don communication limited": [
@@ -17307,8 +17307,8 @@
   "linkora networks": [
     {
       "site": "JobGurus",
-      "id": "a016d4c48f0c9079b2526235adc5f92b",
-      "timestamp": 1759505823011
+      "id": "60026f866762f56f6a45091bb2648ba6",
+      "timestamp": 1776358394717
     }
   ],
   "litefi limited": [
@@ -30411,6 +30411,20 @@
       "site": "JobGurus",
       "id": "c6616f157ee15732ba7fc90675611a7e",
       "timestamp": 1776352252494
+    }
+  ],
+  "intersos nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "72ba6bc14c462aa52c3abac48d59ada6",
+      "timestamp": 1776358394717
+    }
+  ],
+  "basic foundation international school": [
+    {
+      "site": "JobGurus",
+      "id": "94bf0d2bf820e97397f3fa3369a7c11d",
+      "timestamp": 1776358394717
     }
   ]
 }
