@@ -155,23 +155,8 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "2d13f720433c538773cc6087e26cc423",
-      "timestamp": 1774018167939
-    },
-    {
-      "site": "JobGurus",
-      "id": "e9265b6f0c18d4a2d96de75ec66bc025",
-      "timestamp": 1774018167939
-    },
-    {
-      "site": "JobGurus",
-      "id": "9358e350199beb5d19d317a9da84ec8b",
-      "timestamp": 1774024676520
-    },
-    {
-      "site": "JobGurus",
-      "id": "31fab19ac6ba11f846e81ebb9e2d7e62",
-      "timestamp": 1774551547856
+      "id": "ec9133d95d328346a90a3bcbf9372697",
+      "timestamp": 1776425300850
     }
   ],
   "cway group": [
@@ -8169,8 +8154,8 @@
   "thowbiemakeovers": [
     {
       "site": "JobGurus",
-      "id": "af423f2c5b9d427d9626c4d90811435b",
-      "timestamp": 1775497230838
+      "id": "1a201ae55f7e0bed49b54539523603e1",
+      "timestamp": 1776425300850
     }
   ],
   "pe lifts": [
@@ -11654,6 +11639,11 @@
       "site": "JobGurus",
       "id": "e27427d3ef7b0c731450810652c23950",
       "timestamp": 1776092324634
+    },
+    {
+      "site": "JobGurus",
+      "id": "d0e2f7c5e9f85ead1add418f2fa549fb",
+      "timestamp": 1776425300850
     }
   ],
   "ralds & agate": [
@@ -16866,8 +16856,8 @@
   "blu atlantic hotel": [
     {
       "site": "JobGurus",
-      "id": "de9b98037f1c108443f7a403da5e28ed",
-      "timestamp": 1763664596755
+      "id": "ab8810ec401e4260e6651baf503fb03b",
+      "timestamp": 1776425300850
     }
   ],
   "origin tech group": [
@@ -30445,6 +30435,13 @@
       "site": "JobGurus",
       "id": "0453ea20b19e41e3571e2f9391c6d608",
       "timestamp": 1776421109248
+    }
+  ],
+  "vendorcredit": [
+    {
+      "site": "JobGurus",
+      "id": "051f1b5a768c4329874fa7972e945b1c",
+      "timestamp": 1776425300850
     }
   ]
 }
