@@ -372,8 +372,8 @@
   "dana group": [
     {
       "site": "JobGurus",
-      "id": "7bcbcd9675a67f6e5ee8dd2dac68e353",
-      "timestamp": 1774708079144
+      "id": "afa75eba97c3cc8aaf3bf9f481802614",
+      "timestamp": 1776440087018
     }
   ],
   "raphael group": [
@@ -2849,8 +2849,13 @@
   "hotel capitol": [
     {
       "site": "JobGurus",
-      "id": "574113a061bda3116f492d1b4df28f10",
-      "timestamp": 1774983378030
+      "id": "2f586bec38d5c544060d984cf8cf4a21",
+      "timestamp": 1776440087018
+    },
+    {
+      "site": "JobGurus",
+      "id": "7cae95f49b300badcccd5d7ec595a9c1",
+      "timestamp": 1776440087018
     }
   ],
   "total secure nigeria limited": [
@@ -3338,8 +3343,8 @@
   "divine ag solutions limited": [
     {
       "site": "JobGurus",
-      "id": "e56030cb57f999f5a6a2ede01a356296",
-      "timestamp": 1750099755187
+      "id": "8e6fc6569f945e3eb5bcae216cba8dbd",
+      "timestamp": 1776440087018
     }
   ],
   "r & r recruitment services": [
@@ -30454,6 +30459,13 @@
       "site": "JobGurus",
       "id": "d4cad39d56029e3005b94e45f501ff3e",
       "timestamp": 1776434523621
+    }
+  ],
+  "laim hotel limited": [
+    {
+      "site": "JobGurus",
+      "id": "711045a5f4b19acc53e6ded615e0f345",
+      "timestamp": 1776440087018
     }
   ]
 }
