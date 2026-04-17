@@ -9748,8 +9748,8 @@
   "careers verified": [
     {
       "site": "JobGurus",
-      "id": "553205961d643e65d9165bcdfd448167",
-      "timestamp": 1773073948821
+      "id": "159777ed0bf69d62e970cb7b81a07fdc",
+      "timestamp": 1776434523621
     }
   ],
   "sygnite power and energy solutions ltd": [
@@ -30447,6 +30447,13 @@
       "site": "JobGurus",
       "id": "051f1b5a768c4329874fa7972e945b1c",
       "timestamp": 1776425300850
+    }
+  ],
+  "hr consulting firm)": [
+    {
+      "site": "JobGurus",
+      "id": "d4cad39d56029e3005b94e45f501ff3e",
+      "timestamp": 1776434523621
     }
   ]
 }
