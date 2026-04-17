@@ -374,6 +374,11 @@
       "site": "JobGurus",
       "id": "afa75eba97c3cc8aaf3bf9f481802614",
       "timestamp": 1776440087018
+    },
+    {
+      "site": "JobGurus",
+      "id": "7927040dbbfb5164606ecb1312dc7b50",
+      "timestamp": 1776444690542
     }
   ],
   "raphael group": [
@@ -7207,6 +7212,11 @@
       "site": "JobGurus",
       "id": "16a69d812c77426506518be36641de81",
       "timestamp": 1775921364528
+    },
+    {
+      "site": "JobGurus",
+      "id": "63e154f9f09683cb88aa5718c7df36a3",
+      "timestamp": 1776444690542
     }
   ],
   "emel hospital": [
@@ -8084,8 +8094,8 @@
   "dsl pharma": [
     {
       "site": "JobGurus",
-      "id": "47722580c48f43ee94390c5b3dc6e148",
-      "timestamp": 1765207123521
+      "id": "85688753ede3c5da96264092fc97efb2",
+      "timestamp": 1776444690542
     }
   ],
   "emmix global limited": [
@@ -8470,8 +8480,8 @@
   "laim hotel": [
     {
       "site": "JobGurus",
-      "id": "6ba31077cdc7293c80387431220a8e75",
-      "timestamp": 1760449582712
+      "id": "8841bcae8f6f66a9af96528344cbd765",
+      "timestamp": 1776444690542
     }
   ],
   "propetrol limited": [
