@@ -20489,8 +20489,8 @@
   "carlson hotel": [
     {
       "site": "JobGurus",
-      "id": "fd1b57cf4ddb9ad4ec50a8707ad109ef",
-      "timestamp": 1772462583957
+      "id": "cbba14f46b6fedc802aa3f3e58eb821d",
+      "timestamp": 1776416363679
     }
   ],
   "the chartered institute of directors nigeria": [
@@ -30424,6 +30424,13 @@
       "site": "JobGurus",
       "id": "1e89d8a3ebd70f58c01441947611cda6",
       "timestamp": 1776362679775
+    }
+  ],
+  "bosak microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "e85d5650e3a1431bfe282fff8e50ea84",
+      "timestamp": 1776416363679
     }
   ]
 }
