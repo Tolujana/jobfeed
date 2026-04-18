@@ -3742,8 +3742,8 @@
   "spacefinish": [
     {
       "site": "JobGurus",
-      "id": "677d1bd30e1feb1ca8b2d3a841fe1269",
-      "timestamp": 1769080800451
+      "id": "928124c086bd4b61cad90fc9418b3da0",
+      "timestamp": 1776526431867
     }
   ],
   "moove": [
@@ -6799,18 +6799,8 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "67fb7239968c6243d0b084cbee4e0779",
-      "timestamp": 1769600597032
-    },
-    {
-      "site": "JobGurus",
-      "id": "a871158d6ad75ad479ce56d42762f03f",
-      "timestamp": 1769600597032
-    },
-    {
-      "site": "JobGurus",
-      "id": "783208375770074c02d01b0618f06de1",
-      "timestamp": 1770057434318
+      "id": "95aeaa7c540b9865c06946ed11eb65ea",
+      "timestamp": 1776526431867
     }
   ],
   "dansol": [
@@ -21466,8 +21456,8 @@
   "expedier": [
     {
       "site": "JobGurus",
-      "id": "686414d7aeecffbf896aff9c239e1a32",
-      "timestamp": 1764267753161
+      "id": "ac1edbfe9a0001d03d5ff16cbf413ea9",
+      "timestamp": 1776526431867
     }
   ],
   "crossover microfinance bank limited": [
@@ -22422,8 +22412,8 @@
   "independent project monitoring company limited": [
     {
       "site": "JobGurus",
-      "id": "bb57589ef0418b32f8ae20de0df4c230",
-      "timestamp": 1764346778153
+      "id": "58591f6cb8232c652b0a56b756207ce7",
+      "timestamp": 1776526431867
     }
   ],
   "idyha capital": [
@@ -30524,6 +30514,13 @@
       "site": "JobGurus",
       "id": "f4830d26a78d66fca0ee3b264bb9bd4f",
       "timestamp": 1776523620014
+    }
+  ],
+  "intersect consortium": [
+    {
+      "site": "JobGurus",
+      "id": "f51a309cf168e8ecbaf1a173945eca57",
+      "timestamp": 1776526431867
     }
   ]
 }
