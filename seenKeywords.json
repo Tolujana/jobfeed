@@ -7700,8 +7700,8 @@
   "house of maryjane": [
     {
       "site": "JobGurus",
-      "id": "a3f4fad1e4c37dfd44e7e56dd2392945",
-      "timestamp": 1754561889861
+      "id": "aa0f7d95174b5c78068ea70149edac90",
+      "timestamp": 1776696265805
     }
   ],
   "assets microfinance bank": [
@@ -11329,8 +11329,8 @@
   "pulse nigeria": [
     {
       "site": "JobGurus",
-      "id": "eb6620614588614b1bc18128b6e6dffc",
-      "timestamp": 1761668443900
+      "id": "21892ad53d94e49ad84a70952b86fd00",
+      "timestamp": 1776696265805
     }
   ],
   "nairametrics": [
@@ -12192,8 +12192,8 @@
   "eta zuma mining and industries limited": [
     {
       "site": "JobGurus",
-      "id": "39ee6fb81cce7e86bb346b20f8bb0273",
-      "timestamp": 1757511668901
+      "id": "84023fa234f3d825a49d494f1d5f8f87",
+      "timestamp": 1776696265805
     }
   ],
   "hr leverage africa": [
@@ -30526,6 +30526,20 @@
       "site": "JobGurus",
       "id": "f51a309cf168e8ecbaf1a173945eca57",
       "timestamp": 1776526431867
+    }
+  ],
+  "gpgate solar and power nigeria company limited": [
+    {
+      "site": "JobGurus",
+      "id": "33c418ea2797bf82202aa082f57a70bb",
+      "timestamp": 1776696265805
+    }
+  ],
+  "u.s embassy": [
+    {
+      "site": "JobGurus",
+      "id": "4e1347463c2e055b9999081462589dbd",
+      "timestamp": 1776696265805
     }
   ]
 }
