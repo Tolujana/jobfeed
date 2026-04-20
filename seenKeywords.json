@@ -6248,18 +6248,13 @@
   "oppo": [
     {
       "site": "JobGurus",
-      "id": "f66561d5f56d9d7f5df5703b3a226eb8",
-      "timestamp": 1775675409006
-    },
-    {
-      "site": "JobGurus",
-      "id": "6ffed46585be1544b6e4affff603f5d5",
-      "timestamp": 1775675409006
-    },
-    {
-      "site": "JobGurus",
       "id": "a01e1dffd78876fd2bd9ad737edd2896",
       "timestamp": 1776178723606
+    },
+    {
+      "site": "JobGurus",
+      "id": "61605bfb9c6e5ef03e973b230e4fe0f1",
+      "timestamp": 1776722783429
     }
   ],
   "agricare std plus limited": [
@@ -13304,13 +13299,8 @@
   "dicalo consulting group": [
     {
       "site": "JobGurus",
-      "id": "2248bbdf1d8e887425be76c2f36614ee",
-      "timestamp": 1756325794884
-    },
-    {
-      "site": "JobGurus",
-      "id": "419d9e53e1f5a6093070bbfd7839c7b4",
-      "timestamp": 1756546540617
+      "id": "53db42d7c1d67c455f3a247d7527cf6e",
+      "timestamp": 1776722783429
     }
   ],
   "marquis concierge limited": [
@@ -15914,8 +15904,8 @@
   "paramount web nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "2ff0b08650b55c09f3f479a05b418006",
-      "timestamp": 1758572178062
+      "id": "5f49ba765ea2ef2217e8baef2d82a8ac",
+      "timestamp": 1776722783429
     }
   ],
   "hempawa consult": [
@@ -30604,6 +30594,20 @@
       "site": "JobGurus",
       "id": "f77c03ed72223e904c805b7653b5b9c0",
       "timestamp": 1776719263850
+    }
+  ],
+  "winock limited": [
+    {
+      "site": "JobGurus",
+      "id": "353d5998a2a6302d8b3a2f225b70a9fa",
+      "timestamp": 1776722783429
+    }
+  ],
+  "dropx": [
+    {
+      "site": "JobGurus",
+      "id": "0bc47006318f34374943ce3f49faf9a0",
+      "timestamp": 1776722783429
     }
   ]
 }
