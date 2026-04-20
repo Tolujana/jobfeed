@@ -10004,6 +10004,11 @@
       "site": "JobGurus",
       "id": "df2455e3a127a888014acc64d3366b45",
       "timestamp": 1776715253935
+    },
+    {
+      "site": "JobGurus",
+      "id": "baa0c6b3ad0fec55e424f0e7219494db",
+      "timestamp": 1776726447050
     }
   ],
   "talent lab limited": [
@@ -27015,13 +27020,8 @@
   "grado konnects": [
     {
       "site": "JobGurus",
-      "id": "c3f9f642439d70f6fd8101f00e533970",
-      "timestamp": 1775577168102
-    },
-    {
-      "site": "JobGurus",
-      "id": "92999070383bb4f28fc843f64ec16ddd",
-      "timestamp": 1775588281797
+      "id": "5a137e3e94cb416078e2537f3fc28224",
+      "timestamp": 1776726447050
     }
   ],
   "amsco": [
@@ -29259,8 +29259,18 @@
   "atutechs c limited": [
     {
       "site": "JobGurus",
-      "id": "e0bf436d9d17d562dead6aa72352a6bf",
-      "timestamp": 1774705673200
+      "id": "6cff3a007e7123473192102059ba602b",
+      "timestamp": 1776726447050
+    },
+    {
+      "site": "JobGurus",
+      "id": "49f5f93396bd86caed0d7c35b2eebc7f",
+      "timestamp": 1776726447050
+    },
+    {
+      "site": "JobGurus",
+      "id": "2dd6d4af4b527d0b590dd0545e538536",
+      "timestamp": 1776726447050
     }
   ],
   "ezekiel properties management company": [
