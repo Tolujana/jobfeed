@@ -4943,8 +4943,8 @@
   "lifted horizon nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "22a1d007e2e19ec291f8fa3a04c17806",
-      "timestamp": 1773845079177
+      "id": "b939f472317812cc580d41679fa0d020",
+      "timestamp": 1776719263850
     }
   ],
   "greenwich merchant bank": [
@@ -26357,8 +26357,8 @@
   "talentforge solutions limited": [
     {
       "site": "JobGurus",
-      "id": "ad16bdc62dc1f69a654c38bb510cd4f5",
-      "timestamp": 1772552540148
+      "id": "568fe0c4d739b06009de2560066f1184",
+      "timestamp": 1776719263850
     }
   ],
   "w.else nigeria limited": [
@@ -26574,8 +26574,8 @@
   "grand oak limited (gol)": [
     {
       "site": "JobGurus",
-      "id": "7223625fa4617fa98fe73ba78c5c250b",
-      "timestamp": 1773676893091
+      "id": "05c1ff04582e8a2b15a5d26fdcebf34a",
+      "timestamp": 1776719263850
     }
   ],
   "abc logistics": [
@@ -30597,6 +30597,13 @@
       "site": "JobGurus",
       "id": "5d017a6a3d94c7b00c1e7045dbb399b6",
       "timestamp": 1776711517741
+    }
+  ],
+  "ardrend limited": [
+    {
+      "site": "JobGurus",
+      "id": "f77c03ed72223e904c805b7653b5b9c0",
+      "timestamp": 1776719263850
     }
   ]
 }
