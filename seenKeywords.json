@@ -7712,6 +7712,11 @@
       "site": "JobGurus",
       "id": "aa0f7d95174b5c78068ea70149edac90",
       "timestamp": 1776696265805
+    },
+    {
+      "site": "JobGurus",
+      "id": "3e08e712dc28f40a3862690ea16f4f79",
+      "timestamp": 1776812691696
     }
   ],
   "assets microfinance bank": [
@@ -24059,8 +24064,8 @@
   "peopleplusng": [
     {
       "site": "JobGurus",
-      "id": "c3ff3bea999602cb4fc84b408ebc8407",
-      "timestamp": 1766406916413
+      "id": "b7d8546e178aad97a1c52b859259373e",
+      "timestamp": 1776812691696
     }
   ],
   "the lamb academy": [
@@ -27517,6 +27522,11 @@
       "site": "JobGurus",
       "id": "60699b0e6a4bd63c4a911034f419bd94",
       "timestamp": 1776802418953
+    },
+    {
+      "site": "JobGurus",
+      "id": "64fd07cd7797e72d6adcc124ab3af965",
+      "timestamp": 1776812691696
     }
   ],
   "soar with us": [
@@ -30671,6 +30681,20 @@
       "site": "JobGurus",
       "id": "98ff70dee64f558026576f3cc136ec9d",
       "timestamp": 1776809157731
+    }
+  ],
+  "g.u ebeco industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "3bf218bf1c0af87fc79c496d9d96ab54",
+      "timestamp": 1776812691696
+    }
+  ],
+  "dwellion design": [
+    {
+      "site": "JobGurus",
+      "id": "25d57fc87ed2eccf187a737692f0d9e9",
+      "timestamp": 1776812691696
     }
   ]
 }
