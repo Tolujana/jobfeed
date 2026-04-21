@@ -537,6 +537,11 @@
       "site": "JobGurus",
       "id": "f860c0bed3cee5d7ad773be4d4e84cba",
       "timestamp": 1776283960336
+    },
+    {
+      "site": "JobGurus",
+      "id": "4eff8274eb24e18ccc61710883a03a4e",
+      "timestamp": 1776802418953
     }
   ],
   "abbfem group": [
@@ -27507,6 +27512,11 @@
       "site": "JobGurus",
       "id": "c9a8fb91151aed4380d9155a5f3b7d46",
       "timestamp": 1776794216619
+    },
+    {
+      "site": "JobGurus",
+      "id": "60699b0e6a4bd63c4a911034f419bd94",
+      "timestamp": 1776802418953
     }
   ],
   "soar with us": [
@@ -28429,8 +28439,8 @@
   "ekris bio health foods nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "2d01c8cc2db8b2e32561f7104d24de8c",
-      "timestamp": 1774280020366
+      "id": "cb33b17bfc1176f96ec8895d057fdb46",
+      "timestamp": 1776802418953
     }
   ],
   "africa metals & minerals (ammc)": [
@@ -30626,6 +30636,20 @@
       "site": "JobGurus",
       "id": "5de37c2d7c87779f026b8eae96c181f2",
       "timestamp": 1776790511084
+    }
+  ],
+  "vitel wireless limited": [
+    {
+      "site": "JobGurus",
+      "id": "fb5f20bbf04c5741b52785210c5d65c2",
+      "timestamp": 1776802418953
+    }
+  ],
+  "mandilas group limited": [
+    {
+      "site": "JobGurus",
+      "id": "7e54da6d28d4ce188f26ad0054a26722",
+      "timestamp": 1776802418953
     }
   ]
 }
