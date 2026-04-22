@@ -3282,6 +3282,11 @@
       "site": "JobGurus",
       "id": "d97af293b436a052468af3d5c327e518",
       "timestamp": 1776523620014
+    },
+    {
+      "site": "JobGurus",
+      "id": "8111bc4b8e1642fdda1d4ce3d4a83e7a",
+      "timestamp": 1776885252893
     }
   ],
   "smartcity plc": [
@@ -3294,13 +3299,13 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "2163cda9b0ea093f52d3201738f54457",
-      "timestamp": 1776188459937
+      "id": "c4934eb17d0c8c8031182068be15b5ec",
+      "timestamp": 1776523620014
     },
     {
       "site": "JobGurus",
-      "id": "c4934eb17d0c8c8031182068be15b5ec",
-      "timestamp": 1776523620014
+      "id": "a85d0bc14889764c3e0a553f16e1499d",
+      "timestamp": 1776885252893
     }
   ],
   "abnl limited": [
@@ -24840,8 +24845,8 @@
   "spatial haven limited": [
     {
       "site": "JobGurus",
-      "id": "b6f20cb7bfb2e51f051f7945a9529c96",
-      "timestamp": 1767782871852
+      "id": "c6e8a24283e13c6f39c32755ace84b24",
+      "timestamp": 1776885252893
     }
   ],
   "lenco": [
@@ -28591,8 +28596,8 @@
   "project affluence limited": [
     {
       "site": "JobGurus",
-      "id": "f6689dc64c5fdcf012f9ab0a118b7359",
-      "timestamp": 1773783198615
+      "id": "c60b7e720f7bcd36a9ecb990009ece13",
+      "timestamp": 1776885252893
     }
   ],
   "smart nuel communications limited": [
@@ -30739,6 +30744,13 @@
       "site": "JobGurus",
       "id": "f2e64e13b9106d90e88faf8da751efaa",
       "timestamp": 1776880614692
+    }
+  ],
+  " dag industries nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "710edeb647c24a597064858bb8cbfb0d",
+      "timestamp": 1776885252893
     }
   ]
 }
