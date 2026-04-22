@@ -3716,8 +3716,8 @@
   "cen global services limited": [
     {
       "site": "JobGurus",
-      "id": "63b3e5976b0e3b7b77d758bc98f2a8e3",
-      "timestamp": 1773316216593
+      "id": "a2bb65b6bdff35bdc068a7b880c12405",
+      "timestamp": 1776880614692
     }
   ],
   "technoserve": [
@@ -8674,13 +8674,8 @@
   "aava brands limited": [
     {
       "site": "JobGurus",
-      "id": "28e85723298b6607391df18019a2fda6",
-      "timestamp": 1775659888487
-    },
-    {
-      "site": "JobGurus",
-      "id": "62ae54733d6ee29bf45912d533167faf",
-      "timestamp": 1775659888487
+      "id": "2a602d6ca70a9d4da08e28a82e701b07",
+      "timestamp": 1776880614692
     }
   ],
   "smash technology limited": [
@@ -10903,8 +10898,8 @@
   "wemy industries limited": [
     {
       "site": "JobGurus",
-      "id": "4c5108afde89166a1da0823283ac829f",
-      "timestamp": 1762267430951
+      "id": "57b8a2d15f86d94e59538402d792a82c",
+      "timestamp": 1776880614692
     }
   ],
   "skyline international tourism & hospitality limited (sith)": [
@@ -12057,8 +12052,8 @@
   "bosak microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "d35148001723ec3e88a9480c062e1a04",
-      "timestamp": 1776178723606
+      "id": "54a3f746c3f3510f54a4631e6452ec14",
+      "timestamp": 1776880614692
     }
   ],
   "first ally capital": [
@@ -30737,6 +30732,13 @@
       "site": "JobGurus",
       "id": "881f5892c8ee73f15e36c5d640cb76c3",
       "timestamp": 1776875761440
+    }
+  ],
+  "puffzz dessert": [
+    {
+      "site": "JobGurus",
+      "id": "f2e64e13b9106d90e88faf8da751efaa",
+      "timestamp": 1776880614692
     }
   ]
 }
