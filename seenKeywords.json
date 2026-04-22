@@ -8254,8 +8254,8 @@
   "onyx beauty hub": [
     {
       "site": "JobGurus",
-      "id": "139ad6c4a2348ef249ab7adf80f7a7e5",
-      "timestamp": 1762345990372
+      "id": "b1512fb05eaa44162b7fafc1168b5c2c",
+      "timestamp": 1776889732656
     }
   ],
   "cuanu consult": [
@@ -10924,18 +10924,8 @@
   "alister greene consulting": [
     {
       "site": "JobGurus",
-      "id": "bb00870ec9f2ae180691834b100bd01c",
-      "timestamp": 1754394015156
-    },
-    {
-      "site": "JobGurus",
-      "id": "7c6e3a526afcff69bdc49fb0e04e4bf1",
-      "timestamp": 1754573853119
-    },
-    {
-      "site": "JobGurus",
-      "id": "3a8b61f3745602f1b2f2e34d92115959",
-      "timestamp": 1754578171901
+      "id": "b298e1fb7ec64159c5cf8a45ffcd5371",
+      "timestamp": 1776889732656
     }
   ],
   "deradelight technologies": [
@@ -21234,8 +21224,8 @@
   "goldplates feast house": [
     {
       "site": "JobGurus",
-      "id": "a5823bc4dfa44db1d00817d68cfa6d19",
-      "timestamp": 1773088119139
+      "id": "701fbd1ed649bc9e14639e3d2e15b069",
+      "timestamp": 1776889732656
     }
   ],
   "r.t. briscoe nigeria plc": [
@@ -30751,6 +30741,13 @@
       "site": "JobGurus",
       "id": "710edeb647c24a597064858bb8cbfb0d",
       "timestamp": 1776885252893
+    }
+  ],
+  "honda manufacturing nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "a0f5a7cbb6d9b0454e08838691865c1c",
+      "timestamp": 1776889732656
     }
   ]
 }
