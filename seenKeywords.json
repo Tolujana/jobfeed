@@ -4071,13 +4071,8 @@
   "wts energy": [
     {
       "site": "JobGurus",
-      "id": "b2bb45e46e850d56bced1cc18bb96f70",
-      "timestamp": 1775835984124
-    },
-    {
-      "site": "JobGurus",
-      "id": "ec463c8b89d05d8acd58576c7ffab571",
-      "timestamp": 1776101782431
+      "id": "f00f6bf7ebb9011b1ade724228e4934b",
+      "timestamp": 1776870508520
     }
   ],
   "prixair group": [
@@ -30697,6 +30692,25 @@
       "site": "JobGurus",
       "id": "060fb9119f60389ed18572142d21fd92",
       "timestamp": 1776815974855
+    }
+  ],
+  "transitedge solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "bdeadcc1a6338f9a33794125be340947",
+      "timestamp": 1776870508520
+    }
+  ],
+  "avr energies": [
+    {
+      "site": "JobGurus",
+      "id": "d65c30ce22b67e40c3e50d4951afc942",
+      "timestamp": 1776870508520
+    },
+    {
+      "site": "JobGurus",
+      "id": "fd7c6948caa344f3ee29a72cdba36ce6",
+      "timestamp": 1776870508520
     }
   ]
 }
