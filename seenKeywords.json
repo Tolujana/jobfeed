@@ -8862,8 +8862,8 @@
   "beneprojecti nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6f3227b574498ef0b8a4a7da0fee94f9",
-      "timestamp": 1761936507730
+      "id": "c11a2f4ff10522e9ab7fc938d18adf77",
+      "timestamp": 1776967593004
     }
   ],
   "the o lounge": [
@@ -25889,8 +25889,8 @@
   "hyatt regency": [
     {
       "site": "JobGurus",
-      "id": "b713efd6933c86b83c0e82011b7a3e76",
-      "timestamp": 1774541305535
+      "id": "6d2385ec9720ef56ab760a274832dd43",
+      "timestamp": 1776967593004
     }
   ],
   "wearing cloud ng": [
@@ -30774,6 +30774,25 @@
       "site": "JobGurus",
       "id": "dfd8de0070992547df834d29a2247327",
       "timestamp": 1776963473896
+    }
+  ],
+  "egatee online ecommerce": [
+    {
+      "site": "JobGurus",
+      "id": "8b23188e82b5e4b6e4d3d67f0ad83c04",
+      "timestamp": 1776967593004
+    },
+    {
+      "site": "JobGurus",
+      "id": "ee2c13cd5048796d9db6fb3125ab0d03",
+      "timestamp": 1776967593004
+    }
+  ],
+  "cyforce security": [
+    {
+      "site": "JobGurus",
+      "id": "7ec37e5c06d48619e806325eae38a868",
+      "timestamp": 1776967593004
     }
   ]
 }
