@@ -2113,13 +2113,8 @@
   "the startup place limited": [
     {
       "site": "JobGurus",
-      "id": "75d08f9d51b7d58fbb9f15a7dd64db43",
-      "timestamp": 1769082222237
-    },
-    {
-      "site": "JobGurus",
-      "id": "ea3c89bf53f08ffcb0d1556ef92fd42c",
-      "timestamp": 1769082222237
+      "id": "ecbb5b2afe01514e19e5c737411f6092",
+      "timestamp": 1776944249075
     }
   ],
   "cometstar industrial gases limited": [
@@ -11391,8 +11386,8 @@
   "hotnaija": [
     {
       "site": "JobGurus",
-      "id": "b472d55e8b05b5b8ebac796ed6e92291",
-      "timestamp": 1754653191308
+      "id": "26f0e068e51130bddcdfedbf83e748aa",
+      "timestamp": 1776944249075
     }
   ],
   "mo prints": [
@@ -30767,6 +30762,27 @@
       "site": "JobGurus",
       "id": "5762bd3b26c3895e5c85b316ce457826",
       "timestamp": 1776893228460
+    }
+  ],
+  "sovereign finance limited": [
+    {
+      "site": "JobGurus",
+      "id": "859f0f57c1e0d574ed66404cf7766daf",
+      "timestamp": 1776944249075
+    }
+  ],
+  "cheaper beta enterprises": [
+    {
+      "site": "JobGurus",
+      "id": "a3c29027e92ab8f630b85c2487cf40eb",
+      "timestamp": 1776944249075
+    }
+  ],
+  "ajayi crowther university": [
+    {
+      "site": "JobGurus",
+      "id": "45985eda2d0fc3d2be1b60cca3708925",
+      "timestamp": 1776944249075
     }
   ]
 }
