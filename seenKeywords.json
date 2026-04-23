@@ -1112,13 +1112,8 @@
   "cobranet limited": [
     {
       "site": "JobGurus",
-      "id": "5daed0a0fc36ab99a5c6e8c1cdd2635f",
-      "timestamp": 1774624435427
-    },
-    {
-      "site": "JobGurus",
-      "id": "436b44eb8c8337562054febfb9e2dc9d",
-      "timestamp": 1774894292058
+      "id": "92e80100af99052959c61bad6da810d0",
+      "timestamp": 1776963473896
     }
   ],
   "habaripay limited": [
@@ -2752,8 +2747,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "6991ed1cc274657773ed34dfea6fcff4",
-      "timestamp": 1774899155851
+      "id": "c650a848f596554b9f714d3fec39cba9",
+      "timestamp": 1776963473896
     }
   ],
   "netcom africa": [
@@ -13241,8 +13236,8 @@
   "pally agro products limited": [
     {
       "site": "JobGurus",
-      "id": "e39f816766ba1534a52b2b19a318c312",
-      "timestamp": 1760715543809
+      "id": "72509dd5762c20c1395d7a63856e8e58",
+      "timestamp": 1776963473896
     }
   ],
   "eni nigeria": [
@@ -30765,6 +30760,20 @@
       "site": "JobGurus",
       "id": "9b67ea676b1b95ed8bd464a0c68095e0",
       "timestamp": 1776957894250
+    }
+  ],
+  "natafamdavid consulting nigeria limited i": [
+    {
+      "site": "JobGurus",
+      "id": "c0a03e4a4132c922a04774bddc855996",
+      "timestamp": 1776963473896
+    }
+  ],
+  "morkem nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "dfd8de0070992547df834d29a2247327",
+      "timestamp": 1776963473896
     }
   ]
 }
