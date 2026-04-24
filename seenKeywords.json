@@ -525,13 +525,13 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "f860c0bed3cee5d7ad773be4d4e84cba",
-      "timestamp": 1776283960336
+      "id": "4eff8274eb24e18ccc61710883a03a4e",
+      "timestamp": 1776802418953
     },
     {
       "site": "JobGurus",
-      "id": "4eff8274eb24e18ccc61710883a03a4e",
-      "timestamp": 1776802418953
+      "id": "c7cd1f3ca53129ad45199e6b9b9897fd",
+      "timestamp": 1777027780229
     }
   ],
   "abbfem group": [
@@ -4903,8 +4903,8 @@
   "future moves recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "f0ab7c58199060d0822e4bbf9f6d59bf",
-      "timestamp": 1774295077635
+      "id": "09269a597a244da86086627caaad8879",
+      "timestamp": 1777027780229
     }
   ],
   "renda limited": [
@@ -4924,13 +4924,8 @@
   "mtn nigeria": [
     {
       "site": "JobGurus",
-      "id": "399188589fd3a31298cd04c3a80e6976",
-      "timestamp": 1773314913325
-    },
-    {
-      "site": "JobGurus",
-      "id": "f793f707a6bc07f9963be63f3abf6360",
-      "timestamp": 1773316216593
+      "id": "43b5f8b0724571ba10a8f3f9b230d7a7",
+      "timestamp": 1777027780229
     }
   ],
   "koins microfinance bank limited": [
@@ -30803,6 +30798,18 @@
       "site": "JobGurus",
       "id": "7ec37e5c06d48619e806325eae38a868",
       "timestamp": 1776967593004
+    }
+  ],
+  "gingerup nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "f2f72262b9243f5f986af7d99b91af4c",
+      "timestamp": 1777027780229
+    },
+    {
+      "site": "JobGurus",
+      "id": "ed6b0f011b933d5d716e5497d2a062d1",
+      "timestamp": 1777027780229
     }
   ]
 }
