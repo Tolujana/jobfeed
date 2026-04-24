@@ -2391,8 +2391,18 @@
   "brainshare technologies & services nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6d61de6e4163807e2eb0a0c5cfeb5d20",
-      "timestamp": 1759412487139
+      "id": "761dd102541c1b64f1573645ea94fe5a",
+      "timestamp": 1777031637876
+    },
+    {
+      "site": "JobGurus",
+      "id": "4f59bc93d7cf7eb76b2ea5885390b6c0",
+      "timestamp": 1777031637876
+    },
+    {
+      "site": "JobGurus",
+      "id": "0a248cb7672a92f8df39dfa2638fe9a4",
+      "timestamp": 1777031637876
     }
   ],
   "monument distillers nigeria limited": [
@@ -30371,8 +30381,8 @@
   "intersos nigeria": [
     {
       "site": "JobGurus",
-      "id": "72ba6bc14c462aa52c3abac48d59ada6",
-      "timestamp": 1776358394717
+      "id": "5017a9b3797ce055af70138d27e0a540",
+      "timestamp": 1777031637876
     }
   ],
   "basic foundation international school": [
@@ -30810,6 +30820,13 @@
       "site": "JobGurus",
       "id": "ed6b0f011b933d5d716e5497d2a062d1",
       "timestamp": 1777027780229
+    }
+  ],
+  "nkoyo pharmaceuticals limited": [
+    {
+      "site": "JobGurus",
+      "id": "8e07c003543b7557d18b3181af1df8ba",
+      "timestamp": 1777031637876
     }
   ]
 }
