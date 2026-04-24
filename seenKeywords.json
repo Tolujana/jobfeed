@@ -2922,8 +2922,8 @@
   "eko maintenance limited": [
     {
       "site": "JobGurus",
-      "id": "16ac2a3c50426c663d7ed53aba7ae5fa",
-      "timestamp": 1775584504923
+      "id": "3ad0049cc20354d77a0928a07cf5f003",
+      "timestamp": 1777042313142
     }
   ],
   "hellofresh fast food": [
@@ -30829,6 +30829,34 @@
       "site": "JobGurus",
       "id": "04be0d7f74fb8797c8e873836b4d2fb6",
       "timestamp": 1777036456512
+    }
+  ],
+  "sterling oil exploration & energy production company limited": [
+    {
+      "site": "JobGurus",
+      "id": "6427045907bab6131a99a1074504670f",
+      "timestamp": 1777042313142
+    }
+  ],
+  "shell petroleum development company (spdc)": [
+    {
+      "site": "JobGurus",
+      "id": "a22a557898eef20efc9821c755d0819e",
+      "timestamp": 1777042313142
+    }
+  ],
+  "zenith precision limited": [
+    {
+      "site": "JobGurus",
+      "id": "f8cf6a0249b1a8f6570e434eaaa9924f",
+      "timestamp": 1777042313142
+    }
+  ],
+  "izili nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "34e595a582f377ec64da045baefb0374",
+      "timestamp": 1777042313142
     }
   ]
 }
