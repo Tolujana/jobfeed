@@ -563,8 +563,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "f0f159d9bf1a5e08b384ece465852cda",
-      "timestamp": 1774627893377
+      "id": "ed69bb128533ffe92d846fed912f2fff",
+      "timestamp": 1777046483761
     }
   ],
   "food concepts plc": [
@@ -1793,8 +1793,8 @@
   "supersaver supermarket": [
     {
       "site": "JobGurus",
-      "id": "dd6363f40a902fa23e1710b56fc1ec09",
-      "timestamp": 1770452739280
+      "id": "53201480043957f7e5cafa8be64aa586",
+      "timestamp": 1777046483761
     }
   ],
   "rubels and angels food court": [
@@ -3646,8 +3646,8 @@
   "cavista": [
     {
       "site": "JobGurus",
-      "id": "e8d4cefef9fa2492b4de4a832b17827c",
-      "timestamp": 1768837692533
+      "id": "9c01068157e1f923c3e17bf714f8b84a",
+      "timestamp": 1777046483761
     }
   ],
   "secom limited": [
@@ -4936,6 +4936,11 @@
       "site": "JobGurus",
       "id": "43b5f8b0724571ba10a8f3f9b230d7a7",
       "timestamp": 1777027780229
+    },
+    {
+      "site": "JobGurus",
+      "id": "eb31d4734694e93a46ed7873716498a5",
+      "timestamp": 1777046483761
     }
   ],
   "koins microfinance bank limited": [
@@ -30857,6 +30862,13 @@
       "site": "JobGurus",
       "id": "34e595a582f377ec64da045baefb0374",
       "timestamp": 1777042313142
+    }
+  ],
+  "community engagement & social development initiative (cesdi)": [
+    {
+      "site": "JobGurus",
+      "id": "7b425d2f4955b667ddd988b743fedd34",
+      "timestamp": 1777046483761
     }
   ]
 }
