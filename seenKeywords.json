@@ -6174,6 +6174,11 @@
       "site": "JobGurus",
       "id": "f89995d8fc78b481a3d029171c624655",
       "timestamp": 1777123323675
+    },
+    {
+      "site": "JobGurus",
+      "id": "d235dbf6d4a844256adaea21de0b257f",
+      "timestamp": 1777126321632
     }
   ],
   "calibration and non-destructive services limited": [
@@ -28600,6 +28605,11 @@
       "site": "JobGurus",
       "id": "09bd042d330263d35f1bfa9384107df3",
       "timestamp": 1777118373934
+    },
+    {
+      "site": "JobGurus",
+      "id": "1a8ebefd7680ee71b6c55d1025a2b2f7",
+      "timestamp": 1777126321632
     }
   ],
   "adventure capital limited": [
@@ -30294,6 +30304,11 @@
       "site": "JobGurus",
       "id": "352de8b794ae31516429be84d71d5500",
       "timestamp": 1777118373934
+    },
+    {
+      "site": "JobGurus",
+      "id": "cf2dfe550397e7e90aed7c014ac73561",
+      "timestamp": 1777126321632
     }
   ],
   "eudora & aegle management consulting": [
@@ -30513,6 +30528,11 @@
       "site": "JobGurus",
       "id": "33c418ea2797bf82202aa082f57a70bb",
       "timestamp": 1776696265805
+    },
+    {
+      "site": "JobGurus",
+      "id": "e82cb0237213197f5b03b82c494d777c",
+      "timestamp": 1777126321632
     }
   ],
   "u.s embassy": [
@@ -30938,6 +30958,13 @@
       "site": "JobGurus",
       "id": "6f701d51e2ff3a9c73c7022b2825ba8a",
       "timestamp": 1777123323675
+    }
+  ],
+  "codar tech africa": [
+    {
+      "site": "JobGurus",
+      "id": "18c7a87cc60a32998bfc6da6c012e1a3",
+      "timestamp": 1777126321632
     }
   ]
 }
