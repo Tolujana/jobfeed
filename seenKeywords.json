@@ -6263,13 +6263,13 @@
   "oppo": [
     {
       "site": "JobGurus",
-      "id": "a01e1dffd78876fd2bd9ad737edd2896",
-      "timestamp": 1776178723606
+      "id": "61605bfb9c6e5ef03e973b230e4fe0f1",
+      "timestamp": 1776722783429
     },
     {
       "site": "JobGurus",
-      "id": "61605bfb9c6e5ef03e973b230e4fe0f1",
-      "timestamp": 1776722783429
+      "id": "76cae7d949659396a254702025647901",
+      "timestamp": 1777112555200
     }
   ],
   "agricare std plus limited": [
@@ -16748,8 +16748,8 @@
   "uwana energy": [
     {
       "site": "JobGurus",
-      "id": "2f1cadcf5893192721f499f1b00cc33e",
-      "timestamp": 1760038542600
+      "id": "79246e6fc20db4161e847af36285eeb5",
+      "timestamp": 1777112555200
     }
   ],
   "energy shield petrochemical limited": [
@@ -25248,8 +25248,8 @@
   "sonia foods industries limited": [
     {
       "site": "JobGurus",
-      "id": "ca40779f4f1f521d43e5182d6ff72843",
-      "timestamp": 1768317642344
+      "id": "802004a206789bde88141c57b0e0888b",
+      "timestamp": 1777112555200
     }
   ],
   "afari travels & tours limited": [
@@ -30898,6 +30898,20 @@
       "site": "JobGurus",
       "id": "dbe5cbe6cf059e79e4adbed875008812",
       "timestamp": 1777053950073
+    }
+  ],
+  "stockgap fuels limited": [
+    {
+      "site": "JobGurus",
+      "id": "0e3e509ad5602229720669145b7b1b30",
+      "timestamp": 1777112555200
+    }
+  ],
+  "dotmac technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "d2c949113a0311410e57581427a56acc",
+      "timestamp": 1777112555200
     }
   ]
 }
