@@ -6169,6 +6169,11 @@
       "site": "JobGurus",
       "id": "74917f538b78a3c32eb887c04a4e67e1",
       "timestamp": 1777118373934
+    },
+    {
+      "site": "JobGurus",
+      "id": "f89995d8fc78b481a3d029171c624655",
+      "timestamp": 1777123323675
     }
   ],
   "calibration and non-destructive services limited": [
@@ -6693,8 +6698,8 @@
   "scruples resources limited": [
     {
       "site": "JobGurus",
-      "id": "f72ac96116d8b98c177754a2daba39ba",
-      "timestamp": 1751668946760
+      "id": "c3fcc7565ea08f3195084642c3ede8c2",
+      "timestamp": 1777123323675
     }
   ],
   "uhy professional services": [
@@ -29699,23 +29704,8 @@
   "itel energy": [
     {
       "site": "JobGurus",
-      "id": "44ff9b143c03c364a8424880bd3bacc4",
-      "timestamp": 1775303444196
-    },
-    {
-      "site": "JobGurus",
-      "id": "9d7fb957dee720276c38f3baac98af42",
-      "timestamp": 1775303444196
-    },
-    {
-      "site": "JobGurus",
-      "id": "e2fcb72f3bbd0df67b68aad52a5fa325",
-      "timestamp": 1775303444196
-    },
-    {
-      "site": "JobGurus",
-      "id": "75fd65dd7beb6bb3cd9e57af47ad9baa",
-      "timestamp": 1775303444196
+      "id": "25570e44618913d23436554b3d863b93",
+      "timestamp": 1777123323675
     }
   ],
   "luxeown technology limited": [
@@ -30934,6 +30924,20 @@
       "site": "JobGurus",
       "id": "a14f6cd44dc980d694cc081ec27bccfc",
       "timestamp": 1777118373934
+    }
+  ],
+  "nobel-eagle industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "d4eeff28d4ef781f9cab1da0a87ca0b2",
+      "timestamp": 1777123323675
+    }
+  ],
+  "the paradigm group": [
+    {
+      "site": "JobGurus",
+      "id": "6f701d51e2ff3a9c73c7022b2825ba8a",
+      "timestamp": 1777123323675
     }
   ]
 }
