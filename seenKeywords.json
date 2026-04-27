@@ -532,6 +532,11 @@
       "site": "JobGurus",
       "id": "c7cd1f3ca53129ad45199e6b9b9897fd",
       "timestamp": 1777027780229
+    },
+    {
+      "site": "JobGurus",
+      "id": "9e9a12053970824defb7599fcd352669",
+      "timestamp": 1777297397958
     }
   ],
   "abbfem group": [
@@ -570,13 +575,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "40011774ffc8e26f84840a9d7757d5de",
-      "timestamp": 1775563651131
-    },
-    {
-      "site": "JobGurus",
-      "id": "6eab070bb6823697b7cc00db6673777e",
-      "timestamp": 1775570762337
+      "id": "145d3dfa67991dcfaa6c0168f052ba50",
+      "timestamp": 1777297397958
     }
   ],
   "divine infinity college": [
@@ -27188,13 +27188,8 @@
   "anas atiantic services limited": [
     {
       "site": "JobGurus",
-      "id": "23e8c7fa418a7ea0518abd0f602d5b6a",
-      "timestamp": 1774349240317
-    },
-    {
-      "site": "JobGurus",
-      "id": "c3ee549c54f945c91c055f2884508255",
-      "timestamp": 1774634969685
+      "id": "dd8d8b16861c53c2cac6fb0b0e864e14",
+      "timestamp": 1777297397958
     }
   ],
   "manufacturers association of nigeria (man)": [
@@ -30965,6 +30960,18 @@
       "site": "JobGurus",
       "id": "18c7a87cc60a32998bfc6da6c012e1a3",
       "timestamp": 1777126321632
+    }
+  ],
+  "yimei nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "41db89829c91e527bd3b2c4c8712240a",
+      "timestamp": 1777297397958
+    },
+    {
+      "site": "JobGurus",
+      "id": "e6b4e1405d3e9ead7560128479300f30",
+      "timestamp": 1777297397958
     }
   ]
 }
