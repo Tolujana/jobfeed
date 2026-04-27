@@ -3379,8 +3379,13 @@
   "first bank of nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "8aa187bdb1a412096357429341e7c0b5",
-      "timestamp": 1769612139440
+      "id": "bc0332791ed8be659c5c7bf3c19d786e",
+      "timestamp": 1777304590796
+    },
+    {
+      "site": "JobGurus",
+      "id": "cbd215b34c5db77b07740a7abe66d873",
+      "timestamp": 1777304590796
     }
   ],
   "daytona peoples pharmacy and supermarket": [
@@ -5869,8 +5874,8 @@
   "henosis international": [
     {
       "site": "JobGurus",
-      "id": "3260b93a4c1a2f5235a492548c9fb65d",
-      "timestamp": 1751365065849
+      "id": "949d9132e5ab6a4268badac0aac8067a",
+      "timestamp": 1777304590796
     }
   ],
   "zte devices": [
@@ -28850,18 +28855,8 @@
   "quadri advisory hr services limited": [
     {
       "site": "JobGurus",
-      "id": "231dcdaf3e5cbbb7926db5b92aa32f55",
-      "timestamp": 1774106480528
-    },
-    {
-      "site": "JobGurus",
-      "id": "ca7a90e3a5a7ab2b488b7f2d6ef34541",
-      "timestamp": 1774106480528
-    },
-    {
-      "site": "JobGurus",
-      "id": "86faca5598d67f5dc67caf817e274857",
-      "timestamp": 1774106480528
+      "id": "169b813da20ba1160612e8eb5e1eaa8e",
+      "timestamp": 1777304590796
     }
   ],
   "starich recycling technology": [
@@ -30972,6 +30967,13 @@
       "site": "JobGurus",
       "id": "e6b4e1405d3e9ead7560128479300f30",
       "timestamp": 1777297397958
+    }
+  ],
+  "mishra global resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "eb2e7b45eb93d96b09fe1dbbfe38d42b",
+      "timestamp": 1777304590796
     }
   ]
 }
