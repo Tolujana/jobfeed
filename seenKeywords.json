@@ -17,8 +17,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "ba328ae68ec8087f2a99ed3a097f4d48",
-      "timestamp": 1776294484290
+      "id": "7887c9643ee3caca5e360a7ea2c3baed",
+      "timestamp": 1777320324640
     }
   ],
   "amecron nigeria limited": [
@@ -4925,6 +4925,11 @@
       "site": "JobGurus",
       "id": "09269a597a244da86086627caaad8879",
       "timestamp": 1777027780229
+    },
+    {
+      "site": "JobGurus",
+      "id": "824f7f40ca649435969d1779c4371bcd",
+      "timestamp": 1777320324640
     }
   ],
   "renda limited": [
@@ -6253,8 +6258,8 @@
   "fastest cakes limited": [
     {
       "site": "JobGurus",
-      "id": "b3c3527792c18e9fb35c0ee94c9d154a",
-      "timestamp": 1772723459167
+      "id": "455f44ffc62793f804fec7d60b43cf54",
+      "timestamp": 1777320324640
     }
   ],
   "gn128 gn128 solutions": [
@@ -30989,6 +30994,20 @@
       "site": "JobGurus",
       "id": "eb2e7b45eb93d96b09fe1dbbfe38d42b",
       "timestamp": 1777304590796
+    }
+  ],
+  "quadri advisory hr services": [
+    {
+      "site": "JobGurus",
+      "id": "91f7422be94fc64f62fbcfe5edbbe45f",
+      "timestamp": 1777320324640
+    }
+  ],
+  "accm global enterprise limited": [
+    {
+      "site": "JobGurus",
+      "id": "a133e0ea2a49be28e693500bf3237334",
+      "timestamp": 1777320324640
     }
   ]
 }
