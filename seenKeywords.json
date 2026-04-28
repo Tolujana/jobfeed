@@ -3653,6 +3653,11 @@
       "site": "JobGurus",
       "id": "9c01068157e1f923c3e17bf714f8b84a",
       "timestamp": 1777046483761
+    },
+    {
+      "site": "JobGurus",
+      "id": "c5012fad116daa5c5ef1a7ce11d35250",
+      "timestamp": 1777413178309
     }
   ],
   "secom limited": [
@@ -4432,8 +4437,8 @@
   "mediplan healthcare limited": [
     {
       "site": "JobGurus",
-      "id": "64db39d9b6e1cc5bffcc8966099cdafe",
-      "timestamp": 1760614572374
+      "id": "b63491aec3c390939645d70d390840ec",
+      "timestamp": 1777413178309
     }
   ],
   "interswitch": [
@@ -18508,8 +18513,8 @@
   "avocado virtual solutions": [
     {
       "site": "JobGurus",
-      "id": "3f74cb9215039ec7c8ceda71cdebd135",
-      "timestamp": 1772793000136
+      "id": "d7578d92643fc9d150c568e4a60e0091",
+      "timestamp": 1777413178309
     }
   ],
   "krishat pharma industries limited": [
@@ -31024,6 +31029,11 @@
       "site": "JobGurus",
       "id": "4d0c7ed4c6f458664c2d6bfa744f1166",
       "timestamp": 1777396183049
+    },
+    {
+      "site": "JobGurus",
+      "id": "f30a5cec4c5aae1bfb71bc277a2055b5",
+      "timestamp": 1777413178309
     }
   ],
   "ceviant payment nigeria limited": [
@@ -31038,6 +31048,13 @@
       "site": "JobGurus",
       "id": "f4c6d66ecd76644439cbba9abf6b505c",
       "timestamp": 1777403034877
+    }
+  ],
+  "thyaura partners concept limited": [
+    {
+      "site": "JobGurus",
+      "id": "f956acd2719261c44fdeb0044000b11b",
+      "timestamp": 1777413178309
     }
   ]
 }
