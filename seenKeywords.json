@@ -1098,8 +1098,8 @@
   "elizabeth maddeux limited": [
     {
       "site": "JobGurus",
-      "id": "f944654664a9b27b270c840f1959a6fb",
-      "timestamp": 1775298534000
+      "id": "6eabf33d1a6df77fe06a1386dd7a7a06",
+      "timestamp": 1777403034877
     }
   ],
   "cashxpress nigeria limited": [
@@ -14385,8 +14385,8 @@
   "online foodstuff store limited": [
     {
       "site": "JobGurus",
-      "id": "67bebd11ad3add81ae02c8390316dfb0",
-      "timestamp": 1757164705939
+      "id": "ce6b3aecf6d6f547fbe1f0e4138f4782",
+      "timestamp": 1777403034877
     }
   ],
   "jasper beryl consulting": [
@@ -30871,6 +30871,11 @@
       "site": "JobGurus",
       "id": "6427045907bab6131a99a1074504670f",
       "timestamp": 1777042313142
+    },
+    {
+      "site": "JobGurus",
+      "id": "92711d1e008d8bf84ce4bcd94329da08",
+      "timestamp": 1777403034877
     }
   ],
   "shell petroleum development company (spdc)": [
@@ -31024,6 +31029,20 @@
       "site": "JobGurus",
       "id": "4d0c7ed4c6f458664c2d6bfa744f1166",
       "timestamp": 1777396183049
+    }
+  ],
+  "ceviant payment nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "403bcc46cb98c9abc5c8270996c3258b",
+      "timestamp": 1777403034877
+    }
+  ],
+  "flexi microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "f4c6d66ecd76644439cbba9abf6b505c",
+      "timestamp": 1777403034877
     }
   ]
 }
