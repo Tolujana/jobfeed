@@ -41,13 +41,8 @@
   "dag industries nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "47f0e681d17d5aeeaeb6968b7f7cb398",
-      "timestamp": 1773060824136
-    },
-    {
-      "site": "JobGurus",
-      "id": "c1049b0873018672d30e8118285f71d2",
-      "timestamp": 1773089975054
+      "id": "a6212c0482243c24af823f5c9f4095ff",
+      "timestamp": 1777396183049
     }
   ],
   "compovine technologies limited": [
@@ -6124,8 +6119,8 @@
   "redswitch collections": [
     {
       "site": "JobGurus",
-      "id": "71d58efdfd78150cff92a948fb7569bd",
-      "timestamp": 1761937886513
+      "id": "027f88d14c9c1aff98b7b766786ad3c5",
+      "timestamp": 1777396183049
     }
   ],
   "hoop telecoms limited": [
@@ -18060,13 +18055,8 @@
   "ganfeng lithium industry limited": [
     {
       "site": "JobGurus",
-      "id": "722f8009d71a4a7549ef35f80eb86f13",
-      "timestamp": 1776287542321
-    },
-    {
-      "site": "JobGurus",
-      "id": "07e39f5033adadd96c17c9054169f72a",
-      "timestamp": 1776290883954
+      "id": "edc5f3be085d6a8fbbaa0a039a1078f8",
+      "timestamp": 1777396183049
     }
   ],
   "clearpay microfinance bank": [
@@ -31020,6 +31010,20 @@
       "site": "JobGurus",
       "id": "f1c54e84f14619a02cfeca7d940c7cbe",
       "timestamp": 1777378300384
+    }
+  ],
+  "carolina logistics": [
+    {
+      "site": "JobGurus",
+      "id": "da7039216c0ee8fa5f4a99093be76887",
+      "timestamp": 1777396183049
+    }
+  ],
+  "consulting and biz solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "4d0c7ed4c6f458664c2d6bfa744f1166",
+      "timestamp": 1777396183049
     }
   ]
 }
