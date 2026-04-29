@@ -2049,8 +2049,8 @@
   "krystal digital solutions limited": [
     {
       "site": "JobGurus",
-      "id": "a4e4974bbb24da606718a47f2abb6097",
-      "timestamp": 1767696505537
+      "id": "5e5c58150d9239962c91912f96e2b283",
+      "timestamp": 1777495086201
     }
   ],
   "traydah global resources limited": [
@@ -22858,8 +22858,8 @@
   "jv management consulting": [
     {
       "site": "JobGurus",
-      "id": "53ef19435e0e0fb1294dc780a29e470a",
-      "timestamp": 1773158678503
+      "id": "7840329cd76083ce4efbfda6d50c132d",
+      "timestamp": 1777495086201
     }
   ],
   "doii design limited": [
@@ -31090,6 +31090,27 @@
       "site": "JobGurus",
       "id": "742f771a785096573684ad18cc3e0f52",
       "timestamp": 1777485314816
+    }
+  ],
+  "rihsparkles people consult": [
+    {
+      "site": "JobGurus",
+      "id": "637383b31b5b20c77933ddaec3af8c93",
+      "timestamp": 1777495086201
+    }
+  ],
+  "hanamera recruitment and consulting services": [
+    {
+      "site": "JobGurus",
+      "id": "2ec0eef46d34943de564a2f5ff4ea6fc",
+      "timestamp": 1777495086201
+    }
+  ],
+  "infitech global solutions": [
+    {
+      "site": "JobGurus",
+      "id": "2fb7791b19942b7f0470b12615108101",
+      "timestamp": 1777495086201
     }
   ]
 }
