@@ -2866,6 +2866,11 @@
       "site": "JobGurus",
       "id": "4ce0ff0d13aaeea5f5c242f48a1c3e70",
       "timestamp": 1777490297076
+    },
+    {
+      "site": "JobGurus",
+      "id": "46602925a046645bc487aac94705fa15",
+      "timestamp": 1777499751115
     }
   ],
   "total secure nigeria limited": [
@@ -20704,8 +20709,8 @@
   "wema bank plc": [
     {
       "site": "JobGurus",
-      "id": "58d14ec1f6872a85ce9468963fa8b231",
-      "timestamp": 1776097072243
+      "id": "df263e2d30456af8744ef065792dbb99",
+      "timestamp": 1777499751115
     }
   ],
   "solidarités international (si)": [
@@ -31111,6 +31116,27 @@
       "site": "JobGurus",
       "id": "2fb7791b19942b7f0470b12615108101",
       "timestamp": 1777495086201
+    }
+  ],
+  "talenmo": [
+    {
+      "site": "JobGurus",
+      "id": "28b8a62568c2d3d48359b0eaab90dd06",
+      "timestamp": 1777499751115
+    }
+  ],
+  "leen premium limited": [
+    {
+      "site": "JobGurus",
+      "id": "b85f9e823775344c3d2c5c6d90bc61bc",
+      "timestamp": 1777499751115
+    }
+  ],
+  "the brickhall school": [
+    {
+      "site": "JobGurus",
+      "id": "1c78477bd35d382804fb3a20f7fe18c5",
+      "timestamp": 1777499751115
     }
   ]
 }
