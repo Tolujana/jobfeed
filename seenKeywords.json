@@ -116,8 +116,8 @@
   "african industries group": [
     {
       "site": "JobGurus",
-      "id": "65a2515f0a387d814d04a8718dfc88bc",
-      "timestamp": 1774477879970
+      "id": "ca81204e85c7e190ed676a6c98e69f75",
+      "timestamp": 1777557482082
     }
   ],
   "residency hotel limited": [
@@ -11787,8 +11787,8 @@
   "helium health": [
     {
       "site": "JobGurus",
-      "id": "d69a0c50e60b199385d41bfb61b17ac4",
-      "timestamp": 1755098049718
+      "id": "3583c9dd1c13a52d7523388f45dba357",
+      "timestamp": 1777557482082
     }
   ],
   "levitikal group": [
@@ -21014,13 +21014,8 @@
   "talentnova hr": [
     {
       "site": "JobGurus",
-      "id": "13182dc84c52e9b03808d831deda337b",
-      "timestamp": 1776340537416
-    },
-    {
-      "site": "JobGurus",
-      "id": "dbb51184cb50461b60445c238421d587",
-      "timestamp": 1776798778796
+      "id": "5ef949986a603305998a9275e20f3687",
+      "timestamp": 1777557482082
     }
   ],
   "wallthorpe consulting": [
@@ -28370,8 +28365,8 @@
   "forth urban limited": [
     {
       "site": "JobGurus",
-      "id": "499cb271ccc65e23706f9a6939fdf290",
-      "timestamp": 1773433793229
+      "id": "74103c84bac39d73c22a684bfb25f0ab",
+      "timestamp": 1777557482082
     }
   ],
   "dreamcity capital": [
@@ -31145,6 +31140,13 @@
       "site": "JobGurus",
       "id": "ad8b52d900d80362b7da6644ee6ec836",
       "timestamp": 1777506660893
+    }
+  ],
+  "wootlab innovations": [
+    {
+      "site": "JobGurus",
+      "id": "67c628894f5b72edb33856be187cd439",
+      "timestamp": 1777557482082
     }
   ]
 }
