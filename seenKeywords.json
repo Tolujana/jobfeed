@@ -1711,8 +1711,8 @@
   "efezi southsea nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6b4dd63e4dc908dbf750870231e48827",
-      "timestamp": 1774541305535
+      "id": "1011ce02f8143e423b89e6278f51832c",
+      "timestamp": 1777569335849
     }
   ],
   "styaks legal": [
@@ -7915,8 +7915,8 @@
   "troop pharmaceuticals limited": [
     {
       "site": "JobGurus",
-      "id": "bb216fa943b36a19768fb299724d0c9d",
-      "timestamp": 1752521849163
+      "id": "41a833847907dea8bfd20aed2b4b5489",
+      "timestamp": 1777569335849
     }
   ],
   "talent-nest recruitment hub": [
@@ -22840,6 +22840,11 @@
       "site": "JobGurus",
       "id": "7840329cd76083ce4efbfda6d50c132d",
       "timestamp": 1777495086201
+    },
+    {
+      "site": "JobGurus",
+      "id": "71deeac858bc20dcae764ddd56c91413",
+      "timestamp": 1777569335849
     }
   ],
   "doii design limited": [
@@ -31168,6 +31173,20 @@
       "site": "JobGurus",
       "id": "8627023e70ddaf6734b5255a182c5206",
       "timestamp": 1777564058747
+    }
+  ],
+  "popville luxury homes": [
+    {
+      "site": "JobGurus",
+      "id": "914d0865d99db746b491dc45f0981ace",
+      "timestamp": 1777569335849
+    }
+  ],
+  "diamond shine nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "1f06ed0ef3b50afa249647b85c4a283c",
+      "timestamp": 1777569335849
     }
   ]
 }
