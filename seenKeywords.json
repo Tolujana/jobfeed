@@ -537,6 +537,11 @@
       "site": "JobGurus",
       "id": "c831f8fb01ff989b8c9626e55786846e",
       "timestamp": 1777479049642
+    },
+    {
+      "site": "JobGurus",
+      "id": "fe8bf850396b4af92b4acc72b768102e",
+      "timestamp": 1777575059870
     }
   ],
   "abbfem group": [
@@ -19513,8 +19518,8 @@
   "savannah energy": [
     {
       "site": "JobGurus",
-      "id": "2518b3f2f69035068e89f9d3c2dd7569",
-      "timestamp": 1776274629569
+      "id": "cf5c9febe0131436297c69df06658d96",
+      "timestamp": 1777575059870
     }
   ],
   "aim consultants limited": [
@@ -28330,8 +28335,8 @@
   "digital ehealth solutions limited": [
     {
       "site": "JobGurus",
-      "id": "09cf22068c36598d3496b7f46d2356de",
-      "timestamp": 1773341250205
+      "id": "55fe0ca41aef4d785bda88eb896f7379",
+      "timestamp": 1777575059870
     }
   ],
   "belton global limited": [
@@ -29867,8 +29872,8 @@
   "resurgir consulting": [
     {
       "site": "JobGurus",
-      "id": "03979a8d322fdebe9b0eef6483a0be17",
-      "timestamp": 1775595070261
+      "id": "5b53d97ff072fdfac4904d9896394b8c",
+      "timestamp": 1777575059870
     }
   ],
   "international workplace group (iwg)": [
@@ -31187,6 +31192,13 @@
       "site": "JobGurus",
       "id": "1f06ed0ef3b50afa249647b85c4a283c",
       "timestamp": 1777569335849
+    }
+  ],
+  "c&k temp gates nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "007c5b8701d2dac09309b46df836d13b",
+      "timestamp": 1777575059870
     }
   ]
 }
