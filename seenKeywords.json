@@ -2290,8 +2290,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "a7097e2f9534bab45a91fd2740d4b313",
-      "timestamp": 1773783198615
+      "id": "66a78679179d982385595f132c69ca1d",
+      "timestamp": 1777564058747
     }
   ],
   "fgs limited": [
@@ -3348,8 +3348,8 @@
   "divine ag solutions limited": [
     {
       "site": "JobGurus",
-      "id": "8e6fc6569f945e3eb5bcae216cba8dbd",
-      "timestamp": 1776440087018
+      "id": "b3f103b87fcc3d8a7e35f8769eff31b2",
+      "timestamp": 1777564058747
     }
   ],
   "r & r recruitment services": [
@@ -31147,6 +31147,27 @@
       "site": "JobGurus",
       "id": "67c628894f5b72edb33856be187cd439",
       "timestamp": 1777557482082
+    }
+  ],
+  "siao partners": [
+    {
+      "site": "JobGurus",
+      "id": "3f4837e652b3a5b0cf061fdeb969022a",
+      "timestamp": 1777564058747
+    }
+  ],
+  "the global alliance for improved nutrition (gain)": [
+    {
+      "site": "JobGurus",
+      "id": "12a878c619b98b8fc23731cf02231af0",
+      "timestamp": 1777564058747
+    }
+  ],
+  "onyibiz consult & insight": [
+    {
+      "site": "JobGurus",
+      "id": "8627023e70ddaf6734b5255a182c5206",
+      "timestamp": 1777564058747
     }
   ]
 }
