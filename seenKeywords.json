@@ -5348,8 +5348,8 @@
   "oyomesi specialist hospital": [
     {
       "site": "JobGurus",
-      "id": "65f523506a0c88d628bb1f760be053ba",
-      "timestamp": 1750965141216
+      "id": "fb9514051ccc1c2063c1b6f6bc978faa",
+      "timestamp": 1777654397927
     }
   ],
   "bakangizo pharmacy and stores": [
@@ -11115,6 +11115,11 @@
       "site": "JobGurus",
       "id": "2eaba1a90b2119360dc7f55df2065070",
       "timestamp": 1777650784927
+    },
+    {
+      "site": "JobGurus",
+      "id": "ee0858b89dcf544985a15961ab8e886d",
+      "timestamp": 1777654397927
     }
   ],
   "new city university": [
@@ -21172,8 +21177,8 @@
   "alliance hospital and services limited": [
     {
       "site": "JobGurus",
-      "id": "47db7b8fefab7c1aba7e38a2f8aaeb1d",
-      "timestamp": 1763123562809
+      "id": "5e1a6a93d2f310a3aa8d9f2198aad351",
+      "timestamp": 1777654397927
     }
   ],
   "m+azeezco international limited": [
@@ -30682,8 +30687,8 @@
   "transitedge solutions limited": [
     {
       "site": "JobGurus",
-      "id": "bdeadcc1a6338f9a33794125be340947",
-      "timestamp": 1776870508520
+      "id": "69769c47f248c93d0dc210841ac15bd3",
+      "timestamp": 1777654397927
     }
   ],
   "avr energies": [
@@ -31298,6 +31303,13 @@
       "site": "JobGurus",
       "id": "b07c2e285e35ba5464ae1a2bd0041735",
       "timestamp": 1777650784927
+    }
+  ],
+  "saek": [
+    {
+      "site": "JobGurus",
+      "id": "a2443db2d86c1854a66bb3a280c6e0e1",
+      "timestamp": 1777654397927
     }
   ]
 }
