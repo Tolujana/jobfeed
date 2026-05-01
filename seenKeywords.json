@@ -10331,8 +10331,13 @@
   "trovest capital partners": [
     {
       "site": "JobGurus",
-      "id": "4db379037670fb5121898b8793ac5327",
-      "timestamp": 1769441097580
+      "id": "8d85233762eb809271ab39b54433bbdb",
+      "timestamp": 1777635423149
+    },
+    {
+      "site": "JobGurus",
+      "id": "e9c8f6f09210474b4ae2f4fa0e265096",
+      "timestamp": 1777635423149
     }
   ],
   "residence 541": [
@@ -29968,6 +29973,16 @@
       "site": "JobGurus",
       "id": "10a76f6acb0639f48600d6c78fdf0894",
       "timestamp": 1777503227831
+    },
+    {
+      "site": "JobGurus",
+      "id": "592fe19cff5163a52e59fd8a5b59e475",
+      "timestamp": 1777635423149
+    },
+    {
+      "site": "JobGurus",
+      "id": "c06544cd164181755a5576b03d6cd569",
+      "timestamp": 1777635423149
     }
   ],
   "nycil limited": [
@@ -31207,6 +31222,13 @@
       "site": "JobGurus",
       "id": "20e2508a8812973d758772b1e7a05911",
       "timestamp": 1777629951209
+    }
+  ],
+  "fortitude-iot (fiot)": [
+    {
+      "site": "JobGurus",
+      "id": "151a68b07f65260518d2855e1abae089",
+      "timestamp": 1777635423149
     }
   ]
 }
