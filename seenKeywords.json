@@ -2330,6 +2330,11 @@
       "site": "JobGurus",
       "id": "4338058ce463df756c801f68127e048f",
       "timestamp": 1777506660893
+    },
+    {
+      "site": "JobGurus",
+      "id": "a5eb16631a4405e890f17a4fc7cbd3dd",
+      "timestamp": 1777914663210
     }
   ],
   "federal polytechnic, bida.": [
@@ -15578,8 +15583,8 @@
   "cross beverage company limited": [
     {
       "site": "JobGurus",
-      "id": "52e77e5625e2f316ba435da75bb30321",
-      "timestamp": 1769444906845
+      "id": "0fcb868cf36660e9bb7370a3f0681862",
+      "timestamp": 1777914663210
     }
   ],
   "structured resource business limited": [
@@ -17993,8 +17998,8 @@
   "contec global group": [
     {
       "site": "JobGurus",
-      "id": "02b0fa9995d6cf505f0c865634bd6b0d",
-      "timestamp": 1774275368003
+      "id": "81bdbe0d4263d6e08874233184d18a6e",
+      "timestamp": 1777914663210
     }
   ],
   "human-aware real-time solutions limited": [
@@ -30315,8 +30320,8 @@
   "iraizickify business store": [
     {
       "site": "JobGurus",
-      "id": "d94eb7ef76e61c1bf9d2a5706504d062",
-      "timestamp": 1776280165445
+      "id": "b79d515ca7e383ed72f59e5186464e88",
+      "timestamp": 1777914663210
     }
   ],
   "savgret consulting limited": [
@@ -31384,6 +31389,13 @@
       "site": "JobGurus",
       "id": "373aafc1ab868a378a6d59b2dadf7d3a",
       "timestamp": 1777899876689
+    }
+  ],
+  "zinance limited": [
+    {
+      "site": "JobGurus",
+      "id": "55a7167dba9547479702fb3e4eed2eca",
+      "timestamp": 1777914663210
     }
   ]
 }
