@@ -15341,8 +15341,8 @@
   "m-kopa nigeria": [
     {
       "site": "JobGurus",
-      "id": "9fdc5e947d4177573b36576e66f57fe9",
-      "timestamp": 1764870246589
+      "id": "369373d66c03504e1fcc2b12b15df116",
+      "timestamp": 1777931756738
     }
   ],
   "olam international limited": [
@@ -19795,8 +19795,8 @@
   "stellar international company limited": [
     {
       "site": "JobGurus",
-      "id": "b530fe38747b419786528623b0594497",
-      "timestamp": 1775822638339
+      "id": "ff07da3813c153eda6890a0ee91db030",
+      "timestamp": 1777931756738
     }
   ],
   "ab microfinance bank nigeria": [
@@ -27810,8 +27810,8 @@
   "aquila partners": [
     {
       "site": "JobGurus",
-      "id": "b5ead600323720a49fe84f3afb63c83c",
-      "timestamp": 1772735118243
+      "id": "58f32e06818aac507b25b247768b256c",
+      "timestamp": 1777931756738
     }
   ],
   "christensen heights": [
@@ -31403,6 +31403,11 @@
       "site": "JobGurus",
       "id": "7054530856719c96985b564d10ffbfa8",
       "timestamp": 1777921306441
+    },
+    {
+      "site": "JobGurus",
+      "id": "64508b1ed09138d67d17c32810a70302",
+      "timestamp": 1777931756738
     }
   ],
   "pharma ethics limited": [
@@ -31424,6 +31429,13 @@
       "site": "JobGurus",
       "id": "030318092e664ade308e6fd22ab05159",
       "timestamp": 1777927522649
+    }
+  ],
+  "beacon power services": [
+    {
+      "site": "JobGurus",
+      "id": "774abb005eb3e6b3254850a3ecf625ad",
+      "timestamp": 1777931756738
     }
   ]
 }
