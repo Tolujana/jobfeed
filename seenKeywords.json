@@ -7026,8 +7026,8 @@
   "zhongxin network technology company limited": [
     {
       "site": "JobGurus",
-      "id": "5f1143af45f9932beb716d523bc97b55",
-      "timestamp": 1763211693144
+      "id": "56d124f68bd37a6528eba5641bb39b6e",
+      "timestamp": 1777921306441
     }
   ],
   "gabs cooperative": [
@@ -18142,8 +18142,8 @@
   "joternam limited": [
     {
       "site": "JobGurus",
-      "id": "92cc11291a1396fff5631182c17f7497",
-      "timestamp": 1760379665023
+      "id": "28bd9b3b880c44e508e8b92348210fd7",
+      "timestamp": 1777921306441
     }
   ],
   "cola solar": [
@@ -26369,6 +26369,11 @@
       "site": "JobGurus",
       "id": "37f4a461fe5474fc9efc4b6063bdd24f",
       "timestamp": 1777726834671
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7732e9dee8a7543212615b3da41eefe",
+      "timestamp": 1777921306441
     }
   ],
   "w.else nigeria limited": [
@@ -31396,6 +31401,20 @@
       "site": "JobGurus",
       "id": "55a7167dba9547479702fb3e4eed2eca",
       "timestamp": 1777914663210
+    }
+  ],
+  "free from poverty financial services": [
+    {
+      "site": "JobGurus",
+      "id": "7054530856719c96985b564d10ffbfa8",
+      "timestamp": 1777921306441
+    }
+  ],
+  "pharma ethics limited": [
+    {
+      "site": "JobGurus",
+      "id": "a980dcf93c86a97945bad3ed023ec7f6",
+      "timestamp": 1777921306441
     }
   ]
 }
