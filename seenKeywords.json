@@ -999,6 +999,11 @@
       "site": "JobGurus",
       "id": "24bec0c9c8533e0cf922726ef3e53ec2",
       "timestamp": 1777899876689
+    },
+    {
+      "site": "JobGurus",
+      "id": "dd74fcdfd8a28314560b13b494965497",
+      "timestamp": 1778021501424
     }
   ],
   "zenith carex international limited": [
@@ -29435,8 +29440,8 @@
   "hoganguards limited": [
     {
       "site": "JobGurus",
-      "id": "e920f234bbc6ec1c9317fa48054dca44",
-      "timestamp": 1774996217808
+      "id": "d5377c98e6f2fd781940f64c4f7defc2",
+      "timestamp": 1778021501424
     }
   ],
   "xstheey fashionz": [
@@ -31432,6 +31437,25 @@
       "site": "JobGurus",
       "id": "647fe56bef806d490d79d7f377cacff5",
       "timestamp": 1778011419992
+    }
+  ],
+  "haggai mortgage bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "2c598bfbfee22f3cb7a6c891561fb004",
+      "timestamp": 1778021501424
+    },
+    {
+      "site": "JobGurus",
+      "id": "3ca71f862d77b6034fa72a185093325c",
+      "timestamp": 1778021501424
+    }
+  ],
+  "breadline café": [
+    {
+      "site": "JobGurus",
+      "id": "b94fd51a7f46e526b9354ce4c9acc573",
+      "timestamp": 1778021501424
     }
   ]
 }
