@@ -573,13 +573,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "ed69bb128533ffe92d846fed912f2fff",
-      "timestamp": 1777046483761
-    },
-    {
-      "site": "JobGurus",
-      "id": "f1af4bfb4d20ff5d78854270abefde80",
-      "timestamp": 1777325547368
+      "id": "787088c87a066aa20ea09b62e984ffa2",
+      "timestamp": 1778007094536
     }
   ],
   "food concepts plc": [
@@ -21634,18 +21629,8 @@
   "elite logistics & development services limited": [
     {
       "site": "JobGurus",
-      "id": "b6ebed216fc11d6763fd381026ffab12",
-      "timestamp": 1763578061275
-    },
-    {
-      "site": "JobGurus",
-      "id": "1ab60bad9da6b40f517d53c66e8b595d",
-      "timestamp": 1763579592655
-    },
-    {
-      "site": "JobGurus",
-      "id": "89538c5e330959be8827076b4f767e9f",
-      "timestamp": 1763580982128
+      "id": "8582aa11f71a648257233f100623341b",
+      "timestamp": 1778007094536
     }
   ],
   "nigerian college of agribusiness": [
@@ -30148,8 +30133,8 @@
   "the nigerian capital development fund (ncdf) group": [
     {
       "site": "JobGurus",
-      "id": "319a6c8edc5309b068f02898d0788cdb",
-      "timestamp": 1776086249714
+      "id": "6e9fe6b01995ef339ff8ee8914a46054",
+      "timestamp": 1778007094536
     }
   ],
   "turf arena limited": [
@@ -31436,6 +31421,20 @@
       "site": "JobGurus",
       "id": "774abb005eb3e6b3254850a3ecf625ad",
       "timestamp": 1777931756738
+    }
+  ],
+  "property vision leadgate development limited": [
+    {
+      "site": "JobGurus",
+      "id": "096583db5d03ffa4de667bf6cc365d60",
+      "timestamp": 1778007094536
+    }
+  ],
+  "zeconia gil": [
+    {
+      "site": "JobGurus",
+      "id": "fc2976ba234b4a0c3d7e7ccf66a99637",
+      "timestamp": 1778007094536
     }
   ]
 }
