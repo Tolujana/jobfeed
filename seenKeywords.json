@@ -2282,6 +2282,11 @@
       "site": "JobGurus",
       "id": "66a78679179d982385595f132c69ca1d",
       "timestamp": 1777564058747
+    },
+    {
+      "site": "JobGurus",
+      "id": "4471bc48c463e13fe713a0e1357089b9",
+      "timestamp": 1778011419992
     }
   ],
   "fgs limited": [
@@ -14837,18 +14842,8 @@
   "lovonus microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "65fd73c22fb0b219486076484ddf45f8",
-      "timestamp": 1776193643208
-    },
-    {
-      "site": "JobGurus",
-      "id": "419aeba19adcfcc8cb5d14514c9b3ac3",
-      "timestamp": 1776193643208
-    },
-    {
-      "site": "JobGurus",
-      "id": "7485381d5a631863807089889b8eafe8",
-      "timestamp": 1776193643208
+      "id": "344997de0394ae9adb67673783635253",
+      "timestamp": 1778011419992
     }
   ],
   "iknorbert communications limited": [
@@ -27781,8 +27776,8 @@
   "belton global concern limited": [
     {
       "site": "JobGurus",
-      "id": "85522c518425c63a77ab0c30e30cd3e7",
-      "timestamp": 1772726869641
+      "id": "3fbc5f8d7547453a0147e26f52f6a784",
+      "timestamp": 1778011419992
     }
   ],
   "clinora health group": [
@@ -28535,8 +28530,8 @@
   "turbo group": [
     {
       "site": "JobGurus",
-      "id": "9426acff75e98d12f13fb6baff523192",
-      "timestamp": 1773763261997
+      "id": "b157a22ad7f6424e6f7f29233fb27a94",
+      "timestamp": 1778011419992
     }
   ],
   "johngate industrial company limited": [
@@ -31435,6 +31430,13 @@
       "site": "JobGurus",
       "id": "fc2976ba234b4a0c3d7e7ccf66a99637",
       "timestamp": 1778007094536
+    }
+  ],
+  "avery nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "647fe56bef806d490d79d7f377cacff5",
+      "timestamp": 1778011419992
     }
   ]
 }
