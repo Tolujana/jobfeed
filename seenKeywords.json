@@ -4637,8 +4637,8 @@
   "bretty consultancy services": [
     {
       "site": "JobGurus",
-      "id": "e43d59739ae4eeb005d85c7aa2deaebb",
-      "timestamp": 1770131321557
+      "id": "9f1b6c8f960d5f5bca61a359c96f53d3",
+      "timestamp": 1778103471641
     }
   ],
   "neohomes limited": [
@@ -8294,8 +8294,8 @@
   "onyx beauty hub": [
     {
       "site": "JobGurus",
-      "id": "b1512fb05eaa44162b7fafc1168b5c2c",
-      "timestamp": 1776889732656
+      "id": "5c01f5e6764a3a84161a8c66b10c5bda",
+      "timestamp": 1778103471641
     }
   ],
   "cuanu consult": [
@@ -13403,8 +13403,8 @@
   "permanent capital ventures limited": [
     {
       "site": "JobGurus",
-      "id": "ae4c56aaf5ddf16fd91a4eab68e77abd",
-      "timestamp": 1756402683997
+      "id": "ede4904462be026adcdfe159448253e9",
+      "timestamp": 1778103471641
     }
   ],
   "dangote industries limited": [
@@ -31470,6 +31470,20 @@
       "site": "JobGurus",
       "id": "5e3caf0b8bc2d9970f684b60d4ef3b09",
       "timestamp": 1778098078903
+    }
+  ],
+  "micdee designs limited": [
+    {
+      "site": "JobGurus",
+      "id": "e2a7c7a644128f0f108d8051e305dfc0",
+      "timestamp": 1778103471641
+    }
+  ],
+  "silviarecuits consultancy": [
+    {
+      "site": "JobGurus",
+      "id": "c7f4941eefdb0b6b580fccf45649bc07",
+      "timestamp": 1778103471641
     }
   ]
 }
