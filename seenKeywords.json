@@ -5866,8 +5866,8 @@
   "primovet engineering limited": [
     {
       "site": "JobGurus",
-      "id": "f2d24a14c07aa22dfbb84bf0643cb979",
-      "timestamp": 1764877093609
+      "id": "3d396e76f131ecf00b56d66cc07dd9d1",
+      "timestamp": 1778098078903
     }
   ],
   "alaba shonibare & co": [
@@ -6719,13 +6719,8 @@
   "hr hive": [
     {
       "site": "JobGurus",
-      "id": "aed5ad8cfeacc08c7ae31916927e3714",
-      "timestamp": 1772887082145
-    },
-    {
-      "site": "JobGurus",
-      "id": "195bb1bbc57f33adbff9c427c9ddfab0",
-      "timestamp": 1772887082145
+      "id": "27869b089a9777ed2b96f1f0e7f4fbce",
+      "timestamp": 1778098078903
     }
   ],
   "infinion technologies": [
@@ -23567,13 +23562,8 @@
   "uncle stan's food": [
     {
       "site": "JobGurus",
-      "id": "aa3ece38a7c1225210831b8465d32f2d",
-      "timestamp": 1775490077743
-    },
-    {
-      "site": "JobGurus",
-      "id": "ff1754155e383cc7f7455125a660c32a",
-      "timestamp": 1776086249714
+      "id": "8feb987f829a9ba164a9ffc692177729",
+      "timestamp": 1778098078903
     }
   ],
   "quest employment limited": [
@@ -31468,6 +31458,18 @@
       "site": "JobGurus",
       "id": "606b4f439f664790b5d29cc09f3f09a6",
       "timestamp": 1778091601241
+    }
+  ],
+  "hana-mera recruitment": [
+    {
+      "site": "JobGurus",
+      "id": "fc89a24344df04e410cc486805c2a30d",
+      "timestamp": 1778098078903
+    },
+    {
+      "site": "JobGurus",
+      "id": "5e3caf0b8bc2d9970f684b60d4ef3b09",
+      "timestamp": 1778098078903
     }
   ]
 }
