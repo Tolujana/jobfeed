@@ -3299,13 +3299,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "c4934eb17d0c8c8031182068be15b5ec",
-      "timestamp": 1776523620014
-    },
-    {
-      "site": "JobGurus",
-      "id": "a85d0bc14889764c3e0a553f16e1499d",
-      "timestamp": 1776885252893
+      "id": "bcfde127f3c48eea4694fba0656bbb9d",
+      "timestamp": 1778086710552
     }
   ],
   "abnl limited": [
@@ -10148,8 +10143,8 @@
   "voedsel capital limited": [
     {
       "site": "JobGurus",
-      "id": "fe8155b76278ababa446c78e1d4c9456",
-      "timestamp": 1772628391359
+      "id": "337f64c4f9987be58ff74c02c3121d6f",
+      "timestamp": 1778086710552
     }
   ],
   "7treads consults": [
@@ -15840,13 +15835,8 @@
   "talent pool resources international limited": [
     {
       "site": "JobGurus",
-      "id": "99b138624ac3a4c0d6e298dcb0154cf2",
-      "timestamp": 1776097072243
-    },
-    {
-      "site": "JobGurus",
-      "id": "81536b630f86958f40d511bd0a3def0f",
-      "timestamp": 1776264738435
+      "id": "5371c8ef46fa7adcecb074dee37fa0e9",
+      "timestamp": 1778086710552
     }
   ],
   "crown aegis": [
@@ -31465,6 +31455,20 @@
       "site": "JobGurus",
       "id": "14b476429b1d3c7ce4fa10f4241232e7",
       "timestamp": 1778080171990
+    }
+  ],
+  "kishalom (nigeria) limited": [
+    {
+      "site": "JobGurus",
+      "id": "dea62045eed70281ee9841da4ff3eeac",
+      "timestamp": 1778086710552
+    }
+  ],
+  "sonora capital and investment company": [
+    {
+      "site": "JobGurus",
+      "id": "f17bd75a7affd5f78fb8e991af8ee5d3",
+      "timestamp": 1778086710552
     }
   ]
 }
