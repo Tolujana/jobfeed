@@ -15183,8 +15183,8 @@
   "solar nigachem limited": [
     {
       "site": "JobGurus",
-      "id": "0faad3d0fb52240ee4a2c01ffb1eea37",
-      "timestamp": 1757943668658
+      "id": "5de288312038ca43f66c0155dfa5574b",
+      "timestamp": 1778175818063
     }
   ],
   "molifoods": [
@@ -30930,13 +30930,8 @@
   "yimei nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "41db89829c91e527bd3b2c4c8712240a",
-      "timestamp": 1777297397958
-    },
-    {
-      "site": "JobGurus",
-      "id": "e6b4e1405d3e9ead7560128479300f30",
-      "timestamp": 1777297397958
+      "id": "56ad579d15629f68ad9f96ab72c15a7b",
+      "timestamp": 1778175818063
     }
   ],
   "mishra global resources limited": [
@@ -31525,6 +31520,27 @@
       "site": "JobGurus",
       "id": "b15f4c7b2fa8c6d0846805b5b10802e5",
       "timestamp": 1778168454435
+    }
+  ],
+  "spectrum microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "64a6311ce382c893da271ae1f8777ad0",
+      "timestamp": 1778175818063
+    }
+  ],
+  "quanlee overseas warehouse nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "89e496334ffe32ea43ac3a65b63cb4a8",
+      "timestamp": 1778175818063
+    }
+  ],
+  "flociti gold resources ltd": [
+    {
+      "site": "JobGurus",
+      "id": "3e5398ed450904a38fc3b7212f8ab28a",
+      "timestamp": 1778175818063
     }
   ]
 }
