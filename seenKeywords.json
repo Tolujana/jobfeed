@@ -397,8 +397,8 @@
   "radisson hotel group": [
     {
       "site": "JobGurus",
-      "id": "f07f732fbb9cf1afacd3a19b8e41f355",
-      "timestamp": 1757358748054
+      "id": "67efe100af17382c88d00067a29b0611",
+      "timestamp": 1778182717401
     }
   ],
   "reliance hmo": [
@@ -18508,8 +18508,8 @@
   "avocado virtual solutions": [
     {
       "site": "JobGurus",
-      "id": "d7578d92643fc9d150c568e4a60e0091",
-      "timestamp": 1777413178309
+      "id": "f770fabcfc0f2af9440285af4e927b29",
+      "timestamp": 1778182717401
     }
   ],
   "krishat pharma industries limited": [
@@ -19462,8 +19462,8 @@
   "basscomm nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "ed34e0f0d780aeba775fa8e40516cb53",
-      "timestamp": 1767871037691
+      "id": "6c6024c792dd9322e3724a0de3b1115e",
+      "timestamp": 1778182717401
     }
   ],
   "lovebeams educational centre": [
@@ -31541,6 +31541,13 @@
       "site": "JobGurus",
       "id": "3e5398ed450904a38fc3b7212f8ab28a",
       "timestamp": 1778175818063
+    }
+  ],
+  "mewe electronics": [
+    {
+      "site": "JobGurus",
+      "id": "6b290e914d73bcc3503708f8ca516211",
+      "timestamp": 1778182717401
     }
   ]
 }
