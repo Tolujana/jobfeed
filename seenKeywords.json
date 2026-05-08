@@ -834,23 +834,8 @@
   "unocasa limited": [
     {
       "site": "JobGurus",
-      "id": "519981ac95a747ff86c1658c39a4c5f1",
-      "timestamp": 1775842991865
-    },
-    {
-      "site": "JobGurus",
-      "id": "3a292797358200400c98a6705d12d219",
-      "timestamp": 1775921364528
-    },
-    {
-      "site": "JobGurus",
-      "id": "6c56447832022ebb1fcc4063a60fce65",
-      "timestamp": 1775923057261
-    },
-    {
-      "site": "JobGurus",
-      "id": "dfcdce235360ebf0621ee8165644ff38",
-      "timestamp": 1775923057261
+      "id": "20aa1677e7ea124a368c03e300858f0f",
+      "timestamp": 1778273673396
     }
   ],
   "elvaridah limited": [
@@ -2285,13 +2270,13 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "66a78679179d982385595f132c69ca1d",
-      "timestamp": 1777564058747
+      "id": "4471bc48c463e13fe713a0e1357089b9",
+      "timestamp": 1778011419992
     },
     {
       "site": "JobGurus",
-      "id": "4471bc48c463e13fe713a0e1357089b9",
-      "timestamp": 1778011419992
+      "id": "475371b99ef345c4aee9800768c149b3",
+      "timestamp": 1778273673396
     }
   ],
   "fgs limited": [
@@ -4791,8 +4776,8 @@
   "mwanga limited": [
     {
       "site": "JobGurus",
-      "id": "b25451a8d9a75d7e14d6ab7ab2fa6127",
-      "timestamp": 1769781145603
+      "id": "9df6741f0d79de1ce9b0042c08cc9457",
+      "timestamp": 1778273673396
     }
   ],
   "leam consulting": [
@@ -31051,13 +31036,13 @@
   "talenmo": [
     {
       "site": "JobGurus",
-      "id": "28b8a62568c2d3d48359b0eaab90dd06",
-      "timestamp": 1777499751115
+      "id": "2fd05f0352d890812a21bc7a9e16b251",
+      "timestamp": 1778024601734
     },
     {
       "site": "JobGurus",
-      "id": "2fd05f0352d890812a21bc7a9e16b251",
-      "timestamp": 1778024601734
+      "id": "11718631929b63153e88e5354754973b",
+      "timestamp": 1778273673396
     }
   ],
   "leen premium limited": [
@@ -31606,6 +31591,13 @@
       "site": "JobGurus",
       "id": "0145586ab973ae5753d18953e7768f18",
       "timestamp": 1778263588100
+    }
+  ],
+  "ngcom network solutions": [
+    {
+      "site": "JobGurus",
+      "id": "5ea90e4faa5de0acf2882c118a1c7d80",
+      "timestamp": 1778273673396
     }
   ]
 }
