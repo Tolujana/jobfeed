@@ -2767,8 +2767,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "c650a848f596554b9f714d3fec39cba9",
-      "timestamp": 1776963473896
+      "id": "11b619b89b0e56994643d1fc7cb0db61",
+      "timestamp": 1778252785999
     }
   ],
   "netcom africa": [
@@ -17953,6 +17953,11 @@
       "site": "JobGurus",
       "id": "6829c8e825eccbb564cea920902f0a5c",
       "timestamp": 1777908483480
+    },
+    {
+      "site": "JobGurus",
+      "id": "2046691fe26585cd5b6242f0edb6dec0",
+      "timestamp": 1778252785999
     }
   ],
   "contec global group": [
@@ -30231,18 +30236,8 @@
   "emador nigeria integrated resources": [
     {
       "site": "JobGurus",
-      "id": "165d4fd04a08736306cca23e617aa1ad",
-      "timestamp": 1776268899950
-    },
-    {
-      "site": "JobGurus",
-      "id": "d1eb8b208675016cbf06db9de7584be9",
-      "timestamp": 1776523620014
-    },
-    {
-      "site": "JobGurus",
-      "id": "27fe0b72e1408b51872aa5ffc40631e0",
-      "timestamp": 1776701027219
+      "id": "7d00db8a4cdeeb12f8c56c377f8a7d19",
+      "timestamp": 1778252785999
     }
   ],
   "centric pharmacy nigeria limited": [
@@ -30739,8 +30734,8 @@
   "cheaper beta enterprises": [
     {
       "site": "JobGurus",
-      "id": "a3c29027e92ab8f630b85c2487cf40eb",
-      "timestamp": 1776944249075
+      "id": "159e5a199b3c0bee98971d7c5a6a88c8",
+      "timestamp": 1778252785999
     }
   ],
   "ajayi crowther university": [
@@ -31581,6 +31576,13 @@
       "site": "JobGurus",
       "id": "4dc4c84d150f21dba62f6dac1f3cc8ec",
       "timestamp": 1778246567664
+    }
+  ],
+  "turbo energy nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "7ef8ce269242202f6c9e811eda1404f5",
+      "timestamp": 1778252785999
     }
   ]
 }
