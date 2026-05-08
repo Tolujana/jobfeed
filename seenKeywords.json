@@ -9818,8 +9818,8 @@
   "multigate payments limited": [
     {
       "site": "JobGurus",
-      "id": "0c21f1b444f1c0a88b10b21959534ed4",
-      "timestamp": 1764337583883
+      "id": "3f01e1822d9899463f3f8ecb39ec9928",
+      "timestamp": 1778263588100
     }
   ],
   "teejay360 multi resources": [
@@ -10554,18 +10554,8 @@
   "gti investment": [
     {
       "site": "JobGurus",
-      "id": "7ab5c3487ac04387a6603ba58108750a",
-      "timestamp": 1754059607786
-    },
-    {
-      "site": "JobGurus",
-      "id": "41a2601c38ec5c59d2486bb0f04d2007",
-      "timestamp": 1754472254853
-    },
-    {
-      "site": "JobGurus",
-      "id": "086360907af5d0d9916e029184ef7680",
-      "timestamp": 1754656526744
+      "id": "3252e954afab6a1b8f555cb9a4c8f932",
+      "timestamp": 1778263588100
     }
   ],
   "roychem industries limited": [
@@ -31592,6 +31582,20 @@
       "site": "JobGurus",
       "id": "07636e8d07f4869a1c40833f3258a8e7",
       "timestamp": 1778258954549
+    }
+  ],
+  "hope payment service bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "5432ae4e56dd7d58246bde6b48ba481e",
+      "timestamp": 1778263588100
+    }
+  ],
+  "edtech": [
+    {
+      "site": "JobGurus",
+      "id": "0145586ab973ae5753d18953e7768f18",
+      "timestamp": 1778263588100
     }
   ]
 }
