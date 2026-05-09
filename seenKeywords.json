@@ -12857,6 +12857,11 @@
       "site": "JobGurus",
       "id": "8c4f428697c0ddf30bbf782a498d52a4",
       "timestamp": 1778337177855
+    },
+    {
+      "site": "JobGurus",
+      "id": "7218013721c4ff6cf4d143d519d80c62",
+      "timestamp": 1778341548942
     }
   ],
   "flexolutions limited": [
@@ -12869,8 +12874,18 @@
   "pullus": [
     {
       "site": "JobGurus",
-      "id": "e4e9e287aad504603d7965536097547a",
-      "timestamp": 1761648273421
+      "id": "7f42f603101b8605b210705d9b03b4de",
+      "timestamp": 1778341548942
+    },
+    {
+      "site": "JobGurus",
+      "id": "568764236fb1238cf46577ffb59b1c7f",
+      "timestamp": 1778341548942
+    },
+    {
+      "site": "JobGurus",
+      "id": "ca49eecd98040cab3045ca52eec3bf03",
+      "timestamp": 1778341548942
     }
   ],
   "syx-brij nigeria limited": [
@@ -31624,6 +31639,13 @@
       "site": "JobGurus",
       "id": "0cce45eab7f9bbee1a9ecaf660db56bb",
       "timestamp": 1778318081778
+    }
+  ],
+  "bevany resources": [
+    {
+      "site": "JobGurus",
+      "id": "d4018cb4bacb80a762c7da2134f05a79",
+      "timestamp": 1778341548942
     }
   ]
 }
