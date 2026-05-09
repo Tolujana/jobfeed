@@ -12344,8 +12344,8 @@
   "lumos nigeria": [
     {
       "site": "JobGurus",
-      "id": "fec01730801132cc66a23bbc2b7bb366",
-      "timestamp": 1762352159072
+      "id": "e3bfc13c136b557bed0d304bc330688a",
+      "timestamp": 1778318081778
     }
   ],
   "inab realty limited": [
@@ -30662,6 +30662,11 @@
       "site": "JobGurus",
       "id": "8c5b9de97180e2d3bc5da53cde013d6e",
       "timestamp": 1778313015653
+    },
+    {
+      "site": "JobGurus",
+      "id": "77b416ba4a19c2198e84e93568c96e50",
+      "timestamp": 1778318081778
     }
   ],
   "puffzz dessert": [
@@ -31605,6 +31610,20 @@
       "site": "JobGurus",
       "id": "f7243648ea2bde008554d87ef8b5227f",
       "timestamp": 1778305496912
+    }
+  ],
+  "green diagnostics": [
+    {
+      "site": "JobGurus",
+      "id": "e2a41456412a039cbcf9e80b1bea63c7",
+      "timestamp": 1778318081778
+    }
+  ],
+  "strait sahara microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "0cce45eab7f9bbee1a9ecaf660db56bb",
+      "timestamp": 1778318081778
     }
   ]
 }
