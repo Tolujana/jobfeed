@@ -17573,8 +17573,8 @@
   "hr-on-wheels": [
     {
       "site": "JobGurus",
-      "id": "3446ccc3e6805dda6cdb33fbdb6adb64",
-      "timestamp": 1777479049642
+      "id": "529a324eef913330545e0ed61282156c",
+      "timestamp": 1778523440981
     }
   ],
   "first cardiology consultants (fcc)": [
@@ -21009,8 +21009,8 @@
   "talentnova hr": [
     {
       "site": "JobGurus",
-      "id": "5ef949986a603305998a9275e20f3687",
-      "timestamp": 1777557482082
+      "id": "e12e326631e8891690a8b4f6eed2f685",
+      "timestamp": 1778523440981
     }
   ],
   "wallthorpe consulting": [
@@ -29206,6 +29206,11 @@
       "site": "JobGurus",
       "id": "331f43fa1971bfb1eb42d2bf81e6c94d",
       "timestamp": 1778516922688
+    },
+    {
+      "site": "JobGurus",
+      "id": "bd36795019cd3a8541c2693cce1a2bf9",
+      "timestamp": 1778523440981
     }
   ],
   "ezekiel properties management company": [
@@ -31688,6 +31693,13 @@
       "site": "JobGurus",
       "id": "5470f352b668a033edfc7abaad738a9a",
       "timestamp": 1778516922688
+    }
+  ],
+  "jobcanvas career solutions": [
+    {
+      "site": "JobGurus",
+      "id": "e542aae1d7ced359cbcf40b2c3212400",
+      "timestamp": 1778523440981
     }
   ]
 }
