@@ -50,6 +50,11 @@
       "site": "JobGurus",
       "id": "910f5d7665d2897b78d7371fb3078ace",
       "timestamp": 1778080171990
+    },
+    {
+      "site": "JobGurus",
+      "id": "adbe4cb9218d36650ed8597bb79317a8",
+      "timestamp": 1778592000979
     }
   ],
   "the concept group": [
@@ -1607,8 +1612,8 @@
   "unilever nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "7cbd4d4457ec7c6a7ab919058033da6e",
-      "timestamp": 1760531609558
+      "id": "a5ca49868f9ffff78098d17d4e1d5cc9",
+      "timestamp": 1778592000979
     }
   ],
   "dp education limited": [
@@ -5342,8 +5347,8 @@
   "paga limited": [
     {
       "site": "JobGurus",
-      "id": "544c1f583259a86d0a21d4ce66c64e2a",
-      "timestamp": 1773264511779
+      "id": "074536fdebba11c3d802734bc19a278b",
+      "timestamp": 1778592000979
     }
   ],
   "blue wave new energy technology nigeria company limited": [
@@ -31700,6 +31705,20 @@
       "site": "JobGurus",
       "id": "e542aae1d7ced359cbcf40b2c3212400",
       "timestamp": 1778523440981
+    }
+  ],
+  "benel energy resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "45f3b69b33a1f638315b0029880a78c7",
+      "timestamp": 1778592000979
+    }
+  ],
+  "locodove ventures limited": [
+    {
+      "site": "JobGurus",
+      "id": "ba5342c4a08e93c5f9715e51b1e7be2a",
+      "timestamp": 1778592000979
     }
   ]
 }
