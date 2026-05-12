@@ -3435,8 +3435,8 @@
   "aureole consulting limited": [
     {
       "site": "JobGurus",
-      "id": "82171666d261e7590b08cafacef5a0b5",
-      "timestamp": 1774958697240
+      "id": "b194c563aeee07d5142b922c98dd5106",
+      "timestamp": 1778608934699
     }
   ],
   "auldon limited": [
@@ -8141,8 +8141,8 @@
   "emmix global limited": [
     {
       "site": "JobGurus",
-      "id": "2c3293d79280d0d342a269025ca927df",
-      "timestamp": 1766742143924
+      "id": "cb564bd88680982e9417f416f8b5b9e6",
+      "timestamp": 1778608934699
     }
   ],
   "amo farm sieberer hatchery limited": [
@@ -19760,8 +19760,8 @@
   "stellar international company limited": [
     {
       "site": "JobGurus",
-      "id": "ff07da3813c153eda6890a0ee91db030",
-      "timestamp": 1777931756738
+      "id": "c2456ee67a39b0950162b93f57f0c0cc",
+      "timestamp": 1778608934699
     }
   ],
   "ab microfinance bank nigeria": [
@@ -30557,8 +30557,8 @@
   "dorisfit": [
     {
       "site": "JobGurus",
-      "id": "bf24a21fb135711a8ff390749763a6f6",
-      "timestamp": 1776786602318
+      "id": "8d27f86f6b182325b9f3e8f4044565fd",
+      "timestamp": 1778608934699
     }
   ],
   "irecharge tech. innovations": [
@@ -31723,6 +31723,13 @@
       "site": "JobGurus",
       "id": "ed5e08605f9e4a61bb7aa4cc1dc6c54f",
       "timestamp": 1778601501532
+    }
+  ],
+  "romkol global services": [
+    {
+      "site": "JobGurus",
+      "id": "5211b1972a0a0a4c32496984e3313912",
+      "timestamp": 1778608934699
     }
   ]
 }
