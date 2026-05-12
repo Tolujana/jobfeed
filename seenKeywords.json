@@ -12473,8 +12473,8 @@
   "resumesurge": [
     {
       "site": "JobGurus",
-      "id": "fb998c0da662e14d39e67b856d4304f2",
-      "timestamp": 1765270277155
+      "id": "38655a99096162275206ad52a39c81eb",
+      "timestamp": 1778601501532
     }
   ],
   "linkorg networks": [
@@ -25997,18 +25997,8 @@
   "jet motor company electric vehicles": [
     {
       "site": "JobGurus",
-      "id": "9ed560a9e9d2c24560af8172df743cba",
-      "timestamp": 1769095606897
-    },
-    {
-      "site": "JobGurus",
-      "id": "8274058e48e73cea51445881f3777a43",
-      "timestamp": 1769095606897
-    },
-    {
-      "site": "JobGurus",
-      "id": "3fd375022cbb3922812f366ff65bf39d",
-      "timestamp": 1769097254901
+      "id": "e6f0210df6c0945b6e400347ea04ff70",
+      "timestamp": 1778601501532
     }
   ],
   "morningstar ceramics company nigeria limited": [
@@ -28876,8 +28866,8 @@
   "pause factory": [
     {
       "site": "JobGurus",
-      "id": "9461ceac080a17fbe89c9fa1d714a56c",
-      "timestamp": 1774280020366
+      "id": "77ced97dac5bb87e816c4a261f84374f",
+      "timestamp": 1778601501532
     }
   ],
   "ojukwuu afrostitches limited": [
@@ -31719,6 +31709,20 @@
       "site": "JobGurus",
       "id": "ba5342c4a08e93c5f9715e51b1e7be2a",
       "timestamp": 1778592000979
+    }
+  ],
+  "tnl pharma limited": [
+    {
+      "site": "JobGurus",
+      "id": "ebddc6157b3ce1b7faa0f756972a9159",
+      "timestamp": 1778601501532
+    }
+  ],
+  "heavy machinery dealership": [
+    {
+      "site": "JobGurus",
+      "id": "ed5e08605f9e4a61bb7aa4cc1dc6c54f",
+      "timestamp": 1778601501532
     }
   ]
 }
