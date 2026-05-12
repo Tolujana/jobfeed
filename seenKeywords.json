@@ -3496,13 +3496,8 @@
   "glovo nigeria": [
     {
       "site": "JobGurus",
-      "id": "3e132df8f4401703e4615e5c7d683c03",
-      "timestamp": 1769697445106
-    },
-    {
-      "site": "JobGurus",
-      "id": "716ab3ccb9c47e80eb0f696d663995aa",
-      "timestamp": 1769697445106
+      "id": "1857073433ca0015bbb4aa4cb90088ce",
+      "timestamp": 1778622453117
     }
   ],
   "mikano international": [
@@ -3576,8 +3571,8 @@
   "runola nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "3852b2d0d0e6f90a0aa9f1d3aa4cde5d",
-      "timestamp": 1774958697240
+      "id": "52b72aefae3a7c85b73544ea6a05843f",
+      "timestamp": 1778622453117
     }
   ],
   "eclat human resources consulting limited": [
@@ -31737,6 +31732,27 @@
       "site": "JobGurus",
       "id": "3c7f64907af2d4c4de6d94162215d3fb",
       "timestamp": 1778616787370
+    }
+  ],
+  "bozinda travels": [
+    {
+      "site": "JobGurus",
+      "id": "300aff809463d82eaab0965815942c19",
+      "timestamp": 1778622453117
+    }
+  ],
+  "io furniture limited": [
+    {
+      "site": "JobGurus",
+      "id": "b4445e891f4de640219e07b454ab6e84",
+      "timestamp": 1778622453117
+    }
+  ],
+  "hrm office": [
+    {
+      "site": "JobGurus",
+      "id": "2e0cbaaa7db24f45b987fd3fd7c54eaf",
+      "timestamp": 1778622453117
     }
   ]
 }
