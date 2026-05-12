@@ -2927,8 +2927,8 @@
   "eko maintenance limited": [
     {
       "site": "JobGurus",
-      "id": "3ad0049cc20354d77a0928a07cf5f003",
-      "timestamp": 1777042313142
+      "id": "df823846fac1be9db27d4c18117cb674",
+      "timestamp": 1778616787370
     }
   ],
   "hellofresh fast food": [
@@ -5528,8 +5528,8 @@
   "updeal resources": [
     {
       "site": "JobGurus",
-      "id": "3fdc9b4fec9b162293b7dad193a0ecfe",
-      "timestamp": 1774536375520
+      "id": "9e078c3ccb150ba3b5d8ea57e268f957",
+      "timestamp": 1778616787370
     }
   ],
   "macden communications limited": [
@@ -6117,8 +6117,8 @@
   "apex network": [
     {
       "site": "JobGurus",
-      "id": "de88e0c9c2f2965b12e07f47805737f6",
-      "timestamp": 1763579592655
+      "id": "65780b9b08761c83e005217af14b93a7",
+      "timestamp": 1778616787370
     }
   ],
   "redswitch collections": [
@@ -12351,8 +12351,8 @@
   "inab realty limited": [
     {
       "site": "JobGurus",
-      "id": "c25af08cea3f771e034d79947ec28cb9",
-      "timestamp": 1755618044114
+      "id": "d142f0a4cd9cc708cef31b3487349de1",
+      "timestamp": 1778616787370
     }
   ],
   "sparkle nigeria": [
@@ -31730,6 +31730,13 @@
       "site": "JobGurus",
       "id": "5211b1972a0a0a4c32496984e3313912",
       "timestamp": 1778608934699
+    }
+  ],
+  "delta state polytechnic": [
+    {
+      "site": "JobGurus",
+      "id": "3c7f64907af2d4c4de6d94162215d3fb",
+      "timestamp": 1778616787370
     }
   ]
 }
