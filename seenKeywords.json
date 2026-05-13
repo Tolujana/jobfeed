@@ -7065,8 +7065,8 @@
   "lily hospitals": [
     {
       "site": "JobGurus",
-      "id": "4f050b9c30018feb15d84164b17d1c6a",
-      "timestamp": 1751991612321
+      "id": "156c2a8ac13444bda06324e1412950fe",
+      "timestamp": 1778712216100
     }
   ],
   "lagos chamber of commerce and industry": [
@@ -12982,8 +12982,8 @@
   "mmt consults": [
     {
       "site": "JobGurus",
-      "id": "f3384d45a96f7712723d153607f57fca",
-      "timestamp": 1777927522649
+      "id": "d4e188dbb38386f3b72a219bc291a78c",
+      "timestamp": 1778712216100
     }
   ],
   "elsadave consulting limited": [
@@ -14221,8 +14221,8 @@
   "elevated hr limited": [
     {
       "site": "JobGurus",
-      "id": "edf899bb7af822271c813bfb08889626",
-      "timestamp": 1775072112011
+      "id": "d740bd081d7acc6c6fdf9ba32c26f1c7",
+      "timestamp": 1778712216100
     }
   ],
   "borno women development initiative (bowdi)": [
@@ -31811,6 +31811,16 @@
       "site": "JobGurus",
       "id": "d05523567e8084dca9a9faf749168a9b",
       "timestamp": 1778706357709
+    },
+    {
+      "site": "JobGurus",
+      "id": "abc6b9809ee1567bdc96f325ce83047b",
+      "timestamp": 1778712216100
+    },
+    {
+      "site": "JobGurus",
+      "id": "a3cfbad546735fa801373a31c628a6a7",
+      "timestamp": 1778712216100
     }
   ]
 }
