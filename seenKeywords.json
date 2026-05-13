@@ -6916,8 +6916,8 @@
   "fd naturales": [
     {
       "site": "JobGurus",
-      "id": "b05b473d22e24b2f81434cbd8b88d6a4",
-      "timestamp": 1751902870611
+      "id": "e4b5efab43dd8c3dc42174b595c58471",
+      "timestamp": 1778706357709
     }
   ],
   "emedical comprehensive consults hospital": [
@@ -31783,6 +31783,34 @@
       "site": "JobGurus",
       "id": "0fac64393a2b93e471ca10d00fa9c8c3",
       "timestamp": 1778699718462
+    }
+  ],
+  "otsuka nigeria nutraceutical company": [
+    {
+      "site": "JobGurus",
+      "id": "bda03fe4823c8c083bc626742a5926ab",
+      "timestamp": 1778706357709
+    }
+  ],
+  "bdo professional services": [
+    {
+      "site": "JobGurus",
+      "id": "39cb549dd4ebbbb84353dd371770f988",
+      "timestamp": 1778706357709
+    }
+  ],
+  "estymol oil services limited": [
+    {
+      "site": "JobGurus",
+      "id": "1b4ecce65de2be01489e6304bac02f4c",
+      "timestamp": 1778706357709
+    }
+  ],
+  "tatum bank": [
+    {
+      "site": "JobGurus",
+      "id": "d05523567e8084dca9a9faf749168a9b",
+      "timestamp": 1778706357709
     }
   ]
 }
