@@ -525,28 +525,8 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "c7cd1f3ca53129ad45199e6b9b9897fd",
-      "timestamp": 1777027780229
-    },
-    {
-      "site": "JobGurus",
-      "id": "9e9a12053970824defb7599fcd352669",
-      "timestamp": 1777297397958
-    },
-    {
-      "site": "JobGurus",
-      "id": "41fbfab0b9cf3143d41b428b5d4daa67",
-      "timestamp": 1777430030463
-    },
-    {
-      "site": "JobGurus",
-      "id": "c831f8fb01ff989b8c9626e55786846e",
-      "timestamp": 1777479049642
-    },
-    {
-      "site": "JobGurus",
-      "id": "fe8bf850396b4af92b4acc72b768102e",
-      "timestamp": 1777575059870
+      "id": "f9fddd795842fc51192845afebab5ac0",
+      "timestamp": 1778716353761
     }
   ],
   "abbfem group": [
@@ -3148,8 +3128,8 @@
   "staff-recruit": [
     {
       "site": "JobGurus",
-      "id": "9d551b570647302506251a905d50b2ae",
-      "timestamp": 1775066914137
+      "id": "30437efceebbbfe81fbd35db85d68d2b",
+      "timestamp": 1778716353761
     }
   ],
   "willers solutions limited": [
@@ -8178,8 +8158,8 @@
   "coinbox limited": [
     {
       "site": "JobGurus",
-      "id": "ac03bb001b4326f95231750603cf67c2",
-      "timestamp": 1759832151997
+      "id": "75f5d82d3e1b2663be4b9faf597223c5",
+      "timestamp": 1778716353761
     }
   ],
   "infratel africa": [
@@ -20188,8 +20168,8 @@
   "dtech centrix plus limited": [
     {
       "site": "JobGurus",
-      "id": "169cf6787175db924285eff95a5b510f",
-      "timestamp": 1775917969461
+      "id": "5f5d5cfba940b64a9f451dbb2c197066",
+      "timestamp": 1778716353761
     }
   ],
   "trusoft limited": [
@@ -31821,6 +31801,13 @@
       "site": "JobGurus",
       "id": "a3cfbad546735fa801373a31c628a6a7",
       "timestamp": 1778712216100
+    }
+  ],
+  "dame chops & events": [
+    {
+      "site": "JobGurus",
+      "id": "0ed4ec00a392b051d4bc1e90447fdee7",
+      "timestamp": 1778716353761
     }
   ]
 }
