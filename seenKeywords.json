@@ -6284,8 +6284,8 @@
   "htsf global nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "8f5fcf42925aa16f5f53740bab92034a",
-      "timestamp": 1761214613941
+      "id": "9c69ccfaf9560db1d9fd64f384e0889e",
+      "timestamp": 1778683977625
     }
   ],
   "recore limited": [
@@ -20550,8 +20550,8 @@
   "design union limited": [
     {
       "site": "JobGurus",
-      "id": "e7e0204593fe188b7f82d9655da28996",
-      "timestamp": 1764272129723
+      "id": "58c8411c15f031dfaba5d246a0893293",
+      "timestamp": 1778683977625
     }
   ],
   "estakem ventures": [
@@ -21144,8 +21144,8 @@
   "aggregon foods": [
     {
       "site": "JobGurus",
-      "id": "d00db7350e2e81db88c7d4fabaab12f6",
-      "timestamp": 1765817754652
+      "id": "89b2db41a8002586edfa0bbb93bd3991",
+      "timestamp": 1778683977625
     }
   ],
   "talent hunt solutions": [
@@ -31753,6 +31753,20 @@
       "site": "JobGurus",
       "id": "2e0cbaaa7db24f45b987fd3fd7c54eaf",
       "timestamp": 1778622453117
+    }
+  ],
+  "development africa": [
+    {
+      "site": "JobGurus",
+      "id": "cbdfdc8e683af4a82cf7feed283d65bc",
+      "timestamp": 1778683977625
+    }
+  ],
+  "shengway global merchant ltd": [
+    {
+      "site": "JobGurus",
+      "id": "f945ec8f4ff5ed5a4eafceaaa476db42",
+      "timestamp": 1778683977625
     }
   ]
 }
