@@ -7501,13 +7501,13 @@
   "viju industries nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "aa06d743447f801dded3c933b05ced82",
-      "timestamp": 1775300470225
+      "id": "709cda848e2742181794debb015e8bf5",
+      "timestamp": 1778699718462
     },
     {
       "site": "JobGurus",
-      "id": "918edc88ac9323d128a64efe6432b893",
-      "timestamp": 1775310594666
+      "id": "dd88943ecd84c303352d8a807869e046",
+      "timestamp": 1778699718462
     }
   ],
   "dovichi worldwide technology company limited": [
@@ -8710,13 +8710,8 @@
   "charlesmaris international company": [
     {
       "site": "JobGurus",
-      "id": "81aa0dcbe80eb0fee70c937df8d738fd",
-      "timestamp": 1752848189128
-    },
-    {
-      "site": "JobGurus",
-      "id": "ae1c24d4b40bab5caabff7069996d1cc",
-      "timestamp": 1753274128073
+      "id": "253bbcc6a0dce5ebb0c71eef13f379c0",
+      "timestamp": 1778699718462
     }
   ],
   "alpha mead group": [
@@ -23585,6 +23580,11 @@
       "site": "JobGurus",
       "id": "155a3b90b3d14aa3a28b286cdfd59e6a",
       "timestamp": 1778280790864
+    },
+    {
+      "site": "JobGurus",
+      "id": "e368180c55aac3baf62cf51689bf407f",
+      "timestamp": 1778699718462
     }
   ],
   "gemameg company nigeria limited": [
@@ -31776,6 +31776,13 @@
       "site": "JobGurus",
       "id": "d038197d1588b2b517fccdfbc6f25fcc",
       "timestamp": 1778692401817
+    }
+  ],
+  "mol integrated service": [
+    {
+      "site": "JobGurus",
+      "id": "0fac64393a2b93e471ca10d00fa9c8c3",
+      "timestamp": 1778699718462
     }
   ]
 }
