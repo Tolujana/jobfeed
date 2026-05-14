@@ -6814,8 +6814,8 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "95aeaa7c540b9865c06946ed11eb65ea",
-      "timestamp": 1776526431867
+      "id": "32a0b0ed44f89191614454c13702a00f",
+      "timestamp": 1778787638661
     }
   ],
   "dansol": [
@@ -9365,8 +9365,8 @@
   "transkredit finance company": [
     {
       "site": "JobGurus",
-      "id": "834cfeca01cae1cf88a0a01a7c88af03",
-      "timestamp": 1753355696920
+      "id": "dbedb04047e9243e1c606c11ecfd4b1d",
+      "timestamp": 1778787638661
     }
   ],
   "university of benin (uniben)": [
@@ -26297,8 +26297,8 @@
   "gbenga badejo & co.": [
     {
       "site": "JobGurus",
-      "id": "4797f6d770dc95d648f5b2091d1acd2a",
-      "timestamp": 1773147353272
+      "id": "cfe3aceef3dbbad6ac2efc0c292d6f12",
+      "timestamp": 1778787638661
     }
   ],
   "a.g. leventis": [
@@ -31814,6 +31814,20 @@
       "site": "JobGurus",
       "id": "733950c0720107ba24fb92ce26e1c38c",
       "timestamp": 1778773154992
+    }
+  ],
+  "sts worldwide shipping": [
+    {
+      "site": "JobGurus",
+      "id": "5d4daa4f1acba1c433db3b70b8ca81dc",
+      "timestamp": 1778787638661
+    }
+  ],
+  "l’evolute properties": [
+    {
+      "site": "JobGurus",
+      "id": "a9dc757e29437cd565387e9a61140ba2",
+      "timestamp": 1778787638661
     }
   ]
 }
