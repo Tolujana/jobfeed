@@ -3276,13 +3276,8 @@
   "abnl limited": [
     {
       "site": "JobGurus",
-      "id": "78560910b1d8ae461a35f6a9f45b5b94",
-      "timestamp": 1776264738435
-    },
-    {
-      "site": "JobGurus",
-      "id": "27212e7ac9a5cbf332fb06f3c0000856",
-      "timestamp": 1776790511084
+      "id": "322529f7af71a9b9d650bad5365319f3",
+      "timestamp": 1778773154992
     }
   ],
   "daily need distributors limited": [
@@ -6594,8 +6589,8 @@
   "jibs-ray nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "33c5d64d6a4a2d27928317661b0693dc",
-      "timestamp": 1767789447384
+      "id": "23ca94858cdc464bc27e1f75e6207c3f",
+      "timestamp": 1778773154992
     }
   ],
   "vector cube outsourcing limited": [
@@ -13220,13 +13215,8 @@
   "emeraldzone business support services": [
     {
       "site": "JobGurus",
-      "id": "1712a4bf200375b91cf80cb22460dc76",
-      "timestamp": 1774979559316
-    },
-    {
-      "site": "JobGurus",
-      "id": "0f73ab3d8311909e745098f94061944f",
-      "timestamp": 1774986822955
+      "id": "965f512c7991ce4b73b40224a416893f",
+      "timestamp": 1778773154992
     }
   ],
   "un arena by lvg lifestyle": [
@@ -31822,6 +31812,13 @@
       "site": "JobGurus",
       "id": "57f6ad7098ff7c3ec50d13d88da64439",
       "timestamp": 1778764354750
+    }
+  ],
+  "thursmay educational services limited": [
+    {
+      "site": "JobGurus",
+      "id": "733950c0720107ba24fb92ce26e1c38c",
+      "timestamp": 1778773154992
     }
   ]
 }
