@@ -27251,8 +27251,8 @@
   "katchey company": [
     {
       "site": "JobGurus",
-      "id": "613486c922501cab22ffa6761e8b230b",
-      "timestamp": 1771098210754
+      "id": "e8c2196bb13fcc40dfdc0ac20b6b4ae2",
+      "timestamp": 1778792719393
     }
   ],
   "the centre for communication and social impact (ccsi)": [
@@ -29470,8 +29470,8 @@
   "e-clinic & diagnostic limited": [
     {
       "site": "JobGurus",
-      "id": "3f2079da9dac6e380af5461cfd28145e",
-      "timestamp": 1775152037962
+      "id": "fc9a033414aae0b5b4200eac2ffc097e",
+      "timestamp": 1778792719393
     }
   ],
   "peoplepro": [
@@ -31828,6 +31828,20 @@
       "site": "JobGurus",
       "id": "a9dc757e29437cd565387e9a61140ba2",
       "timestamp": 1778787638661
+    }
+  ],
+  "alkem nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "19880b9d182a70dc1f652a45e29b6d5d",
+      "timestamp": 1778792719393
+    }
+  ],
+  "kedi healthcare industries": [
+    {
+      "site": "JobGurus",
+      "id": "39fb97d9166157c6907207ef6b77f43c",
+      "timestamp": 1778792719393
     }
   ]
 }
