@@ -114,8 +114,8 @@
   "carrot-top drugs limited": [
     {
       "site": "JobGurus",
-      "id": "733482219fd2c0e067470d361c180ae8",
-      "timestamp": 1774975972383
+      "id": "7d579c5cb8942507e090ac2b03c5f83c",
+      "timestamp": 1778867965692
     }
   ],
   "african industries group": [
@@ -30684,6 +30684,11 @@
       "site": "JobGurus",
       "id": "713f99b990cd66a18530c547401e8b53",
       "timestamp": 1778853399471
+    },
+    {
+      "site": "JobGurus",
+      "id": "1f81dd83b85f860b4e927d6681be1e2a",
+      "timestamp": 1778867965692
     }
   ],
   "cheaper beta enterprises": [
@@ -31899,6 +31904,27 @@
       "site": "JobGurus",
       "id": "b40f9da459e2daf9bd4131061792b8a2",
       "timestamp": 1778860951326
+    }
+  ],
+  "sabaoth tech ltd": [
+    {
+      "site": "JobGurus",
+      "id": "a564cd6d9c878ba4f0db9af68b706475",
+      "timestamp": 1778867965692
+    }
+  ],
+  "amala ibadan": [
+    {
+      "site": "JobGurus",
+      "id": "051098676e2c0861e10018ce6a9c5b34",
+      "timestamp": 1778867965692
+    }
+  ],
+  "dana": [
+    {
+      "site": "JobGurus",
+      "id": "7255fc70c1f5de0be366276aaa8bc5c5",
+      "timestamp": 1778867965692
     }
   ]
 }
