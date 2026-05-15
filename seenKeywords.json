@@ -5094,8 +5094,8 @@
   "action against hunger": [
     {
       "site": "JobGurus",
-      "id": "b17f30d32db2ad9f9076703ea7ad172d",
-      "timestamp": 1757355733296
+      "id": "313d86746af2459a41146a70c3a96e3a",
+      "timestamp": 1778860951326
     }
   ],
   "htsf global limited": [
@@ -21392,8 +21392,8 @@
   "baker hughes": [
     {
       "site": "JobGurus",
-      "id": "be4d8e2a356c41688fae959884f560a5",
-      "timestamp": 1775054856259
+      "id": "74ba1393739cdddffcff21b21d37d16b",
+      "timestamp": 1778860951326
     }
   ],
   "noble hall leadership academy for girls": [
@@ -31878,6 +31878,27 @@
       "site": "JobGurus",
       "id": "faebd2da3f340f0538ff68a027921f24",
       "timestamp": 1778853399471
+    }
+  ],
+  "alpha-beta consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "c1729b74a30b76a9f65fe57d31f15859",
+      "timestamp": 1778860951326
+    }
+  ],
+  "vivaflowers.ng": [
+    {
+      "site": "JobGurus",
+      "id": "1292fa048b8ef3babf054566a6cf9b0e",
+      "timestamp": 1778860951326
+    }
+  ],
+  "respected solutions and investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "b40f9da459e2daf9bd4131061792b8a2",
+      "timestamp": 1778860951326
     }
   ]
 }
