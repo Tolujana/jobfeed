@@ -25914,6 +25914,11 @@
       "site": "JobGurus",
       "id": "bc12e2fc58ab39de8674bec891fe7e78",
       "timestamp": 1778798099911
+    },
+    {
+      "site": "JobGurus",
+      "id": "fd08b7b7d43d98fc35b4d8ca5b96697a",
+      "timestamp": 1778853399471
     }
   ],
   "baobab microfinance bank": [
@@ -30672,8 +30677,13 @@
   "sovereign finance limited": [
     {
       "site": "JobGurus",
-      "id": "859f0f57c1e0d574ed66404cf7766daf",
-      "timestamp": 1776944249075
+      "id": "6846004ca6305aa07e2c89eedc9d1594",
+      "timestamp": 1778853399471
+    },
+    {
+      "site": "JobGurus",
+      "id": "713f99b990cd66a18530c547401e8b53",
+      "timestamp": 1778853399471
     }
   ],
   "cheaper beta enterprises": [
@@ -31854,6 +31864,20 @@
       "site": "JobGurus",
       "id": "ccbe420bd0a90248e0db237945d2126b",
       "timestamp": 1778845891618
+    }
+  ],
+  "food4less supermarket": [
+    {
+      "site": "JobGurus",
+      "id": "c7b52b15ab6d3e111c5d648874e7cd62",
+      "timestamp": 1778853399471
+    }
+  ],
+  "pawa house": [
+    {
+      "site": "JobGurus",
+      "id": "faebd2da3f340f0538ff68a027921f24",
+      "timestamp": 1778853399471
     }
   ]
 }
