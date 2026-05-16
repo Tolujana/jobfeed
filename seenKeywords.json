@@ -3786,11 +3786,6 @@
   "odixcity consulting": [
     {
       "site": "JobGurus",
-      "id": "f8229dcd01bb6b7a51b99490c547ffbd",
-      "timestamp": 1778337177855
-    },
-    {
-      "site": "JobGurus",
       "id": "5774a51cb8d96f9d20f89cbe3e652118",
       "timestamp": 1778932507025
     },
@@ -3798,6 +3793,16 @@
       "site": "JobGurus",
       "id": "7324203d7ebca18ddb20f57208e06218",
       "timestamp": 1778932507025
+    },
+    {
+      "site": "JobGurus",
+      "id": "9e33f47456c6c18ce489b1de51a20d81",
+      "timestamp": 1778942303077
+    },
+    {
+      "site": "JobGurus",
+      "id": "4a3b849f6301eb0e94373a855c8c01c6",
+      "timestamp": 1778942303077
     }
   ],
   "changeroom": [
@@ -22151,8 +22156,8 @@
   "talenture group": [
     {
       "site": "JobGurus",
-      "id": "b16e450e6bc5b33fb78f77e683cb6a0d",
-      "timestamp": 1773682347589
+      "id": "c09ebeef14bd44d3d2c589432730226f",
+      "timestamp": 1778942303077
     }
   ],
   "golden oil industries limited": [
@@ -31517,6 +31522,11 @@
       "site": "JobGurus",
       "id": "d75c1265123b9b9e56c9947d642c4c0c",
       "timestamp": 1778932507025
+    },
+    {
+      "site": "JobGurus",
+      "id": "0022ac0ff8abe81ffe9d5f76c2d9c7d9",
+      "timestamp": 1778942303077
     }
   ],
   "padoserve limited": [
@@ -31948,6 +31958,13 @@
       "site": "JobGurus",
       "id": "77e2e8cc807712426100d411d03adcc6",
       "timestamp": 1778932507025
+    }
+  ],
+  "nikao support initiative": [
+    {
+      "site": "JobGurus",
+      "id": "e17850b84f1abc7ed8a833c1f87d141f",
+      "timestamp": 1778942303077
     }
   ]
 }
