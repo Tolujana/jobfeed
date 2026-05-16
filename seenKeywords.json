@@ -5573,8 +5573,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "a8e58debaa515bafae8016a581cf9cf7",
-      "timestamp": 1769171908586
+      "id": "2ba023621079307a50f9cbcaa174cfaa",
+      "timestamp": 1778929124435
     }
   ],
   "boing pinnacle limited": [
@@ -8459,8 +8459,8 @@
   "future moves recruitment agency limited": [
     {
       "site": "JobGurus",
-      "id": "848d89eccf383b79cb1c594533b4dc32",
-      "timestamp": 1776188459937
+      "id": "b622a9cd45fc26ed8ad1a729fb00576f",
+      "timestamp": 1778929124435
     }
   ],
   "lextorah education group": [
@@ -21812,13 +21812,8 @@
   "adia credit": [
     {
       "site": "JobGurus",
-      "id": "0d12f8a97cf7b6b1c98dfaf3f8386d4a",
-      "timestamp": 1763814493188
-    },
-    {
-      "site": "JobGurus",
-      "id": "4141475a679a293cea3994cf02877953",
-      "timestamp": 1764067619817
+      "id": "3156823ebd75775936daab13c59f6e3c",
+      "timestamp": 1778929124435
     }
   ],
   "daiik engineering limited": [
@@ -31932,6 +31927,18 @@
       "site": "JobGurus",
       "id": "fc7d2ff31415a263ddfce4899ebdbf25",
       "timestamp": 1778878558503
+    }
+  ],
+  "christian miracle hospital": [
+    {
+      "site": "JobGurus",
+      "id": "e0dfd871be33591005cb6b2992997e75",
+      "timestamp": 1778929124435
+    },
+    {
+      "site": "JobGurus",
+      "id": "c3c81df0e8369f0ec2c420a4294ea091",
+      "timestamp": 1778929124435
     }
   ]
 }
