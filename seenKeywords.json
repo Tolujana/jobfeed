@@ -575,8 +575,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "dde0a4f6243aa55854a04c8066ce583b",
-      "timestamp": 1778080171990
+      "id": "04f4cc274ee44e1b0466acb48e87a532",
+      "timestamp": 1779122670250
     }
   ],
   "divine infinity college": [
@@ -17034,13 +17034,8 @@
   "adenal consulting": [
     {
       "site": "JobGurus",
-      "id": "dbb5d3b7f6056dead7232f541708f148",
-      "timestamp": 1768311479028
-    },
-    {
-      "site": "JobGurus",
-      "id": "034d0d4323f9d67a07bd3af43c3f6ef7",
-      "timestamp": 1768488542489
+      "id": "813c433b7dbc35f75043f4c62b8eacbe",
+      "timestamp": 1779122670250
     }
   ],
   "federal polytechnic ede": [
@@ -27953,8 +27948,8 @@
   "path4aipocus project": [
     {
       "site": "JobGurus",
-      "id": "652bb5f153c34133d28b4d4218ae7909",
-      "timestamp": 1773073948821
+      "id": "ef6dad1c3b0461535457a2f606f67e8e",
+      "timestamp": 1779122670250
     }
   ],
   "bridgemead consulting": [
@@ -31970,6 +31965,13 @@
       "site": "JobGurus",
       "id": "e17850b84f1abc7ed8a833c1f87d141f",
       "timestamp": 1778942303077
+    }
+  ],
+  "coollink": [
+    {
+      "site": "JobGurus",
+      "id": "59163ca4e4aa6c57b708a7d764bf27a0",
+      "timestamp": 1779122670250
     }
   ]
 }
