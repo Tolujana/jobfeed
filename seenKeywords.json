@@ -2239,6 +2239,11 @@
       "site": "JobGurus",
       "id": "ed1f39242a86d59d6fb15a19fa13b49e",
       "timestamp": 1779140667224
+    },
+    {
+      "site": "JobGurus",
+      "id": "3aef90dcfc48ab69997017ba097f0324",
+      "timestamp": 1779202257865
     }
   ],
   "flees global services": [
@@ -4512,8 +4517,8 @@
   "oriki group": [
     {
       "site": "JobGurus",
-      "id": "22f15a4f346ad1031947d4416ff15032",
-      "timestamp": 1753282058082
+      "id": "bc4d3228f4ac70a84c6aa9dc628fffe8",
+      "timestamp": 1779202257865
     }
   ],
   "merit healthcare limited": [
@@ -10504,8 +10509,8 @@
   "gti investment": [
     {
       "site": "JobGurus",
-      "id": "3252e954afab6a1b8f555cb9a4c8f932",
-      "timestamp": 1778263588100
+      "id": "4bd66e6d649ceedc07ddd3e940783b9a",
+      "timestamp": 1779202257865
     }
   ],
   "roychem industries limited": [
@@ -23166,8 +23171,8 @@
   "lance trend limited": [
     {
       "site": "JobGurus",
-      "id": "eeabee2b57cbf56789c605cc54b9043e",
-      "timestamp": 1776345796069
+      "id": "6fe47c20c4b69f5df182e46329bd9e25",
+      "timestamp": 1779202257865
     }
   ],
   "triton international company limited": [
@@ -31997,6 +32002,13 @@
       "site": "JobGurus",
       "id": "d2f332b82e1c99f9e06b1f76864f9659",
       "timestamp": 1779140667224
+    }
+  ],
+  "marquise energy": [
+    {
+      "site": "JobGurus",
+      "id": "e9c92f51156b12d430fe8cf82c3f4d75",
+      "timestamp": 1779202257865
     }
   ]
 }
