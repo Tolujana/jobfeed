@@ -577,6 +577,11 @@
       "site": "JobGurus",
       "id": "04f4cc274ee44e1b0466acb48e87a532",
       "timestamp": 1779122670250
+    },
+    {
+      "site": "JobGurus",
+      "id": "75f56ec7156626a2911c1bf2d28a9853",
+      "timestamp": 1779230573490
     }
   ],
   "divine infinity college": [
@@ -32061,6 +32066,32 @@
       "site": "JobGurus",
       "id": "7d68b91a9526d2a3c60f4016f4524470",
       "timestamp": 1779225312695
+    }
+  ],
+  "vivafemini": [
+    {
+      "site": "JobGurus",
+      "id": "9e44ef412bb9ff0bdd2c89194be49226",
+      "timestamp": 1779230573490
+    }
+  ],
+  "timeless telecom": [
+    {
+      "site": "JobGurus",
+      "id": "fc132773d2d64bb4ec3e4def64400867",
+      "timestamp": 1779230573490
+    }
+  ],
+  "sinoma cargo international nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "4860f21dfada9905d4315308fd2f975e",
+      "timestamp": 1779230573490
+    },
+    {
+      "site": "JobGurus",
+      "id": "591947e219fa96ede5ab7f0d9d8311ae",
+      "timestamp": 1779230573490
     }
   ]
 }
