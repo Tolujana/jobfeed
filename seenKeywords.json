@@ -4336,8 +4336,8 @@
   "home bargains nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "c06176fcb9f8d62c8400457e43049f78",
-      "timestamp": 1774882065674
+      "id": "4ed1a732b78f767b5b3247ef893ce6f6",
+      "timestamp": 1779225312695
     }
   ],
   "revenstrat consulting": [
@@ -12370,8 +12370,13 @@
   "tribest corporate support limited": [
     {
       "site": "JobGurus",
-      "id": "93ae46313feb5c6402da13bbddc7fd80",
-      "timestamp": 1776950293150
+      "id": "db4eec811b0e46482ff77ad74911bd35",
+      "timestamp": 1779225312695
+    },
+    {
+      "site": "JobGurus",
+      "id": "3d06705a4f9bea2b269df25308130939",
+      "timestamp": 1779225312695
     }
   ],
   "xuriel resources": [
@@ -20845,8 +20850,8 @@
   "taeillo furniture": [
     {
       "site": "JobGurus",
-      "id": "793490a655c27738d46ba28c9d567ebc",
-      "timestamp": 1776516839813
+      "id": "5f68d04f7f98b14772bbc9b8dbc8e830",
+      "timestamp": 1779225312695
     }
   ],
   "peoples democratic party (pdp)": [
@@ -32049,6 +32054,13 @@
       "site": "JobGurus",
       "id": "2768688640ab5a04caf8f87da0def255",
       "timestamp": 1779220039695
+    }
+  ],
+  "seven up bottling company plc": [
+    {
+      "site": "JobGurus",
+      "id": "7d68b91a9526d2a3c60f4016f4524470",
+      "timestamp": 1779225312695
     }
   ]
 }
