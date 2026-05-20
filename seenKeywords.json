@@ -5700,8 +5700,8 @@
   "eat 'n’ go limited": [
     {
       "site": "JobGurus",
-      "id": "e4b570edfccaf6dea931abfb8c625fac",
-      "timestamp": 1770036667277
+      "id": "3de7411ec0838ff95e767968121ffdf3",
+      "timestamp": 1779285735064
     }
   ],
   "peridot forte solutions consulting": [
@@ -12830,13 +12830,8 @@
   "talent city": [
     {
       "site": "JobGurus",
-      "id": "8c4f428697c0ddf30bbf782a498d52a4",
-      "timestamp": 1778337177855
-    },
-    {
-      "site": "JobGurus",
-      "id": "7218013721c4ff6cf4d143d519d80c62",
-      "timestamp": 1778341548942
+      "id": "89a6cec107ba3a1b2c4544ef7dd2be01",
+      "timestamp": 1779285735064
     }
   ],
   "flexolutions limited": [
@@ -32092,6 +32087,13 @@
       "site": "JobGurus",
       "id": "591947e219fa96ede5ab7f0d9d8311ae",
       "timestamp": 1779230573490
+    }
+  ],
+  "angels home care services": [
+    {
+      "site": "JobGurus",
+      "id": "df90ad2ab0e3f6fc0b2bec4c634c2037",
+      "timestamp": 1779285735064
     }
   ]
 }
