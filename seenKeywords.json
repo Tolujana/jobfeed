@@ -537,6 +537,11 @@
       "site": "JobGurus",
       "id": "f9fddd795842fc51192845afebab5ac0",
       "timestamp": 1778716353761
+    },
+    {
+      "site": "JobGurus",
+      "id": "f6de262d0a851a6850a384f25e3db43d",
+      "timestamp": 1779298662573
     }
   ],
   "abbfem group": [
@@ -7282,8 +7287,8 @@
   "mdoc healthcare": [
     {
       "site": "JobGurus",
-      "id": "8add604256dcf5dc03df61b5e225fa0c",
-      "timestamp": 1772719841543
+      "id": "97fd6ef064b7605a027c0740b0784ced",
+      "timestamp": 1779298662573
     }
   ],
   "finlab nigeria limited": [
@@ -7647,8 +7652,13 @@
   "gbenga badejo & co": [
     {
       "site": "JobGurus",
-      "id": "1fe444236d27186d9ba8a83c675644be",
-      "timestamp": 1776950293150
+      "id": "a319c015bf79875593ef6ebccf92f4a6",
+      "timestamp": 1779298662573
+    },
+    {
+      "site": "JobGurus",
+      "id": "4da81c8c47cc530a519446f6cffd7802",
+      "timestamp": 1779298662573
     }
   ],
   "standard group": [
@@ -12969,6 +12979,11 @@
       "site": "JobGurus",
       "id": "d4e188dbb38386f3b72a219bc291a78c",
       "timestamp": 1778712216100
+    },
+    {
+      "site": "JobGurus",
+      "id": "5efc0ac8f48ab47ff0565d494e68f2eb",
+      "timestamp": 1779298662573
     }
   ],
   "elsadave consulting limited": [
