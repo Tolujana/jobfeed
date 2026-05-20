@@ -12602,8 +12602,8 @@
   "medife limited": [
     {
       "site": "JobGurus",
-      "id": "3c656c919c2dbd0cfa09933f62acba30",
-      "timestamp": 1764261937099
+      "id": "17563ac4a6c1d6d2eee9009dae1eb706",
+      "timestamp": 1779320782941
     }
   ],
   "recare limited": [
@@ -20535,8 +20535,8 @@
   "design union limited": [
     {
       "site": "JobGurus",
-      "id": "58c8411c15f031dfaba5d246a0893293",
-      "timestamp": 1778683977625
+      "id": "133438249e5439f9f1d57eb88ff5967c",
+      "timestamp": 1779320782941
     }
   ],
   "estakem ventures": [
@@ -32130,6 +32130,13 @@
       "site": "JobGurus",
       "id": "cedb206a66e8efb09a64e2ed16f1dbed",
       "timestamp": 1779314943127
+    }
+  ],
+  "beux concept": [
+    {
+      "site": "JobGurus",
+      "id": "b19c6e7478090ebf2503375faef44ed9",
+      "timestamp": 1779320782941
     }
   ]
 }
