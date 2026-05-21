@@ -2762,8 +2762,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "11b619b89b0e56994643d1fc7cb0db61",
-      "timestamp": 1778252785999
+      "id": "1104d6004cfbe34aa0e96fd775c71326",
+      "timestamp": 1779391436211
     }
   ],
   "netcom africa": [
@@ -5938,8 +5938,8 @@
   "may & baker nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "3629d0fbc67a4971c40598835a44f9f1",
-      "timestamp": 1753366700302
+      "id": "3e325023d4df13decb5d31af5d1382fc",
+      "timestamp": 1779391436211
     }
   ],
   "jaza energy": [
@@ -7299,6 +7299,11 @@
       "site": "JobGurus",
       "id": "97fd6ef064b7605a027c0740b0784ced",
       "timestamp": 1779298662573
+    },
+    {
+      "site": "JobGurus",
+      "id": "6303d13abd5e5ad30846a1dd28b9de47",
+      "timestamp": 1779391436211
     }
   ],
   "finlab nigeria limited": [
@@ -32146,6 +32151,20 @@
       "site": "JobGurus",
       "id": "0c3ab091235d17d16ede7fce2153f49e",
       "timestamp": 1779383424960
+    }
+  ],
+  "meed networks": [
+    {
+      "site": "JobGurus",
+      "id": "bd5da2e9da2fad34c10c2eca4c8394c5",
+      "timestamp": 1779391436211
+    }
+  ],
+  "norwegian refugee council (nrc)": [
+    {
+      "site": "JobGurus",
+      "id": "32c40ba33b2ee197f6eeaf12ea0b5e83",
+      "timestamp": 1779391436211
     }
   ]
 }
