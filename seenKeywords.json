@@ -2357,8 +2357,8 @@
   "jno integrated services": [
     {
       "site": "JobGurus",
-      "id": "082eb1cd0186130b8bcd758335a787b4",
-      "timestamp": 1775075943945
+      "id": "098e5479870c6064f3614a334a1834f1",
+      "timestamp": 1779397748727
     }
   ],
   "jules construction": [
@@ -5940,6 +5940,11 @@
       "site": "JobGurus",
       "id": "3e325023d4df13decb5d31af5d1382fc",
       "timestamp": 1779391436211
+    },
+    {
+      "site": "JobGurus",
+      "id": "22a8525de947c4848400ab3c5dccf040",
+      "timestamp": 1779397748727
     }
   ],
   "jaza energy": [
@@ -19745,8 +19750,8 @@
   "stellar international company limited": [
     {
       "site": "JobGurus",
-      "id": "c2456ee67a39b0950162b93f57f0c0cc",
-      "timestamp": 1778608934699
+      "id": "aad6dbba935d2524d6682825e7dbaddf",
+      "timestamp": 1779397748727
     }
   ],
   "ab microfinance bank nigeria": [
@@ -32165,6 +32170,18 @@
       "site": "JobGurus",
       "id": "32c40ba33b2ee197f6eeaf12ea0b5e83",
       "timestamp": 1779391436211
+    }
+  ],
+  "right click technologies ltd": [
+    {
+      "site": "JobGurus",
+      "id": "d0032cce5df02cd0333ce456f11db69c",
+      "timestamp": 1779397748727
+    },
+    {
+      "site": "JobGurus",
+      "id": "1d88fa678bce96849197450b5d1105b2",
+      "timestamp": 1779397748727
     }
   ]
 }
