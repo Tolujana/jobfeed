@@ -1106,8 +1106,8 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "f78dceea840bf6e795cfcc632d360159",
-      "timestamp": 1778507040246
+      "id": "649c455eea9629d2e99fe6d0f1845b31",
+      "timestamp": 1779403660679
     }
   ],
   "elizabeth maddeux limited": [
@@ -14545,8 +14545,8 @@
   "dryva logistics": [
     {
       "site": "JobGurus",
-      "id": "26f2ace700a59256bdb267399f1420ad",
-      "timestamp": 1757409395808
+      "id": "78b8d8a6b3bfa615bb213c048852b92d",
+      "timestamp": 1779403660679
     }
   ],
   "zanibal solutions nigeria limited": [
@@ -23335,8 +23335,8 @@
   "polaris bank": [
     {
       "site": "JobGurus",
-      "id": "12e319d0a87b5b674ca3ad6c052a5e77",
-      "timestamp": 1765381451149
+      "id": "c1519a8a78be10883c1dfc2f4399a1eb",
+      "timestamp": 1779403660679
     }
   ],
   "winnys meals on the move nigeria limited": [
@@ -32182,6 +32182,20 @@
       "site": "JobGurus",
       "id": "1d88fa678bce96849197450b5d1105b2",
       "timestamp": 1779397748727
+    }
+  ],
+  "ecom agroindustrial corp limited": [
+    {
+      "site": "JobGurus",
+      "id": "25841d9c03dd135966d577faf6d14888",
+      "timestamp": 1779403660679
+    }
+  ],
+  "mibble technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "937950e4ea4954dd28055517ca74a2cc",
+      "timestamp": 1779403660679
     }
   ]
 }
