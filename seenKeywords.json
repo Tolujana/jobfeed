@@ -685,8 +685,8 @@
   "estrada international staffing solutions": [
     {
       "site": "JobGurus",
-      "id": "571f829555312ad2eb7018744dd94556",
-      "timestamp": 1778193141338
+      "id": "a769a591646bd989bd37e2388c99546d",
+      "timestamp": 1779490409003
     }
   ],
   "startup soar": [
@@ -7019,6 +7019,11 @@
       "site": "JobGurus",
       "id": "5f8ec59d7d626a8527b1a3c53654f137",
       "timestamp": 1779486039658
+    },
+    {
+      "site": "JobGurus",
+      "id": "b207920be8e885c693bd627a19504b93",
+      "timestamp": 1779490409003
     }
   ],
   "bfbl": [
@@ -7124,8 +7129,8 @@
   "international facilities services limited": [
     {
       "site": "JobGurus",
-      "id": "a64daa400a2bcec516642167258afa0b",
-      "timestamp": 1766422145072
+      "id": "20b82091183b303117930c554f725bfc",
+      "timestamp": 1779490409003
     }
   ],
   "rome business school nigeria": [
@@ -18997,8 +19002,8 @@
   "seedbuilders innovation hub": [
     {
       "site": "JobGurus",
-      "id": "da790dd693b3aba99de926c3e4c43032",
-      "timestamp": 1770905531332
+      "id": "92e2740a7abd5d94efb15a197c07ef70",
+      "timestamp": 1779490409003
     }
   ],
   "moli food": [
@@ -32232,6 +32237,11 @@
       "site": "JobGurus",
       "id": "a165d98f745b98c653f1c7b405a39e33",
       "timestamp": 1779486039658
+    },
+    {
+      "site": "JobGurus",
+      "id": "03a7a240508e08d6b9c2b8edd23a1998",
+      "timestamp": 1779490409003
     }
   ]
 }
