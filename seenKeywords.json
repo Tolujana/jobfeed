@@ -547,6 +547,11 @@
       "site": "JobGurus",
       "id": "6e04fce70a8b5e25c89be3a6a7e2693c",
       "timestamp": 1779383424960
+    },
+    {
+      "site": "JobGurus",
+      "id": "b98e73c2e0fc66375977173d82b6bfa8",
+      "timestamp": 1779456473985
     }
   ],
   "abbfem group": [
@@ -1037,18 +1042,8 @@
   "brenhazy limited": [
     {
       "site": "JobGurus",
-      "id": "633501496140ad640bcf0ce668fd3d7c",
-      "timestamp": 1763572535269
-    },
-    {
-      "site": "JobGurus",
-      "id": "f4b5898c6712d6dd7acacc8178b576c7",
-      "timestamp": 1763572535269
-    },
-    {
-      "site": "JobGurus",
-      "id": "9b37d92b7820552ed0878f1590079ad1",
-      "timestamp": 1763578061275
+      "id": "7906ddb97f6a5dc094cc72eb0db5bec0",
+      "timestamp": 1779456473985
     }
   ],
   "zipline": [
@@ -2675,8 +2670,8 @@
   "apex forte professionals": [
     {
       "site": "JobGurus",
-      "id": "ec85a074c5bed06fe748e6aa7dcfee47",
-      "timestamp": 1769080800451
+      "id": "a7d9494a7bece5aea77f61ac0ae66908",
+      "timestamp": 1779456473985
     }
   ],
   " hrd solutions": [
@@ -3296,13 +3291,13 @@
   "abnl limited": [
     {
       "site": "JobGurus",
-      "id": "322529f7af71a9b9d650bad5365319f3",
-      "timestamp": 1778773154992
+      "id": "3f1a1bf2921c4c6b9b2c1fa41e28a80b",
+      "timestamp": 1778937192784
     },
     {
       "site": "JobGurus",
-      "id": "3f1a1bf2921c4c6b9b2c1fa41e28a80b",
-      "timestamp": 1778937192784
+      "id": "e2bb62c7672f92e1271414374b9d15d2",
+      "timestamp": 1779456473985
     }
   ],
   "daily need distributors limited": [
@@ -32196,6 +32191,13 @@
       "site": "JobGurus",
       "id": "937950e4ea4954dd28055517ca74a2cc",
       "timestamp": 1779403660679
+    }
+  ],
+  "whip smart service providers limited": [
+    {
+      "site": "JobGurus",
+      "id": "4c6dc6ec60d5ca77349fb7c2261753a9",
+      "timestamp": 1779456473985
     }
   ]
 }
