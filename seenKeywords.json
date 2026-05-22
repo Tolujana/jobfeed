@@ -20596,8 +20596,8 @@
   "achieving health nigeria initiative (ahni)": [
     {
       "site": "JobGurus",
-      "id": "e8e92f6949b19fc3db60523f4bdd3621",
-      "timestamp": 1762506993307
+      "id": "9c46e605265dcc3e6aa95cf43d893e4a",
+      "timestamp": 1779465652419
     }
   ],
   "care first community initiative": [
@@ -32198,6 +32198,27 @@
       "site": "JobGurus",
       "id": "4c6dc6ec60d5ca77349fb7c2261753a9",
       "timestamp": 1779456473985
+    }
+  ],
+  "mosra energy limited nigeria (mel)": [
+    {
+      "site": "JobGurus",
+      "id": "3cb86f4ff917700855ed8db67db0b042",
+      "timestamp": 1779465652419
+    }
+  ],
+  "zolon healthcare limited": [
+    {
+      "site": "JobGurus",
+      "id": "a9187c22361623e504f10f49427c927b",
+      "timestamp": 1779465652419
+    }
+  ],
+  "petrostuff nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "d6e8246b469354a3021dd18c785a4097",
+      "timestamp": 1779465652419
     }
   ]
 }
