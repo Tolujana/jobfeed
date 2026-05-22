@@ -2280,18 +2280,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "4471bc48c463e13fe713a0e1357089b9",
-      "timestamp": 1778011419992
-    },
-    {
-      "site": "JobGurus",
-      "id": "475371b99ef345c4aee9800768c149b3",
-      "timestamp": 1778273673396
-    },
-    {
-      "site": "JobGurus",
-      "id": "caa232789a8672acd9d409acaf92863c",
-      "timestamp": 1778277355046
+      "id": "4465bd79c116a3eeeba46456265b9e98",
+      "timestamp": 1779486039658
     }
   ],
   "fgs limited": [
@@ -7027,8 +7017,8 @@
   "bluechip technologies": [
     {
       "site": "JobGurus",
-      "id": "182855927bc28eda4e1dd21852f1cd02",
-      "timestamp": 1751989331934
+      "id": "5f8ec59d7d626a8527b1a3c53654f137",
+      "timestamp": 1779486039658
     }
   ],
   "bfbl": [
@@ -21584,8 +21574,8 @@
   "elite logistics & development services limited": [
     {
       "site": "JobGurus",
-      "id": "8582aa11f71a648257233f100623341b",
-      "timestamp": 1778007094536
+      "id": "62381c4d0e5b37608ac12b0acb9eb675",
+      "timestamp": 1779486039658
     }
   ],
   "nigerian college of agribusiness": [
@@ -23734,18 +23724,8 @@
   "lvtopsun new energy company limited": [
     {
       "site": "JobGurus",
-      "id": "47e5fa447e75b7ee01f4d3920df6189f",
-      "timestamp": 1774886552079
-    },
-    {
-      "site": "JobGurus",
-      "id": "dd8c985695a623a11886fe317f191b84",
-      "timestamp": 1774894292058
-    },
-    {
-      "site": "JobGurus",
-      "id": "9ccf8ce96c6093dc08350d24069667bb",
-      "timestamp": 1774894292058
+      "id": "299c1c830e9de51e43c46fa7f50da1f2",
+      "timestamp": 1779486039658
     }
   ],
   "trucksoft logistics": [
@@ -32245,6 +32225,13 @@
       "site": "JobGurus",
       "id": "d96118cb3d7137d4d9373a7cc975c5f5",
       "timestamp": 1779481040295
+    }
+  ],
+  "strategic outsourcing limited": [
+    {
+      "site": "JobGurus",
+      "id": "a165d98f745b98c653f1c7b405a39e33",
+      "timestamp": 1779486039658
     }
   ]
 }
