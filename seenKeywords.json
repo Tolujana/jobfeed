@@ -14928,8 +14928,18 @@
   "kels global ventures": [
     {
       "site": "JobGurus",
-      "id": "111a7ab6543fdbd00ea1ded52d68953e",
-      "timestamp": 1762353825083
+      "id": "5be85846a2a203af4666ac8ed050b4aa",
+      "timestamp": 1779556211034
+    },
+    {
+      "site": "JobGurus",
+      "id": "d70081c9b2143abbdeda469b67d89486",
+      "timestamp": 1779556211034
+    },
+    {
+      "site": "JobGurus",
+      "id": "2a49dd2c6ab48c0c7e5b864ea44a9ada",
+      "timestamp": 1779556211034
     }
   ],
   "khadasha innovations africa": [
@@ -20887,6 +20897,11 @@
       "site": "JobGurus",
       "id": "5f68d04f7f98b14772bbc9b8dbc8e830",
       "timestamp": 1779225312695
+    },
+    {
+      "site": "JobGurus",
+      "id": "26e5b1594f01b7c7695917cdca22cefc",
+      "timestamp": 1779556211034
     }
   ],
   "peoples democratic party (pdp)": [
@@ -32288,6 +32303,13 @@
       "site": "JobGurus",
       "id": "a2ca111e50405dd91b46e8f249ebf79f",
       "timestamp": 1779551957383
+    }
+  ],
+  "leytrust integrated solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "c6d2e89d86d981e7ed545b9334955194",
+      "timestamp": 1779556211034
     }
   ]
 }
