@@ -7024,6 +7024,16 @@
       "site": "JobGurus",
       "id": "b207920be8e885c693bd627a19504b93",
       "timestamp": 1779490409003
+    },
+    {
+      "site": "JobGurus",
+      "id": "6cd28f884a387ade6608421855ffc82f",
+      "timestamp": 1779542808055
+    },
+    {
+      "site": "JobGurus",
+      "id": "45cd418055a951ebf81b131c65a0660a",
+      "timestamp": 1779542808055
     }
   ],
   "bfbl": [
@@ -17139,13 +17149,8 @@
   "the vault recruitment": [
     {
       "site": "JobGurus",
-      "id": "e22cedd07b9b0fc9c8a9efb910cf0fea",
-      "timestamp": 1773916527535
-    },
-    {
-      "site": "JobGurus",
-      "id": "f3035003c8a7313da23c4c1bc7993de3",
-      "timestamp": 1773924917474
+      "id": "c3541d91657477318d5d546257b4c3da",
+      "timestamp": 1779542808055
     }
   ],
   "maineflow limited": [
