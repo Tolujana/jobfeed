@@ -18130,8 +18130,8 @@
   "elders group": [
     {
       "site": "JobGurus",
-      "id": "f4fd3335a661d32b23b14ee2ae320500",
-      "timestamp": 1760384158357
+      "id": "374699cd5d3f042ae31450b9e5212fa8",
+      "timestamp": 1779547614518
     }
   ],
   "dexterous applied training institute (dati)": [
@@ -32247,6 +32247,30 @@
       "site": "JobGurus",
       "id": "03a7a240508e08d6b9c2b8edd23a1998",
       "timestamp": 1779490409003
+    }
+  ],
+  "kannyvic enterprise consult": [
+    {
+      "site": "JobGurus",
+      "id": "558e74e27b27a241d08383096e8abed0",
+      "timestamp": 1779547614518
+    },
+    {
+      "site": "JobGurus",
+      "id": "addcb8129e82d8c742cfe36f8ac99a2c",
+      "timestamp": 1779547614518
+    },
+    {
+      "site": "JobGurus",
+      "id": "a90f3fb7448542774979a9d88aff32ef",
+      "timestamp": 1779547614518
+    }
+  ],
+  "reuben & mary tech limited": [
+    {
+      "site": "JobGurus",
+      "id": "43664fc72c14e30f8bf3a2e02debf0e6",
+      "timestamp": 1779547614518
     }
   ]
 }
