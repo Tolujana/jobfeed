@@ -597,6 +597,11 @@
       "site": "JobGurus",
       "id": "75f56ec7156626a2911c1bf2d28a9853",
       "timestamp": 1779230573490
+    },
+    {
+      "site": "JobGurus",
+      "id": "cea6d816dff81c33825467c21a445d57",
+      "timestamp": 1779551957383
     }
   ],
   "divine infinity college": [
@@ -8426,8 +8431,8 @@
   "standard chartered bank": [
     {
       "site": "JobGurus",
-      "id": "3aca747fce455e5dc6f7d84f44b7102d",
-      "timestamp": 1769074434279
+      "id": "ce172d7c314a7fab3a1a4590b9ff5f84",
+      "timestamp": 1779551957383
     }
   ],
   "poke limited": [
@@ -16768,8 +16773,8 @@
   "uwana energy": [
     {
       "site": "JobGurus",
-      "id": "79246e6fc20db4161e847af36285eeb5",
-      "timestamp": 1777112555200
+      "id": "619b0715147495fd4042834b530dd3cf",
+      "timestamp": 1779551957383
     }
   ],
   "energy shield petrochemical limited": [
@@ -32271,6 +32276,18 @@
       "site": "JobGurus",
       "id": "43664fc72c14e30f8bf3a2e02debf0e6",
       "timestamp": 1779547614518
+    },
+    {
+      "site": "JobGurus",
+      "id": "500c5bd12c64bc876852755582afb15d",
+      "timestamp": 1779551957383
+    }
+  ],
+  "onem technology spv limited": [
+    {
+      "site": "JobGurus",
+      "id": "a2ca111e50405dd91b46e8f249ebf79f",
+      "timestamp": 1779551957383
     }
   ]
 }
