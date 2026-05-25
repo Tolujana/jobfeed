@@ -12339,13 +12339,8 @@
   "lumos nigeria": [
     {
       "site": "JobGurus",
-      "id": "e3bfc13c136b557bed0d304bc330688a",
-      "timestamp": 1778318081778
-    },
-    {
-      "site": "JobGurus",
-      "id": "9651f7d9833681ac814ae4794817ec5d",
-      "timestamp": 1778780720276
+      "id": "51204cb759b9ac591bfcfe56b764ee2f",
+      "timestamp": 1779740578638
     }
   ],
   "inab realty limited": [
@@ -31352,13 +31347,13 @@
   "haggai mortgage bank limited": [
     {
       "site": "JobGurus",
-      "id": "2c598bfbfee22f3cb7a6c891561fb004",
-      "timestamp": 1778021501424
+      "id": "db91d2bea981af3a42becd4870aed9c7",
+      "timestamp": 1779740578638
     },
     {
       "site": "JobGurus",
-      "id": "3ca71f862d77b6034fa72a185093325c",
-      "timestamp": 1778021501424
+      "id": "93d5d715d84110125f3cd4bfa96d25b7",
+      "timestamp": 1779740578638
     }
   ],
   "breadline café": [
@@ -32303,6 +32298,13 @@
       "site": "JobGurus",
       "id": "ac0b7ef46ae85b6a03e66f1933fb0af1",
       "timestamp": 1779735489097
+    }
+  ],
+  "smartsend": [
+    {
+      "site": "JobGurus",
+      "id": "f66e19093b4b1dfbf79058677ec072c5",
+      "timestamp": 1779740578638
     }
   ]
 }
