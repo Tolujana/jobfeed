@@ -372,13 +372,8 @@
   "dana group": [
     {
       "site": "JobGurus",
-      "id": "afa75eba97c3cc8aaf3bf9f481802614",
-      "timestamp": 1776440087018
-    },
-    {
-      "site": "JobGurus",
-      "id": "7927040dbbfb5164606ecb1312dc7b50",
-      "timestamp": 1776444690542
+      "id": "2bbeb6cb9ef53c4a48463b89bec15064",
+      "timestamp": 1779720326366
     }
   ],
   "raphael group": [
@@ -583,8 +578,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "787088c87a066aa20ea09b62e984ffa2",
-      "timestamp": 1778007094536
+      "id": "d6948a046b1e1b26d91187deb02cff7c",
+      "timestamp": 1779720326366
     }
   ],
   "food concepts plc": [
@@ -7540,8 +7535,8 @@
   "spie oil & gas services": [
     {
       "site": "JobGurus",
-      "id": "b83ff3b8c078a1b5481cf4ed72af55cb",
-      "timestamp": 1769610324482
+      "id": "c09a6724380d2ded4c0e85d8d75a5775",
+      "timestamp": 1779720326366
     }
   ],
   "jhpiego": [
@@ -11336,8 +11331,8 @@
   "nairametrics": [
     {
       "site": "JobGurus",
-      "id": "b865e328e9245f6263106cfa04c2d8a2",
-      "timestamp": 1776107324590
+      "id": "5ac1d56c7907f28c4782e98c1e79ca63",
+      "timestamp": 1779720326366
     }
   ],
   "green africa airways limited": [
@@ -32305,6 +32300,13 @@
       "site": "JobGurus",
       "id": "c6d2e89d86d981e7ed545b9334955194",
       "timestamp": 1779556211034
+    }
+  ],
+  "firstexcelsia": [
+    {
+      "site": "JobGurus",
+      "id": "86f7a2e36db194cb0103b179f197cfd7",
+      "timestamp": 1779720326366
     }
   ]
 }
