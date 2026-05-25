@@ -374,6 +374,11 @@
       "site": "JobGurus",
       "id": "2bbeb6cb9ef53c4a48463b89bec15064",
       "timestamp": 1779720326366
+    },
+    {
+      "site": "JobGurus",
+      "id": "4df5e09bf93e2173670b9f6244be4f3c",
+      "timestamp": 1779745351239
     }
   ],
   "raphael group": [
@@ -1306,13 +1311,8 @@
   "handyman daige properties": [
     {
       "site": "JobGurus",
-      "id": "5e51bac213b8a43be568e5a8537a33a8",
-      "timestamp": 1778313015653
-    },
-    {
-      "site": "JobGurus",
-      "id": "e0b94991084a3ff05e8f99f54f01428f",
-      "timestamp": 1778313015653
+      "id": "494628b3bd2a8dde1b45c1224090cc09",
+      "timestamp": 1779745351239
     }
   ],
   "catalyst path consulting": [
@@ -32114,6 +32114,11 @@
       "site": "JobGurus",
       "id": "f3d46b1970e5f36b3bc34faa422311c2",
       "timestamp": 1779372671032
+    },
+    {
+      "site": "JobGurus",
+      "id": "aa87c2f3b23f78e9fcd9c7eb6eee62f4",
+      "timestamp": 1779745351239
     }
   ],
   "one acre fund": [
@@ -32305,6 +32310,13 @@
       "site": "JobGurus",
       "id": "f66e19093b4b1dfbf79058677ec072c5",
       "timestamp": 1779740578638
+    }
+  ],
+  "abuja precast concrete limited": [
+    {
+      "site": "JobGurus",
+      "id": "629f0cfe6777756dc79ae4b323b36c58",
+      "timestamp": 1779745351239
     }
   ]
 }
