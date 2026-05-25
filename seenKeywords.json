@@ -13423,13 +13423,8 @@
   "nemitt pharmaceuticals limited": [
     {
       "site": "JobGurus",
-      "id": "7ffce4a7b9143f79f550754159b63113",
-      "timestamp": 1777714741254
-    },
-    {
-      "site": "JobGurus",
-      "id": "1808eb8efb6dc1eec65116a29406e958",
-      "timestamp": 1777714741254
+      "id": "4555b267adaf251fb21dcc48696a397f",
+      "timestamp": 1779735489097
     }
   ],
   "fumquench parfaithub": [
@@ -14516,13 +14511,8 @@
   "primestix construction limited": [
     {
       "site": "JobGurus",
-      "id": "9f7144afd8d3ef0fc0f155261a99d7b3",
-      "timestamp": 1757407531801
-    },
-    {
-      "site": "JobGurus",
-      "id": "224759720bf8b64039468ab0c14670d9",
-      "timestamp": 1757407531801
+      "id": "2e2fbcf765201be9d64b5a80c05f674e",
+      "timestamp": 1779735489097
     }
   ],
   "jj3": [
@@ -27680,13 +27670,8 @@
   "cowrywise financial technology limited": [
     {
       "site": "JobGurus",
-      "id": "b587708e15bfbc1cfd763f9857bfde4f",
-      "timestamp": 1772719841543
-    },
-    {
-      "site": "JobGurus",
-      "id": "11a6330957385713aada6dd375cc5b18",
-      "timestamp": 1772719841543
+      "id": "d43d3bd207854f71a31c16683b3d8bb4",
+      "timestamp": 1779735489097
     }
   ],
   "internet service": [
@@ -28815,8 +28800,8 @@
   "j.a.k group": [
     {
       "site": "JobGurus",
-      "id": "3442c0225b087364a0125c49999c55c5",
-      "timestamp": 1775497230838
+      "id": "2a4cc37a04bff6a7409023ca9f6568a6",
+      "timestamp": 1779735489097
     }
   ],
   "king solomon hospital": [
@@ -32311,6 +32296,13 @@
       "site": "JobGurus",
       "id": "976fb70f4a8071a471fc5903988612f4",
       "timestamp": 1779728658331
+    }
+  ],
+  "proposed city university": [
+    {
+      "site": "JobGurus",
+      "id": "ac0b7ef46ae85b6a03e66f1933fb0af1",
+      "timestamp": 1779735489097
     }
   ]
 }
