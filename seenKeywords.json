@@ -3255,13 +3255,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "d97af293b436a052468af3d5c327e518",
-      "timestamp": 1776523620014
-    },
-    {
-      "site": "JobGurus",
-      "id": "8111bc4b8e1642fdda1d4ce3d4a83e7a",
-      "timestamp": 1776885252893
+      "id": "3bd78f5cfebaf0dc2d3364d11390452b",
+      "timestamp": 1779728658331
     }
   ],
   "smartcity plc": [
@@ -12260,8 +12255,8 @@
   "sage grey technologies limited": [
     {
       "site": "JobGurus",
-      "id": "10445b4d9b69d8409483063dd9013e33",
-      "timestamp": 1755538942266
+      "id": "6e2e92f8f0b9e9d81b084f626a481108",
+      "timestamp": 1779728658331
     }
   ],
   "yaba college of technology": [
@@ -31103,13 +31098,8 @@
   "popville luxury homes": [
     {
       "site": "JobGurus",
-      "id": "914d0865d99db746b491dc45f0981ace",
-      "timestamp": 1777569335849
-    },
-    {
-      "site": "JobGurus",
-      "id": "5bcce4b7d0362bfeada853426c0d6730",
-      "timestamp": 1777899876689
+      "id": "a1462dcefb1a64081856c56d3a4e0f76",
+      "timestamp": 1779728658331
     }
   ],
   "diamond shine nigeria limited": [
@@ -32307,6 +32297,20 @@
       "site": "JobGurus",
       "id": "86f7a2e36db194cb0103b179f197cfd7",
       "timestamp": 1779720326366
+    }
+  ],
+  "betgr8": [
+    {
+      "site": "JobGurus",
+      "id": "7139c07b8488121cf597fd922ff69f27",
+      "timestamp": 1779728658331
+    }
+  ],
+  "crown bee luxury apartment": [
+    {
+      "site": "JobGurus",
+      "id": "976fb70f4a8071a471fc5903988612f4",
+      "timestamp": 1779728658331
     }
   ]
 }
