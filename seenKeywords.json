@@ -23537,8 +23537,8 @@
   "uncle stan's food": [
     {
       "site": "JobGurus",
-      "id": "8feb987f829a9ba164a9ffc692177729",
-      "timestamp": 1778098078903
+      "id": "e69c5763215a3b6a38d042f7eabb750b",
+      "timestamp": 1779825917419
     }
   ],
   "quest employment limited": [
@@ -25079,8 +25079,8 @@
   "kaaf specialist hospital": [
     {
       "site": "JobGurus",
-      "id": "757736942cd849c820c9a815e1ccd436",
-      "timestamp": 1768051557733
+      "id": "5b894dc01fadf65136655fbddfec8a70",
+      "timestamp": 1779825917419
     }
   ],
   "norwegian church aid (nca)": [
@@ -32322,6 +32322,20 @@
       "site": "JobGurus",
       "id": "629f0cfe6777756dc79ae4b323b36c58",
       "timestamp": 1779745351239
+    }
+  ],
+  "cleen foundation": [
+    {
+      "site": "JobGurus",
+      "id": "a1161c489440395844cc59b8cddd07ae",
+      "timestamp": 1779825917419
+    }
+  ],
+  "voodoo lounge": [
+    {
+      "site": "JobGurus",
+      "id": "b30b0a8fa312cf0ec82742476add84b0",
+      "timestamp": 1779825917419
     }
   ]
 }
