@@ -195,8 +195,8 @@
   "pg consulting limited": [
     {
       "site": "JobGurus",
-      "id": "8c0b5ec36b023d30a79fe158c09af02b",
-      "timestamp": 1772735118243
+      "id": "eaced358fb5eb9ae8e4c0e4656b86666",
+      "timestamp": 1779838645205
     }
   ],
   "xora technologies limited": [
@@ -7549,8 +7549,8 @@
   "abuja clinics": [
     {
       "site": "JobGurus",
-      "id": "078d55ee7408c263de9784eeccecd411",
-      "timestamp": 1777036456512
+      "id": "eea22b51625305a3b6683eaba6cef888",
+      "timestamp": 1779838645205
     }
   ],
   "schneider electric": [
@@ -27138,8 +27138,8 @@
   "anas atiantic services limited": [
     {
       "site": "JobGurus",
-      "id": "dd8d8b16861c53c2cac6fb0b0e864e14",
-      "timestamp": 1777297397958
+      "id": "f4bb7b409666df50cfa8ceb73d02443f",
+      "timestamp": 1779838645205
     }
   ],
   "manufacturers association of nigeria (man)": [
@@ -32341,6 +32341,20 @@
       "site": "JobGurus",
       "id": "b30b0a8fa312cf0ec82742476add84b0",
       "timestamp": 1779825917419
+    }
+  ],
+  "rocca lounge and dining": [
+    {
+      "site": "JobGurus",
+      "id": "bbe56d5e93efc277473c169cf89a07c5",
+      "timestamp": 1779838645205
+    }
+  ],
+  "2020 hotels and apartments": [
+    {
+      "site": "JobGurus",
+      "id": "d7aa6de4a948eecb53abefa21721b154",
+      "timestamp": 1779838645205
     }
   ]
 }
