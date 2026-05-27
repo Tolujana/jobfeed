@@ -30689,8 +30689,8 @@
   "cheaper beta enterprises": [
     {
       "site": "JobGurus",
-      "id": "159e5a199b3c0bee98971d7c5a6a88c8",
-      "timestamp": 1778252785999
+      "id": "1f37b7b511b63e2701ff193586173e3c",
+      "timestamp": 1779879763383
     }
   ],
   "ajayi crowther university": [
@@ -32408,6 +32408,30 @@
       "site": "JobGurus",
       "id": "ecc2b8c02e2df173336ef0cd7f8757be",
       "timestamp": 1779865475996
+    }
+  ],
+  "redikla resources company": [
+    {
+      "site": "JobGurus",
+      "id": "ca9e53acdabbb58eb69aa40c138a3ab4",
+      "timestamp": 1779879763383
+    },
+    {
+      "site": "JobGurus",
+      "id": "ab9fd214b1b5fcb0fac6a250050f4736",
+      "timestamp": 1779879763383
+    },
+    {
+      "site": "JobGurus",
+      "id": "51e35a42bd3e5470ebf792d32ca40ad9",
+      "timestamp": 1779879763383
+    }
+  ],
+  "vine concepts enterprise": [
+    {
+      "site": "JobGurus",
+      "id": "cfddadb6d35a129c1927779737880c7c",
+      "timestamp": 1779879763383
     }
   ]
 }
