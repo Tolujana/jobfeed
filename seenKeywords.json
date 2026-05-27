@@ -13252,6 +13252,11 @@
       "site": "JobGurus",
       "id": "d5f5a1a97bbe120fc2cde5a2d4b669f6",
       "timestamp": 1779833039585
+    },
+    {
+      "site": "JobGurus",
+      "id": "c69bf7336e3ccbb627d330822076339c",
+      "timestamp": 1779850643760
     }
   ],
   "un arena by lvg lifestyle": [
@@ -28948,8 +28953,13 @@
   "prowess outsourcing limited": [
     {
       "site": "JobGurus",
-      "id": "0117f12bc376cb9034d70eec0c0b593f",
-      "timestamp": 1774381871121
+      "id": "4e71887b4e8edcb24a46d86d1d2b2f71",
+      "timestamp": 1779850643760
+    },
+    {
+      "site": "JobGurus",
+      "id": "54aef97867467b7717008dd63dfdb312",
+      "timestamp": 1779850643760
     }
   ],
   "cynosure realty limited": [
@@ -32355,6 +32365,18 @@
       "site": "JobGurus",
       "id": "d7aa6de4a948eecb53abefa21721b154",
       "timestamp": 1779838645205
+    },
+    {
+      "site": "JobGurus",
+      "id": "20f0782e43051bbc12f19faecd8d3d61",
+      "timestamp": 1779850643760
+    }
+  ],
+  "aura wellness": [
+    {
+      "site": "JobGurus",
+      "id": "7ff2d481703ec8725c0453d073393ff6",
+      "timestamp": 1779850643760
     }
   ]
 }
