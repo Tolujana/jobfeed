@@ -18059,13 +18059,8 @@
   "global aluminium industries": [
     {
       "site": "JobGurus",
-      "id": "8750325fc6bad7c5204090e0315a7049",
-      "timestamp": 1774956323975
-    },
-    {
-      "site": "JobGurus",
-      "id": "de68d5e01a13585ff9079790f1393a60",
-      "timestamp": 1774979559316
+      "id": "01f27122ac7ee3e6ffb4651c54a12c06",
+      "timestamp": 1779912511975
     }
   ],
   "nexcore advisory services limited": [
@@ -19377,8 +19372,13 @@
   "schlumberger limited": [
     {
       "site": "JobGurus",
-      "id": "91466380f232e7256c95e9c16221d64a",
-      "timestamp": 1761383653292
+      "id": "8988111afb3eca2a43cb272e83598046",
+      "timestamp": 1779912511975
+    },
+    {
+      "site": "JobGurus",
+      "id": "06b976caea32204a07e25f859c3bbee0",
+      "timestamp": 1779912511975
     }
   ],
   "pragmatic technologies limited": [
@@ -23188,8 +23188,8 @@
   "fort hermon limited": [
     {
       "site": "JobGurus",
-      "id": "4155f1a9ca3666c0d78f1c21053e1faf",
-      "timestamp": 1774474463248
+      "id": "93b51e3d5cf4a7fa3997d3b77069974a",
+      "timestamp": 1779912511975
     }
   ],
   "kingsfield diagnostic": [
@@ -27656,6 +27656,11 @@
       "site": "JobGurus",
       "id": "67cf07497bbdd058e1309d2f51094ab8",
       "timestamp": 1779904510372
+    },
+    {
+      "site": "JobGurus",
+      "id": "436a7d8f4e6db3ee880ef489ca056a12",
+      "timestamp": 1779912511975
     }
   ],
   "siperco nigeria limited": [
