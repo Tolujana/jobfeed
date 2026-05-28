@@ -17362,13 +17362,8 @@
   "kydal office point (kop)": [
     {
       "site": "JobGurus",
-      "id": "3e3b9a036259f107b6fb79d59d554cf0",
-      "timestamp": 1771093680733
-    },
-    {
-      "site": "JobGurus",
-      "id": "724877ef2fa4e3cccc379a792c1786af",
-      "timestamp": 1771095616327
+      "id": "e5fe1190c9f803062b89b8881463273c",
+      "timestamp": 1779978842626
     }
   ],
   "wazobia cosmetics": [
@@ -28319,8 +28314,13 @@
   "ekris bio health foods nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "cb33b17bfc1176f96ec8895d057fdb46",
-      "timestamp": 1776802418953
+      "id": "dc0a409f0b48f804aa8fe89a439970ce",
+      "timestamp": 1779978842626
+    },
+    {
+      "site": "JobGurus",
+      "id": "dc2335ca54c2844304020b791a847bd0",
+      "timestamp": 1779978842626
     }
   ],
   "africa metals & minerals (ammc)": [
@@ -32438,6 +32438,13 @@
       "site": "JobGurus",
       "id": "4dbb5f325d88787600c6750cb781fc6d",
       "timestamp": 1779965519573
+    }
+  ],
+  "meyer plc": [
+    {
+      "site": "JobGurus",
+      "id": "d32d59ae61beed738f1dc147abaae336",
+      "timestamp": 1779978842626
     }
   ]
 }
