@@ -3344,13 +3344,8 @@
   "first bank of nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "bc0332791ed8be659c5c7bf3c19d786e",
-      "timestamp": 1777304590796
-    },
-    {
-      "site": "JobGurus",
-      "id": "cbd215b34c5db77b07740a7abe66d873",
-      "timestamp": 1777304590796
+      "id": "0b3b7d9e272357b491c3758b4a470d74",
+      "timestamp": 1779965519573
     }
   ],
   "daytona peoples pharmacy and supermarket": [
@@ -7910,6 +7905,11 @@
       "site": "JobGurus",
       "id": "618191e9a6d9cdba6c0ff6e5bc91b5ff",
       "timestamp": 1779383424960
+    },
+    {
+      "site": "JobGurus",
+      "id": "48e047ee71680a7b976e310452279b91",
+      "timestamp": 1779965519573
     }
   ],
   "troop pharmaceuticals limited": [
@@ -27381,23 +27381,8 @@
   "ibifoundry limited": [
     {
       "site": "JobGurus",
-      "id": "77973230fe9da27df9dc4d6953ce570c",
-      "timestamp": 1773924917474
-    },
-    {
-      "site": "JobGurus",
-      "id": "1d376f410a1acdeac65a12681eed52c5",
-      "timestamp": 1774021094379
-    },
-    {
-      "site": "JobGurus",
-      "id": "f05c97d6592251dcafda16e6d06b550e",
-      "timestamp": 1774021094379
-    },
-    {
-      "site": "JobGurus",
-      "id": "5cabe92b7a821818a7e3ba52759f1b49",
-      "timestamp": 1774021094379
+      "id": "121ad40851dc193534e64a18c47f1e6d",
+      "timestamp": 1779965519573
     }
   ],
   "peachy talent solutions": [
@@ -31308,8 +31293,8 @@
   "pharma ethics limited": [
     {
       "site": "JobGurus",
-      "id": "a980dcf93c86a97945bad3ed023ec7f6",
-      "timestamp": 1777921306441
+      "id": "50ffd1e651dd367900211e97a0fb5e4d",
+      "timestamp": 1779965519573
     }
   ],
   "instollar llc": [
@@ -32446,6 +32431,13 @@
       "site": "JobGurus",
       "id": "811751358a3d51fa103f1dd8e575a48d",
       "timestamp": 1779920128975
+    }
+  ],
+  "accuinfra technology": [
+    {
+      "site": "JobGurus",
+      "id": "4dbb5f325d88787600c6750cb781fc6d",
+      "timestamp": 1779965519573
     }
   ]
 }
