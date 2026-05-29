@@ -1132,8 +1132,8 @@
   "cobranet limited": [
     {
       "site": "JobGurus",
-      "id": "d72f1429f878b398ed68376f441ec353",
-      "timestamp": 1779473573467
+      "id": "e5b6af293120847897f7ccbd383d7852",
+      "timestamp": 1780089609628
     }
   ],
   "habaripay limited": [
@@ -3338,8 +3338,8 @@
   "divine ag solutions limited": [
     {
       "site": "JobGurus",
-      "id": "b3f103b87fcc3d8a7e35f8769eff31b2",
-      "timestamp": 1777564058747
+      "id": "aa1776138aa090c396941be03236b064",
+      "timestamp": 1780089609628
     }
   ],
   "r & r recruitment services": [
@@ -7096,6 +7096,11 @@
       "site": "JobGurus",
       "id": "050d58821b1d8eee07217237b96dedba",
       "timestamp": 1780056674504
+    },
+    {
+      "site": "JobGurus",
+      "id": "fd1b8753fb8c711efced9f1d398b3f2c",
+      "timestamp": 1780089609628
     }
   ],
   "quicky chillis": [
@@ -13681,8 +13686,8 @@
   "kuddy cosmetics": [
     {
       "site": "JobGurus",
-      "id": "000e7135a755491015b27c6fb54366a6",
-      "timestamp": 1774102951278
+      "id": "2b40558411dc2ee9b0271bad70a85535",
+      "timestamp": 1780089609628
     }
   ],
   "intelics solutions": [
@@ -32500,6 +32505,13 @@
       "site": "JobGurus",
       "id": "888c6860ad8d8e34de6f64957d02f4bd",
       "timestamp": 1780081539514
+    }
+  ],
+  "tmasourcing solutions": [
+    {
+      "site": "JobGurus",
+      "id": "c780662963f30e706f98f99a09b1c309",
+      "timestamp": 1780089609628
     }
   ]
 }
