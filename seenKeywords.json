@@ -360,13 +360,8 @@
   "mshel homes limited": [
     {
       "site": "JobGurus",
-      "id": "c03dbba8545981fd50860108c50713b5",
-      "timestamp": 1778946841572
-    },
-    {
-      "site": "JobGurus",
-      "id": "08ea07a581aabd60fda064f4002fe9bb",
-      "timestamp": 1778946841572
+      "id": "3c81be257ed629d1d2b54dda26af057c",
+      "timestamp": 1780056674504
     }
   ],
   "dana group": [
@@ -576,13 +571,8 @@
   "renmoney": [
     {
       "site": "JobGurus",
-      "id": "a42ab2735bb6e7c2c6fbd3b28653bdbb",
-      "timestamp": 1770909170399
-    },
-    {
-      "site": "JobGurus",
-      "id": "f5f3e770423b1d7cf6e24f3e57ffdb9c",
-      "timestamp": 1771324835914
+      "id": "47b4f50289c0e986e1ea09db0e2fa67b",
+      "timestamp": 1780056674504
     }
   ],
   "teamace limited": [
@@ -7109,13 +7099,8 @@
   "prestigious consulting": [
     {
       "site": "JobGurus",
-      "id": "373c0eb9d68477a764cbe71155a00e3a",
-      "timestamp": 1776287542321
-    },
-    {
-      "site": "JobGurus",
-      "id": "aa692c23fee99a77a95954c6dfa64155",
-      "timestamp": 1776331008198
+      "id": "050d58821b1d8eee07217237b96dedba",
+      "timestamp": 1780056674504
     }
   ],
   "quicky chillis": [
@@ -19425,8 +19410,8 @@
   "beta glass": [
     {
       "site": "JobGurus",
-      "id": "beaf169216b8424cf8a2aef80b5cb1ae",
-      "timestamp": 1772469553407
+      "id": "9f8f24db909934a27947b4818ce1ff7e",
+      "timestamp": 1780056674504
     }
   ],
   "university of uyo": [
@@ -32489,6 +32474,13 @@
       "site": "JobGurus",
       "id": "12a257901ce4197f72f9f8ea54f3af20",
       "timestamp": 1780000857250
+    }
+  ],
+  "qualis business support services limited": [
+    {
+      "site": "JobGurus",
+      "id": "20fcdc2d2161e6a00c212aff7269d3a1",
+      "timestamp": 1780056674504
     }
   ]
 }
