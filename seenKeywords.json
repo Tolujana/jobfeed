@@ -5520,8 +5520,8 @@
   "macden communications limited": [
     {
       "site": "JobGurus",
-      "id": "641716cf7cfed654f091f5a9fe93f270",
-      "timestamp": 1776274629569
+      "id": "826c857fd789b45f243874c1b25db099",
+      "timestamp": 1780145106717
     }
   ],
   "blucon valley limited": [
@@ -15417,8 +15417,8 @@
   "vodstra limited": [
     {
       "site": "JobGurus",
-      "id": "de2d84f7ed07f051f399350eb63435ee",
-      "timestamp": 1770225155366
+      "id": "6f512ac463d7eefd4973c7897820fe94",
+      "timestamp": 1780145106717
     }
   ],
   "mg vowgas group": [
@@ -26759,8 +26759,8 @@
   "soft intelligent machines limited": [
     {
       "site": "JobGurus",
-      "id": "e94171b7959785a845495e294de83d25",
-      "timestamp": 1770148665885
+      "id": "f031dfff51f4c9fc3b92cac262598b9d",
+      "timestamp": 1780145106717
     }
   ],
   "thrive hr solutions limited": [
@@ -30823,8 +30823,13 @@
   "stockgap fuels limited": [
     {
       "site": "JobGurus",
-      "id": "0e3e509ad5602229720669145b7b1b30",
-      "timestamp": 1777112555200
+      "id": "a09c8b13eaf53e879ca17ea36e707457",
+      "timestamp": 1780145106717
+    },
+    {
+      "site": "JobGurus",
+      "id": "fba2e10fabbac09d8f69046bfa775866",
+      "timestamp": 1780145106717
     }
   ],
   "dotmac technologies limited": [
