@@ -535,23 +535,18 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "f6de262d0a851a6850a384f25e3db43d",
-      "timestamp": 1779298662573
+      "id": "5c5c606719f57d0d533bddb8d89441a9",
+      "timestamp": 1780151137617
     },
     {
       "site": "JobGurus",
-      "id": "eef2a295582a49ca2b8a505164b1ede2",
-      "timestamp": 1779314943127
+      "id": "f65fd0f56be4729d2f13583ea346a79a",
+      "timestamp": 1780151137617
     },
     {
       "site": "JobGurus",
-      "id": "6e04fce70a8b5e25c89be3a6a7e2693c",
-      "timestamp": 1779383424960
-    },
-    {
-      "site": "JobGurus",
-      "id": "b98e73c2e0fc66375977173d82b6bfa8",
-      "timestamp": 1779456473985
+      "id": "df03bcce1fe2ec6b81135e12a3c9c689",
+      "timestamp": 1780151137617
     }
   ],
   "abbfem group": [
@@ -30329,13 +30324,8 @@
   "bosak microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "e85d5650e3a1431bfe282fff8e50ea84",
-      "timestamp": 1776416363679
-    },
-    {
-      "site": "JobGurus",
-      "id": "a54ae451d04c92ce4df6857c52c4f440",
-      "timestamp": 1776875761440
+      "id": "933a1bccfed4f918be8b5549c9b21e3d",
+      "timestamp": 1780151137617
     }
   ],
   "stee cambridge college": [
@@ -32577,6 +32567,13 @@
       "site": "JobGurus",
       "id": "36999f367b2b8d2418aa59c6ba4de2b0",
       "timestamp": 1780126629282
+    }
+  ],
+  "busha digital ltd": [
+    {
+      "site": "JobGurus",
+      "id": "981504b69ce399b2db46a7ea6b5bdc84",
+      "timestamp": 1780151137617
     }
   ]
 }
