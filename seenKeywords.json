@@ -4188,8 +4188,8 @@
   "wellsworth energy services limited": [
     {
       "site": "JobGurus",
-      "id": "87e1aacdf588e3ede1d49c4b65af6fbc",
-      "timestamp": 1778000557852
+      "id": "f7065e3442a42df932bcd7e12957521e",
+      "timestamp": 1780442158958
     }
   ],
   "tenaris": [
@@ -7302,13 +7302,8 @@
   "mdoc healthcare": [
     {
       "site": "JobGurus",
-      "id": "97fd6ef064b7605a027c0740b0784ced",
-      "timestamp": 1779298662573
-    },
-    {
-      "site": "JobGurus",
-      "id": "6303d13abd5e5ad30846a1dd28b9de47",
-      "timestamp": 1779391436211
+      "id": "6f552df10704741457d77c336396b936",
+      "timestamp": 1780442158958
     }
   ],
   "finlab nigeria limited": [
@@ -32598,6 +32593,20 @@
       "site": "JobGurus",
       "id": "8d0128c5c9e982ed88030b302020b91e",
       "timestamp": 1780435739482
+    }
+  ],
+  "de hallet lounge & bar": [
+    {
+      "site": "JobGurus",
+      "id": "40f9ff7b60b148441082bacd1aa8450c",
+      "timestamp": 1780442158958
+    }
+  ],
+  "marketwakaa": [
+    {
+      "site": "JobGurus",
+      "id": "38be7efe961fdbad40aec7fb8006fac0",
+      "timestamp": 1780442158958
     }
   ]
 }
