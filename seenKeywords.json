@@ -2472,8 +2472,8 @@
   "oilserv limited": [
     {
       "site": "JobGurus",
-      "id": "c7ff95a377a7d901ca5f9b8899989274",
-      "timestamp": 1779314943127
+      "id": "a4fbbcf4f15d1914abfb726bd9d14fa7",
+      "timestamp": 1780359437050
     }
   ],
   "greenfield consulting": [
@@ -7295,8 +7295,8 @@
   "fresh county limited": [
     {
       "site": "JobGurus",
-      "id": "753f0531b216f870f79971f105743b15",
-      "timestamp": 1768221529248
+      "id": "ea5a7aca18a5111444c2bc91480ff3d4",
+      "timestamp": 1780359437050
     }
   ],
   "mdoc healthcare": [
@@ -15306,8 +15306,13 @@
   "m-kopa nigeria": [
     {
       "site": "JobGurus",
-      "id": "369373d66c03504e1fcc2b12b15df116",
-      "timestamp": 1777931756738
+      "id": "f5a5973cf5ef51f1d4cc01039fb363c6",
+      "timestamp": 1780359437050
+    },
+    {
+      "site": "JobGurus",
+      "id": "04723ece56fdbda7df8d85ec48fe5426",
+      "timestamp": 1780359437050
     }
   ],
   "olam international limited": [
@@ -19944,8 +19949,8 @@
   "aptech computer education": [
     {
       "site": "JobGurus",
-      "id": "e72869bf4c37d5de26fe4a325f25f2c3",
-      "timestamp": 1778168454435
+      "id": "27e32cda538a35ee3a8def5715d90db4",
+      "timestamp": 1780359437050
     }
   ],
   "forti foods": [
