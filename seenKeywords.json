@@ -1428,6 +1428,11 @@
       "site": "JobGurus",
       "id": "4b8b81df83ce4385ea8eca0467e48838",
       "timestamp": 1779904510372
+    },
+    {
+      "site": "JobGurus",
+      "id": "8eb80ee18e03ef9732634d8f3c5cf616",
+      "timestamp": 1780376938032
     }
   ],
   "warri wetland hotel": [
@@ -23255,8 +23260,13 @@
   "owens and xley": [
     {
       "site": "JobGurus",
-      "id": "fe673492519a06ea531711cbdd7d5b02",
-      "timestamp": 1767977541893
+      "id": "5f1fcf40815546311dbe102195ac6260",
+      "timestamp": 1780376938032
+    },
+    {
+      "site": "JobGurus",
+      "id": "9cd941ca3128963ea1af14faed1f1961",
+      "timestamp": 1780376938032
     }
   ],
   "flexi microfinance bank limited": [
@@ -32112,18 +32122,8 @@
   "jobs expert": [
     {
       "site": "JobGurus",
-      "id": "65f07096f13e6e78c602d642b8919726",
-      "timestamp": 1779372671032
-    },
-    {
-      "site": "JobGurus",
-      "id": "f3d46b1970e5f36b3bc34faa422311c2",
-      "timestamp": 1779372671032
-    },
-    {
-      "site": "JobGurus",
-      "id": "aa87c2f3b23f78e9fcd9c7eb6eee62f4",
-      "timestamp": 1779745351239
+      "id": "8e7217d83efc95f76174490cfae85a02",
+      "timestamp": 1780376938032
     }
   ],
   "one acre fund": [
@@ -32597,6 +32597,13 @@
       "site": "JobGurus",
       "id": "8477f638b96c2780b18d7bde7bc0d685",
       "timestamp": 1780347166233
+    }
+  ],
+  "magabby logistics": [
+    {
+      "site": "JobGurus",
+      "id": "92e7cc39cf67250009dd804c00808cef",
+      "timestamp": 1780376938032
     }
   ]
 }
