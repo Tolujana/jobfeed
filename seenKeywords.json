@@ -2439,8 +2439,8 @@
   "hilton worldwide": [
     {
       "site": "JobGurus",
-      "id": "385ea537508c774df5ce5c5042dbbca4",
-      "timestamp": 1772559582515
+      "id": "e98b0c7cfb02c06546595e75895730c3",
+      "timestamp": 1780471227604
     }
   ],
   "bss consulting limited": [
@@ -7617,13 +7617,8 @@
   "trucrete solutions limited": [
     {
       "site": "JobGurus",
-      "id": "e3fb303b94d03ccf2e5900fb4ca96e2d",
-      "timestamp": 1762872194724
-    },
-    {
-      "site": "JobGurus",
-      "id": "23b56d5dcaa3f35c645081bc3b2185be",
-      "timestamp": 1762874196793
+      "id": "c36811a9716be07de332a24c77967a0d",
+      "timestamp": 1780471227604
     }
   ],
   "mopheth nigeria limited": [
@@ -32607,6 +32602,13 @@
       "site": "JobGurus",
       "id": "38be7efe961fdbad40aec7fb8006fac0",
       "timestamp": 1780442158958
+    }
+  ],
+  "propolis solution limited": [
+    {
+      "site": "JobGurus",
+      "id": "f347914edbbf8c7f66648d7b481b3509",
+      "timestamp": 1780471227604
     }
   ]
 }
