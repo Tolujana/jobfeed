@@ -6429,8 +6429,8 @@
   "tizeti network limited": [
     {
       "site": "JobGurus",
-      "id": "e9f58d1b53dd002e4cf1fbda5b2c6f26",
-      "timestamp": 1759162529869
+      "id": "79bbdb793d299adc28f5ae9bfeb19df1",
+      "timestamp": 1780489086147
     }
   ],
   "valuejet": [
@@ -12249,8 +12249,8 @@
   "ehealth4everyone": [
     {
       "site": "JobGurus",
-      "id": "524ce64b8ae9bcef859cfdd5901c0ed7",
-      "timestamp": 1778516922688
+      "id": "dcc6263e53e3fef764c78c5e194518c3",
+      "timestamp": 1780489086147
     }
   ],
   "ramos realty": [
@@ -32609,6 +32609,27 @@
       "site": "JobGurus",
       "id": "f347914edbbf8c7f66648d7b481b3509",
       "timestamp": 1780471227604
+    }
+  ],
+  "kursi group limited": [
+    {
+      "site": "JobGurus",
+      "id": "6c5d9e508e94f1d8e61285ccf7c010cc",
+      "timestamp": 1780489086147
+    }
+  ],
+  "thelix holdings": [
+    {
+      "site": "JobGurus",
+      "id": "996a4a330fdc96fadb3ff0f7745ed755",
+      "timestamp": 1780489086147
+    }
+  ],
+  "trident micro finance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "bec00d7de66a20a963ef606bf7832d5a",
+      "timestamp": 1780489086147
     }
   ]
 }
