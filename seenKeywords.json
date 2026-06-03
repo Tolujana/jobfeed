@@ -10299,8 +10299,8 @@
   "christian retreat centre": [
     {
       "site": "JobGurus",
-      "id": "d59bc8a2653f31648159e8cf951a48c0",
-      "timestamp": 1756206835222
+      "id": "e487de592c8fd336f737b95ffd9ef104",
+      "timestamp": 1780527761368
     }
   ],
   "trovest capital partners": [
@@ -32658,6 +32658,11 @@
       "site": "JobGurus",
       "id": "14f579c32fab3d45196238b4442ab89c",
       "timestamp": 1780518898714
+    },
+    {
+      "site": "JobGurus",
+      "id": "0efdb9a76f1b4033b4933ef4a16e2967",
+      "timestamp": 1780527761368
     }
   ],
   "nexia agbo abel & co": [
@@ -32665,6 +32670,25 @@
       "site": "JobGurus",
       "id": "1718a0f9aac27473ddacd4d64edf17f4",
       "timestamp": 1780518898714
+    }
+  ],
+  "nigerian marine environment protection association (nimepa)": [
+    {
+      "site": "JobGurus",
+      "id": "ceafd63a7005e475f9497520e4af61ce",
+      "timestamp": 1780527761368
+    },
+    {
+      "site": "JobGurus",
+      "id": "068847d6f7994db742c2dbbc48613c01",
+      "timestamp": 1780527761368
+    }
+  ],
+  "yaphi tech nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "75a7f8ad64ea1e1653be31e8ebea51ef",
+      "timestamp": 1780527761368
     }
   ]
 }
