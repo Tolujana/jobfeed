@@ -735,13 +735,8 @@
   "equinix": [
     {
       "site": "JobGurus",
-      "id": "b0fd37595a0cfe46a285d8f60ff534c4",
-      "timestamp": 1767869336740
-    },
-    {
-      "site": "JobGurus",
-      "id": "13b1990d05d26e3bfc35258c392c6778",
-      "timestamp": 1767879457189
+      "id": "a50d04a92b0658901f7fd92fa613c5d9",
+      "timestamp": 1780613510478
     }
   ],
   "premier hub innovation center": [
@@ -6093,8 +6088,8 @@
   "kloverharris limited": [
     {
       "site": "JobGurus",
-      "id": "1525a27eae182aded5638530a1b89de4",
-      "timestamp": 1778878558503
+      "id": "31c74da72e502850448ddeb37da889ac",
+      "timestamp": 1780613510478
     }
   ],
   "awake to power communications": [
@@ -16906,13 +16901,8 @@
   "flutterwave": [
     {
       "site": "JobGurus",
-      "id": "a4e0f7025e4a097d0d901b60346667f9",
-      "timestamp": 1774648702961
-    },
-    {
-      "site": "JobGurus",
-      "id": "a2d6aae1282fdc7836a3d84615639eea",
-      "timestamp": 1775075943945
+      "id": "9639872d3654731348e00487a40aebd6",
+      "timestamp": 1780613510478
     }
   ],
   "mipraise investment limited": [
@@ -27604,13 +27594,8 @@
   "career breedge consultancy limited": [
     {
       "site": "JobGurus",
-      "id": "67cf07497bbdd058e1309d2f51094ab8",
-      "timestamp": 1779904510372
-    },
-    {
-      "site": "JobGurus",
-      "id": "436a7d8f4e6db3ee880ef489ca056a12",
-      "timestamp": 1779912511975
+      "id": "cc94fe53b8bc9d0327843472a3118c08",
+      "timestamp": 1780613510478
     }
   ],
   "siperco nigeria limited": [
@@ -32745,6 +32730,13 @@
       "site": "JobGurus",
       "id": "28c7a0409ff58a39dbc7a62b627e6ede",
       "timestamp": 1780607397134
+    }
+  ],
+  "kontz engineering limited": [
+    {
+      "site": "JobGurus",
+      "id": "57ce40a5edd9caa3ce37dbbe908abc3a",
+      "timestamp": 1780613510478
     }
   ]
 }
