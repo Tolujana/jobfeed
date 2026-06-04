@@ -31089,8 +31089,8 @@
   "smartstream": [
     {
       "site": "JobGurus",
-      "id": "032b620a24005980af2352c129d03648",
-      "timestamp": 1777584681512
+      "id": "87d0c912b7d72d9361a8753e754b824b",
+      "timestamp": 1780581346278
     }
   ],
   "premium hr solution": [
@@ -32459,6 +32459,11 @@
       "site": "JobGurus",
       "id": "12a257901ce4197f72f9f8ea54f3af20",
       "timestamp": 1780000857250
+    },
+    {
+      "site": "JobGurus",
+      "id": "c8d73504b4be85f666345de355b1a2c5",
+      "timestamp": 1780581346278
     }
   ],
   "qualis business support services limited": [
@@ -32696,6 +32701,27 @@
       "site": "JobGurus",
       "id": "4446d6071d527efbe87783a31a773eff",
       "timestamp": 1780538650364
+    }
+  ],
+  "education consulting and edtech company": [
+    {
+      "site": "JobGurus",
+      "id": "14f62306e6803092b652609804335eba",
+      "timestamp": 1780581346278
+    }
+  ],
+  "pointone microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "6b38d6dc23f43a3e431b2f6a4d5409ab",
+      "timestamp": 1780581346278
+    }
+  ],
+  "whip-smart service provider limited": [
+    {
+      "site": "JobGurus",
+      "id": "fc92144703a751afa1e62341db051b94",
+      "timestamp": 1780581346278
     }
   ]
 }
