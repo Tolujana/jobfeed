@@ -7619,6 +7619,11 @@
       "site": "JobGurus",
       "id": "c36811a9716be07de332a24c77967a0d",
       "timestamp": 1780471227604
+    },
+    {
+      "site": "JobGurus",
+      "id": "46770d4bd6b7d514c36ee34643cc3962",
+      "timestamp": 1780538650364
     }
   ],
   "mopheth nigeria limited": [
@@ -22788,13 +22793,8 @@
   "jv management consulting": [
     {
       "site": "JobGurus",
-      "id": "7840329cd76083ce4efbfda6d50c132d",
-      "timestamp": 1777495086201
-    },
-    {
-      "site": "JobGurus",
-      "id": "71deeac858bc20dcae764ddd56c91413",
-      "timestamp": 1777569335849
+      "id": "a7c9d3d078df60960551d5ded019134f",
+      "timestamp": 1780538650364
     }
   ],
   "doii design limited": [
@@ -31056,8 +31056,8 @@
   "onyibiz consult & insight": [
     {
       "site": "JobGurus",
-      "id": "7490b201bd01d9c2924a18028761e8e3",
-      "timestamp": 1779807456803
+      "id": "156714c020e99ad928622ac7f649dc26",
+      "timestamp": 1780538650364
     }
   ],
   "popville luxury homes": [
@@ -32689,6 +32689,13 @@
       "site": "JobGurus",
       "id": "75a7f8ad64ea1e1653be31e8ebea51ef",
       "timestamp": 1780527761368
+    }
+  ],
+  "glanvill global resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "4446d6071d527efbe87783a31a773eff",
+      "timestamp": 1780538650364
     }
   ]
 }
