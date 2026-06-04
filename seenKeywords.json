@@ -32388,18 +32388,8 @@
   "redikla resources company": [
     {
       "site": "JobGurus",
-      "id": "ca9e53acdabbb58eb69aa40c138a3ab4",
-      "timestamp": 1779879763383
-    },
-    {
-      "site": "JobGurus",
-      "id": "ab9fd214b1b5fcb0fac6a250050f4736",
-      "timestamp": 1779879763383
-    },
-    {
-      "site": "JobGurus",
-      "id": "51e35a42bd3e5470ebf792d32ca40ad9",
-      "timestamp": 1779879763383
+      "id": "06e0ed9f4117610e0dacdb6eb9c0f510",
+      "timestamp": 1780607397134
     }
   ],
   "vine concepts enterprise": [
@@ -32727,6 +32717,34 @@
       "site": "JobGurus",
       "id": "fc92144703a751afa1e62341db051b94",
       "timestamp": 1780581346278
+    }
+  ],
+  "kimeric nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "16ffae3a8ac6426e205a1c0386657419",
+      "timestamp": 1780607397134
+    }
+  ],
+  "phoenix travel & tour": [
+    {
+      "site": "JobGurus",
+      "id": "9d4eb6cac38b49cfa9c1a950b59e50d1",
+      "timestamp": 1780607397134
+    }
+  ],
+  "crowningpoint hospitality solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "3652b0bdb0af013b7a0f7f4413b969d0",
+      "timestamp": 1780607397134
+    }
+  ],
+  "pagatech limited": [
+    {
+      "site": "JobGurus",
+      "id": "28c7a0409ff58a39dbc7a62b627e6ede",
+      "timestamp": 1780607397134
     }
   ]
 }
