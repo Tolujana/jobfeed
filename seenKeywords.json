@@ -4958,6 +4958,11 @@
       "site": "JobGurus",
       "id": "b9731361971cc15dd432238aeabf6559",
       "timestamp": 1780672404578
+    },
+    {
+      "site": "JobGurus",
+      "id": "4affdd165c8bec8d855c9c70ea1ed1df",
+      "timestamp": 1780686969865
     }
   ],
   "lifted horizon nigeria limited": [
@@ -11830,8 +11835,8 @@
   "montaigne place": [
     {
       "site": "JobGurus",
-      "id": "cc6cd6b38ed9e1e5b6f61428367e778b",
-      "timestamp": 1779904510372
+      "id": "9a887a31dde2d2fadeb3e87f9fafe261",
+      "timestamp": 1780686969865
     }
   ],
   "just brand it limited": [
@@ -15490,13 +15495,8 @@
   "artee group": [
     {
       "site": "JobGurus",
-      "id": "1452360e2995292545807e942d6106e8",
-      "timestamp": 1758198603117
-    },
-    {
-      "site": "JobGurus",
-      "id": "bd3ca0be3390621630c75b6c88c7cf26",
-      "timestamp": 1758552148287
+      "id": "6a174af5d720f09358c515ff85c165d3",
+      "timestamp": 1780686969865
     }
   ],
   "mapsi group": [
@@ -24535,13 +24535,8 @@
   "dynamic edge business venture": [
     {
       "site": "JobGurus",
-      "id": "74b969ed4a84d677dd6a744822cc9095",
-      "timestamp": 1767458750090
-    },
-    {
-      "site": "JobGurus",
-      "id": "a011614ee8eecd58d70f270739248d2d",
-      "timestamp": 1767458750090
+      "id": "a5a4e372aa86327890ebf722cf5713ae",
+      "timestamp": 1780686969865
     }
   ],
   "detail and avedia": [
@@ -32767,6 +32762,11 @@
       "site": "JobGurus",
       "id": "d6bff7eed72698d1080c8d37de9d8f9c",
       "timestamp": 1780680429322
+    },
+    {
+      "site": "JobGurus",
+      "id": "19b5bf273f86c970b4bde7c025e4e14d",
+      "timestamp": 1780686969865
     }
   ]
 }
