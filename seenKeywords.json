@@ -6375,8 +6375,8 @@
   "myafrimall logistics limited": [
     {
       "site": "JobGurus",
-      "id": "e94b469932ff3212ce53708ffec297c9",
-      "timestamp": 1768238406723
+      "id": "b31ad1040c0e345f6d5de11a2058c10f",
+      "timestamp": 1780680429322
     }
   ],
   "chellarams nigeria plc": [
@@ -8284,8 +8284,8 @@
   "onyx beauty hub": [
     {
       "site": "JobGurus",
-      "id": "5c01f5e6764a3a84161a8c66b10c5bda",
-      "timestamp": 1778103471641
+      "id": "641af56aaad73dd9aaaf7c51454bc2c0",
+      "timestamp": 1780680429322
     }
   ],
   "cuanu consult": [
@@ -28698,13 +28698,8 @@
   "elevare human solutions limited": [
     {
       "site": "JobGurus",
-      "id": "3af4537cfa7dcffa6b0fa756d8055a86",
-      "timestamp": 1778798099911
-    },
-    {
-      "site": "JobGurus",
-      "id": "7227322ccaba9d1534583b795f414716",
-      "timestamp": 1778802785859
+      "id": "69c515e9994465bdcd6294c2739f175b",
+      "timestamp": 1780680429322
     }
   ],
   "quadri advisory hr services limited": [
@@ -32758,6 +32753,20 @@
       "site": "JobGurus",
       "id": "159a6c776ef2eb8b1cbe902af48c3504",
       "timestamp": 1780672404578
+    }
+  ],
+  "cubana ikeja": [
+    {
+      "site": "JobGurus",
+      "id": "825568a3172138260633b3360853b911",
+      "timestamp": 1780680429322
+    }
+  ],
+  "managing banex mall limited": [
+    {
+      "site": "JobGurus",
+      "id": "d6bff7eed72698d1080c8d37de9d8f9c",
+      "timestamp": 1780680429322
     }
   ]
 }
