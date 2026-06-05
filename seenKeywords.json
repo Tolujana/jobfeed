@@ -1680,8 +1680,18 @@
   "outsource nigeria": [
     {
       "site": "JobGurus",
-      "id": "77254e1aad1921cd21f754d994be9caa",
-      "timestamp": 1763484622608
+      "id": "5f2ae3cd04eda744bf1ee63c39eac9bd",
+      "timestamp": 1780660710628
+    },
+    {
+      "site": "JobGurus",
+      "id": "69e66a1d21b6152f169b5f3817a8897a",
+      "timestamp": 1780660710628
+    },
+    {
+      "site": "JobGurus",
+      "id": "056edb3248c69799f5250cd3db87ac62",
+      "timestamp": 1780660710628
     }
   ],
   "seven-up bottling company limited": [
@@ -32737,6 +32747,20 @@
       "site": "JobGurus",
       "id": "57ce40a5edd9caa3ce37dbbe908abc3a",
       "timestamp": 1780613510478
+    }
+  ],
+  "jorax healthcare limited": [
+    {
+      "site": "JobGurus",
+      "id": "37342d937670c274de0d3d6da0fd885f",
+      "timestamp": 1780660710628
+    }
+  ],
+  "zetile stores limited": [
+    {
+      "site": "JobGurus",
+      "id": "c7b6873f3be9a6a5d5ed0d2e3bf40e1a",
+      "timestamp": 1780660710628
     }
   ]
 }
