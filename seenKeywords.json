@@ -901,8 +901,8 @@
   "bolton white group": [
     {
       "site": "JobGurus",
-      "id": "8614ed56fafac4923c69f863788dc633",
-      "timestamp": 1773586501049
+      "id": "b157e5b20f4a8ddb1481e6fdcd84f86f",
+      "timestamp": 1780672404578
     }
   ],
   "mephalti technologies limited": [
@@ -4956,18 +4956,8 @@
   "koins microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "4db9e21af6df9dd617948bfba4c3374a",
-      "timestamp": 1777310276335
-    },
-    {
-      "site": "JobGurus",
-      "id": "0b6d75325564c47e9b405c90fb541dc7",
-      "timestamp": 1777310276335
-    },
-    {
-      "site": "JobGurus",
-      "id": "cc93eb66c489e741578cfc4a740fa4b1",
-      "timestamp": 1777315650640
+      "id": "b9731361971cc15dd432238aeabf6559",
+      "timestamp": 1780672404578
     }
   ],
   "lifted horizon nigeria limited": [
@@ -20664,8 +20654,8 @@
   "wema bank plc": [
     {
       "site": "JobGurus",
-      "id": "df263e2d30456af8744ef065792dbb99",
-      "timestamp": 1777499751115
+      "id": "a8fc3ad2521c6e4b07a5efeac8a1acc6",
+      "timestamp": 1780672404578
     }
   ],
   "solidarités international (si)": [
@@ -30150,8 +30140,8 @@
   "iraizickify business store": [
     {
       "site": "JobGurus",
-      "id": "b79d515ca7e383ed72f59e5186464e88",
-      "timestamp": 1777914663210
+      "id": "f2ec324c5d000b849fb45378f40708c1",
+      "timestamp": 1780672404578
     }
   ],
   "savgret consulting limited": [
@@ -32761,6 +32751,13 @@
       "site": "JobGurus",
       "id": "c7b6873f3be9a6a5d5ed0d2e3bf40e1a",
       "timestamp": 1780660710628
+    }
+  ],
+  " huko advisory services": [
+    {
+      "site": "JobGurus",
+      "id": "159a6c776ef2eb8b1cbe902af48c3504",
+      "timestamp": 1780672404578
     }
   ]
 }
