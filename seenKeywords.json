@@ -5954,8 +5954,8 @@
   "westfield consulting limited": [
     {
       "site": "JobGurus",
-      "id": "d5142acfaae2da599cb5cae04352055b",
-      "timestamp": 1779481040295
+      "id": "877bb415e7a5e8999ed887722a394a0a",
+      "timestamp": 1780693562922
     }
   ],
   "health connect 24x7": [
@@ -7226,8 +7226,8 @@
   "westfield consulting": [
     {
       "site": "JobGurus",
-      "id": "5c2312833215ef2691c1c6c648b40079",
-      "timestamp": 1767781189023
+      "id": "c96e65bcb1890ffa41839cdcc4ea6f5a",
+      "timestamp": 1780693562922
     }
   ],
   "sumal foods limited": [
@@ -21736,8 +21736,8 @@
   "excare health": [
     {
       "site": "JobGurus",
-      "id": "056c45a20607f039392239556ea18ba2",
-      "timestamp": 1763665954152
+      "id": "488701566acee05b4f6025419aed6877",
+      "timestamp": 1780693562922
     }
   ],
   "dk homes": [
@@ -31249,8 +31249,8 @@
   "zinance limited": [
     {
       "site": "JobGurus",
-      "id": "55a7167dba9547479702fb3e4eed2eca",
-      "timestamp": 1777914663210
+      "id": "6b45c446b101def27b3bdad68c2eb2bb",
+      "timestamp": 1780693562922
     }
   ],
   "free from poverty financial services": [
@@ -32767,6 +32767,13 @@
       "site": "JobGurus",
       "id": "19b5bf273f86c970b4bde7c025e4e14d",
       "timestamp": 1780686969865
+    }
+  ],
+  "zojatech technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "8973c7b243d9b997057e6a7c3db06596",
+      "timestamp": 1780693562922
     }
   ]
 }
