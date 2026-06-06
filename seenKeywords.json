@@ -12747,8 +12747,8 @@
   "castel resources consultancy limited": [
     {
       "site": "JobGurus",
-      "id": "ba662ae7ae6f1ae0eb7ecdba420cac09",
-      "timestamp": 1778000557852
+      "id": "a64c25c2eb2d683eb6a53f79b465e2ed",
+      "timestamp": 1780739951645
     }
   ],
   "fidson healthcare plc": [
@@ -16440,8 +16440,8 @@
   "sunrose consulting limited": [
     {
       "site": "JobGurus",
-      "id": "e2e223df946a08626e054c58a2c1ce4d",
-      "timestamp": 1778874438727
+      "id": "a71f73df8127a54f7ed4cccd05c89944",
+      "timestamp": 1780739951645
     }
   ],
   " hr hive": [
@@ -32774,6 +32774,27 @@
       "site": "JobGurus",
       "id": "8973c7b243d9b997057e6a7c3db06596",
       "timestamp": 1780693562922
+    }
+  ],
+  "nasom limited": [
+    {
+      "site": "JobGurus",
+      "id": "cf15853d7af5703a9759c5e63677de77",
+      "timestamp": 1780739951645
+    }
+  ],
+  "talents delight limited": [
+    {
+      "site": "JobGurus",
+      "id": "5d003e2a9f09292319d4b740aa04747a",
+      "timestamp": 1780739951645
+    }
+  ],
+  "talentsdelight": [
+    {
+      "site": "JobGurus",
+      "id": "fa5036045ae8286be66266f2be453435",
+      "timestamp": 1780739951645
     }
   ]
 }
