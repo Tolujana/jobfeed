@@ -17694,6 +17694,16 @@
       "site": "JobGurus",
       "id": "26b67e44ea848a48135eb5ae819a240d",
       "timestamp": 1780757779696
+    },
+    {
+      "site": "JobGurus",
+      "id": "e8f957bef20306bd7266eed8405fe3f8",
+      "timestamp": 1780761853495
+    },
+    {
+      "site": "JobGurus",
+      "id": "bc05d142df28e94adf1f920bfc6ebb48",
+      "timestamp": 1780761853495
     }
   ],
   "appzone limited": [
@@ -32475,6 +32485,11 @@
       "site": "JobGurus",
       "id": "19dd7ca4ced1a34caa09205354b2340e",
       "timestamp": 1780757779696
+    },
+    {
+      "site": "JobGurus",
+      "id": "b707b32985e6079b4b2b56a90b9a95dc",
+      "timestamp": 1780761853495
     }
   ],
   "tmasourcing solutions": [
@@ -32815,6 +32830,20 @@
       "site": "JobGurus",
       "id": "fa5036045ae8286be66266f2be453435",
       "timestamp": 1780739951645
+    }
+  ],
+  "whitefield hotels limited": [
+    {
+      "site": "JobGurus",
+      "id": "2d5dda356c61d41eae857ec3bb701f6f",
+      "timestamp": 1780761853495
+    }
+  ],
+  "whitefield hotels": [
+    {
+      "site": "JobGurus",
+      "id": "fc88c33dea79173a816358ba06233e80",
+      "timestamp": 1780761853495
     }
   ]
 }
