@@ -1401,13 +1401,8 @@
   "amaiden energy nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "4b8b81df83ce4385ea8eca0467e48838",
-      "timestamp": 1779904510372
-    },
-    {
-      "site": "JobGurus",
-      "id": "8eb80ee18e03ef9732634d8f3c5cf616",
-      "timestamp": 1780376938032
+      "id": "a07050c4852627701eb690dae6fca132",
+      "timestamp": 1781012489449
     }
   ],
   "warri wetland hotel": [
@@ -14164,18 +14159,13 @@
   "ipt powertech group": [
     {
       "site": "JobGurus",
-      "id": "8748e9eb9d53962cd344891d0f7d6f05",
-      "timestamp": 1772563265389
+      "id": "2ac1acc361f6b72bd579293730528d48",
+      "timestamp": 1781012489449
     },
     {
       "site": "JobGurus",
-      "id": "22724948bc4bae8b8f7c2b9fffb1e877",
-      "timestamp": 1772563265389
-    },
-    {
-      "site": "JobGurus",
-      "id": "7b6c58b60fa361f5978d27530d2d07b9",
-      "timestamp": 1772563265389
+      "id": "54cdeb4925c479e08881c4c94fb02087",
+      "timestamp": 1781012489449
     }
   ],
   "elevated hr limited": [
@@ -32860,6 +32850,20 @@
       "site": "JobGurus",
       "id": "8cb4daa469a386fc2ff09eaa07caa90a",
       "timestamp": 1780973009092
+    }
+  ],
+  "electra global logistics limited": [
+    {
+      "site": "JobGurus",
+      "id": "f0e781c29991badeb4e25a9788043fba",
+      "timestamp": 1781012489449
+    }
+  ],
+  "leonardo spa hotel and suites": [
+    {
+      "site": "JobGurus",
+      "id": "77397220ab90eebe25891079d9379fd2",
+      "timestamp": 1781012489449
     }
   ]
 }
