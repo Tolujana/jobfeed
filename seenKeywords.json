@@ -2834,13 +2834,8 @@
   "hotel capitol": [
     {
       "site": "JobGurus",
-      "id": "4ce0ff0d13aaeea5f5c242f48a1c3e70",
-      "timestamp": 1777490297076
-    },
-    {
-      "site": "JobGurus",
-      "id": "46602925a046645bc487aac94705fa15",
-      "timestamp": 1777499751115
+      "id": "e90d0443b1ffe0acfc8880df39f697f5",
+      "timestamp": 1780973009092
     }
   ],
   "total secure nigeria limited": [
@@ -8628,8 +8623,8 @@
   "dmw engineering limited": [
     {
       "site": "JobGurus",
-      "id": "c99f5499533b6b1c2d3ee5b7d3d26197",
-      "timestamp": 1752835654868
+      "id": "99588c6bca4dca508a2912039bbbc7b6",
+      "timestamp": 1780973009092
     }
   ],
   "dm holdings (dmh)": [
@@ -9353,8 +9348,8 @@
   "j3 foods and store international": [
     {
       "site": "JobGurus",
-      "id": "19473e313b54cf98a3f9f9a56771e2ab",
-      "timestamp": 1774275368003
+      "id": "4ce0904d0dc8f0fd1ee48e587af74910",
+      "timestamp": 1780973009092
     }
   ],
   "arco worldwide services limited": [
@@ -17474,8 +17469,8 @@
   "integrated health care limited": [
     {
       "site": "JobGurus",
-      "id": "545f1b4d85424c62e54aed35dd204f80",
-      "timestamp": 1773777150833
+      "id": "45208ef21968d296476b33363d86a733",
+      "timestamp": 1780973009092
     }
   ],
   "acute angle media limited": [
@@ -32868,6 +32863,13 @@
       "site": "JobGurus",
       "id": "9f1e527223f8359f2edb0098e3fd9cef",
       "timestamp": 1780962264531
+    }
+  ],
+  "ifgreen industries and investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "8cb4daa469a386fc2ff09eaa07caa90a",
+      "timestamp": 1780973009092
     }
   ]
 }
