@@ -12352,6 +12352,11 @@
       "site": "JobGurus",
       "id": "ddb920b81cfa06eabb30b07d2580f27f",
       "timestamp": 1780962264531
+    },
+    {
+      "site": "JobGurus",
+      "id": "59d99610fd0640c3478dc05e7bab50b1",
+      "timestamp": 1781148686553
     }
   ],
   "xuriel resources": [
@@ -27409,8 +27414,8 @@
   "ablaze consultancy": [
     {
       "site": "JobGurus",
-      "id": "9c8b66a630cdd89d95ea9fddccd9f17d",
-      "timestamp": 1772480041472
+      "id": "eaeb633d77b3acc0526961c18394a272",
+      "timestamp": 1781148686553
     }
   ],
   "adventure capital group": [
@@ -29603,8 +29608,8 @@
   "spectranet limited": [
     {
       "site": "JobGurus",
-      "id": "606b116482377a1ec2dd4abcb9821718",
-      "timestamp": 1775497230838
+      "id": "780b06b4685438aa3ffa18b5f54045c1",
+      "timestamp": 1781148686553
     }
   ],
   "marana global services limited": [
@@ -30221,8 +30226,8 @@
   "intersos nigeria": [
     {
       "site": "JobGurus",
-      "id": "5017a9b3797ce055af70138d27e0a540",
-      "timestamp": 1777031637876
+      "id": "c903823204c2ffabeaf62ea29c4d70c6",
+      "timestamp": 1781148686553
     }
   ],
   "basic foundation international school": [
@@ -32943,6 +32948,13 @@
       "site": "JobGurus",
       "id": "1f6aa4a5ee4e5cc1af565fef95732031",
       "timestamp": 1781135701474
+    }
+  ],
+  "bau strabe limited": [
+    {
+      "site": "JobGurus",
+      "id": "629913803db84d25edc9c2c4e90e951b",
+      "timestamp": 1781148686553
     }
   ]
 }
