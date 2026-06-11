@@ -10504,8 +10504,8 @@
   "gti investment": [
     {
       "site": "JobGurus",
-      "id": "4bd66e6d649ceedc07ddd3e940783b9a",
-      "timestamp": 1779202257865
+      "id": "12f5f5a7262cc7c44b1904cd76085686",
+      "timestamp": 1781196558736
     }
   ],
   "roychem industries limited": [
@@ -30991,8 +30991,8 @@
   "det consulting & outsourcing limited": [
     {
       "site": "JobGurus",
-      "id": "a1485a27031f33e95c030817d08f9ee3",
-      "timestamp": 1777506660893
+      "id": "68557c392c49a2b42fe0096531b707ed",
+      "timestamp": 1781196558736
     }
   ],
   "paceview homes limited": [
@@ -32955,6 +32955,25 @@
       "site": "JobGurus",
       "id": "629913803db84d25edc9c2c4e90e951b",
       "timestamp": 1781148686553
+    }
+  ],
+  "agrinova limited": [
+    {
+      "site": "JobGurus",
+      "id": "6765d3595e1e36ae519a91be3af617f9",
+      "timestamp": 1781196558736
+    },
+    {
+      "site": "JobGurus",
+      "id": "1f7f70bed414664efe452650209a6823",
+      "timestamp": 1781196558736
+    }
+  ],
+  "fhon consulting": [
+    {
+      "site": "JobGurus",
+      "id": "091cc2c36e809d2095de8209c80cbd4a",
+      "timestamp": 1781196558736
     }
   ]
 }
