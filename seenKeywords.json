@@ -1500,6 +1500,11 @@
       "site": "JobGurus",
       "id": "edbcc12a6f24e9760c0f604c01b985f0",
       "timestamp": 1781298773555
+    },
+    {
+      "site": "JobGurus",
+      "id": "89005a6ac6c5de92f44a73a4eb311a3b",
+      "timestamp": 1781304889397
     }
   ],
   "unified payment services limited": [
@@ -10136,23 +10141,8 @@
   "tetra maritime": [
     {
       "site": "JobGurus",
-      "id": "c86944f6f48ec1a476f71075d9c968a5",
-      "timestamp": 1773936838883
-    },
-    {
-      "site": "JobGurus",
-      "id": "6624d96637a17d8a83cc1026f4eed94f",
-      "timestamp": 1773941456612
-    },
-    {
-      "site": "JobGurus",
-      "id": "6a950835e683e99f78b5d9043d292ad9",
-      "timestamp": 1773941456612
-    },
-    {
-      "site": "JobGurus",
-      "id": "8f017ca7da276ba44fc16b43b21e238e",
-      "timestamp": 1774018167939
+      "id": "33616992c08bb6e2ea1c1f11736d20c2",
+      "timestamp": 1781304889397
     }
   ],
   "terminal africa incorporated": [
@@ -33063,6 +33053,23 @@
       "site": "JobGurus",
       "id": "bd141be6218d7e16a41b50d343fa8ea9",
       "timestamp": 1781298773555
+    }
+  ],
+  "addosser microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "8673e7b48a9ed64145921d4ff1af4373",
+      "timestamp": 1781304889397
+    },
+    {
+      "site": "JobGurus",
+      "id": "b10ec49a76c10007bc14f6ddc14dbb68",
+      "timestamp": 1781304889397
+    },
+    {
+      "site": "JobGurus",
+      "id": "707d68d9fa07a93ba114149cf2c850e7",
+      "timestamp": 1781304889397
     }
   ]
 }
