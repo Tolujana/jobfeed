@@ -1344,13 +1344,8 @@
   "domeo resources international": [
     {
       "site": "JobGurus",
-      "id": "866f8a59587e08520018b818dda4734f",
-      "timestamp": 1775064423934
-    },
-    {
-      "site": "JobGurus",
-      "id": "b9254cf76255051eeb6bd95b32780774",
-      "timestamp": 1775234088449
+      "id": "004dea602558fbb75d18d2d82fc5cf59",
+      "timestamp": 1781378309337
     }
   ],
   "jtech global resources limited": [
@@ -7753,8 +7748,8 @@
   "burn nigeria": [
     {
       "site": "JobGurus",
-      "id": "ea9ccf1a6a4e735346f24cb71d26cc59",
-      "timestamp": 1752485019356
+      "id": "413fba52bb84dfc7bea18d7db1ca1117",
+      "timestamp": 1781378309337
     }
   ],
   "u-connect human resources limited": [
@@ -11264,6 +11259,11 @@
       "site": "JobGurus",
       "id": "df80545e768742de5e52019b8ea1275c",
       "timestamp": 1781373112515
+    },
+    {
+      "site": "JobGurus",
+      "id": "2d36e9002d1d773ebbd59f9cfc5a2157",
+      "timestamp": 1781378309337
     }
   ],
   "pulse nigeria": [
