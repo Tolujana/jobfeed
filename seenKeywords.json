@@ -30117,13 +30117,8 @@
   "savgret consulting limited": [
     {
       "site": "JobGurus",
-      "id": "352de8b794ae31516429be84d71d5500",
-      "timestamp": 1777118373934
-    },
-    {
-      "site": "JobGurus",
-      "id": "cf2dfe550397e7e90aed7c014ac73561",
-      "timestamp": 1777126321632
+      "id": "fbb57d3f165b21b35387eb18a7992873",
+      "timestamp": 1781367055661
     }
   ],
   "eudora & aegle management consulting": [
@@ -32627,8 +32622,8 @@
   "yaphi tech nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "75a7f8ad64ea1e1653be31e8ebea51ef",
-      "timestamp": 1780527761368
+      "id": "ea2a06ede99235afb5513642cc8e8264",
+      "timestamp": 1781367055661
     }
   ],
   "glanvill global resources limited": [
@@ -32978,6 +32973,11 @@
       "site": "JobGurus",
       "id": "66ec2fe9ceae813b10d98e9b9b60cd81",
       "timestamp": 1781206298738
+    },
+    {
+      "site": "JobGurus",
+      "id": "2d5fb1a4a32427c9c5d600fb0231c617",
+      "timestamp": 1781367055661
     }
   ],
   "house of born2fro": [
@@ -33080,6 +33080,13 @@
       "site": "JobGurus",
       "id": "707d68d9fa07a93ba114149cf2c850e7",
       "timestamp": 1781304889397
+    }
+  ],
+  "jsk consulting group": [
+    {
+      "site": "JobGurus",
+      "id": "4fb32d7c21d3ea05f2eaa28e3d8ef4db",
+      "timestamp": 1781367055661
     }
   ]
 }
