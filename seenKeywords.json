@@ -145,13 +145,13 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "98da782777db5a4b4514799d57b23b48",
-      "timestamp": 1778798099911
+      "id": "5b88e036f0b27ae23830415abe4ac814",
+      "timestamp": 1781361372486
     },
     {
       "site": "JobGurus",
-      "id": "dc75f43bc25ac809c5ba3e6db88c2a1d",
-      "timestamp": 1778798099911
+      "id": "4f2ebfeadd83bcb3902d3580cf2864a3",
+      "timestamp": 1781361372486
     }
   ],
   "cway group": [
@@ -2232,18 +2232,8 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "ed1f39242a86d59d6fb15a19fa13b49e",
-      "timestamp": 1779140667224
-    },
-    {
-      "site": "JobGurus",
-      "id": "3aef90dcfc48ab69997017ba097f0324",
-      "timestamp": 1779202257865
-    },
-    {
-      "site": "JobGurus",
-      "id": "d73a925710f0f26cd69e56c4aafd6f9e",
-      "timestamp": 1779372671032
+      "id": "65589f221c95e81446f53c519bacde06",
+      "timestamp": 1781361372486
     }
   ],
   "flees global services": [
@@ -29702,8 +29692,8 @@
   "resurgir consulting": [
     {
       "site": "JobGurus",
-      "id": "5b53d97ff072fdfac4904d9896394b8c",
-      "timestamp": 1777575059870
+      "id": "a065a73182b87eb52462eb152530cae9",
+      "timestamp": 1781361372486
     }
   ],
   "international workplace group (iwg)": [
@@ -33056,6 +33046,11 @@
       "site": "JobGurus",
       "id": "cfda348995ab93f409fb50c2e9a2b4ba",
       "timestamp": 1781292475802
+    },
+    {
+      "site": "JobGurus",
+      "id": "8d678d5a98c4733fdf42b179e770c82a",
+      "timestamp": 1781361372486
     }
   ],
   "lifeway unique homes": [
