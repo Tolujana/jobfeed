@@ -7890,8 +7890,8 @@
   "troop pharmaceuticals limited": [
     {
       "site": "JobGurus",
-      "id": "41a833847907dea8bfd20aed2b4b5489",
-      "timestamp": 1777569335849
+      "id": "9f0b09d7de83bd3c9660bcbc2402ad90",
+      "timestamp": 1781561679309
     }
   ],
   "talent-nest recruitment hub": [
@@ -27416,6 +27416,11 @@
       "site": "JobGurus",
       "id": "eaeb633d77b3acc0526961c18394a272",
       "timestamp": 1781148686553
+    },
+    {
+      "site": "JobGurus",
+      "id": "64cd428f3d62fa8b459387e74f86d64f",
+      "timestamp": 1781561679309
     }
   ],
   "adventure capital group": [
@@ -27551,8 +27556,8 @@
   "ren san & co.": [
     {
       "site": "JobGurus",
-      "id": "ebd92e684be85c92f013e7cea257f5a0",
-      "timestamp": 1780929122704
+      "id": "78620f36fd49b865eabfd30c4bf1d558",
+      "timestamp": 1781561679309
     }
   ],
   "jami engineering": [
@@ -33109,6 +33114,20 @@
       "site": "JobGurus",
       "id": "dba187da12170ddbf4b66a210e45b793",
       "timestamp": 1781373112515
+    }
+  ],
+  "ennymax gadgets": [
+    {
+      "site": "JobGurus",
+      "id": "3459254c2185654a8f5986c9baa4328b",
+      "timestamp": 1781561679309
+    }
+  ],
+  "asa security limited": [
+    {
+      "site": "JobGurus",
+      "id": "297b9d4ac00e8a6b0570ee9da97c7328",
+      "timestamp": 1781561679309
     }
   ]
 }
