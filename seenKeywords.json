@@ -12483,8 +12483,8 @@
   "ics outsourcing": [
     {
       "site": "JobGurus",
-      "id": "c14eb134f8af81e6d055e617ce831149",
-      "timestamp": 1773147353272
+      "id": "efcdef44af040e8d0e2b7b95b22ec567",
+      "timestamp": 1781626096583
     }
   ],
   "atlanticblu hotel & resort": [
@@ -14013,8 +14013,8 @@
   "arnergy solar limited": [
     {
       "site": "JobGurus",
-      "id": "0f117dd7cd31c892fbf517b28515cc97",
-      "timestamp": 1765899817237
+      "id": "e06a6757998e355424ddbbf4617606ea",
+      "timestamp": 1781626096583
     }
   ],
   "prohuman capital consulting": [
@@ -20639,8 +20639,8 @@
   "wema bank plc": [
     {
       "site": "JobGurus",
-      "id": "a8fc3ad2521c6e4b07a5efeac8a1acc6",
-      "timestamp": 1780672404578
+      "id": "be405f1905fbcc5d8b3022c7eb2efaae",
+      "timestamp": 1781626096583
     }
   ],
   "solidarités international (si)": [
@@ -33171,6 +33171,20 @@
       "site": "JobGurus",
       "id": "f749eb227f1ba232ae79ddcf78b6ef2f",
       "timestamp": 1781588619575
+    }
+  ],
+  "savalor hr consulting": [
+    {
+      "site": "JobGurus",
+      "id": "22205660a5358708141ed8aab5feece2",
+      "timestamp": 1781626096583
+    }
+  ],
+  "yangabeauty": [
+    {
+      "site": "JobGurus",
+      "id": "8eb554212b2348c2e7e293bb708de796",
+      "timestamp": 1781626096583
     }
   ]
 }
