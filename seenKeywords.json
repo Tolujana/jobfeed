@@ -19407,8 +19407,8 @@
   "basscomm nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6c6024c792dd9322e3724a0de3b1115e",
-      "timestamp": 1778182717401
+      "id": "c10b227613d9d9f5789f5612dc0b73e3",
+      "timestamp": 1781568513314
     }
   ],
   "lovebeams educational centre": [
@@ -24532,8 +24532,8 @@
   "detail and avedia": [
     {
       "site": "JobGurus",
-      "id": "adb7adacb600dbb61b0f470e97388a7c",
-      "timestamp": 1767458750090
+      "id": "5868a6a04dafcfbb16329fbb2022f147",
+      "timestamp": 1781568513314
     }
   ],
   "beaumont luxe interiors": [
@@ -30425,6 +30425,11 @@
       "site": "JobGurus",
       "id": "044bd8ee5a035ff354d3db2b0f362573",
       "timestamp": 1781552596859
+    },
+    {
+      "site": "JobGurus",
+      "id": "92c4c0b15a145da641731eb5f35a9a92",
+      "timestamp": 1781568513314
     }
   ],
   "upperbound contractors limited": [
@@ -33128,6 +33133,20 @@
       "site": "JobGurus",
       "id": "297b9d4ac00e8a6b0570ee9da97c7328",
       "timestamp": 1781561679309
+    }
+  ],
+  "smithstone propertie": [
+    {
+      "site": "JobGurus",
+      "id": "3c614ce0a6ec31ab1ebe3b6f40c9e3d2",
+      "timestamp": 1781568513314
+    }
+  ],
+  "cmp nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "096da1def5f42a543872f35d65082849",
+      "timestamp": 1781568513314
     }
   ]
 }
