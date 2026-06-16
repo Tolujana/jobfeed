@@ -7961,6 +7961,11 @@
       "site": "JobGurus",
       "id": "cde8e3d9bb635a72a5d3c9a84afb91a6",
       "timestamp": 1781552596859
+    },
+    {
+      "site": "JobGurus",
+      "id": "5a6a9399127458a97ce185e8e94d7d17",
+      "timestamp": 1781588619575
     }
   ],
   "zara & fara": [
@@ -26818,8 +26823,8 @@
   "jodazen integrated services": [
     {
       "site": "JobGurus",
-      "id": "00fc9779b461a05ed3615b2a26eb706e",
-      "timestamp": 1770287774938
+      "id": "d6f40c5afc74276eda6f016ab7e4831a",
+      "timestamp": 1781588619575
     }
   ],
   "jake riley limited": [
@@ -33147,6 +33152,25 @@
       "site": "JobGurus",
       "id": "096da1def5f42a543872f35d65082849",
       "timestamp": 1781568513314
+    },
+    {
+      "site": "JobGurus",
+      "id": "665ff18371d949b7ec2110cd9c95d549",
+      "timestamp": 1781588619575
+    }
+  ],
+  "smollan": [
+    {
+      "site": "JobGurus",
+      "id": "54f48a2a4f01d3810ba5a9623faa0626",
+      "timestamp": 1781588619575
+    }
+  ],
+  "zylus group": [
+    {
+      "site": "JobGurus",
+      "id": "f749eb227f1ba232ae79ddcf78b6ef2f",
+      "timestamp": 1781588619575
     }
   ]
 }
