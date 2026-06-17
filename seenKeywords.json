@@ -537,6 +537,11 @@
       "site": "JobGurus",
       "id": "62ec121e47e589161a1b352831f26481",
       "timestamp": 1781284801903
+    },
+    {
+      "site": "JobGurus",
+      "id": "1264bb3b5ffd9485690488adc7887d5f",
+      "timestamp": 1781714131471
     }
   ],
   "abbfem group": [
@@ -12696,18 +12701,8 @@
   "smooth promotions": [
     {
       "site": "JobGurus",
-      "id": "631ee9ff0cf78e5265ea49b5a09439ef",
-      "timestamp": 1755800540935
-    },
-    {
-      "site": "JobGurus",
-      "id": "d385098a0d1669330b25686f65a4dfd3",
-      "timestamp": 1755952091743
-    },
-    {
-      "site": "JobGurus",
-      "id": "5b162e55bcf4504da69933fe467e9dd9",
-      "timestamp": 1755952091743
+      "id": "7b8e8b8d400cfd98f8cb92aefc89aa85",
+      "timestamp": 1781714131471
     }
   ],
   "united nations world food programme": [
@@ -26957,8 +26952,8 @@
   "newedge finance limited": [
     {
       "site": "JobGurus",
-      "id": "3b5538b537a368066110c7223615fa0f",
-      "timestamp": 1777479049642
+      "id": "58b5a4469af0b2483270a2d4654d14ce",
+      "timestamp": 1781714131471
     }
   ],
   "skyline international tourism & hospitality ltd": [
@@ -33225,6 +33220,20 @@
       "site": "JobGurus",
       "id": "0e1d72984d749ad80b837603bf9d515c",
       "timestamp": 1781654044450
+    }
+  ],
+  "koye's burger": [
+    {
+      "site": "JobGurus",
+      "id": "dc8d05a07e85683fe9daf761ca7c6b1e",
+      "timestamp": 1781714131471
+    }
+  ],
+  "love world interiors": [
+    {
+      "site": "JobGurus",
+      "id": "4b19184e0fe0b23c27df66b8d328c732",
+      "timestamp": 1781714131471
     }
   ]
 }
