@@ -2313,13 +2313,8 @@
   "lily hospitals limited": [
     {
       "site": "JobGurus",
-      "id": "4338058ce463df756c801f68127e048f",
-      "timestamp": 1777506660893
-    },
-    {
-      "site": "JobGurus",
-      "id": "a5eb16631a4405e890f17a4fc7cbd3dd",
-      "timestamp": 1777914663210
+      "id": "67448dacd546ef48b00557bf36a17fd4",
+      "timestamp": 1781724114849
     }
   ],
   "federal polytechnic, bida.": [
@@ -8011,8 +8006,8 @@
   "swift consulting limited": [
     {
       "site": "JobGurus",
-      "id": "8eda3bb800b21c4b4e7ad6daaffd92c3",
-      "timestamp": 1777310276335
+      "id": "a4f2500f409924146715a58cb491aad1",
+      "timestamp": 1781724114849
     }
   ],
   "danish refugee council": [
@@ -14200,8 +14195,8 @@
   "karabow construction": [
     {
       "site": "JobGurus",
-      "id": "388503385d481636a51c7ccf70e9f607",
-      "timestamp": 1757075382660
+      "id": "57898c011f3452010656692b244349a0",
+      "timestamp": 1781724114849
     }
   ],
   "kredi bank": [
@@ -31331,8 +31326,8 @@
   "fembol investments limited": [
     {
       "site": "JobGurus",
-      "id": "3b79243ec467bce74aa80aad18f7740d",
-      "timestamp": 1778024601734
+      "id": "29bb8c35720ed1c82ac9d3b6d2216ea5",
+      "timestamp": 1781724114849
     }
   ],
   "club xcyte lagos": [
@@ -33234,6 +33229,13 @@
       "site": "JobGurus",
       "id": "4b19184e0fe0b23c27df66b8d328c732",
       "timestamp": 1781714131471
+    }
+  ],
+  "charryville academy": [
+    {
+      "site": "JobGurus",
+      "id": "ba6460d5dd26a7beb3fe33d1971bf228",
+      "timestamp": 1781724114849
     }
   ]
 }
