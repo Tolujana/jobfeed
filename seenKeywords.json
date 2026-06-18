@@ -12902,13 +12902,8 @@
   "mmt consults": [
     {
       "site": "JobGurus",
-      "id": "d4e188dbb38386f3b72a219bc291a78c",
-      "timestamp": 1778712216100
-    },
-    {
-      "site": "JobGurus",
-      "id": "5efc0ac8f48ab47ff0565d494e68f2eb",
-      "timestamp": 1779298662573
+      "id": "782d4e808a292d3d474edd0c705d0116",
+      "timestamp": 1781824568619
     }
   ],
   "elsadave consulting limited": [
@@ -16097,8 +16092,8 @@
   "bell oil and gas limited": [
     {
       "site": "JobGurus",
-      "id": "8ed2f4a1478e22de4100e0234f3cbd68",
-      "timestamp": 1773073948821
+      "id": "3f7897bb6be8f8bd16dc6e35a2e1bb00",
+      "timestamp": 1781824568619
     }
   ],
   "giftitng": [
@@ -33228,6 +33223,25 @@
       "site": "JobGurus",
       "id": "e140ef89562604a62b8e09bc9d6518a6",
       "timestamp": 1781817622984
+    }
+  ],
+  "union bank of nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "2111477c9faacbf955336170d5860112",
+      "timestamp": 1781824568619
+    }
+  ],
+  "ap professional services": [
+    {
+      "site": "JobGurus",
+      "id": "ac184aca5ad220e9bc3500fc3a26bd1f",
+      "timestamp": 1781824568619
+    },
+    {
+      "site": "JobGurus",
+      "id": "fcb6e905ff727f11f0682ef4d25d1a37",
+      "timestamp": 1781824568619
     }
   ]
 }
