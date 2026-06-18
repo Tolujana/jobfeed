@@ -4834,8 +4834,8 @@
   "egbin power plc": [
     {
       "site": "JobGurus",
-      "id": "d1332f13350d6ca877ce3496109da4d6",
-      "timestamp": 1770213619153
+      "id": "a2fc58d26aa177e9a360f6fadb089b97",
+      "timestamp": 1781817622984
     }
   ],
   "uleval technology": [
@@ -5958,18 +5958,8 @@
   "bridgemead hr. and advisory": [
     {
       "site": "JobGurus",
-      "id": "76df8d579138a83b8f9d8fb25367bc5e",
-      "timestamp": 1776516839813
-    },
-    {
-      "site": "JobGurus",
-      "id": "721acd2fdde6b611a8f21b96c4cc2acd",
-      "timestamp": 1776516839813
-    },
-    {
-      "site": "JobGurus",
-      "id": "85fb4afb8afd647fdf7b219f47b2bdad",
-      "timestamp": 1776530077598
+      "id": "3780a8d8085d600351c220d5651804e1",
+      "timestamp": 1781817622984
     }
   ],
   "taybuwtah international": [
@@ -8292,23 +8282,8 @@
   "kolomoni microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "8abcd94b3de9e918a6418f5d210954d5",
-      "timestamp": 1752680581437
-    },
-    {
-      "site": "JobGurus",
-      "id": "bbb9a68ed24a24f44ad8c2a6b2364115",
-      "timestamp": 1752687894197
-    },
-    {
-      "site": "JobGurus",
-      "id": "9932f1976ede6b7cfce28bde4cfa7314",
-      "timestamp": 1752693276840
-    },
-    {
-      "site": "JobGurus",
-      "id": "1f4b06a5030aa20e83f9a35f4418fd2b",
-      "timestamp": 1752761693636
+      "id": "db5236221deb6b1a8c1a98e24fa0931a",
+      "timestamp": 1781817622984
     }
   ],
   "ama-zuma services limited": [
@@ -33239,6 +33214,20 @@
       "site": "JobGurus",
       "id": "c2beaf198e92ac21d0b01dd1dd1d3aa7",
       "timestamp": 1781799908263
+    }
+  ],
+  "bambau cafe": [
+    {
+      "site": "JobGurus",
+      "id": "63dd9bb9d3d142d267597c922540b09d",
+      "timestamp": 1781817622984
+    }
+  ],
+  "pro technology limited": [
+    {
+      "site": "JobGurus",
+      "id": "e140ef89562604a62b8e09bc9d6518a6",
+      "timestamp": 1781817622984
     }
   ]
 }
