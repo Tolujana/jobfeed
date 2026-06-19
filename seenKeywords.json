@@ -3730,8 +3730,8 @@
   "rainoil limited": [
     {
       "site": "JobGurus",
-      "id": "110e01fa253ea766b40fc63b6fb96e38",
-      "timestamp": 1780164181884
+      "id": "c784830d731ca2d226e1aba2e5b65354",
+      "timestamp": 1781870507328
     }
   ],
   "the borough lagos": [
@@ -3877,8 +3877,8 @@
   "tybitx services international limited": [
     {
       "site": "JobGurus",
-      "id": "8d9f096b569af52a736da922810379d9",
-      "timestamp": 1766061317501
+      "id": "aab771db2e07f55a1058473d40f6887b",
+      "timestamp": 1781870507328
     }
   ],
   "solution impact global resources": [
@@ -12166,8 +12166,8 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "2df26b2f32cbae956a2bcd9a5596bf27",
-      "timestamp": 1774882065674
+      "id": "09c5a04b66c7a4da86ecbf7b053c0fd3",
+      "timestamp": 1781870507328
     }
   ],
   "saro agro-allied": [
@@ -33242,6 +33242,20 @@
       "site": "JobGurus",
       "id": "fcb6e905ff727f11f0682ef4d25d1a37",
       "timestamp": 1781824568619
+    }
+  ],
+  "zinajob": [
+    {
+      "site": "JobGurus",
+      "id": "585399e61fe0a77692912a07a123373f",
+      "timestamp": 1781870507328
+    }
+  ],
+  "amadeus university": [
+    {
+      "site": "JobGurus",
+      "id": "b6872f31bab8da60e29cae744c8cfc42",
+      "timestamp": 1781870507328
     }
   ]
 }
