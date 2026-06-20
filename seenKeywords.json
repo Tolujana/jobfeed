@@ -41,8 +41,8 @@
   "dag industries nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "a6212c0482243c24af823f5c9f4095ff",
-      "timestamp": 1777396183049
+      "id": "27ca53a0db58bbc5f87fc04dae0cf124",
+      "timestamp": 1781957641176
     }
   ],
   "compovine technologies limited": [
@@ -23046,8 +23046,8 @@
   "fortics lifecare limited": [
     {
       "site": "JobGurus",
-      "id": "537f259c7a14fd92e5a8944dca1a8e96",
-      "timestamp": 1772890532354
+      "id": "926c8a56e3c4243863d76b559815d0fc",
+      "timestamp": 1781957641176
     }
   ],
   "positivia consult": [
@@ -27593,8 +27593,8 @@
   "clinora health group": [
     {
       "site": "JobGurus",
-      "id": "7fed8c7d53b89909d3be21700574a7cd",
-      "timestamp": 1772726869641
+      "id": "018e2dfe053a10ee56c0224456fb3eb4",
+      "timestamp": 1781957641176
     }
   ],
   "aquila partners": [
@@ -33325,6 +33325,20 @@
       "site": "JobGurus",
       "id": "cd65f2a9e9b49bf3a00a0d64fe6ae997",
       "timestamp": 1781950202209
+    }
+  ],
+  "mopson pharmaceutical limited": [
+    {
+      "site": "JobGurus",
+      "id": "38581c0f4ebd1fbe310319c97200c268",
+      "timestamp": 1781957641176
+    }
+  ],
+  "mykrogrid": [
+    {
+      "site": "JobGurus",
+      "id": "b620cf20c799acc4ffcb47eb9e8b0656",
+      "timestamp": 1781957641176
     }
   ]
 }
