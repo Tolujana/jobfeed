@@ -1087,18 +1087,8 @@
   "cobranet limited": [
     {
       "site": "JobGurus",
-      "id": "e5b6af293120847897f7ccbd383d7852",
-      "timestamp": 1780089609628
-    },
-    {
-      "site": "JobGurus",
-      "id": "dd455aa3be320cfe2b64c255f7e83dc9",
-      "timestamp": 1780155906454
-    },
-    {
-      "site": "JobGurus",
-      "id": "d5c80ead336e6ade6cadc11c4325610c",
-      "timestamp": 1780331637303
+      "id": "a45d03fa2f50cb524dfd692299c17c4b",
+      "timestamp": 1781950202209
     }
   ],
   "habaripay limited": [
@@ -10507,8 +10497,8 @@
   "multipro consumer products limited": [
     {
       "site": "JobGurus",
-      "id": "63825a0797c9dab1dbc5187f27cad2e4",
-      "timestamp": 1775835984124
+      "id": "e325c2a8f2ae48507b3c441258fde302",
+      "timestamp": 1781950202209
     }
   ],
   "allied food and confectionery services": [
@@ -33321,6 +33311,20 @@
       "site": "JobGurus",
       "id": "3a73a92e77b29abf2c65c0500063cce4",
       "timestamp": 1781903132029
+    }
+  ],
+  "vitra (c-ceramica operations limited)": [
+    {
+      "site": "JobGurus",
+      "id": "b5945308cfaed167101bf25f8fe45cbc",
+      "timestamp": 1781950202209
+    }
+  ],
+  "me cure healthcare limited": [
+    {
+      "site": "JobGurus",
+      "id": "cd65f2a9e9b49bf3a00a0d64fe6ae997",
+      "timestamp": 1781950202209
     }
   ]
 }
