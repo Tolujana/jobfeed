@@ -1634,6 +1634,11 @@
       "site": "JobGurus",
       "id": "a70d6316bf80f10f370c714867266ad4",
       "timestamp": 1782151797095
+    },
+    {
+      "site": "JobGurus",
+      "id": "176bdf071eea58bd604eac2968d8384b",
+      "timestamp": 1782163124251
     }
   ],
   "tyonex nigeria limited": [
@@ -2732,8 +2737,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "1104d6004cfbe34aa0e96fd775c71326",
-      "timestamp": 1779391436211
+      "id": "604d8f339753d9b5cdee21af806dda24",
+      "timestamp": 1782163124251
     }
   ],
   "netcom africa": [
@@ -33363,6 +33368,25 @@
       "site": "JobGurus",
       "id": "686c903f787ececd291c15be1d044e02",
       "timestamp": 1782151797095
+    },
+    {
+      "site": "JobGurus",
+      "id": "048a67cc59af8898421629a067a66e92",
+      "timestamp": 1782163124251
+    }
+  ],
+  "sinoma nigeria company limited": [
+    {
+      "site": "JobGurus",
+      "id": "88e673f770a3564b2603381cc7983a13",
+      "timestamp": 1782163124251
+    }
+  ],
+  "première urgence internationale (pui)": [
+    {
+      "site": "JobGurus",
+      "id": "9f1948f44e7f186fad7f22b786f0ecf6",
+      "timestamp": 1782163124251
     }
   ]
 }
