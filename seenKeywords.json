@@ -1677,8 +1677,8 @@
   "seven-up bottling company limited": [
     {
       "site": "JobGurus",
-      "id": "c96430c38880cf72ed003368496bd675",
-      "timestamp": 1778016812947
+      "id": "b43399972b6042743d27a022c119daa6",
+      "timestamp": 1782169211859
     }
   ],
   "lemfi (yc s21)": [
@@ -2603,13 +2603,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "17219f4371ed6a96225ff705c13fb282",
-      "timestamp": 1774551547856
-    },
-    {
-      "site": "JobGurus",
-      "id": "3e807ae3d7669051b7fd2691a1977468",
-      "timestamp": 1774965975180
+      "id": "b70cabbcd3f5eb79e49dcf6065d1f2c5",
+      "timestamp": 1782169211859
     }
   ],
   "international fertilizer development center": [
@@ -21524,8 +21519,8 @@
   "elite logistics & development services limited": [
     {
       "site": "JobGurus",
-      "id": "62381c4d0e5b37608ac12b0acb9eb675",
-      "timestamp": 1779486039658
+      "id": "6ece09616c2d3203cb9ed9f9939b56fd",
+      "timestamp": 1782169211859
     }
   ],
   "nigerian college of agribusiness": [
@@ -33387,6 +33382,20 @@
       "site": "JobGurus",
       "id": "9f1948f44e7f186fad7f22b786f0ecf6",
       "timestamp": 1782163124251
+    }
+  ],
+  "botare creation nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "22842796ce75f89834c7547eb2ef12db",
+      "timestamp": 1782169211859
+    }
+  ],
+  "shema holdings limited": [
+    {
+      "site": "JobGurus",
+      "id": "e0efe5eab91c5e1529639b3573aa315e",
+      "timestamp": 1782169211859
     }
   ]
 }
