@@ -1632,8 +1632,8 @@
   "innov8 hub": [
     {
       "site": "JobGurus",
-      "id": "271b2f212c92df60a5ffcf8610a64ec5",
-      "timestamp": 1749465915168
+      "id": "a70d6316bf80f10f370c714867266ad4",
+      "timestamp": 1782151797095
     }
   ],
   "tyonex nigeria limited": [
@@ -4991,8 +4991,8 @@
   "pharmarun": [
     {
       "site": "JobGurus",
-      "id": "8e508ee5398c7e8d1a776d347d67637d",
-      "timestamp": 1751469446164
+      "id": "fbb70e8552c7a64b586a632a067906e9",
+      "timestamp": 1782151797095
     }
   ],
   " ekiti agro-allied international cargo airport": [
@@ -22743,8 +22743,8 @@
   "jv management consulting": [
     {
       "site": "JobGurus",
-      "id": "a7c9d3d078df60960551d5ded019134f",
-      "timestamp": 1780538650364
+      "id": "c36e30943c309e56c5cb665f3b1a54bc",
+      "timestamp": 1782151797095
     }
   ],
   "doii design limited": [
@@ -32604,8 +32604,8 @@
   "glanvill global resources limited": [
     {
       "site": "JobGurus",
-      "id": "4446d6071d527efbe87783a31a773eff",
-      "timestamp": 1780538650364
+      "id": "854a8ea807744141f96622d55cbaa9af",
+      "timestamp": 1782151797095
     }
   ],
   "education consulting and edtech company": [
@@ -33356,6 +33356,13 @@
       "site": "JobGurus",
       "id": "15b88552424a1a2886ebb05c899b50b6",
       "timestamp": 1782135053979
+    }
+  ],
+  "jamub group of companies": [
+    {
+      "site": "JobGurus",
+      "id": "686c903f787ececd291c15be1d044e02",
+      "timestamp": 1782151797095
     }
   ]
 }
