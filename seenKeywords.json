@@ -466,8 +466,8 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "b5ad16e2f762a4ca380a77970b2db0f5",
-      "timestamp": 1776950293150
+      "id": "9bdb4b972971e4a87f6c354c7724222d",
+      "timestamp": 1782173765061
     }
   ],
   "cig motors co. limited": [
@@ -30693,8 +30693,8 @@
   "zenith precision limited": [
     {
       "site": "JobGurus",
-      "id": "f8cf6a0249b1a8f6570e434eaaa9924f",
-      "timestamp": 1777042313142
+      "id": "bdfbc7ca3dd9c3b71f17e850053b655d",
+      "timestamp": 1782173765061
     }
   ],
   "izili nigeria": [
@@ -33396,6 +33396,25 @@
       "site": "JobGurus",
       "id": "e0efe5eab91c5e1529639b3573aa315e",
       "timestamp": 1782169211859
+    },
+    {
+      "site": "JobGurus",
+      "id": "994dbe53922835e52d00e6f28f9f7fb6",
+      "timestamp": 1782173765061
+    }
+  ],
+  "obasanjo farms nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "7ed71801508e0e48764d41ca9fe2b7b2",
+      "timestamp": 1782173765061
+    }
+  ],
+  "fatgbems group": [
+    {
+      "site": "JobGurus",
+      "id": "58ee7794fb29a7c49a81a3db622bb2cd",
+      "timestamp": 1782173765061
     }
   ]
 }
