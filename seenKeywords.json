@@ -9555,8 +9555,8 @@
   "quicky chillis restaurant": [
     {
       "site": "JobGurus",
-      "id": "e0b9470d9dc38a405ca250bda6a2b97f",
-      "timestamp": 1755265632106
+      "id": "157f9add412091684758ee7106d091e3",
+      "timestamp": 1782225550240
     }
   ],
   "qquicky chillis restaurant": [
@@ -15910,6 +15910,11 @@
       "site": "JobGurus",
       "id": "2d2c2e879e998b81c0de0c527b270549",
       "timestamp": 1781808001712
+    },
+    {
+      "site": "JobGurus",
+      "id": "96fa2fd07181d5186c8fc014a2b5c82a",
+      "timestamp": 1782225550240
     }
   ],
   "startimes": [
@@ -23916,8 +23921,8 @@
   "rand merchant bank (rmb)": [
     {
       "site": "JobGurus",
-      "id": "0400a4391f1d7dc882441cc1cd52a2ec",
-      "timestamp": 1766230556255
+      "id": "5e1b5ff73fc58c546f6e63178c0cf251",
+      "timestamp": 1782225550240
     }
   ],
   "metro bakery & restaurant": [
@@ -25295,13 +25300,13 @@
   "coleman technical industries limited": [
     {
       "site": "JobGurus",
-      "id": "7dcd049ca0dcc5b8ee1b473ede21828b",
-      "timestamp": 1768477241898
+      "id": "9b2691909b66b485d9c5ee76e1881f03",
+      "timestamp": 1782225550240
     },
     {
       "site": "JobGurus",
-      "id": "fcb6e38100adb3c2e9eb2b2847d9ee27",
-      "timestamp": 1768486837187
+      "id": "8f8282169fd2d6a9427c640f8cc5ca71",
+      "timestamp": 1782225550240
     }
   ],
   "zuma coffee": [
