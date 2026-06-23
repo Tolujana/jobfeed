@@ -2986,8 +2986,13 @@
   "simba group": [
     {
       "site": "JobGurus",
-      "id": "8216be251855ebbdfd19b461912d7cee",
-      "timestamp": 1778337177855
+      "id": "3b0ce5b77df209a54326e8a3e193c901",
+      "timestamp": 1782254700114
+    },
+    {
+      "site": "JobGurus",
+      "id": "bd2932830cdd8d832c61def58e4a9b0f",
+      "timestamp": 1782254700114
     }
   ],
   "mactay consulting": [
@@ -11242,18 +11247,8 @@
   "domeo resources international (dri)": [
     {
       "site": "JobGurus",
-      "id": "df80545e768742de5e52019b8ea1275c",
-      "timestamp": 1781373112515
-    },
-    {
-      "site": "JobGurus",
-      "id": "2d36e9002d1d773ebbd59f9cfc5a2157",
-      "timestamp": 1781378309337
-    },
-    {
-      "site": "JobGurus",
-      "id": "04aa8efc6c919f548ce92f0439ce6311",
-      "timestamp": 1781538468556
+      "id": "5a551cb0aa194c789f8fb6e77de228c2",
+      "timestamp": 1782254700114
     }
   ],
   "pulse nigeria": [
@@ -16091,8 +16086,13 @@
   "givanas cosmetics nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "84670dd8472ccd7d170a3a83fdff63ae",
-      "timestamp": 1775079454000
+      "id": "c5f6f99254558b3c73cf7aa69d14b41d",
+      "timestamp": 1782254700114
+    },
+    {
+      "site": "JobGurus",
+      "id": "e509d2e68e83c30da455ce14e2ed92de",
+      "timestamp": 1782254700114
     }
   ],
   "de royal drinkables and refreshments limited": [
