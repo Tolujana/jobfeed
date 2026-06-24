@@ -3416,8 +3416,8 @@
   "citygate global investment limited": [
     {
       "site": "JobGurus",
-      "id": "9f20c22744ddf7a390eecdea3e21af55",
-      "timestamp": 1778016812947
+      "id": "db98f57476157f958b2d3793c6ca2ef4",
+      "timestamp": 1782315061207
     }
   ],
   "fruitylife": [
@@ -4053,6 +4053,11 @@
       "site": "JobGurus",
       "id": "6ec7b13e4b9418104ec1362c686ac636",
       "timestamp": 1781786879641
+    },
+    {
+      "site": "JobGurus",
+      "id": "20517c3d859f174747112c7ceb18b7ce",
+      "timestamp": 1782315061207
     }
   ],
   "prixair group": [
@@ -33488,6 +33493,20 @@
       "site": "JobGurus",
       "id": "3518b51f3fc9d8863deac6e1a99bbaf9",
       "timestamp": 1782304346894
+    }
+  ],
+  "wakaeat": [
+    {
+      "site": "JobGurus",
+      "id": "2926d5209b347d2466284928e60214d5",
+      "timestamp": 1782315061207
+    }
+  ],
+  "leisure court nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "0d37c6cf01f58977f7b40650b982a12b",
+      "timestamp": 1782315061207
     }
   ]
 }
