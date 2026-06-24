@@ -2631,8 +2631,8 @@
   "coronation insurance plc": [
     {
       "site": "JobGurus",
-      "id": "3fb3f82495a1cab6eec9a69183217433",
-      "timestamp": 1749737753140
+      "id": "b14e6add1a269ea5e3d2103843a5f694",
+      "timestamp": 1782330014507
     }
   ],
   "swift networks limited": [
@@ -33511,6 +33511,30 @@
       "site": "JobGurus",
       "id": "394f06b67ca65e041b111e02ccf3b0bd",
       "timestamp": 1782323414525
+    }
+  ],
+  "opes venit": [
+    {
+      "site": "JobGurus",
+      "id": "25e562c4edfad689faa469d91401d84b",
+      "timestamp": 1782330014507
+    }
+  ],
+  "vibe lounge": [
+    {
+      "site": "JobGurus",
+      "id": "44fbd0b479e3a664248d9d23d2a896a7",
+      "timestamp": 1782330014507
+    },
+    {
+      "site": "JobGurus",
+      "id": "48178509faf88c846342ccc0a919d9c9",
+      "timestamp": 1782330014507
+    },
+    {
+      "site": "JobGurus",
+      "id": "27c2314d1c29b88331d4b4fb398d059e",
+      "timestamp": 1782330014507
     }
   ]
 }
