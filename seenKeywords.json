@@ -3334,8 +3334,8 @@
   "first bank of nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "0b3b7d9e272357b491c3758b4a470d74",
-      "timestamp": 1779965519573
+      "id": "6a14258cb9505222c5a29e09c6d1ad66",
+      "timestamp": 1782304346894
     }
   ],
   "daytona peoples pharmacy and supermarket": [
@@ -3395,8 +3395,8 @@
   "aureole consulting limited": [
     {
       "site": "JobGurus",
-      "id": "b194c563aeee07d5142b922c98dd5106",
-      "timestamp": 1778608934699
+      "id": "3758c175a6bb77f1c39d90a44964a69f",
+      "timestamp": 1782304346894
     }
   ],
   "auldon limited": [
@@ -31465,8 +31465,8 @@
   "whip-smart service providers limited": [
     {
       "site": "JobGurus",
-      "id": "07636e8d07f4869a1c40833f3258a8e7",
-      "timestamp": 1778258954549
+      "id": "393ad68e6679f195baf48306b44eaed9",
+      "timestamp": 1782304346894
     }
   ],
   "hope payment service bank limited": [
@@ -33481,6 +33481,13 @@
       "site": "JobGurus",
       "id": "f27a39ac097b6da7cb15e54f19a49f96",
       "timestamp": 1782296321929
+    }
+  ],
+  "whip-smart service": [
+    {
+      "site": "JobGurus",
+      "id": "3518b51f3fc9d8863deac6e1a99bbaf9",
+      "timestamp": 1782304346894
     }
   ]
 }
