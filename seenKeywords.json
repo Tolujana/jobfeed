@@ -5797,8 +5797,8 @@
   "nepal energies": [
     {
       "site": "JobGurus",
-      "id": "488bb8c4bd39b73df4865c6d4d5b192f",
-      "timestamp": 1775740619644
+      "id": "c6fc02491b126ecac892d3baad936802",
+      "timestamp": 1782323414525
     }
   ],
   "verus consultants": [
@@ -28225,18 +28225,8 @@
   "snappycx": [
     {
       "site": "JobGurus",
-      "id": "5cb5b99d3235dfb4715787b6d9736c42",
-      "timestamp": 1773588320077
-    },
-    {
-      "site": "JobGurus",
-      "id": "87e08c40a33bb7042c4524b2db4cb6d3",
-      "timestamp": 1773589861446
-    },
-    {
-      "site": "JobGurus",
-      "id": "ce27315583b1b6402004f205c1f1d9a6",
-      "timestamp": 1773592028091
+      "id": "d62c1570b799582e2285b893190b90e2",
+      "timestamp": 1782323414525
     }
   ],
   "global village healthcare initiative for africa (ghiv africa)": [
@@ -28668,8 +28658,8 @@
   "elevare human solutions limited": [
     {
       "site": "JobGurus",
-      "id": "69c515e9994465bdcd6294c2739f175b",
-      "timestamp": 1780680429322
+      "id": "8b36ea54db74cd73a24c392f15305eec",
+      "timestamp": 1782323414525
     }
   ],
   "quadri advisory hr services limited": [
@@ -33507,6 +33497,20 @@
       "site": "JobGurus",
       "id": "0d37c6cf01f58977f7b40650b982a12b",
       "timestamp": 1782315061207
+    }
+  ],
+  "yellow door hotels": [
+    {
+      "site": "JobGurus",
+      "id": "b5b524e2e8c117a29665bd6d347f9520",
+      "timestamp": 1782323414525
+    }
+  ],
+  " pallyshop discount": [
+    {
+      "site": "JobGurus",
+      "id": "394f06b67ca65e041b111e02ccf3b0bd",
+      "timestamp": 1782323414525
     }
   ]
 }
