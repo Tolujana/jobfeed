@@ -1625,8 +1625,8 @@
   "shulifang biotechnology": [
     {
       "site": "JobGurus",
-      "id": "aefb49aa6b2f908e8140712ce32dd2bc",
-      "timestamp": 1766227284533
+      "id": "63c203135b71e7fa777e2a151a1c9f14",
+      "timestamp": 1782420738404
     }
   ],
   "innov8 hub": [
@@ -14640,6 +14640,11 @@
       "site": "JobGurus",
       "id": "841ca39ed63922e37aa38e539f9bec4e",
       "timestamp": 1782394411761
+    },
+    {
+      "site": "JobGurus",
+      "id": "a2747cff135e652663348c8e87c8dafb",
+      "timestamp": 1782420738404
     }
   ],
   "electronic payplus limited": [
@@ -33613,6 +33618,25 @@
       "site": "JobGurus",
       "id": "0b16e8ccde9200703bde0af1c0bb3da4",
       "timestamp": 1782412238674
+    }
+  ],
+  "oasis apartment": [
+    {
+      "site": "JobGurus",
+      "id": "b8391ca01d8b71f0d4252d5a6afaaba7",
+      "timestamp": 1782420738404
+    },
+    {
+      "site": "JobGurus",
+      "id": "44093b526ee67765fe09c1d343d44712",
+      "timestamp": 1782420738404
+    }
+  ],
+  "sweet menu restaurant": [
+    {
+      "site": "JobGurus",
+      "id": "0a4d0c837eed78b7fcbd5eca22426b50",
+      "timestamp": 1782420738404
     }
   ]
 }
