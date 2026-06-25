@@ -568,8 +568,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "1ffcbb831aba9bbb38f1e30754a416a1",
-      "timestamp": 1781700736958
+      "id": "01a42e08ac8015ba6f6fecb07416c0c6",
+      "timestamp": 1782385991419
     }
   ],
   "food concepts plc": [
@@ -33255,6 +33255,11 @@
       "site": "JobGurus",
       "id": "2111477c9faacbf955336170d5860112",
       "timestamp": 1781824568619
+    },
+    {
+      "site": "JobGurus",
+      "id": "2e32987f12c456c03e07419c6a5808ae",
+      "timestamp": 1782385991419
     }
   ],
   "ap professional services": [
@@ -33564,6 +33569,27 @@
       "site": "JobGurus",
       "id": "a26c88c4a36145a890f738e29bf228af",
       "timestamp": 1782341093166
+    }
+  ],
+  "pricewaterhousecoopers (pwc) nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "2e71ca338ab98af13aafce2eaa8b5ffb",
+      "timestamp": 1782385991419
+    }
+  ],
+  " peopleplusng": [
+    {
+      "site": "JobGurus",
+      "id": "f15b73f0c547e24b952d70cad2aa2a05",
+      "timestamp": 1782385991419
+    }
+  ],
+  "aisha (ai supported healthcare assistant)": [
+    {
+      "site": "JobGurus",
+      "id": "2d423033e01ff212c9ba45e9ce1a162d",
+      "timestamp": 1782385991419
     }
   ]
 }
