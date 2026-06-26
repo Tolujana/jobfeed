@@ -5302,8 +5302,8 @@
   "paga limited": [
     {
       "site": "JobGurus",
-      "id": "074536fdebba11c3d802734bc19a278b",
-      "timestamp": 1778592000979
+      "id": "fc267deeafaf1021f7d61935cf61b673",
+      "timestamp": 1782487257760
     }
   ],
   "blue wave new energy technology nigeria company limited": [
@@ -33661,6 +33661,32 @@
       "site": "JobGurus",
       "id": "04c0a807c49454c8600803d7fb9bb9c0",
       "timestamp": 1782477014767
+    }
+  ],
+  "arridex": [
+    {
+      "site": "JobGurus",
+      "id": "e6907d72516547cf8f767d5d619f27f4",
+      "timestamp": 1782487257760
+    }
+  ],
+  "madop associates": [
+    {
+      "site": "JobGurus",
+      "id": "e8da407d69943a7744a49f704e8d6e73",
+      "timestamp": 1782487257760
+    },
+    {
+      "site": "JobGurus",
+      "id": "0f036763b16cfc033d8e802aa9773463",
+      "timestamp": 1782487257760
+    }
+  ],
+  "events architects limited": [
+    {
+      "site": "JobGurus",
+      "id": "4e91af22a87a40ccf97be64a253d3a9f",
+      "timestamp": 1782487257760
     }
   ]
 }
