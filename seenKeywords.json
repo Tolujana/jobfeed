@@ -1515,8 +1515,8 @@
   "unified payment services limited": [
     {
       "site": "JobGurus",
-      "id": "12ee08894895f90ea98fa51f36441efb",
-      "timestamp": 1778280790864
+      "id": "aae8bb28577e5ed519c9d0f13c247a88",
+      "timestamp": 1782477014767
     }
   ],
   "straitpay": [
@@ -30062,8 +30062,8 @@
   "abelinis": [
     {
       "site": "JobGurus",
-      "id": "904c97c55b82b902c5e39c0222a1657f",
-      "timestamp": 1778539811825
+      "id": "fb4a6c127430409508b5e662642a1828",
+      "timestamp": 1782477014767
     }
   ],
   "path nigeria": [
@@ -31947,13 +31947,8 @@
   "hr aid consults": [
     {
       "site": "JobGurus",
-      "id": "a701228a0003edab3693a95bb46f4985",
-      "timestamp": 1779220039695
-    },
-    {
-      "site": "JobGurus",
-      "id": "2768688640ab5a04caf8f87da0def255",
-      "timestamp": 1779220039695
+      "id": "9c72f26c7f61d3196318976b4f28119e",
+      "timestamp": 1782477014767
     }
   ],
   "seven up bottling company plc": [
@@ -33652,6 +33647,20 @@
       "site": "JobGurus",
       "id": "0a4d0c837eed78b7fcbd5eca22426b50",
       "timestamp": 1782420738404
+    }
+  ],
+  "laads hr consulting": [
+    {
+      "site": "JobGurus",
+      "id": "171d37f7ea4f89ded0523caefa89a077",
+      "timestamp": 1782477014767
+    }
+  ],
+  "hommaston": [
+    {
+      "site": "JobGurus",
+      "id": "04c0a807c49454c8600803d7fb9bb9c0",
+      "timestamp": 1782477014767
     }
   ]
 }
