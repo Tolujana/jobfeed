@@ -6081,8 +6081,8 @@
   "hoop telecoms limited": [
     {
       "site": "JobGurus",
-      "id": "2a0db5ff1d9916b12fba80b23f4e2cd9",
-      "timestamp": 1778277355046
+      "id": "4c680723cb117bd3071dff867a9e2d31",
+      "timestamp": 1782494076659
     }
   ],
   "ghi assets limited": [
@@ -11249,6 +11249,11 @@
       "site": "JobGurus",
       "id": "5a551cb0aa194c789f8fb6e77de228c2",
       "timestamp": 1782254700114
+    },
+    {
+      "site": "JobGurus",
+      "id": "b810345bb4d3f9bb4f32b60447b78f6e",
+      "timestamp": 1782494076659
     }
   ],
   "pulse nigeria": [
@@ -27797,8 +27802,8 @@
   "soteria eye clinic": [
     {
       "site": "JobGurus",
-      "id": "9a4f46468c5c2b59dcefdc252894a305",
-      "timestamp": 1777718731616
+      "id": "4a49bdff96c1c458dfa59df68da6f3c8",
+      "timestamp": 1782494076659
     }
   ],
   "rp facilities limited": [
@@ -33687,6 +33692,20 @@
       "site": "JobGurus",
       "id": "4e91af22a87a40ccf97be64a253d3a9f",
       "timestamp": 1782487257760
+    }
+  ],
+  "sim nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "7f57c612cba4187c41e9ba42d6c52e84",
+      "timestamp": 1782494076659
+    }
+  ],
+  "property question nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "49ea4058353b66c41a331766811a1f7e",
+      "timestamp": 1782494076659
     }
   ]
 }
