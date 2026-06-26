@@ -6382,8 +6382,8 @@
   "lopterra services limited": [
     {
       "site": "JobGurus",
-      "id": "c90989277021850b3a6d068189ee2eb0",
-      "timestamp": 1780987527008
+      "id": "19fcb0d69b30914e6498b57b75c6df95",
+      "timestamp": 1782507898313
     }
   ],
   "tizeti network limited": [
@@ -27804,6 +27804,11 @@
       "site": "JobGurus",
       "id": "4a49bdff96c1c458dfa59df68da6f3c8",
       "timestamp": 1782494076659
+    },
+    {
+      "site": "JobGurus",
+      "id": "20e58fc33fbc52f1158090519cee2142",
+      "timestamp": 1782507898313
     }
   ],
   "rp facilities limited": [
@@ -33732,6 +33737,27 @@
       "site": "JobGurus",
       "id": "70172000a25f58ff1bd31f529cfc7f94",
       "timestamp": 1782501370240
+    }
+  ],
+  "thc pharmaceuticals": [
+    {
+      "site": "JobGurus",
+      "id": "0d367ebcc4fbbc83d2dc64b6212b5a35",
+      "timestamp": 1782507898313
+    }
+  ],
+  "bukka hut": [
+    {
+      "site": "JobGurus",
+      "id": "7e8a93195225fd29d448c20035c3e966",
+      "timestamp": 1782507898313
+    }
+  ],
+  "waylc hub": [
+    {
+      "site": "JobGurus",
+      "id": "a3f30ad61784d1937328eca2ffdfa36f",
+      "timestamp": 1782507898313
     }
   ]
 }
