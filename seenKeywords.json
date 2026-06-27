@@ -30319,8 +30319,8 @@
   "intersect consortium": [
     {
       "site": "JobGurus",
-      "id": "ecd254c4924e08497493f0eeb2112f6d",
-      "timestamp": 1777409165738
+      "id": "d2c357252ef319a4aafaa661f556a341",
+      "timestamp": 1782561113689
     }
   ],
   "gpgate solar and power nigeria company limited": [
@@ -33758,6 +33758,32 @@
       "site": "JobGurus",
       "id": "a3f30ad61784d1937328eca2ffdfa36f",
       "timestamp": 1782507898313
+    }
+  ],
+  "lazeto hotels": [
+    {
+      "site": "JobGurus",
+      "id": "80c0c43214a5111c21ea817ed103367b",
+      "timestamp": 1782561113689
+    },
+    {
+      "site": "JobGurus",
+      "id": "f0865d5e603dd8ce00a079c4da8a4de9",
+      "timestamp": 1782561113689
+    }
+  ],
+  "mienah couture": [
+    {
+      "site": "JobGurus",
+      "id": "0f260c1ce6422e9b2b2ae7acf463a6c9",
+      "timestamp": 1782561113689
+    }
+  ],
+  "o.k. isokariari & sons (nigeria) limited": [
+    {
+      "site": "JobGurus",
+      "id": "138537479c4556f4d57e5bfa45017d82",
+      "timestamp": 1782561113689
     }
   ]
 }
