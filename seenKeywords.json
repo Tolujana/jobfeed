@@ -33051,13 +33051,13 @@
   "lifeway unique homes": [
     {
       "site": "JobGurus",
-      "id": "df96a7500c4ce683665d698486879c2f",
-      "timestamp": 1781292475802
+      "id": "7eef5813c132a572cfa9a1bba6a78971",
+      "timestamp": 1782581747738
     },
     {
       "site": "JobGurus",
-      "id": "bd141be6218d7e16a41b50d343fa8ea9",
-      "timestamp": 1781298773555
+      "id": "1165950cafafc7547582d54180a884b4",
+      "timestamp": 1782581747738
     }
   ],
   "addosser microfinance bank limited": [
@@ -33775,6 +33775,11 @@
       "site": "JobGurus",
       "id": "f0865d5e603dd8ce00a079c4da8a4de9",
       "timestamp": 1782561113689
+    },
+    {
+      "site": "JobGurus",
+      "id": "60950a87af1f9356efae6a9df9ff2cd1",
+      "timestamp": 1782581747738
     }
   ],
   "mienah couture": [
@@ -33810,6 +33815,20 @@
       "site": "JobGurus",
       "id": "d4f18e523673c2b6ed831223d4a45c7e",
       "timestamp": 1782576543905
+    }
+  ],
+  "kemuel kidz academy": [
+    {
+      "site": "JobGurus",
+      "id": "c6ff18c3be82464f2b60cf0b7857d204",
+      "timestamp": 1782581747738
+    }
+  ],
+  "honeywell": [
+    {
+      "site": "JobGurus",
+      "id": "2c89c70f8215222d5882c49266b4e9b7",
+      "timestamp": 1782581747738
     }
   ]
 }
