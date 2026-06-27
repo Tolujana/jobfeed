@@ -829,8 +829,8 @@
   "unocasa limited": [
     {
       "site": "JobGurus",
-      "id": "95dcd27a814bbef65e24eefd5ec27375",
-      "timestamp": 1780518898714
+      "id": "31d0fbf3d2668cc3e72d7f32a0aa2f08",
+      "timestamp": 1782576543905
     }
   ],
   "elvaridah limited": [
@@ -29136,8 +29136,8 @@
   "b-freedom outsourcing": [
     {
       "site": "JobGurus",
-      "id": "4e3f1ac095d9e6f1630e920acf647a8f",
-      "timestamp": 1780081539514
+      "id": "76aeeac75c5f5abdfac71d9d20c70eb1",
+      "timestamp": 1782576543905
     }
   ],
   "beachfront diagnostics": [
@@ -32857,6 +32857,11 @@
       "site": "JobGurus",
       "id": "b7f61619cb3b83d6234314dec0f93d7a",
       "timestamp": 1782572322811
+    },
+    {
+      "site": "JobGurus",
+      "id": "9fba10f31251be13808596fe490886b5",
+      "timestamp": 1782576543905
     }
   ],
   "pebbles, marks & nana farms limited": [
@@ -33791,6 +33796,20 @@
       "site": "JobGurus",
       "id": "50e109bc37d05e7b66b478158c23ae68",
       "timestamp": 1782572322811
+    }
+  ],
+  "jaletan oil & gas international limited": [
+    {
+      "site": "JobGurus",
+      "id": "447515ec6856e37b81f4c5061229d666",
+      "timestamp": 1782576543905
+    }
+  ],
+  "ooya media": [
+    {
+      "site": "JobGurus",
+      "id": "d4f18e523673c2b6ed831223d4a45c7e",
+      "timestamp": 1782576543905
     }
   ]
 }
