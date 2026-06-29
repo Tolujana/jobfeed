@@ -4849,8 +4849,8 @@
   "egbin power plc": [
     {
       "site": "JobGurus",
-      "id": "a2fc58d26aa177e9a360f6fadb089b97",
-      "timestamp": 1781817622984
+      "id": "2cb008459ee02a6065f8a32e7ca213b0",
+      "timestamp": 1782751439209
     }
   ],
   "uleval technology": [
@@ -15077,13 +15077,8 @@
   "duotech hr consulting": [
     {
       "site": "JobGurus",
-      "id": "83731165086da91daaf77092b4f7d0e1",
-      "timestamp": 1757925895273
-    },
-    {
-      "site": "JobGurus",
-      "id": "e531f4ad4d16029ca5fd5ca4a7fb284b",
-      "timestamp": 1757925895273
+      "id": "0b0c20dd31b1022787c9a143890d4f96",
+      "timestamp": 1782751439209
     }
   ],
   "agary pharmaceutical limited": [
@@ -29074,8 +29069,8 @@
   "atutechs c limited": [
     {
       "site": "JobGurus",
-      "id": "2b681648a138eb949ddf2aabd8fb27c1",
-      "timestamp": 1780347166233
+      "id": "ab40c6952072b34b874a80804a122b6c",
+      "timestamp": 1782751439209
     }
   ],
   "ezekiel properties management company": [
@@ -33473,6 +33468,11 @@
       "site": "JobGurus",
       "id": "f7f05705ffe58302cf1c7e0b7b39d39f",
       "timestamp": 1782425873543
+    },
+    {
+      "site": "JobGurus",
+      "id": "3f43ad2cdc17a048a452babcc7adbdc4",
+      "timestamp": 1782751439209
     }
   ],
   "royalgate aspire": [
@@ -33829,6 +33829,13 @@
       "site": "JobGurus",
       "id": "2c89c70f8215222d5882c49266b4e9b7",
       "timestamp": 1782581747738
+    }
+  ],
+  "reo havana rooftop": [
+    {
+      "site": "JobGurus",
+      "id": "d18311f2c64c12330609edc6e3af5093",
+      "timestamp": 1782751439209
     }
   ]
 }
