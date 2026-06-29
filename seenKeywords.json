@@ -10027,13 +10027,8 @@
   "integrated dairies limited": [
     {
       "site": "JobGurus",
-      "id": "0bc4abd4a7666decb8505ecc632e11f5",
-      "timestamp": 1753865543379
-    },
-    {
-      "site": "JobGurus",
-      "id": "987a776bdb9f971eb99a38b2e99454df",
-      "timestamp": 1753870720110
+      "id": "feae5a38c01557606090761566daf47b",
+      "timestamp": 1782777567297
     }
   ],
   "shakti industries limited": [
@@ -33824,6 +33819,23 @@
       "site": "JobGurus",
       "id": "3a5fdb8d913db088e61a87f3279380e6",
       "timestamp": 1782772505247
+    },
+    {
+      "site": "JobGurus",
+      "id": "9c876213d31bdfd1e086f606964d9f0b",
+      "timestamp": 1782777567297
+    }
+  ],
+  "chi farms limited": [
+    {
+      "site": "JobGurus",
+      "id": "dabeaa43daf56c8e6d3ebd5677fc2687",
+      "timestamp": 1782777567297
+    },
+    {
+      "site": "JobGurus",
+      "id": "2e20d6d029b156e27794c06b4fc8e0d3",
+      "timestamp": 1782777567297
     }
   ]
 }
