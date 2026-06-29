@@ -5022,8 +5022,13 @@
   "max drive": [
     {
       "site": "JobGurus",
-      "id": "c1ded5951cfefeb088446bfc3c958bc1",
-      "timestamp": 1767867610851
+      "id": "7f784fc0248e379adcca6dec88e5332a",
+      "timestamp": 1782767172102
+    },
+    {
+      "site": "JobGurus",
+      "id": "16d719de9f1894ea9da996734bce19d5",
+      "timestamp": 1782767172102
     }
   ],
   "opay": [
@@ -5677,8 +5682,8 @@
   "peridot forte solutions consulting": [
     {
       "site": "JobGurus",
-      "id": "699635a407fc3ef54a7115539b57eb32",
-      "timestamp": 1772459853937
+      "id": "575f7794678ec1b72fbc2d97f5256809",
+      "timestamp": 1782767172102
     }
   ],
   "haven hauling": [
@@ -17811,8 +17816,8 @@
   "bfree": [
     {
       "site": "JobGurus",
-      "id": "4036fbd5932cf04f3a9de351b7e9132f",
-      "timestamp": 1760038542600
+      "id": "d0cfadd1a409846323fc641842167626",
+      "timestamp": 1782767172102
     }
   ],
   "punch": [
@@ -33816,6 +33821,13 @@
       "site": "JobGurus",
       "id": "d18311f2c64c12330609edc6e3af5093",
       "timestamp": 1782751439209
+    }
+  ],
+  "daily gist telecoms international": [
+    {
+      "site": "JobGurus",
+      "id": "cc3e61b0498bb81c55e206bd7738a8c3",
+      "timestamp": 1782767172102
     }
   ]
 }
