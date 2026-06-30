@@ -7035,13 +7035,8 @@
   "human edge dimension consulting": [
     {
       "site": "JobGurus",
-      "id": "3adc05b5621c0ba4680b8391ceff5f59",
-      "timestamp": 1751994889118
-    },
-    {
-      "site": "JobGurus",
-      "id": "eba067ed3b4baf65243a1cc0b5111f75",
-      "timestamp": 1752338709999
+      "id": "2c038e22d7e2ba8c5bf0d5cb808fd67e",
+      "timestamp": 1782851243037
     }
   ],
   "krystal medical centre": [
@@ -29484,8 +29479,8 @@
   "itel energy": [
     {
       "site": "JobGurus",
-      "id": "25570e44618913d23436554b3d863b93",
-      "timestamp": 1777123323675
+      "id": "31639e12f33f700c27474c2394e0b00d",
+      "timestamp": 1782851243037
     }
   ],
   "luxeown technology limited": [
@@ -33862,6 +33857,25 @@
       "site": "JobGurus",
       "id": "88877a28a0e2ccc6c2fcdd446cf75d41",
       "timestamp": 1782843447726
+    },
+    {
+      "site": "JobGurus",
+      "id": "6f67c2fcb7f6c2b375dbe945a79d6c2f",
+      "timestamp": 1782851243037
+    }
+  ],
+  "linkup human capital limited": [
+    {
+      "site": "JobGurus",
+      "id": "f2542a3bdb3d45f9c39ff7e1d0d0f2d4",
+      "timestamp": 1782851243037
+    }
+  ],
+  "zitrapay": [
+    {
+      "site": "JobGurus",
+      "id": "a1630c7d352d6e28bb7ad32657f7f972",
+      "timestamp": 1782851243037
     }
   ]
 }
