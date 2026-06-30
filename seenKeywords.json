@@ -2706,8 +2706,8 @@
   "sales force consulting": [
     {
       "site": "JobGurus",
-      "id": "96a2516255473ddfbc5e6868518e7ab5",
-      "timestamp": 1778802785859
+      "id": "336bd7579ff98203f3baa6b5e8cfe821",
+      "timestamp": 1782860911804
     }
   ],
   "stridewaves limited": [
@@ -4098,8 +4098,8 @@
   "nspri guest house": [
     {
       "site": "JobGurus",
-      "id": "d74b465b335cb6f5ba144b3e2fc93eeb",
-      "timestamp": 1756325794884
+      "id": "ffd2112f0b59a260f4444f8389bb8a80",
+      "timestamp": 1782860911804
     }
   ],
   "goldline nigeria limited": [
@@ -7037,6 +7037,11 @@
       "site": "JobGurus",
       "id": "2c038e22d7e2ba8c5bf0d5cb808fd67e",
       "timestamp": 1782851243037
+    },
+    {
+      "site": "JobGurus",
+      "id": "746ed8642979d09f298ab71a8056c4eb",
+      "timestamp": 1782860911804
     }
   ],
   "krystal medical centre": [
@@ -30031,13 +30036,8 @@
   "emador nigeria integrated resources": [
     {
       "site": "JobGurus",
-      "id": "114d0aa028c384e38ad24b8f3d611501",
-      "timestamp": 1780007944449
-    },
-    {
-      "site": "JobGurus",
-      "id": "2f2a0b9228d7b90dc7e356f7dfe14734",
-      "timestamp": 1780331637303
+      "id": "60bbfa1348050181284e0ff98a303aeb",
+      "timestamp": 1782860911804
     }
   ],
   "centric pharmacy nigeria limited": [
@@ -33885,6 +33885,13 @@
       "site": "JobGurus",
       "id": "9ea1b8b8a54e3abdb13475c8e456f9e5",
       "timestamp": 1782856545885
+    }
+  ],
+  "rdt solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "6e61e605718153011af4c0827562db4e",
+      "timestamp": 1782860911804
     }
   ]
 }
