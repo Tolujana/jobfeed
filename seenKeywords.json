@@ -4031,13 +4031,13 @@
   "wts energy": [
     {
       "site": "JobGurus",
-      "id": "6ec7b13e4b9418104ec1362c686ac636",
-      "timestamp": 1781786879641
+      "id": "20517c3d859f174747112c7ceb18b7ce",
+      "timestamp": 1782315061207
     },
     {
       "site": "JobGurus",
-      "id": "20517c3d859f174747112c7ceb18b7ce",
-      "timestamp": 1782315061207
+      "id": "481d86bfb37f76a26466b9c375ebb362",
+      "timestamp": 1782835256031
     }
   ],
   "prixair group": [
@@ -16077,8 +16077,8 @@
   "bell oil and gas limited": [
     {
       "site": "JobGurus",
-      "id": "3f7897bb6be8f8bd16dc6e35a2e1bb00",
-      "timestamp": 1781824568619
+      "id": "d37ac126cd22bb1b6989cd5a0b214f26",
+      "timestamp": 1782835256031
     }
   ],
   "giftitng": [
@@ -28326,6 +28326,11 @@
       "site": "JobGurus",
       "id": "83a92ed8a50bf3ceccfaf3120ee6f437",
       "timestamp": 1782234775498
+    },
+    {
+      "site": "JobGurus",
+      "id": "7664853110c1d104adf6d3035097eff7",
+      "timestamp": 1782835256031
     }
   ],
   "hilton worldwidde": [
@@ -29161,8 +29166,8 @@
   "erkang pharmaceuticals": [
     {
       "site": "JobGurus",
-      "id": "ff4dc99b97c03a4b9ecc0e41760ed8d5",
-      "timestamp": 1774958697240
+      "id": "87db48c1afef78960507c9f7373d85b9",
+      "timestamp": 1782835256031
     }
   ],
   "sim": [
@@ -33836,6 +33841,13 @@
       "site": "JobGurus",
       "id": "2e20d6d029b156e27794c06b4fc8e0d3",
       "timestamp": 1782777567297
+    }
+  ],
+  "rubels & angels": [
+    {
+      "site": "JobGurus",
+      "id": "45c79693ad9836a84c6389784d7cd3cb",
+      "timestamp": 1782835256031
     }
   ]
 }
