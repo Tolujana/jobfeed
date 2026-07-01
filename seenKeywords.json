@@ -4589,8 +4589,13 @@
   "neohomes limited": [
     {
       "site": "JobGurus",
-      "id": "f9f93192536dcc0e55e829034a1d35a4",
-      "timestamp": 1781966350082
+      "id": "092a3149957e88fea35a2e910e6f0cba",
+      "timestamp": 1782930157946
+    },
+    {
+      "site": "JobGurus",
+      "id": "158de28e6654a9d8e58966b8395723d3",
+      "timestamp": 1782930157946
     }
   ],
   "brooks insights limited": [
@@ -22708,8 +22713,8 @@
   "jv management consulting": [
     {
       "site": "JobGurus",
-      "id": "c36e30943c309e56c5cb665f3b1a54bc",
-      "timestamp": 1782151797095
+      "id": "c45fa074528bcd262bac9816a6b40679",
+      "timestamp": 1782930157946
     }
   ],
   "doii design limited": [
@@ -25584,8 +25589,8 @@
   "sundry markets limited": [
     {
       "site": "JobGurus",
-      "id": "d687b42d02c1b89d7a49f38d350051c0",
-      "timestamp": 1780956493193
+      "id": "c581b9594cd0d15c0651be0dc8db3a9c",
+      "timestamp": 1782930157946
     }
   ],
   "monochrome convoy": [
@@ -33903,6 +33908,13 @@
       "site": "JobGurus",
       "id": "529d50422ac51a56a40693fcaf3c6a02",
       "timestamp": 1782921822553
+    }
+  ],
+  "talent solution limited": [
+    {
+      "site": "JobGurus",
+      "id": "836d0fb2fd938bf0c75e60bb581b91cc",
+      "timestamp": 1782930157946
     }
   ]
 }
