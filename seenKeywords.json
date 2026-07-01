@@ -641,8 +641,8 @@
   "allen professional services": [
     {
       "site": "JobGurus",
-      "id": "c0ecedf02223ba45bbcc63e4627e52f7",
-      "timestamp": 1768394258715
+      "id": "ab73c9ea882b9e51ede77f7ecd6b6f83",
+      "timestamp": 1782943068105
     }
   ],
   "julius berger nigeria plc": [
@@ -17841,13 +17841,8 @@
   "total data limited": [
     {
       "site": "JobGurus",
-      "id": "6829c8e825eccbb564cea920902f0a5c",
-      "timestamp": 1777908483480
-    },
-    {
-      "site": "JobGurus",
-      "id": "2046691fe26585cd5b6242f0edb6dec0",
-      "timestamp": 1778252785999
+      "id": "435a7b43b9f7960cc3dd5759aaa1e20c",
+      "timestamp": 1782943068105
     }
   ],
   "contec global group": [
@@ -18968,8 +18963,13 @@
   "aaa medi-calibrations limited": [
     {
       "site": "JobGurus",
-      "id": "975a712dcb2b371ae5311b010e1486cf",
-      "timestamp": 1761153260090
+      "id": "53e3ed65cc19e5c19b1a80673d7a0aa7",
+      "timestamp": 1782943068105
+    },
+    {
+      "site": "JobGurus",
+      "id": "8478216f1aa8dc85f79abbd9685bbb52",
+      "timestamp": 1782943068105
     }
   ],
   "nevada restaurant and lounge": [
@@ -33919,6 +33919,13 @@
       "site": "JobGurus",
       "id": "eec54685f809e2158a57db0da9361e58",
       "timestamp": 1782937313674
+    }
+  ],
+  "naurex nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "282653d7f4c084e38ee88950fcadf157",
+      "timestamp": 1782943068105
     }
   ]
 }
