@@ -8670,8 +8670,8 @@
   "visionspring": [
     {
       "site": "JobGurus",
-      "id": "5a509d3e759a87a1937e1edd4bf0e457",
-      "timestamp": 1776274629569
+      "id": "e24a8029fe53eb4e06bda0ed96810f1f",
+      "timestamp": 1783019852946
     }
   ],
   "nestle nigeria plc": [
@@ -23732,13 +23732,8 @@
   "gig logistics": [
     {
       "site": "JobGurus",
-      "id": "7fa899c8991b9a67bd31fa44df10b64d",
-      "timestamp": 1773589861446
-    },
-    {
-      "site": "JobGurus",
-      "id": "6c30b0ae89b0e97488ec7db6a6918c65",
-      "timestamp": 1773592028091
+      "id": "9c0c80528f9e5f30c89af0145c3e16c2",
+      "timestamp": 1783019852946
     }
   ],
   "kindred path fertility centre": [
@@ -25217,8 +25212,8 @@
   "sunchi integrated farms limited": [
     {
       "site": "JobGurus",
-      "id": "7c4e09a3308309f7aee54a44ce8b4519",
-      "timestamp": 1768404077489
+      "id": "16f119982a5e0027e190aa0f5d912c13",
+      "timestamp": 1783019852946
     }
   ],
   "uncle stans food": [
@@ -27467,8 +27462,8 @@
   "dragnet solutions limited": [
     {
       "site": "JobGurus",
-      "id": "1e9099dd9085fb187e9ca78d9672c93f",
-      "timestamp": 1781903132029
+      "id": "52050980c815afdbb6f217563b17fc2f",
+      "timestamp": 1783019852946
     }
   ],
   "hotel neben limited": [
@@ -33954,6 +33949,13 @@
       "site": "JobGurus",
       "id": "0418eb05576ee733a7ae05fae928a86a",
       "timestamp": 1783006745059
+    }
+  ],
+  "promise garden city limited": [
+    {
+      "site": "JobGurus",
+      "id": "697dc717e9688d619d997fd2d74cdf4f",
+      "timestamp": 1783019852946
     }
   ]
 }
