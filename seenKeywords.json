@@ -537,6 +537,11 @@
       "site": "JobGurus",
       "id": "e3a58738cc407c28881d31b7eca694bc",
       "timestamp": 1782759712172
+    },
+    {
+      "site": "JobGurus",
+      "id": "9763b081b713e157c22d9a2905edd394",
+      "timestamp": 1783095706587
     }
   ],
   "abbfem group": [
@@ -10544,8 +10549,8 @@
   "breezy digital solutions": [
     {
       "site": "JobGurus",
-      "id": "f5c9e00ea0cf04d16249e7c9166157f0",
-      "timestamp": 1768484192673
+      "id": "7b2df2843b484677d82a41ae1c7633e5",
+      "timestamp": 1783095706587
     }
   ],
   "95 slide": [
@@ -14563,8 +14568,8 @@
   "ruth and roots": [
     {
       "site": "JobGurus",
-      "id": "cddfe444714271b1ba119342a5f542d2",
-      "timestamp": 1773687337610
+      "id": "9f2787a80cb11bc54e6c00a297ed5daa",
+      "timestamp": 1783095706587
     }
   ],
   "nigerian newsdirect": [
@@ -23777,8 +23782,8 @@
   "primebuild & allied solutions limited": [
     {
       "site": "JobGurus",
-      "id": "f5816b12f251bc4638415a223d2c3d23",
-      "timestamp": 1781538468556
+      "id": "61b73d3af0f61014a4f59a91947b8a22",
+      "timestamp": 1783095706587
     }
   ],
   "iota group": [
@@ -33987,6 +33992,13 @@
       "site": "JobGurus",
       "id": "febc1e38c64c8399ddf0612bac0095cf",
       "timestamp": 1783089552752
+    }
+  ],
+  "netconstruct nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "7d8dee399b5df7bd94ac0a48aa87ef3f",
+      "timestamp": 1783095706587
     }
   ]
 }
