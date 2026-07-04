@@ -3782,6 +3782,11 @@
       "site": "JobGurus",
       "id": "f6172069c0efaba2dfd318324b169a10",
       "timestamp": 1783162265155
+    },
+    {
+      "site": "JobGurus",
+      "id": "671904077461bc19fa50705a4d17069d",
+      "timestamp": 1783179625190
     }
   ],
   "e-mmerx world limited": [
@@ -13398,8 +13403,8 @@
   "miva open university": [
     {
       "site": "JobGurus",
-      "id": "cbd6245de5e5af2f77bbb933d7b35e9a",
-      "timestamp": 1761841226884
+      "id": "6bd532d24016b9cd09f6a8211a856f8e",
+      "timestamp": 1783179625190
     }
   ],
   "ayo falaiye + co": [
@@ -34016,6 +34021,11 @@
       "site": "JobGurus",
       "id": "7d068dd916b0d030fe237d96cde17046",
       "timestamp": 1783111009078
+    },
+    {
+      "site": "JobGurus",
+      "id": "635950d7d35127253f9fad5ff83203e9",
+      "timestamp": 1783179625190
     }
   ],
   "belamco nigeria": [
@@ -34051,6 +34061,20 @@
       "site": "JobGurus",
       "id": "df54b7df62b82c3ba985e8a26228c6ba",
       "timestamp": 1783166599640
+    }
+  ],
+  "austine mali clothing": [
+    {
+      "site": "JobGurus",
+      "id": "117205ca301b37617c6562edbe3158be",
+      "timestamp": 1783179625190
+    }
+  ],
+  "pyfinest resourcesat": [
+    {
+      "site": "JobGurus",
+      "id": "ebb94efa2ce3520ce0e190a0c2b4dee1",
+      "timestamp": 1783179625190
     }
   ]
 }
