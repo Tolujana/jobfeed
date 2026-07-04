@@ -32305,8 +32305,8 @@
   "tmasourcing solutions": [
     {
       "site": "JobGurus",
-      "id": "c780662963f30e706f98f99a09b1c309",
-      "timestamp": 1780089609628
+      "id": "d73e1e707e1622db17c9db09d08dc562",
+      "timestamp": 1783166599640
     }
   ],
   "addoz integrated resources": [
@@ -33220,6 +33220,11 @@
       "site": "JobGurus",
       "id": "739c8e555a6c9da38b965aa5fa818cc2",
       "timestamp": 1783106199347
+    },
+    {
+      "site": "JobGurus",
+      "id": "59499fb7a4247c9248bef86c9007377a",
+      "timestamp": 1783166599640
     }
   ],
   "offshore dimensions limited": [
@@ -34025,6 +34030,27 @@
       "site": "JobGurus",
       "id": "da88c8f154976f82f1ab36c709faa2e1",
       "timestamp": 1783111009078
+    }
+  ],
+  "kiishakiitan ventures limited": [
+    {
+      "site": "JobGurus",
+      "id": "3f91190bbb7f63a647222b47a0c0528f",
+      "timestamp": 1783166599640
+    }
+  ],
+  "bankyloolas": [
+    {
+      "site": "JobGurus",
+      "id": "38f7453daef46805a49a93e51b078315",
+      "timestamp": 1783166599640
+    }
+  ],
+  "royal resource digital services": [
+    {
+      "site": "JobGurus",
+      "id": "df54b7df62b82c3ba985e8a26228c6ba",
+      "timestamp": 1783166599640
     }
   ]
 }
