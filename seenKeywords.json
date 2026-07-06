@@ -269,6 +269,11 @@
       "site": "JobGurus",
       "id": "0bf035baf2a8021ac3a44abb59da43c3",
       "timestamp": 1783014106440
+    },
+    {
+      "site": "JobGurus",
+      "id": "097fc277fe48a9092ae710e6191b76eb",
+      "timestamp": 1783342003056
     }
   ],
   "jamub group": [
@@ -407,8 +412,8 @@
   "radisson hotel group": [
     {
       "site": "JobGurus",
-      "id": "67efe100af17382c88d00067a29b0611",
-      "timestamp": 1778182717401
+      "id": "12019e11581d3452fdb1b9ac8fbb2feb",
+      "timestamp": 1783342003056
     }
   ],
   "reliance hmo": [
@@ -1947,8 +1952,8 @@
   "candel fze": [
     {
       "site": "JobGurus",
-      "id": "65a972dbbd3dd013db8cb366b4748c2f",
-      "timestamp": 1770457986874
+      "id": "288040bd997e5d8660db45aee89081ec",
+      "timestamp": 1783342003056
     }
   ],
   "rnp services": [
@@ -23604,8 +23609,8 @@
   "lvtopsun new energy company limited": [
     {
       "site": "JobGurus",
-      "id": "299c1c830e9de51e43c46fa7f50da1f2",
-      "timestamp": 1779486039658
+      "id": "531bb16c354b3ed913727e09aa7ff1d9",
+      "timestamp": 1783342003056
     }
   ],
   "trucksoft logistics": [
@@ -34075,6 +34080,13 @@
       "site": "JobGurus",
       "id": "ebb94efa2ce3520ce0e190a0c2b4dee1",
       "timestamp": 1783179625190
+    }
+  ],
+  "fti credit": [
+    {
+      "site": "JobGurus",
+      "id": "73ebd93dda4c58cc94bfa1130c0781f2",
+      "timestamp": 1783342003056
     }
   ]
 }
