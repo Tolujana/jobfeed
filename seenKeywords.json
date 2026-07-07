@@ -13910,8 +13910,8 @@
   "prohuman capital consulting": [
     {
       "site": "JobGurus",
-      "id": "5e67b281658826842c7d214e1918af2c",
-      "timestamp": 1767453354834
+      "id": "ca5cd175977fea690a9ba0458fdc9a4a",
+      "timestamp": 1783437823633
     }
   ],
   "lagoon hospitals": [
@@ -19280,8 +19280,13 @@
   "beta glass": [
     {
       "site": "JobGurus",
-      "id": "d8425cba6b68c84ab4cdb39e7116bd03",
-      "timestamp": 1781667476360
+      "id": "55bb54413008fb5adc00eaf0ba6db3ca",
+      "timestamp": 1783437823633
+    },
+    {
+      "site": "JobGurus",
+      "id": "6407fcdb7a3b6fb2168a1718ecfb7fd8",
+      "timestamp": 1783437823633
     }
   ],
   "university of uyo": [
@@ -30928,8 +30933,8 @@
   "popville luxury homes": [
     {
       "site": "JobGurus",
-      "id": "a1462dcefb1a64081856c56d3a4e0f76",
-      "timestamp": 1779728658331
+      "id": "4504cad001f05304d963e514db280ad9",
+      "timestamp": 1783437823633
     }
   ],
   "diamond shine nigeria limited": [
@@ -34110,6 +34115,13 @@
       "site": "JobGurus",
       "id": "1700a91d020ba0da26af94eb09ea901f",
       "timestamp": 1783369286474
+    }
+  ],
+  "huko advisory services": [
+    {
+      "site": "JobGurus",
+      "id": "7d4a7522aba2d7ee0b8a9a44b7700999",
+      "timestamp": 1783437823633
     }
   ]
 }
