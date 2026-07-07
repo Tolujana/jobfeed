@@ -15791,8 +15791,8 @@
   "skache integrated services limited": [
     {
       "site": "JobGurus",
-      "id": "03566c598527f84c08a6c8136ca45fe7",
-      "timestamp": 1782234775498
+      "id": "d912289ae8fcde6519c8b14a2a4e30f3",
+      "timestamp": 1783445489751
     }
   ],
   "nigerian british university": [
@@ -22498,8 +22498,8 @@
   "zinnia agency": [
     {
       "site": "JobGurus",
-      "id": "4bd335eec34431dc332527417e9e790c",
-      "timestamp": 1764616855530
+      "id": "5bfb0e13ccaa961823ddcbcdd11a26dc",
+      "timestamp": 1783445489751
     }
   ],
   "mofefolt nigeria limited": [
@@ -28626,8 +28626,8 @@
   "balosh integrated services limited": [
     {
       "site": "JobGurus",
-      "id": "0577ff821bdc2a6791dbe77c5b0ae76c",
-      "timestamp": 1777503227831
+      "id": "6c3175456e7cd3ce7d30c5f757f99905",
+      "timestamp": 1783445489751
     }
   ],
   "adler technology": [
@@ -34122,6 +34122,20 @@
       "site": "JobGurus",
       "id": "7d4a7522aba2d7ee0b8a9a44b7700999",
       "timestamp": 1783437823633
+    }
+  ],
+  "elimtop view estate limited": [
+    {
+      "site": "JobGurus",
+      "id": "ef77d0dd742bf1858916bb6733c74bd9",
+      "timestamp": 1783445489751
+    }
+  ],
+  "transave technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "0aad323cfb1f27d36eca76515ec0449e",
+      "timestamp": 1783445489751
     }
   ]
 }
