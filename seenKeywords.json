@@ -2478,8 +2478,8 @@
   "mantrac": [
     {
       "site": "JobGurus",
-      "id": "c3b9b3fdbff75ae85640b17206885da0",
-      "timestamp": 1757450264440
+      "id": "9198d5bf99d8a128e8a1df5d7d1ad12c",
+      "timestamp": 1783528014250
     }
   ],
   "amani advisory limited": [
@@ -2873,13 +2873,8 @@
   "wahala no dey finish": [
     {
       "site": "JobGurus",
-      "id": "2c866e99eeba104db678dfda44ef9172",
-      "timestamp": 1777629951209
-    },
-    {
-      "site": "JobGurus",
-      "id": "e6880a6779471012faad443515de293a",
-      "timestamp": 1777629951209
+      "id": "acd23f290d8e608092891414b93147e3",
+      "timestamp": 1783528014250
     }
   ],
   "t.o.n corporate services": [
@@ -34152,6 +34147,27 @@
       "site": "JobGurus",
       "id": "488746bdd07bab57a011b9384af2b588",
       "timestamp": 1783522469430
+    }
+  ],
+  "sim nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "03105d5cc1c1725ce104873dbfdd5df4",
+      "timestamp": 1783528014250
+    }
+  ],
+  "aphro beauty": [
+    {
+      "site": "JobGurus",
+      "id": "cd3125759c48256d6e8da235adac8ad6",
+      "timestamp": 1783528014250
+    }
+  ],
+  "nestoil nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "3868e89433da65e8c77c0d438b164831",
+      "timestamp": 1783528014250
     }
   ]
 }
