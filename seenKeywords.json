@@ -4375,8 +4375,8 @@
   "kiyix recruitment hub": [
     {
       "site": "JobGurus",
-      "id": "4ba3f6f58dc3b0a05a155ffa28349eef",
-      "timestamp": 1778091601241
+      "id": "f841763d553a6bd6bd9bd07af5fe0c82",
+      "timestamp": 1783533565775
     }
   ],
   "mediplan healthcare limited": [
@@ -28338,13 +28338,8 @@
   "smart nuel communications limited": [
     {
       "site": "JobGurus",
-      "id": "09bd042d330263d35f1bfa9384107df3",
-      "timestamp": 1777118373934
-    },
-    {
-      "site": "JobGurus",
-      "id": "1a8ebefd7680ee71b6c55d1025a2b2f7",
-      "timestamp": 1777126321632
+      "id": "0d4dbc1f97e2acda5f269d0fa63a89eb",
+      "timestamp": 1783533565775
     }
   ],
   "adventure capital limited": [
@@ -34168,6 +34163,27 @@
       "site": "JobGurus",
       "id": "3868e89433da65e8c77c0d438b164831",
       "timestamp": 1783528014250
+    }
+  ],
+  "otic geosystems": [
+    {
+      "site": "JobGurus",
+      "id": "26503458ce477d22f0f20dd6818a6958",
+      "timestamp": 1783533565775
+    }
+  ],
+  " some solutions group": [
+    {
+      "site": "JobGurus",
+      "id": "afed4d316d76e25a7a844f5f215e70f5",
+      "timestamp": 1783533565775
+    }
+  ],
+  "frandent global": [
+    {
+      "site": "JobGurus",
+      "id": "5f7525367a62fff838dc09b692bd3fd8",
+      "timestamp": 1783533565775
     }
   ]
 }
