@@ -6337,8 +6337,8 @@
   "lopterra services limited": [
     {
       "site": "JobGurus",
-      "id": "19fcb0d69b30914e6498b57b75c6df95",
-      "timestamp": 1782507898313
+      "id": "d9501910a9dafcdcc8d20e9ca250569d",
+      "timestamp": 1783596241825
     }
   ],
   "tizeti network limited": [
@@ -14463,13 +14463,8 @@
   "lopterra": [
     {
       "site": "JobGurus",
-      "id": "072c3ceb56460c88e9bea8b8acaaf510",
-      "timestamp": 1767785996517
-    },
-    {
-      "site": "JobGurus",
-      "id": "dbaf3063a1df43809d11a2f4b38fcbaf",
-      "timestamp": 1767785996517
+      "id": "56a4969b541e4c70671963e73e5e02f2",
+      "timestamp": 1783596241825
     }
   ],
   "wells carlton hotel & apartments": [
@@ -34190,6 +34185,20 @@
       "site": "JobGurus",
       "id": "88d43be90e1845b68d8048220cbf3820",
       "timestamp": 1783544517479
+    }
+  ],
+  "argus media": [
+    {
+      "site": "JobGurus",
+      "id": "3cb216a30bf7b76379b6a7ca227c1037",
+      "timestamp": 1783596241825
+    }
+  ],
+  "dpl group": [
+    {
+      "site": "JobGurus",
+      "id": "c13793e9fac0c9e1d44edafef09a83f4",
+      "timestamp": 1783596241825
     }
   ]
 }
