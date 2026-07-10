@@ -11724,8 +11724,8 @@
   "gbfoods africa": [
     {
       "site": "JobGurus",
-      "id": "e9d593b34490e8a0e8ff5d9864f06476",
-      "timestamp": 1755166677423
+      "id": "e66cd5c278312083882a42e221e6736c",
+      "timestamp": 1783709838746
     }
   ],
   "lauvee beauty salon and spa": [
@@ -20691,8 +20691,18 @@
   "abbey mortgage bank plc": [
     {
       "site": "JobGurus",
-      "id": "15b2b2158f869def7289f7435546a133",
-      "timestamp": 1768311479028
+      "id": "503780eff1da0916a1e94cdbf3032a16",
+      "timestamp": 1783709838746
+    },
+    {
+      "site": "JobGurus",
+      "id": "363c60d3256134109b0bbe83e3481593",
+      "timestamp": 1783709838746
+    },
+    {
+      "site": "JobGurus",
+      "id": "4e603b1dcb863e4146bf91f134fff0f8",
+      "timestamp": 1783709838746
     }
   ],
   "news central tv": [
@@ -34230,6 +34240,13 @@
       "site": "JobGurus",
       "id": "d10a4f6d16b9e1abb994bbaf6e9a40a8",
       "timestamp": 1783703984849
+    }
+  ],
+  "rivy (formerly payhippo (yc 21))": [
+    {
+      "site": "JobGurus",
+      "id": "841efbac7db78366d39807b286bd405b",
+      "timestamp": 1783709838746
     }
   ]
 }
