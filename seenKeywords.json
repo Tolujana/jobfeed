@@ -10315,8 +10315,8 @@
   "mikano international limited": [
     {
       "site": "JobGurus",
-      "id": "5d6cbcbe55610845b00068bc913bfda4",
-      "timestamp": 1780569962800
+      "id": "ef39db829129d2034bcf6540940a222d",
+      "timestamp": 1783703984849
     }
   ],
   "growth in value alliance (gv alliance) partners": [
@@ -15430,8 +15430,8 @@
   "ocean marine solutions limited": [
     {
       "site": "JobGurus",
-      "id": "25b5c71fff2bde6ff8390fe90e42fdaf",
-      "timestamp": 1763663015942
+      "id": "2cc7d3aa4b46472f9c83c1870fadccd9",
+      "timestamp": 1783703984849
     }
   ],
   "novo developers": [
@@ -25170,13 +25170,13 @@
   "coleman technical industries limited": [
     {
       "site": "JobGurus",
-      "id": "9b2691909b66b485d9c5ee76e1881f03",
-      "timestamp": 1782225550240
+      "id": "877edda745c3463cd582f93978d53f11",
+      "timestamp": 1783703984849
     },
     {
       "site": "JobGurus",
-      "id": "8f8282169fd2d6a9427c640f8cc5ca71",
-      "timestamp": 1782225550240
+      "id": "ed9699bbb284e49b9a6ec9e5794b65fa",
+      "timestamp": 1783703984849
     }
   ],
   "zuma coffee": [
@@ -34223,6 +34223,13 @@
       "site": "JobGurus",
       "id": "29b58142b61e2917e064152a3c9f3041",
       "timestamp": 1783697336095
+    }
+  ],
+  "jumbo health and wellness limited": [
+    {
+      "site": "JobGurus",
+      "id": "d10a4f6d16b9e1abb994bbaf6e9a40a8",
+      "timestamp": 1783703984849
     }
   ]
 }
