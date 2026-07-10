@@ -17,8 +17,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "7887c9643ee3caca5e360a7ea2c3baed",
-      "timestamp": 1777320324640
+      "id": "edf667e48df0bf6b526137eede2a37bb",
+      "timestamp": 1783697336095
     }
   ],
   "amecron nigeria limited": [
@@ -3225,18 +3225,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "c42bb2ff0c65ddddb2a1bf9aae3905a5",
-      "timestamp": 1780354721324
-    },
-    {
-      "site": "JobGurus",
-      "id": "099786be26924ea456831825564e8ccc",
-      "timestamp": 1780354721324
-    },
-    {
-      "site": "JobGurus",
-      "id": "785d668e975f8877f8fef5647e2782b3",
-      "timestamp": 1780949288347
+      "id": "d91b919f9f9161d4966469e4561120f3",
+      "timestamp": 1783697336095
     }
   ],
   "smartcity plc": [
@@ -6719,8 +6709,8 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "32a0b0ed44f89191614454c13702a00f",
-      "timestamp": 1778787638661
+      "id": "807f16e00c930eeae36091e2bcb082e3",
+      "timestamp": 1783697336095
     }
   ],
   "dansol": [
@@ -26309,8 +26299,8 @@
   "grand oak limited (gol)": [
     {
       "site": "JobGurus",
-      "id": "05c1ff04582e8a2b15a5d26fdcebf34a",
-      "timestamp": 1776719263850
+      "id": "d4b28738b87402e78a0c8ba1df3cdeb1",
+      "timestamp": 1783697336095
     }
   ],
   "abc logistics": [
@@ -34226,6 +34216,13 @@
       "site": "JobGurus",
       "id": "db1a898c7c1c4898a650e965ede07761",
       "timestamp": 1783687161703
+    }
+  ],
+  "power ark": [
+    {
+      "site": "JobGurus",
+      "id": "29b58142b61e2917e064152a3c9f3041",
+      "timestamp": 1783697336095
     }
   ]
 }
