@@ -15337,6 +15337,11 @@
       "site": "JobGurus",
       "id": "78b835473fb6acd4e003566b6c6a361c",
       "timestamp": 1783952589996
+    },
+    {
+      "site": "JobGurus",
+      "id": "6e5e6517c03c1a38711bedf977e935ff",
+      "timestamp": 1783961676146
     }
   ],
   "mapsi group": [
@@ -18344,8 +18349,8 @@
   "ignite energy access": [
     {
       "site": "JobGurus",
-      "id": "aa718c465d1ecd77574daa7433ddda57",
-      "timestamp": 1766147654507
+      "id": "2285d30dfcc7762ca49536d3865823aa",
+      "timestamp": 1783961676146
     }
   ],
   "nivafer engineering and construction limited": [
@@ -19640,8 +19645,8 @@
   "enoella consult": [
     {
       "site": "JobGurus",
-      "id": "a90cf1d0ea1b3728865c7000cc4eeada",
-      "timestamp": 1774448417224
+      "id": "15e904552376c29a36e0c5d823540570",
+      "timestamp": 1783961676146
     }
   ],
   "brooks advisory services limited": [
@@ -30706,8 +30711,8 @@
   "accm global enterprise limited": [
     {
       "site": "JobGurus",
-      "id": "48b45d05a91c5f1ca68bbe769d98111b",
-      "timestamp": 1780331637303
+      "id": "9533f01d712704d39886905e7f5bf188",
+      "timestamp": 1783961676146
     }
   ],
   "ricos technical services nigeria limited": [
@@ -34338,6 +34343,13 @@
       "site": "JobGurus",
       "id": "03228ec17fd02da43d95100577259959",
       "timestamp": 1783952589996
+    }
+  ],
+  "nondera energy services limited": [
+    {
+      "site": "JobGurus",
+      "id": "ea0775397b110927803e00cfc1e08b10",
+      "timestamp": 1783961676146
     }
   ]
 }
