@@ -3259,8 +3259,8 @@
   "fort knox outsourcing": [
     {
       "site": "JobGurus",
-      "id": "212841112a720540f5c86e62cd1d6459",
-      "timestamp": 1780987527008
+      "id": "462e28ee05b9ef247b740c42409a80b8",
+      "timestamp": 1783942586867
     }
   ],
   "abnl limited": [
@@ -34317,6 +34317,13 @@
       "site": "JobGurus",
       "id": "83e5029a90650946e66cb0e4df95189f",
       "timestamp": 1783792280098
+    }
+  ],
+  "culture kitchen": [
+    {
+      "site": "JobGurus",
+      "id": "0e7d888abf57f55c35ffa2841f63c6eb",
+      "timestamp": 1783942586867
     }
   ]
 }
