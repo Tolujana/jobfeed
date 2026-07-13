@@ -568,8 +568,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "01a42e08ac8015ba6f6fecb07416c0c6",
-      "timestamp": 1782385991419
+      "id": "5b5d3a0b2e106afb8a5c1741af331094",
+      "timestamp": 1783968017764
     }
   ],
   "food concepts plc": [
@@ -34350,6 +34350,27 @@
       "site": "JobGurus",
       "id": "ea0775397b110927803e00cfc1e08b10",
       "timestamp": 1783961676146
+    }
+  ],
+  "izy global partners": [
+    {
+      "site": "JobGurus",
+      "id": "f904253ee050f1740eade4ac2917bba5",
+      "timestamp": 1783968017764
+    }
+  ],
+  "kojo auto service centre limited": [
+    {
+      "site": "JobGurus",
+      "id": "f2caffd99d2e77f79209492ff1ecb456",
+      "timestamp": 1783968017764
+    }
+  ],
+  "zinajob synergy": [
+    {
+      "site": "JobGurus",
+      "id": "9c0c2b00c98bb6d24f6bca1c8b02b301",
+      "timestamp": 1783968017764
     }
   ]
 }
