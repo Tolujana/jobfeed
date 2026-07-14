@@ -10,8 +10,8 @@
   "ipnx nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "ab6761d72223ba283ede45c12c196410",
-      "timestamp": 1778874438727
+      "id": "e5215f9f79453c40ab801d6f2e585cd0",
+      "timestamp": 1784048960489
     }
   ],
   "excel and grace consulting": [
@@ -558,6 +558,11 @@
       "site": "JobGurus",
       "id": "26650202306af4e29d943a603216f33a",
       "timestamp": 1784044494183
+    },
+    {
+      "site": "JobGurus",
+      "id": "fb6651d8be79732a6374106c54d72df0",
+      "timestamp": 1784048960489
     }
   ],
   "teamace limited": [
@@ -10857,8 +10862,8 @@
   "crown interactive": [
     {
       "site": "JobGurus",
-      "id": "fa14e5fd8b0ea769760f34f3d5c3ab43",
-      "timestamp": 1774468792577
+      "id": "e31f4c806002c090ddcc5f90d747c808",
+      "timestamp": 1784048960489
     }
   ],
   "zamiva transnational services": [
@@ -27464,8 +27469,8 @@
   "career breedge consultancy limited": [
     {
       "site": "JobGurus",
-      "id": "cc94fe53b8bc9d0327843472a3118c08",
-      "timestamp": 1780613510478
+      "id": "696208a6e68f12f45fa9d3e0c49ef0f8",
+      "timestamp": 1784048960489
     }
   ],
   "siperco nigeria limited": [
@@ -34418,6 +34423,13 @@
       "site": "JobGurus",
       "id": "aa1533f2afd372c4cfe03d1bdac932b8",
       "timestamp": 1784044494183
+    }
+  ],
+  "oribase skincare": [
+    {
+      "site": "JobGurus",
+      "id": "6fc22240e83117b2fac7187de795d1bc",
+      "timestamp": 1784048960489
     }
   ]
 }
