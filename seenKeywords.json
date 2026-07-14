@@ -2257,18 +2257,13 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "52fdef67a9a2ec716148ae0125b6d933",
-      "timestamp": 1783354561550
-    },
-    {
-      "site": "JobGurus",
-      "id": "49bcaab73746fd0fff155028de95780a",
-      "timestamp": 1783378964159
-    },
-    {
-      "site": "JobGurus",
       "id": "990b61b793f7c02ead57a0bb73f36b97",
       "timestamp": 1783715004487
+    },
+    {
+      "site": "JobGurus",
+      "id": "bf45fc4e55f660fe0ca1171f24c0b0de",
+      "timestamp": 1784018011503
     }
   ],
   "flees global services": [
@@ -2726,8 +2721,8 @@
   "sales force consulting": [
     {
       "site": "JobGurus",
-      "id": "336bd7579ff98203f3baa6b5e8cfe821",
-      "timestamp": 1782860911804
+      "id": "46045f61edcd07d9dd26e3fdbdf999ba",
+      "timestamp": 1784018011503
     }
   ],
   "stridewaves limited": [
@@ -7653,8 +7648,8 @@
   "burn nigeria": [
     {
       "site": "JobGurus",
-      "id": "413fba52bb84dfc7bea18d7db1ca1117",
-      "timestamp": 1781378309337
+      "id": "e6c3c9edf8eff1a7edc8661352ff7b62",
+      "timestamp": 1784018011503
     }
   ],
   "u-connect human resources limited": [
@@ -13410,8 +13405,8 @@
   "greenlight planet": [
     {
       "site": "JobGurus",
-      "id": "6fcb336ccc67e70c93e16eb7d4e92757",
-      "timestamp": 1780929122704
+      "id": "2e4ed1be8cba804b0cc555a3973982ae",
+      "timestamp": 1784018011503
     }
   ],
   "jami al hakeem foundation": [
@@ -19262,6 +19257,11 @@
       "site": "JobGurus",
       "id": "6407fcdb7a3b6fb2168a1718ecfb7fd8",
       "timestamp": 1783437823633
+    },
+    {
+      "site": "JobGurus",
+      "id": "628ba0010a97003329ed91c0b2d6e3e1",
+      "timestamp": 1784018011503
     }
   ],
   "university of uyo": [
