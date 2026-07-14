@@ -7911,8 +7911,8 @@
   "swift consulting limited": [
     {
       "site": "JobGurus",
-      "id": "a4f2500f409924146715a58cb491aad1",
-      "timestamp": 1781724114849
+      "id": "2ec1515d376a8eacd0c94e4311b98cc7",
+      "timestamp": 1784038931764
     }
   ],
   "danish refugee council": [
@@ -30094,8 +30094,13 @@
   "dash microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "c6616f157ee15732ba7fc90675611a7e",
-      "timestamp": 1776352252494
+      "id": "b62463d223110b3a5bded9d7414eba36",
+      "timestamp": 1784038931764
+    },
+    {
+      "site": "JobGurus",
+      "id": "9402331ec1668ee3791fc18ae19ceee5",
+      "timestamp": 1784038931764
     }
   ],
   "intersos nigeria": [
@@ -34380,6 +34385,20 @@
       "site": "JobGurus",
       "id": "02a5482e6c8d296b8cf1318fa5a0fa36",
       "timestamp": 1783973367037
+    }
+  ],
+  "almond technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "8ed7b8a4503bf6af2b56b3d450bf5405",
+      "timestamp": 1784038931764
+    }
+  ],
+  "bere-mont nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "cf766a00375b0bcb8e4b5f34f324d724",
+      "timestamp": 1784038931764
     }
   ]
 }
