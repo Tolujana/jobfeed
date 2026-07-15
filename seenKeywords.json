@@ -2735,13 +2735,8 @@
   "hobark international limited": [
     {
       "site": "JobGurus",
-      "id": "81594dd1fb08e8a2a6f50626b1636dfc",
-      "timestamp": 1769525803804
-    },
-    {
-      "site": "JobGurus",
-      "id": "acdbda41b407d4077156a16ad22a2e48",
-      "timestamp": 1769527829640
+      "id": "a46a10b9f3f3b7f5d0ccbb1d8a2b70db",
+      "timestamp": 1784132162277
     }
   ],
   "elvaridah": [
@@ -12494,8 +12489,13 @@
   "j3 holdings": [
     {
       "site": "JobGurus",
-      "id": "2436ddbc5ac7fff2bc9469cb4d76cedb",
-      "timestamp": 1779708853242
+      "id": "22960be59322e12b9f10d47638fd5cef",
+      "timestamp": 1784132162277
+    },
+    {
+      "site": "JobGurus",
+      "id": "ac99649566d1b039f9c7bd17812311eb",
+      "timestamp": 1784132162277
     }
   ],
   "dreampod place": [
@@ -34470,6 +34470,18 @@
       "site": "JobGurus",
       "id": "d6ad3efa6255f6935015c74e8cfa6460",
       "timestamp": 1784126639618
+    }
+  ],
+  "samovic homes and properties limited": [
+    {
+      "site": "JobGurus",
+      "id": "84beae180d0e8627da8244dfa2862a0b",
+      "timestamp": 1784132162277
+    },
+    {
+      "site": "JobGurus",
+      "id": "0e7339a90523e1c7aca9433c71d53d75",
+      "timestamp": 1784132162277
     }
   ]
 }
