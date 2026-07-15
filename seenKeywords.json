@@ -14362,6 +14362,11 @@
       "site": "JobGurus",
       "id": "07765908d224f82dfea91a3bb7c6c912",
       "timestamp": 1784137483887
+    },
+    {
+      "site": "JobGurus",
+      "id": "d0fb93dc48b945d5260a2ce69164a481",
+      "timestamp": 1784142235753
     }
   ],
   "zanibal solutions nigeria limited": [
@@ -34487,6 +34492,27 @@
       "site": "JobGurus",
       "id": "0e7339a90523e1c7aca9433c71d53d75",
       "timestamp": 1784132162277
+    }
+  ],
+  "moglow beauty spa": [
+    {
+      "site": "JobGurus",
+      "id": "c1da4bd35c45136181837c62dfc4037f",
+      "timestamp": 1784142235753
+    }
+  ],
+  "walexbiz group": [
+    {
+      "site": "JobGurus",
+      "id": "d5ba4e0eb2cbc5ac3ef24db8bdb8ee50",
+      "timestamp": 1784142235753
+    }
+  ],
+  "hr nexus limited": [
+    {
+      "site": "JobGurus",
+      "id": "072f6fcbb5331fee8312c03b2ab092ac",
+      "timestamp": 1784142235753
     }
   ]
 }
