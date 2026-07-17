@@ -397,6 +397,11 @@
       "site": "JobGurus",
       "id": "5339844ab04de573ba421fd1b32420e9",
       "timestamp": 1784314797171
+    },
+    {
+      "site": "JobGurus",
+      "id": "a4a2b6a4700321d2246ec56c5c886e39",
+      "timestamp": 1784319073828
     }
   ],
   "radisson hotel group": [
@@ -532,6 +537,11 @@
       "site": "JobGurus",
       "id": "44f386332aae95ed930ad19f9cb5f637",
       "timestamp": 1784309742347
+    },
+    {
+      "site": "JobGurus",
+      "id": "e89c5f415831b083b1353f057acef5c3",
+      "timestamp": 1784319073828
     }
   ],
   "abbfem group": [
@@ -6599,8 +6609,8 @@
   "hr hive": [
     {
       "site": "JobGurus",
-      "id": "27869b089a9777ed2b96f1f0e7f4fbce",
-      "timestamp": 1778098078903
+      "id": "fe0416f1bdb7b9abe5fc56a58b3d2712",
+      "timestamp": 1784319073828
     }
   ],
   "infinion technologies": [
@@ -22416,8 +22426,8 @@
   "leam consulting limited": [
     {
       "site": "JobGurus",
-      "id": "66e01c1067c7c02c23ea8f3105a291ab",
-      "timestamp": 1781884001107
+      "id": "cd4567027d2d458f6a014feeecf2914b",
+      "timestamp": 1784319073828
     }
   ],
   "tangerine365": [
@@ -34586,6 +34596,13 @@
       "site": "JobGurus",
       "id": "eb5ed8d43e942de5b09f64e967b67ecd",
       "timestamp": 1784314797171
+    }
+  ],
+  "coure software and systems limited": [
+    {
+      "site": "JobGurus",
+      "id": "39ce8ed3f5de8606e912c228de3c7d41",
+      "timestamp": 1784319073828
     }
   ]
 }
