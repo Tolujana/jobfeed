@@ -542,6 +542,11 @@
       "site": "JobGurus",
       "id": "e89c5f415831b083b1353f057acef5c3",
       "timestamp": 1784319073828
+    },
+    {
+      "site": "JobGurus",
+      "id": "6ea699ca1a2441620f1507596addef77",
+      "timestamp": 1784385200237
     }
   ],
   "abbfem group": [
@@ -10612,6 +10617,16 @@
       "site": "JobGurus",
       "id": "21902a45a0acd2fb1f6cdeb2b8b9cee7",
       "timestamp": 1784210474104
+    },
+    {
+      "site": "JobGurus",
+      "id": "8d99213ce316b7ba1a54afe44f51f58e",
+      "timestamp": 1784385200237
+    },
+    {
+      "site": "JobGurus",
+      "id": "e04bb40f90def8e25b9ac3b6187312fa",
+      "timestamp": 1784385200237
     }
   ],
   "uridium technologies": [
@@ -34639,6 +34654,20 @@
       "site": "JobGurus",
       "id": "70b527db2d44004cf1fc0c681774c96d",
       "timestamp": 1784379833982
+    }
+  ],
+  "walex biz group": [
+    {
+      "site": "JobGurus",
+      "id": "d195e67514cd2cf92146e7c03dbd3fd9",
+      "timestamp": 1784385200237
+    }
+  ],
+  "virtutis solaris limited": [
+    {
+      "site": "JobGurus",
+      "id": "9daa121dbe7a7cd495043fe32dd9a1dd",
+      "timestamp": 1784385200237
     }
   ]
 }
