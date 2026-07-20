@@ -5290,8 +5290,8 @@
   "bakangizo pharmacy and stores": [
     {
       "site": "JobGurus",
-      "id": "3370512636f88be0f85f8ab49d86af2d",
-      "timestamp": 1760382713651
+      "id": "3e62eef613a3cbbc3864842c59ccfd0a",
+      "timestamp": 1784566461476
     }
   ],
   "edazytech integrated services": [
@@ -34715,6 +34715,32 @@
       "site": "JobGurus",
       "id": "c558819001dfea2794918058d4a2c21b",
       "timestamp": 1784561194121
+    }
+  ],
+  "kaizen microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "3c3c02db374f6205638b6b3067f2973f",
+      "timestamp": 1784566461476
+    }
+  ],
+  "favex": [
+    {
+      "site": "JobGurus",
+      "id": "a6ba440edee520302a3dc7f99f8b3c0f",
+      "timestamp": 1784566461476
+    }
+  ],
+  "efl limited": [
+    {
+      "site": "JobGurus",
+      "id": "b6f8564704bef6ac47849052cc312bb7",
+      "timestamp": 1784566461476
+    },
+    {
+      "site": "JobGurus",
+      "id": "efa6798a13248862f70640b4c14a09d3",
+      "timestamp": 1784566461476
     }
   ]
 }
