@@ -629,18 +629,8 @@
   "alan & grant": [
     {
       "site": "JobGurus",
-      "id": "94046b45641614d77f64783ecef3386a",
-      "timestamp": 1783788691884
-    },
-    {
-      "site": "JobGurus",
-      "id": "f59ceb70c53a29aed290f3d2207111a4",
-      "timestamp": 1783788691884
-    },
-    {
-      "site": "JobGurus",
-      "id": "a0cee2d403ed046baec07265cce58a4e",
-      "timestamp": 1783788691884
+      "id": "5d5c855d0a101b3972e5552da94a8722",
+      "timestamp": 1784561194121
     }
   ],
   "vantegral consulting": [
@@ -30362,8 +30352,13 @@
   "dorisfit": [
     {
       "site": "JobGurus",
-      "id": "c38174b5d2711cf483bb83054988972a",
-      "timestamp": 1783459134538
+      "id": "ef26f8667a984abc4e4dd19b699bba68",
+      "timestamp": 1784561194121
+    },
+    {
+      "site": "JobGurus",
+      "id": "c175bdc9416e4fcd6b472b08ca059d04",
+      "timestamp": 1784561194121
     }
   ],
   "irecharge tech. innovations": [
@@ -31648,6 +31643,11 @@
       "site": "JobGurus",
       "id": "ea3de6d7b11665def187062c0b1cff44",
       "timestamp": 1784231940128
+    },
+    {
+      "site": "JobGurus",
+      "id": "2a22ffd34b8716cde24ee3c117758a66",
+      "timestamp": 1784561194121
     }
   ],
   "manufacturer of aluminum building components": [
@@ -34708,6 +34708,13 @@
       "site": "JobGurus",
       "id": "5f1fc65e9a844c6c95dd2c8b0db3019c",
       "timestamp": 1784389883888
+    }
+  ],
+  "edgewood college": [
+    {
+      "site": "JobGurus",
+      "id": "c558819001dfea2794918058d4a2c21b",
+      "timestamp": 1784561194121
     }
   ]
 }
