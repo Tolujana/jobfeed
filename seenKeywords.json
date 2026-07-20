@@ -17038,8 +17038,8 @@
   "mar&mor integrated services limited": [
     {
       "site": "JobGurus",
-      "id": "98f5e04d6bd48a8e1b7db09af78a9517",
-      "timestamp": 1773151183349
+      "id": "1d3974d5133c7dc498746b56dd672ac8",
+      "timestamp": 1784578614614
     }
   ],
   "reliable steel and plastic industry limited": [
@@ -26396,23 +26396,8 @@
   "marbleclear limited": [
     {
       "site": "JobGurus",
-      "id": "8b5212ec1bcefaf67fd275bcffccfa26",
-      "timestamp": 1774288112919
-    },
-    {
-      "site": "JobGurus",
-      "id": "56e7492098661796a17772295cee5c06",
-      "timestamp": 1774377083619
-    },
-    {
-      "site": "JobGurus",
-      "id": "490c3084673df7ae915ada25ae2c67bb",
-      "timestamp": 1774461601498
-    },
-    {
-      "site": "JobGurus",
-      "id": "f7bc27871e045f44528390f8a956d98e",
-      "timestamp": 1774517537396
+      "id": "7457b63cd7129a47006d4ab94ac3225e",
+      "timestamp": 1784578614614
     }
   ],
   "bedum estate management and development (bemd)": [
@@ -32552,8 +32537,8 @@
   "kimeric nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "16ffae3a8ac6426e205a1c0386657419",
-      "timestamp": 1780607397134
+      "id": "0144e791098bb137ef11a5fae391af75",
+      "timestamp": 1784578614614
     }
   ],
   "phoenix travel & tour": [
@@ -34745,6 +34730,20 @@
       "site": "JobGurus",
       "id": "9fbedc867b1131cd796998e648d79455",
       "timestamp": 1784573403482
+    }
+  ],
+  "wandel international (nig) limited": [
+    {
+      "site": "JobGurus",
+      "id": "2e21ceca5ef78d42447b4e7abbef78c0",
+      "timestamp": 1784578614614
+    }
+  ],
+  "wandel international limited": [
+    {
+      "site": "JobGurus",
+      "id": "ffa8988eb982a3e86a1f16351cbdd932",
+      "timestamp": 1784578614614
     }
   ]
 }
