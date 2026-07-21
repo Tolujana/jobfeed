@@ -23748,8 +23748,8 @@
   "oca consulting": [
     {
       "site": "JobGurus",
-      "id": "a3519663e3d9f732347a425cdad3574b",
-      "timestamp": 1766082340590
+      "id": "88c61bfb897670232ab6c536c0e38c8e",
+      "timestamp": 1784644340413
     }
   ],
   "veritasi homes & properties limited": [
@@ -27331,13 +27331,8 @@
   "adventure capital group": [
     {
       "site": "JobGurus",
-      "id": "98b4c6bfd822182715d6c0b7bc091aab",
-      "timestamp": 1773849912103
-    },
-    {
-      "site": "JobGurus",
-      "id": "a43e983dc23122f21a5fc2a6a4053cb5",
-      "timestamp": 1773849912103
+      "id": "00295f6974ab9538762d828cac0295d0",
+      "timestamp": 1784644340413
     }
   ],
   "sweet sensations confectionery limited": [
@@ -29616,8 +29611,8 @@
   "jaypecstar academy": [
     {
       "site": "JobGurus",
-      "id": "8230f73dc53a4d61d22ef042bec9b967",
-      "timestamp": 1775664704812
+      "id": "f871c2e6fa75b8859732c2f7583cd11b",
+      "timestamp": 1784644340413
     }
   ],
   "bfa & co legal consult": [
@@ -34761,6 +34756,20 @@
       "site": "JobGurus",
       "id": "f63502a8c95be2bc2107094cff485d2e",
       "timestamp": 1784583606445
+    }
+  ],
+  "speciality group": [
+    {
+      "site": "JobGurus",
+      "id": "648498f65e8631d4d893f35538ab0dbc",
+      "timestamp": 1784644340413
+    }
+  ],
+  "bioventures limited": [
+    {
+      "site": "JobGurus",
+      "id": "e30b240a8052926873fc5a45824903ad",
+      "timestamp": 1784644340413
     }
   ]
 }
