@@ -578,8 +578,8 @@
   "teamace limited": [
     {
       "site": "JobGurus",
-      "id": "5b5d3a0b2e106afb8a5c1741af331094",
-      "timestamp": 1783968017764
+      "id": "a35a7f1a51fe0cd614847fde3708ba03",
+      "timestamp": 1784650760065
     }
   ],
   "food concepts plc": [
@@ -3256,13 +3256,8 @@
   "abnl limited": [
     {
       "site": "JobGurus",
-      "id": "3f1a1bf2921c4c6b9b2c1fa41e28a80b",
-      "timestamp": 1778937192784
-    },
-    {
-      "site": "JobGurus",
-      "id": "e2bb62c7672f92e1271414374b9d15d2",
-      "timestamp": 1779456473985
+      "id": "7b69a29e2bf49f7623a0464369d14bfc",
+      "timestamp": 1784650760065
     }
   ],
   "daily need distributors limited": [
@@ -8237,8 +8232,8 @@
   "havana group": [
     {
       "site": "JobGurus",
-      "id": "18d046ae869127892a9dcd8415f11005",
-      "timestamp": 1777420310591
+      "id": "1b9361c7b4faa503833b580c43392efc",
+      "timestamp": 1784650760065
     }
   ],
   "ics outsourcing limited": [
@@ -13223,8 +13218,8 @@
   "permanent capital ventures limited": [
     {
       "site": "JobGurus",
-      "id": "ede4904462be026adcdfe159448253e9",
-      "timestamp": 1778103471641
+      "id": "4dd68fb2cbbcba0c0eeb4bdbbf2af20d",
+      "timestamp": 1784650760065
     }
   ],
   "dangote industries limited": [
@@ -34770,6 +34765,13 @@
       "site": "JobGurus",
       "id": "e30b240a8052926873fc5a45824903ad",
       "timestamp": 1784644340413
+    }
+  ],
+  "basol energy services limited": [
+    {
+      "site": "JobGurus",
+      "id": "7015e22d3fe84de19d15b196bc36d1f7",
+      "timestamp": 1784650760065
     }
   ]
 }
