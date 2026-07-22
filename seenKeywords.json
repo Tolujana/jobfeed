@@ -5440,8 +5440,8 @@
   "macden communications limited": [
     {
       "site": "JobGurus",
-      "id": "826c857fd789b45f243874c1b25db099",
-      "timestamp": 1780145106717
+      "id": "c51495bb31d49995edc8f65e902cde68",
+      "timestamp": 1784754045587
     }
   ],
   "blucon valley limited": [
@@ -22653,8 +22653,13 @@
   "valuemart": [
     {
       "site": "JobGurus",
-      "id": "2c15450ed88d994a357f5cd0557ffcf1",
-      "timestamp": 1781206298738
+      "id": "610cb7f81e2fc7564226bc03f5d1462f",
+      "timestamp": 1784754045587
+    },
+    {
+      "site": "JobGurus",
+      "id": "87977fabcb02eef86025d4b74e7e035d",
+      "timestamp": 1784754045587
     }
   ],
   "adkan service nigeria limited": [
@@ -34864,6 +34869,18 @@
       "site": "JobGurus",
       "id": "910d3465a32a00e9f0decfbfc325e981",
       "timestamp": 1784749874487
+    }
+  ],
+  "mico dairy nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "ea1fdafce0eddc2b00715d880705dc31",
+      "timestamp": 1784754045587
+    },
+    {
+      "site": "JobGurus",
+      "id": "c1124bddcb31b1749f3830f7103987e2",
+      "timestamp": 1784754045587
     }
   ]
 }
