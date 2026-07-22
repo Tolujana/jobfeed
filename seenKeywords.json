@@ -3581,8 +3581,8 @@
   "cavista": [
     {
       "site": "JobGurus",
-      "id": "1ded88960689df113284b4b4a199cecc",
-      "timestamp": 1781022502041
+      "id": "15477788322a7e99a916420568672c1b",
+      "timestamp": 1784739381802
     }
   ],
   "secom limited": [
@@ -11137,13 +11137,8 @@
   "domeo resources international (dri)": [
     {
       "site": "JobGurus",
-      "id": "5a551cb0aa194c789f8fb6e77de228c2",
-      "timestamp": 1782254700114
-    },
-    {
-      "site": "JobGurus",
-      "id": "b810345bb4d3f9bb4f32b60447b78f6e",
-      "timestamp": 1782494076659
+      "id": "91a989782ce295749e4540b57b9c7ce7",
+      "timestamp": 1784739381802
     }
   ],
   "pulse nigeria": [
@@ -34833,6 +34828,25 @@
       "site": "JobGurus",
       "id": "abbf7aea317a2e30b5f2e9197ea25b5b",
       "timestamp": 1784734126655
+    }
+  ],
+  "lexworld hotels": [
+    {
+      "site": "JobGurus",
+      "id": "084dcf8af034d4adcc152bdf41fc1eaf",
+      "timestamp": 1784739381802
+    }
+  ],
+  "luzoma microsystems": [
+    {
+      "site": "JobGurus",
+      "id": "d0e274ead4123417515a9c0725f2aceb",
+      "timestamp": 1784739381802
+    },
+    {
+      "site": "JobGurus",
+      "id": "9c68fbb4ad5464b400fed2bb2d0ede34",
+      "timestamp": 1784739381802
     }
   ]
 }
