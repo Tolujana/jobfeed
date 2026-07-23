@@ -585,6 +585,11 @@
       "site": "JobGurus",
       "id": "6b43044214959bc22395cc30a7422e3f",
       "timestamp": 1784734126655
+    },
+    {
+      "site": "JobGurus",
+      "id": "1bfe5d7dbf06ee4fc56424124de2e2a6",
+      "timestamp": 1784811364466
     }
   ],
   "food concepts plc": [
@@ -3723,8 +3728,8 @@
   "emdam strategies limited": [
     {
       "site": "JobGurus",
-      "id": "0207f22a8bf6e13b8802fa9fca9a5536",
-      "timestamp": 1768906379609
+      "id": "3177f5b1077b56c2e47ff75b6a068747",
+      "timestamp": 1784811364466
     }
   ],
   "rainoil limited": [
@@ -7911,8 +7916,8 @@
   "swift consulting limited": [
     {
       "site": "JobGurus",
-      "id": "2ec1515d376a8eacd0c94e4311b98cc7",
-      "timestamp": 1784038931764
+      "id": "72a7fc3837acb73fcd3d6b70ab290ee6",
+      "timestamp": 1784811364466
     }
   ],
   "danish refugee council": [
@@ -33213,13 +33218,8 @@
   "techspace": [
     {
       "site": "JobGurus",
-      "id": "739c8e555a6c9da38b965aa5fa818cc2",
-      "timestamp": 1783106199347
-    },
-    {
-      "site": "JobGurus",
-      "id": "59499fb7a4247c9248bef86c9007377a",
-      "timestamp": 1783166599640
+      "id": "5849fb03f31e52f684a54f57ceb7d9f2",
+      "timestamp": 1784811364466
     }
   ],
   "offshore dimensions limited": [
@@ -34905,6 +34905,13 @@
       "site": "JobGurus",
       "id": "a4f432d37496196616a863d94b79d69f",
       "timestamp": 1784805747296
+    }
+  ],
+  "exclusive schools": [
+    {
+      "site": "JobGurus",
+      "id": "648055666aa2935d8d841b87cba99a04",
+      "timestamp": 1784811364466
     }
   ]
 }
