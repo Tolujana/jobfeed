@@ -8226,8 +8226,8 @@
   "montego upstream services limited": [
     {
       "site": "JobGurus",
-      "id": "a7f48e4929e75d4b254a29c60c3b0141",
-      "timestamp": 1764789273974
+      "id": "e228f3257e180383ecca8612e8a628d4",
+      "timestamp": 1784819154238
     }
   ],
   "don quester consulting": [
@@ -17177,8 +17177,8 @@
   "dlocal": [
     {
       "site": "JobGurus",
-      "id": "a87dc218f9b5d50d4a42a8b8e49c92be",
-      "timestamp": 1765221229120
+      "id": "2dfc7b3551291092cd7d03532db121b8",
+      "timestamp": 1784819154238
     }
   ],
   "coolfm / wazobia fm": [
@@ -31572,8 +31572,8 @@
   "workland": [
     {
       "site": "JobGurus",
-      "id": "87c7e8bd6b695e6b0428a88ddae8a7ff",
-      "timestamp": 1778692401817
+      "id": "e37840d38ab96962f04da3e0b17990e8",
+      "timestamp": 1784819154238
     }
   ],
   "smart city": [
@@ -34912,6 +34912,18 @@
       "site": "JobGurus",
       "id": "648055666aa2935d8d841b87cba99a04",
       "timestamp": 1784811364466
+    }
+  ],
+  "visco group of companies limited": [
+    {
+      "site": "JobGurus",
+      "id": "6486d037a167ba9a239dfd3e76f48722",
+      "timestamp": 1784819154238
+    },
+    {
+      "site": "JobGurus",
+      "id": "435b45dd23736c80848bb4f33dbaf045",
+      "timestamp": 1784819154238
     }
   ]
 }
