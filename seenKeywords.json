@@ -1845,8 +1845,13 @@
   "espritsor enterprises": [
     {
       "site": "JobGurus",
-      "id": "cc65c40a7380743e694321201b889627",
-      "timestamp": 1769437504450
+      "id": "3c2ba8f3171eedd58ebc31029366480b",
+      "timestamp": 1784805747296
+    },
+    {
+      "site": "JobGurus",
+      "id": "c56bd1fa0aa48cbf268c31694e87f3ba",
+      "timestamp": 1784805747296
     }
   ],
   "express resource connect": [
@@ -19209,8 +19214,8 @@
   "genesis group": [
     {
       "site": "JobGurus",
-      "id": "436712e3efa1d7e64cee653ed7f3d5cd",
-      "timestamp": 1778878558503
+      "id": "aab82915c720110a39a839e68e6f7656",
+      "timestamp": 1784805747296
     }
   ],
   "international committee of the red cross (icrc)": [
@@ -34288,8 +34293,8 @@
   "jumbo health and wellness limited": [
     {
       "site": "JobGurus",
-      "id": "d10a4f6d16b9e1abb994bbaf6e9a40a8",
-      "timestamp": 1783703984849
+      "id": "c2829112ea0e1792a70c5678b98820f6",
+      "timestamp": 1784805747296
     }
   ],
   "rivy (formerly payhippo (yc 21))": [
@@ -34893,6 +34898,13 @@
       "site": "JobGurus",
       "id": "ffcede43ecab24c54c8b8241789a000b",
       "timestamp": 1784759516710
+    }
+  ],
+  "richland property and homes limited": [
+    {
+      "site": "JobGurus",
+      "id": "a4f432d37496196616a863d94b79d69f",
+      "timestamp": 1784805747296
     }
   ]
 }
