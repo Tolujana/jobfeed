@@ -5553,8 +5553,8 @@
   "olam agri": [
     {
       "site": "JobGurus",
-      "id": "0b023e792b210ec0f5835e545ce8f6fc",
-      "timestamp": 1780745893782
+      "id": "8662ee844b8397b0b72fe25b3cd47a36",
+      "timestamp": 1784912526819
     }
   ],
   "oneland africa": [
@@ -6729,8 +6729,8 @@
   "transsion holdings": [
     {
       "site": "JobGurus",
-      "id": "807f16e00c930eeae36091e2bcb082e3",
-      "timestamp": 1783697336095
+      "id": "f603e4df22f4f29768610f8eca87850b",
+      "timestamp": 1784912526819
     }
   ],
   "dansol": [
@@ -21626,8 +21626,8 @@
   "excare health": [
     {
       "site": "JobGurus",
-      "id": "488701566acee05b4f6025419aed6877",
-      "timestamp": 1780693562922
+      "id": "a4a249d120ac9d22179eaa04f5ab4882",
+      "timestamp": 1784912526819
     }
   ],
   "dk homes": [
@@ -35002,6 +35002,18 @@
       "site": "JobGurus",
       "id": "3dce8ac838f792026701a3e8f4688da2",
       "timestamp": 1784905909381
+    }
+  ],
+  "zentrix limited": [
+    {
+      "site": "JobGurus",
+      "id": "def351b0ecbcaa0e4cd2cb4cc013c7d7",
+      "timestamp": 1784912526819
+    },
+    {
+      "site": "JobGurus",
+      "id": "6b5f32978f81e095444c96f7b7d5e8ad",
+      "timestamp": 1784912526819
     }
   ]
 }
