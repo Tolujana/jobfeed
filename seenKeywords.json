@@ -8145,8 +8145,8 @@
   "shalina healthcare": [
     {
       "site": "JobGurus",
-      "id": "08f14db5df3e0e69066f7b1e75e4b567",
-      "timestamp": 1781135701474
+      "id": "a519dfbe9f35dc8fcee2da95cf62b597",
+      "timestamp": 1784919327738
     }
   ],
   "aluko & oyebode": [
@@ -16699,8 +16699,8 @@
   "ginos ventures limited": [
     {
       "site": "JobGurus",
-      "id": "49fa98d47c5e34f66a5cda95c671cb66",
-      "timestamp": 1775300470225
+      "id": "0f0b5bcea9f09a7650d8e537b718d963",
+      "timestamp": 1784919327738
     }
   ],
   "blu atlantic hotel": [
@@ -19368,8 +19368,8 @@
   "savannah energy": [
     {
       "site": "JobGurus",
-      "id": "cf5c9febe0131436297c69df06658d96",
-      "timestamp": 1777575059870
+      "id": "50043d691c15116b3bbd97327a1d2ff9",
+      "timestamp": 1784919327738
     }
   ],
   "aim consultants limited": [
@@ -35014,6 +35014,20 @@
       "site": "JobGurus",
       "id": "6b5f32978f81e095444c96f7b7d5e8ad",
       "timestamp": 1784912526819
+    }
+  ],
+  "alphacom": [
+    {
+      "site": "JobGurus",
+      "id": "066245fc74e4741352b445a78ef9e6c0",
+      "timestamp": 1784919327738
+    }
+  ],
+  "corona management systems": [
+    {
+      "site": "JobGurus",
+      "id": "b29f4f1a14f063f4341e42829f90f111",
+      "timestamp": 1784919327738
     }
   ]
 }
