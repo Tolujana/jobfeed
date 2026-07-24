@@ -6510,8 +6510,18 @@
   "johnvents industries limited": [
     {
       "site": "JobGurus",
-      "id": "856941cdd316d50bb7a1471fa6ff5316",
-      "timestamp": 1775675409006
+      "id": "e9c7214f84959790c9ca209cee5e6c4a",
+      "timestamp": 1784928896583
+    },
+    {
+      "site": "JobGurus",
+      "id": "909f920bb824ff9dae9f1ba52578c208",
+      "timestamp": 1784928896583
+    },
+    {
+      "site": "JobGurus",
+      "id": "6a2e3fd36c9ec9d1bed287215b612ec9",
+      "timestamp": 1784928896583
     }
   ],
   "etc workforce services limited": [
@@ -19870,8 +19880,8 @@
   "green habitat initiative (ghi)": [
     {
       "site": "JobGurus",
-      "id": "db6212d5dd6cff8224e8e6dfb3bbf6e4",
-      "timestamp": 1761934977974
+      "id": "978ac932b9bb16f0a1e2a6d2512ede28",
+      "timestamp": 1784928896583
     }
   ],
   "kanselor business innovation campus limited": [
@@ -35014,6 +35024,11 @@
       "site": "JobGurus",
       "id": "6b5f32978f81e095444c96f7b7d5e8ad",
       "timestamp": 1784912526819
+    },
+    {
+      "site": "JobGurus",
+      "id": "66f2a9864935e3f4a4700fe6d113bb57",
+      "timestamp": 1784928896583
     }
   ],
   "alphacom": [
