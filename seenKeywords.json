@@ -32698,8 +32698,8 @@
   "ifgreen industries and investment limited": [
     {
       "site": "JobGurus",
-      "id": "8cb4daa469a386fc2ff09eaa07caa90a",
-      "timestamp": 1780973009092
+      "id": "b48de1f2192745590502861a9528f018",
+      "timestamp": 1784985272530
     }
   ],
   "electra global logistics limited": [
@@ -34362,8 +34362,13 @@
   "kojo auto service centre limited": [
     {
       "site": "JobGurus",
-      "id": "f2caffd99d2e77f79209492ff1ecb456",
-      "timestamp": 1783968017764
+      "id": "58484259701541645d71c4ccf8d0e881",
+      "timestamp": 1784985272530
+    },
+    {
+      "site": "JobGurus",
+      "id": "3c22bb470c4bb7a0ab308663db4d9d78",
+      "timestamp": 1784985272530
     }
   ],
   "zinajob synergy": [
@@ -35057,6 +35062,20 @@
       "site": "JobGurus",
       "id": "8298382e0f33574251d425006dfda5c7",
       "timestamp": 1784924194690
+    }
+  ],
+  "narim multiventures nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "60dd5c63ad1ed9875f4eaea8af9f9332",
+      "timestamp": 1784985272530
+    }
+  ],
+  "kojo auto service center limited": [
+    {
+      "site": "JobGurus",
+      "id": "8df8173954aa0c5dfbe823d132fc87cd",
+      "timestamp": 1784985272530
     }
   ]
 }
