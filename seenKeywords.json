@@ -3139,8 +3139,8 @@
   "husk power energy systems nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "9281703599f62c6429b1aaee08f773f2",
-      "timestamp": 1763655633897
+      "id": "583d02708828b893f90f07d3e9e6cc4f",
+      "timestamp": 1785192982227
     }
   ],
   "buckler systems": [
@@ -12029,8 +12029,8 @@
   "hr leverage africa": [
     {
       "site": "JobGurus",
-      "id": "ca3bdba8aaf7606241d00a7ab4d8d476",
-      "timestamp": 1759757163712
+      "id": "cdc432ddae18f87f530b190dc8d07e3c",
+      "timestamp": 1785192982227
     }
   ],
   "bemil nigeria limited": [
@@ -35172,6 +35172,27 @@
       "site": "JobGurus",
       "id": "a42963f605ddebb0a0ff13f49dcce573",
       "timestamp": 1785188176486
+    }
+  ],
+  "sellokay": [
+    {
+      "site": "JobGurus",
+      "id": "e930d8221799e5140d53264dd1a18451",
+      "timestamp": 1785192982227
+    }
+  ],
+  "mainland group": [
+    {
+      "site": "JobGurus",
+      "id": "0f7798d38ef62fdcf41066e5339a32b5",
+      "timestamp": 1785192982227
+    }
+  ],
+  "housevisory": [
+    {
+      "site": "JobGurus",
+      "id": "4a371c6fa8dc745529838fe8f4f4a31d",
+      "timestamp": 1785192982227
     }
   ]
 }
