@@ -1406,8 +1406,8 @@
   "amaiden energy nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "e2983730118c8d80820f119dc8d19e02",
-      "timestamp": 1782947863902
+      "id": "c3551be933ae251d9cea0294585677a6",
+      "timestamp": 1785183499403
     }
   ],
   "warri wetland hotel": [
@@ -33032,8 +33032,13 @@
   "smollan": [
     {
       "site": "JobGurus",
-      "id": "54f48a2a4f01d3810ba5a9623faa0626",
-      "timestamp": 1781588619575
+      "id": "0536efdda7af65248d117de035713fbd",
+      "timestamp": 1785183499403
+    },
+    {
+      "site": "JobGurus",
+      "id": "8c64c5660790c68b854b28c7e271fc24",
+      "timestamp": 1785183499403
     }
   ],
   "zylus group": [
@@ -35151,6 +35156,11 @@
       "site": "JobGurus",
       "id": "ae2d2ea736cfc3227c25ce380fee48fd",
       "timestamp": 1785165712931
+    },
+    {
+      "site": "JobGurus",
+      "id": "23394359b3dca081e7a08a84a07df8bd",
+      "timestamp": 1785183499403
     }
   ],
   "ekini white tulip consulting limited": [
@@ -35170,6 +35180,11 @@
       "site": "JobGurus",
       "id": "7472893b9f44880dbdf4176e96a46c75",
       "timestamp": 1785178426742
+    },
+    {
+      "site": "JobGurus",
+      "id": "11b8959e06dcf22545c3849af00021e6",
+      "timestamp": 1785183499403
     }
   ]
 }
