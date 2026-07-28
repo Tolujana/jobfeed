@@ -10640,8 +10640,8 @@
   "hiit plc": [
     {
       "site": "JobGurus",
-      "id": "4228059849e2e1419a181752329b6f82",
-      "timestamp": 1783459134538
+      "id": "33bce3820f074dddaa0679c884102e86",
+      "timestamp": 1785254547875
     }
   ],
   "lasad ventures": [
@@ -28346,8 +28346,8 @@
   "learn africa plc": [
     {
       "site": "JobGurus",
-      "id": "d3f88ebcd355953163b47fc3d6e991e6",
-      "timestamp": 1773855270008
+      "id": "38cba170d6b63eeef3ecb207a7bfa6e9",
+      "timestamp": 1785254547875
     }
   ],
   "strategic outsourcing limited (sol)": [
@@ -35163,6 +35163,27 @@
       "site": "JobGurus",
       "id": "4a371c6fa8dc745529838fe8f4f4a31d",
       "timestamp": 1785192982227
+    }
+  ],
+  "emel corporate solutions (ecs) limited": [
+    {
+      "site": "JobGurus",
+      "id": "7be3bf6ef8df678769fefefafb2ba65d",
+      "timestamp": 1785254547875
+    }
+  ],
+  "tasck creative company limited": [
+    {
+      "site": "JobGurus",
+      "id": "47c8683b4c653b356d05a4cd0bb32fca",
+      "timestamp": 1785254547875
+    }
+  ],
+  "dhibe business solutions": [
+    {
+      "site": "JobGurus",
+      "id": "47f1703b629a2771c2c7cba6e078593a",
+      "timestamp": 1785254547875
     }
   ]
 }
