@@ -244,8 +244,8 @@
   "jc international": [
     {
       "site": "JobGurus",
-      "id": "bd33e2455d85665167d743718f1455cc",
-      "timestamp": 1756996826752
+      "id": "5a1d4b610a0a8d4b8a48954b2bd678e4",
+      "timestamp": 1785347124834
     }
   ],
   "trinity financial": [
@@ -440,13 +440,8 @@
   "clinix healthcare": [
     {
       "site": "JobGurus",
-      "id": "caa6b71d5700259266951c337f1d15c3",
-      "timestamp": 1776204568205
-    },
-    {
-      "site": "JobGurus",
-      "id": "71c68d122b31bdb193995cfaf95cac06",
-      "timestamp": 1776204568205
+      "id": "47d3f35e52286f8819f2abbe5dd9266b",
+      "timestamp": 1785347124834
     }
   ],
   "dgic international business services limited": [
@@ -13113,8 +13108,8 @@
   "eni nigeria": [
     {
       "site": "JobGurus",
-      "id": "7e858ebfb44b6af7e29d9fde20868f16",
-      "timestamp": 1756321970391
+      "id": "f2584bbd5b6619be1d29b29f8a3c6a58",
+      "timestamp": 1785347124834
     }
   ],
   "emerald zone business support services": [
@@ -35296,6 +35291,20 @@
       "site": "JobGurus",
       "id": "511a3f29adf9f42115aa6ec6849cd7b0",
       "timestamp": 1785341807747
+    }
+  ],
+  "divest": [
+    {
+      "site": "JobGurus",
+      "id": "f6d733419dbfd0cf6922f4e85c264394",
+      "timestamp": 1785347124834
+    }
+  ],
+  "gkt consults limited": [
+    {
+      "site": "JobGurus",
+      "id": "1591ce6b96f0a14d03989a3a4c9990c6",
+      "timestamp": 1785347124834
     }
   ]
 }
