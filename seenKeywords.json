@@ -5306,6 +5306,11 @@
       "site": "JobGurus",
       "id": "3701d10c21875ffd3915930fe7a636eb",
       "timestamp": 1785336045303
+    },
+    {
+      "site": "JobGurus",
+      "id": "57e7b185e11bcc9c83086626787e003b",
+      "timestamp": 1785352002940
     }
   ],
   "ht-limited": [
@@ -6996,6 +7001,11 @@
       "site": "JobGurus",
       "id": "dd8e06a9994961c95b23c9296cab13f2",
       "timestamp": 1785341807747
+    },
+    {
+      "site": "JobGurus",
+      "id": "f5306c243717215e28008017fdbfa57a",
+      "timestamp": 1785352002940
     }
   ],
   "quicky chillis": [
@@ -35291,6 +35301,11 @@
       "site": "JobGurus",
       "id": "511a3f29adf9f42115aa6ec6849cd7b0",
       "timestamp": 1785341807747
+    },
+    {
+      "site": "JobGurus",
+      "id": "f8d4263df3b3f64f808697d2be75a434",
+      "timestamp": 1785352002940
     }
   ],
   "divest": [
@@ -35305,6 +35320,13 @@
       "site": "JobGurus",
       "id": "1591ce6b96f0a14d03989a3a4c9990c6",
       "timestamp": 1785347124834
+    }
+  ],
+  "western point energy services limited": [
+    {
+      "site": "JobGurus",
+      "id": "f797bc8e4445daaa413d6e6c96f1d99e",
+      "timestamp": 1785352002940
     }
   ]
 }
