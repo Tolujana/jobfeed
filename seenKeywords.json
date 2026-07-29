@@ -4873,8 +4873,8 @@
   "future moves recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "0977947938063ed8ee24a570a519b919",
-      "timestamp": 1778258954549
+      "id": "6eae77aea787179eeb0b82f1b722e025",
+      "timestamp": 1785364086073
     }
   ],
   "renda limited": [
@@ -6756,6 +6756,16 @@
       "site": "JobGurus",
       "id": "f603e4df22f4f29768610f8eca87850b",
       "timestamp": 1784912526819
+    },
+    {
+      "site": "JobGurus",
+      "id": "d7d06874b78bb085652b47dfce0db3a6",
+      "timestamp": 1785364086073
+    },
+    {
+      "site": "JobGurus",
+      "id": "6a02713183168f08c9c972d576b5e390",
+      "timestamp": 1785364086073
     }
   ],
   "dansol": [
@@ -35353,6 +35363,18 @@
       "site": "JobGurus",
       "id": "9354e14f26105645de2e5f40346ab48f",
       "timestamp": 1785360410589
+    }
+  ],
+  "ice-tecx": [
+    {
+      "site": "JobGurus",
+      "id": "cd62b08f3747b8ec151e3b92b22fa2c5",
+      "timestamp": 1785364086073
+    },
+    {
+      "site": "JobGurus",
+      "id": "53583b2a2796be42f480ece74f4e7172",
+      "timestamp": 1785364086073
     }
   ]
 }
