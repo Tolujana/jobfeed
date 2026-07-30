@@ -4279,8 +4279,8 @@
   "guo transport company limited": [
     {
       "site": "JobGurus",
-      "id": "e92ef24068f311e4ee032fda9902446a",
-      "timestamp": 1758206411634
+      "id": "2f7d2125426a947904aeca310c9783af",
+      "timestamp": 1785376676767
     }
   ],
   "home bargains nigeria limited": [
@@ -20785,13 +20785,8 @@
   "taeillo furniture": [
     {
       "site": "JobGurus",
-      "id": "5f68d04f7f98b14772bbc9b8dbc8e830",
-      "timestamp": 1779225312695
-    },
-    {
-      "site": "JobGurus",
-      "id": "26e5b1594f01b7c7695917cdca22cefc",
-      "timestamp": 1779556211034
+      "id": "712117c4e7d2d9680d07f9ce51ff68cb",
+      "timestamp": 1785376676767
     }
   ],
   "peoples democratic party (pdp)": [
@@ -35331,6 +35326,11 @@
       "site": "JobGurus",
       "id": "f8d4263df3b3f64f808697d2be75a434",
       "timestamp": 1785352002940
+    },
+    {
+      "site": "JobGurus",
+      "id": "0b6c0efe50954daf0d675d87ddc65664",
+      "timestamp": 1785376676767
     }
   ],
   "divest": [
@@ -35385,6 +35385,20 @@
       "site": "JobGurus",
       "id": "53583b2a2796be42f480ece74f4e7172",
       "timestamp": 1785364086073
+    }
+  ],
+  "afrihood development company": [
+    {
+      "site": "JobGurus",
+      "id": "5e62c2d22c3123b87f60c6401031b9bf",
+      "timestamp": 1785376676767
+    }
+  ],
+  "peace centre": [
+    {
+      "site": "JobGurus",
+      "id": "668a7f99a628379f0ab733262cf73dc5",
+      "timestamp": 1785376676767
     }
   ]
 }
