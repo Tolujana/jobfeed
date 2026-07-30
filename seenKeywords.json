@@ -157,8 +157,8 @@
   "cway group": [
     {
       "site": "JobGurus",
-      "id": "ada553c507116c0a4fe320ffb33cc8d1",
-      "timestamp": 1760611361971
+      "id": "ca4cc1f56e046e23b011fcef8c041a48",
+      "timestamp": 1785413425352
     }
   ],
   "natnudo": [
@@ -11637,8 +11637,13 @@
   "helium health": [
     {
       "site": "JobGurus",
-      "id": "3583c9dd1c13a52d7523388f45dba357",
-      "timestamp": 1777557482082
+      "id": "b975f33201a834df418b19d23eadec4b",
+      "timestamp": 1785413425352
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7b7d3ab23c8ad01596abd0df5358442",
+      "timestamp": 1785413425352
     }
   ],
   "levitikal group": [
@@ -22131,8 +22136,13 @@
   "cloud energy photoelectric ltd": [
     {
       "site": "JobGurus",
-      "id": "70947f048ae231375436e56af27a4cbd",
-      "timestamp": 1764251371291
+      "id": "4202eb3eca1b4ebb63e3104c37ca00d7",
+      "timestamp": 1785413425352
+    },
+    {
+      "site": "JobGurus",
+      "id": "4ee8b4f3beb5cdca8bffc8c425d5fb5f",
+      "timestamp": 1785413425352
     }
   ],
   "bbc nigeria": [
