@@ -17,8 +17,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "edf667e48df0bf6b526137eede2a37bb",
-      "timestamp": 1783697336095
+      "id": "df2dedf5c95775b4b80c9351e3307d35",
+      "timestamp": 1785497166130
     }
   ],
   "amecron nigeria limited": [
@@ -5538,8 +5538,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "2ba023621079307a50f9cbcaa174cfaa",
-      "timestamp": 1778929124435
+      "id": "d3aa5bfe262bf1447d15e771c73cb7a8",
+      "timestamp": 1785497166130
     }
   ],
   "boing pinnacle limited": [
@@ -23686,8 +23686,8 @@
   "the international institute of tropical agriculture (iita)": [
     {
       "site": "JobGurus",
-      "id": "e63aba90550c05543ab832ec495ba23e",
-      "timestamp": 1783111009078
+      "id": "4b7c4f59f0c7f0afab04586b6d11944a",
+      "timestamp": 1785497166130
     }
   ],
   "citispeed heritage nursery and primary school": [
@@ -35475,6 +35475,20 @@
       "site": "JobGurus",
       "id": "c4717952529a0ad7b21a3504378cada3",
       "timestamp": 1785449245783
+    }
+  ],
+  "brandex contractors limited": [
+    {
+      "site": "JobGurus",
+      "id": "622b17c91a4fa19b4da16d413fc50947",
+      "timestamp": 1785497166130
+    }
+  ],
+  "delans group": [
+    {
+      "site": "JobGurus",
+      "id": "fb6cf3a26d13cbaa86301897c6531b67",
+      "timestamp": 1785497166130
     }
   ]
 }
