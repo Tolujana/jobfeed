@@ -792,8 +792,8 @@
   "tivana workforce": [
     {
       "site": "JobGurus",
-      "id": "94aed5906c13e81612f02fc5cd126599",
-      "timestamp": 1782135053979
+      "id": "b2584f702f7bf8fc91eb5480d9e0a865",
+      "timestamp": 1785528962447
     }
   ],
   "pennek nigeria limited": [
@@ -2750,8 +2750,8 @@
   "hobark international limited": [
     {
       "site": "JobGurus",
-      "id": "a46a10b9f3f3b7f5d0ccbb1d8a2b70db",
-      "timestamp": 1784132162277
+      "id": "54f2b8a4030c7e019f28223887c5284b",
+      "timestamp": 1785528962447
     }
   ],
   "elvaridah": [
@@ -4906,13 +4906,8 @@
   "koins microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "b9731361971cc15dd432238aeabf6559",
-      "timestamp": 1780672404578
-    },
-    {
-      "site": "JobGurus",
-      "id": "4affdd165c8bec8d855c9c70ea1ed1df",
-      "timestamp": 1780686969865
+      "id": "a396c17aeb50b933e163028622342f19",
+      "timestamp": 1785528962447
     }
   ],
   "lifted horizon nigeria limited": [
@@ -35577,6 +35572,20 @@
       "site": "JobGurus",
       "id": "415884f420423d13c232bd8d5c0395b3",
       "timestamp": 1785523861780
+    }
+  ],
+  "boulevard lane limited": [
+    {
+      "site": "JobGurus",
+      "id": "b5b18c2095de1e5b5f9d3b734564bafc",
+      "timestamp": 1785528962447
+    }
+  ],
+  "pere castle": [
+    {
+      "site": "JobGurus",
+      "id": "3d502c2031c769de701c51c403737fb1",
+      "timestamp": 1785528962447
     }
   ]
 }
