@@ -7471,6 +7471,16 @@
       "site": "JobGurus",
       "id": "8965333aac33a052d114344fa2e91013",
       "timestamp": 1785518670446
+    },
+    {
+      "site": "JobGurus",
+      "id": "31406cacfa3a79c5eb06bce6499991f4",
+      "timestamp": 1785603588214
+    },
+    {
+      "site": "JobGurus",
+      "id": "176394bb68b308c4ed54ce1f9cffae91",
+      "timestamp": 1785603588214
     }
   ],
   "schneider electric": [
@@ -34289,8 +34299,8 @@
   "leap microfinance": [
     {
       "site": "JobGurus",
-      "id": "db1a898c7c1c4898a650e965ede07761",
-      "timestamp": 1783687161703
+      "id": "f5b6ab61868bdf9d16b93bacf742412a",
+      "timestamp": 1785603588214
     }
   ],
   "power ark": [
@@ -35600,6 +35610,20 @@
       "site": "JobGurus",
       "id": "d375e21c11d890974d2cfc4ccbb84675",
       "timestamp": 1785599835786
+    }
+  ],
+  " leap microfinance": [
+    {
+      "site": "JobGurus",
+      "id": "961aa6def2b70c5545a383ca27ec51a3",
+      "timestamp": 1785603588214
+    }
+  ],
+  "leap microfinance,": [
+    {
+      "site": "JobGurus",
+      "id": "dd415fa2a95e3a1afa7a320f309ff5b1",
+      "timestamp": 1785603588214
     }
   ]
 }
