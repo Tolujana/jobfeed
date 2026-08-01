@@ -2710,8 +2710,8 @@
   "hrleverage": [
     {
       "site": "JobGurus",
-      "id": "d34c15455b94413a08ccd7ffc4e7ed24",
-      "timestamp": 1753537688734
+      "id": "56fc617657b0f34425cd7bf4355e92c4",
+      "timestamp": 1785613289268
     }
   ],
   "work dey hr services": [
@@ -22917,8 +22917,8 @@
   "mishra global resources": [
     {
       "site": "JobGurus",
-      "id": "5ebc8606c83fafff246b830401977378",
-      "timestamp": 1784924194690
+      "id": "3b1e1b5ce20ccb4d3b154bbb35460c95",
+      "timestamp": 1785613289268
     }
   ],
   "peakhire": [
@@ -35613,6 +35613,11 @@
       "site": "JobGurus",
       "id": "aebdf05baf64f2cc192f6665a16675fd",
       "timestamp": 1785538512959
+    },
+    {
+      "site": "JobGurus",
+      "id": "4c7dcb6071f5b9d5c9a11ea1583aac89",
+      "timestamp": 1785613289268
     }
   ],
   "tunmyque hub": [
@@ -35648,6 +35653,20 @@
       "site": "JobGurus",
       "id": "a45e32189bb3248d1e3758cbc9abdff7",
       "timestamp": 1785607454738
+    }
+  ],
+  "de progressive child academy": [
+    {
+      "site": "JobGurus",
+      "id": "9ae0e0df0bba89af9125402fbf1ea99f",
+      "timestamp": 1785613289268
+    }
+  ],
+  "stanbic ibtc": [
+    {
+      "site": "JobGurus",
+      "id": "c8ded72c29a3020be76ace9c289d45fd",
+      "timestamp": 1785613289268
     }
   ]
 }
