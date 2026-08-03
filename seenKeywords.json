@@ -701,13 +701,8 @@
   "salpha energy limited": [
     {
       "site": "JobGurus",
-      "id": "422c92f20de7c5f69f9e6da69f69ef1e",
-      "timestamp": 1767875840493
-    },
-    {
-      "site": "JobGurus",
-      "id": "a9a9b525be511c645cbe04612afdf70e",
-      "timestamp": 1768389458391
+      "id": "8675ec6ee69a66891addd4e7fcc4b7a4",
+      "timestamp": 1785779184415
     }
   ],
   "greensprings school": [
@@ -18964,8 +18959,8 @@
   "harmony garden & estate development limited": [
     {
       "site": "JobGurus",
-      "id": "ad3716ae50bc7f124ac60e1e62c1c68b",
-      "timestamp": 1761146124618
+      "id": "52a57971e04e2e54f99dc41ebe3cd35c",
+      "timestamp": 1785779184415
     }
   ],
   "ericsson nigeria": [
@@ -35710,6 +35705,27 @@
       "site": "JobGurus",
       "id": "bcb5f72590f06000f2a38c13c4370b29",
       "timestamp": 1785771583960
+    }
+  ],
+  "runofeeds nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "df97912bdd8fbbc10640982ac7bfc6ca",
+      "timestamp": 1785779184415
+    }
+  ],
+  "patris schools": [
+    {
+      "site": "JobGurus",
+      "id": "9ba20902f351d28997e1efb67be44c50",
+      "timestamp": 1785779184415
+    }
+  ],
+  "berrymart integrated services limited": [
+    {
+      "site": "JobGurus",
+      "id": "e0734f854a9667b12a6b887521706002",
+      "timestamp": 1785779184415
     }
   ]
 }
