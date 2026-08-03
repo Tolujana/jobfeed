@@ -5082,8 +5082,8 @@
   "medbury medical services": [
     {
       "site": "JobGurus",
-      "id": "6b4d9bec36c61b35fa9ccef23e70dfed",
-      "timestamp": 1775148941548
+      "id": "9b35a6384576d809fcbe717bb8acc37b",
+      "timestamp": 1785789726710
     }
   ],
   "hrhub.ng limited": [
@@ -32347,13 +32347,8 @@
   "addoz integrated resources": [
     {
       "site": "JobGurus",
-      "id": "2dfabe225b45046f4d51527ab2616a6a",
-      "timestamp": 1780094891923
-    },
-    {
-      "site": "JobGurus",
-      "id": "e14a9ae5119b26f4ea67c37d5e025b5e",
-      "timestamp": 1780115524502
+      "id": "9599e115680e33fdfadd0525b8cafea9",
+      "timestamp": 1785789726710
     }
   ],
   "fenchurch group": [
@@ -35752,6 +35747,25 @@
       "site": "JobGurus",
       "id": "e8f1be99931a28640e09887ee6b0b76c",
       "timestamp": 1785785049125
+    },
+    {
+      "site": "JobGurus",
+      "id": "5222911308a810499f6fef4dc52dbd58",
+      "timestamp": 1785789726710
+    }
+  ],
+  "trinity university": [
+    {
+      "site": "JobGurus",
+      "id": "8c6e6c187ae0d5c809ded1469f685caf",
+      "timestamp": 1785789726710
+    }
+  ],
+  "medbury healthcare services": [
+    {
+      "site": "JobGurus",
+      "id": "c02cff0c0e265bb09f70c41a52932041",
+      "timestamp": 1785789726710
     }
   ]
 }
