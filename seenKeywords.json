@@ -195,8 +195,8 @@
   "pg consulting limited": [
     {
       "site": "JobGurus",
-      "id": "eaced358fb5eb9ae8e4c0e4656b86666",
-      "timestamp": 1779838645205
+      "id": "4780400590cc6105806fec6cb0c1d92d",
+      "timestamp": 1785761517152
     }
   ],
   "xora technologies limited": [
@@ -11211,8 +11211,8 @@
   "nairametrics": [
     {
       "site": "JobGurus",
-      "id": "5ac1d56c7907f28c4782e98c1e79ca63",
-      "timestamp": 1779720326366
+      "id": "dc8d42a566b8cc79227eecf000da92a1",
+      "timestamp": 1785761517152
     }
   ],
   "green africa airways limited": [
@@ -34434,8 +34434,8 @@
   "zinajob synergy": [
     {
       "site": "JobGurus",
-      "id": "9c0c2b00c98bb6d24f6bca1c8b02b301",
-      "timestamp": 1783968017764
+      "id": "77cadf8858724f2263620c9e0a3e29a0",
+      "timestamp": 1785761517152
     }
   ],
   "diy africans": [
@@ -35691,6 +35691,13 @@
       "site": "JobGurus",
       "id": "60cf376fb7b9f8d03314a3bd5f6acbc5",
       "timestamp": 1785689887038
+    }
+  ],
+  "denver castle global services": [
+    {
+      "site": "JobGurus",
+      "id": "e870aa2b65c32328758f6ea006abf832",
+      "timestamp": 1785761517152
     }
   ]
 }
