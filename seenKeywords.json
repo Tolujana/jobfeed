@@ -209,8 +209,8 @@
   "outcess solutions nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "86e4938702002ef92eaa6ab36e989aaf",
-      "timestamp": 1778246567664
+      "id": "73d690a252477c5e027d0d700af27401",
+      "timestamp": 1785876585741
     }
   ],
   "sap nigeria": [
@@ -2267,13 +2267,8 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "3a4ebe24796544a2c0ab7eded611b34f",
-      "timestamp": 1784661177433
-    },
-    {
-      "site": "JobGurus",
-      "id": "accb318535e0a509a5564135a3d08908",
-      "timestamp": 1784797514706
+      "id": "c68ccd5fa801f7eb85b3dccfc39dc840",
+      "timestamp": 1785876585741
     }
   ],
   "flees global services": [
@@ -35817,6 +35812,27 @@
       "site": "JobGurus",
       "id": "a95ac0e76bd9c71d91969543e4fcf2e8",
       "timestamp": 1785871452801
+    }
+  ],
+  "westcare specialist hospital": [
+    {
+      "site": "JobGurus",
+      "id": "ee0452423a34caa952de8c319faa8840",
+      "timestamp": 1785876585741
+    }
+  ],
+  "petroexcel technology": [
+    {
+      "site": "JobGurus",
+      "id": "1c5f3d7afa4e966ac51d251bb48126e6",
+      "timestamp": 1785876585741
+    }
+  ],
+  "essence crop science nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "9158b5b9ea64fca59c34c8309aa2bdcb",
+      "timestamp": 1785876585741
     }
   ]
 }
