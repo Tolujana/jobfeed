@@ -18398,13 +18398,8 @@
   "avocado virtual solutions": [
     {
       "site": "JobGurus",
-      "id": "f770fabcfc0f2af9440285af4e927b29",
-      "timestamp": 1778182717401
-    },
-    {
-      "site": "JobGurus",
-      "id": "3651b8edc8dd484c8b013b10a653f4f7",
-      "timestamp": 1778348687369
+      "id": "281ed9ae5e0c3b019f9fe456467c615c",
+      "timestamp": 1785858744784
     }
   ],
   "krishat pharma industries limited": [
@@ -35787,6 +35782,25 @@
       "site": "JobGurus",
       "id": "89fac215610fa8390c191b9d53e74c6f",
       "timestamp": 1785849239756
+    }
+  ],
+  "bluebulb financials limited": [
+    {
+      "site": "JobGurus",
+      "id": "4c5f832347ffbeede5524a1fcfdb11ad",
+      "timestamp": 1785858744784
+    }
+  ],
+  "wertvoll consulting services": [
+    {
+      "site": "JobGurus",
+      "id": "e4ee34d03242b1d2543c0377bf068306",
+      "timestamp": 1785858744784
+    },
+    {
+      "site": "JobGurus",
+      "id": "d8a55320d542fcfb12d8d2a1a7648b3e",
+      "timestamp": 1785858744784
     }
   ]
 }
