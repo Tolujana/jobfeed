@@ -2839,8 +2839,8 @@
   "hotel capitol": [
     {
       "site": "JobGurus",
-      "id": "ab9d395d3bad2ea1c4e374708bdfbd35",
-      "timestamp": 1782566604859
+      "id": "38152f04f0dd4e8c39da22e4de371caf",
+      "timestamp": 1785871452801
     }
   ],
   "total secure nigeria limited": [
@@ -12136,8 +12136,8 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "09c5a04b66c7a4da86ecbf7b053c0fd3",
-      "timestamp": 1781870507328
+      "id": "06863a8b5bab18bb640e44f12b80edce",
+      "timestamp": 1785871452801
     }
   ],
   "saro agro-allied": [
@@ -34248,8 +34248,8 @@
   "temptimate essentials limited": [
     {
       "site": "JobGurus",
-      "id": "88d43be90e1845b68d8048220cbf3820",
-      "timestamp": 1783544517479
+      "id": "5b25fd5031381f6eef96be389f0e4b1a",
+      "timestamp": 1785871452801
     }
   ],
   "argus media": [
@@ -35803,6 +35803,20 @@
       "site": "JobGurus",
       "id": "d0cb0aeb37c0f52906a43d7c7b2a454a",
       "timestamp": 1785865265692
+    }
+  ],
+  "belamco nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "bd2f9da4d73f26d23b52197b0d22594a",
+      "timestamp": 1785871452801
+    }
+  ],
+  "obsidian advisory africa": [
+    {
+      "site": "JobGurus",
+      "id": "a95ac0e76bd9c71d91969543e4fcf2e8",
+      "timestamp": 1785871452801
     }
   ]
 }
