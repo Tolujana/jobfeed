@@ -17699,8 +17699,8 @@
   "lead enterprise support company limited": [
     {
       "site": "JobGurus",
-      "id": "5dbbcb346da86999832d796c24598295",
-      "timestamp": 1785266136474
+      "id": "5b960f259b1749fa4cb35bbf4dba9f59",
+      "timestamp": 1785955144430
     }
   ],
   "el-shaddai covenant ministries": [
@@ -25643,8 +25643,8 @@
   "hortigraph nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "7e2d87f9ef294c6bfe75e9d1b630bfd5",
-      "timestamp": 1769002889770
+      "id": "c846673d6f9892e178621d3d099503be",
+      "timestamp": 1785955144430
     }
   ],
   "endpoint laboratories and equipment limited": [
@@ -35244,8 +35244,8 @@
   "tongston": [
     {
       "site": "JobGurus",
-      "id": "973129cddfcb717c142eb7cd427dedc2",
-      "timestamp": 1785266136474
+      "id": "6cda8ee975e80be11fc7eecae8bae7eb",
+      "timestamp": 1785955144430
     }
   ],
   "the pistis firm": [
@@ -35870,6 +35870,20 @@
       "site": "JobGurus",
       "id": "5ad3bb5691c74bd8e27786387efa2d84",
       "timestamp": 1785949179626
+    }
+  ],
+  "gardenia resort": [
+    {
+      "site": "JobGurus",
+      "id": "f27f309c1513543d3f4afdfa7b8aceee",
+      "timestamp": 1785955144430
+    }
+  ],
+  "barqly": [
+    {
+      "site": "JobGurus",
+      "id": "9c4886eb0c9171bc64d51b4290109ec1",
+      "timestamp": 1785955144430
     }
   ]
 }
