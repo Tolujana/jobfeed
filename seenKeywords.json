@@ -1330,6 +1330,11 @@
       "site": "JobGurus",
       "id": "dd3675940bfc07f3646d151342825082",
       "timestamp": 1785621152420
+    },
+    {
+      "site": "JobGurus",
+      "id": "a03cd89459ce2f9145905af85319aa14",
+      "timestamp": 1785949179626
     }
   ],
   "lifebank": [
@@ -7025,13 +7030,8 @@
   "human edge dimension consulting": [
     {
       "site": "JobGurus",
-      "id": "2c038e22d7e2ba8c5bf0d5cb808fd67e",
-      "timestamp": 1782851243037
-    },
-    {
-      "site": "JobGurus",
-      "id": "746ed8642979d09f298ab71a8056c4eb",
-      "timestamp": 1782860911804
+      "id": "699fd751888137f9ca14a65a468810bf",
+      "timestamp": 1785949179626
     }
   ],
   "krystal medical centre": [
@@ -23080,6 +23080,11 @@
       "site": "JobGurus",
       "id": "406da9981447ef9d0f3c6ff626290400",
       "timestamp": 1785439092434
+    },
+    {
+      "site": "JobGurus",
+      "id": "f82e1be3c05db2c888799c4a1cce7849",
+      "timestamp": 1785949179626
     }
   ],
   "kingsfield diagnostic": [
@@ -30519,8 +30524,8 @@
   "cheaper beta enterprises": [
     {
       "site": "JobGurus",
-      "id": "43701b9634a6af17843ca557d9fccb69",
-      "timestamp": 1781284801903
+      "id": "f4d11f6a0e5de61d22c9c462f56d8717",
+      "timestamp": 1785949179626
     }
   ],
   "ajayi crowther university": [
@@ -35858,6 +35863,13 @@
       "site": "JobGurus",
       "id": "15484c59f754bda679308acd90bd1f64",
       "timestamp": 1785942622078
+    }
+  ],
+  "chutzpah nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "5ad3bb5691c74bd8e27786387efa2d84",
+      "timestamp": 1785949179626
     }
   ]
 }
