@@ -15042,8 +15042,8 @@
   "mao-oak resources limited": [
     {
       "site": "JobGurus",
-      "id": "d0a28b23b2957ff9cc1b4e4f2ab580e5",
-      "timestamp": 1769168509624
+      "id": "8700c6f90fa8eef061d94df80da1929a",
+      "timestamp": 1785966204980
     }
   ],
   "casfod": [
@@ -27067,18 +27067,8 @@
   "sevic recruit": [
     {
       "site": "JobGurus",
-      "id": "d55cd382b6eaa2da6ff702fa03f899d6",
-      "timestamp": 1775669873852
-    },
-    {
-      "site": "JobGurus",
-      "id": "7b54539e3adfe6ad021288ff1102ab75",
-      "timestamp": 1775682474342
-    },
-    {
-      "site": "JobGurus",
-      "id": "0ccf6979d2faaaacdcc9d497f315a0b7",
-      "timestamp": 1775832182137
+      "id": "6f710f8e1d40f533e7e3f8706f309d57",
+      "timestamp": 1785966204980
     }
   ],
   "kraks media limited": [
@@ -35891,6 +35881,25 @@
       "site": "JobGurus",
       "id": "58886b64cede83dd59471dc2b545eb70",
       "timestamp": 1785961300486
+    }
+  ],
+  "audacious circle careers": [
+    {
+      "site": "JobGurus",
+      "id": "30c05d5d62d6d089ad18b618b33ef738",
+      "timestamp": 1785966204980
+    },
+    {
+      "site": "JobGurus",
+      "id": "9b10c0b13e2ededd126761f22a185a4c",
+      "timestamp": 1785966204980
+    }
+  ],
+  "staggapay": [
+    {
+      "site": "JobGurus",
+      "id": "c6f510001e6a8efc93da2bb87308ccd1",
+      "timestamp": 1785966204980
     }
   ]
 }
