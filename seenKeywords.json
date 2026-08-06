@@ -1386,8 +1386,8 @@
   "amaiden energy nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "c3551be933ae251d9cea0294585677a6",
-      "timestamp": 1785183499403
+      "id": "30f2e669514376ee9b92ec21c37533dd",
+      "timestamp": 1786030895889
     }
   ],
   "warri wetland hotel": [
@@ -6922,8 +6922,8 @@
   "bluechip technologies": [
     {
       "site": "JobGurus",
-      "id": "28e84cd87bec45b9984c92c7995930c0",
-      "timestamp": 1784221802938
+      "id": "4d1ea71ac7207846fdbde6728bedeecf",
+      "timestamp": 1786030895889
     }
   ],
   "bfbl": [
@@ -35926,6 +35926,25 @@
       "site": "JobGurus",
       "id": "daf540b2758f255adfd8a036fd139f63",
       "timestamp": 1785974140200
+    }
+  ],
+  "ss3 hospitality": [
+    {
+      "site": "JobGurus",
+      "id": "a14814d58629d08eea583622a0d74e30",
+      "timestamp": 1786030895889
+    },
+    {
+      "site": "JobGurus",
+      "id": "244959bba9fa24daec8cc006ad38651b",
+      "timestamp": 1786030895889
+    }
+  ],
+  "full life international schools": [
+    {
+      "site": "JobGurus",
+      "id": "50f71a045681d551cb73b75eca04d2d0",
+      "timestamp": 1786030895889
     }
   ]
 }
