@@ -140,18 +140,8 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "81458cb6bc16f35c17788206d7d1e0dd",
-      "timestamp": 1784025660553
-    },
-    {
-      "site": "JobGurus",
-      "id": "76dcc48f814cbcfd086a34e22c04e7fd",
-      "timestamp": 1784553832596
-    },
-    {
-      "site": "JobGurus",
-      "id": "7fcd9b8069e31b7ef940509575258a77",
-      "timestamp": 1784553832596
+      "id": "0c5bf2653b45de906fc8a78658db77c2",
+      "timestamp": 1786143804693
     }
   ],
   "cway group": [
@@ -515,18 +505,13 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "f5998cd0ae6b69381f5cdd88c9346fff",
-      "timestamp": 1785356929324
-    },
-    {
-      "site": "JobGurus",
-      "id": "46038cb131e232377d6ccc664d152c78",
-      "timestamp": 1785512146452
-    },
-    {
-      "site": "JobGurus",
       "id": "7e694b00bcbb1cbe4a3ced1f938fdd45",
       "timestamp": 1785881226609
+    },
+    {
+      "site": "JobGurus",
+      "id": "2f987d48da138019ef3e87d49e6d24c6",
+      "timestamp": 1786143804693
     }
   ],
   "abbfem group": [
@@ -1068,8 +1053,8 @@
   "elizabeth maddeux limited": [
     {
       "site": "JobGurus",
-      "id": "e6e8cb811949d8edd1a3f2107171fb8e",
-      "timestamp": 1778878558503
+      "id": "b49a648a4e8608234e6044c4425d7b09",
+      "timestamp": 1786143804693
     }
   ],
   "cashxpress nigeria limited": [
@@ -36041,6 +36026,20 @@
       "site": "JobGurus",
       "id": "a32b41edd7777973df6536c330d70dc3",
       "timestamp": 1786140241131
+    }
+  ],
+  "kilimanjaro restaurant": [
+    {
+      "site": "JobGurus",
+      "id": "279a54727e65eb14bd4c50e04e063566",
+      "timestamp": 1786143804693
+    }
+  ],
+  "tower alloys industries limited": [
+    {
+      "site": "JobGurus",
+      "id": "b7dac46e6dc0e16c53c2f6137b26b28b",
+      "timestamp": 1786143804693
     }
   ]
 }
