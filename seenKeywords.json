@@ -570,13 +570,8 @@
   "food concepts plc": [
     {
       "site": "JobGurus",
-      "id": "dc4745445337d815c48527e63ca247a8",
-      "timestamp": 1784990713303
-    },
-    {
-      "site": "JobGurus",
-      "id": "6a8ae50f55b7a9727ac21ef6f2ef76db",
-      "timestamp": 1784990713303
+      "id": "4657477936c1a173f902975683601878",
+      "timestamp": 1786119715441
     }
   ],
   "divine infinity college": [
@@ -2415,8 +2410,8 @@
   "dreamcity property & investment limited": [
     {
       "site": "JobGurus",
-      "id": "eb3f7b737ec37f0c626197c47d33ac2a",
-      "timestamp": 1775595070261
+      "id": "f2fb04ced57b33fa477fdcc4d28c9b7c",
+      "timestamp": 1786119715441
     }
   ],
   "sifax group": [
@@ -26334,6 +26329,11 @@
       "site": "JobGurus",
       "id": "ae940322ede596bfe5c7a78d15499f87",
       "timestamp": 1786107143567
+    },
+    {
+      "site": "JobGurus",
+      "id": "e6910f8c4a21206df9733fb417c4ae01",
+      "timestamp": 1786119715441
     }
   ],
   "promise land building & construction limited": [
@@ -28613,8 +28613,8 @@
   "elevare human solutions limited": [
     {
       "site": "JobGurus",
-      "id": "8b36ea54db74cd73a24c392f15305eec",
-      "timestamp": 1782323414525
+      "id": "64e5098e78dd17d47a1d5e95aeaf5d98",
+      "timestamp": 1786119715441
     }
   ],
   "quadri advisory hr services limited": [
@@ -35995,6 +35995,13 @@
       "site": "JobGurus",
       "id": "766b66173912ac67c21ba727873a37c7",
       "timestamp": 1786111728999
+    }
+  ],
+  "dynamique associate solutions": [
+    {
+      "site": "JobGurus",
+      "id": "83ec16b55e94a8b46d27375c1be8bd13",
+      "timestamp": 1786119715441
     }
   ]
 }
