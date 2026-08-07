@@ -272,8 +272,8 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "52eba0b16291eec194c8d2a1dcf1e058",
-      "timestamp": 1785487333280
+      "id": "341ef201a606eda3bb1a3b3e99ff8dc5",
+      "timestamp": 1786123238434
     }
   ],
   "jamub group": [
@@ -2244,6 +2244,11 @@
       "site": "JobGurus",
       "id": "c68ccd5fa801f7eb85b3dccfc39dc840",
       "timestamp": 1785876585741
+    },
+    {
+      "site": "JobGurus",
+      "id": "d6176d10cb1824d7d6782f81f6cadc7c",
+      "timestamp": 1786123238434
     }
   ],
   "flees global services": [
@@ -29617,8 +29622,8 @@
   "resurgir consulting": [
     {
       "site": "JobGurus",
-      "id": "a065a73182b87eb52462eb152530cae9",
-      "timestamp": 1781361372486
+      "id": "971cfe800646d3ad81e866e5bebac7cf",
+      "timestamp": 1786123238434
     }
   ],
   "international workplace group (iwg)": [
@@ -36002,6 +36007,20 @@
       "site": "JobGurus",
       "id": "83ec16b55e94a8b46d27375c1be8bd13",
       "timestamp": 1786119715441
+    }
+  ],
+  "upnepa renewable services limited": [
+    {
+      "site": "JobGurus",
+      "id": "a1ce447b90cbd03b9ca368f429e1d975",
+      "timestamp": 1786123238434
+    }
+  ],
+  "nova rooftop by emiez": [
+    {
+      "site": "JobGurus",
+      "id": "0a5185c109b4f66a4f2be1e55a3f7b94",
+      "timestamp": 1786123238434
     }
   ]
 }
