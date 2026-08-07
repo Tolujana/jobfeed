@@ -8490,6 +8490,16 @@
       "site": "JobGurus",
       "id": "7fde411731e8f3e82612fa2bcd83fedc",
       "timestamp": 1785512146452
+    },
+    {
+      "site": "JobGurus",
+      "id": "36c2ddb08764a11b7b7154b278f61cec",
+      "timestamp": 1786111728999
+    },
+    {
+      "site": "JobGurus",
+      "id": "dd0cf0aeb46f5f72a4f31016b497125c",
+      "timestamp": 1786111728999
     }
   ],
   "cornelli and mosh consults limited": [
@@ -21332,8 +21342,8 @@
   "baker hughes": [
     {
       "site": "JobGurus",
-      "id": "74ba1393739cdddffcff21b21d37d16b",
-      "timestamp": 1778860951326
+      "id": "37a3e69147a964da015edd35adb2325c",
+      "timestamp": 1786111728999
     }
   ],
   "noble hall leadership academy for girls": [
@@ -35971,6 +35981,20 @@
       "site": "JobGurus",
       "id": "3430e9ea96308137f91c8450d8953994",
       "timestamp": 1786077330190
+    }
+  ],
+  "talent factory": [
+    {
+      "site": "JobGurus",
+      "id": "9e1a6a75fca5c2292243dde488cf1561",
+      "timestamp": 1786111728999
+    }
+  ],
+  "eni brand architect limited": [
+    {
+      "site": "JobGurus",
+      "id": "766b66173912ac67c21ba727873a37c7",
+      "timestamp": 1786111728999
     }
   ]
 }
