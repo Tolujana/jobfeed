@@ -2316,8 +2316,8 @@
   "maurice xandra solutions limited": [
     {
       "site": "JobGurus",
-      "id": "de7f2052ccfe088efca1af12a0d46b6b",
-      "timestamp": 1785367878855
+      "id": "0da90912dfa4a9b65750c081e4b0a610",
+      "timestamp": 1786069557904
     }
   ],
   "lily hospitals limited": [
@@ -2727,8 +2727,8 @@
   "elvaridah": [
     {
       "site": "JobGurus",
-      "id": "f0514d16d76fcf457a1ca8e71b06ee65",
-      "timestamp": 1782937313674
+      "id": "2167190d37043a71f9e1284c0b898ee0",
+      "timestamp": 1786069557904
     }
   ],
   "netcom africa": [
@@ -6130,8 +6130,8 @@
   "msi nigeria reproductive choices": [
     {
       "site": "JobGurus",
-      "id": "6c7bc9102b0d14c1d603cbeb4e2660ea",
-      "timestamp": 1761139794658
+      "id": "b92de65d7b3842adfb896eca992c8318",
+      "timestamp": 1786069557904
     }
   ],
   "kizzytelsconcept": [
@@ -8110,8 +8110,8 @@
   "infratel africa": [
     {
       "site": "JobGurus",
-      "id": "b0e4ab377e3cec06e2f006356be56952",
-      "timestamp": 1752598227419
+      "id": "b5438210c27fcf92e7c371d2b2bd4920",
+      "timestamp": 1786069557904
     }
   ],
   "the civil defence, fire, immigration and prisons services board (cdfipb)": [
@@ -35952,6 +35952,13 @@
       "site": "JobGurus",
       "id": "f13b5d34884d96ae3fdfa5d5fb72e3c1",
       "timestamp": 1786060415980
+    }
+  ],
+  "derive communications systems & engineering limited": [
+    {
+      "site": "JobGurus",
+      "id": "02f1f449d9a011ccf963df19cc383a82",
+      "timestamp": 1786069557904
     }
   ]
 }
