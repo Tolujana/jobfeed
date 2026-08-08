@@ -9628,6 +9628,11 @@
       "site": "JobGurus",
       "id": "0061fce35eb966b72a3cc525afda2eef",
       "timestamp": 1786196461630
+    },
+    {
+      "site": "JobGurus",
+      "id": "c943baca32ce6e76987940755ca26b8a",
+      "timestamp": 1786199216660
     }
   ],
   "kpmg": [
@@ -31947,8 +31952,8 @@
   "jobs expert": [
     {
       "site": "JobGurus",
-      "id": "69b2bda36964d8fe0651302aa3af7f90",
-      "timestamp": 1782335949361
+      "id": "d167a1c8b2589d4027b207f81bd03d2b",
+      "timestamp": 1786199216660
     }
   ],
   "one acre fund": [
@@ -36072,6 +36077,20 @@
       "site": "JobGurus",
       "id": "16f6c1afe5aab6da0c61adfb98ef2c25",
       "timestamp": 1786192612827
+    }
+  ],
+  "optisoft technology company limited": [
+    {
+      "site": "JobGurus",
+      "id": "01388cd774c8c046840fc6170f3d265c",
+      "timestamp": 1786199216660
+    }
+  ],
+  "okk global resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "7ad7ed845915bfca9be138edbf900f0d",
+      "timestamp": 1786199216660
     }
   ]
 }
