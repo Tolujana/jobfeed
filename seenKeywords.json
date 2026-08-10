@@ -15282,13 +15282,8 @@
   "vodstra limited": [
     {
       "site": "JobGurus",
-      "id": "466009a1ef49e348b7cc94c6d37ed496",
-      "timestamp": 1784299105932
-    },
-    {
-      "site": "JobGurus",
-      "id": "60c2bfbe8b9b7bbc5a76686dd67b7ee3",
-      "timestamp": 1784393516158
+      "id": "049d58dd4afa8dfc6b47faa04a2f4d4d",
+      "timestamp": 1786377315551
     }
   ],
   "mg vowgas group": [
@@ -16487,13 +16482,8 @@
   "hr-ex consulting": [
     {
       "site": "JobGurus",
-      "id": "b923145875204004808d73777be61bf8",
-      "timestamp": 1764336453242
-    },
-    {
-      "site": "JobGurus",
-      "id": "bf61969fc51ebbce3c865336ab5ff254",
-      "timestamp": 1764938061881
+      "id": "012b05b95463688a451ac6c1be0d58d3",
+      "timestamp": 1786377315551
     }
   ],
   "defcon alliance": [
@@ -36116,6 +36106,20 @@
       "site": "JobGurus",
       "id": "d76aa98642a5185532e6f1f24650e40f",
       "timestamp": 1786373573404
+    }
+  ],
+  "goldenheart teaching hospital": [
+    {
+      "site": "JobGurus",
+      "id": "7ff0ede3aa0721142ac764e954918ec2",
+      "timestamp": 1786377315551
+    }
+  ],
+  "roqqu": [
+    {
+      "site": "JobGurus",
+      "id": "3646e0e92436c4d722ac1f327fd0cc76",
+      "timestamp": 1786377315551
     }
   ]
 }
