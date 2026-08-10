@@ -367,13 +367,8 @@
   "dana group": [
     {
       "site": "JobGurus",
-      "id": "2bbeb6cb9ef53c4a48463b89bec15064",
-      "timestamp": 1779720326366
-    },
-    {
-      "site": "JobGurus",
-      "id": "4df5e09bf93e2173670b9f6244be4f3c",
-      "timestamp": 1779745351239
+      "id": "c94d55fca22220030cdc13abc71f2ada",
+      "timestamp": 1786369970829
     }
   ],
   "raphael group": [
@@ -12486,8 +12481,8 @@
   "zurishaddai recruitment agency": [
     {
       "site": "JobGurus",
-      "id": "453a777051a7999be7d540f2565bfd54",
-      "timestamp": 1780354721324
+      "id": "3781b2e29d542a7a1c5fd21a182d57a0",
+      "timestamp": 1786369970829
     }
   ],
   "wragby business solutions limited": [
@@ -36105,6 +36100,20 @@
       "site": "JobGurus",
       "id": "a05fa4502719422e3d9e9b0ea530ef27",
       "timestamp": 1786201090430
+    }
+  ],
+  "soft solutions limited": [
+    {
+      "site": "JobGurus",
+      "id": "fa9795c917433162b5cd669be8acc629",
+      "timestamp": 1786369970829
+    }
+  ],
+  "coronation merchant bank": [
+    {
+      "site": "JobGurus",
+      "id": "0d39ac2a99d1382e8588bdd9025510d3",
+      "timestamp": 1786369970829
     }
   ]
 }
