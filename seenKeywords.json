@@ -11685,6 +11685,11 @@
       "site": "JobGurus",
       "id": "3b04bb7eb3271ba4cb475f2b1aea2cb1",
       "timestamp": 1786394178898
+    },
+    {
+      "site": "JobGurus",
+      "id": "db5b33a83376dc1c779d4f531454d9aa",
+      "timestamp": 1786397772952
     }
   ],
   "sky mall": [
@@ -25856,8 +25861,8 @@
   "sickle cell foundation nigeria (scfn)": [
     {
       "site": "JobGurus",
-      "id": "0edf8a3b772d89c0dfefd41663da438e",
-      "timestamp": 1769163617325
+      "id": "80334e1eafe54f0bf2e93e9f5610ea7e",
+      "timestamp": 1786397772952
     }
   ],
   "africa food changemakers": [
@@ -26144,6 +26149,11 @@
       "site": "JobGurus",
       "id": "6382877244accecbc58087962ad5d6b7",
       "timestamp": 1786391504339
+    },
+    {
+      "site": "JobGurus",
+      "id": "cc28950cfe64de8318d470f0d6e93260",
+      "timestamp": 1786397772952
     }
   ],
   "w.else nigeria limited": [
@@ -32341,8 +32351,8 @@
   "bayshore technologies limited": [
     {
       "site": "JobGurus",
-      "id": "8b36ec561f672788da0959828a1fbc68",
-      "timestamp": 1782843447726
+      "id": "2d335ebd7bf2790940a23a824216eaa8",
+      "timestamp": 1786397772952
     }
   ],
   "zizi dredging and marine services": [
@@ -36115,6 +36125,13 @@
       "site": "JobGurus",
       "id": "7a2c02bdfb47e600205717a7061ed706",
       "timestamp": 1786394178898
+    }
+  ],
+  "permanent capital ventures": [
+    {
+      "site": "JobGurus",
+      "id": "68fb802e03f5614eceac96ae7a604c62",
+      "timestamp": 1786397772952
     }
   ]
 }
