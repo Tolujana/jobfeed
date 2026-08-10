@@ -3731,13 +3731,8 @@
   "odixcity consulting": [
     {
       "site": "JobGurus",
-      "id": "552f3fd84854031833d255eaa832bee6",
-      "timestamp": 1784126639618
-    },
-    {
-      "site": "JobGurus",
-      "id": "c41507ec85c2916b01eee4102831c228",
-      "timestamp": 1784309742347
+      "id": "c7ed450d8f39778c96bc61cf082e21fa",
+      "timestamp": 1786391504339
     }
   ],
   "changeroom": [
@@ -18055,8 +18050,8 @@
   "emel hospitals limited": [
     {
       "site": "JobGurus",
-      "id": "4b5a4121b658159ad21026abfccf6975",
-      "timestamp": 1760445217435
+      "id": "c56f70c99e470199086a1c955cf98d70",
+      "timestamp": 1786391504339
     }
   ],
   "fiberone": [
@@ -26147,13 +26142,8 @@
   "talentforge solutions limited": [
     {
       "site": "JobGurus",
-      "id": "eaa6ef918c473df211c0eb2958372705",
-      "timestamp": 1785209114013
-    },
-    {
-      "site": "JobGurus",
-      "id": "a9ed5b601b10ae068325404b5102ea12",
-      "timestamp": 1785209114013
+      "id": "6382877244accecbc58087962ad5d6b7",
+      "timestamp": 1786391504339
     }
   ],
   "w.else nigeria limited": [
@@ -36097,6 +36087,13 @@
       "site": "JobGurus",
       "id": "48476138d2d858e4e55fbbfd2f363442",
       "timestamp": 1786384018590
+    }
+  ],
+  "bge (nigeria) solar fze": [
+    {
+      "site": "JobGurus",
+      "id": "fcbb7f6d3afac1820bd921cbbd215969",
+      "timestamp": 1786391504339
     }
   ]
 }
