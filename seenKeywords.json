@@ -2976,13 +2976,13 @@
   "simba group": [
     {
       "site": "JobGurus",
-      "id": "3b0ce5b77df209a54326e8a3e193c901",
-      "timestamp": 1782254700114
+      "id": "25466ea0c2272a9a8a516068be2c38ca",
+      "timestamp": 1786474534258
     },
     {
       "site": "JobGurus",
-      "id": "bd2932830cdd8d832c61def58e4a9b0f",
-      "timestamp": 1782254700114
+      "id": "82511e8ef6531ef640ad384abb073738",
+      "timestamp": 1786474534258
     }
   ],
   "mactay consulting": [
@@ -34735,8 +34735,8 @@
   "wandel international (nig) limited": [
     {
       "site": "JobGurus",
-      "id": "2e21ceca5ef78d42447b4e7abbef78c0",
-      "timestamp": 1784578614614
+      "id": "55a520068922ee8d6c801d369599b2d9",
+      "timestamp": 1786474534258
     }
   ],
   "wandel international limited": [
@@ -36203,6 +36203,20 @@
       "site": "JobGurus",
       "id": "624568cb2a6022f982a2921efdd4763d",
       "timestamp": 1786467274374
+    }
+  ],
+  "bloom digital media": [
+    {
+      "site": "JobGurus",
+      "id": "061b35ddd24493ac545d957e021f30cf",
+      "timestamp": 1786474534258
+    }
+  ],
+  "club debutlers": [
+    {
+      "site": "JobGurus",
+      "id": "8c31017d6856655e48b38ab14e593277",
+      "timestamp": 1786474534258
     }
   ]
 }
