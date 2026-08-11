@@ -7499,8 +7499,8 @@
   "poweredup consulting": [
     {
       "site": "JobGurus",
-      "id": "d3a7457181a5b782d5f35d0c75c7c671",
-      "timestamp": 1776815974855
+      "id": "a8db307de5e9182cb065e7d783ab0e3b",
+      "timestamp": 1786459964201
     }
   ],
   "hatlab ice cream delite limited": [
@@ -22608,8 +22608,8 @@
   "uniccon group": [
     {
       "site": "JobGurus",
-      "id": "6bf05e7e6d0c0402ac9491c7d5195364",
-      "timestamp": 1776809157731
+      "id": "ad0ff5fea4013218175b1f3df695dd76",
+      "timestamp": 1786459964201
     }
   ],
   "best nigerian schools": [
@@ -32760,13 +32760,8 @@
   "uc agency": [
     {
       "site": "JobGurus",
-      "id": "b7f61619cb3b83d6234314dec0f93d7a",
-      "timestamp": 1782572322811
-    },
-    {
-      "site": "JobGurus",
-      "id": "9fba10f31251be13808596fe490886b5",
-      "timestamp": 1782576543905
+      "id": "b949aa94213ed9168ea983b27b013fe4",
+      "timestamp": 1786459964201
     }
   ],
   "pebbles, marks & nana farms limited": [
@@ -36164,6 +36159,20 @@
       "site": "JobGurus",
       "id": "de9a4e5e2b219372850abe277090f9f8",
       "timestamp": 1786401109535
+    }
+  ],
+  "kenedri services": [
+    {
+      "site": "JobGurus",
+      "id": "25dfd5ae24ec3da097e51cf5c4d89023",
+      "timestamp": 1786459964201
+    }
+  ],
+  "tastia restaurant and bakery": [
+    {
+      "site": "JobGurus",
+      "id": "7a51624b42cf701f66d578d19c61f6cc",
+      "timestamp": 1786459964201
     }
   ]
 }
