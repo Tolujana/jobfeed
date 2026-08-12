@@ -461,13 +461,13 @@
   "pruvia integrated limited": [
     {
       "site": "JobGurus",
-      "id": "505f6a9409619fdd9b196cf7f9762e93",
-      "timestamp": 1785178426742
+      "id": "c52df68ff3906add50be829493fba3a5",
+      "timestamp": 1786563313573
     },
     {
       "site": "JobGurus",
-      "id": "650000187fc6393b05735083d53518ca",
-      "timestamp": 1785178426742
+      "id": "07b00c318da022aad8031bfcda492910",
+      "timestamp": 1786563313573
     }
   ],
   "cig motors co. limited": [
@@ -2608,8 +2608,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "e6809aa7afcc2b0cf35167b16cf89da8",
-      "timestamp": 1785865265692
+      "id": "412f610de54b457f15ad872e9b8af501",
+      "timestamp": 1786563313573
     }
   ],
   "international fertilizer development center": [
@@ -8122,6 +8122,11 @@
       "site": "JobGurus",
       "id": "b5438210c27fcf92e7c371d2b2bd4920",
       "timestamp": 1786069557904
+    },
+    {
+      "site": "JobGurus",
+      "id": "744d93afb04d9931148901ff48d70513",
+      "timestamp": 1786563313573
     }
   ],
   "the civil defence, fire, immigration and prisons services board (cdfipb)": [
@@ -34769,8 +34774,8 @@
   "infytel communications limited": [
     {
       "site": "JobGurus",
-      "id": "f63502a8c95be2bc2107094cff485d2e",
-      "timestamp": 1784583606445
+      "id": "f7e49e9b7874ec8c12b898a17cefb9c4",
+      "timestamp": 1786563313573
     }
   ],
   "speciality group": [
