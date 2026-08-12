@@ -36288,6 +36288,11 @@
       "site": "JobGurus",
       "id": "5ea398040972fc4eef8c56696b6b0812",
       "timestamp": 1786551960278
+    },
+    {
+      "site": "JobGurus",
+      "id": "a2004e3ccd0f27d16c9090929826ce9a",
+      "timestamp": 1786559129583
     }
   ],
   "astria learning": [
@@ -36302,6 +36307,34 @@
       "site": "JobGurus",
       "id": "a780fa0a2e7a1e0f174dc22b49a1d9ad",
       "timestamp": 1786555608004
+    }
+  ],
+  "aldelia group": [
+    {
+      "site": "JobGurus",
+      "id": "118d46879a090226aab140bc7fac05ff",
+      "timestamp": 1786559129583
+    }
+  ],
+  "beveledge interior designs": [
+    {
+      "site": "JobGurus",
+      "id": "5c30fe868235a0523bec9ad8e39a5dd3",
+      "timestamp": 1786559129583
+    }
+  ],
+  "mohinani group": [
+    {
+      "site": "JobGurus",
+      "id": "82b275629b9fce790dc16541b4224927",
+      "timestamp": 1786559129583
+    }
+  ],
+  "faladeg": [
+    {
+      "site": "JobGurus",
+      "id": "e5c45ccfa045129cc0e1431b3a6c7044",
+      "timestamp": 1786559129583
     }
   ]
 }
