@@ -1336,6 +1336,11 @@
       "site": "JobGurus",
       "id": "3d03e279d5799d7a6d418cf44f2d8875",
       "timestamp": 1786082762706
+    },
+    {
+      "site": "JobGurus",
+      "id": "f4e09e19f50bfd5d807fba9d3dfad41a",
+      "timestamp": 1786548482231
     }
   ],
   "jtech global resources limited": [
@@ -18251,8 +18256,18 @@
   "givanas group": [
     {
       "site": "JobGurus",
-      "id": "c12c15d6577722051ebbf5e642f7bd97",
-      "timestamp": 1770917687948
+      "id": "2b5d6025774d2030ef1741e373e02011",
+      "timestamp": 1786548482231
+    },
+    {
+      "site": "JobGurus",
+      "id": "2d55def3570ae6f54a1671aacf061244",
+      "timestamp": 1786548482231
+    },
+    {
+      "site": "JobGurus",
+      "id": "200a16ef9def8cda66ceadc68c5b206d",
+      "timestamp": 1786548482231
     }
   ],
   "motopay": [
@@ -36257,6 +36272,13 @@
       "site": "JobGurus",
       "id": "8c31017d6856655e48b38ab14e593277",
       "timestamp": 1786474534258
+    }
+  ],
+  "abuad healthcare limited": [
+    {
+      "site": "JobGurus",
+      "id": "c5487df1483282a85b92d8137e7225e7",
+      "timestamp": 1786548482231
     }
   ]
 }
