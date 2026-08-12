@@ -10052,8 +10052,8 @@
   "hrd solutions": [
     {
       "site": "JobGurus",
-      "id": "f15fc307c581d6eb53ee55f54cd7ab57",
-      "timestamp": 1768382705840
+      "id": "e332409e6cc02a4eaeb70565093a9843",
+      "timestamp": 1786544402436
     }
   ],
   "eclat human resource consulting limited": [
@@ -19154,8 +19154,8 @@
   "avetium consult": [
     {
       "site": "JobGurus",
-      "id": "d6a1d34d866b52d29edea41b6ec9c1d9",
-      "timestamp": 1774015119342
+      "id": "d16da27bceaef47925d8bc50b9faafdd",
+      "timestamp": 1786544402436
     }
   ],
   "ai multimedia academy": [
@@ -32304,6 +32304,16 @@
       "site": "JobGurus",
       "id": "ea30994c3c8fed8072636b9dfc8d1ef4",
       "timestamp": 1786539450576
+    },
+    {
+      "site": "JobGurus",
+      "id": "59a0b271146012735717dd419b96c0b0",
+      "timestamp": 1786544402436
+    },
+    {
+      "site": "JobGurus",
+      "id": "6f1d743ac8b7df33f34836a2e9e38b21",
+      "timestamp": 1786544402436
     }
   ],
   "fenchurch group": [
@@ -35892,6 +35902,11 @@
       "site": "JobGurus",
       "id": "48908ba03af40665aa61aae83f3f24d6",
       "timestamp": 1785970450680
+    },
+    {
+      "site": "JobGurus",
+      "id": "474ff48a44849aabfdecdbc3f0fd1003",
+      "timestamp": 1786544402436
     }
   ],
   "tharros homes & properties limited": [
