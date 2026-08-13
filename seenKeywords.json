@@ -520,11 +520,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "7e694b00bcbb1cbe4a3ced1f938fdd45",
-      "timestamp": 1785881226609
-    },
-    {
-      "site": "JobGurus",
       "id": "2f987d48da138019ef3e87d49e6d24c6",
       "timestamp": 1786143804693
     },
@@ -532,6 +527,11 @@
       "site": "JobGurus",
       "id": "4f5d1ff6797ae1af6d79a02b1e8ee105",
       "timestamp": 1786401109535
+    },
+    {
+      "site": "JobGurus",
+      "id": "c1cec6077e352dd7945422c8f8e371a2",
+      "timestamp": 1786632723525
     }
   ],
   "abbfem group": [
@@ -3352,8 +3352,8 @@
   "jumia": [
     {
       "site": "JobGurus",
-      "id": "911d5831e81b9c682dff73dc34d9dd5f",
-      "timestamp": 1759156881919
+      "id": "0325fe3cb0f773442e11e7e116fd6e31",
+      "timestamp": 1786632723525
     }
   ],
   "aeroport travels and tours limited (attl)": [
@@ -6923,8 +6923,8 @@
   "gabs cooperative": [
     {
       "site": "JobGurus",
-      "id": "04037d2978c20df14067084968e7f214",
-      "timestamp": 1774979559316
+      "id": "a30ea8b59c5222458027150b0361a183",
+      "timestamp": 1786632723525
     }
   ],
   "oracle": [
@@ -36363,6 +36363,20 @@
       "site": "JobGurus",
       "id": "0df0f6774f365c8dbf0caa166c5d80ea",
       "timestamp": 1786629289848
+    }
+  ],
+  "mylagosapp": [
+    {
+      "site": "JobGurus",
+      "id": "df24b0c2e1071d776e76864a0a143b0e",
+      "timestamp": 1786632723525
+    }
+  ],
+  "camerajoint": [
+    {
+      "site": "JobGurus",
+      "id": "395aae067c68fb95283f1a9318d0a2ce",
+      "timestamp": 1786632723525
     }
   ]
 }
