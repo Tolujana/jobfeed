@@ -1056,8 +1056,8 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "8a2df79e95676702b584caef61c2a5a8",
-      "timestamp": 1780591901903
+      "id": "a58376623bfafcf333be8b72a4fc9954",
+      "timestamp": 1786629289848
     }
   ],
   "elizabeth maddeux limited": [
@@ -7768,13 +7768,8 @@
   "kaplo africa": [
     {
       "site": "JobGurus",
-      "id": "9608e7b6d3265078ac7cee82821f7081",
-      "timestamp": 1775839490700
-    },
-    {
-      "site": "JobGurus",
-      "id": "f8599c64f1d633d35e5154900e410698",
-      "timestamp": 1775839490700
+      "id": "6726d17443b2d977931a256d752b5eef",
+      "timestamp": 1786629289848
     }
   ],
   "chemo-pharma laboratories limited": [
@@ -24899,13 +24894,8 @@
   "hrecruitershub": [
     {
       "site": "JobGurus",
-      "id": "6070d259aef233e2374cf9e59c6c6015",
-      "timestamp": 1767975709627
-    },
-    {
-      "site": "JobGurus",
-      "id": "fe57190206567bfb0121deded314f4dc",
-      "timestamp": 1767977541893
+      "id": "e2b15b63250d81a8784caca8e2392368",
+      "timestamp": 1786629289848
     }
   ],
   "vethan concepts group limited": [
@@ -36359,6 +36349,20 @@
       "site": "JobGurus",
       "id": "1f4f30271c6396f0872750c4603023bf",
       "timestamp": 1786622828478
+    }
+  ],
+  "opay microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "ed057a731af60ddb43544abb23601239",
+      "timestamp": 1786629289848
+    }
+  ],
+  "pace consults associate": [
+    {
+      "site": "JobGurus",
+      "id": "0df0f6774f365c8dbf0caa166c5d80ea",
+      "timestamp": 1786629289848
     }
   ]
 }
