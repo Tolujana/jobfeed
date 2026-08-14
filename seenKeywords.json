@@ -407,8 +407,8 @@
   "radisson hotel group": [
     {
       "site": "JobGurus",
-      "id": "12019e11581d3452fdb1b9ac8fbb2feb",
-      "timestamp": 1783342003056
+      "id": "84055fa3557511bf9c1ce1dea02661de",
+      "timestamp": 1786724004176
     }
   ],
   "reliance hmo": [
@@ -1019,13 +1019,8 @@
   "zipline": [
     {
       "site": "JobGurus",
-      "id": "25c95038be254e51f7a8890010d032f3",
-      "timestamp": 1784231940128
-    },
-    {
-      "site": "JobGurus",
-      "id": "fe16d6d98cc41e7a5cfc598a0bd624c3",
-      "timestamp": 1784825685240
+      "id": "35a1e1fb9e97fe2cd6ecbd6d3adcc413",
+      "timestamp": 1786724004176
     }
   ],
   "fave consulting": [
@@ -36441,6 +36436,18 @@
       "site": "JobGurus",
       "id": "f6193b9ae3338969b2b98ca92bfcebd8",
       "timestamp": 1786720495691
+    }
+  ],
+  "slot systems limited": [
+    {
+      "site": "JobGurus",
+      "id": "2448774863023d26838b344803284a78",
+      "timestamp": 1786724004176
+    },
+    {
+      "site": "JobGurus",
+      "id": "42e2b2d88cc538a6efd56ebe4f2b344b",
+      "timestamp": 1786724004176
     }
   ]
 }
