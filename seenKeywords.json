@@ -3739,8 +3739,8 @@
   "cig motors company limited": [
     {
       "site": "JobGurus",
-      "id": "8e543527e8797343d8847e30ffb877ff",
-      "timestamp": 1786126149651
+      "id": "32da79a7f47ade2ef5f034e242b8889f",
+      "timestamp": 1786792485082
     }
   ],
   "odixcity consulting": [
@@ -10397,6 +10397,11 @@
       "site": "JobGurus",
       "id": "09b26eb4f4251cfabc6cff1a07a8b0d9",
       "timestamp": 1786728373266
+    },
+    {
+      "site": "JobGurus",
+      "id": "140f536f95933f5ee7b999fecad3ed8a",
+      "timestamp": 1786792485082
     }
   ],
   "growth in value alliance (gv alliance) partners": [
@@ -30544,8 +30549,8 @@
   "cheaper beta enterprises": [
     {
       "site": "JobGurus",
-      "id": "f4d11f6a0e5de61d22c9c462f56d8717",
-      "timestamp": 1785949179626
+      "id": "14fab58207b8bec1781cbcb5168d6140",
+      "timestamp": 1786792485082
     }
   ],
   "ajayi crowther university": [
@@ -36499,6 +36504,18 @@
       "site": "JobGurus",
       "id": "fe0fac2eba6e91e57ad7c9eedb1fa313",
       "timestamp": 1786790767867
+    }
+  ],
+  "champions learning fields": [
+    {
+      "site": "JobGurus",
+      "id": "395221776c8b466070a72f403e41746b",
+      "timestamp": 1786792485082
+    },
+    {
+      "site": "JobGurus",
+      "id": "17afc9beda1df0fca1dad162abcf42f8",
+      "timestamp": 1786792485082
     }
   ]
 }
