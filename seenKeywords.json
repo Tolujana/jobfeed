@@ -520,11 +520,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "2f987d48da138019ef3e87d49e6d24c6",
-      "timestamp": 1786143804693
-    },
-    {
-      "site": "JobGurus",
       "id": "4f5d1ff6797ae1af6d79a02b1e8ee105",
       "timestamp": 1786401109535
     },
@@ -537,6 +532,16 @@
       "site": "JobGurus",
       "id": "30c2cfabfbb42447a8959565420e1dd2",
       "timestamp": 1786636456698
+    },
+    {
+      "site": "JobGurus",
+      "id": "4675bf309cdfe8fe60b4140748c34f51",
+      "timestamp": 1786789011081
+    },
+    {
+      "site": "JobGurus",
+      "id": "3c259a903f5a13305ba2ff176583359e",
+      "timestamp": 1786789011081
     }
   ],
   "abbfem group": [
@@ -2692,8 +2697,8 @@
   "work dey hr services": [
     {
       "site": "JobGurus",
-      "id": "6302531f4dcf3013acf787d3688c7488",
-      "timestamp": 1785428572179
+      "id": "45ae99abfd83cfe4066d9eba6d119c54",
+      "timestamp": 1786789011081
     }
   ],
   "longbridge technologies limited": [
@@ -7427,6 +7432,11 @@
       "site": "JobGurus",
       "id": "2e7029e912db46774c3cd6193aaeb5ad",
       "timestamp": 1786394178898
+    },
+    {
+      "site": "JobGurus",
+      "id": "d5d226e3bcc8bb129d7bcc69f2bc46ed",
+      "timestamp": 1786789011081
     }
   ],
   "jhpiego": [
@@ -8183,8 +8193,8 @@
   "virginrose resorts": [
     {
       "site": "JobGurus",
-      "id": "e3b4003f956c327237b2022bb4429a24",
-      "timestamp": 1752601371095
+      "id": "d758cc61122025ecb4c1dcf8d2d046c9",
+      "timestamp": 1786789011081
     }
   ],
   "shalina healthcare": [
