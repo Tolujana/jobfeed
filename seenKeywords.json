@@ -9026,8 +9026,13 @@
   "logisoft solutions": [
     {
       "site": "JobGurus",
-      "id": "c3885eb17e3ac4780aae298182f7676e",
-      "timestamp": 1783605765657
+      "id": "80183893002edde496f658e1be12c95f",
+      "timestamp": 1786999915606
+    },
+    {
+      "site": "JobGurus",
+      "id": "6a895e4826a0cbaf0e51c0cf200170cc",
+      "timestamp": 1786999915606
     }
   ],
   "tamak logistics": [
@@ -36621,6 +36626,13 @@
       "site": "JobGurus",
       "id": "8f893efd455515c9db1649a8e6cf4abc",
       "timestamp": 1786994600733
+    }
+  ],
+  "m-p infrastructure limited": [
+    {
+      "site": "JobGurus",
+      "id": "df8388e384219bb5a866ad453db1fee8",
+      "timestamp": 1786999915606
     }
   ]
 }
