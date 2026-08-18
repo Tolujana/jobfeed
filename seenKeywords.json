@@ -30292,8 +30292,8 @@
   "gwx limited": [
     {
       "site": "JobGurus",
-      "id": "8e37e2c4831a66e98cad39489b0e71ea",
-      "timestamp": 1777899876689
+      "id": "00a3ce920795fbd60beed2aa4f1e4705",
+      "timestamp": 1787070300537
     }
   ],
   "intersect consortium": [
@@ -36666,6 +36666,25 @@
       "site": "JobGurus",
       "id": "ee616d00fe48966dfd29add6f343fb27",
       "timestamp": 1787068522057
+    },
+    {
+      "site": "JobGurus",
+      "id": "80b8cd3160dae23cdc824c85ae60234f",
+      "timestamp": 1787070300537
+    }
+  ],
+  "tvc communications": [
+    {
+      "site": "JobGurus",
+      "id": "fda542bfe0ef6e850ac39dce611a4930",
+      "timestamp": 1787070300537
+    }
+  ],
+  "pertinence group": [
+    {
+      "site": "JobGurus",
+      "id": "efb6c37ba15cd489e43ddeb5e1344fe0",
+      "timestamp": 1787070300537
     }
   ]
 }
