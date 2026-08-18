@@ -7820,6 +7820,11 @@
       "site": "JobGurus",
       "id": "6726d17443b2d977931a256d752b5eef",
       "timestamp": 1786629289848
+    },
+    {
+      "site": "JobGurus",
+      "id": "9a0bf89f42a9ce9f42cba9312fa9f75d",
+      "timestamp": 1787086045573
     }
   ],
   "chemo-pharma laboratories limited": [
@@ -36764,6 +36769,34 @@
       "site": "JobGurus",
       "id": "825fb590a76410fb0ad6b14c7134d43e",
       "timestamp": 1787084232377
+    }
+  ],
+  " learn2earn program": [
+    {
+      "site": "JobGurus",
+      "id": "6d62f6b4dbc9968b9d99a1eb2acbac88",
+      "timestamp": 1787086045573
+    }
+  ],
+  "congenital heart disease foundation of nigeria (chdf)": [
+    {
+      "site": "JobGurus",
+      "id": "0e7752b558e26f29b3657082c29ca436",
+      "timestamp": 1787086045573
+    }
+  ],
+  "sunchi integrated farms": [
+    {
+      "site": "JobGurus",
+      "id": "dcef96b100b195b5ca437d545313ecc9",
+      "timestamp": 1787086045573
+    }
+  ],
+  "murphy ben international": [
+    {
+      "site": "JobGurus",
+      "id": "56c85eab4c83981ab8df02eee828c4f7",
+      "timestamp": 1787086045573
     }
   ]
 }
