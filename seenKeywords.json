@@ -15465,13 +15465,8 @@
   "artee group": [
     {
       "site": "JobGurus",
-      "id": "78b835473fb6acd4e003566b6c6a361c",
-      "timestamp": 1783952589996
-    },
-    {
-      "site": "JobGurus",
-      "id": "6e5e6517c03c1a38711bedf977e935ff",
-      "timestamp": 1783961676146
+      "id": "5259c394d640ab8a27a49ef6dcabea53",
+      "timestamp": 1787087894929
     }
   ],
   "mapsi group": [
@@ -20863,6 +20858,11 @@
       "site": "JobGurus",
       "id": "3abcf41958bde20aa11172a347177275",
       "timestamp": 1787073908767
+    },
+    {
+      "site": "JobGurus",
+      "id": "5be9fd4b9d32ef3f91d3c5b96e03336b",
+      "timestamp": 1787087894929
     }
   ],
   "news central tv": [
@@ -34356,6 +34356,16 @@
       "site": "JobGurus",
       "id": "fbbc908065f1ef527cdb5dbfa085a0da",
       "timestamp": 1787082434155
+    },
+    {
+      "site": "JobGurus",
+      "id": "35c25bf4db7eaebb2581198551aff5a8",
+      "timestamp": 1787087894929
+    },
+    {
+      "site": "JobGurus",
+      "id": "86e24e7202b660335f050fbed7ebb232",
+      "timestamp": 1787087894929
     }
   ],
   "power ark": [
