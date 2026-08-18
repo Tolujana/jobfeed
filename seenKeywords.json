@@ -520,11 +520,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "4f5d1ff6797ae1af6d79a02b1e8ee105",
-      "timestamp": 1786401109535
-    },
-    {
-      "site": "JobGurus",
       "id": "c1cec6077e352dd7945422c8f8e371a2",
       "timestamp": 1786632723525
     },
@@ -547,6 +542,11 @@
       "site": "JobGurus",
       "id": "dc57e499ee6167a58ec3f67f32553192",
       "timestamp": 1786790767867
+    },
+    {
+      "site": "JobGurus",
+      "id": "b58d5b84268ac4585e99b1a91cd90f4d",
+      "timestamp": 1787072201017
     }
   ],
   "abbfem group": [
@@ -12201,8 +12201,8 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "06863a8b5bab18bb640e44f12b80edce",
-      "timestamp": 1785871452801
+      "id": "aa4980674004165b47452706e285edc7",
+      "timestamp": 1787072201017
     }
   ],
   "saro agro-allied": [
@@ -36685,6 +36685,27 @@
       "site": "JobGurus",
       "id": "efb6c37ba15cd489e43ddeb5e1344fe0",
       "timestamp": 1787070300537
+    }
+  ],
+  "transgreen nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "2c291455ec40ae5eb6ae0a1a334acca2",
+      "timestamp": 1787072201017
+    }
+  ],
+  "the choice sanitary wares limited": [
+    {
+      "site": "JobGurus",
+      "id": "39c728069556cc51fa4d7364eee6b98d",
+      "timestamp": 1787072201017
+    }
+  ],
+  "azarai": [
+    {
+      "site": "JobGurus",
+      "id": "1290eb19fcc3350377090a47940ba565",
+      "timestamp": 1787072201017
     }
   ]
 }
