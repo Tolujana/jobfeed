@@ -20846,8 +20846,8 @@
   "abbey mortgage bank plc": [
     {
       "site": "JobGurus",
-      "id": "193f44b1046b60bd1cceb5f0794a32c4",
-      "timestamp": 1784844250945
+      "id": "3abcf41958bde20aa11172a347177275",
+      "timestamp": 1787073908767
     }
   ],
   "news central tv": [
@@ -32002,8 +32002,8 @@
   "jobs expert": [
     {
       "site": "JobGurus",
-      "id": "d167a1c8b2589d4027b207f81bd03d2b",
-      "timestamp": 1786199216660
+      "id": "83d628ab586f6c87a1246716de173244",
+      "timestamp": 1787073908767
     }
   ],
   "one acre fund": [
@@ -36699,6 +36699,16 @@
       "site": "JobGurus",
       "id": "39c728069556cc51fa4d7364eee6b98d",
       "timestamp": 1787072201017
+    },
+    {
+      "site": "JobGurus",
+      "id": "defa95fd911810847dafe88c6b962ac2",
+      "timestamp": 1787073908767
+    },
+    {
+      "site": "JobGurus",
+      "id": "8c20d67d57950055fbce391531ba0bdb",
+      "timestamp": 1787073908767
     }
   ],
   "azarai": [
@@ -36706,6 +36716,13 @@
       "site": "JobGurus",
       "id": "1290eb19fcc3350377090a47940ba565",
       "timestamp": 1787072201017
+    }
+  ],
+  "lemon vision media nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "3475427851efc992e0690b161768436c",
+      "timestamp": 1787073908767
     }
   ]
 }
