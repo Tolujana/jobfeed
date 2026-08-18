@@ -2247,13 +2247,13 @@
   "moniepoint": [
     {
       "site": "JobGurus",
-      "id": "d6176d10cb1824d7d6782f81f6cadc7c",
-      "timestamp": 1786123238434
+      "id": "771801391bdee7329fba3b22c80e613e",
+      "timestamp": 1786720495691
     },
     {
       "site": "JobGurus",
-      "id": "771801391bdee7329fba3b22c80e613e",
-      "timestamp": 1786720495691
+      "id": "d5c5d31e7dcc31c7c94de38468834bbc",
+      "timestamp": 1787084232377
     }
   ],
   "flees global services": [
@@ -11520,8 +11520,13 @@
   "bluetti": [
     {
       "site": "JobGurus",
-      "id": "12fe4af8dbdd89c4c9a3d5e06f21c7a2",
-      "timestamp": 1785266136474
+      "id": "7393554a9c6b128dc4971a235098cb11",
+      "timestamp": 1787084232377
+    },
+    {
+      "site": "JobGurus",
+      "id": "8f62a9ab9b9271fe0e4a044eefadd585",
+      "timestamp": 1787084232377
     }
   ],
   "rentachef ng": [
@@ -36745,6 +36750,20 @@
       "site": "JobGurus",
       "id": "817ca2af692e7e965c6581a125f19b52",
       "timestamp": 1787082434155
+    }
+  ],
+  "moontech real estate": [
+    {
+      "site": "JobGurus",
+      "id": "28e0774b7250bff0fc7fc16d683511a4",
+      "timestamp": 1787084232377
+    }
+  ],
+  "pro-m limited": [
+    {
+      "site": "JobGurus",
+      "id": "825fb590a76410fb0ad6b14c7134d43e",
+      "timestamp": 1787084232377
     }
   ]
 }
