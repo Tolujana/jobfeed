@@ -7364,8 +7364,8 @@
   "brandco nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "bd5775c25976fd41aa2bc5e7857d9f21",
-      "timestamp": 1760387900481
+      "id": "57636847bd0e2e170aa80d3131345bb7",
+      "timestamp": 1787082434155
     }
   ],
   "may publishing limited": [
@@ -34339,8 +34339,13 @@
   "leap microfinance": [
     {
       "site": "JobGurus",
-      "id": "f5b6ab61868bdf9d16b93bacf742412a",
-      "timestamp": 1785603588214
+      "id": "0b5909b4858ccc2dd67f94d5c41f2fab",
+      "timestamp": 1787082434155
+    },
+    {
+      "site": "JobGurus",
+      "id": "fbbc908065f1ef527cdb5dbfa085a0da",
+      "timestamp": 1787082434155
     }
   ],
   "power ark": [
@@ -36733,6 +36738,13 @@
       "site": "JobGurus",
       "id": "fddec13b671b586e2269d59ad3e6b42c",
       "timestamp": 1787075539221
+    }
+  ],
+  "itura ventures limited": [
+    {
+      "site": "JobGurus",
+      "id": "817ca2af692e7e965c6581a125f19b52",
+      "timestamp": 1787082434155
     }
   ]
 }
