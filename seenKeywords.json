@@ -15119,8 +15119,8 @@
   "agary pharmaceutical limited": [
     {
       "site": "JobGurus",
-      "id": "bfdbf6d706a69148c4c9facc4be1595a",
-      "timestamp": 1783374806377
+      "id": "808e257e5ab9ddd8655440f8ff77caee",
+      "timestamp": 1787149635527
     }
   ],
   "sim impacting lives foundation": [
@@ -36843,6 +36843,20 @@
       "site": "JobGurus",
       "id": "92ff92e45401dabbedf8538ada90bc0d",
       "timestamp": 1787146755087
+    }
+  ],
+  "seth hotel": [
+    {
+      "site": "JobGurus",
+      "id": "7a84d39cf9c4e071dc509b43491f3ebf",
+      "timestamp": 1787149635527
+    }
+  ],
+  "foodco limited": [
+    {
+      "site": "JobGurus",
+      "id": "1247a4eb24d884b678fc85e078d3134d",
+      "timestamp": 1787149635527
     }
   ]
 }
