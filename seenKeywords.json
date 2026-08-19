@@ -32130,18 +32130,8 @@
   "strategic outsourcing limited": [
     {
       "site": "JobGurus",
-      "id": "a165d98f745b98c653f1c7b405a39e33",
-      "timestamp": 1779486039658
-    },
-    {
-      "site": "JobGurus",
-      "id": "03a7a240508e08d6b9c2b8edd23a1998",
-      "timestamp": 1779490409003
-    },
-    {
-      "site": "JobGurus",
-      "id": "eaca5bd54591bb0276e33646ba098a31",
-      "timestamp": 1779807456803
+      "id": "4c807f26ca91c3739fda262b0c026351",
+      "timestamp": 1787151689904
     }
   ],
   "kannyvic enterprise consult": [
@@ -32812,8 +32802,8 @@
   "leonardo spa hotel and suites": [
     {
       "site": "JobGurus",
-      "id": "77397220ab90eebe25891079d9379fd2",
-      "timestamp": 1781012489449
+      "id": "ba1ad3fd5ccc5309772cf7cc8eeb4d59",
+      "timestamp": 1787151689904
     }
   ],
   "isaacworthub": [
@@ -36857,6 +36847,27 @@
       "site": "JobGurus",
       "id": "1247a4eb24d884b678fc85e078d3134d",
       "timestamp": 1787149635527
+    }
+  ],
+  "etihad airways": [
+    {
+      "site": "JobGurus",
+      "id": "5be43526ec1cbd66854736b9532c95f2",
+      "timestamp": 1787151689904
+    }
+  ],
+  "seth hotels": [
+    {
+      "site": "JobGurus",
+      "id": "a2a693a59e4ac845f4a384eed568d4b5",
+      "timestamp": 1787151689904
+    }
+  ],
+  "crest & co": [
+    {
+      "site": "JobGurus",
+      "id": "358bc181b3777930c3392da1c8df67a4",
+      "timestamp": 1787151689904
     }
   ]
 }
