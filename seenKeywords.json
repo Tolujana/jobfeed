@@ -11814,8 +11814,8 @@
   "virgin forest energy limited": [
     {
       "site": "JobGurus",
-      "id": "bf20c2f2a88989081babb7f2a65bb69d",
-      "timestamp": 1774349240317
+      "id": "55008838e78c6bab2357c5098ddc6959",
+      "timestamp": 1787236223659
     }
   ],
   "ivee consulting limited": [
@@ -36949,6 +36949,13 @@
       "site": "JobGurus",
       "id": "ab26ede5440058b823e2b992eaba0708",
       "timestamp": 1787166138204
+    }
+  ],
+  "techyta": [
+    {
+      "site": "JobGurus",
+      "id": "884bff8936921ad59eaa171c952fb8d5",
+      "timestamp": 1787236223659
     }
   ]
 }
