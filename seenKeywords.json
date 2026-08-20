@@ -1702,8 +1702,8 @@
   "seven-up bottling company limited": [
     {
       "site": "JobGurus",
-      "id": "24a998b2cc9d14ff900c1c6cafa17836",
-      "timestamp": 1786551960278
+      "id": "04cefe67a2a88c1f799e7df75e6d471c",
+      "timestamp": 1787255669522
     }
   ],
   "lemfi (yc s21)": [
@@ -6474,6 +6474,11 @@
       "site": "JobGurus",
       "id": "8111ae8f3545d2dcbe28d5c7fb51b160",
       "timestamp": 1786790767867
+    },
+    {
+      "site": "JobGurus",
+      "id": "a360f4b9cef5cbf5d40bd89be9972f73",
+      "timestamp": 1787255669522
     }
   ],
   "maventeq systems limited": [
@@ -13656,6 +13661,11 @@
       "site": "JobGurus",
       "id": "520783c14b5dc795c21da5670fce0d59",
       "timestamp": 1787253954883
+    },
+    {
+      "site": "JobGurus",
+      "id": "c95a4c53023f3b37381763141fb7aae2",
+      "timestamp": 1787255669522
     }
   ],
   "kuddy cosmetics": [
@@ -37025,6 +37035,20 @@
       "site": "JobGurus",
       "id": "7fc18149f5ed0a0b235a490195f0eb7f",
       "timestamp": 1787246597362
+    }
+  ],
+  "royale resources & consults": [
+    {
+      "site": "JobGurus",
+      "id": "ab53d22b787ae8f700b829c2df291326",
+      "timestamp": 1787255669522
+    }
+  ],
+  "c-restructure consulting": [
+    {
+      "site": "JobGurus",
+      "id": "18c2c827c4414c2b346a25e41d758df2",
+      "timestamp": 1787255669522
     }
   ]
 }
