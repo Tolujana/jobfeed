@@ -2279,6 +2279,11 @@
       "site": "JobGurus",
       "id": "d5c5d31e7dcc31c7c94de38468834bbc",
       "timestamp": 1787084232377
+    },
+    {
+      "site": "JobGurus",
+      "id": "f03a659a94f592e58890d9ffa6f038e7",
+      "timestamp": 1787257325001
     }
   ],
   "flees global services": [
@@ -13954,6 +13959,11 @@
       "site": "JobGurus",
       "id": "dea92a5057cf9b38c188294e427d2fd4",
       "timestamp": 1787068522057
+    },
+    {
+      "site": "JobGurus",
+      "id": "e8eb3a86e8ce8ded27ce9a299c0d445c",
+      "timestamp": 1787257325001
     }
   ],
   "codelabprojects  group(clp)": [
@@ -24797,8 +24807,8 @@
   "pixels digital limited": [
     {
       "site": "JobGurus",
-      "id": "4517c07336d7b0115a2d85df90df35b7",
-      "timestamp": 1767710854962
+      "id": "05fbb743ce857d7cdaabef64adbeba67",
+      "timestamp": 1787257325001
     }
   ],
   "verstand resources limited": [
@@ -31678,6 +31688,11 @@
       "site": "JobGurus",
       "id": "bacbfe10d98ad2e0416dc5857fca00f0",
       "timestamp": 1787253954883
+    },
+    {
+      "site": "JobGurus",
+      "id": "092cce5eebae208e0ffa0953d4a0ba24",
+      "timestamp": 1787257325001
     }
   ],
   "development africa": [
@@ -37049,6 +37064,13 @@
       "site": "JobGurus",
       "id": "18c2c827c4414c2b346a25e41d758df2",
       "timestamp": 1787255669522
+    }
+  ],
+  "nairapoint finance limited": [
+    {
+      "site": "JobGurus",
+      "id": "0ab848aa20a044104164121ab995dd09",
+      "timestamp": 1787257325001
     }
   ]
 }
