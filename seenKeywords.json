@@ -400,13 +400,13 @@
   "sagar vitaceuticals nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "5339844ab04de573ba421fd1b32420e9",
-      "timestamp": 1784314797171
+      "id": "9323cc21fbfd9da858e3bac3bcf250bd",
+      "timestamp": 1787313041150
     },
     {
       "site": "JobGurus",
-      "id": "a4a2b6a4700321d2246ec56c5c886e39",
-      "timestamp": 1784319073828
+      "id": "f27eeafa582b38a7f885b40e04396913",
+      "timestamp": 1787313041150
     }
   ],
   "radisson hotel group": [
@@ -3285,8 +3285,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "267a69e319acb60b57f744068f426f97",
-      "timestamp": 1786622828478
+      "id": "1697dfd77298e4884e47dbe0e6509efa",
+      "timestamp": 1787313041150
     }
   ],
   "smartcity plc": [
@@ -5304,8 +5304,8 @@
   "blue wave new energy technology nigeria company limited": [
     {
       "site": "JobGurus",
-      "id": "492fe8c5c22e44a91c975d579f23ba82",
-      "timestamp": 1781891504830
+      "id": "5a9409d0d4902b51abf22d137760bebd",
+      "timestamp": 1787313041150
     }
   ],
   "successmove integrated logistics services": [
@@ -31232,6 +31232,11 @@
       "site": "JobGurus",
       "id": "07992a8328b78d57f1256eecd13e8293",
       "timestamp": 1786973688371
+    },
+    {
+      "site": "JobGurus",
+      "id": "4546d5358b819ca3bc81a90fafa78387",
+      "timestamp": 1787313041150
     }
   ],
   "one health resilience initiative (ohri)": [
