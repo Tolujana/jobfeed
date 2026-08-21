@@ -1928,8 +1928,8 @@
   "the vault recruitment (tvr)": [
     {
       "site": "JobGurus",
-      "id": "ce7773ee99478f3fe47d313a6e926b83",
-      "timestamp": 1786716789023
+      "id": "ca2b07a47ea73fc12712b0d839c1891e",
+      "timestamp": 1787330063534
     }
   ],
   "across global travels & tours limited": [
@@ -20928,8 +20928,8 @@
   "news central tv": [
     {
       "site": "JobGurus",
-      "id": "6f9068db8b41fbf598cb81621972e319",
-      "timestamp": 1762940503481
+      "id": "0729fbdcad4f831ee2d869f311e15939",
+      "timestamp": 1787330063534
     }
   ],
   "taeillo furniture": [
@@ -37187,6 +37187,27 @@
       "site": "JobGurus",
       "id": "27cea2819b9e945def1b78da80452b48",
       "timestamp": 1787327833824
+    }
+  ],
+  "lapo institute for microfinance and management studies": [
+    {
+      "site": "JobGurus",
+      "id": "10e850f87e8a3faa992a994da502795e",
+      "timestamp": 1787330063534
+    }
+  ],
+  "carew couture": [
+    {
+      "site": "JobGurus",
+      "id": "3f422d83abe8aa58a25ad021d6c7dbbc",
+      "timestamp": 1787330063534
+    }
+  ],
+  "landgate investment limited": [
+    {
+      "site": "JobGurus",
+      "id": "ae77310281b8f47f433f390e4d60fd0c",
+      "timestamp": 1787330063534
     }
   ]
 }
