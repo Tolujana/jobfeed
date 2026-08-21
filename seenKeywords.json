@@ -22903,8 +22903,8 @@
   "arab space nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "0aa01fb4ec5bf877e75cff63c853393d",
-      "timestamp": 1784727629056
+      "id": "4c6b802c13ff8a532b853cb2cb7b3d14",
+      "timestamp": 1787304661765
     }
   ],
   "cbm international": [
@@ -37100,6 +37100,25 @@
       "site": "JobGurus",
       "id": "1dbe69c8c7aef0e18b548409774170be",
       "timestamp": 1787259291667
+    }
+  ],
+  "trinity group": [
+    {
+      "site": "JobGurus",
+      "id": "6b6ac304b11c023b357773462348c33f",
+      "timestamp": 1787304661765
+    },
+    {
+      "site": "JobGurus",
+      "id": "b67c2f57f10d7e5102fbbe7379f58293",
+      "timestamp": 1787304661765
+    }
+  ],
+  " la'voil engineering limited": [
+    {
+      "site": "JobGurus",
+      "id": "3a722bb8825cf45c70da8fa97df055a4",
+      "timestamp": 1787304661765
     }
   ]
 }
