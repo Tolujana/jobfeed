@@ -787,8 +787,8 @@
   "tivana workforce": [
     {
       "site": "JobGurus",
-      "id": "b2584f702f7bf8fc91eb5480d9e0a865",
-      "timestamp": 1785528962447
+      "id": "b1d164b6fa52c79c0d61c0b632015898",
+      "timestamp": 1787397356743
     }
   ],
   "pennek nigeria limited": [
@@ -29569,8 +29569,13 @@
   "itel energy": [
     {
       "site": "JobGurus",
-      "id": "c236ac92e130403a55f34d219f6710e1",
-      "timestamp": 1786196461630
+      "id": "a5aa046ee00eaf0405593079dccc227f",
+      "timestamp": 1787397356743
+    },
+    {
+      "site": "JobGurus",
+      "id": "0d75e4870351aaa5e686075b26482e78",
+      "timestamp": 1787397356743
     }
   ],
   "luxeown technology limited": [
@@ -37212,6 +37217,11 @@
       "site": "JobGurus",
       "id": "31292c398446cdf6b3cede4b0763ff2e",
       "timestamp": 1787392195032
+    },
+    {
+      "site": "JobGurus",
+      "id": "097f25eedd66d364794534822733759c",
+      "timestamp": 1787397356743
     }
   ],
   "ravinora energy services limited": [
@@ -37231,6 +37241,13 @@
       "site": "JobGurus",
       "id": "827cd71601e4e39e2b010fce0bb19cf1",
       "timestamp": 1787395665645
+    }
+  ],
+  "atras mobility ecosystem": [
+    {
+      "site": "JobGurus",
+      "id": "e00c0eb5b0711551f5137662bd1fed78",
+      "timestamp": 1787397356743
     }
   ]
 }
