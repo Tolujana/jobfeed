@@ -4306,8 +4306,8 @@
   "home bargains nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "4ed1a732b78f767b5b3247ef893ce6f6",
-      "timestamp": 1779225312695
+      "id": "c4fa15ceaa253559ebb76edfbc2d5405",
+      "timestamp": 1787392195032
     }
   ],
   "revenstrat consulting": [
@@ -5213,28 +5213,13 @@
   "emzor pharmaceutical industries limited": [
     {
       "site": "JobGurus",
-      "id": "831bc38b6584a8adf80c657b3228cb5d",
-      "timestamp": 1769175560414
+      "id": "07a11aed60236b80159c69172f556612",
+      "timestamp": 1787392195032
     },
     {
       "site": "JobGurus",
-      "id": "8b6fd14256640a789349e112d3108f62",
-      "timestamp": 1769179865182
-    },
-    {
-      "site": "JobGurus",
-      "id": "05c55e4edee5c5d829728148436ebe45",
-      "timestamp": 1769181667484
-    },
-    {
-      "site": "JobGurus",
-      "id": "0276a45598edd999133d8c1cde7fa7cc",
-      "timestamp": 1769770973119
-    },
-    {
-      "site": "JobGurus",
-      "id": "d507efe6c0189422b7a38fce7047d99e",
-      "timestamp": 1769770973119
+      "id": "6c335a060dd37eead477bdbb3622bd6e",
+      "timestamp": 1787392195032
     }
   ],
   "recruit with adenike": [
@@ -11088,13 +11073,8 @@
   "oconsulting limited": [
     {
       "site": "JobGurus",
-      "id": "2eaba1a90b2119360dc7f55df2065070",
-      "timestamp": 1777650784927
-    },
-    {
-      "site": "JobGurus",
-      "id": "ee0858b89dcf544985a15961ab8e886d",
-      "timestamp": 1777654397927
+      "id": "51caf07c5f3edce86358de4ad114cfb7",
+      "timestamp": 1787392195032
     }
   ],
   "new city university": [
@@ -37215,6 +37195,13 @@
       "site": "JobGurus",
       "id": "1791eacbd9d4dec3737f5ad0459b069b",
       "timestamp": 1787334860204
+    }
+  ],
+  "galaxy la-palm royal resort": [
+    {
+      "site": "JobGurus",
+      "id": "31292c398446cdf6b3cede4b0763ff2e",
+      "timestamp": 1787392195032
     }
   ]
 }
