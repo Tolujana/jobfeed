@@ -190,8 +190,8 @@
   "pg consulting limited": [
     {
       "site": "JobGurus",
-      "id": "4780400590cc6105806fec6cb0c1d92d",
-      "timestamp": 1785761517152
+      "id": "c4924bccbaad755523dd64527caa626b",
+      "timestamp": 1787594191503
     }
   ],
   "xora technologies limited": [
@@ -763,8 +763,8 @@
   "chelis bookazine limited": [
     {
       "site": "JobGurus",
-      "id": "9ec04781a49208b96f064f3da37f7348",
-      "timestamp": 1780423415937
+      "id": "54a43f8d7f0a8fb01ce9f49284653b8d",
+      "timestamp": 1787594191503
     }
   ],
   "interrand group": [
@@ -20905,8 +20905,13 @@
   "taeillo furniture": [
     {
       "site": "JobGurus",
-      "id": "7b89720657015d623b8e8ea8a361df9c",
-      "timestamp": 1786985592923
+      "id": "5a2f2d809e9aefe83ae0580a43faabe9",
+      "timestamp": 1787594191503
+    },
+    {
+      "site": "JobGurus",
+      "id": "15294f754939b45001c5075aa65e13be",
+      "timestamp": 1787594191503
     }
   ],
   "peoples democratic party (pdp)": [
