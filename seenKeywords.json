@@ -1092,8 +1092,8 @@
   "cobranet limited": [
     {
       "site": "JobGurus",
-      "id": "6ce9645c57c7a77204a8a8d55b5e453c",
-      "timestamp": 1785942622078
+      "id": "5c52455dafb9d5ac0503bc3ad6a736f2",
+      "timestamp": 1787596621709
     }
   ],
   "habaripay limited": [
@@ -2633,23 +2633,13 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "412f610de54b457f15ad872e9b8af501",
-      "timestamp": 1786563313573
-    },
-    {
-      "site": "JobGurus",
-      "id": "e8be249f67897e97469a69ae5e62d971",
-      "timestamp": 1786567058472
-    },
-    {
-      "site": "JobGurus",
-      "id": "350a687d612c01f8e965a4c21c9642d0",
-      "timestamp": 1786978327107
-    },
-    {
-      "site": "JobGurus",
       "id": "eac65334fc0abb4dedbd539a383db526",
       "timestamp": 1787146755087
+    },
+    {
+      "site": "JobGurus",
+      "id": "a4b18d9b0ddb0760e53c584c44e96148",
+      "timestamp": 1787596621709
     }
   ],
   "international fertilizer development center": [
@@ -29169,18 +29159,8 @@
   "dualcore careers": [
     {
       "site": "JobGurus",
-      "id": "fcaecc399da3bb4323b3105f89d43ed6",
-      "timestamp": 1774708079144
-    },
-    {
-      "site": "JobGurus",
-      "id": "ebf630d55440097dbb73061370eab113",
-      "timestamp": 1775228055465
-    },
-    {
-      "site": "JobGurus",
-      "id": "fedb3d12c3db53a20c9b9146f9bab3c7",
-      "timestamp": 1775310594666
+      "id": "17fcb2966a459538a140af835401e997",
+      "timestamp": 1787596621709
     }
   ],
   "b-freedom outsourcing": [
@@ -30810,13 +30790,8 @@
   "yimei nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "6afa9cb9a61a8bc39d52f72df40b1bf3",
-      "timestamp": 1779383424960
-    },
-    {
-      "site": "JobGurus",
-      "id": "be1a0fd0f48ef1cdc950865b9356a646",
-      "timestamp": 1779892612544
+      "id": "dca092c24564e6c56198a60de4342bca",
+      "timestamp": 1787596621709
     }
   ],
   "mishra global resources limited": [
@@ -37291,6 +37266,13 @@
       "site": "JobGurus",
       "id": "b1349da79cfbb3ed852d800f97117f84",
       "timestamp": 1787592364955
+    }
+  ],
+  "sterling gate services limited": [
+    {
+      "site": "JobGurus",
+      "id": "d220f63708632d3a15070b1b9700b8e3",
+      "timestamp": 1787596621709
     }
   ]
 }
