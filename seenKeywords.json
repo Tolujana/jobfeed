@@ -874,8 +874,8 @@
   "bat computer technologies limited": [
     {
       "site": "JobGurus",
-      "id": "900eb3d66bbfbae25116069d399848d5",
-      "timestamp": 1749053849200
+      "id": "a8366b5400c0abd0e1ce08c636eecb3c",
+      "timestamp": 1787606890102
     }
   ],
   "bolton white group": [
@@ -37009,6 +37009,11 @@
       "site": "JobGurus",
       "id": "18c2c827c4414c2b346a25e41d758df2",
       "timestamp": 1787255669522
+    },
+    {
+      "site": "JobGurus",
+      "id": "9b101af130e57c08fb82fff69a906c46",
+      "timestamp": 1787606890102
     }
   ],
   "nairapoint finance limited": [
@@ -37313,6 +37318,18 @@
       "site": "JobGurus",
       "id": "4fd55e5ce54eec0f4a66990258002afd",
       "timestamp": 1787605020457
+    }
+  ],
+  "vetta eye clinic": [
+    {
+      "site": "JobGurus",
+      "id": "6013ad7077edc95b8c6cfe333dd528ce",
+      "timestamp": 1787606890102
+    },
+    {
+      "site": "JobGurus",
+      "id": "aab26aa082c780f91f38639308f310d0",
+      "timestamp": 1787606890102
     }
   ]
 }
