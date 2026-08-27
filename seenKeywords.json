@@ -5667,8 +5667,8 @@
   "peridot forte solutions consulting": [
     {
       "site": "JobGurus",
-      "id": "4f529abc113c2ebda443c108648591f8",
-      "timestamp": 1783687161703
+      "id": "6acce3f7673aa152760646254334ef67",
+      "timestamp": 1787860488568
     }
   ],
   "haven hauling": [
@@ -5690,6 +5690,11 @@
       "site": "JobGurus",
       "id": "fa78d3a7fc0f94ad1925850dfe17b7b1",
       "timestamp": 1787307833703
+    },
+    {
+      "site": "JobGurus",
+      "id": "fda1df2043032f899ac422645313da00",
+      "timestamp": 1787860488568
     }
   ],
   "pnn group": [
@@ -11615,8 +11620,8 @@
   "med-in pharmaceutical limited": [
     {
       "site": "JobGurus",
-      "id": "813aeb7c5c55851f0ea76d0b77054a9b",
-      "timestamp": 1777927522649
+      "id": "fca408bf465d55b6477d09a68b24d118",
+      "timestamp": 1787860488568
     }
   ],
   "reckitt benckiser": [
@@ -12231,8 +12236,8 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "aa4980674004165b47452706e285edc7",
-      "timestamp": 1787072201017
+      "id": "1002f51f94a2c521eaab094d2ee6b0d7",
+      "timestamp": 1787860488568
     }
   ],
   "saro agro-allied": [
@@ -37531,6 +37536,13 @@
       "site": "JobGurus",
       "id": "e69944e1f40cc9f5984abfbb6f2be68d",
       "timestamp": 1787822600417
+    }
+  ],
+  "arkbridge integrated limited": [
+    {
+      "site": "JobGurus",
+      "id": "f4e1745e8c1811e5469da2901cfcf08b",
+      "timestamp": 1787860488568
     }
   ]
 }
