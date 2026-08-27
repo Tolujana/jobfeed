@@ -15849,8 +15849,8 @@
   "quick collect": [
     {
       "site": "JobGurus",
-      "id": "298def8ee8842d97781a6427fb047328",
-      "timestamp": 1770397805226
+      "id": "5bc75134367d8f0d7314e93b909e835a",
+      "timestamp": 1787788811907
     }
   ],
   "windek group": [
@@ -15910,8 +15910,8 @@
   "captain residency hotel": [
     {
       "site": "JobGurus",
-      "id": "627d92209d533676ee828a4d6d9322a1",
-      "timestamp": 1767872444740
+      "id": "99460219fadf2aa477f3e0755bcbbace",
+      "timestamp": 1787788811907
     }
   ],
   "o'la-kleen nigeria limited": [
@@ -29722,8 +29722,13 @@
   "resurgir consulting": [
     {
       "site": "JobGurus",
-      "id": "971cfe800646d3ad81e866e5bebac7cf",
-      "timestamp": 1786123238434
+      "id": "555f15f6057bebc5caa34ef377799e4d",
+      "timestamp": 1787788811907
+    },
+    {
+      "site": "JobGurus",
+      "id": "d167dca6e7f0b27a302cd08a907c1f11",
+      "timestamp": 1787788811907
     }
   ],
   "international workplace group (iwg)": [
@@ -37515,6 +37520,13 @@
       "site": "JobGurus",
       "id": "8b162cd792585c87dff19317e5a49c0e",
       "timestamp": 1787776194438
+    }
+  ],
+  "pricepally": [
+    {
+      "site": "JobGurus",
+      "id": "eb11b6528a1fa7aa3c44f93574ed5d6c",
+      "timestamp": 1787788811907
     }
   ]
 }
