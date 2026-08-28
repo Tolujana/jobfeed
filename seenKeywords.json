@@ -520,16 +520,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "59973cba410f99f20792d612eccdb5d2",
-      "timestamp": 1787309758494
-    },
-    {
-      "site": "JobGurus",
-      "id": "043de4e31fa46375f95eaccc7900e772",
-      "timestamp": 1787311323199
-    },
-    {
-      "site": "JobGurus",
       "id": "3a452139f6eb9d46a12e1207d3c55d47",
       "timestamp": 1787589032857
     },
@@ -537,6 +527,11 @@
       "site": "JobGurus",
       "id": "f09d10c445e17e609fe673abe967a98a",
       "timestamp": 1787889564222
+    },
+    {
+      "site": "JobGurus",
+      "id": "3f2af927c2f3d034b141fca5bdef9481",
+      "timestamp": 1787934591099
     }
   ],
   "abbfem group": [
@@ -8745,8 +8740,8 @@
   "visionspring": [
     {
       "site": "JobGurus",
-      "id": "e24a8029fe53eb4e06bda0ed96810f1f",
-      "timestamp": 1783019852946
+      "id": "505fe86d49e9ed8196702cd266de44cd",
+      "timestamp": 1787934591099
     }
   ],
   "nestle nigeria plc": [
@@ -9960,8 +9955,8 @@
   "geoplex drillteq limited": [
     {
       "site": "JobGurus",
-      "id": "c13a970526e0271a61426b8974567704",
-      "timestamp": 1779833039585
+      "id": "f6e2b4839f7e75e49ea0baea9906328b",
+      "timestamp": 1787934591099
     }
   ],
   "sims nigeria limited": [
@@ -34154,8 +34149,8 @@
   "royal resource digital services": [
     {
       "site": "JobGurus",
-      "id": "1682dbb73097b4b72a4a363bc1f3a884",
-      "timestamp": 1785785049125
+      "id": "9d7447fcb3645c5e28166ab2c1fc8361",
+      "timestamp": 1787934591099
     }
   ],
   "austine mali clothing": [
@@ -37550,6 +37545,13 @@
       "site": "JobGurus",
       "id": "884636fa136028c73c31d1ee71b1bd27",
       "timestamp": 1787889564222
+    }
+  ],
+  "esty agro": [
+    {
+      "site": "JobGurus",
+      "id": "b21696a4b5393368382e1bc1c3c07660",
+      "timestamp": 1787934591099
     }
   ]
 }
