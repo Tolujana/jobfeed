@@ -1515,8 +1515,8 @@
   "unified payment services limited": [
     {
       "site": "JobGurus",
-      "id": "aae8bb28577e5ed519c9d0f13c247a88",
-      "timestamp": 1782477014767
+      "id": "1924fde9b2150679faa4c3ee5bf9a6e3",
+      "timestamp": 1788033366716
     }
   ],
   "straitpay": [
@@ -1677,8 +1677,8 @@
   "seven-up bottling company limited": [
     {
       "site": "JobGurus",
-      "id": "04cefe67a2a88c1f799e7df75e6d471c",
-      "timestamp": 1787255669522
+      "id": "68c9f384810f17714f50de7f57a48bfe",
+      "timestamp": 1788033366716
     }
   ],
   "lemfi (yc s21)": [
@@ -7352,8 +7352,8 @@
   "pge travels and education consulting": [
     {
       "site": "JobGurus",
-      "id": "00413ef420036b06749d9caa814dbc0d",
-      "timestamp": 1773763261997
+      "id": "6ecf7fc2c7b8e99e878edd288da3d7cb",
+      "timestamp": 1788033366716
     }
   ],
   "brandco nigeria limited": [
@@ -22997,8 +22997,8 @@
   "mishra global resources": [
     {
       "site": "JobGurus",
-      "id": "3b1e1b5ce20ccb4d3b154bbb35460c95",
-      "timestamp": 1785613289268
+      "id": "0bb7e20beb1c4637184bc3334a1c4c24",
+      "timestamp": 1788033366716
     }
   ],
   "peakhire": [
@@ -37589,6 +37589,13 @@
       "site": "JobGurus",
       "id": "919434e854b26276558fb0b16390fa9b",
       "timestamp": 1788024499278
+    }
+  ],
+  "abelinis limited": [
+    {
+      "site": "JobGurus",
+      "id": "141adea8b5ed0fc4a622a2fcd11b0ec8",
+      "timestamp": 1788033366716
     }
   ]
 }
