@@ -9728,8 +9728,8 @@
   "careers verified": [
     {
       "site": "JobGurus",
-      "id": "32af08ee1fd96c5c86cf34ea33d5e068",
-      "timestamp": 1782738147164
+      "id": "f5287d460e476cabb833f3152748af47",
+      "timestamp": 1788042024944
     }
   ],
   "sygnite power and energy solutions ltd": [
@@ -22576,8 +22576,8 @@
   "leam consulting limited": [
     {
       "site": "JobGurus",
-      "id": "540eb3e614edf31d7a6d7513742c28e2",
-      "timestamp": 1785518670446
+      "id": "a9ad59cf6490d7eb3aa70ab5f10032bd",
+      "timestamp": 1788042024944
     }
   ],
   "tangerine365": [
@@ -26328,8 +26328,8 @@
   "fadac resources and services": [
     {
       "site": "JobGurus",
-      "id": "43842c4988bae8e8e3dea105063aa4f4",
-      "timestamp": 1769614151313
+      "id": "da481b6fab9ef626daa7fb2236ee693b",
+      "timestamp": 1788042024944
     }
   ],
   "ehealth africa": [
@@ -37589,6 +37589,11 @@
       "site": "JobGurus",
       "id": "919434e854b26276558fb0b16390fa9b",
       "timestamp": 1788024499278
+    },
+    {
+      "site": "JobGurus",
+      "id": "0e779d84d1d9098cedc721aafea87bd3",
+      "timestamp": 1788042024944
     }
   ],
   "abelinis limited": [
@@ -37596,6 +37601,13 @@
       "site": "JobGurus",
       "id": "141adea8b5ed0fc4a622a2fcd11b0ec8",
       "timestamp": 1788033366716
+    }
+  ],
+  "homeland integrated offshore services": [
+    {
+      "site": "JobGurus",
+      "id": "2343812bcb306cd9d27084a57a75f7a9",
+      "timestamp": 1788042024944
     }
   ]
 }
