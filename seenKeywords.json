@@ -232,8 +232,8 @@
   "promasidor": [
     {
       "site": "JobGurus",
-      "id": "a6d25beec591467abe0f3025b7b4b11e",
-      "timestamp": 1759176901958
+      "id": "33c69144c3f794109f8ed4bdecdfe2c8",
+      "timestamp": 1787989014936
     }
   ],
   "jc international": [
@@ -22793,13 +22793,8 @@
   "valuemart": [
     {
       "site": "JobGurus",
-      "id": "610cb7f81e2fc7564226bc03f5d1462f",
-      "timestamp": 1784754045587
-    },
-    {
-      "site": "JobGurus",
-      "id": "87977fabcb02eef86025d4b74e7e035d",
-      "timestamp": 1784754045587
+      "id": "38bfa5db887ae727338e60f2709c5f80",
+      "timestamp": 1787989014936
     }
   ],
   "adkan service nigeria limited": [
@@ -27311,18 +27306,8 @@
   "careerhive management": [
     {
       "site": "JobGurus",
-      "id": "5e3ef081ba287b31d35c5d839682cadf",
-      "timestamp": 1773941456612
-    },
-    {
-      "site": "JobGurus",
-      "id": "2313d506b283439a249ee88c419fbbc6",
-      "timestamp": 1773946331608
-    },
-    {
-      "site": "JobGurus",
-      "id": "3045e3f8620315364658200542a46f19",
-      "timestamp": 1773946331608
+      "id": "e9739a2785a0402426ec29782b0b698b",
+      "timestamp": 1787989014936
     }
   ],
   "casa 45 enterprises limited": [
@@ -37574,6 +37559,13 @@
       "site": "JobGurus",
       "id": "c058683d6a5e56b8975e4b115103eb0b",
       "timestamp": 1787963856735
+    }
+  ],
+  "21search limited": [
+    {
+      "site": "JobGurus",
+      "id": "5c62ed45afdcd37eacd47628fe20d219",
+      "timestamp": 1787989014936
     }
   ]
 }
