@@ -30442,8 +30442,23 @@
   "dorisfit": [
     {
       "site": "JobGurus",
-      "id": "5ddb33e58d4af550e64fa233da683e09",
-      "timestamp": 1786983648378
+      "id": "c76f25d55ccc108a5ef91e40e0eaca2a",
+      "timestamp": 1787963856735
+    },
+    {
+      "site": "JobGurus",
+      "id": "08162bff49186eb7b9ccdd50775b91c6",
+      "timestamp": 1787963856735
+    },
+    {
+      "site": "JobGurus",
+      "id": "38e6a58d2fef8c8a9c30a24b145da1a3",
+      "timestamp": 1787963856735
+    },
+    {
+      "site": "JobGurus",
+      "id": "43e21d69e179998fe1edd957083a6083",
+      "timestamp": 1787963856735
     }
   ],
   "irecharge tech. innovations": [
@@ -37552,6 +37567,13 @@
       "site": "JobGurus",
       "id": "b21696a4b5393368382e1bc1c3c07660",
       "timestamp": 1787934591099
+    }
+  ],
+  "center for humanitarian impact and development (c-hid)": [
+    {
+      "site": "JobGurus",
+      "id": "c058683d6a5e56b8975e4b115103eb0b",
+      "timestamp": 1787963856735
     }
   ]
 }
