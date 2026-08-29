@@ -12624,8 +12624,8 @@
   "j3 holdings": [
     {
       "site": "JobGurus",
-      "id": "1c8070c72c9bc6acef3b9525c5c7fe6a",
-      "timestamp": 1786130804703
+      "id": "f74f0e6aec07876f590afbe54d7f3b0e",
+      "timestamp": 1788024499278
     }
   ],
   "dreampod place": [
@@ -14638,8 +14638,8 @@
   "ruth and roots": [
     {
       "site": "JobGurus",
-      "id": "9f2787a80cb11bc54e6c00a297ed5daa",
-      "timestamp": 1783095706587
+      "id": "fb06af7d1167b2fd69edb55d24b7dbcf",
+      "timestamp": 1788024499278
     }
   ],
   "nigerian newsdirect": [
@@ -37568,6 +37568,27 @@
       "site": "JobGurus",
       "id": "ca7b7804effeb70f6fbba5f6cc3ebb51",
       "timestamp": 1788010399101
+    }
+  ],
+  "the palace workers": [
+    {
+      "site": "JobGurus",
+      "id": "7cb926f45f790b1e80b8e1239d587769",
+      "timestamp": 1788024499278
+    }
+  ],
+  "advancly technologies nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "6122b2ee8b7a502a4afd991f19687ae5",
+      "timestamp": 1788024499278
+    }
+  ],
+  "contemporary group limited": [
+    {
+      "site": "JobGurus",
+      "id": "919434e854b26276558fb0b16390fa9b",
+      "timestamp": 1788024499278
     }
   ]
 }
