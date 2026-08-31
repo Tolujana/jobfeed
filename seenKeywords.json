@@ -267,28 +267,13 @@
   "jobvet services": [
     {
       "site": "JobGurus",
-      "id": "341ef201a606eda3bb1a3b3e99ff8dc5",
-      "timestamp": 1786123238434
+      "id": "81ca35e1560565ca9cb0a772d624fce0",
+      "timestamp": 1788187584830
     },
     {
       "site": "JobGurus",
-      "id": "de248ff6566b62dbf73c5dfcea2ae85e",
-      "timestamp": 1786189936185
-    },
-    {
-      "site": "JobGurus",
-      "id": "416f97f5583d7693f5d2db9aec786772",
-      "timestamp": 1786189936185
-    },
-    {
-      "site": "JobGurus",
-      "id": "d9c9ce2662fc9aa229fbe8430baaaac0",
-      "timestamp": 1786192612827
-    },
-    {
-      "site": "JobGurus",
-      "id": "887dd3269f73a7abd0b535a341d28d0b",
-      "timestamp": 1786192612827
+      "id": "2c428997ed8b5ac10a1232d38807f813",
+      "timestamp": 1788187584830
     }
   ],
   "jamub group": [
@@ -29699,6 +29684,11 @@
       "site": "JobGurus",
       "id": "7b8a062f31da331c635deb0f519a3241",
       "timestamp": 1787889564222
+    },
+    {
+      "site": "JobGurus",
+      "id": "42a62dca56b5cfe6210537ea67e4eb4c",
+      "timestamp": 1788187584830
     }
   ],
   "international workplace group (iwg)": [
@@ -37608,6 +37598,20 @@
       "site": "JobGurus",
       "id": "2343812bcb306cd9d27084a57a75f7a9",
       "timestamp": 1788042024944
+    }
+  ],
+  "jobvet ai": [
+    {
+      "site": "JobGurus",
+      "id": "e88857d40bfde2a6194a8b2ebd234aaf",
+      "timestamp": 1788187584830
+    }
+  ],
+  "electricity distribution company (ikedc)": [
+    {
+      "site": "JobGurus",
+      "id": "a6ff657a4e795866994464413975c197",
+      "timestamp": 1788187584830
     }
   ]
 }
