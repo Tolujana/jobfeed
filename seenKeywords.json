@@ -517,6 +517,11 @@
       "site": "JobGurus",
       "id": "8620eb81aa8ffbe970da49f844c37f6b",
       "timestamp": 1788208566108
+    },
+    {
+      "site": "JobGurus",
+      "id": "ce91aa0e66bb26992b09cbdf9280f3aa",
+      "timestamp": 1788298372592
     }
   ],
   "abbfem group": [
@@ -3099,8 +3104,8 @@
   "devien consult limited": [
     {
       "site": "JobGurus",
-      "id": "607c1bfdaea18be6948e1d8f0c61bf69",
-      "timestamp": 1780940920307
+      "id": "b5d66582c0b8e309842087129601d6e6",
+      "timestamp": 1788298372592
     }
   ],
   "soft nigeria": [
@@ -7274,8 +7279,8 @@
   "noemdek limited": [
     {
       "site": "JobGurus",
-      "id": "eeb8d2f1518aa182185ce36a2577cc3e",
-      "timestamp": 1773337507953
+      "id": "9a8cd86a06ccd5aa6117ab053eb9a64a",
+      "timestamp": 1788298372592
     }
   ],
   "nordica fertility clinic": [
@@ -37634,6 +37639,13 @@
       "site": "JobGurus",
       "id": "faf3f7b07281fe3a8080fecf96c6f4fe",
       "timestamp": 1788274915676
+    }
+  ],
+  "manpawa business support": [
+    {
+      "site": "JobGurus",
+      "id": "ada608e5bcf0cc816e00f247e36bafe1",
+      "timestamp": 1788298372592
     }
   ]
 }
