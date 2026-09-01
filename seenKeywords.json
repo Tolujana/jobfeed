@@ -470,8 +470,8 @@
   "first excelsia professional services limited": [
     {
       "site": "JobGurus",
-      "id": "f06f2662b9b645731c6508c095869f9d",
-      "timestamp": 1774368164676
+      "id": "fb2a4645ba545f4a965e4a7e1c4ac81f",
+      "timestamp": 1788274915676
     }
   ],
   "universal human resource consult": [
@@ -1051,8 +1051,8 @@
   "palmpay": [
     {
       "site": "JobGurus",
-      "id": "a58376623bfafcf333be8b72a4fc9954",
-      "timestamp": 1786629289848
+      "id": "6f611f79907df6027e38a51ecd7fd4fe",
+      "timestamp": 1788274915676
     }
   ],
   "elizabeth maddeux limited": [
@@ -27203,8 +27203,8 @@
   "the centre for communication and social impact (ccsi)": [
     {
       "site": "JobGurus",
-      "id": "850491c951415f1b0d9f0c228691aad3",
-      "timestamp": 1771102142900
+      "id": "fec26c23c357e6516fd8aa4072478035",
+      "timestamp": 1788274915676
     }
   ],
   "nexushr group": [
@@ -37627,6 +37627,13 @@
       "site": "JobGurus",
       "id": "d188f82eb01dce77673953b098aa3914",
       "timestamp": 1788257901545
+    }
+  ],
+  "lonadek global services": [
+    {
+      "site": "JobGurus",
+      "id": "faf3f7b07281fe3a8080fecf96c6f4fe",
+      "timestamp": 1788274915676
     }
   ]
 }
