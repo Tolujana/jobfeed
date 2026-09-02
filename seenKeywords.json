@@ -357,8 +357,8 @@
   "dana group": [
     {
       "site": "JobGurus",
-      "id": "c94d55fca22220030cdc13abc71f2ada",
-      "timestamp": 1786369970829
+      "id": "3c16e85183aecef5e0a420795313fc88",
+      "timestamp": 1788316457157
     }
   ],
   "raphael group": [
@@ -3256,8 +3256,8 @@
   "abnl limited": [
     {
       "site": "JobGurus",
-      "id": "daab4fc7c34be89b8561a2e8844db603",
-      "timestamp": 1787393845549
+      "id": "8fed2fe1b32109bf29c00aadfa5917a5",
+      "timestamp": 1788316457157
     }
   ],
   "daily need distributors limited": [
@@ -6050,8 +6050,8 @@
   "berger paints nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "2f3c95136592b8ae8fec2cd430887751",
-      "timestamp": 1763997516038
+      "id": "f637160b0a48a51b80783758407c1dd9",
+      "timestamp": 1788316457157
     }
   ],
   "fibre hub": [
@@ -28430,6 +28430,11 @@
       "site": "JobGurus",
       "id": "d4cf7e04cf523f878f503954306d74c3",
       "timestamp": 1788288075769
+    },
+    {
+      "site": "JobGurus",
+      "id": "7aaf47b9eb6b00e2aecdc08eca2ed34c",
+      "timestamp": 1788316457157
     }
   ],
   "adventure capital limited": [
@@ -37672,6 +37677,13 @@
       "site": "JobGurus",
       "id": "367c3567164a29365518cafb14c239b6",
       "timestamp": 1788306268714
+    }
+  ],
+  "zez nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "c1007a2357109eef1a46cd7a24d1b2ba",
+      "timestamp": 1788316457157
     }
   ]
 }
