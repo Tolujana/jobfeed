@@ -16863,6 +16863,11 @@
       "site": "JobGurus",
       "id": "cf2c8b532be9fb1f98ebd1eae13b1a83",
       "timestamp": 1787767905084
+    },
+    {
+      "site": "JobGurus",
+      "id": "e9421be1fbe0cd0dbf25679afb538a35",
+      "timestamp": 1788352103504
     }
   ],
   "mipraise investment limited": [
@@ -18424,8 +18429,8 @@
   "ge vernovas": [
     {
       "site": "JobGurus",
-      "id": "1b3fb623aac316113e8132acc01c856e",
-      "timestamp": 1760609866275
+      "id": "66b2753f74c08730163236359a4ce540",
+      "timestamp": 1788352103504
     }
   ],
   "prince o j global services limited": [
@@ -37684,6 +37689,20 @@
       "site": "JobGurus",
       "id": "c1007a2357109eef1a46cd7a24d1b2ba",
       "timestamp": 1788316457157
+    }
+  ],
+  "epheezy model management": [
+    {
+      "site": "JobGurus",
+      "id": "80abb5bc7d57534a6c5c8344adf698a7",
+      "timestamp": 1788352103504
+    }
+  ],
+  "technotap nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "e59ab7f9d6e5e2f320b0ae8b69154bd0",
+      "timestamp": 1788352103504
     }
   ]
 }
