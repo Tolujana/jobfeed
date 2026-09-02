@@ -2608,18 +2608,8 @@
   "stanbic ibtc bank": [
     {
       "site": "JobGurus",
-      "id": "eac65334fc0abb4dedbd539a383db526",
-      "timestamp": 1787146755087
-    },
-    {
-      "site": "JobGurus",
-      "id": "a4b18d9b0ddb0760e53c584c44e96148",
-      "timestamp": 1787596621709
-    },
-    {
-      "site": "JobGurus",
-      "id": "5b13e78cd1845d5993b1473d299a6128",
-      "timestamp": 1787599443928
+      "id": "48c275fd32b8c2be28904ac525487bbe",
+      "timestamp": 1788387436492
     }
   ],
   "international fertilizer development center": [
@@ -19347,8 +19337,8 @@
   "schlumberger limited": [
     {
       "site": "JobGurus",
-      "id": "ec2a6fea61e16f17fba06197225e339b",
-      "timestamp": 1781102049334
+      "id": "89c0af1649489676827f1be449fe0159",
+      "timestamp": 1788387436492
     }
   ],
   "pragmatic technologies limited": [
@@ -25899,8 +25889,8 @@
   "baobab microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "7c773859fba29b8ccba9f83a73931dd5",
-      "timestamp": 1769082222237
+      "id": "423f35ad91bfa3988c0660c60f309dc2",
+      "timestamp": 1788387436492
     }
   ],
   "pc place nigeria.": [
@@ -37724,6 +37714,18 @@
       "site": "JobGurus",
       "id": "d02d558a964e0e30a39ba75d165f4465",
       "timestamp": 1788377773986
+    }
+  ],
+  "credence gate limited": [
+    {
+      "site": "JobGurus",
+      "id": "ea3940746ffb64a6cbbdc699da56f44f",
+      "timestamp": 1788387436492
+    },
+    {
+      "site": "JobGurus",
+      "id": "763b24b3b61829f83128f223e3404942",
+      "timestamp": 1788387436492
     }
   ]
 }
