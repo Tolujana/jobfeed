@@ -606,8 +606,8 @@
   "vantegral consulting": [
     {
       "site": "JobGurus",
-      "id": "62091d3864c2091f69923969f1f9c4c8",
-      "timestamp": 1787241526286
+      "id": "68b9362df910e0c98eee72bfa4289722",
+      "timestamp": 1788377773986
     }
   ],
   "private sector health alliance of nigeria": [
@@ -12900,13 +12900,8 @@
   "maison fahrenheit": [
     {
       "site": "JobGurus",
-      "id": "70226ef9967e92ff5e3b6286c0ec3a04",
-      "timestamp": 1755956363369
-    },
-    {
-      "site": "JobGurus",
-      "id": "f15cf13faf2e0447515040bbcda3b8b7",
-      "timestamp": 1755958357594
+      "id": "180fc0767d268014b3641e5405fcc551",
+      "timestamp": 1788377773986
     }
   ],
   "mmt consults": [
@@ -37708,6 +37703,27 @@
       "site": "JobGurus",
       "id": "e59ab7f9d6e5e2f320b0ae8b69154bd0",
       "timestamp": 1788352103504
+    }
+  ],
+  "drinks.ng": [
+    {
+      "site": "JobGurus",
+      "id": "2ffec903dfe6ca9ff63d121c7c821e02",
+      "timestamp": 1788377773986
+    }
+  ],
+  "skache intergrated services limited": [
+    {
+      "site": "JobGurus",
+      "id": "0e86dafd97f9a8d7d63dcf42a9af57ce",
+      "timestamp": 1788377773986
+    }
+  ],
+  "obek group": [
+    {
+      "site": "JobGurus",
+      "id": "d02d558a964e0e30a39ba75d165f4465",
+      "timestamp": 1788377773986
     }
   ]
 }
