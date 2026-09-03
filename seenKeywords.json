@@ -3729,8 +3729,8 @@
   "cig motors company limited": [
     {
       "site": "JobGurus",
-      "id": "32da79a7f47ade2ef5f034e242b8889f",
-      "timestamp": 1786792485082
+      "id": "6f1ea19c01bd2290694e174797e30d86",
+      "timestamp": 1788465759376
     }
   ],
   "odixcity consulting": [
@@ -10442,8 +10442,8 @@
   "etl engineering services limited": [
     {
       "site": "JobGurus",
-      "id": "e1a2beea36e5c3de66846cdc74706aba",
-      "timestamp": 1754059607786
+      "id": "20acd92fb198a7c447026c01edc62acd",
+      "timestamp": 1788465759376
     }
   ],
   "gti investment": [
@@ -30950,8 +30950,8 @@
   "wootlab innovations": [
     {
       "site": "JobGurus",
-      "id": "67c628894f5b72edb33856be187cd439",
-      "timestamp": 1777557482082
+      "id": "79ca963ab83d34410c46d73512a4b684",
+      "timestamp": 1788465759376
     }
   ],
   "siao partners": [
@@ -31435,8 +31435,8 @@
   "whip-smart service providers limited": [
     {
       "site": "JobGurus",
-      "id": "393ad68e6679f195baf48306b44eaed9",
-      "timestamp": 1782304346894
+      "id": "3af3cdf6c5e3f89c45d38dfb479056c8",
+      "timestamp": 1788465759376
     }
   ],
   "hope payment service bank limited": [
@@ -37777,6 +37777,13 @@
       "site": "JobGurus",
       "id": "0719c54748a4cd992ba05013ca4b0808",
       "timestamp": 1788456486506
+    }
+  ],
+  "gsmart consulting": [
+    {
+      "site": "JobGurus",
+      "id": "e57562bfca0a7ed934ddc85aecbf4a3b",
+      "timestamp": 1788465759376
     }
   ]
 }
