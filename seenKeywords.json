@@ -522,6 +522,11 @@
       "site": "JobGurus",
       "id": "ce91aa0e66bb26992b09cbdf9280f3aa",
       "timestamp": 1788298372592
+    },
+    {
+      "site": "JobGurus",
+      "id": "5e61943d8e3998821c305c7bbc174a45",
+      "timestamp": 1788475749924
     }
   ],
   "abbfem group": [
@@ -10056,8 +10061,8 @@
   "microsoft corporation": [
     {
       "site": "JobGurus",
-      "id": "ccc351b6c09fe2a7f1f4e6487e6ae861",
-      "timestamp": 1755802005200
+      "id": "67dd8e6f23481b8bc68c360a54dd70e1",
+      "timestamp": 1788475749924
     }
   ],
   "eìclat human resource consulting": [
@@ -18291,18 +18296,8 @@
   "givanas group": [
     {
       "site": "JobGurus",
-      "id": "2b5d6025774d2030ef1741e373e02011",
-      "timestamp": 1786548482231
-    },
-    {
-      "site": "JobGurus",
-      "id": "2d55def3570ae6f54a1671aacf061244",
-      "timestamp": 1786548482231
-    },
-    {
-      "site": "JobGurus",
-      "id": "200a16ef9def8cda66ceadc68c5b206d",
-      "timestamp": 1786548482231
+      "id": "16fe9cdfe89883e790cee486dd008a16",
+      "timestamp": 1788475749924
     }
   ],
   "motopay": [
@@ -37784,6 +37779,20 @@
       "site": "JobGurus",
       "id": "e57562bfca0a7ed934ddc85aecbf4a3b",
       "timestamp": 1788465759376
+    }
+  ],
+  "mojec international limited": [
+    {
+      "site": "JobGurus",
+      "id": "20f5e7ee46d0e2a34673b3562995bd53",
+      "timestamp": 1788475749924
+    }
+  ],
+  "sure diagnostics": [
+    {
+      "site": "JobGurus",
+      "id": "fb958771216b61376333564dea2faab9",
+      "timestamp": 1788475749924
     }
   ]
 }
