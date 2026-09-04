@@ -10960,8 +10960,8 @@
   "paystack": [
     {
       "site": "JobGurus",
-      "id": "f2e3da94a617a6e075df39a5a1ace9fa",
-      "timestamp": 1776358394717
+      "id": "b85784326edd4b29a10d07d042ba96b6",
+      "timestamp": 1788559348846
     }
   ],
   "c.don communication limited": [
@@ -21937,8 +21937,8 @@
   "ap3 capital": [
     {
       "site": "JobGurus",
-      "id": "ff5862304a599921a5f147bffb80d86a",
-      "timestamp": 1778111070847
+      "id": "35291b0648650a275fe4f684e2cb66db",
+      "timestamp": 1788559348846
     }
   ],
   "phase3 telecom": [
@@ -37823,6 +37823,27 @@
       "site": "JobGurus",
       "id": "94a4f56fdd37d57da177174bb6c1f40c",
       "timestamp": 1788551144205
+    }
+  ],
+  "roperb dental clinic": [
+    {
+      "site": "JobGurus",
+      "id": "4de07b3b4da69be7a7d5c174f99201a1",
+      "timestamp": 1788559348846
+    }
+  ],
+  "irecharge tech-innovations": [
+    {
+      "site": "JobGurus",
+      "id": "a5bdf0edc84964803dd9ce87cecfd0ad",
+      "timestamp": 1788559348846
+    }
+  ],
+  "mimshack wellness koncept limited": [
+    {
+      "site": "JobGurus",
+      "id": "4f441f75ff3d9a8188142cd2eaf00d74",
+      "timestamp": 1788559348846
     }
   ]
 }
