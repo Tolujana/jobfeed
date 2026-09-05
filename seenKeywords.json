@@ -2275,13 +2275,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "0536805a9dbb141b84d7d4e6eb8aa697",
-      "timestamp": 1784221802938
-    },
-    {
-      "site": "JobGurus",
-      "id": "b4c271f1945a040cb6bd10ea485fc210",
-      "timestamp": 1784591597495
+      "id": "0c5632d91f00f7e19d55a5c5f20ca912",
+      "timestamp": 1788610698251
     }
   ],
   "fgs limited": [
@@ -10680,13 +10675,8 @@
   "flour mills of nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "2236f204edba5d871ff58838d53e8b5a",
-      "timestamp": 1785196804795
-    },
-    {
-      "site": "JobGurus",
-      "id": "084286649faddb6973b939817605cca2",
-      "timestamp": 1785449245783
+      "id": "8c9fcfb6aeaf3513990d527e53a6a104",
+      "timestamp": 1788610698251
     }
   ],
   "uridium technologies": [
@@ -37866,6 +37856,20 @@
       "site": "JobGurus",
       "id": "9abdf71b9483e468b154e8c54cad9a2e",
       "timestamp": 1788567280708
+    }
+  ],
+  "cemex portals": [
+    {
+      "site": "JobGurus",
+      "id": "3326ed05544012295ea26607bcf07ecd",
+      "timestamp": 1788610698251
+    }
+  ],
+  "beiersdorf": [
+    {
+      "site": "JobGurus",
+      "id": "c5de354131b5877bf37235e80c86c40e",
+      "timestamp": 1788610698251
     }
   ]
 }
