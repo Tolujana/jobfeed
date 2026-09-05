@@ -29408,6 +29408,11 @@
       "site": "JobGurus",
       "id": "25b3a3325011c81207c74a7ac487561c",
       "timestamp": 1788257901545
+    },
+    {
+      "site": "JobGurus",
+      "id": "1d982379b3e4b7627768fffae2da7551",
+      "timestamp": 1788621862853
     }
   ],
   "adkan group and services limited": [
@@ -37870,6 +37875,30 @@
       "site": "JobGurus",
       "id": "c5de354131b5877bf37235e80c86c40e",
       "timestamp": 1788610698251
+    }
+  ],
+  "quema consulting limited": [
+    {
+      "site": "JobGurus",
+      "id": "a37fd41171e65e0ee92b2ecc870a030f",
+      "timestamp": 1788621862853
+    },
+    {
+      "site": "JobGurus",
+      "id": "2a93caa60b5e78ac970387ab6e20365f",
+      "timestamp": 1788621862853
+    },
+    {
+      "site": "JobGurus",
+      "id": "dfcb65baeef25ae143a71ba23275a7b2",
+      "timestamp": 1788621862853
+    }
+  ],
+  "m.i.p consultants limited": [
+    {
+      "site": "JobGurus",
+      "id": "f2e98accb747758134509667dfb2fdb6",
+      "timestamp": 1788621862853
     }
   ]
 }
