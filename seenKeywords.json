@@ -2814,8 +2814,8 @@
   "hotel capitol": [
     {
       "site": "JobGurus",
-      "id": "38152f04f0dd4e8c39da22e4de371caf",
-      "timestamp": 1785871452801
+      "id": "44ff5fe1eeaee3f80948495f3defdf4c",
+      "timestamp": 1788785539479
     }
   ],
   "total secure nigeria limited": [
@@ -4869,8 +4869,8 @@
   "mtn nigeria": [
     {
       "site": "JobGurus",
-      "id": "d3d7ced45f8f3c99814bdd61631e332c",
-      "timestamp": 1784899571641
+      "id": "4cd4cb478a1a3588f3e7d37495e42480",
+      "timestamp": 1788785539479
     }
   ],
   "koins microfinance bank limited": [
@@ -10677,6 +10677,11 @@
       "site": "JobGurus",
       "id": "ea66aae22287a4bdea01f0ceec283831",
       "timestamp": 1788635690342
+    },
+    {
+      "site": "JobGurus",
+      "id": "01b7f22325e97be83f4578569a323b06",
+      "timestamp": 1788785539479
     }
   ],
   "uridium technologies": [
@@ -15092,8 +15097,8 @@
   "mao-oak resources limited": [
     {
       "site": "JobGurus",
-      "id": "8700c6f90fa8eef061d94df80da1929a",
-      "timestamp": 1785966204980
+      "id": "dc8e2fbded357ee6b510d8c12336414f",
+      "timestamp": 1788785539479
     }
   ],
   "casfod": [
@@ -37899,6 +37904,13 @@
       "site": "JobGurus",
       "id": "e3142150d76bb68730b92cb2e2e65145",
       "timestamp": 1788629180444
+    }
+  ],
+  "corporately lucid": [
+    {
+      "site": "JobGurus",
+      "id": "2c82d1d55032078c03773d6d31e984d4",
+      "timestamp": 1788785539479
     }
   ]
 }
