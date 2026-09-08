@@ -121,8 +121,8 @@
   "african industries group": [
     {
       "site": "JobGurus",
-      "id": "0e81e4f382152b95e9fc48b4b40063d7",
-      "timestamp": 1786133086479
+      "id": "074e2eb40bdce3241aa2e3b625f4a478",
+      "timestamp": 1788886909394
     }
   ],
   "residency hotel limited": [
@@ -7958,6 +7958,11 @@
       "site": "JobGurus",
       "id": "0c34edc091a49685d8be88c504b46ae5",
       "timestamp": 1788551144205
+    },
+    {
+      "site": "JobGurus",
+      "id": "ee4510529cc8d850db5ca3551e607ae1",
+      "timestamp": 1788886909394
     }
   ],
   "danish refugee council": [
@@ -30375,6 +30380,11 @@
       "site": "JobGurus",
       "id": "e7698d87ca9441c02c8952dc26105bbb",
       "timestamp": 1788817200329
+    },
+    {
+      "site": "JobGurus",
+      "id": "6af66026dc8f988af84776d0e1364d9e",
+      "timestamp": 1788886909394
     }
   ],
   "upperbound contractors limited": [
@@ -37954,6 +37964,13 @@
       "site": "JobGurus",
       "id": "9e09daad31b408b33da53ab974c58167",
       "timestamp": 1788835630933
+    }
+  ],
+  "pinnacle pinnacle oil and gas limited": [
+    {
+      "site": "JobGurus",
+      "id": "4423b0c29ebf5ab61cdcdef3e7714901",
+      "timestamp": 1788886909394
     }
   ]
 }
