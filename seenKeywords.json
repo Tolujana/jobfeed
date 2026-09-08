@@ -4311,8 +4311,18 @@
   "factbase consulting limited": [
     {
       "site": "JobGurus",
-      "id": "4d8926f21ce8d016ed17512322aa15f4",
-      "timestamp": 1764778980711
+      "id": "9ad24a6a7b85b455a9c7ed17387ff3ae",
+      "timestamp": 1788907853067
+    },
+    {
+      "site": "JobGurus",
+      "id": "82b3952ded0450da6cc54eb594111ca6",
+      "timestamp": 1788907853067
+    },
+    {
+      "site": "JobGurus",
+      "id": "7b96efc9883b0bff35bcb6fe24dc4b9a",
+      "timestamp": 1788907853067
     }
   ],
   "bonzee consulting": [
@@ -19844,18 +19854,8 @@
   "harvest feed & agro processing": [
     {
       "site": "JobGurus",
-      "id": "6ac64a51a2bf9e684eab3092de3da8bb",
-      "timestamp": 1768041760040
-    },
-    {
-      "site": "JobGurus",
-      "id": "26f12ddbb06331a2189d1f914ed628e8",
-      "timestamp": 1768041760040
-    },
-    {
-      "site": "JobGurus",
-      "id": "dd5454a015e94d0c9f8efbcbd300621f",
-      "timestamp": 1768048329196
+      "id": "51b46dba09eaa18795c9edc4ad795d7a",
+      "timestamp": 1788907853067
     }
   ],
   "estuary business solutions (ebs) limited": [
@@ -37980,6 +37980,13 @@
       "site": "JobGurus",
       "id": "d2b04ea8ef593da7f5a9b0c1c3f0d1bc",
       "timestamp": 1788897690019
+    }
+  ],
+  "harmonics fried chicken": [
+    {
+      "site": "JobGurus",
+      "id": "30a4893dc37a949d73d7393c048ce6fd",
+      "timestamp": 1788907853067
     }
   ]
 }
