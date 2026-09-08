@@ -1815,13 +1815,8 @@
   "espritsor enterprises": [
     {
       "site": "JobGurus",
-      "id": "3c2ba8f3171eedd58ebc31029366480b",
-      "timestamp": 1784805747296
-    },
-    {
-      "site": "JobGurus",
-      "id": "c56bd1fa0aa48cbf268c31694e87f3ba",
-      "timestamp": 1784805747296
+      "id": "60f5f80d06ff684855b7acb3afa19d15",
+      "timestamp": 1788897690019
     }
   ],
   "express resource connect": [
@@ -8224,8 +8219,8 @@
   "onyx beauty hub": [
     {
       "site": "JobGurus",
-      "id": "641af56aaad73dd9aaaf7c51454bc2c0",
-      "timestamp": 1780680429322
+      "id": "5f6dfb1a57742edcf4110bfe4c840f7a",
+      "timestamp": 1788897690019
     }
   ],
   "cuanu consult": [
@@ -24951,8 +24946,8 @@
   "vethan concepts group limited": [
     {
       "site": "JobGurus",
-      "id": "71260762e46374ced90fb95cfb435c78",
-      "timestamp": 1770913743084
+      "id": "66b3ef7bd32ffdea5543e6630a3b6596",
+      "timestamp": 1788897690019
     }
   ],
   "owens & xley consults": [
@@ -37971,6 +37966,20 @@
       "site": "JobGurus",
       "id": "4423b0c29ebf5ab61cdcdef3e7714901",
       "timestamp": 1788886909394
+    }
+  ],
+  "charisol limited": [
+    {
+      "site": "JobGurus",
+      "id": "730f2db73b6fcbd7c581fff8ed4a753b",
+      "timestamp": 1788897690019
+    }
+  ],
+  "rich-rotoye investment company limited": [
+    {
+      "site": "JobGurus",
+      "id": "d2b04ea8ef593da7f5a9b0c1c3f0d1bc",
+      "timestamp": 1788897690019
     }
   ]
 }
