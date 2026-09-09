@@ -6653,8 +6653,8 @@
   "scruples resources limited": [
     {
       "site": "JobGurus",
-      "id": "c3fcc7565ea08f3195084642c3ede8c2",
-      "timestamp": 1777123323675
+      "id": "08e35d4fd888b801e08ff370e6e45b1f",
+      "timestamp": 1788978393517
     }
   ],
   "uhy professional services": [
@@ -38005,6 +38005,32 @@
       "site": "JobGurus",
       "id": "e440508df170eca95078f2a03129cfe1",
       "timestamp": 1788965959142
+    }
+  ],
+  "global pay limited": [
+    {
+      "site": "JobGurus",
+      "id": "eaa058feb9137b4a930914cd7d57e455",
+      "timestamp": 1788978393517
+    },
+    {
+      "site": "JobGurus",
+      "id": "7469d475b94634bdb4eaec56c7c9f8fd",
+      "timestamp": 1788978393517
+    }
+  ],
+  "dynasty africa": [
+    {
+      "site": "JobGurus",
+      "id": "a4bfd3208dda3988bdd6df00561cee38",
+      "timestamp": 1788978393517
+    }
+  ],
+  "gramaze healthcare": [
+    {
+      "site": "JobGurus",
+      "id": "bed0ed50b556ffb3ad9a25e59b270a4d",
+      "timestamp": 1788978393517
     }
   ]
 }
