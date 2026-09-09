@@ -1702,8 +1702,8 @@
   "hec recruit": [
     {
       "site": "JobGurus",
-      "id": "993261a80f085e3864fba12cf5393b1e",
-      "timestamp": 1774006072728
+      "id": "17d8ec7c0d719a21878f7c65358c5555",
+      "timestamp": 1788915572281
     }
   ],
   "wendernek consulting limited": [
@@ -22883,18 +22883,8 @@
   "moneyfield microfinance bank limited": [
     {
       "site": "JobGurus",
-      "id": "b950220852a388217564643f5c308aa7",
-      "timestamp": 1764872797547
-    },
-    {
-      "site": "JobGurus",
-      "id": "6d7d5d4c3b2624c2862e46d92f8a0c1a",
-      "timestamp": 1764874449227
-    },
-    {
-      "site": "JobGurus",
-      "id": "b28a66d2e07182dc40e7de9a8108331d",
-      "timestamp": 1764877093609
+      "id": "9ec8574853add6c278be5c07239971ca",
+      "timestamp": 1788915572281
     }
   ],
   "raybond technical limited": [
@@ -36753,8 +36743,8 @@
   "itura ventures limited": [
     {
       "site": "JobGurus",
-      "id": "817ca2af692e7e965c6581a125f19b52",
-      "timestamp": 1787082434155
+      "id": "b5109b9c820beef2c73589087077d409",
+      "timestamp": 1788915572281
     }
   ],
   "moontech real estate": [
@@ -37987,6 +37977,20 @@
       "site": "JobGurus",
       "id": "30a4893dc37a949d73d7393c048ce6fd",
       "timestamp": 1788907853067
+    }
+  ],
+  "dhl": [
+    {
+      "site": "JobGurus",
+      "id": "786d2528922bd9cc77637c212da0e3cb",
+      "timestamp": 1788915572281
+    }
+  ],
+  "bisimkha homes": [
+    {
+      "site": "JobGurus",
+      "id": "c73d9ebfac0ecd31ac8100c2c0d0884f",
+      "timestamp": 1788915572281
     }
   ]
 }
