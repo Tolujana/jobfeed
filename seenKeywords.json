@@ -7533,6 +7533,11 @@
       "site": "JobGurus",
       "id": "b07d928b5263b48196f232842ba16827",
       "timestamp": 1788965959142
+    },
+    {
+      "site": "JobGurus",
+      "id": "8e213b2f92ef1c1753a48b53471852de",
+      "timestamp": 1788996273969
     }
   ],
   "whoosh logistics": [
@@ -9643,8 +9648,8 @@
   "kpmg": [
     {
       "site": "JobGurus",
-      "id": "63526a0cfbc5d2c809d5f92113955703",
-      "timestamp": 1786787297840
+      "id": "9377b8545bbb655025152b5a552d14ff",
+      "timestamp": 1788996273969
     }
   ],
   " esty agro": [
@@ -23223,8 +23228,8 @@
   "corus international": [
     {
       "site": "JobGurus",
-      "id": "d0f24b576ce6b2ed132308636c499592",
-      "timestamp": 1765378069292
+      "id": "2cd4940e1b50895d80538f1f5f56fe93",
+      "timestamp": 1788996273969
     }
   ],
   "boat recruitment agency": [
@@ -38038,6 +38043,18 @@
       "site": "JobGurus",
       "id": "e743cb2d458c62ea67699c7732cbd0bd",
       "timestamp": 1788987838862
+    },
+    {
+      "site": "JobGurus",
+      "id": "ddeddcf2d22578c030f118ede1be4b30",
+      "timestamp": 1788996273969
+    }
+  ],
+  "first class group limited": [
+    {
+      "site": "JobGurus",
+      "id": "2d810add8c3afff30d293fee6de2434e",
+      "timestamp": 1788996273969
     }
   ]
 }
