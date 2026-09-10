@@ -3079,8 +3079,8 @@
   "devien consult limited": [
     {
       "site": "JobGurus",
-      "id": "b5d66582c0b8e309842087129601d6e6",
-      "timestamp": 1788298372592
+      "id": "76f87f5902f8aa2a081188bb0a753346",
+      "timestamp": 1789082300621
     }
   ],
   "soft nigeria": [
@@ -38041,6 +38041,27 @@
       "site": "JobGurus",
       "id": "165de222f53e0763bdcde3361249927c",
       "timestamp": 1789075240836
+    }
+  ],
+  "leitung gate limited": [
+    {
+      "site": "JobGurus",
+      "id": "d5cfe5b7f3475bb2d4623f27fedf7057",
+      "timestamp": 1789082300621
+    }
+  ],
+  "cf feed nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "0dcfa76d98c5ad784721b5f35f264f12",
+      "timestamp": 1789082300621
+    }
+  ],
+  "ishiagu microfinance bank limited": [
+    {
+      "site": "JobGurus",
+      "id": "854ff609e3b5d187ab2cd4713177dd1f",
+      "timestamp": 1789082300621
     }
   ]
 }
