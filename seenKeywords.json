@@ -6079,6 +6079,11 @@
       "site": "JobGurus",
       "id": "06c16fb5a63f40ca32b694ef4e9c4ad3",
       "timestamp": 1789055057004
+    },
+    {
+      "site": "JobGurus",
+      "id": "b02e30f04cf6a04a293ed3e3a714752a",
+      "timestamp": 1789075240836
     }
   ],
   "calibration and non-destructive services limited": [
@@ -27223,8 +27228,8 @@
   "casa 45 enterprises limited": [
     {
       "site": "JobGurus",
-      "id": "2475b5a1f6c3be63d4631e6f19b867ac",
-      "timestamp": 1778111070847
+      "id": "dd0228d517356535fd8dbfeeaba3a81c",
+      "timestamp": 1789075240836
     }
   ],
   "king and sky beauty limited": [
@@ -30437,8 +30442,8 @@
   "transitedge solutions limited": [
     {
       "site": "JobGurus",
-      "id": "53d7b94c90779ab7f79e583e3f7b65ef",
-      "timestamp": 1782759712172
+      "id": "be5da001c4f161d32a6d082692bf9fee",
+      "timestamp": 1789075240836
     }
   ],
   "avr energies": [
@@ -38029,6 +38034,13 @@
       "site": "JobGurus",
       "id": "46c80fce80948bfb18e1e8314a0377c6",
       "timestamp": 1789066434920
+    }
+  ],
+  "daniel joseph academy": [
+    {
+      "site": "JobGurus",
+      "id": "165de222f53e0763bdcde3361249927c",
+      "timestamp": 1789075240836
     }
   ]
 }
