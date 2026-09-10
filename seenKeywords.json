@@ -505,16 +505,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "8620eb81aa8ffbe970da49f844c37f6b",
-      "timestamp": 1788208566108
-    },
-    {
-      "site": "JobGurus",
-      "id": "ce91aa0e66bb26992b09cbdf9280f3aa",
-      "timestamp": 1788298372592
-    },
-    {
-      "site": "JobGurus",
       "id": "5e61943d8e3998821c305c7bbc174a45",
       "timestamp": 1788475749924
     },
@@ -522,6 +512,11 @@
       "site": "JobGurus",
       "id": "da52d6b21230758d9cb346293899f3aa",
       "timestamp": 1788629180444
+    },
+    {
+      "site": "JobGurus",
+      "id": "980c90304064c82ab6b641392360bfdc",
+      "timestamp": 1789066434920
     }
   ],
   "abbfem group": [
@@ -1341,6 +1336,11 @@
       "site": "JobGurus",
       "id": "4025d785f70bc0e40d54671b864a05bd",
       "timestamp": 1789040256930
+    },
+    {
+      "site": "JobGurus",
+      "id": "c3ba3bdd17221dc969806c5c73c930e9",
+      "timestamp": 1789066434920
     }
   ],
   "jtech global resources limited": [
@@ -15410,8 +15410,8 @@
   "artee group": [
     {
       "site": "JobGurus",
-      "id": "5259c394d640ab8a27a49ef6dcabea53",
-      "timestamp": 1787087894929
+      "id": "20661b2605cfa765cdca8d76e691ab62",
+      "timestamp": 1789066434920
     }
   ],
   "mapsi group": [
@@ -33396,18 +33396,8 @@
   "martglobal limited": [
     {
       "site": "JobGurus",
-      "id": "7e471ecc8db4a5e7f78b38822bb2c148",
-      "timestamp": 1782242666523
-    },
-    {
-      "site": "JobGurus",
-      "id": "f7f05705ffe58302cf1c7e0b7b39d39f",
-      "timestamp": 1782425873543
-    },
-    {
-      "site": "JobGurus",
-      "id": "3f43ad2cdc17a048a452babcc7adbdc4",
-      "timestamp": 1782751439209
+      "id": "eb432e99463b664ba7dca001a7713b21",
+      "timestamp": 1789066434920
     }
   ],
   "royalgate aspire": [
@@ -38032,6 +38022,13 @@
       "site": "JobGurus",
       "id": "76e281676e8c04baefe6160306a45390",
       "timestamp": 1789040256930
+    }
+  ],
+  "pedini nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "46c80fce80948bfb18e1e8314a0377c6",
+      "timestamp": 1789066434920
     }
   ]
 }
