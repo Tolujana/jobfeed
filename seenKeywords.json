@@ -2681,8 +2681,8 @@
   "sales force consulting": [
     {
       "site": "JobGurus",
-      "id": "f892abb584ae7eca3e137c6296c9b9a4",
-      "timestamp": 1786967326712
+      "id": "083bc3786661f7af8654f64d1189a2b6",
+      "timestamp": 1789162320221
     }
   ],
   "stridewaves limited": [
@@ -7524,6 +7524,11 @@
       "site": "JobGurus",
       "id": "6bebcdcc64c0132a6361f003412d3941",
       "timestamp": 1788817200329
+    },
+    {
+      "site": "JobGurus",
+      "id": "4734f825958884fa3df122ad682fd380",
+      "timestamp": 1789162320221
     }
   ],
   "mopheth nigeria limited": [
@@ -30342,23 +30347,8 @@
   "dorisfit": [
     {
       "site": "JobGurus",
-      "id": "c76f25d55ccc108a5ef91e40e0eaca2a",
-      "timestamp": 1787963856735
-    },
-    {
-      "site": "JobGurus",
-      "id": "08162bff49186eb7b9ccdd50775b91c6",
-      "timestamp": 1787963856735
-    },
-    {
-      "site": "JobGurus",
-      "id": "38e6a58d2fef8c8a9c30a24b145da1a3",
-      "timestamp": 1787963856735
-    },
-    {
-      "site": "JobGurus",
-      "id": "43e21d69e179998fe1edd957083a6083",
-      "timestamp": 1787963856735
+      "id": "39c2ec4ccfec46056f14c5f40538064b",
+      "timestamp": 1789162320221
     }
   ],
   "irecharge tech. innovations": [
@@ -37153,8 +37143,8 @@
   "viabonam corporate services": [
     {
       "site": "JobGurus",
-      "id": "90a9af25d4a9390cc554934dcb7e936e",
-      "timestamp": 1787399013926
+      "id": "b572a819dafd5f3470959e7b20fb968c",
+      "timestamp": 1789162320221
     }
   ],
   "enhancing financial innovation & access (efina)": [
@@ -38065,6 +38055,13 @@
       "site": "JobGurus",
       "id": "9f87bee523128c28655949545a4854ad",
       "timestamp": 1789152964636
+    }
+  ],
+  "fyre skin & fyre wellness": [
+    {
+      "site": "JobGurus",
+      "id": "d27bc3e9281734e0b73dad24ef551cf4",
+      "timestamp": 1789162320221
     }
   ]
 }
