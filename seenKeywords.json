@@ -15052,8 +15052,8 @@
   "duotech hr consulting": [
     {
       "site": "JobGurus",
-      "id": "0b0c20dd31b1022787c9a143890d4f96",
-      "timestamp": 1782751439209
+      "id": "e3ca28bf26c95ab660100c21bf2c4a81",
+      "timestamp": 1789126741220
     }
   ],
   "agary pharmaceutical limited": [
@@ -22230,8 +22230,8 @@
   "good neighbours microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "42980f9c7a2222051addaa73e01e9263",
-      "timestamp": 1775064423934
+      "id": "a704a697673f4005b9a4b095e8dc5432",
+      "timestamp": 1789126741220
     }
   ],
   "animal care service konsult nigeria limited": [
@@ -34471,8 +34471,8 @@
   "isichei farms limited": [
     {
       "site": "JobGurus",
-      "id": "aa1533f2afd372c4cfe03d1bdac932b8",
-      "timestamp": 1784044494183
+      "id": "641f78c75383fa4c8ed64877e3bb4d2d",
+      "timestamp": 1789126741220
     }
   ],
   "oribase skincare": [
@@ -38062,6 +38062,20 @@
       "site": "JobGurus",
       "id": "854ff609e3b5d187ab2cd4713177dd1f",
       "timestamp": 1789082300621
+    }
+  ],
+  "african medical centre of excellence (amce)": [
+    {
+      "site": "JobGurus",
+      "id": "aa9500d3728e57d07259f45363b58872",
+      "timestamp": 1789126741220
+    }
+  ],
+  "news central": [
+    {
+      "site": "JobGurus",
+      "id": "0f2c0c0eb89e1192b0d7f190a3d8a001",
+      "timestamp": 1789126741220
     }
   ]
 }
