@@ -17836,13 +17836,8 @@
   "total data limited": [
     {
       "site": "JobGurus",
-      "id": "ab1fccb8695b910678a337a478f68eff",
-      "timestamp": 1786189936185
-    },
-    {
-      "site": "JobGurus",
-      "id": "ec10300f82121c61613805ca198f4b61",
-      "timestamp": 1786728373266
+      "id": "6b38ff507866b81e9dbe261f78440a54",
+      "timestamp": 1789251994845
     }
   ],
   "contec global group": [
@@ -22852,6 +22847,11 @@
       "site": "JobGurus",
       "id": "44700cbc94ca225b74f509ca31de0025",
       "timestamp": 1789243534368
+    },
+    {
+      "site": "JobGurus",
+      "id": "f7a533bd8813c8b42e069400a409b62e",
+      "timestamp": 1789251994845
     }
   ],
   "amicon consultant": [
@@ -38101,6 +38101,23 @@
       "site": "JobGurus",
       "id": "3e56f982b0ca65968af6155203f05762",
       "timestamp": 1789243534368
+    },
+    {
+      "site": "JobGurus",
+      "id": "cd6e21810708fdb73b695adf74f82022",
+      "timestamp": 1789251994845
+    }
+  ],
+  "lightread consulting": [
+    {
+      "site": "JobGurus",
+      "id": "a9ccb648203c9288cca910f670f740de",
+      "timestamp": 1789251994845
+    },
+    {
+      "site": "JobGurus",
+      "id": "62f5581f5a102a8f24f8575fb99ee781",
+      "timestamp": 1789251994845
     }
   ]
 }
