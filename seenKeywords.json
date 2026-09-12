@@ -2652,8 +2652,8 @@
   "work dey hr services": [
     {
       "site": "JobGurus",
-      "id": "45ae99abfd83cfe4066d9eba6d119c54",
-      "timestamp": 1786789011081
+      "id": "e189073b1c5dba4e07cdaa1e53a6d623",
+      "timestamp": 1789234801674
     }
   ],
   "longbridge technologies limited": [
@@ -3206,8 +3206,8 @@
   "abnl limited": [
     {
       "site": "JobGurus",
-      "id": "8fed2fe1b32109bf29c00aadfa5917a5",
-      "timestamp": 1788316457157
+      "id": "d8261af7c8dd57b674b00cf8d455f0d0",
+      "timestamp": 1789234801674
     }
   ],
   "daily need distributors limited": [
@@ -28525,13 +28525,8 @@
   "open hospital limited": [
     {
       "site": "JobGurus",
-      "id": "25d9107da3f943a57bff73c66dbfcae9",
-      "timestamp": 1774007588054
-    },
-    {
-      "site": "JobGurus",
-      "id": "c824ff7adabe2bc852d6a26930fd75d1",
-      "timestamp": 1774015119342
+      "id": "d7d26b2bf0189bf15b33744e57e3c804",
+      "timestamp": 1789234801674
     }
   ],
   " lagos chamber of commerce and industry (lcci)": [
@@ -38066,6 +38061,20 @@
       "site": "JobGurus",
       "id": "d04bd42cb4ea7690debcc7c8ba0bb3b5",
       "timestamp": 1789170601101
+    }
+  ],
+  "elkins marine training international nigeria (emtin)": [
+    {
+      "site": "JobGurus",
+      "id": "340184c9c2b196c3a0a6057ff482e153",
+      "timestamp": 1789234801674
+    }
+  ],
+  "genius brand and media enterprises": [
+    {
+      "site": "JobGurus",
+      "id": "9b0b25478034e02b4da0ce7121609ea8",
+      "timestamp": 1789234801674
     }
   ]
 }
