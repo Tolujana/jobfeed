@@ -4091,13 +4091,8 @@
   "newglobe": [
     {
       "site": "JobGurus",
-      "id": "fd0ce9a5165f0294591302426e083562",
-      "timestamp": 1772711840730
-    },
-    {
-      "site": "JobGurus",
-      "id": "47e80a2b2006b939a8b44f4daf7fc425",
-      "timestamp": 1773264511779
+      "id": "19d056d8658ce5a4b24ddeda708fabd4",
+      "timestamp": 1789420881579
     }
   ],
   "tiva creative": [
@@ -15843,8 +15838,8 @@
   "nigerian british university": [
     {
       "site": "JobGurus",
-      "id": "31df8931631fd4dbf5345d6c21662c1d",
-      "timestamp": 1758618997773
+      "id": "ede55453d0569c8b4572cb14022cd46b",
+      "timestamp": 1789420881579
     }
   ],
   "nielseniq": [
@@ -31363,8 +31358,8 @@
   "ren san & co": [
     {
       "site": "JobGurus",
-      "id": "aeeb4f75ec3fa50f9c42dd384ba61dc0",
-      "timestamp": 1780940920307
+      "id": "73474b941a05c85c0236b1429c18a3ab",
+      "timestamp": 1789420881579
     }
   ],
   "whip-smart service providers limited": [
@@ -38132,6 +38127,20 @@
       "site": "JobGurus",
       "id": "5b4b5488d2ebd8e8b8dba78af8f8e95b",
       "timestamp": 1789385787786
+    }
+  ],
+  "eden solutions & resources limited": [
+    {
+      "site": "JobGurus",
+      "id": "b2b407f6d5589857ece010627f047ecd",
+      "timestamp": 1789420881579
+    }
+  ],
+  "china glass holdings limited": [
+    {
+      "site": "JobGurus",
+      "id": "595ae6eeffb93f09bc2418ed8d332707",
+      "timestamp": 1789420881579
     }
   ]
 }
