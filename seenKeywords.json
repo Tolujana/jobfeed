@@ -25647,8 +25647,8 @@
   "samsung heavy industries nigeria": [
     {
       "site": "JobGurus",
-      "id": "57b9a01234a393551d60f3ffc08e7e3f",
-      "timestamp": 1769005577024
+      "id": "2b6bda6bff1190e7ff1d59814211ab9b",
+      "timestamp": 1789430145295
     }
   ],
   "thirstify.ng": [
@@ -38141,6 +38141,32 @@
       "site": "JobGurus",
       "id": "595ae6eeffb93f09bc2418ed8d332707",
       "timestamp": 1789420881579
+    }
+  ],
+  "aztec microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "c6b9e8f624617b65d87501320036a4ca",
+      "timestamp": 1789430145295
+    }
+  ],
+  "iwo-fmradio": [
+    {
+      "site": "JobGurus",
+      "id": "0335b228abb30927e65ec2d11c720659",
+      "timestamp": 1789430145295
+    }
+  ],
+  "zeus microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "afe30c31ab0a3bb0b7e44b8da5b76041",
+      "timestamp": 1789430145295
+    },
+    {
+      "site": "JobGurus",
+      "id": "77740e86eae47093404ea73e3b83aa5f",
+      "timestamp": 1789430145295
     }
   ]
 }
