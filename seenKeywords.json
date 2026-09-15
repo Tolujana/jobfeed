@@ -2245,8 +2245,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "0c5632d91f00f7e19d55a5c5f20ca912",
-      "timestamp": 1788610698251
+      "id": "9e587204a14114419a8b96a329976fd5",
+      "timestamp": 1789442215474
     }
   ],
   "fgs limited": [
@@ -3684,8 +3684,18 @@
   "cig motors company limited": [
     {
       "site": "JobGurus",
-      "id": "6f1ea19c01bd2290694e174797e30d86",
-      "timestamp": 1788465759376
+      "id": "75de96107eef66bf0c6fe9cc4ff1296d",
+      "timestamp": 1789442215474
+    },
+    {
+      "site": "JobGurus",
+      "id": "6a07434d9f73fb881718c4e33fb68828",
+      "timestamp": 1789442215474
+    },
+    {
+      "site": "JobGurus",
+      "id": "bdec15ecc21dd3a4b03fdce4928b18b2",
+      "timestamp": 1789442215474
     }
   ],
   "odixcity consulting": [
@@ -37396,8 +37406,8 @@
   "arkbridge integrated limited": [
     {
       "site": "JobGurus",
-      "id": "f4e1745e8c1811e5469da2901cfcf08b",
-      "timestamp": 1787860488568
+      "id": "89f8d6fc21ae22dabad412f79d883f97",
+      "timestamp": 1789442215474
     }
   ],
   "thronos technologies limited": [
