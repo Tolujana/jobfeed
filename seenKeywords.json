@@ -1541,8 +1541,8 @@
   "maxitech global investment limited": [
     {
       "site": "JobGurus",
-      "id": "dd329dbbda74ba14b969471c13579c92",
-      "timestamp": 1774554932276
+      "id": "956ad52c1dbf5a69b1ff99b531a5c498",
+      "timestamp": 1789516510733
     }
   ],
   "dreamworks global logistics limited": [
@@ -8088,8 +8088,8 @@
   "coinbox limited": [
     {
       "site": "JobGurus",
-      "id": "75f5d82d3e1b2663be4b9faf597223c5",
-      "timestamp": 1778716353761
+      "id": "b942f1e4e2af59542778f6427a529559",
+      "timestamp": 1789516510733
     }
   ],
   "infratel africa": [
@@ -25539,8 +25539,8 @@
   "sylvastar group": [
     {
       "site": "JobGurus",
-      "id": "6c6a3ec0d2b92784dbc4dd7759c20f0a",
-      "timestamp": 1780987527008
+      "id": "60341d4a603ef05cdd0d86de09f325c2",
+      "timestamp": 1789516510733
     }
   ],
   "trinity financials": [
@@ -29761,6 +29761,11 @@
       "site": "JobGurus",
       "id": "77a3458c054b99a662fd259290350449",
       "timestamp": 1789040256930
+    },
+    {
+      "site": "JobGurus",
+      "id": "8764378735c0d95b5751d7b04a0fd920",
+      "timestamp": 1789516510733
     }
   ],
   "so&p": [
@@ -38207,6 +38212,13 @@
       "site": "JobGurus",
       "id": "3ec4c3026ca2de0ede7e3030465126eb",
       "timestamp": 1789508097730
+    }
+  ],
+  "globalpay limited": [
+    {
+      "site": "JobGurus",
+      "id": "e2412d8dac91ea9764acdea307ceccca",
+      "timestamp": 1789516510733
     }
   ]
 }
