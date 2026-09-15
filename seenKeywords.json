@@ -5447,13 +5447,8 @@
   "septagus consulting nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "47a89c1f33f51ea3950e441098287be6",
-      "timestamp": 1783006745059
-    },
-    {
-      "site": "JobGurus",
-      "id": "df2d944bf2013a335fff7fc7abd1fef5",
-      "timestamp": 1783459134538
+      "id": "65b89854f54586e344235a2f1e17f318",
+      "timestamp": 1789481198756
     }
   ],
   "natafamdavid consulting nigeria limited": [
@@ -13184,8 +13179,8 @@
   "dicalo consulting group": [
     {
       "site": "JobGurus",
-      "id": "ddc36e8491bf3ccb01ab0b2f9d816708",
-      "timestamp": 1787241526286
+      "id": "b74a7679f19e21911e472824533ce1e5",
+      "timestamp": 1789481198756
     }
   ],
   "marquis concierge limited": [
@@ -38177,6 +38172,20 @@
       "site": "JobGurus",
       "id": "77740e86eae47093404ea73e3b83aa5f",
       "timestamp": 1789430145295
+    }
+  ],
+  " e' girls right foundation": [
+    {
+      "site": "JobGurus",
+      "id": "bdedc052724b7a5eb14e6f62f366cb45",
+      "timestamp": 1789481198756
+    }
+  ],
+  "skillful xp studios": [
+    {
+      "site": "JobGurus",
+      "id": "ef976d2ff00c67582ebd64d0c5fc3af3",
+      "timestamp": 1789481198756
     }
   ]
 }
