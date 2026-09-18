@@ -36531,8 +36531,8 @@
   "m-p infrastructure limited": [
     {
       "site": "JobGurus",
-      "id": "df8388e384219bb5a866ad453db1fee8",
-      "timestamp": 1786999915606
+      "id": "d181a41b433bf43434747dddb4b18614",
+      "timestamp": 1789775385072
     }
   ],
   "schubbs dental clinics": [
@@ -38330,6 +38330,32 @@
       "site": "JobGurus",
       "id": "78b4fd8b8ad3b2e6769b763286cb7a79",
       "timestamp": 1789767956686
+    }
+  ],
+  "demeterra agro limited (dal)": [
+    {
+      "site": "JobGurus",
+      "id": "c6d3f75c836fb720641abf61bfda21fa",
+      "timestamp": 1789775385072
+    }
+  ],
+  "sunplast industry limited": [
+    {
+      "site": "JobGurus",
+      "id": "616c707fc5f468868617351d0a0774d9",
+      "timestamp": 1789775385072
+    }
+  ],
+  "street souk": [
+    {
+      "site": "JobGurus",
+      "id": "64f823f2f9e2b6d2d957ac0c6cc9cf85",
+      "timestamp": 1789775385072
+    },
+    {
+      "site": "JobGurus",
+      "id": "7c4a18a6131373f849ccbf73d3b3e79a",
+      "timestamp": 1789775385072
     }
   ]
 }
