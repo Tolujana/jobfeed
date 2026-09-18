@@ -596,8 +596,13 @@
   "vantegral consulting": [
     {
       "site": "JobGurus",
-      "id": "68b9362df910e0c98eee72bfa4289722",
-      "timestamp": 1788377773986
+      "id": "cde0784a65834db1a7ade4b81d39b3fb",
+      "timestamp": 1789735124765
+    },
+    {
+      "site": "JobGurus",
+      "id": "0dc24bbb5944c47694409f9e9faa2582",
+      "timestamp": 1789735124765
     }
   ],
   "private sector health alliance of nigeria": [
@@ -38290,6 +38295,27 @@
       "site": "JobGurus",
       "id": "1222b0e47ab2facb7538406e957190b8",
       "timestamp": 1789700055353
+    }
+  ],
+  "elkris bio health foods nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "4a7feb25e5e42b42ae5a998805e4783e",
+      "timestamp": 1789735124765
+    }
+  ],
+  "castle b packaging": [
+    {
+      "site": "JobGurus",
+      "id": "afee2d4574b3280c501873c238b29eaa",
+      "timestamp": 1789735124765
+    }
+  ],
+  "grand stride limited": [
+    {
+      "site": "JobGurus",
+      "id": "59c25c05987eb2abe2ee556c5578aa37",
+      "timestamp": 1789735124765
     }
   ]
 }
