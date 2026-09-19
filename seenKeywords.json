@@ -2275,6 +2275,11 @@
       "site": "JobGurus",
       "id": "d2619ad3096ab1e7e5ccea6164731308",
       "timestamp": 1789407071478
+    },
+    {
+      "site": "JobGurus",
+      "id": "3aeacadd06a65c569d372fd3ea1f0ca3",
+      "timestamp": 1789842643424
     }
   ],
   "federal polytechnic, bida.": [
@@ -18090,8 +18095,8 @@
   "o’spaces nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "16997cd9a608d28e050f06b3fdf616fc",
-      "timestamp": 1760449582712
+      "id": "19d4ffa00496d731d455871d730db24b",
+      "timestamp": 1789842643424
     }
   ],
   "dynamicplus advisory": [
@@ -18353,6 +18358,11 @@
       "site": "JobGurus",
       "id": "43cfb1269c0fb8a2133bbbfe8ee69f9e",
       "timestamp": 1789833539735
+    },
+    {
+      "site": "JobGurus",
+      "id": "1359f2e72e6ba81102fb9b2861e07f2a",
+      "timestamp": 1789842643424
     }
   ],
   "avocado virtual solutions": [
@@ -38361,6 +38371,13 @@
       "site": "JobGurus",
       "id": "7c4a18a6131373f849ccbf73d3b3e79a",
       "timestamp": 1789775385072
+    }
+  ],
+  "rand merchant bank (rmb": [
+    {
+      "site": "JobGurus",
+      "id": "78421f402b610c006fb1ddd36eb3fa2c",
+      "timestamp": 1789842643424
     }
   ]
 }
