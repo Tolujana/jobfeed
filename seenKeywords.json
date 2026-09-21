@@ -1360,8 +1360,8 @@
   "techdoctorinnovations": [
     {
       "site": "JobGurus",
-      "id": "4c696ccf0140fe9a07b146e8dc1d0973",
-      "timestamp": 1774554932276
+      "id": "546af503362d892a3dda7fd2d2945105",
+      "timestamp": 1790030503831
     }
   ],
   "shomas supply & logistics limited": [
@@ -10628,8 +10628,8 @@
   "credpal": [
     {
       "site": "JobGurus",
-      "id": "9d78f33efc1800b6db3769a16dbf5954",
-      "timestamp": 1788257901545
+      "id": "4aa2a060b73bfbaf313f7363a1a3f31b",
+      "timestamp": 1790030503831
     }
   ],
   "flour mills of nigeria plc": [
@@ -11201,6 +11201,16 @@
       "site": "JobGurus",
       "id": "c07d5c3152e8c4cd62a0f64523966883",
       "timestamp": 1790017257322
+    },
+    {
+      "site": "JobGurus",
+      "id": "45d97c9c25f1b3ee39b5d7f2d8576d01",
+      "timestamp": 1790030503831
+    },
+    {
+      "site": "JobGurus",
+      "id": "518134d81e3b29b8dc7914c742c22b15",
+      "timestamp": 1790030503831
     }
   ],
   "nairametrics": [
@@ -38424,6 +38434,13 @@
       "site": "JobGurus",
       "id": "32bc0eb7d47e9177c1473c77835d3a9e",
       "timestamp": 1790017257322
+    }
+  ],
+  "the 63degrees": [
+    {
+      "site": "JobGurus",
+      "id": "9b56a0998ae4b0afbcdda80310fb7036",
+      "timestamp": 1790030503831
     }
   ]
 }
