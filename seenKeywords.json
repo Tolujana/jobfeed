@@ -2281,8 +2281,13 @@
   "maurice xandra solutions limited": [
     {
       "site": "JobGurus",
-      "id": "0da90912dfa4a9b65750c081e4b0a610",
-      "timestamp": 1786069557904
+      "id": "8430088c478771994ddcb4ca8684e0e5",
+      "timestamp": 1790206320011
+    },
+    {
+      "site": "JobGurus",
+      "id": "ba725434e8220f0d62a2ff8c0b700bbd",
+      "timestamp": 1790206320011
     }
   ],
   "lily hospitals limited": [
@@ -12759,8 +12764,8 @@
   "pullus": [
     {
       "site": "JobGurus",
-      "id": "addff92ffe972e90ed45dee1ba766e3b",
-      "timestamp": 1787755109632
+      "id": "45d173ec81e5f51d483caf9857525f3f",
+      "timestamp": 1790206320011
     }
   ],
   "syx-brij nigeria limited": [
@@ -38516,6 +38521,20 @@
       "site": "JobGurus",
       "id": "e6d71f6c502d329d66fd5de86d387aaf",
       "timestamp": 1790197160115
+    }
+  ],
+  "nancy shoecraft nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "84d443b00ff7d01d576a5a0c7ff60cd4",
+      "timestamp": 1790206320011
+    }
+  ],
+  "aureole consulting": [
+    {
+      "site": "JobGurus",
+      "id": "9a66cc10b90b43c210dbf7735872a40c",
+      "timestamp": 1790206320011
     }
   ]
 }
