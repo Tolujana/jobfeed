@@ -15037,13 +15037,8 @@
   "duotech hr consulting": [
     {
       "site": "JobGurus",
-      "id": "e3ca28bf26c95ab660100c21bf2c4a81",
-      "timestamp": 1789126741220
-    },
-    {
-      "site": "JobGurus",
-      "id": "7dae01ffb4233bb8112ab7a0187327cf",
-      "timestamp": 1789152964636
+      "id": "4839c56269b5223256a182fa6611d685",
+      "timestamp": 1790127440528
     }
   ],
   "agary pharmaceutical limited": [
@@ -26350,8 +26345,8 @@
   "palmpay limited": [
     {
       "site": "JobGurus",
-      "id": "1ffc07c855d50bda0301a7d8887f39c2",
-      "timestamp": 1769777036043
+      "id": "4da17e6143d2d60c036214b5ae5f8869",
+      "timestamp": 1790127440528
     }
   ],
   "meritabode nigeria limited": [
@@ -38452,6 +38447,27 @@
       "site": "JobGurus",
       "id": "d8829f7f1709c41607951e1399ae0c04",
       "timestamp": 1790118445877
+    }
+  ],
+  "hrsmartrecruit": [
+    {
+      "site": "JobGurus",
+      "id": "96fd4da48fd387fb12c0d5a2b33c2681",
+      "timestamp": 1790127440528
+    }
+  ],
+  "ipsos": [
+    {
+      "site": "JobGurus",
+      "id": "f60c7ca4935f976590a4344218d21482",
+      "timestamp": 1790127440528
+    }
+  ],
+  "foteino talento": [
+    {
+      "site": "JobGurus",
+      "id": "ecffdce0dc32acf562f543066c30779f",
+      "timestamp": 1790127440528
     }
   ]
 }
