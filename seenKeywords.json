@@ -1386,8 +1386,8 @@
   "amaiden energy nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "30f2e669514376ee9b92ec21c37533dd",
-      "timestamp": 1786030895889
+      "id": "5cfdd6e5cef0b2071031fefd6df09c0c",
+      "timestamp": 1790218351347
     }
   ],
   "warri wetland hotel": [
@@ -14197,8 +14197,8 @@
   "lekki freeport terminal": [
     {
       "site": "JobGurus",
-      "id": "4fcde8c780d5ad28837111d8fe16ec11",
-      "timestamp": 1768225134162
+      "id": "6ea7abe2a98e3d1309b4713ef1ff38e8",
+      "timestamp": 1790218351347
     }
   ],
   "lekki freeport terminal (lft)": [
@@ -38535,6 +38535,25 @@
       "site": "JobGurus",
       "id": "9a66cc10b90b43c210dbf7735872a40c",
       "timestamp": 1790206320011
+    }
+  ],
+  "spring of hope for the girl child development initiative": [
+    {
+      "site": "JobGurus",
+      "id": "d7d9514f7735310c99fc64c735389912",
+      "timestamp": 1790218351347
+    }
+  ],
+  "africa ceo club": [
+    {
+      "site": "JobGurus",
+      "id": "4f4f42e9fd63e078e6c6cc0c84102662",
+      "timestamp": 1790218351347
+    },
+    {
+      "site": "JobGurus",
+      "id": "3a7acf2b6df2ce76f0be24fb47614229",
+      "timestamp": 1790218351347
     }
   ]
 }
