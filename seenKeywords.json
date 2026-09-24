@@ -522,6 +522,11 @@
       "site": "JobGurus",
       "id": "3aafee4dbee5eeaedc39f6c780c0c192",
       "timestamp": 1790118445877
+    },
+    {
+      "site": "JobGurus",
+      "id": "672b2be4c9cb8cdd064e6e4ac9147f97",
+      "timestamp": 1790285928808
     }
   ],
   "abbfem group": [
@@ -2389,8 +2394,8 @@
   "hilton worldwide": [
     {
       "site": "JobGurus",
-      "id": "5324448b0c67cd340e731e65b7fc2dee",
-      "timestamp": 1784727629056
+      "id": "2a4e5486a42bd7bacb900c9120548669",
+      "timestamp": 1790285928808
     }
   ],
   "bss consulting limited": [
@@ -6902,8 +6907,8 @@
   "bluechip technologies": [
     {
       "site": "JobGurus",
-      "id": "4d1ea71ac7207846fdbde6728bedeecf",
-      "timestamp": 1786030895889
+      "id": "4622bea49acf4e7a3a827c471b906b4e",
+      "timestamp": 1790285928808
     }
   ],
   "bfbl": [
@@ -24352,8 +24357,8 @@
   "prodigy microfinance bank": [
     {
       "site": "JobGurus",
-      "id": "6d0c0dc6fd247cb455ba4b67fa4923a0",
-      "timestamp": 1767184480887
+      "id": "cfb419dc2cfd394b0aba7bb0bff2a41e",
+      "timestamp": 1790285928808
     }
   ],
   "brae therapi centre": [
@@ -38536,6 +38541,13 @@
       "site": "JobGurus",
       "id": "570809acb46c5043500b7d44aa8c6d40",
       "timestamp": 1790273200859
+    }
+  ],
+  "inq digital nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "629f285f20862cbe8f826505cd69773c",
+      "timestamp": 1790285928808
     }
   ]
 }
