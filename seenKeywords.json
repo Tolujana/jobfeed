@@ -121,8 +121,8 @@
   "african industries group": [
     {
       "site": "JobGurus",
-      "id": "074e2eb40bdce3241aa2e3b625f4a478",
-      "timestamp": 1788886909394
+      "id": "714587b2081e3e4b76d2c7080fc06ada",
+      "timestamp": 1790349798146
     }
   ],
   "residency hotel limited": [
@@ -2401,6 +2401,11 @@
       "site": "JobGurus",
       "id": "2a4e5486a42bd7bacb900c9120548669",
       "timestamp": 1790285928808
+    },
+    {
+      "site": "JobGurus",
+      "id": "7fd02429f2536f1aa05c81df68772ac3",
+      "timestamp": 1790349798146
     }
   ],
   "bss consulting limited": [
@@ -3976,13 +3981,8 @@
   "wts energy": [
     {
       "site": "JobGurus",
-      "id": "20517c3d859f174747112c7ceb18b7ce",
-      "timestamp": 1782315061207
-    },
-    {
-      "site": "JobGurus",
-      "id": "481d86bfb37f76a26466b9c375ebb362",
-      "timestamp": 1782835256031
+      "id": "7303fcc08be771bf78a422ede3b2606e",
+      "timestamp": 1790349798146
     }
   ],
   "prixair group": [
@@ -20828,8 +20828,8 @@
   "news central tv": [
     {
       "site": "JobGurus",
-      "id": "0729fbdcad4f831ee2d869f311e15939",
-      "timestamp": 1787330063534
+      "id": "f2f0de89da56fd0c46323e3a9a77da93",
+      "timestamp": 1790349798146
     }
   ],
   "taeillo furniture": [
@@ -38572,6 +38572,13 @@
       "site": "JobGurus",
       "id": "738f5fa5f2f02e7c94680e9eac8c7967",
       "timestamp": 1790312989588
+    }
+  ],
+  "south dredge limited": [
+    {
+      "site": "JobGurus",
+      "id": "e411549a58992e3770f22a823572c95c",
+      "timestamp": 1790349798146
     }
   ]
 }
