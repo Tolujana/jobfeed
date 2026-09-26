@@ -5084,6 +5084,11 @@
       "site": "JobGurus",
       "id": "1186429d15728dd1f69f8a4242edfdfe",
       "timestamp": 1790403634451
+    },
+    {
+      "site": "JobGurus",
+      "id": "ca021cb3b2751fecc7b4a32364850158",
+      "timestamp": 1790422691255
     }
   ],
   "field intelligence": [
@@ -12322,6 +12327,11 @@
       "site": "JobGurus",
       "id": "ddf725102ad0f7c7c036a93c4bcb9ff0",
       "timestamp": 1790384881293
+    },
+    {
+      "site": "JobGurus",
+      "id": "622e7e9cf2c963af4ad0d90640e26296",
+      "timestamp": 1790422691255
     }
   ],
   "xuriel resources": [
@@ -29441,6 +29451,11 @@
       "site": "JobGurus",
       "id": "6b90a9f45822670694b06e08b8914a18",
       "timestamp": 1790384881293
+    },
+    {
+      "site": "JobGurus",
+      "id": "6ca00c84e182a0209b5a5e8851536d50",
+      "timestamp": 1790422691255
     }
   ],
   "luxeown technology limited": [
@@ -38617,6 +38632,13 @@
       "site": "JobGurus",
       "id": "46e4df13f7acd6b130fbff38bd8f763f",
       "timestamp": 1790403634451
+    }
+  ],
+  "procept africa": [
+    {
+      "site": "JobGurus",
+      "id": "1638681b6b251c1084f6f05a918ad63d",
+      "timestamp": 1790422691255
     }
   ]
 }
