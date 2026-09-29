@@ -15425,8 +15425,8 @@
   "artee group": [
     {
       "site": "JobGurus",
-      "id": "20661b2605cfa765cdca8d76e691ab62",
-      "timestamp": 1789066434920
+      "id": "b8ae56fe7b7e082e8cfc21eedfa0f4f9",
+      "timestamp": 1790665982246
     }
   ],
   "mapsi group": [
@@ -38440,8 +38440,13 @@
   "jobtion consulting": [
     {
       "site": "JobGurus",
-      "id": "eff1d70f4249e7d4c50797b088fe121a",
-      "timestamp": 1789859872375
+      "id": "81ed9398914c82886e710cebb2c37169",
+      "timestamp": 1790665982246
+    },
+    {
+      "site": "JobGurus",
+      "id": "dcb51ec927d56d1f4e491215796daa8c",
+      "timestamp": 1790665982246
     }
   ],
   "premier lingua academy": [
@@ -38671,6 +38676,20 @@
       "site": "JobGurus",
       "id": "9fdaad1c08a7598d9de1d0f4218b8f71",
       "timestamp": 1790631126513
+    }
+  ],
+  " artee group": [
+    {
+      "site": "JobGurus",
+      "id": "26583c484aa91f675e47dee0d1e34732",
+      "timestamp": 1790665982246
+    }
+  ],
+  "capitalfield": [
+    {
+      "site": "JobGurus",
+      "id": "6f648b649de6980948f1059c55b8584b",
+      "timestamp": 1790665982246
     }
   ]
 }
