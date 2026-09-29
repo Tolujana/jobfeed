@@ -23060,8 +23060,8 @@
   "cme engineering limited": [
     {
       "site": "JobGurus",
-      "id": "04505088a47261b5f5f084cc51d96bba",
-      "timestamp": 1786731790086
+      "id": "115793fb04104f1ed172ced86b400022",
+      "timestamp": 1790691100885
     }
   ],
   "aldelano farms": [
@@ -30911,8 +30911,8 @@
   "det consulting & outsourcing limited": [
     {
       "site": "JobGurus",
-      "id": "68557c392c49a2b42fe0096531b707ed",
-      "timestamp": 1781196558736
+      "id": "daa306addb292e015e6ccc61dc4c1c34",
+      "timestamp": 1790691100885
     }
   ],
   "paceview homes limited": [
@@ -31189,8 +31189,8 @@
   "beacon power services": [
     {
       "site": "JobGurus",
-      "id": "774abb005eb3e6b3254850a3ecf625ad",
-      "timestamp": 1777931756738
+      "id": "e93d621be0d2d65fcae244ddf101b4fa",
+      "timestamp": 1790691100885
     }
   ],
   "property vision leadgate development limited": [
@@ -38690,6 +38690,20 @@
       "site": "JobGurus",
       "id": "6f648b649de6980948f1059c55b8584b",
       "timestamp": 1790665982246
+    }
+  ],
+  "m&m lifestyle house": [
+    {
+      "site": "JobGurus",
+      "id": "9c59a5040aaee9b53f2fcf8be0a39590",
+      "timestamp": 1790691100885
+    }
+  ],
+  "scalein": [
+    {
+      "site": "JobGurus",
+      "id": "04fcc8fdad08e20ac58253eb0cb392c3",
+      "timestamp": 1790691100885
     }
   ]
 }
