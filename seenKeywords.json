@@ -5217,8 +5217,8 @@
   "paga limited": [
     {
       "site": "JobGurus",
-      "id": "fc267deeafaf1021f7d61935cf61b673",
-      "timestamp": 1782487257760
+      "id": "36876153da11222c1b7a4f60906dded8",
+      "timestamp": 1790782370260
     }
   ],
   "blue wave new energy technology nigeria company limited": [
@@ -18784,13 +18784,8 @@
   "tokiye integrated medical service": [
     {
       "site": "JobGurus",
-      "id": "fe9d8979374fc2a872fa892643394aa0",
-      "timestamp": 1773431715836
-    },
-    {
-      "site": "JobGurus",
-      "id": "18690342e869eb1e5360d254e267286a",
-      "timestamp": 1773431715836
+      "id": "86e28496988b2eecd09fe67fe4391ab2",
+      "timestamp": 1790782370260
     }
   ],
   "d.i.k international limited": [
@@ -20092,8 +20087,8 @@
   "chowdeck": [
     {
       "site": "JobGurus",
-      "id": "9ff248c38a8caca23e03bb279e1812c0",
-      "timestamp": 1762194146521
+      "id": "467e32649b250a5ed86fed1fc3bb3b4e",
+      "timestamp": 1790782370260
     }
   ],
   "pem security guard network ltd": [
@@ -38756,6 +38751,13 @@
       "site": "JobGurus",
       "id": "3ebfc3216022dc5b7f971779f0c82c95",
       "timestamp": 1790758162563
+    }
+  ],
+  "ceesolar energy limited": [
+    {
+      "site": "JobGurus",
+      "id": "2a5501f7ae3b71ee279f9854a7c05563",
+      "timestamp": 1790782370260
     }
   ]
 }
