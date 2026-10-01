@@ -1026,6 +1026,11 @@
       "site": "JobGurus",
       "id": "ee4c6a25fc822e226a84657a34b36574",
       "timestamp": 1790403634451
+    },
+    {
+      "site": "JobGurus",
+      "id": "f60d9a2d2d3cd8e2d73fc0e60b890815",
+      "timestamp": 1790881992795
     }
   ],
   "fave consulting": [
@@ -3638,8 +3643,18 @@
   "technoserve": [
     {
       "site": "JobGurus",
-      "id": "239535cbfa20bae85c6ca7e4ffef850b",
-      "timestamp": 1762420640870
+      "id": "43280e7686f66844b6c0ceb9091a6a90",
+      "timestamp": 1790881992795
+    },
+    {
+      "site": "JobGurus",
+      "id": "d7ca301c35d65fd521c50ada3045238c",
+      "timestamp": 1790881992795
+    },
+    {
+      "site": "JobGurus",
+      "id": "c0301be875493c6e2d1e48bcf4346b15",
+      "timestamp": 1790881992795
     }
   ],
   "polaris bank limited": [
@@ -38839,6 +38854,13 @@
       "site": "JobGurus",
       "id": "b6b71e6d32e131765507a0bccac85734",
       "timestamp": 1790862062015
+    }
+  ],
+  "creative youths initiative (crea8 africa)": [
+    {
+      "site": "JobGurus",
+      "id": "54f8ecfac6061e76c38c84ff230be160",
+      "timestamp": 1790881992795
     }
   ]
 }
