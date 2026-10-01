@@ -12610,8 +12610,8 @@
   "myrtle management consultants": [
     {
       "site": "JobGurus",
-      "id": "1a90ae23f74eaa6b1ca0c18ff1133d8d",
-      "timestamp": 1755793419479
+      "id": "a2fdf1ba41c610a8c3a5a4ef44cf2dd4",
+      "timestamp": 1790813146152
     }
   ],
   "wonderfeel international company limited": [
@@ -38777,6 +38777,32 @@
       "site": "JobGurus",
       "id": "0b56d39c29144f7545e0ef0f39c53e09",
       "timestamp": 1790800119222
+    }
+  ],
+  "promasidor nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "cc131ad2f90a6e6ee19405307d940511",
+      "timestamp": 1790813146152
+    }
+  ],
+  "cavayo nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "5ddb9c124fb4b3f17136abc7d98a5803",
+      "timestamp": 1790813146152
+    },
+    {
+      "site": "JobGurus",
+      "id": "651ad99654a6b3d8d9b124f7f1a9c2d0",
+      "timestamp": 1790813146152
+    }
+  ],
+  "kaplo arica": [
+    {
+      "site": "JobGurus",
+      "id": "23a7e34a5c1ce54b9736f18cfcd541f0",
+      "timestamp": 1790813146152
     }
   ]
 }
