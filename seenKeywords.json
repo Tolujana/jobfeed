@@ -18668,8 +18668,8 @@
   "gozoman integrated services limited": [
     {
       "site": "JobGurus",
-      "id": "e86ce2310b6a330eb2892f524e5473e0",
-      "timestamp": 1760963591655
+      "id": "6b442dd4285389366988576c88cf8f38",
+      "timestamp": 1790896715243
     }
   ],
   "khome global logistics nigeria limited": [
@@ -23108,8 +23108,8 @@
   "positivia consult": [
     {
       "site": "JobGurus",
-      "id": "cfe18c36d9c7d6b159f0859309332544",
-      "timestamp": 1765210924724
+      "id": "6a6b50b65dd7ee39069962410dec49e3",
+      "timestamp": 1790896715243
     }
   ],
   "gotni leadership centre": [
@@ -28874,8 +28874,8 @@
   "queens clinic": [
     {
       "site": "JobGurus",
-      "id": "16642fd99d2f2e8685b7ebcf40678d97",
-      "timestamp": 1774453405563
+      "id": "3a055c5c5332e251a9cad62f02d9ddea",
+      "timestamp": 1790896715243
     }
   ],
   "pso consults limited": [
@@ -36392,8 +36392,8 @@
   "borederlesshr": [
     {
       "site": "JobGurus",
-      "id": "1f4f30271c6396f0872750c4603023bf",
-      "timestamp": 1786622828478
+      "id": "cb5ac482fdc20e33d3a0f107179e84d9",
+      "timestamp": 1790896715243
     }
   ],
   "opay microfinance bank": [
@@ -38861,6 +38861,13 @@
       "site": "JobGurus",
       "id": "54f8ecfac6061e76c38c84ff230be160",
       "timestamp": 1790881992795
+    }
+  ],
+  "nimblebyte global": [
+    {
+      "site": "JobGurus",
+      "id": "7d72a31df1f052d6f379675bf20dc5c3",
+      "timestamp": 1790896715243
     }
   ]
 }
