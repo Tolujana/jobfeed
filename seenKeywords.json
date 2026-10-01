@@ -3200,8 +3200,8 @@
   "worknigeria": [
     {
       "site": "JobGurus",
-      "id": "1697dfd77298e4884e47dbe0e6509efa",
-      "timestamp": 1787313041150
+      "id": "4cc5221a9fac24ac4faec4ef862da832",
+      "timestamp": 1790835471711
     }
   ],
   "smartcity plc": [
@@ -8346,8 +8346,8 @@
   "standard chartered bank": [
     {
       "site": "JobGurus",
-      "id": "db6e612567ab2590f31b212713d36c23",
-      "timestamp": 1786130804703
+      "id": "bf8e0f47cce9c71bc2354642ae82c45f",
+      "timestamp": 1790835471711
     }
   ],
   "poke limited": [
@@ -35180,8 +35180,13 @@
   "emzor pharmaceutical industries": [
     {
       "site": "JobGurus",
-      "id": "a42963f605ddebb0a0ff13f49dcce573",
-      "timestamp": 1785188176486
+      "id": "e9cb1fda8c68f1bc5a0c96342c668cae",
+      "timestamp": 1790835471711
+    },
+    {
+      "site": "JobGurus",
+      "id": "887dca2965f74a4d937e7e0ae0268fb3",
+      "timestamp": 1790835471711
     }
   ],
   "sellokay": [
@@ -38803,6 +38808,13 @@
       "site": "JobGurus",
       "id": "23a7e34a5c1ce54b9736f18cfcd541f0",
       "timestamp": 1790813146152
+    }
+  ],
+  "lynton prints": [
+    {
+      "site": "JobGurus",
+      "id": "2552c5b2d6488edbad3bfdf8fe0f9215",
+      "timestamp": 1790835471711
     }
   ]
 }
