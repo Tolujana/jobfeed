@@ -2602,8 +2602,18 @@
   "marriott international": [
     {
       "site": "JobGurus",
-      "id": "1cc2f1f1d48e778d02ea96400981d377",
-      "timestamp": 1769599206016
+      "id": "4180ee41546921cf95d5af5a930aec1b",
+      "timestamp": 1790930817728
+    },
+    {
+      "site": "JobGurus",
+      "id": "d43061335fc2ce06e3d1757d59050c66",
+      "timestamp": 1790930817728
+    },
+    {
+      "site": "JobGurus",
+      "id": "f0c7a98b848833304bc35defc2077967",
+      "timestamp": 1790930817728
     }
   ],
   "well fluid services limited": [
@@ -15707,8 +15717,8 @@
   "tastee fried chicken": [
     {
       "site": "JobGurus",
-      "id": "baea946021674a98b43b0a9ac63c4fb6",
-      "timestamp": 1774956323975
+      "id": "64182d70a6350064af2b8c9b78ceb69f",
+      "timestamp": 1790930817728
     }
   ],
   "transparency scape insurance brokers": [
@@ -38889,6 +38899,13 @@
       "site": "JobGurus",
       "id": "a1b0fea717f56768ee227ee85da5d81a",
       "timestamp": 1790907857793
+    }
+  ],
+  "emmanuel bakeries limited": [
+    {
+      "site": "JobGurus",
+      "id": "f77dc8b53d9ed1480d911509a63012f5",
+      "timestamp": 1790930817728
     }
   ]
 }
