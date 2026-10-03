@@ -6598,13 +6598,8 @@
   "firewood rice nigeria": [
     {
       "site": "JobGurus",
-      "id": "cc2b85ded37075b1681db50392b204fb",
-      "timestamp": 1789653792638
-    },
-    {
-      "site": "JobGurus",
-      "id": "5ef54eb027ae268190a1109fb8bf857f",
-      "timestamp": 1790096833713
+      "id": "98c4833f6250b23fe3ad7886bedbf669",
+      "timestamp": 1791020196740
     }
   ],
   "eden solution and resources limited": [
@@ -10470,8 +10465,8 @@
   "bourbon interoil nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "5d53e0a013a93adbe59501f6190430e1",
-      "timestamp": 1772450939083
+      "id": "aa6853d8478bb5d83c128ed1c0d998dd",
+      "timestamp": 1791020196740
     }
   ],
   "multipro consumer products limited": [
@@ -38972,6 +38967,20 @@
       "site": "JobGurus",
       "id": "1964146053ec9f2e2884ff2bbfc616c7",
       "timestamp": 1790998283134
+    }
+  ],
+  "the tonic technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "b3b7ab582e6bdf01cfbb298f21022d20",
+      "timestamp": 1791020196740
+    }
+  ],
+  "panthera restaurant": [
+    {
+      "site": "JobGurus",
+      "id": "ade6ee1a2473a047e8658812d1d58048",
+      "timestamp": 1791020196740
     }
   ]
 }
