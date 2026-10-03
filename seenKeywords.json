@@ -6636,8 +6636,8 @@
   "infinion technologies": [
     {
       "site": "JobGurus",
-      "id": "2c916dbd7452984e90f706cb3cce5044",
-      "timestamp": 1759926727928
+      "id": "683ee16cd97a67959f68028421a8d989",
+      "timestamp": 1790998283134
     }
   ],
   "scruples resources limited": [
@@ -38941,6 +38941,11 @@
       "site": "JobGurus",
       "id": "f139a69ad38a7bf934cca503f5e91e95",
       "timestamp": 1790985303108
+    },
+    {
+      "site": "JobGurus",
+      "id": "ef441bf2fef8c7e44f377f82aafc9164",
+      "timestamp": 1790998283134
     }
   ],
   "connig technoserve": [
@@ -38955,6 +38960,18 @@
       "site": "JobGurus",
       "id": "aa49270257ce72c42d9ffd58d05fdf6e",
       "timestamp": 1790985303108
+    }
+  ],
+  "beckley consulting ltd": [
+    {
+      "site": "JobGurus",
+      "id": "a5d901939a4d1ffedf6c5be7c549342c",
+      "timestamp": 1790998283134
+    },
+    {
+      "site": "JobGurus",
+      "id": "1964146053ec9f2e2884ff2bbfc616c7",
+      "timestamp": 1790998283134
     }
   ]
 }
