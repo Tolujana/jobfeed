@@ -17,13 +17,8 @@
   "excel and grace consulting": [
     {
       "site": "JobGurus",
-      "id": "8e632d0d7fd1294b4c83cd560e09e739",
-      "timestamp": 1787142961924
-    },
-    {
-      "site": "JobGurus",
-      "id": "801a4e4d7c5c99cdedb34ded4ec7553b",
-      "timestamp": 1787154944608
+      "id": "e2c6fdeb74def43f61e79f920e3bfa11",
+      "timestamp": 1791225702162
     }
   ],
   "amecron nigeria limited": [
@@ -23837,8 +23832,8 @@
   "gig logistics": [
     {
       "site": "JobGurus",
-      "id": "06467bb005e69243dcd02aca684f3c75",
-      "timestamp": 1787158525010
+      "id": "a4db649491598612ad20ffc37c460d3b",
+      "timestamp": 1791225702162
     }
   ],
   "kindred path fertility centre": [
@@ -35691,8 +35686,8 @@
   "denver castle global services": [
     {
       "site": "JobGurus",
-      "id": "e870aa2b65c32328758f6ea006abf832",
-      "timestamp": 1785761517152
+      "id": "efa4fd77c66a1ec3b797f6e14c547f90",
+      "timestamp": 1791225702162
     }
   ],
   "alliance for international medical action": [
@@ -39013,6 +39008,18 @@
       "site": "JobGurus",
       "id": "6da1aaa5cc3b3f35066f4a989b38b596",
       "timestamp": 1791063696408
+    }
+  ],
+  "intelligence properties": [
+    {
+      "site": "JobGurus",
+      "id": "261500545b37f5bb3bdfa7b52bf9b4b4",
+      "timestamp": 1791225702162
+    },
+    {
+      "site": "JobGurus",
+      "id": "c50fb1bba3aa04709bc0379e1b93e491",
+      "timestamp": 1791225702162
     }
   ]
 }
