@@ -2810,6 +2810,11 @@
       "site": "JobGurus",
       "id": "b9a8f5e47e55c76dd107fa71b407e7a6",
       "timestamp": 1790800119222
+    },
+    {
+      "site": "JobGurus",
+      "id": "df413d879542c458df0a9fcb495476e2",
+      "timestamp": 1791296398657
     }
   ],
   "oisedotcom limited": [
@@ -4799,8 +4804,8 @@
   "egbin power plc": [
     {
       "site": "JobGurus",
-      "id": "9177ca74a63b91f11499f2fdca17a9ec",
-      "timestamp": 1787661461620
+      "id": "813e7f0f0699655b3c08272b6db544f2",
+      "timestamp": 1791296398657
     }
   ],
   "uleval technology": [
@@ -26595,8 +26600,13 @@
   "bespoke urban luxury limited": [
     {
       "site": "JobGurus",
-      "id": "076c5560467b21a87a55bfc9733dba64",
-      "timestamp": 1770057434318
+      "id": "d3e2c101c6b97d0ef00832617d578aee",
+      "timestamp": 1791296398657
+    },
+    {
+      "site": "JobGurus",
+      "id": "a00cd3c3c379359dde94a1243f7ddcfc",
+      "timestamp": 1791296398657
     }
   ],
   "nigeriamarkt": [
@@ -39048,6 +39058,13 @@
       "site": "JobGurus",
       "id": "f1192e136afbea248e67bda23835328e",
       "timestamp": 1791270435642
+    }
+  ],
+  "linkert consulting": [
+    {
+      "site": "JobGurus",
+      "id": "398bd780abacaf5267c9d12d07fd5422",
+      "timestamp": 1791296398657
     }
   ]
 }
