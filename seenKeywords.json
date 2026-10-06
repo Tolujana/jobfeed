@@ -19367,8 +19367,8 @@
   "schlumberger limited": [
     {
       "site": "JobGurus",
-      "id": "89c0af1649489676827f1be449fe0159",
-      "timestamp": 1788387436492
+      "id": "b5bc014985eaf3049eab5edcd41676b4",
+      "timestamp": 1791329472102
     }
   ],
   "pragmatic technologies limited": [
@@ -36391,8 +36391,8 @@
   "mohinani group": [
     {
       "site": "JobGurus",
-      "id": "82b275629b9fce790dc16541b4224927",
-      "timestamp": 1786559129583
+      "id": "d9c3625f5ec852a0b2986ce8875c1001",
+      "timestamp": 1791329472102
     }
   ],
   "faladeg": [
@@ -39075,6 +39075,13 @@
       "site": "JobGurus",
       "id": "398bd780abacaf5267c9d12d07fd5422",
       "timestamp": 1791296398657
+    }
+  ],
+  "igospora services limited": [
+    {
+      "site": "JobGurus",
+      "id": "ee014233212c3d76a38a30c9cc32a5f0",
+      "timestamp": 1791329472102
     }
   ]
 }
