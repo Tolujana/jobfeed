@@ -11774,8 +11774,8 @@
   "virgin forest energy limited": [
     {
       "site": "JobGurus",
-      "id": "55008838e78c6bab2357c5098ddc6959",
-      "timestamp": 1787236223659
+      "id": "548fffe06537e136f42cfde9587d970f",
+      "timestamp": 1791394819658
     }
   ],
   "ivee consulting limited": [
@@ -15302,8 +15302,8 @@
   "whassan nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "8709723c6d2b90d399629a734972294b",
-      "timestamp": 1758033680273
+      "id": "d827e9bc2227805debd0d56ef2f9575f",
+      "timestamp": 1791394819658
     }
   ],
   "united nations international children's emergency fund (unicef)": [
@@ -23570,8 +23570,8 @@
   "gemameg company nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "b4da471ecb1a07ab38282995df041f86",
-      "timestamp": 1765808446370
+      "id": "ac31e48eab4b190038630c3574fd2f60",
+      "timestamp": 1791394819658
     }
   ],
   "picadailys": [
@@ -39072,6 +39072,18 @@
       "site": "JobGurus",
       "id": "ee014233212c3d76a38a30c9cc32a5f0",
       "timestamp": 1791329472102
+    }
+  ],
+  "hassiad technologies limited": [
+    {
+      "site": "JobGurus",
+      "id": "e44721f33faba39bf0ce7837848ab19e",
+      "timestamp": 1791394819658
+    },
+    {
+      "site": "JobGurus",
+      "id": "40b31ac2cc43913b7eb2cb7008ce7054",
+      "timestamp": 1791394819658
     }
   ]
 }
