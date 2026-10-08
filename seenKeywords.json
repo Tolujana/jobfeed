@@ -140,13 +140,8 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "aeea8a17320e337cfde1495794fa3ba5",
-      "timestamp": 1789170601101
-    },
-    {
-      "site": "JobGurus",
-      "id": "1e010a3aa2557971d457c9d6bed6820d",
-      "timestamp": 1789750453601
+      "id": "3b1fad2c1330dbd556cf5dc849cc9e30",
+      "timestamp": 1791495978702
     }
   ],
   "cway group": [
@@ -19249,18 +19244,13 @@
   "avetium consult": [
     {
       "site": "JobGurus",
-      "id": "91eb9b2aa8aa8445268eaaffc2f123c8",
-      "timestamp": 1787164019255
+      "id": "1b7bc6f8beb7077e0dcf8623b6b2989f",
+      "timestamp": 1791495978702
     },
     {
       "site": "JobGurus",
-      "id": "6687f165a141e3232eb4f28b409ada17",
-      "timestamp": 1787164019255
-    },
-    {
-      "site": "JobGurus",
-      "id": "3bb621707ae7df9414efbdc091395a00",
-      "timestamp": 1787164019255
+      "id": "632bfe68f317a2039466e8a88ee9516c",
+      "timestamp": 1791495978702
     }
   ],
   "ai multimedia academy": [
@@ -21618,13 +21608,8 @@
   "robeck locks limited": [
     {
       "site": "JobGurus",
-      "id": "207574ecf0f730968c5e02fc81df772d",
-      "timestamp": 1763578061275
-    },
-    {
-      "site": "JobGurus",
-      "id": "fdd0f63d58b5fa5fd40a47bf048f566e",
-      "timestamp": 1763578061275
+      "id": "09439f38c7d2ba6ad7c42db85df519cd",
+      "timestamp": 1791495978702
     }
   ],
   "nigerian breweries plc": [
@@ -39130,6 +39115,13 @@
       "site": "JobGurus",
       "id": "938a184fac510f0dfdb4d15dc0fe7cab",
       "timestamp": 1791451026266
+    }
+  ],
+  "african fertlizers and chemicals limited": [
+    {
+      "site": "JobGurus",
+      "id": "42249c0091dbfe1838be1584552859f6",
+      "timestamp": 1791495978702
     }
   ]
 }
