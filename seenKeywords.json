@@ -2679,6 +2679,16 @@
       "site": "JobGurus",
       "id": "9f4f585a987b39c57316053c882cc60a",
       "timestamp": 1791426296368
+    },
+    {
+      "site": "JobGurus",
+      "id": "9356afc44cf161b46bc4a4b6d60e37ac",
+      "timestamp": 1791451026266
+    },
+    {
+      "site": "JobGurus",
+      "id": "dbbae1982c085bb6ac06e8326b0d314f",
+      "timestamp": 1791451026266
     }
   ],
   "longbridge technologies limited": [
@@ -2978,6 +2988,11 @@
       "site": "JobGurus",
       "id": "68fbc31a5a04eca47d3dfaaa99fd8b75",
       "timestamp": 1791426296368
+    },
+    {
+      "site": "JobGurus",
+      "id": "6b959f5cd411d05a5567acfba8bbe9d5",
+      "timestamp": 1791451026266
     }
   ],
   "mactay consulting": [
@@ -38093,8 +38108,8 @@
   "snv nigeria": [
     {
       "site": "JobGurus",
-      "id": "9f87bee523128c28655949545a4854ad",
-      "timestamp": 1789152964636
+      "id": "7780dd334c3d4c8c40636b3d944c3b0f",
+      "timestamp": 1791451026266
     }
   ],
   "fyre skin & fyre wellness": [
@@ -39098,6 +39113,13 @@
       "site": "JobGurus",
       "id": "d4cbacbab093ce27a2e879db2bc813a6",
       "timestamp": 1791426296368
+    }
+  ],
+  "crovation limited": [
+    {
+      "site": "JobGurus",
+      "id": "938a184fac510f0dfdb4d15dc0fe7cab",
+      "timestamp": 1791451026266
     }
   ]
 }
