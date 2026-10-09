@@ -527,6 +527,11 @@
       "site": "JobGurus",
       "id": "403696f1f17fedab742e8f3a5cfb54e9",
       "timestamp": 1791246768951
+    },
+    {
+      "site": "JobGurus",
+      "id": "75e47a409ab5d04d1ecd1db842bf32b8",
+      "timestamp": 1791510083501
     }
   ],
   "abbfem group": [
@@ -15359,13 +15364,8 @@
   "mg vowgas group": [
     {
       "site": "JobGurus",
-      "id": "436b2eacf414da01991dbf2f0b471a7d",
-      "timestamp": 1758134758466
-    },
-    {
-      "site": "JobGurus",
-      "id": "ba8cc24e4490237e3ab1b9a7aa393216",
-      "timestamp": 1758136286886
+      "id": "67c01521f3b35d7b9fd6c1604de620ee",
+      "timestamp": 1791510083501
     }
   ],
   "house finder technologies limited": [
@@ -39122,6 +39122,27 @@
       "site": "JobGurus",
       "id": "42249c0091dbfe1838be1584552859f6",
       "timestamp": 1791495978702
+    }
+  ],
+  "java design concepts limited": [
+    {
+      "site": "JobGurus",
+      "id": "908a2006d9624769e581926f5a44d502",
+      "timestamp": 1791510083501
+    }
+  ],
+  "cchub": [
+    {
+      "site": "JobGurus",
+      "id": "94141a7e78a0f347518c4d6077a99577",
+      "timestamp": 1791510083501
+    }
+  ],
+  "backline outsourcing": [
+    {
+      "site": "JobGurus",
+      "id": "ebfe6589e915266e7e7d0ccc1f8943e1",
+      "timestamp": 1791510083501
     }
   ]
 }
