@@ -39156,5 +39156,29 @@
       "id": "41b0511d86e5bded77697b6582f084f4",
       "timestamp": 1791559623618
     }
+  ],
+  "singapore view hotel and suites": [
+    {
+      "site": "JobGurus",
+      "id": "b785bc9d9279b79beedf236bedd41abe",
+      "timestamp": 1791576827511
+    },
+    {
+      "site": "JobGurus",
+      "id": "e1f5e01b3ac19047ba1cd792bd99fea1",
+      "timestamp": 1791576827511
+    },
+    {
+      "site": "JobGurus",
+      "id": "9601e4e580487e0a450b30dcde1072f2",
+      "timestamp": 1791576827511
+    }
+  ],
+  "arlinks": [
+    {
+      "site": "JobGurus",
+      "id": "ff9a98f5f03a6cff18f3d00178e39432",
+      "timestamp": 1791576827511
+    }
   ]
 }
