@@ -1510,8 +1510,8 @@
   "unified payment services limited": [
     {
       "site": "JobGurus",
-      "id": "1924fde9b2150679faa4c3ee5bf9a6e3",
-      "timestamp": 1788033366716
+      "id": "4c88dd078c2280652565ad233d75f0a8",
+      "timestamp": 1791559623618
     }
   ],
   "straitpay": [
@@ -16709,8 +16709,8 @@
   "new hope liuhe": [
     {
       "site": "JobGurus",
-      "id": "e46ef5f6c8a8ee28456aa3970615ee12",
-      "timestamp": 1787589032857
+      "id": "e8009c8a6fdbb313e48ea4d2ba81be24",
+      "timestamp": 1791559623618
     }
   ],
   "fips multilinks limited": [
@@ -22808,8 +22808,8 @@
   "jv management consulting": [
     {
       "site": "JobGurus",
-      "id": "0c0ebe838cbc547d61107744581f1b9e",
-      "timestamp": 1787068522057
+      "id": "31279428191d0f360964bc36cc1bc575",
+      "timestamp": 1791559623618
     }
   ],
   "doii design limited": [
@@ -30130,8 +30130,8 @@
   "pixelpulse viralchemy international limited": [
     {
       "site": "JobGurus",
-      "id": "546303995ae877f4795a084f97548b46",
-      "timestamp": 1776294484290
+      "id": "e5535907a10234838b753cf35d1d1870",
+      "timestamp": 1791559623618
     }
   ],
   "excellence community education welfare scheme": [
@@ -39148,6 +39148,13 @@
       "site": "JobGurus",
       "id": "ebfe6589e915266e7e7d0ccc1f8943e1",
       "timestamp": 1791510083501
+    }
+  ],
+  "glorisco enterprises nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "41b0511d86e5bded77697b6582f084f4",
+      "timestamp": 1791559623618
     }
   ]
 }
