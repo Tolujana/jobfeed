@@ -515,16 +515,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "90126590523a3709713c0a4b989fc246",
-      "timestamp": 1790954234725
-    },
-    {
-      "site": "JobGurus",
-      "id": "bde13474bd15cadd06c4a5b3f02995b5",
-      "timestamp": 1790971378638
-    },
-    {
-      "site": "JobGurus",
       "id": "403696f1f17fedab742e8f3a5cfb54e9",
       "timestamp": 1791246768951
     },
@@ -532,6 +522,11 @@
       "site": "JobGurus",
       "id": "75e47a409ab5d04d1ecd1db842bf32b8",
       "timestamp": 1791510083501
+    },
+    {
+      "site": "JobGurus",
+      "id": "535e9e7505e8bc3091284a31dbd52fe6",
+      "timestamp": 1791591058388
     }
   ],
   "abbfem group": [
@@ -14153,6 +14148,11 @@
       "site": "JobGurus",
       "id": "53f78156b0e9fc02ae28861a569bfd49",
       "timestamp": 1791345534172
+    },
+    {
+      "site": "JobGurus",
+      "id": "8797f8db116750a7ebd8a1dfcd9ae1b7",
+      "timestamp": 1791591058388
     }
   ],
   "faith digital consulting": [
@@ -39179,6 +39179,25 @@
       "site": "JobGurus",
       "id": "ff9a98f5f03a6cff18f3d00178e39432",
       "timestamp": 1791576827511
+    }
+  ],
+  "serenity royale hospital": [
+    {
+      "site": "JobGurus",
+      "id": "f09775bfc75e992ea24596ba9ce913d0",
+      "timestamp": 1791591058388
+    },
+    {
+      "site": "JobGurus",
+      "id": "aa7455317d36a23047393a4ff59b4094",
+      "timestamp": 1791591058388
+    }
+  ],
+  "janchine nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "4f1ba8f379167bfd5592a1c41ece2153",
+      "timestamp": 1791591058388
     }
   ]
 }
