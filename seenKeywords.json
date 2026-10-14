@@ -12191,8 +12191,8 @@
   "strivo labs": [
     {
       "site": "JobGurus",
-      "id": "e374b8a4cfeca2912fa94598f515fac2",
-      "timestamp": 1790907857793
+      "id": "e03a1d0175cbd9162e2230686e7fca55",
+      "timestamp": 1792015265790
     }
   ],
   "saro agro-allied": [
@@ -39358,6 +39358,20 @@
       "site": "JobGurus",
       "id": "b15ff8026211e5845dd4c8aae4dc55d5",
       "timestamp": 1792003594503
+    }
+  ],
+  "blythe and junot nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "e5a293878fe84ab19c39c695da41e05c",
+      "timestamp": 1792015265790
+    }
+  ],
+  "elite talent placements": [
+    {
+      "site": "JobGurus",
+      "id": "f8e4e08e1a4b36d1e9d59ebafc145bd0",
+      "timestamp": 1792015265790
     }
   ]
 }
