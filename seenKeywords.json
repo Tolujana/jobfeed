@@ -1653,8 +1653,8 @@
   "pyfinest resources": [
     {
       "site": "JobGurus",
-      "id": "88ec077abea43f41f1c8af4648f7e233",
-      "timestamp": 1790017257322
+      "id": "0b5954d8c87d98e42b82437fb5dab578",
+      "timestamp": 1792003594503
     }
   ],
   "outsource nigeria": [
@@ -2255,8 +2255,8 @@
   "fadac resources and services limited": [
     {
       "site": "JobGurus",
-      "id": "9e587204a14114419a8b96a329976fd5",
-      "timestamp": 1789442215474
+      "id": "2cbf457084c54ced795d4f58f789850e",
+      "timestamp": 1792003594503
     }
   ],
   "fgs limited": [
@@ -31524,13 +31524,8 @@
   "danone early life nutrition": [
     {
       "site": "JobGurus",
-      "id": "4e72167ba4c3289d4d2f396dc2b11e82",
-      "timestamp": 1778507040246
-    },
-    {
-      "site": "JobGurus",
-      "id": "23f7a866fac0ce53a600be45c3947792",
-      "timestamp": 1778507040246
+      "id": "410a6d12c44632cccf05c7540635fe37",
+      "timestamp": 1792003594503
     }
   ],
   "zoa international": [
@@ -39349,6 +39344,20 @@
       "site": "JobGurus",
       "id": "c611cacbeb30f4f1085aef63b20ba46b",
       "timestamp": 1791968112523
+    }
+  ],
+  "brent store limited": [
+    {
+      "site": "JobGurus",
+      "id": "160d316b94b04bad0da02e95dd15d89e",
+      "timestamp": 1792003594503
+    }
+  ],
+  "s-tee schools": [
+    {
+      "site": "JobGurus",
+      "id": "b15ff8026211e5845dd4c8aae4dc55d5",
+      "timestamp": 1792003594503
     }
   ]
 }
