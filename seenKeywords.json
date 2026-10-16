@@ -14344,13 +14344,13 @@
   "det consulting limited": [
     {
       "site": "JobGurus",
-      "id": "8fa1ed11c799059ec68bb28c4ee67605",
-      "timestamp": 1775761213550
+      "id": "e9b0f5e4cbbeaf7fe830feca6182e8e1",
+      "timestamp": 1792146814020
     },
     {
       "site": "JobGurus",
-      "id": "5deacc1d92aadf124d5c4a64d53f8098",
-      "timestamp": 1775765431463
+      "id": "b66785dd00fdeb49a3de018cf4c42268",
+      "timestamp": 1792146814020
     }
   ],
   "power control and appliances limited": [
@@ -39482,6 +39482,27 @@
       "site": "JobGurus",
       "id": "b8312176396ff9a73ea6a439af89330a",
       "timestamp": 1792128932553
+    }
+  ],
+  "energy market and rates consultants limited (emrc)": [
+    {
+      "site": "JobGurus",
+      "id": "59faacbd3cd11f43754ba1744d021182",
+      "timestamp": 1792146814020
+    }
+  ],
+  "ardent universe": [
+    {
+      "site": "JobGurus",
+      "id": "f16abf3e34af2303cd699e882d531634",
+      "timestamp": 1792146814020
+    }
+  ],
+  "the pistis firm -": [
+    {
+      "site": "JobGurus",
+      "id": "fc68b880baa47954de4e440ccd274077",
+      "timestamp": 1792146814020
     }
   ]
 }
