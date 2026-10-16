@@ -11252,8 +11252,8 @@
   "domeo resources international (dri)": [
     {
       "site": "JobGurus",
-      "id": "91a989782ce295749e4540b57b9c7ce7",
-      "timestamp": 1784739381802
+      "id": "2eec85ae467f1244d76f2e206a3b8761",
+      "timestamp": 1792128932553
     }
   ],
   "pulse nigeria": [
@@ -30062,8 +30062,8 @@
   "abelinis": [
     {
       "site": "JobGurus",
-      "id": "fb4a6c127430409508b5e662642a1828",
-      "timestamp": 1782477014767
+      "id": "306280c866832950e74c8080a300cd08",
+      "timestamp": 1792128932553
     }
   ],
   "path nigeria": [
@@ -31537,8 +31537,8 @@
   "tincan island container terminal limited": [
     {
       "site": "JobGurus",
-      "id": "25bfbc653d3354faef34a38335d41bc1",
-      "timestamp": 1778345383238
+      "id": "eeb56521af677bf9dbb19126891403c4",
+      "timestamp": 1792128932553
     }
   ],
   "danone early life nutrition": [
@@ -39472,6 +39472,16 @@
       "site": "JobGurus",
       "id": "15b0d3785d8b4500bc13a28016cafb3e",
       "timestamp": 1792112288442
+    },
+    {
+      "site": "JobGurus",
+      "id": "1411fa00f712d562f380521b59579d72",
+      "timestamp": 1792128932553
+    },
+    {
+      "site": "JobGurus",
+      "id": "b8312176396ff9a73ea6a439af89330a",
+      "timestamp": 1792128932553
     }
   ]
 }
