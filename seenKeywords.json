@@ -16126,13 +16126,8 @@
   "givanas cosmetics nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "c5f6f99254558b3c73cf7aa69d14b41d",
-      "timestamp": 1782254700114
-    },
-    {
-      "site": "JobGurus",
-      "id": "e509d2e68e83c30da455ce14e2ed92de",
-      "timestamp": 1782254700114
+      "id": "16eb33d31549da38f08e2f966f993b4b",
+      "timestamp": 1792163251853
     }
   ],
   "de royal drinkables and refreshments limited": [
@@ -31194,8 +31189,13 @@
   "zinance limited": [
     {
       "site": "JobGurus",
-      "id": "0d4ca05535fb8673a9c66088a2cf76ec",
-      "timestamp": 1787319612315
+      "id": "5dc75dea40e09591067c57dcd746d871",
+      "timestamp": 1792163251853
+    },
+    {
+      "site": "JobGurus",
+      "id": "1f463a96c234479a9409f85050df29f1",
+      "timestamp": 1792163251853
     }
   ],
   "free from poverty financial services": [
@@ -39503,6 +39503,20 @@
       "site": "JobGurus",
       "id": "fc68b880baa47954de4e440ccd274077",
       "timestamp": 1792146814020
+    }
+  ],
+  "etranzact nigeria": [
+    {
+      "site": "JobGurus",
+      "id": "778f3f469a472d5640eea4fe2fd4e168",
+      "timestamp": 1792163251853
+    }
+  ],
+  "the cvm career company": [
+    {
+      "site": "JobGurus",
+      "id": "4549b79d681b13c97ad09f49c319129b",
+      "timestamp": 1792163251853
     }
   ]
 }
