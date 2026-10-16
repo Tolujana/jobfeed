@@ -5297,6 +5297,16 @@
       "site": "JobGurus",
       "id": "e4f10e162cc14202e5b3a6147ed071f3",
       "timestamp": 1792176777607
+    },
+    {
+      "site": "JobGurus",
+      "id": "0465e9508fdd0c3b112bd0aa0ae6571d",
+      "timestamp": 1792187590724
+    },
+    {
+      "site": "JobGurus",
+      "id": "cee42cb4143f5d710360706dccb4fb7d",
+      "timestamp": 1792187590724
     }
   ],
   "edazytech integrated services": [
@@ -12722,8 +12732,8 @@
   "castel resources consultancy limited": [
     {
       "site": "JobGurus",
-      "id": "27b0d60188abfe9733f929a637a526e7",
-      "timestamp": 1791246768951
+      "id": "8a7f1612b4a2d708f34da94b3f83faf0",
+      "timestamp": 1792187590724
     }
   ],
   "fidson healthcare plc": [
@@ -39536,6 +39546,13 @@
       "site": "JobGurus",
       "id": "7a80bfc12e46f566faac8ef85a928b69",
       "timestamp": 1792176777607
+    }
+  ],
+  "misan & co.": [
+    {
+      "site": "JobGurus",
+      "id": "fa304ee1746ef109d24028fc1c17c8fc",
+      "timestamp": 1792187590724
     }
   ]
 }
