@@ -5295,8 +5295,8 @@
   "bakangizo pharmacy and stores": [
     {
       "site": "JobGurus",
-      "id": "3e62eef613a3cbbc3864842c59ccfd0a",
-      "timestamp": 1784566461476
+      "id": "e4f10e162cc14202e5b3a6147ed071f3",
+      "timestamp": 1792176777607
     }
   ],
   "edazytech integrated services": [
@@ -10507,8 +10507,8 @@
   "multipro consumer products limited": [
     {
       "site": "JobGurus",
-      "id": "fc3b4031a50f847020054f9fe351c9f5",
-      "timestamp": 1791345534172
+      "id": "72b3214a2f950a0adaeaf1ac6856fbfe",
+      "timestamp": 1792176777607
     }
   ],
   "allied food and confectionery services": [
@@ -39517,6 +39517,25 @@
       "site": "JobGurus",
       "id": "4549b79d681b13c97ad09f49c319129b",
       "timestamp": 1792163251853
+    }
+  ],
+  "diamond new energy": [
+    {
+      "site": "JobGurus",
+      "id": "1716dafc2e49cd10e6e8bceb551f54f5",
+      "timestamp": 1792176777607
+    },
+    {
+      "site": "JobGurus",
+      "id": "b52c0546c886f5a8c841ceef7f6cd316",
+      "timestamp": 1792176777607
+    }
+  ],
+  "ego’s kitchen and delectable": [
+    {
+      "site": "JobGurus",
+      "id": "7a80bfc12e46f566faac8ef85a928b69",
+      "timestamp": 1792176777607
     }
   ]
 }
