@@ -5307,6 +5307,11 @@
       "site": "JobGurus",
       "id": "cee42cb4143f5d710360706dccb4fb7d",
       "timestamp": 1792187590724
+    },
+    {
+      "site": "JobGurus",
+      "id": "5b1f263f432a7247b79d5ca2dde7d349",
+      "timestamp": 1792195611758
     }
   ],
   "edazytech integrated services": [
@@ -5543,13 +5548,8 @@
   "kuda bank": [
     {
       "site": "JobGurus",
-      "id": "d3aa5bfe262bf1447d15e771c73cb7a8",
-      "timestamp": 1785497166130
-    },
-    {
-      "site": "JobGurus",
-      "id": "8d9fa4c74b240152ac63e0f25559a41a",
-      "timestamp": 1785503569907
+      "id": "b196b70ae80a32f1216de9d39ed02dee",
+      "timestamp": 1792195611758
     }
   ],
   "boing pinnacle limited": [
@@ -8713,8 +8713,8 @@
   "greenlife hospital limited": [
     {
       "site": "JobGurus",
-      "id": "0ab3f872706c21ec9cd71beff32b7ab8",
-      "timestamp": 1784666544646
+      "id": "586bfefb264d336536d9be97fdadb30e",
+      "timestamp": 1792195611758
     }
   ],
   "charlesmaris international company": [
@@ -30483,8 +30483,8 @@
   "dwellion design": [
     {
       "site": "JobGurus",
-      "id": "25d57fc87ed2eccf187a737692f0d9e9",
-      "timestamp": 1776812691696
+      "id": "533984cd88ff3654a261ea389d47a034",
+      "timestamp": 1792195611758
     }
   ],
   "westbridge industries limited": [
@@ -39539,6 +39539,11 @@
       "site": "JobGurus",
       "id": "b52c0546c886f5a8c841ceef7f6cd316",
       "timestamp": 1792176777607
+    },
+    {
+      "site": "JobGurus",
+      "id": "3db00e8fdafdd99756c66f613018ccbe",
+      "timestamp": 1792195611758
     }
   ],
   "ego’s kitchen and delectable": [
