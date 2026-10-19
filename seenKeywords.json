@@ -616,13 +616,8 @@
   "vantegral consulting": [
     {
       "site": "JobGurus",
-      "id": "cde0784a65834db1a7ade4b81d39b3fb",
-      "timestamp": 1789735124765
-    },
-    {
-      "site": "JobGurus",
-      "id": "0dc24bbb5944c47694409f9e9faa2582",
-      "timestamp": 1789735124765
+      "id": "930574baf8526ba4c668d887cb837e61",
+      "timestamp": 1792434077609
     }
   ],
   "private sector health alliance of nigeria": [
@@ -10715,18 +10710,8 @@
   "flour mills of nigeria plc": [
     {
       "site": "JobGurus",
-      "id": "8c9fcfb6aeaf3513990d527e53a6a104",
-      "timestamp": 1788610698251
-    },
-    {
-      "site": "JobGurus",
-      "id": "ea66aae22287a4bdea01f0ceec283831",
-      "timestamp": 1788635690342
-    },
-    {
-      "site": "JobGurus",
-      "id": "01b7f22325e97be83f4578569a323b06",
-      "timestamp": 1788785539479
+      "id": "e6de17532a64fc7c137e730820122e19",
+      "timestamp": 1792434077609
     }
   ],
   "uridium technologies": [
@@ -11298,13 +11283,8 @@
   "green africa airways limited": [
     {
       "site": "JobGurus",
-      "id": "e67abd0b2189834ff2bb1d30af6d8a16",
-      "timestamp": 1778000557852
-    },
-    {
-      "site": "JobGurus",
-      "id": "9c6f689fe7530cc3c6bd5c0bac4d27b7",
-      "timestamp": 1778193141338
+      "id": "adf3e6e4eb568b1260e1ba452d2b9995",
+      "timestamp": 1792434077609
     }
   ],
   "l12 secrets": [
@@ -39625,6 +39605,20 @@
       "site": "JobGurus",
       "id": "fd2191bb4c5215c6065b3dd051b08473",
       "timestamp": 1792271498341
+    }
+  ],
+  "starzs investments company limited": [
+    {
+      "site": "JobGurus",
+      "id": "23d1c274ef83cd0ba095a10b8452ab0c",
+      "timestamp": 1792434077609
+    }
+  ],
+  "reliable steel and plastic ind limited": [
+    {
+      "site": "JobGurus",
+      "id": "e2a6a742d3a7ef0022e4891c37100a74",
+      "timestamp": 1792434077609
     }
   ]
 }
