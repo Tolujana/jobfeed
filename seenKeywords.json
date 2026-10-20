@@ -2257,6 +2257,11 @@
       "site": "JobGurus",
       "id": "2cbf457084c54ced795d4f58f789850e",
       "timestamp": 1792003594503
+    },
+    {
+      "site": "JobGurus",
+      "id": "1d59e3efc2a3bfa71bff8077c09f7bd6",
+      "timestamp": 1792513485291
     }
   ],
   "fgs limited": [
@@ -10430,13 +10435,8 @@
   "mikano international limited": [
     {
       "site": "JobGurus",
-      "id": "09b26eb4f4251cfabc6cff1a07a8b0d9",
-      "timestamp": 1786728373266
-    },
-    {
-      "site": "JobGurus",
-      "id": "140f536f95933f5ee7b999fecad3ed8a",
-      "timestamp": 1786792485082
+      "id": "ba2377aef989f579904f0d3f29c9fbee",
+      "timestamp": 1792513485291
     }
   ],
   "growth in value alliance (gv alliance) partners": [
@@ -39645,6 +39645,25 @@
       "site": "JobGurus",
       "id": "37ee3f0c76ebdd2eab481059e2235e1a",
       "timestamp": 1792497404213
+    }
+  ],
+  "10alytics": [
+    {
+      "site": "JobGurus",
+      "id": "2fac9dfd3429a182c6af7ce353a2a17b",
+      "timestamp": 1792513485291
+    },
+    {
+      "site": "JobGurus",
+      "id": "6f04139e5f302b5d226a1da57bc28623",
+      "timestamp": 1792513485291
+    }
+  ],
+  "stay & homely hotel limited": [
+    {
+      "site": "JobGurus",
+      "id": "187c5ade299d3821101125ad58a6db2a",
+      "timestamp": 1792513485291
     }
   ]
 }
