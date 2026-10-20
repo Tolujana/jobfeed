@@ -12762,6 +12762,11 @@
       "site": "JobGurus",
       "id": "c3ab4ee96b1a45bc5a43c47dd630bb56",
       "timestamp": 1792459761033
+    },
+    {
+      "site": "JobGurus",
+      "id": "11caedb707a8480181279e96b7afcefe",
+      "timestamp": 1792477640870
     }
   ],
   "novella africa limited": [
@@ -29687,28 +29692,13 @@
   "resurgir consulting": [
     {
       "site": "JobGurus",
-      "id": "555f15f6057bebc5caa34ef377799e4d",
-      "timestamp": 1787788811907
+      "id": "0a672b27ce65ef538421c4847c894913",
+      "timestamp": 1792477640870
     },
     {
       "site": "JobGurus",
-      "id": "d167dca6e7f0b27a302cd08a907c1f11",
-      "timestamp": 1787788811907
-    },
-    {
-      "site": "JobGurus",
-      "id": "1d498309da9233226bcc97ab307c9ff1",
-      "timestamp": 1787889564222
-    },
-    {
-      "site": "JobGurus",
-      "id": "7b8a062f31da331c635deb0f519a3241",
-      "timestamp": 1787889564222
-    },
-    {
-      "site": "JobGurus",
-      "id": "42a62dca56b5cfe6210537ea67e4eb4c",
-      "timestamp": 1788187584830
+      "id": "49206dc13a70cc4706b0532dbfe9c90a",
+      "timestamp": 1792477640870
     }
   ],
   "international workplace group (iwg)": [
@@ -34185,8 +34175,8 @@
   "huko advisory services": [
     {
       "site": "JobGurus",
-      "id": "2f5556a1229523941f83b0e009942288",
-      "timestamp": 1785512146452
+      "id": "536ef252ec91a26ff482e5bb2f3db115",
+      "timestamp": 1792477640870
     }
   ],
   "elimtop view estate limited": [
@@ -39631,6 +39621,13 @@
       "site": "JobGurus",
       "id": "615ededb7bb0502cb70d3d6e6201306d",
       "timestamp": 1792449128781
+    }
+  ],
+  "bright start education consult": [
+    {
+      "site": "JobGurus",
+      "id": "cae38faace07002b444f1aa7c3cc8dab",
+      "timestamp": 1792477640870
     }
   ]
 }
