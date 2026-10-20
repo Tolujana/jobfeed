@@ -1884,13 +1884,8 @@
   "phillips outsourcing limited": [
     {
       "site": "JobGurus",
-      "id": "484f5f1c2ff74bd4d86929e2b905a8ef",
-      "timestamp": 1791895862512
-    },
-    {
-      "site": "JobGurus",
-      "id": "26f9ad62fb2fd9683c36047d13bcf680",
-      "timestamp": 1791895862512
+      "id": "4bb5b5101b1c4289d2d9f484818fb330",
+      "timestamp": 1792526615404
     }
   ],
   "momsar financial consulting services": [
@@ -15266,13 +15261,8 @@
   "m-kopa nigeria": [
     {
       "site": "JobGurus",
-      "id": "63f90b644775d900fd879d08651b69be",
-      "timestamp": 1790040235957
-    },
-    {
-      "site": "JobGurus",
-      "id": "2f497e21b5e597f844a8ff0b9911e5ea",
-      "timestamp": 1790040235957
+      "id": "b8bab5de6262f7afad2a29277017905f",
+      "timestamp": 1792526615404
     }
   ],
   "olam international limited": [
@@ -39657,6 +39647,11 @@
       "site": "JobGurus",
       "id": "6f04139e5f302b5d226a1da57bc28623",
       "timestamp": 1792513485291
+    },
+    {
+      "site": "JobGurus",
+      "id": "67c14b3044e98e4827d5c92beb5008c2",
+      "timestamp": 1792526615404
     }
   ],
   "stay & homely hotel limited": [
@@ -39664,6 +39659,13 @@
       "site": "JobGurus",
       "id": "187c5ade299d3821101125ad58a6db2a",
       "timestamp": 1792513485291
+    }
+  ],
+  "koopersmith professional services limited": [
+    {
+      "site": "JobGurus",
+      "id": "6d8e9d322b90726fb1821f2d77c76fd3",
+      "timestamp": 1792526615404
     }
   ]
 }
