@@ -18142,8 +18142,8 @@
   "dexterous applied training institute (dati)": [
     {
       "site": "JobGurus",
-      "id": "e20842f9a1ea8edb6dbf67f8a8982a85",
-      "timestamp": 1760384158357
+      "id": "8d7a807c6ff9ad1e3d2f0f8a82d64339",
+      "timestamp": 1792645757880
     }
   ],
   "amo-hr solutions": [
@@ -18493,8 +18493,8 @@
   "avocado virtual solutions": [
     {
       "site": "JobGurus",
-      "id": "281ed9ae5e0c3b019f9fe456467c615c",
-      "timestamp": 1785858744784
+      "id": "7d64be4ae83a5e1e5b3818d17fbd8a4b",
+      "timestamp": 1792645757880
     }
   ],
   "krishat pharma industries limited": [
@@ -39747,6 +39747,16 @@
       "site": "JobGurus",
       "id": "987424341291e33b0a645a0d3542c151",
       "timestamp": 1792627501694
+    },
+    {
+      "site": "JobGurus",
+      "id": "cec11ae11f369acdb1a2f114b95f6ac5",
+      "timestamp": 1792645757880
+    },
+    {
+      "site": "JobGurus",
+      "id": "629c83e0cb50b3d6cd810c493c0d11c3",
+      "timestamp": 1792645757880
     }
   ],
   "axiom intel nigeria limited": [
@@ -39759,6 +39769,13 @@
       "site": "JobGurus",
       "id": "bbec3bb0d065ea585ef5874ea56919d0",
       "timestamp": 1792627501694
+    }
+  ],
+  "keepalive ambulance": [
+    {
+      "site": "JobGurus",
+      "id": "c004c985d6a5350b409a075f43939e30",
+      "timestamp": 1792645757880
     }
   ]
 }
