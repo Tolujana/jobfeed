@@ -8185,13 +8185,8 @@
   "infratel africa": [
     {
       "site": "JobGurus",
-      "id": "b5438210c27fcf92e7c371d2b2bd4920",
-      "timestamp": 1786069557904
-    },
-    {
-      "site": "JobGurus",
-      "id": "744d93afb04d9931148901ff48d70513",
-      "timestamp": 1786563313573
+      "id": "1aa93f283032a414366ac687d7b7701d",
+      "timestamp": 1792696858125
     }
   ],
   "the civil defence, fire, immigration and prisons services board (cdfipb)": [
@@ -20032,8 +20027,8 @@
   "kanselor business innovation campus limited": [
     {
       "site": "JobGurus",
-      "id": "4265010e5f0604b947a700fc4ff4414d",
-      "timestamp": 1772739635201
+      "id": "6bd440ad2dbf894965628a43eb846ce0",
+      "timestamp": 1792696858125
     }
   ],
   "ignite africa": [
@@ -33357,13 +33352,8 @@
   "mykrogrid": [
     {
       "site": "JobGurus",
-      "id": "9d111a2e5b9811bf2ebf53092da2c401",
-      "timestamp": 1786987305033
-    },
-    {
-      "site": "JobGurus",
-      "id": "1ad71506b2d26e4368c2dc643282267d",
-      "timestamp": 1786987305033
+      "id": "625dad458e2969fde74bcd1d3870b700",
+      "timestamp": 1792696858125
     }
   ],
   "pad-up creations": [
@@ -34676,8 +34666,8 @@
   "topgate automations and controls limited": [
     {
       "site": "JobGurus",
-      "id": "1d279037a6b99c555e836ed92e26418e",
-      "timestamp": 1787158525010
+      "id": "08d4cee474a7fe0894974e3a2e82fe44",
+      "timestamp": 1792696858125
     }
   ],
   "sleek angels international schools": [
@@ -39785,6 +39775,13 @@
       "site": "JobGurus",
       "id": "e052df86be348335c020dbf6a9fea17b",
       "timestamp": 1792682827075
+    }
+  ],
+  "easy sales export nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "8d5f2b4136b105b38c75de61ac122fbb",
+      "timestamp": 1792696858125
     }
   ]
 }
