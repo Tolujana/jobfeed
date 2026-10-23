@@ -691,8 +691,8 @@
   "salpha energy limited": [
     {
       "site": "JobGurus",
-      "id": "ec8eb3c8b275367f1a1d02d09d264767",
-      "timestamp": 1787822600417
+      "id": "013eb4168031851cabf09533cc9a586d",
+      "timestamp": 1792717752393
     }
   ],
   "greensprings school": [
@@ -1517,6 +1517,11 @@
       "site": "JobGurus",
       "id": "69f2fb6f253f25ba4849ab47304d5dda",
       "timestamp": 1792708471559
+    },
+    {
+      "site": "JobGurus",
+      "id": "9cb3a6109a821ef40b3c1d4f6de10b3f",
+      "timestamp": 1792717752393
     }
   ],
   "straitpay": [
@@ -11722,13 +11727,8 @@
   "helium health": [
     {
       "site": "JobGurus",
-      "id": "b975f33201a834df418b19d23eadec4b",
-      "timestamp": 1785413425352
-    },
-    {
-      "site": "JobGurus",
-      "id": "f7b7d3ab23c8ad01596abd0df5358442",
-      "timestamp": 1785413425352
+      "id": "5300d032d9f3bf4b6e4ba4086a338373",
+      "timestamp": 1792717752393
     }
   ],
   "levitikal group": [
@@ -39794,6 +39794,11 @@
       "site": "JobGurus",
       "id": "1b7eaa0449fe475b8fdef1418dda718a",
       "timestamp": 1792708471559
+    },
+    {
+      "site": "JobGurus",
+      "id": "f3895b40cff603e6c5703a11b9b8d4ff",
+      "timestamp": 1792717752393
     }
   ],
   "beam energy limited": [
@@ -39801,6 +39806,11 @@
       "site": "JobGurus",
       "id": "a99251d9460aa59cc3c3f50fc322c266",
       "timestamp": 1792708471559
+    },
+    {
+      "site": "JobGurus",
+      "id": "0eaf4a619b1cdf6ad65dff7f9d0dccf2",
+      "timestamp": 1792717752393
     }
   ]
 }
