@@ -8009,8 +8009,8 @@
   "sayed farms limited": [
     {
       "site": "JobGurus",
-      "id": "7302af1a67a12bce64b27b2741448239",
-      "timestamp": 1776283960336
+      "id": "a2b53a17c9fc92e0994d83e074dbb902",
+      "timestamp": 1792797461361
     }
   ],
   "swift consulting limited": [
@@ -23167,13 +23167,8 @@
   "emmittex agro industry limited": [
     {
       "site": "JobGurus",
-      "id": "9fd0b0410eeceeeb29df7b7f50428397",
-      "timestamp": 1766740728790
-    },
-    {
-      "site": "JobGurus",
-      "id": "228a56d13b18f0053d0c66dfdb2dfa92",
-      "timestamp": 1766742143924
+      "id": "08710fb46b4901c1f0cd965d54ad81cc",
+      "timestamp": 1792797461361
     }
   ],
   "mentally aware nigeria": [
@@ -39846,6 +39841,23 @@
       "site": "JobGurus",
       "id": "d95ecb52004f918d0aa50cee905adf12",
       "timestamp": 1792785623245
+    }
+  ],
+  "itb nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "8da76c06447e9620e5aa1d76dce68626",
+      "timestamp": 1792797461361
+    },
+    {
+      "site": "JobGurus",
+      "id": "705960fb3cb48403b315ccef37400a55",
+      "timestamp": 1792797461361
+    },
+    {
+      "site": "JobGurus",
+      "id": "68305cc91ed786e2850bee744444a594",
+      "timestamp": 1792797461361
     }
   ]
 }
