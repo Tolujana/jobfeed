@@ -140,8 +140,8 @@
   "dangote group": [
     {
       "site": "JobGurus",
-      "id": "3b1fad2c1330dbd556cf5dc849cc9e30",
-      "timestamp": 1791495978702
+      "id": "90407974ab94b075fa5bff481e97f822",
+      "timestamp": 1792855025171
     }
   ],
   "cway group": [
@@ -515,11 +515,6 @@
   "ascentech services limited": [
     {
       "site": "JobGurus",
-      "id": "2cf86b91d40f99e1e4a924bbe8d51b6f",
-      "timestamp": 1792078070537
-    },
-    {
-      "site": "JobGurus",
       "id": "7991b07c85a3b26b7d781a25b16c9bac",
       "timestamp": 1792449128781
     },
@@ -537,6 +532,11 @@
       "site": "JobGurus",
       "id": "3abfae2faa24c425f5b07cc9442172f0",
       "timestamp": 1792616972018
+    },
+    {
+      "site": "JobGurus",
+      "id": "3fe066f8d0d4163aaf44a9bbfaabf069",
+      "timestamp": 1792855025171
     }
   ],
   "abbfem group": [
@@ -843,6 +843,11 @@
       "site": "JobGurus",
       "id": "033d0a9dbf9209dd73aa1f82332e718e",
       "timestamp": 1792785623245
+    },
+    {
+      "site": "JobGurus",
+      "id": "d932c1ab9299e4f878d2b1d2dd3d3895",
+      "timestamp": 1792855025171
     }
   ],
   "razley print limited": [
@@ -6781,8 +6786,8 @@
   "brilliant performance solutions limited": [
     {
       "site": "JobGurus",
-      "id": "86ea61c37a1cd4b814c6b45a09f0beeb",
-      "timestamp": 1791987416444
+      "id": "2f0bb114f00df4f2346f44138d13a7fb",
+      "timestamp": 1792855025171
     }
   ],
   "d-degree digital hub limited": [
@@ -39894,6 +39899,13 @@
       "site": "JobGurus",
       "id": "514832055fe92ea978c8fcbf5eb09395",
       "timestamp": 1792842510818
+    }
+  ],
+  "sumtv (super media television": [
+    {
+      "site": "JobGurus",
+      "id": "3f86429db2d2b3a267b7e302fef52229",
+      "timestamp": 1792855025171
     }
   ]
 }
