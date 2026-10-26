@@ -4061,8 +4061,8 @@
   "wts energy": [
     {
       "site": "JobGurus",
-      "id": "7303fcc08be771bf78a422ede3b2606e",
-      "timestamp": 1790349798146
+      "id": "d78c02d3fcb0d193159d4af052ea3b59",
+      "timestamp": 1793016516439
     }
   ],
   "prixair group": [
@@ -4765,8 +4765,8 @@
   "amy consulting": [
     {
       "site": "JobGurus",
-      "id": "908b22aa3b20e9371fd67f01f7f11ec0",
-      "timestamp": 1769080800451
+      "id": "77d1189344e83eaadfccf17283286039",
+      "timestamp": 1793016516439
     }
   ],
   "kennedia consulting limited": [
@@ -32778,13 +32778,8 @@
   "ifgreen industries and investment limited": [
     {
       "site": "JobGurus",
-      "id": "b48de1f2192745590502861a9528f018",
-      "timestamp": 1784985272530
-    },
-    {
-      "site": "JobGurus",
-      "id": "811683109fda06b7b3b805757a410cb0",
-      "timestamp": 1784990713303
+      "id": "28bc958b0b3968410f8892556df01369",
+      "timestamp": 1793016516439
     }
   ],
   "electra global logistics limited": [
@@ -35095,8 +35090,8 @@
   "mrt net solutions limited": [
     {
       "site": "JobGurus",
-      "id": "3dce8ac838f792026701a3e8f4688da2",
-      "timestamp": 1784905909381
+      "id": "38076bc2b40f0f2a2161757eb54415ef",
+      "timestamp": 1793016516439
     }
   ],
   "zentrix limited": [
@@ -39962,6 +39957,13 @@
       "site": "JobGurus",
       "id": "2c130104c5c82f3533664388b1edf7b8",
       "timestamp": 1792884623296
+    }
+  ],
+  "spin hive laundromat & cafe": [
+    {
+      "site": "JobGurus",
+      "id": "3f07e1dd022098ab173e57788276c327",
+      "timestamp": 1793016516439
     }
   ]
 }
