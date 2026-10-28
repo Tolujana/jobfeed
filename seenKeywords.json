@@ -5920,8 +5920,8 @@
   "jaza energy": [
     {
       "site": "JobGurus",
-      "id": "d8112cc339247eb7ddb552ebea9d453a",
-      "timestamp": 1774620675026
+      "id": "ca1a0a295f772e440c65dd2a0ec96f69",
+      "timestamp": 1793175037609
     }
   ],
   "reelfruit": [
@@ -22646,8 +22646,8 @@
   "leam consulting limited": [
     {
       "site": "JobGurus",
-      "id": "a9ad59cf6490d7eb3aa70ab5f10032bd",
-      "timestamp": 1788042024944
+      "id": "8dbb13f368dc2966496a482f548f8739",
+      "timestamp": 1793175037609
     }
   ],
   "tangerine365": [
@@ -34232,6 +34232,16 @@
       "site": "JobGurus",
       "id": "3d5dd86e31839dfc13268fbe6a8c1a4c",
       "timestamp": 1793152760357
+    },
+    {
+      "site": "JobGurus",
+      "id": "897b3cffe3071fc6e8c99e3448536e81",
+      "timestamp": 1793175037609
+    },
+    {
+      "site": "JobGurus",
+      "id": "9853b4e7eac13c17056416dc7df0842e",
+      "timestamp": 1793175037609
     }
   ],
   "sim nigeria": [
@@ -40037,6 +40047,13 @@
       "site": "JobGurus",
       "id": "7423fd7efa8779262a4fbbc833625c2e",
       "timestamp": 1793152760357
+    }
+  ],
+  "ruby premium mining and earth engineering limited": [
+    {
+      "site": "JobGurus",
+      "id": "0317daa1e2985cb8b9b04948b8a807c4",
+      "timestamp": 1793175037609
     }
   ]
 }
