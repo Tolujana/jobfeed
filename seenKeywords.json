@@ -41,8 +41,8 @@
   "dag industries nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "684888bfab78e46d382b15d964bb35f6",
-      "timestamp": 1791612599805
+      "id": "cd483609f98c6c0e6ca334c4afb972b8",
+      "timestamp": 1793200634510
     }
   ],
   "compovine technologies limited": [
@@ -15505,8 +15505,8 @@
   "artee group": [
     {
       "site": "JobGurus",
-      "id": "b8ae56fe7b7e082e8cfc21eedfa0f4f9",
-      "timestamp": 1790665982246
+      "id": "04a2434500219a8ad145e671362bd897",
+      "timestamp": 1793200634510
     }
   ],
   "mapsi group": [
@@ -40054,6 +40054,27 @@
       "site": "JobGurus",
       "id": "0317daa1e2985cb8b9b04948b8a807c4",
       "timestamp": 1793175037609
+    }
+  ],
+  "riparo nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "f3df3459ec1890695f1f2fc8c048243b",
+      "timestamp": 1793200634510
+    }
+  ],
+  "aceroyal estates": [
+    {
+      "site": "JobGurus",
+      "id": "da5f932533922cdc7548051480736efc",
+      "timestamp": 1793200634510
+    }
+  ],
+  "stsi": [
+    {
+      "site": "JobGurus",
+      "id": "0a64133c6b00f142c5dcc98c5e23732d",
+      "timestamp": 1793200634510
     }
   ]
 }
