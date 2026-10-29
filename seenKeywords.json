@@ -6754,8 +6754,8 @@
   "casalavoro limited": [
     {
       "site": "JobGurus",
-      "id": "526f7b196cf9f3b8807ad263b1cfaafa",
-      "timestamp": 1791246768951
+      "id": "463df645c168afdc29705beaf753fade",
+      "timestamp": 1793280513466
     }
   ],
   "bedmate furniture": [
@@ -14901,13 +14901,8 @@
   "class suites hotels & apartment": [
     {
       "site": "JobGurus",
-      "id": "176414a8a2192a6cf0e433ec822fb332",
-      "timestamp": 1774027940935
-    },
-    {
-      "site": "JobGurus",
-      "id": "a0fdc6cba5a06e7597ea945f9f819b56",
-      "timestamp": 1774100336606
+      "id": "e70d365b2d088d9e1074671203dd1c91",
+      "timestamp": 1793280513466
     }
   ],
   "kels global ventures": [
@@ -40101,6 +40096,20 @@
       "site": "JobGurus",
       "id": "adf122a2ee2cc410b8fa804a4035b12f",
       "timestamp": 1793254153958
+    }
+  ],
+  "mercy whyte salaon": [
+    {
+      "site": "JobGurus",
+      "id": "d607f22203f26f8ddeb50d1931ef7c54",
+      "timestamp": 1793280513466
+    }
+  ],
+  "guo logistics limited": [
+    {
+      "site": "JobGurus",
+      "id": "5a391c9cb3220cb10dcfa7c104d2e22d",
+      "timestamp": 1793280513466
     }
   ]
 }
