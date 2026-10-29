@@ -7984,8 +7984,8 @@
   "fhemfel group": [
     {
       "site": "JobGurus",
-      "id": "4b9e969c02e9767c4bac244ac97d6de0",
-      "timestamp": 1787755109632
+      "id": "daf0a2fe330b684db9d1502006e50c87",
+      "timestamp": 1793232603469
     }
   ],
   "zara & fara": [
@@ -40065,6 +40065,30 @@
       "site": "JobGurus",
       "id": "0a64133c6b00f142c5dcc98c5e23732d",
       "timestamp": 1793200634510
+    }
+  ],
+  "fhemfel homes group": [
+    {
+      "site": "JobGurus",
+      "id": "e73e7d40f16a9a754f0b2eff472fa242",
+      "timestamp": 1793232603469
+    }
+  ],
+  "mandi plate": [
+    {
+      "site": "JobGurus",
+      "id": "b2d7660cfab58eae130d8c7cca5151b4",
+      "timestamp": 1793232603469
+    },
+    {
+      "site": "JobGurus",
+      "id": "49b77721ba05a59438422d9dfddeca6d",
+      "timestamp": 1793232603469
+    },
+    {
+      "site": "JobGurus",
+      "id": "8944ab6e93bd258eafac9fb440607df1",
+      "timestamp": 1793232603469
     }
   ]
 }
