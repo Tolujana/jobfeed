@@ -15556,8 +15556,13 @@
   "crimson oak partners": [
     {
       "site": "JobGurus",
-      "id": "6a8abde389fbcf9324ac3a255a210d5d",
-      "timestamp": 1758204923491
+      "id": "386b04aea827d63179e960bbb756ac16",
+      "timestamp": 1793254153958
+    },
+    {
+      "site": "JobGurus",
+      "id": "9d34c906dde3584d5655d7fa6a9b35f4",
+      "timestamp": 1793254153958
     }
   ],
   "redeemers health village": [
@@ -23251,8 +23256,8 @@
   "lance trend limited": [
     {
       "site": "JobGurus",
-      "id": "6fe47c20c4b69f5df182e46329bd9e25",
-      "timestamp": 1779202257865
+      "id": "f5495cb21c285337ded9c61e3ba3bf1b",
+      "timestamp": 1793254153958
     }
   ],
   "triton international company limited": [
@@ -40089,6 +40094,13 @@
       "site": "JobGurus",
       "id": "8944ab6e93bd258eafac9fb440607df1",
       "timestamp": 1793232603469
+    }
+  ],
+  "kiddies oasis school": [
+    {
+      "site": "JobGurus",
+      "id": "adf122a2ee2cc410b8fa804a4035b12f",
+      "timestamp": 1793254153958
     }
   ]
 }
