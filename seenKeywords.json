@@ -1283,8 +1283,8 @@
   "catalyst path consulting": [
     {
       "site": "JobGurus",
-      "id": "2923fda2983dee39c8aa14a2befac20d",
-      "timestamp": 1789833539735
+      "id": "e66de1ab31ed7ec5ff7458f9444714a6",
+      "timestamp": 1793377728285
     }
   ],
   "jtechtrade": [
@@ -17370,8 +17370,8 @@
   "royal power and energy limited": [
     {
       "site": "JobGurus",
-      "id": "0d801bdfd6beab0580b27b453311e147",
-      "timestamp": 1770393744163
+      "id": "533465851e21e48f9891eedf3b651167",
+      "timestamp": 1793377728285
     }
   ],
   "kydal office point (kop)": [
@@ -22638,6 +22638,11 @@
       "site": "JobGurus",
       "id": "8dbb13f368dc2966496a482f548f8739",
       "timestamp": 1793175037609
+    },
+    {
+      "site": "JobGurus",
+      "id": "ba431e42f966a0f771231207657a811a",
+      "timestamp": 1793377728285
     }
   ],
   "tangerine365": [
@@ -40157,6 +40162,18 @@
       "site": "JobGurus",
       "id": "fe10b4fa9bba4b3b19803e4ef62618f7",
       "timestamp": 1793352621975
+    }
+  ],
+  "bookstars llc": [
+    {
+      "site": "JobGurus",
+      "id": "4a6d2bdd8c45bf8ff62b2eb541ee63b4",
+      "timestamp": 1793377728285
+    },
+    {
+      "site": "JobGurus",
+      "id": "688529d1d63ec9ec208a99b044ddec02",
+      "timestamp": 1793377728285
     }
   ]
 }
