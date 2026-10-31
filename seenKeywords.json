@@ -1204,8 +1204,8 @@
   "g-shoppers": [
     {
       "site": "JobGurus",
-      "id": "2475bd1d05779d23a679513864080a6e",
-      "timestamp": 1767703000364
+      "id": "a5ccfdcc70b5554bdc58a6ce39205f63",
+      "timestamp": 1793480073009
     }
   ],
   "c recruite": [
@@ -39775,18 +39775,8 @@
   "prodigy hr solutions": [
     {
       "site": "JobGurus",
-      "id": "987424341291e33b0a645a0d3542c151",
-      "timestamp": 1792627501694
-    },
-    {
-      "site": "JobGurus",
-      "id": "cec11ae11f369acdb1a2f114b95f6ac5",
-      "timestamp": 1792645757880
-    },
-    {
-      "site": "JobGurus",
-      "id": "629c83e0cb50b3d6cd810c493c0d11c3",
-      "timestamp": 1792645757880
+      "id": "d1efdb9626443c26e8de11c5bc15d00a",
+      "timestamp": 1793480073009
     }
   ],
   "axiom intel nigeria limited": [
@@ -40243,6 +40233,20 @@
       "site": "JobGurus",
       "id": "78469eb17b9fa8fc013b45f393b14ca0",
       "timestamp": 1793452520393
+    }
+  ],
+  "mosra enerji limited": [
+    {
+      "site": "JobGurus",
+      "id": "fe53bc4cf261002ee8435fcbd512bd61",
+      "timestamp": 1793480073009
+    }
+  ],
+  "easypay hr": [
+    {
+      "site": "JobGurus",
+      "id": "d82e3d4a6ae50f3978151879d2ddd49f",
+      "timestamp": 1793480073009
     }
   ]
 }
