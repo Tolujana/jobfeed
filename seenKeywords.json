@@ -5287,8 +5287,8 @@
   "paga limited": [
     {
       "site": "JobGurus",
-      "id": "36876153da11222c1b7a4f60906dded8",
-      "timestamp": 1790782370260
+      "id": "b0dca5980bacf2267d135091156c4248",
+      "timestamp": 1793490897581
     }
   ],
   "blue wave new energy technology nigeria company limited": [
@@ -9763,8 +9763,8 @@
   "careers verified": [
     {
       "site": "JobGurus",
-      "id": "52d3ce7a97c13584eb08ac530c6bc2fb",
-      "timestamp": 1790610203136
+      "id": "007fa5dbcf805d6f1566aaf29aceece7",
+      "timestamp": 1793490897581
     }
   ],
   "sygnite power and energy solutions ltd": [
@@ -40247,6 +40247,25 @@
       "site": "JobGurus",
       "id": "d82e3d4a6ae50f3978151879d2ddd49f",
       "timestamp": 1793480073009
+    }
+  ],
+  "anelpat company limited": [
+    {
+      "site": "JobGurus",
+      "id": "ef0ff07627c15de4061b2abe13dcb7a3",
+      "timestamp": 1793490897581
+    }
+  ],
+  "memento microfinance bank": [
+    {
+      "site": "JobGurus",
+      "id": "fb07e27b9e1ad45921e1758b155ccd0e",
+      "timestamp": 1793490897581
+    },
+    {
+      "site": "JobGurus",
+      "id": "600b3018a3fda305b6a63c3fd52b0396",
+      "timestamp": 1793490897581
     }
   ]
 }
