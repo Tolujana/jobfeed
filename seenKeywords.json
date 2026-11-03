@@ -6761,6 +6761,11 @@
       "site": "JobGurus",
       "id": "4e58fabe372475b6f4873a52492a2ae5",
       "timestamp": 1793393917557
+    },
+    {
+      "site": "JobGurus",
+      "id": "d5c562836eaaa2e24c4603c8c89a8808",
+      "timestamp": 1793736845342
     }
   ],
   "bedmate furniture": [
@@ -10671,6 +10676,11 @@
       "site": "JobGurus",
       "id": "21ea39559f311938f97db61b11548d97",
       "timestamp": 1793219154461
+    },
+    {
+      "site": "JobGurus",
+      "id": "d66daa52b4973092d9da2592178b79a6",
+      "timestamp": 1793736845342
     }
   ],
   "mcpeniel consultancy": [
@@ -39624,13 +39634,8 @@
   "bmhr consulting limited": [
     {
       "site": "JobGurus",
-      "id": "3c40880e7988c57698f2a794c02ec551",
-      "timestamp": 1792262490732
-    },
-    {
-      "site": "JobGurus",
-      "id": "9c7768df1cc61f59a35c9e4e7ba06233",
-      "timestamp": 1792262490732
+      "id": "9bbf8d722577375f40f44cb7f5d62d45",
+      "timestamp": 1793736845342
     }
   ],
   "amora beaute": [
@@ -40278,6 +40283,20 @@
       "site": "JobGurus",
       "id": "c425e25655932a20711b51e1033545d4",
       "timestamp": 1793712613396
+    }
+  ],
+  "metier digital solutions": [
+    {
+      "site": "JobGurus",
+      "id": "72d880f1df93e07c98b07fc93c26cdd1",
+      "timestamp": 1793736845342
+    }
+  ],
+  "easy consult": [
+    {
+      "site": "JobGurus",
+      "id": "93c2b24c107f085f2186ce489f16bf9a",
+      "timestamp": 1793736845342
     }
   ]
 }
