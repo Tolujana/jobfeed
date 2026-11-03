@@ -24,6 +24,11 @@
       "site": "JobGurus",
       "id": "a7ce9d9130c1efa2332147bbf607ac2b",
       "timestamp": 1793469038871
+    },
+    {
+      "site": "JobGurus",
+      "id": "66f8e9d4dc82b312a3d04ffc62b1bd80",
+      "timestamp": 1793712613396
     }
   ],
   "amecron nigeria limited": [
@@ -4438,13 +4443,8 @@
   "bluebrain services limited": [
     {
       "site": "JobGurus",
-      "id": "ab351acb9866b29b372ece4d3a9af28f",
-      "timestamp": 1792241268296
-    },
-    {
-      "site": "JobGurus",
-      "id": "46f012524d04e117f5bdb03d6333aa7f",
-      "timestamp": 1792241268296
+      "id": "410793d8ab12033bc92241f584e7274b",
+      "timestamp": 1793712613396
     }
   ],
   "dufil group": [
@@ -30759,8 +30759,8 @@
   "mason atlantic limited": [
     {
       "site": "JobGurus",
-      "id": "066b10ebe31b86fc7b3354b232dd1778",
-      "timestamp": 1777051681053
+      "id": "aa32960fd184530f966e8a6254b00661",
+      "timestamp": 1793712613396
     }
   ],
   "catamaran nigeria limited": [
@@ -40266,6 +40266,18 @@
       "site": "JobGurus",
       "id": "600b3018a3fda305b6a63c3fd52b0396",
       "timestamp": 1793490897581
+    }
+  ],
+  "direkci group": [
+    {
+      "site": "JobGurus",
+      "id": "578dfc3974b72864942fd165bad3facb",
+      "timestamp": 1793712613396
+    },
+    {
+      "site": "JobGurus",
+      "id": "c425e25655932a20711b51e1033545d4",
+      "timestamp": 1793712613396
     }
   ]
 }
