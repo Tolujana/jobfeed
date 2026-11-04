@@ -5022,8 +5022,8 @@
   "max drive": [
     {
       "site": "JobGurus",
-      "id": "6615ca55c600fb014014fffc789df596",
-      "timestamp": 1790645114730
+      "id": "def5b2499c6372a352390368bb84023a",
+      "timestamp": 1793753099542
     }
   ],
   "opay": [
@@ -12369,8 +12369,8 @@
   "lumos nigeria": [
     {
       "site": "JobGurus",
-      "id": "c46ebacf3aa80cbeee8dd332039d2ac5",
-      "timestamp": 1782738147164
+      "id": "2497cd1d2b57be60c6ff8b7a8efee327",
+      "timestamp": 1793753099542
     }
   ],
   "inab realty limited": [
@@ -29282,8 +29282,8 @@
   "emobella engineering nigeria limited": [
     {
       "site": "JobGurus",
-      "id": "b6dbf5b6af6f3073df4f52f63933007a",
-      "timestamp": 1774979559316
+      "id": "8db3a6652e32ee99905520772082d2f2",
+      "timestamp": 1793753099542
     }
   ],
   "platform finance company limited": [
@@ -40297,6 +40297,18 @@
       "site": "JobGurus",
       "id": "93c2b24c107f085f2186ce489f16bf9a",
       "timestamp": 1793736845342
+    }
+  ],
+  "epoxy oilserve nigeria limited": [
+    {
+      "site": "JobGurus",
+      "id": "d89f3f48392109ffae2d8b48b1185877",
+      "timestamp": 1793753099542
+    },
+    {
+      "site": "JobGurus",
+      "id": "ebdceca71657654d28842b41342cd22e",
+      "timestamp": 1793753099542
     }
   ]
 }
